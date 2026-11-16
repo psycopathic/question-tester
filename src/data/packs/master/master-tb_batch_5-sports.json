@@ -1,0 +1,1067 @@
+{
+  "TEXT_QUESTIONS": [
+    {
+      "id": "Trivia_Battle_B5_46",
+      "que": "Where are all U.S. Major League baseballs currently manufactured?",
+      "ans": {
+        "value": "Costa Rica",
+        "correct_entity": "option_b"
+      },
+      "options": [
+        "Cuba",
+        "Costa Rica",
+        "Puerto Rico"
+      ],
+      "expl": [
+        "Costa Rica hosts a Rawlings factory producing all Major League Baseballs—about 2.4 million yearly. Each lasts one game, and over 1.1 million were used by MLB teams in 2020 alone."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "Cuba",
+          "cub",
+          "coba"
+        ],
+        "option_b": [
+          "Costa Rica",
+          "costa",
+          "rica"
+        ],
+        "option_c": [
+          "Puerto Rico",
+          "puerto",
+          "rico",
+          "pierto",
+          "perto"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": ""
+    },
+    {
+      "id": "Trivia_Battle_B5_63",
+      "que": "Which country's soccer team won the 2022 FIFA World Cup?",
+      "ans": {
+        "value": "Argentina",
+        "correct_entity": "option_b"
+      },
+      "options": [
+        "France",
+        "Argentina",
+        "Croatia"
+      ],
+      "expl": [
+        "Argentina won its third World Cup in 2022, beating France 4–2 in a penalty shootout. Lionel Messi scored twice in his final World Cup, capturing his long-awaited championship title."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "France"
+        ],
+        "option_b": [
+          "Argentina",
+          "urgentina",
+          "urgent",
+          "argent"
+        ],
+        "option_c": [
+          "Croatia",
+          "crochet"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": ""
+    },
+    {
+      "id": "Trivia_Battle_B5_66",
+      "que": "What professional football team did Donald Trump own in the 1980s?",
+      "ans": {
+        "value": "New Jersey Generals",
+        "correct_entity": "option_b"
+      },
+      "options": [
+        "Chicago Blitz",
+        "New Jersey Generals",
+        "New York Jets"
+      ],
+      "expl": [
+        "Before his presidency, Donald Trump owned the New Jersey Generals of the USFL. His failed bid to merge with the NFL led to an antitrust suit and the league’s eventual collapse."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "Chicago Blitz",
+          "chica",
+          "go",
+          "blitz",
+          "blitx"
+        ],
+        "option_b": [
+          "New Jersey Generals",
+          "new jersey general",
+          "jersey generals",
+          "jersey",
+          "general",
+          "generals",
+          "new",
+          "new jersey",
+          "new generals"
+        ],
+        "option_c": [
+          "New York Jets",
+          "n. y. jet",
+          "n. y. jets",
+          "york jets",
+          "new jets",
+          "jets",
+          "jet",
+          "new york jet"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": ""
+    },
+    {
+      "id": "Trivia_Battle_B5_73",
+      "que": "Which popular game was banned in New York from 1942 to 1976?",
+      "ans": {
+        "value": "Pinball",
+        "correct_entity": "option_b"
+      },
+      "options": [
+        "Ping-Pong",
+        "Pinball",
+        "Pool"
+      ],
+      "expl": [
+        "Pinball was once considered a threat to society and prohibited in numerous U.S. cities due to its perceived association with crime and immorality. The ban was enforced until the 1970s when it was ultimately overturned."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "Ping-Pong",
+          "ping pong",
+          "ping",
+          "pong"
+        ],
+        "option_b": [
+          "Pinball",
+          "pin ball",
+          "pin",
+          "ball"
+        ],
+        "option_c": [
+          "Pool",
+          "pooling"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": ""
+    },
+    {
+      "id": "Trivia_Battle_B5_90",
+      "que": "In the game of pool, what solid color is the number 1 ball?",
+      "ans": {
+        "value": "Yellow",
+        "correct_entity": "option_c"
+      },
+      "options": [
+        "Red",
+        "Blue",
+        "Yellow"
+      ],
+      "expl": [
+        "In pool, balls 1–8 are solids and 9–15 are stripes. Each stripe’s color matches its solid pair—add 8 to find it. For example, 1 is yellow, and 9 has a yellow stripe."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "Red"
+        ],
+        "option_b": [
+          "Blue"
+        ],
+        "option_c": [
+          "Yellow"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": ""
+    },
+    {
+      "id": "Trivia_Battle_B5_93",
+      "que": "Which NFL head coach led both the Kansas City Chiefs and Philadelphia Eagles to the Super Bowl?",
+      "ans": {
+        "value": "Andy Reid",
+        "correct_entity": "option_b"
+      },
+      "options": [
+        "Buddy Ryan",
+        "Andy Reid",
+        "John Madden"
+      ],
+      "expl": [
+        "NFL coach Andy Reid has led both the Eagles and Chiefs to Super Bowl wins. If the Chiefs defeat the Eagles, he’ll become the first coach to win against a team he previously led to the Super Bowl."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "Buddy Ryan",
+          "buddy",
+          "ryan"
+        ],
+        "option_b": [
+          "Andy Reid",
+          "raid",
+          "andy",
+          "red",
+          "andy raid",
+          "andy red",
+          "reid"
+        ],
+        "option_c": [
+          "John Madden",
+          "madden",
+          "maddan",
+          "maiden",
+          "john",
+          "johnny",
+          "johny",
+          "mad"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": ""
+    },
+    {
+      "id": "Trivia_Battle_B5_94",
+      "que": "The Super Bowl trophy is named after which NFL legend?",
+      "ans": {
+        "value": "Vince Lombardi",
+        "correct_entity": "option_c"
+      },
+      "options": [
+        "John Madden",
+        "Tom Landry",
+        "Vince Lombardi"
+      ],
+      "expl": [
+        "The Super Bowl champions receive the Vince Lombardi Trophy, named after the Packers coach who won the first two Super Bowls. Crafted by Tiffany and Co., it has been awarded annually since 1971."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "John Madden",
+          "madden",
+          "maddan",
+          "maiden",
+          "john",
+          "johnny",
+          "johny",
+          "mad"
+        ],
+        "option_b": [
+          "Tom Landry",
+          "laundry",
+          "tom",
+          "landry"
+        ],
+        "option_c": [
+          "Vince Lombardi",
+          "vince",
+          "lombardi",
+          "lombard",
+          "when's lombardi"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": ""
+    },
+    {
+      "id": "Trivia_Battle_B5_106",
+      "que": "What is omitted from a typical triathlon to create a duathlon?",
+      "ans": {
+        "value": "Swimming",
+        "correct_entity": "option_a"
+      },
+      "options": [
+        "Swimming",
+        "Running",
+        "Cycling"
+      ],
+      "expl": [
+        "A duathlon is similar to a triathlon but replaces swimming with running. It features a run-bike-run format, offering a multisport challenge for athletes who prefer to stay on land rather than swim."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "Swimming"
+        ],
+        "option_b": [
+          "Running",
+          "run"
+        ],
+        "option_c": [
+          "Cycling"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": ""
+    },
+    {
+      "id": "Trivia_Battle_B5_110",
+      "que": "Which skateboarder is also known as the Birdman?",
+      "ans": {
+        "value": "Tony Hawk",
+        "correct_entity": "option_c"
+      },
+      "options": [
+        "Chris Cole",
+        "Paul Rodriguez",
+        "Tony Hawk"
+      ],
+      "expl": [
+        "Tony Hawk, nicknamed “Birdman,” is a legendary skateboarder and entrepreneur known for his high-flying aerial tricks and huge influence on modern skateboarding."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "Chris Cole",
+          "chris",
+          "cole",
+          "col",
+          "cola",
+          "christ",
+          "chri"
+        ],
+        "option_b": [
+          "Paul Rodriguez",
+          "paul",
+          "rodrigres"
+        ],
+        "option_c": [
+          "Tony Hawk",
+          "tony",
+          "hawk"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": ""
+    },
+    {
+      "id": "Trivia_Battle_B5_127",
+      "que": "Which country hosted the Winter Olympics in 2022?",
+      "ans": {
+        "value": "China",
+        "correct_entity": "option_a"
+      },
+      "options": [
+        "China",
+        "Russia",
+        "South Korea"
+      ],
+      "expl": [
+        "The 2022 Winter Olympics were held in Beijing, China. It was the first time that China hosted the Winter Olympics and the second time they hosted the Olympics after the 2008 Summer Olympics in Beijing."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "China"
+        ],
+        "option_b": [
+          "Russia"
+        ],
+        "option_c": [
+          "South Korea",
+          "south",
+          "korea",
+          "koreans"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": ""
+    },
+    {
+      "id": "Trivia_Battle_B5_131",
+      "que": "Which country has won the most FIFA World Cup titles?",
+      "ans": {
+        "value": "Brazil",
+        "correct_entity": "option_a"
+      },
+      "options": [
+        "Brazil",
+        "Germany",
+        "Italy"
+      ],
+      "expl": [
+        "Brazil, the only team in every World Cup, holds five titles and two runner-ups. Italy and Germany have four each, with Germany reaching more finals than any other team."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "Brazil"
+        ],
+        "option_b": [
+          "Germany"
+        ],
+        "option_c": [
+          "Italy",
+          "italian"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": ""
+    },
+    {
+      "id": "Trivia_Battle_B5_172",
+      "que": "Who holds the record for the most career touchdown passes in NFL history?",
+      "ans": {
+        "value": "Tom Brady",
+        "correct_entity": "option_a"
+      },
+      "options": [
+        "Tom Brady",
+        "Peyton Manning",
+        "Brett Favre"
+      ],
+      "expl": [
+        "Tom Brady holds the record for most touchdown passes and seven Super Bowl wins, making him the most successful quarterback and one of the greatest players in NFL history."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "Tom Brady",
+          "tom",
+          "brady"
+        ],
+        "option_b": [
+          "Peyton Manning",
+          "peyton",
+          "manning",
+          "meaning",
+          "peyton meaning"
+        ],
+        "option_c": [
+          "Brett Favre",
+          "brett",
+          "favre",
+          "bret"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": ""
+    },
+    {
+      "id": "Trivia_Battle_B5_173",
+      "que": "Which team has won the most World Series titles in Major League Baseball history?",
+      "ans": {
+        "value": "New York Yankees",
+        "correct_entity": "option_a"
+      },
+      "options": [
+        "New York Yankees",
+        "St. Louis Cardinals",
+        "Los Angeles Dodgers"
+      ],
+      "expl": [
+        "The New York Yankees have won 27 World Series titles, the most in MLB history. Legends like Babe Ruth, Lou Gehrig, and Derek Jeter made the Yankees a dominant baseball force."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "New York Yankees",
+          "new",
+          "york",
+          "yankees",
+          "new york yankee",
+          "n. y. yankees",
+          "n. y. yankee"
+        ],
+        "option_b": [
+          "St. Louis Cardinals",
+          "saint",
+          "louis",
+          "cardinals",
+          "st. louis",
+          "louis cardinals",
+          "louis cardinal",
+          "saint louis",
+          "saint louis cardinal",
+          "saint louis cardinals"
+        ],
+        "option_c": [
+          "Los Angeles Dodgers",
+          "los",
+          "angeles",
+          "dodgers",
+          "l. a. dodger",
+          "l. a. dodgers",
+          "los angeles dodger"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": ""
+    },
+    {
+      "id": "Trivia_Battle_B5_174",
+      "que": "Who holds the record for the most career hits in Major League Baseball?",
+      "ans": {
+        "value": "Pete Rose",
+        "correct_entity": "option_a"
+      },
+      "options": [
+        "Pete Rose",
+        "Ty Cobb",
+        "Derek Jeter"
+      ],
+      "expl": [
+        "Pete Rose, nicknamed “Charlie Hustle,” holds the MLB record for most career hits. Known for his fierce competitiveness, Rose became one of baseball’s greatest hitters."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "Pete Rose",
+          "pete",
+          "rose"
+        ],
+        "option_b": [
+          "Ty Cobb",
+          "ty",
+          "cobb",
+          "thai cobb",
+          "t. y. cobb",
+          "tie cobb",
+          "ty cob",
+          "t. y. cob",
+          "tie cob",
+          "tycoon"
+        ],
+        "option_c": [
+          "Derek Jeter",
+          "derek",
+          "jeter"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": ""
+    },
+    {
+      "id": "Trivia_Battle_B5_175",
+      "que": "Who is the most decorated Olympian of all time?",
+      "ans": {
+        "value": "Michael Phelps",
+        "correct_entity": "option_a"
+      },
+      "options": [
+        "Michael Phelps",
+        "Usain Bolt",
+        "Simone Biles"
+      ],
+      "expl": [
+        "Michael Phelps is the most decorated Olympian ever, with 28 medals, including 23 golds. His record-breaking career from 2000 to 2016 redefined greatness in Olympic swimming."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "Michael Phelps",
+          "michael",
+          "phelps"
+        ],
+        "option_b": [
+          "Usain Bolt",
+          "usain",
+          "bolt"
+        ],
+        "option_c": [
+          "Simone Biles",
+          "simone",
+          "biles",
+          "simone bile"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": ""
+    },
+    {
+      "id": "Trivia_Battle_B5_176",
+      "que": "Which country hosted the first modern Olympic Games in 1896?",
+      "ans": {
+        "value": "Greece",
+        "correct_entity": "option_a"
+      },
+      "options": [
+        "Greece",
+        "France",
+        "United States"
+      ],
+      "expl": [
+        "Greece, home of the ancient Olympics, hosted the first modern Games in 1896 in Athens. Athletes from 14 nations competed, reviving the Olympic spirit of unity and peace."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "Greece"
+        ],
+        "option_b": [
+          "France"
+        ],
+        "option_c": [
+          "United States",
+          "united",
+          "states",
+          "u. s.",
+          "u. s. a."
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": ""
+    },
+    {
+      "id": "Trivia_Battle_B5_177",
+      "que": "Who is the most decorated female swimmer in Olympic history?",
+      "ans": {
+        "value": "Jenny Thompson",
+        "correct_entity": "option_c"
+      },
+      "options": [
+        "Katie Ledecky",
+        "Missy Franklin",
+        "Jenny Thompson"
+      ],
+      "expl": [
+        "Jenny Thompson, an American swimmer, won 12 Olympic medals, including 8 golds, making her the most decorated female swimmer. Her career spanned from 1992 to 2004."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "Katie Ledecky",
+          "katie",
+          "ledecky",
+          "katy ledeki",
+          "katy ladaki",
+          "katie ladkee",
+          "k. t.",
+          "kathy ledecky"
+        ],
+        "option_b": [
+          "Missy Franklin",
+          "missy",
+          "franklin",
+          "misy"
+        ],
+        "option_c": [
+          "Jenny Thompson",
+          "jenny",
+          "thompson",
+          "jenny thomson"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": ""
+    },
+    {
+      "id": "Trivia_Battle_B5_178",
+      "que": "Which team has won the most Stanley Cup championships in NHL history?",
+      "ans": {
+        "value": "Montreal Canadiens",
+        "correct_entity": "option_a"
+      },
+      "options": [
+        "Montreal Canadiens",
+        "Toronto Maple Leafs",
+        "Detroit Red Wings"
+      ],
+      "expl": [
+        "The Montreal Canadiens hold the record for 24 Stanley Cup titles, the most in NHL history. Their rich legacy and early dominance shaped hockey tradition and success."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "Montreal Canadiens",
+          "montreal",
+          "canadiens",
+          "canadian",
+          "montreal canadian"
+        ],
+        "option_b": [
+          "Toronto Maple Leafs",
+          "toronto",
+          "maple",
+          "leafs"
+        ],
+        "option_c": [
+          "Detroit Red Wings",
+          "detroit",
+          "red",
+          "wings"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": ""
+    },
+    {
+      "id": "Trivia_Battle_B5_215",
+      "que": "What type of race is the Tour de France?",
+      "ans": {
+        "value": "Cycling",
+        "correct_entity": "option_b"
+      },
+      "options": [
+        "Marathon",
+        "Cycling",
+        "Swimming"
+      ],
+      "expl": [
+        "The Tour de France is a world-famous multi-stage cycling race held annually across France and nearby nations, covering thousands of kilometers."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "Marathon"
+        ],
+        "option_b": [
+          "Cycling"
+        ],
+        "option_c": [
+          "Swimming"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": ""
+    },
+    {
+      "id": "Trivia_Battle_B5_216",
+      "que": "Which is the only American Football team to go a whole season undefeated, including the Super Bowl?",
+      "ans": {
+        "value": "Miami Dolphins",
+        "correct_entity": "option_b"
+      },
+      "options": [
+        "New England Patriots",
+        "Miami Dolphins",
+        "Pittsburgh Steelers"
+      ],
+      "expl": [
+        "The Miami Dolphins are the only NFL team to finish a full season undefeated, achieving a perfect 17-0 record and winning the 1972 Super Bowl."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "New England Patriots",
+          "new",
+          "england",
+          "patriots",
+          "new england patriot"
+        ],
+        "option_b": [
+          "Miami Dolphins",
+          "miami",
+          "dolphins",
+          "dolphin",
+          "miami dolphin"
+        ],
+        "option_c": [
+          "Pittsburgh Steelers",
+          "pittsburgh",
+          "steelers",
+          "Pittsburgh Steeler"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": ""
+    },
+    {
+      "id": "Trivia_Battle_B5_217",
+      "que": "Raging Bull, the classic 1980 movie, is about which real-life boxer?",
+      "ans": {
+        "value": "Jake LaMotta",
+        "correct_entity": "option_c"
+      },
+      "options": [
+        "Muhammad Ali",
+        "Rocky Marciano",
+        "Jake LaMotta"
+      ],
+      "expl": [
+        "Raging Bull, directed by Martin Scorsese, tells the story of boxer Jake LaMotta, portraying his career, struggles, and turbulent personal life."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "Muhammad Ali",
+          "muhammad",
+          "ali",
+          "mohammad",
+          "mohammad ali",
+          "mohammed ali"
+        ],
+        "option_b": [
+          "Rocky Marciano",
+          "rocky",
+          "marciano"
+        ],
+        "option_c": [
+          "Jake LaMotta",
+          "jake",
+          "lamotta",
+          "jack lamotta",
+          "jet la mota",
+          "jake lamota"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": ""
+    },
+    {
+      "id": "Trivia_Battle_B5_218",
+      "que": "At the 1976 Olympic Games in Montreal, gymnast Nadia Comaneci became the first gymnast to score a perfect 10. Which country was she representing?",
+      "ans": {
+        "value": "Romania",
+        "correct_entity": "option_b"
+      },
+      "options": [
+        "United States",
+        "Romania",
+        "Soviet Union"
+      ],
+      "expl": [
+        "In 1976, Romanian gymnast Nadia Comaneci became the first to score a perfect 10 at the Olympics, making history with her flawless performances."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "United States",
+          "united",
+          "states",
+          "u. s.",
+          "u. s. a."
+        ],
+        "option_b": [
+          "Romania",
+          "roman"
+        ],
+        "option_c": [
+          "Soviet Union",
+          "soviet",
+          "union"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": ""
+    },
+    {
+      "id": "Trivia_Battle_B5_219",
+      "que": "Which country has produced the most Formula One World Championship winning drivers?",
+      "ans": {
+        "value": "United Kingdom",
+        "correct_entity": "option_c"
+      },
+      "options": [
+        "United States",
+        "Germany",
+        "United Kingdom"
+      ],
+      "expl": [
+        "The United Kingdom has produced the most Formula One World Champions, including Lewis Hamilton, Jackie Stewart, and Nigel Mansell."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "United States",
+          "united",
+          "states",
+          "u. s.",
+          "u. s. a."
+        ],
+        "option_b": [
+          "Germany"
+        ],
+        "option_c": [
+          "United Kingdom",
+          "united",
+          "kingdom",
+          "u. k."
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": ""
+    },
+    {
+      "id": "Trivia_Battle_B5_220",
+      "que": "How long is an Olympic-size swimming pool in meters?",
+      "ans": {
+        "value": "50",
+        "correct_entity": "option_b"
+      },
+      "options": [
+        "25",
+        "50",
+        "100"
+      ],
+      "expl": [
+        "An Olympic-size swimming pool measures 50 meters long, the standard used in international competitions for fairness and world record attempts."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "25",
+          "two five",
+          "twenty five"
+        ],
+        "option_b": [
+          "50",
+          "five zero",
+          "fifty"
+        ],
+        "option_c": [
+          "100",
+          "hundred",
+          "one hundred",
+          "one zero zero"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": ""
+    },
+    {
+      "id": "Trivia_Battle_B5_238",
+      "que": "In which sport would you compete for the Swaythling Cup?",
+      "ans": {
+        "value": "Table Tennis",
+        "correct_entity": "option_b"
+      },
+      "options": [
+        "Soccer",
+        "Table Tennis",
+        "Rugby"
+      ],
+      "expl": [
+        "The Swaythling Cup, first awarded in 1926, honors the best men’s table tennis team at the World Championships. It’s named after Sir George Swaythling, founding president of the ITTF."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "Soccer"
+        ],
+        "option_b": [
+          "Table Tennis",
+          "table",
+          "tennis"
+        ],
+        "option_c": [
+          "Rugby",
+          "rugbee"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": ""
+    },
+    {
+      "id": "Trivia_Battle_B5_244",
+      "que": "What is the length of a bowling alley lane in feet?",
+      "ans": {
+        "value": "60",
+        "correct_entity": "option_b"
+      },
+      "options": [
+        "40",
+        "60",
+        "80"
+      ],
+      "expl": [
+        "A standard bowling lane measures 60 feet from the foul line to the head pin. This distance ensures fair play, consistent technique, and proper ball movement for all bowlers."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "40",
+          "four zero",
+          "fourty",
+          "forty"
+        ],
+        "option_b": [
+          "60",
+          "sixty",
+          "six zero"
+        ],
+        "option_c": [
+          "80",
+          "eighty"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": ""
+    },
+    {
+      "id": "Trivia_Battle_B5_266",
+      "que": "Which team won the first-ever Super Bowl?",
+      "ans": {
+        "value": "Green Bay Packers",
+        "correct_entity": "option_a"
+      },
+      "options": [
+        "Green Bay Packers",
+        "Kansas City Chiefs",
+        "New England Patriots"
+      ],
+      "expl": [
+        "The Green Bay Packers won the first Super Bowl on January 15, 1967, defeating the Kansas City Chiefs 35–10. Led by coach Vince Lombardi, they made football history."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "Green Bay Packers",
+          "green",
+          "bay",
+          "packers",
+          "green bay packer"
+        ],
+        "option_b": [
+          "Kansas City Chiefs",
+          "kansas",
+          "city",
+          "chiefs",
+          "kansas city chief"
+        ],
+        "option_c": [
+          "New England Patriots",
+          "new",
+          "england",
+          "patriots",
+          "new england patriot"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": ""
+    }
+  ],
+  "IMAGE_QUESTIONS": [],
+  "AUDIO_QUESTIONS": []
+}

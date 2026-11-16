@@ -1,0 +1,600 @@
+{
+  "TEXT_QUESTIONS": [
+    {
+      "id": "animal_B2_1",
+      "que": "Which animal is known for its ability to change its color to blend with its surroundings?",
+      "ans": {
+        "value": "Chameleon",
+        "correct_entity": "option_a"
+      },
+      "options": [
+        "Chameleon",
+        "Koala",
+        "Gorilla"
+      ],
+      "expl": [
+        "Chameleons are famous for their color-changing ability. They have specialized cells in their skin called chromatophores that allow them to alter their appearance to match their environment or communicate with other chameleons."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "Chameleon",
+          "a chameleon"
+        ],
+        "option_b": [
+          "Koala",
+          "koalas",
+          "koyla"
+        ],
+        "option_c": [
+          "Gorilla",
+          "gorillas"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": ""
+    },
+    {
+      "id": "animal_B2_2",
+      "que": "What is the largest species of snake?",
+      "ans": {
+        "value": "Anaconda",
+        "correct_entity": "option_a"
+      },
+      "options": [
+        "Anaconda",
+        "King Cobra",
+        "Reticulated python"
+      ],
+      "expl": [
+        "The anaconda holds the title of being the largest species of snake. They can grow up to 30 feet long and are super strong. They love swimming in rivers and swamps and can hold their breath underwater for a long time. They even have special nostrils that close when they dive underwater!"
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "Anaconda"
+        ],
+        "option_b": [
+          "King Cobra",
+          "king",
+          "cobra"
+        ],
+        "option_c": [
+          "Reticulated python",
+          "reticulated",
+          "python"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": ""
+    },
+    {
+      "id": "animal_B2_3",
+      "que": "Which big cat is renowned for its ability to swim and hunt in water?",
+      "ans": {
+        "value": "Jaguar",
+        "correct_entity": "option_c"
+      },
+      "options": [
+        "Tiger",
+        "Leopard",
+        "Jaguar"
+      ],
+      "expl": [
+        "Jaguars are awesome swimmers and unlike other big cats, they hunt in the water too! They can catch fish, turtles, and other water animals. Jaguars have super strong jaws and the most powerful bite of any big cat, so they can easily take down their prey, even piercing through their skulls!"
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "Tiger",
+          "tigers"
+        ],
+        "option_b": [
+          "Leopard"
+        ],
+        "option_c": [
+          "Jaguar",
+          "jaguars"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": ""
+    },
+    {
+      "id": "animal_B2_4",
+      "que": "Which bird is known for its unique courtship dance, characterized by an intricate series of steps and displays?",
+      "ans": {
+        "value": "Flamingo",
+        "correct_entity": "option_b"
+      },
+      "options": [
+        "Peacock",
+        "Flamingo",
+        "Emu"
+      ],
+      "expl": [
+        "Flamingos are known for their elaborate courtship dances, performed to attract a mate. These displays involve synchronized group movements, wing flapping, and vocalizations."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "Peacock",
+          "peacocks",
+          "pee cock"
+        ],
+        "option_b": [
+          "Flamingo"
+        ],
+        "option_c": [
+          "Emu",
+          "emus"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": ""
+    },
+    {
+      "id": "animal_B2_5",
+      "que": "What is a dog's permanent tooth count?",
+      "ans": {
+        "value": "42",
+        "correct_entity": "option_c"
+      },
+      "options": [
+        "24",
+        "30",
+        "42"
+      ],
+      "expl": [
+        "A dog typically has 42 permanent teeth. These teeth include incisors, canines, premolars, and molars. The number and arrangement of teeth can vary slightly depending on the breed, but most dogs have 42 teeth by the time they reach adulthood."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "24",
+          "two four",
+          "twenty four"
+        ],
+        "option_b": [
+          "30",
+          "thirty",
+          "three zero"
+        ],
+        "option_c": [
+          "42",
+          "four two",
+          "forty two"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": ""
+    },
+    {
+      "id": "animal_B2_6",
+      "que": "What species of fish is Nemo?",
+      "ans": {
+        "value": "Clownfish",
+        "correct_entity": "option_a"
+      },
+      "options": [
+        "Clownfish",
+        "Angelfish",
+        "Pufferfish"
+      ],
+      "expl": [
+        "Nemo, the popular animated character from the movie \"Finding Nemo,\" is a clownfish. Clownfish are small, brightly colored fish known for their unique symbiotic relationship with sea anemones. They have become a favorite among marine enthusiasts and fans of the film."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "Clownfish",
+          "clown fish"
+        ],
+        "option_b": [
+          "Angelfish",
+          "angel fish"
+        ],
+        "option_c": [
+          "Pufferfish",
+          "puffer fish",
+          "puferfish",
+          "pufer fish"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": ""
+    },
+    {
+      "id": "animal_B2_7",
+      "que": "What animal has the biggest eyes?",
+      "ans": {
+        "value": "Colossal Squid",
+        "correct_entity": "option_c"
+      },
+      "options": [
+        "Chameleon",
+        "Ostrich",
+        "Colossal Squid"
+      ],
+      "expl": [
+        "The animal with the largest eyes in the animal kingdom is the Colossal Squid. These deep-sea creatures have eyes that can reach up to 11 inches (28 centimeters) in diameter. Their large eyes help them spot prey and navigate the ocean's dark depths."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "Chameleon",
+          "kameleon"
+        ],
+        "option_b": [
+          "Ostrich"
+        ],
+        "option_c": [
+          "Colossal Squid",
+          "colossal",
+          "squid",
+          "squids"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": ""
+    },
+    {
+      "id": "animal_B2_8",
+      "que": "What animal breathes through its butt?",
+      "ans": {
+        "value": "Sea Cucumber",
+        "correct_entity": "option_c"
+      },
+      "options": [
+        "Turtle",
+        "Frog",
+        "Sea Cucumber"
+      ],
+      "expl": [
+        "The Sea Cucumber has a unique ability to breathe through its anus. It uses a process called cloacal respiration, where it takes in oxygen-rich water through its rear end. This adaptation allows the Sea Cucumber to survive in low-oxygen environments, such as burrows or sediment-rich habitats."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "Turtle",
+          "turtles"
+        ],
+        "option_b": [
+          "Frog"
+        ],
+        "option_c": [
+          "Sea Cucumber",
+          "sea",
+          "cucumber",
+          "see cucumber",
+          "see",
+          "c. cucumber"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": ""
+    },
+    {
+      "id": "animal_B2_9",
+      "que": "What kind of animal is a woolly bear?",
+      "ans": {
+        "value": "Insect",
+        "correct_entity": "option_b"
+      },
+      "options": [
+        "Bird",
+        "Insect",
+        "Mammal"
+      ],
+      "expl": [
+        "A woolly bear is actually the caterpillar of a moth species called Pyrrharctia isabella. It is commonly found in North America. The woolly bear caterpillar has a distinctive appearance with black and reddish-brown bands. It belongs to the insect category, specifically a type of caterpillar, before transforming into a moth."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "Bird",
+          "birds"
+        ],
+        "option_b": [
+          "Insect"
+        ],
+        "option_c": [
+          "Mammal",
+          "mammals"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": ""
+    },
+    {
+      "id": "animal_B2_10",
+      "que": "What is the collective noun for a group of pandas?",
+      "ans": {
+        "value": "embarrassment",
+        "correct_entity": "option_c"
+      },
+      "options": [
+        "pack",
+        "cluster",
+        "embarrassment"
+      ],
+      "expl": [
+        "The correct collective noun for a group of pandas is \"an embarrassment.\" This term originates from the 19th century, referring to a social group causing disturbance or confusion. It suits pandas' shy and elusive nature, adding charm to their identity. It's a playful and fitting description, considering their adorable and clumsy behavior."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "pack",
+          "packs"
+        ],
+        "option_b": [
+          "cluster",
+          "clusters"
+        ],
+        "option_c": [
+          "embarrassment",
+          "embarrassments"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": ""
+    },
+    {
+      "id": "animal_B2_11",
+      "que": "What animal's name comes from a Greek word meaning water horse?",
+      "ans": {
+        "value": "Seahorse",
+        "correct_entity": "option_c"
+      },
+      "options": [
+        "Dolphin",
+        "Hippopotamus",
+        "Seahorse"
+      ],
+      "expl": [
+        "The seahorse gets its name from the Greek words \"hippos\" and \"kampos,\" meaning sea monster and horse respectively. Its horse-like head and ocean habitat influenced its name, which draws upon Greek mythology. Although dolphins and hippopotamuses are also water-related, their names don't originate from the Greek term for a water horse."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "Dolphin",
+          "Dolphins"
+        ],
+        "option_b": [
+          "Hippopotamus"
+        ],
+        "option_c": [
+          "Seahorse",
+          "see horse",
+          "sea horse"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": ""
+    },
+    {
+      "id": "animal_B2_12",
+      "que": "What land animal has the highest blood pressure?",
+      "ans": {
+        "value": "Giraffe",
+        "correct_entity": "option_b"
+      },
+      "options": [
+        "African Elephant",
+        "Giraffe",
+        "Arctic Wolf"
+      ],
+      "expl": [
+        "Giraffes possess the highest blood pressure in land animals, essential for pumping blood to their brains through long necks. Their pressure peaks at 280/180 mmHg, overcoming gravitational challenges posed by their height. This adaptation ensures uninterrupted blood flow, averting complications like fainting."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "African Elephant",
+          "african",
+          "elephant"
+        ],
+        "option_b": [
+          "Giraffe",
+          "Giraffes"
+        ],
+        "option_c": [
+          "Arctic Wolf",
+          "arctic",
+          "wolf"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": ""
+    },
+    {
+      "id": "animal_B2_13",
+      "que": "What is a group of rats called?",
+      "ans": {
+        "value": "Mischief",
+        "correct_entity": "option_c"
+      },
+      "options": [
+        "Pack",
+        "Swarm",
+        "Mischief"
+      ],
+      "expl": [
+        "A group of rats is commonly referred to as a mischief because they can be sneaky and clever. hey like to hang out together and do mischievous things. So, when you see a group of rats, you can call it a mischief!"
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "Pack",
+          "packs"
+        ],
+        "option_b": [
+          "Swarm"
+        ],
+        "option_c": [
+          "Mischief"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": ""
+    },
+    {
+      "id": "animal_B2_14",
+      "que": "Cynophobia is the fear of what animal?",
+      "ans": {
+        "value": "Dogs",
+        "correct_entity": "option_c"
+      },
+      "options": [
+        "Cats",
+        "Bird",
+        "Dogs"
+      ],
+      "expl": [
+        "Cynophobia is the fear of dogs. It causes intense anxiety and avoidance of dog-related situations. Traumatic experiences or cultural factors can contribute to this fear. Support and understanding are important in helping individuals overcome cynophobia and manage their fears."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "Cats",
+          "cat",
+          "catch"
+        ],
+        "option_b": [
+          "Bird",
+          "birds"
+        ],
+        "option_c": [
+          "Dogs",
+          "dog"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": ""
+    },
+    {
+      "id": "animal_B2_15",
+      "que": "What is the only bird that can fly backwards?",
+      "ans": {
+        "value": "Hummingbird",
+        "correct_entity": "option_b"
+      },
+      "options": [
+        "Eagle",
+        "Hummingbird",
+        "Owl"
+      ],
+      "expl": [
+        "Hummingbirds are the only birds that can fly backwards. They have special wings and can beat them really fast, so they can hover and even go in reverse. Hummingbirds are super nimble and can move any way they want, which makes them the only birds that can do this cool flying trick!"
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "Eagle",
+          "eagles"
+        ],
+        "option_b": [
+          "Hummingbird",
+          "humming bird",
+          "humming",
+          "bird"
+        ],
+        "option_c": [
+          "Owl",
+          "owls"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": ""
+    },
+    {
+      "id": "animal_B2_16",
+      "que": "How many legs does a butterfly have?",
+      "ans": {
+        "value": "Six",
+        "correct_entity": "option_b"
+      },
+      "options": [
+        "Four",
+        "Six",
+        "Eight"
+      ],
+      "expl": [
+        "Butterflies have six legs for walking and gripping. The front legs are shorter and held close, while the middle and hind legs are longer for moving around. Unlike other insects, butterflies can't walk on their legs alone; they also use their proboscis to help them balance."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "Four",
+          "4"
+        ],
+        "option_b": [
+          "Six",
+          "6"
+        ],
+        "option_c": [
+          "Eight",
+          "8"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": ""
+    },
+    {
+      "id": "animal_B2_17",
+      "que": "What is the fastest fish in the ocean?",
+      "ans": {
+        "value": "Sailfish",
+        "correct_entity": "option_b"
+      },
+      "options": [
+        "Marlin",
+        "Sailfish",
+        "Tuna"
+      ],
+      "expl": [
+        "The sailfish is the fastest fish in the ocean, reaching speeds of up to 68 mph. With a slender body and large dorsal fin, it excels in speed and agility. Streamlined shape, powerful muscles enable swift swimming and effortless prey capture. Surpassing marlin and tuna, the sailfish reigns supreme."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "Marlin",
+          "merlin"
+        ],
+        "option_b": [
+          "Sailfish",
+          "cell fish",
+          "sell fish",
+          "sail fish",
+          "sale fish",
+          "selfish",
+          "selfie"
+        ],
+        "option_c": [
+          "Tuna"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": ""
+    }
+  ],
+  "IMAGE_QUESTIONS": [],
+  "AUDIO_QUESTIONS": []
+}

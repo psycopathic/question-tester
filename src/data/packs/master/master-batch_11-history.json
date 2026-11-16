@@ -1,0 +1,2881 @@
+{
+  "TEXT_QUESTIONS": [
+    {
+      "id": "HIS_TEXT_01",
+      "que": "Which queen ruled England during the defeat of the Spanish Armada in 1588?",
+      "ans": {
+        "value": "Elizabeth I",
+        "correct_entity": "option_b"
+      },
+      "options": [
+        "Victoria",
+        "Elizabeth I",
+        "Anne"
+      ],
+      "expl": [
+        "Queen Elizabeth I ruled England during the defeat of the Spanish Armada in 1588. Elizabeth I's 45-year reign is often called England's \"Golden Age.\" Her rule saw a flourishing of English literature, exploration, and naval power. She never married, earning her the nickname the \"Virgin Queen.\""
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "Victoria"
+        ],
+        "option_b": [
+          "Elizabeth I",
+          "elizabeth first",
+          "elizabeth one",
+          "elizabeth the first",
+          "elizabeth"
+        ],
+        "option_c": [
+          "Anne",
+          "anna"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": "",
+      "roundType": "text"
+    },
+    {
+      "id": "HIS_TEXT_02",
+      "que": "Which ancient civilization built the mountain city of Machu Picchu?",
+      "ans": {
+        "value": "Inca",
+        "correct_entity": "option_c"
+      },
+      "options": [
+        "Maya",
+        "Aztec",
+        "Inca"
+      ],
+      "expl": [
+        "The Inca civilization built the mountain city of Machu Picchu. Machu Picchu was built in the 15th century and was never found by the Spanish conquistadors. It sits high in the Andes Mountains of present-day Peru. The site was rediscovered by the outside world in 1911 by explorer Hiram Bingham."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "Maya"
+        ],
+        "option_b": [
+          "Aztec",
+          "aesthetic",
+          "hashtag"
+        ],
+        "option_c": [
+          "Inca"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": "",
+      "roundType": "text"
+    },
+    {
+      "id": "HIS_TEXT_03",
+      "que": "In which century did the famous ship Titanic sink?",
+      "ans": {
+        "value": "20th century",
+        "correct_entity": "option_b"
+      },
+      "options": [
+        "19th century",
+        "20th century",
+        "21st century"
+      ],
+      "expl": [
+        "The Titanic sank in the 20th century. The Titanic sank in April 1912 after hitting an iceberg on its very first voyage. It was considered one of the largest and most luxurious ships of its time. Over 1,500 people died in the disaster, making it one of the deadliest peacetime maritime tragedies."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "19th century",
+          "nineteenth century",
+          "nineteen century"
+        ],
+        "option_b": [
+          "20th century",
+          "twentieth century",
+          "twenty th century"
+        ],
+        "option_c": [
+          "21st century",
+          "twentyfirst century",
+          "twenty first century",
+          "twentyone century",
+          "twenty one century"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": "",
+      "roundType": "text"
+    },
+    {
+      "id": "HIS_TEXT_04",
+      "que": "Which young Egyptian pharaoh's tomb, found nearly intact in 1922, made him world-famous?",
+      "ans": {
+        "value": "Tutankhamun",
+        "correct_entity": "option_b"
+      },
+      "options": [
+        "Ramesses II",
+        "Tutankhamun",
+        "Akhenaten"
+      ],
+      "expl": [
+        "The young Egyptian pharaoh whose tomb, found nearly intact in 1922, made him world-famous is Tutankhamun. Tutankhamun became pharaoh at around age nine and died in his late teens. His tomb was discovered by archaeologist Howard Carter in the Valley of the Kings. The tomb's treasures, including his golden death mask, remain some of the most famous artifacts in the world."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "Ramesses II"
+        ],
+        "option_b": [
+          "Tutankhamun"
+        ],
+        "option_c": [
+          "Akhenaten"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": "",
+      "roundType": "text"
+    },
+    {
+      "id": "HIS_TEXT_05",
+      "que": "Which vast empire was founded and ruled by Genghis Khan?",
+      "ans": {
+        "value": "Mongol Empire",
+        "correct_entity": "option_c"
+      },
+      "options": [
+        "Ottoman Empire",
+        "Persian Empire",
+        "Mongol Empire"
+      ],
+      "expl": [
+        "The Mongol Empire was founded and ruled by Genghis Khan. At its peak, the Mongol Empire was the largest contiguous land empire in history. It stretched from Eastern Europe to the Sea of Japan. Genghis Khan united many nomadic tribes of Central Asia before launching his conquests."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "Ottoman Empire",
+          "ottoman"
+        ],
+        "option_b": [
+          "Persian Empire",
+          "persian"
+        ],
+        "option_c": [
+          "Mongol Empire",
+          "mongol",
+          "mongolian",
+          "mongolian empire"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": "",
+      "roundType": "text"
+    },
+    {
+      "id": "HIS_TEXT_06",
+      "que": "In which year did humans first land on the Moon?",
+      "ans": {
+        "value": "1969",
+        "correct_entity": "option_b"
+      },
+      "options": [
+        "1965",
+        "1969",
+        "1972"
+      ],
+      "expl": [
+        "Humans first landed on the Moon in 1969. Apollo 11 astronaut Neil Armstrong became the first person to walk on the Moon. He was joined by fellow astronaut Buzz Aldrin during the historic moonwalk. The Apollo 11 mission was watched by an estimated 600 million people worldwide."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "1965",
+          "nineteen sixty five",
+          "ninteen hundred and sixty five",
+          "nineteen hundred sixty five"
+        ],
+        "option_b": [
+          "1969",
+          "nineteen sixty nine",
+          "nineteen hundred and sixty nine",
+          "nineteen hundred sixty nine"
+        ],
+        "option_c": [
+          "1972",
+          "nineteen seventy two",
+          "nineteen hundred and seventy two",
+          "nineteen hundred seventy two"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": "",
+      "roundType": "text"
+    },
+    {
+      "id": "HIS_TEXT_07",
+      "que": "Which document, signed in 1215, limited the power of English kings?",
+      "ans": {
+        "value": "Magna Carta",
+        "correct_entity": "option_b"
+      },
+      "options": [
+        "Bill of Rights",
+        "Magna Carta",
+        "Declaration of Independence"
+      ],
+      "expl": [
+        "The Magna Carta, signed in 1215, limited the power of English kings. The Magna Carta is considered one of the earliest steps toward modern constitutional law. It was signed by King John under pressure from rebellious barons. Several of its principles still influence modern legal systems, including the right to a fair trial."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "Bill of Rights",
+          "bill of right",
+          "bills of rights",
+          "bills of right"
+        ],
+        "option_b": [
+          "Magna Carta",
+          "magna",
+          "carta"
+        ],
+        "option_c": [
+          "Declaration of Independence",
+          "independence"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": "",
+      "roundType": "text"
+    },
+    {
+      "id": "HIS_TEXT_08",
+      "que": "In which year did World War Two end?",
+      "ans": {
+        "value": "1945",
+        "correct_entity": "option_a"
+      },
+      "options": [
+        "1945",
+        "1939",
+        "1950"
+      ],
+      "expl": [
+        "World War Two ended in 1945. The war in Europe ended in May 1945, and in the Pacific that September. It remains the deadliest conflict in human history, involving over 30 countries. The war ended in the Pacific after atomic bombs were dropped on Hiroshima and Nagasaki. The United Nations was founded shortly after the war to help maintain global peace."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "1945",
+          "nineteen forty five",
+          "nineteen hundred and forty five"
+        ],
+        "option_b": [
+          "1939",
+          "nineteen thirty nine",
+          "nineteen hundred and thirty nine"
+        ],
+        "option_c": [
+          "1950",
+          "nineteen fifty",
+          "nineteen hundred and fifty"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": "",
+      "roundType": "text"
+    },
+    {
+      "id": "HIS_TEXT_09",
+      "que": "Who was the first President of the United States?",
+      "ans": {
+        "value": "George Washington",
+        "correct_entity": "option_a"
+      },
+      "options": [
+        "George Washington",
+        "John Adams",
+        "Abraham Lincoln"
+      ],
+      "expl": [
+        "George Washington was the first President of the United States. He served two terms and chose not to run for a third. Washington set many precedents still followed by US presidents today. He commanded the Continental Army during the American Revolutionary War. Washington, D.C., the nation's capital, is named in his honor."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "George Washington",
+          "george",
+          "washington"
+        ],
+        "option_b": [
+          "John Adams",
+          "john",
+          "adams",
+          "johan adams",
+          "john adam"
+        ],
+        "option_c": [
+          "Abraham Lincoln",
+          "abraham",
+          "lincoln"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": "",
+      "roundType": "text"
+    },
+    {
+      "id": "HIS_TEXT_10",
+      "que": "The ancient pyramids of Giza were built in which country?",
+      "ans": {
+        "value": "Egypt",
+        "correct_entity": "option_b"
+      },
+      "options": [
+        "Mexico",
+        "Egypt",
+        "Peru"
+      ],
+      "expl": [
+        "The ancient pyramids of Giza were built in Egypt. The Great Pyramid was the tallest man-made structure for over 3,800 years. They were built as tombs for pharaohs during Egypt's Old Kingdom. The Great Pyramid alone is estimated to contain over 2 million stone blocks. The Great Sphinx, with a lion's body and human head, stands guard nearby."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "Mexico"
+        ],
+        "option_b": [
+          "Egypt"
+        ],
+        "option_c": [
+          "Peru"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": "",
+      "roundType": "text"
+    },
+    {
+      "id": "HIS_TEXT_11",
+      "que": "Julius Caesar ruled which ancient empire?",
+      "ans": {
+        "value": "Roman Empire",
+        "correct_entity": "option_b"
+      },
+      "options": [
+        "Ottoman Empire",
+        "Roman Empire",
+        "Byzantine Empire"
+      ],
+      "expl": [
+        "Julius Caesar ruled the Roman Empire, technically the late Roman Republic. Caesar was assassinated in 44 BCE by a group of Roman senators. He significantly expanded Roman territory through his conquest of Gaul. Caesar's rise to power helped pave the way for the Roman Empire under his successor, Augustus. The month of July is named after Julius Caesar."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "Ottoman Empire",
+          "ottoman",
+          "auto man",
+          "automan",
+          "automan empire"
+        ],
+        "option_b": [
+          "Roman Empire",
+          "roman"
+        ],
+        "option_c": [
+          "Byzantine Empire",
+          "persian"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": "",
+      "roundType": "text"
+    },
+    {
+      "id": "HIS_TEXT_12",
+      "que": "In which year did the Berlin Wall fall?",
+      "ans": {
+        "value": "1989",
+        "correct_entity": "option_a"
+      },
+      "options": [
+        "1989",
+        "1985",
+        "1993"
+      ],
+      "expl": [
+        "The Berlin Wall fell in 1989. It had divided East and West Berlin for 28 years. Its collapse symbolized the end of the Cold War in Europe. The wall was built in 1961 to stop East Germans from fleeing to the West. Germany officially reunified less than a year after the wall came down, in 1990."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "1989",
+          "nineteen eighty nine",
+          "nineteen hundred eighty nine",
+          "nineteen hundred and eighty nine"
+        ],
+        "option_b": [
+          "1985",
+          "nineteen eighty five",
+          "nineteen hundred and eighty five",
+          "nineteen hundred eighty five"
+        ],
+        "option_c": [
+          "1993",
+          "nineteen ninety three",
+          "nineteen hundred and ninety three",
+          "nineteen hundred ninety three"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": "",
+      "roundType": "text"
+    },
+    {
+      "id": "HIS_TEXT_13",
+      "que": "Which explorer is credited with reaching the Americas in 1492?",
+      "ans": {
+        "value": "Christopher Columbus",
+        "correct_entity": "option_a"
+      },
+      "options": [
+        "Christopher Columbus",
+        "Vasco da Gama",
+        "Marco Polo"
+      ],
+      "expl": [
+        "Christopher Columbus is credited with reaching the Americas in 1492. He never actually set foot on the North American mainland. Columbus was seeking a westward route to Asia when he encountered the Caribbean instead. His voyages opened the door to centuries of European exploration and colonization. Columbus made four voyages across the Atlantic in total."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "Christopher Columbus",
+          "christopher",
+          "columbus"
+        ],
+        "option_b": [
+          "Vasco da Gama"
+        ],
+        "option_c": [
+          "Marco Polo",
+          "marco",
+          "polo"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": "",
+      "roundType": "text"
+    },
+    {
+      "id": "HIS_TEXT_14",
+      "que": "Which ancient wonder was located in the Egyptian city of Giza?",
+      "ans": {
+        "value": "Great Pyramid",
+        "correct_entity": "option_b"
+      },
+      "options": [
+        "Hanging Gardens",
+        "Great Pyramid",
+        "Lighthouse of Alexandria"
+      ],
+      "expl": [
+        "The Great Pyramid of Giza is the ancient wonder located there. It's the only one of the Seven Wonders of the Ancient World still standing today. It was built as a tomb for the pharaoh Khufu around 2560 BCE. The pyramid originally stood about 146 meters tall. It's estimated to have taken around 20 years to build."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "Hanging Gardens",
+          "hanging garden"
+        ],
+        "option_b": [
+          "Great Pyramid",
+          "pyramid"
+        ],
+        "option_c": [
+          "Lighthouse of Alexandria",
+          "alexandria",
+          "lighthouse"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": "",
+      "roundType": "text"
+    },
+    {
+      "id": "HIS_TEXT_15",
+      "que": "Which explorer led the first expedition to circumnavigate the globe, though he died partway through the voyage?",
+      "ans": {
+        "value": "Ferdinand Magellan",
+        "correct_entity": "option_b"
+      },
+      "options": [
+        "Christopher Columbus",
+        "Ferdinand Magellan",
+        "Vasco da Gama"
+      ],
+      "expl": [
+        "Ferdinand Magellan led the first expedition to circumnavigate the globe, though he died partway through the voyage. Magellan died in the Philippines, but his crew completed the voyage without him. His expedition set out from Spain in 1519 in search of a westward route to the Spice Islands. The surviving ships returned to Spain in 1522, completing the first known circumnavigation of the Earth."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "Christopher Columbus",
+          "christopher",
+          "columbus"
+        ],
+        "option_b": [
+          "Ferdinand Magellan",
+          "ferdinand",
+          "magellan"
+        ],
+        "option_c": [
+          "Vasco da Gama"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": "",
+      "roundType": "text"
+    },
+    {
+      "id": "HIS_TEXT_16",
+      "que": "Which ancient Egyptian library was one of the largest and most significant in the ancient world?",
+      "ans": {
+        "value": "Library of Alexandria",
+        "correct_entity": "option_a"
+      },
+      "options": [
+        "Library of Alexandria",
+        "Library of Pergamon",
+        "Library of Nineveh"
+      ],
+      "expl": [
+        "The Library of Alexandria was one of the largest and most significant libraries in the ancient world. The library is believed to have housed hundreds of thousands of scrolls. It was located in Alexandria, Egypt, and attracted scholars from across the ancient Mediterranean. Much of its collection was lost over time due to fires, conflict, and neglect."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "Library of Alexandria",
+          "alexandria"
+        ],
+        "option_b": [
+          "Library of Pergamon",
+          "pergamon"
+        ],
+        "option_c": [
+          "Library of Nineveh",
+          "nineveh"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": "",
+      "roundType": "text"
+    },
+    {
+      "id": "HIS_TEXT_17",
+      "que": "Who served as British Prime Minister for most of World War Two?",
+      "ans": {
+        "value": "Winston Churchill",
+        "correct_entity": "option_b"
+      },
+      "options": [
+        "Neville Chamberlain",
+        "Winston Churchill",
+        "Clement Attlee"
+      ],
+      "expl": [
+        "Winston Churchill served as British Prime Minister for most of World War Two. Churchill was also a Nobel Prize winner in Literature for his writing. He is remembered for his powerful speeches that rallied Britain during the war. Churchill served two separate terms as Prime Minister, before and after the war years."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "Neville Chamberlain",
+          "neville",
+          "chamberlain",
+          "navel",
+          "navel chamberlain"
+        ],
+        "option_b": [
+          "Winston Churchill",
+          "winston",
+          "churchill"
+        ],
+        "option_c": [
+          "Clement Attlee",
+          "clement",
+          "attlee"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": "",
+      "roundType": "text"
+    },
+    {
+      "id": "HIS_TEXT_18",
+      "que": "Which 1789 event, involving the storming of a Paris prison, is seen as the start of the French Revolution?",
+      "ans": {
+        "value": "Storming of the Bastille",
+        "correct_entity": "option_a"
+      },
+      "options": [
+        "Storming of the Bastille",
+        "Reign of Terror",
+        "Tennis Court Oath"
+      ],
+      "expl": [
+        "The Storming of the Bastille in 1789 is seen as the start of the French Revolution. Bastille Day is still celebrated every year in France on July 14th. The Bastille was a Paris prison that had become a symbol of royal tyranny. Its fall marked a turning point that led to the eventual overthrow of the French monarchy."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "Storming of the Bastille"
+        ],
+        "option_b": [
+          "Reign of Terror"
+        ],
+        "option_c": [
+          "Tennis Court Oath"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": "",
+      "roundType": "text"
+    },
+    {
+      "id": "HIS_TEXT_19",
+      "que": "Which ancient Greek philosopher personally tutored a young Alexander the Great?",
+      "ans": {
+        "value": "Aristotle",
+        "correct_entity": "option_c"
+      },
+      "options": [
+        "Socrates",
+        "Plato",
+        "Aristotle"
+      ],
+      "expl": [
+        "Aristotle was the ancient Greek philosopher who personally tutored a young Alexander the Great. Aristotle also wrote foundational texts on subjects ranging from biology to ethics. He studied under Plato before founding his own school, the Lyceum, in Athens. His works had a lasting influence on Western philosophy and science for centuries."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "Socrates",
+          "socrate",
+          "sacred",
+          "sock red",
+          "secret"
+        ],
+        "option_b": [
+          "Plato",
+          "plateau"
+        ],
+        "option_c": [
+          "Aristotle"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": "",
+      "roundType": "text"
+    },
+    {
+      "id": "HIS_TEXT_20",
+      "que": "Which ancient wall, built by a Roman emperor, marked the northern frontier of Roman Britain?",
+      "ans": {
+        "value": "Hadrian's Wall",
+        "correct_entity": "option_a"
+      },
+      "options": [
+        "Hadrian's Wall",
+        "The Great Wall",
+        "The Antonine Wall"
+      ],
+      "expl": [
+        "Hadrian's Wall, built by a Roman emperor, marked the northern frontier of Roman Britain. Parts of Hadrian's Wall still stand today across northern England. It stretched about 117 kilometers from coast to coast. The wall was built to defend Roman territory from tribes in what is now Scotland."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "Hadrian's Wall",
+          "hadrian wall"
+        ],
+        "option_b": [
+          "The Great Wall",
+          "great wall"
+        ],
+        "option_c": [
+          "The Antonine Wall",
+          "anotnine wall"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": "",
+      "roundType": "text"
+    },
+    {
+      "id": "HIS_TEXT_21",
+      "que": "Which Chinese dynasty built and rebuilt much of the Great Wall as it appears today?",
+      "ans": {
+        "value": "Ming Dynasty",
+        "correct_entity": "option_b"
+      },
+      "options": [
+        "Han Dynasty",
+        "Ming Dynasty",
+        "Tang Dynasty"
+      ],
+      "expl": [
+        "The Ming Dynasty built and rebuilt much of the Great Wall as it appears today. Most of the wall's brick-and-stone sections were built during this dynasty. The Ming rulers reinforced earlier wall sections to better defend against northern invasions. Construction and repairs continued for much of the dynasty's roughly 300-year rule."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "Han Dynasty",
+          "han",
+          "hen dynasty"
+        ],
+        "option_b": [
+          "Ming Dynasty",
+          "ming density"
+        ],
+        "option_c": [
+          "Tang Dynasty",
+          "tang",
+          "tang density"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": "",
+      "roundType": "text"
+    },
+    {
+      "id": "HIS_TEXT_22",
+      "que": "Which US document, adopted in 1776, formally declared independence from Britain?",
+      "ans": {
+        "value": "Declaration of Independence",
+        "correct_entity": "option_b"
+      },
+      "options": [
+        "Constitution",
+        "Declaration of Independence",
+        "Bill of Rights"
+      ],
+      "expl": [
+        "The Declaration of Independence, adopted in 1776, formally declared independence from Britain. It was primarily drafted by Thomas Jefferson. The document outlined the colonies' grievances against King George III and asserted their right to self-govern. It was formally adopted by the Second Continental Congress on July 4, 1776."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "Constitution"
+        ],
+        "option_b": [
+          "Declaration of Independence",
+          "declaration",
+          "independence"
+        ],
+        "option_c": [
+          "Bill of Rights"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": "",
+      "roundType": "text"
+    },
+    {
+      "id": "HIS_TEXT_23",
+      "que": "Which ancient Egyptian queen was famously allied first with Julius Caesar and later Mark Antony?",
+      "ans": {
+        "value": "Cleopatra",
+        "correct_entity": "option_b"
+      },
+      "options": [
+        "Nefertiti",
+        "Cleopatra",
+        "Hatshepsut"
+      ],
+      "expl": [
+        "Cleopatra was the ancient Egyptian queen famously allied first with Julius Caesar and later Mark Antony. Cleopatra was actually of Greek, not Egyptian, ancestry. She belonged to the Ptolemaic dynasty, descended from one of Alexander the Great's generals. Cleopatra was known for her intelligence and political skill in navigating Rome's growing power."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "Nefertiti",
+          "never eating"
+        ],
+        "option_b": [
+          "Cleopatra"
+        ],
+        "option_c": [
+          "Hatshepsut",
+          "headshot",
+          "headshot head",
+          "headshots",
+          "headset",
+          "headshot set",
+          "headshot suck",
+          "hat shabs",
+          "heart shape shoot",
+          "hat shape shoot"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": "",
+      "roundType": "text"
+    },
+    {
+      "id": "HIS_TEXT_24",
+      "que": "What was the name of the ship that carried the Pilgrims from England to America in 1620?",
+      "ans": {
+        "value": "Mayflower",
+        "correct_entity": "option_b"
+      },
+      "options": [
+        "Santa Maria",
+        "Mayflower",
+        "Endeavour"
+      ],
+      "expl": [
+        "The Mayflower was the ship that carried the Pilgrims from England to America in 1620. The Mayflower's voyage took over two months to cross the Atlantic Ocean. It carried just over 100 passengers seeking religious freedom and a new life. The Pilgrims' landing led to the founding of Plymouth Colony in present-day Massachusetts."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "Santa Maria",
+          "santa",
+          "maria"
+        ],
+        "option_b": [
+          "Mayflower",
+          "may",
+          "flower",
+          "may flower"
+        ],
+        "option_c": [
+          "Endeavour",
+          "endeavor"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": "",
+      "roundType": "text"
+    },
+    {
+      "id": "HIS_TEXT_25",
+      "que": "Which war was fought between the northern and southern United States from 1861 to 1865?",
+      "ans": {
+        "value": "American Civil War",
+        "correct_entity": "option_b"
+      },
+      "options": [
+        "Revolutionary War",
+        "American Civil War",
+        "World War I"
+      ],
+      "expl": [
+        "The American Civil War was fought between the northern and southern United States from 1861 to 1865. This war eventually led to the abolition of slavery in the United States. It remains the deadliest conflict in American history, with hundreds of thousands of casualties. The war ended with the defeat of the Confederacy and the reunification of the country."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "Revolutionary War",
+          "revolutionary"
+        ],
+        "option_b": [
+          "American Civil War",
+          "american",
+          "civil war"
+        ],
+        "option_c": [
+          "World War I",
+          "world war one"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": "",
+      "roundType": "text"
+    },
+    {
+      "id": "HIS_TEXT_26",
+      "que": "Which ancient wonder was a giant bronze statue that once stood at a Greek harbor entrance?",
+      "ans": {
+        "value": "Colossus of Rhodes",
+        "correct_entity": "option_a"
+      },
+      "options": [
+        "Colossus of Rhodes",
+        "Lighthouse of Alexandria",
+        "Hanging Gardens"
+      ],
+      "expl": [
+        "The Colossus of Rhodes was the ancient wonder that was a giant bronze statue standing at a Greek harbor entrance. The statue stood for only about 56 years before being toppled by an earthquake. It depicted the Greek sun god Helios and stood roughly 33 meters tall. Its exact appearance remains uncertain, since no depictions from its time survive."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "Colossus of Rhodes",
+          "rhodes",
+          "colossus",
+          "colossus of roads",
+          "roads"
+        ],
+        "option_b": [
+          "Lighthouse of Alexandria",
+          "lighthouse",
+          "alexandria"
+        ],
+        "option_c": [
+          "Hanging Gardens",
+          "hanging",
+          "garden",
+          "hanging garden"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": "",
+      "roundType": "text"
+    },
+    {
+      "id": "HIS_TEXT_27",
+      "que": "Which Indian leader led a famous nonviolent independence movement against British colonial rule?",
+      "ans": {
+        "value": "Mahatma Gandhi",
+        "correct_entity": "option_b"
+      },
+      "options": [
+        "Jawaharlal Nehru",
+        "Mahatma Gandhi",
+        "Subhas Chandra Bose"
+      ],
+      "expl": [
+        "Mahatma Gandhi led a famous nonviolent independence movement against British colonial rule in India. Gandhi's philosophy of nonviolent resistance later inspired civil rights movements worldwide. He promoted tactics such as peaceful protest, boycotts, and civil disobedience. India gained independence from Britain in 1947, shortly before Gandhi's assassination in 1948."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "Jawaharlal Nehru",
+          "Jawaharlal",
+          "nehru"
+        ],
+        "option_b": [
+          "Mahatma Gandhi",
+          "mahatma",
+          "gandhi"
+        ],
+        "option_c": [
+          "Subhas Chandra Bose",
+          "subhas chandra",
+          "bose"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": "",
+      "roundType": "text"
+    },
+    {
+      "id": "HIS_TEXT_28",
+      "que": "Which ancient Mesopotamian ruler created one of the earliest known written sets of laws?",
+      "ans": {
+        "value": "Hammurabi",
+        "correct_entity": "option_a"
+      },
+      "options": [
+        "Hammurabi",
+        "Gilgamesh",
+        "Sargon"
+      ],
+      "expl": [
+        "Hammurabi was the ancient Mesopotamian ruler who created one of the earliest known written sets of laws. The Code of Hammurabi included the principle of \"an eye for an eye.\" It consisted of 282 laws covering topics like trade, family, and criminal justice. The code was inscribed on a large stone stele so it could be publicly displayed."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "Hammurabi",
+          "i'm a ruby",
+          "ammurabi",
+          "amurabi"
+        ],
+        "option_b": [
+          "Gilgamesh"
+        ],
+        "option_c": [
+          "Sargon"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": "",
+      "roundType": "text"
+    }
+  ],
+  "IMAGE_QUESTIONS": [
+    {
+      "id": "HIS_IMAGE_01",
+      "que": "Which city is home to this famous statue?",
+      "ans": {
+        "value": "New York City",
+        "correct_entity": "option_b"
+      },
+      "options": [
+        "Paris",
+        "New York City",
+        "Boston"
+      ],
+      "expl": [
+        "The Statue of Liberty is the famous statue located in New York City. The Statue of Liberty was a gift from France to the United States in 1886. It stands on Liberty Island in New York Harbor. The statue's design, by French sculptor Frédéric Auguste Bartholdi, symbolizes freedom and democracy."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "Paris"
+        ],
+        "option_b": [
+          "New York City",
+          "new york"
+        ],
+        "option_c": [
+          "Boston"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "HIS_IMAGE_01.png",
+      "audioUrl": "",
+      "roundType": "image"
+    },
+    {
+      "id": "HIS_IMAGE_02",
+      "que": "This column-and-pediment architecture style originated in which ancient civilization?",
+      "ans": {
+        "value": "Greece",
+        "correct_entity": "option_a"
+      },
+      "options": [
+        "Greece",
+        "Egypt",
+        "China"
+      ],
+      "expl": [
+        "This column-and-pediment architectural style originated in Ancient Greece. Greek columns come in three main styles: Doric, Ionic, and Corinthian. This architectural approach later heavily influenced Roman buildings and, much later, government buildings around the world. Many surviving Greek temples, like the Parthenon, showcase this style."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "Greece"
+        ],
+        "option_b": [
+          "Egypt"
+        ],
+        "option_c": [
+          "China"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "HIS_IMAGE_02.png",
+      "audioUrl": "",
+      "roundType": "image"
+    },
+    {
+      "id": "HIS_IMAGE_03",
+      "que": "This traditional gate marks the entrance to sacred shrines in which country?",
+      "ans": {
+        "value": "Japan",
+        "correct_entity": "option_a"
+      },
+      "options": [
+        "Japan",
+        "Thailand",
+        "Korea"
+      ],
+      "expl": [
+        "This traditional gate marks the entrance to sacred shrines in Japan. They are typically painted vermillion red and made of wood or stone. Walking through a torii gate is meant to mark entry into a spiritual space."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "Japan"
+        ],
+        "option_b": [
+          "Thailand"
+        ],
+        "option_c": [
+          "Korea"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "HIS_IMAGE_03.png",
+      "audioUrl": "",
+      "roundType": "image"
+    },
+    {
+      "id": "HIS_IMAGE_04",
+      "que": "This domed building with a minaret is known as a...?",
+      "ans": {
+        "value": "Mosque",
+        "correct_entity": "option_a"
+      },
+      "options": [
+        "Mosque",
+        "Cathedral",
+        "Pagoda"
+      ],
+      "expl": [
+        "This domed building with a minaret is known as a mosque. The call to prayer from a mosque's minaret is known as the adhan. Mosques serve as places of worship and community gathering for Muslims. Many historic mosques feature elaborate tilework and calligraphy. The dome design helps with acoustics, carrying sound throughout the prayer hall."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "Mosque",
+          "mosquito"
+        ],
+        "option_b": [
+          "Cathedral",
+          "catedral"
+        ],
+        "option_c": [
+          "Pagoda"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "HIS_IMAGE_04.png",
+      "audioUrl": "",
+      "roundType": "image"
+    },
+    {
+      "id": "HIS_IMAGE_05",
+      "que": "This style of fortress with curved, layered roofs is traditional to which country?",
+      "ans": {
+        "value": "Japan",
+        "correct_entity": "option_b"
+      },
+      "options": [
+        "India",
+        "Japan",
+        "Russia"
+      ],
+      "expl": [
+        "This style of fortress with curved, layered roofs is traditional to Japan. Many Japanese castles feature stone foundations topped with wooden structures. Their layered roofs helped protect against rain while also serving decorative purposes."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "India"
+        ],
+        "option_b": [
+          "Japan"
+        ],
+        "option_c": [
+          "Russia"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "HIS_IMAGE_05.png",
+      "audioUrl": "",
+      "roundType": "image"
+    },
+    {
+      "id": "HIS_IMAGE_06",
+      "que": "This type of clay vessel, used for storing wine and oil, was common in which ancient civilization?",
+      "ans": {
+        "value": "Greece",
+        "correct_entity": "option_b"
+      },
+      "options": [
+        "Egypt",
+        "Greece",
+        "Maya"
+      ],
+      "expl": [
+        "This type of clay vessel, used for storing wine and oil, was common in Ancient Greece. Ancient Greek amphorae were used to store and transport wine and olive oil. Their narrow necks and pointed bases made them easy to stack and seal. Many amphorae were decorated with painted scenes of myths and daily life. Archaeologists use amphora designs to help date shipwrecks and trade routes."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "Egypt"
+        ],
+        "option_b": [
+          "Greece"
+        ],
+        "option_c": [
+          "Maya"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "HIS_IMAGE_06.png",
+      "audioUrl": "",
+      "roundType": "image"
+    },
+    {
+      "id": "HIS_IMAGE_07",
+      "que": "Knights carrying shields like this one are most associated with which era?",
+      "ans": {
+        "value": "Medieval Europe",
+        "correct_entity": "option_a"
+      },
+      "options": [
+        "Medieval Europe",
+        "Renaissance",
+        "Bronze Age"
+      ],
+      "expl": [
+        "Knights carrying shields like this one are most associated with Medieval Europe. Knights typically trained for years as pages and squires before earning their title. They fought on horseback in heavy armor, often in service to a lord or king. Shields were typically decorated with a coat of arms unique to each knight's family."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "Medieval Europe",
+          "medeival"
+        ],
+        "option_b": [
+          "Renaissance",
+          "rainy sons"
+        ],
+        "option_c": [
+          "Bronze Age",
+          "bronze",
+          "age"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "HIS_IMAGE_07.png",
+      "audioUrl": "",
+      "roundType": "image"
+    },
+    {
+      "id": "HIS_IMAGE_08",
+      "que": "Which ancient wonder is shown in this image?",
+      "ans": {
+        "value": "Great Pyramid of Giza",
+        "correct_entity": "option_a"
+      },
+      "options": [
+        "Great Pyramid of Giza",
+        "Colosseum",
+        "Machu Picchu"
+      ],
+      "expl": [
+        "The Great Pyramid of Giza is the ancient wonder shown in this image. The Great Pyramid is the only surviving structure of the Seven Wonders of the Ancient World. It was built around 2560 BCE as a tomb for the Pharaoh Khufu. The pyramid originally stood covered in smooth white limestone that has since eroded away."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "Great Pyramid of Giza",
+          "pyramid pf giza"
+        ],
+        "option_b": [
+          "Colosseum",
+          "coliseum"
+        ],
+        "option_c": [
+          "Machu Picchu"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "HIS_IMAGE_08.jpg",
+      "audioUrl": "",
+      "roundType": "image"
+    },
+    {
+      "id": "HIS_IMAGE_09",
+      "que": "This ancient Roman structure hosted gladiator battles. What is it?",
+      "ans": {
+        "value": "Colosseum",
+        "correct_entity": "option_a"
+      },
+      "options": [
+        "Colosseum",
+        "Parthenon",
+        "Pantheon"
+      ],
+      "expl": [
+        "This ancient Roman structure hosted gladiator battles: the Colosseum. The Colosseum could hold an estimated 50,000 to 80,000 spectators. It was completed around 80 AD under Emperor Titus. The arena floor could be flooded for mock naval battles. Beneath the arena floor was a network of tunnels and chambers called the hypogeum."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "Colosseum",
+          "colossus",
+          "colosum",
+          "call the c. m.",
+          "coliseum"
+        ],
+        "option_b": [
+          "Parthenon"
+        ],
+        "option_c": [
+          "Pantheon",
+          "pantry on",
+          "panty on"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "HIS_IMAGE_09.jpg",
+      "audioUrl": "",
+      "roundType": "image"
+    },
+    {
+      "id": "HIS_IMAGE_10",
+      "que": "Which ancient civilization built this stepped pyramid, the Chichen Itza?",
+      "ans": {
+        "value": "Maya",
+        "correct_entity": "option_a"
+      },
+      "options": [
+        "Maya",
+        "Egyptian",
+        "Inca"
+      ],
+      "expl": [
+        "The Maya civilization built the stepped pyramid at Chichen Itza. Chichen Itza's pyramid is designed so a shadow of a serpent appears on the steps during equinoxes. This pyramid, known as El Castillo, has 365 steps in total, one for each day of the year. Chichen Itza was a major Maya city in what is now Mexico's Yucatán Peninsula and is recognized as a UNESCO World Heritage Site."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "Maya"
+        ],
+        "option_b": [
+          "Egyptian"
+        ],
+        "option_c": [
+          "Inca"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "HIS_IMAGE_10.jpg",
+      "audioUrl": "",
+      "roundType": "image"
+    },
+    {
+      "id": "HIS_IMAGE_11",
+      "que": "This old coin/currency dates back to which ancient empire?",
+      "ans": {
+        "value": "Roman",
+        "correct_entity": "option_a"
+      },
+      "options": [
+        "Roman",
+        "Egyptian",
+        "Persian"
+      ],
+      "expl": [
+        "This old coin dates back to the ancient Roman Empire. Ancient Roman coins often featured the face of the reigning emperor. They were made of metals such as gold, silver, and bronze depending on their value. Roman coins have helped historians date events and trace the empire's expansion."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "Roman",
+          "rome"
+        ],
+        "option_b": [
+          "Egyptian",
+          "epypt"
+        ],
+        "option_c": [
+          "Persian",
+          "persia"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "HIS_IMAGE_11.jpg",
+      "audioUrl": "",
+      "roundType": "image"
+    },
+    {
+      "id": "HIS_IMAGE_12",
+      "que": "Which historic wall, thousands of kilometers long, is shown here?",
+      "ans": {
+        "value": "Great Wall of China",
+        "correct_entity": "option_a"
+      },
+      "options": [
+        "Great Wall of China",
+        "Hadrian's Wall",
+        "Berlin Wall"
+      ],
+      "expl": [
+        "The Great Wall of China is the historic wall, thousands of kilometers long, shown here. The Great Wall of China stretches over 21,000 kilometers in total. It was built over centuries by successive Chinese dynasties to protect against invasions from the north. Much of the wall's most famous brick-and-stone sections were built during the Ming Dynasty."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "Great Wall of China",
+          "great wall",
+          "china"
+        ],
+        "option_b": [
+          "Hadrian's Wall",
+          "hadrians wall",
+          "hadrian",
+          "hadrian's",
+          "hadrian wall"
+        ],
+        "option_c": [
+          "Berlin Wall",
+          "berlin",
+          "berlins wall",
+          "berlin's wall"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "HIS_IMAGE_12.jpg",
+      "audioUrl": "",
+      "roundType": "image"
+    },
+    {
+      "id": "HIS_IMAGE_13",
+      "que": "This artifact is a mummy's protective outer case from which civilization?",
+      "ans": {
+        "value": "Egypt",
+        "correct_entity": "option_a"
+      },
+      "options": [
+        "Egypt",
+        "Greece",
+        "Rome"
+      ],
+      "expl": [
+        "This artifact, a mummy's protective outer case, comes from Ancient Egypt. Ancient Egyptians believed mummification preserved the body for the afterlife. The outer case, or sarcophagus, was often elaborately decorated and inscribed with protective spells. Mummification could take up to 70 days to complete, including embalming and wrapping the body."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "Egypt"
+        ],
+        "option_b": [
+          "Greece"
+        ],
+        "option_c": [
+          "Rome"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "HIS_IMAGE_13.jpg",
+      "audioUrl": "",
+      "roundType": "image"
+    },
+    {
+      "id": "HIS_IMAGE_14",
+      "que": "This famous statue in New York symbolizes freedom. What is it called?",
+      "ans": {
+        "value": "Statue of Liberty",
+        "correct_entity": "option_a"
+      },
+      "options": [
+        "Statue of Liberty",
+        "Christ the Redeemer",
+        "David"
+      ],
+      "expl": [
+        "This famous statue in New York symbolizes freedom: the Statue of Liberty. It was a gift from France to the United States in 1886. The statue's full name is \"Liberty Enlightening the World.\" It stands over 93 meters tall including its pedestal. The statue's copper exterior turned green over time due to oxidation."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "Statue of Liberty"
+        ],
+        "option_b": [
+          "Christ the Redeemer",
+          "krish the redeemer"
+        ],
+        "option_c": [
+          "David",
+          "devid"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "HIS_IMAGE_14.jpg",
+      "audioUrl": "",
+      "roundType": "image"
+    },
+    {
+      "id": "HIS_IMAGE_15",
+      "que": "What ancient writing tool was used to create this handwritten parchment?",
+      "ans": {
+        "value": "Quill pen",
+        "correct_entity": "option_a"
+      },
+      "options": [
+        "Quill pen",
+        "Typewriter",
+        "Fountain pen"
+      ],
+      "expl": [
+        "This old parchment with elegant handwriting is an example of the quill pen's work. Quill pens, made from bird feathers, were used for writing for over a thousand years. The feather's tip was cut into a point and dipped in ink for writing. Quill pens were eventually replaced by steel-tipped pens and, later, fountain pens."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "Quill pen",
+          "quill"
+        ],
+        "option_b": [
+          "Typewriter"
+        ],
+        "option_c": [
+          "Fountain pen",
+          "fountain",
+          "pen"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "HIS_IMAGE_15.jpg",
+      "audioUrl": "",
+      "roundType": "image"
+    },
+    {
+      "id": "HIS_IMAGE_16",
+      "que": "This ancient structure in England is made of large standing stones. What is it?",
+      "ans": {
+        "value": "Stonehenge",
+        "correct_entity": "option_a"
+      },
+      "options": [
+        "Stonehenge",
+        "Pyramids",
+        "Colosseum"
+      ],
+      "expl": [
+        "Stonehenge is the ancient structure in England made of large standing stones. Some of Stonehenge's stones were transported from over 200 kilometers away. It was built in several stages, beginning around 3000 BCE. Its exact original purpose remains debated, though many believe it had ceremonial or astronomical significance."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "Stonehenge",
+          "stoneage"
+        ],
+        "option_b": [
+          "Pyramids",
+          "pyramid"
+        ],
+        "option_c": [
+          "Colosseum",
+          "coliseum"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "HIS_IMAGE_16.jpg",
+      "audioUrl": "",
+      "roundType": "image"
+    },
+    {
+      "id": "HIS_IMAGE_17",
+      "que": "This old suit of armor was worn by which type of historic warrior?",
+      "ans": {
+        "value": "Knight",
+        "correct_entity": "option_a"
+      },
+      "options": [
+        "Knight",
+        "Samurai",
+        "Viking"
+      ],
+      "expl": [
+        "This old suit of armor was worn by a knight, a type of historic warrior. A full suit of medieval armor could weigh between 20 to 25 kilograms. Armor was custom-fitted for each knight and often took skilled blacksmiths weeks to make. Despite its weight, well-designed armor allowed knights considerable mobility in battle."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "Knight",
+          "night"
+        ],
+        "option_b": [
+          "Samurai"
+        ],
+        "option_c": [
+          "Viking",
+          "why kings",
+          "y. kings",
+          "y. king",
+          "why king"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "HIS_IMAGE_17.jpg",
+      "audioUrl": "",
+      "roundType": "image"
+    },
+    {
+      "id": "HIS_IMAGE_18",
+      "que": "Which European capital is home to this ancient underground city of tombs and tunnels?",
+      "ans": {
+        "value": "Paris",
+        "correct_entity": "option_a"
+      },
+      "options": [
+        "Paris",
+        "Rome",
+        "London"
+      ],
+      "expl": [
+        "This ancient underground city of tombs and tunnels is famously found beneath Paris. The Paris Catacombs hold the remains of over six million people. They were created in the late 18th century to address overflowing cemeteries. Only a small portion of the catacombs is open to the public today. The tunnels stretch for hundreds of kilometers beneath the city."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "Paris",
+          "aries",
+          "arise"
+        ],
+        "option_b": [
+          "Rome"
+        ],
+        "option_c": [
+          "London"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "HIS_IMAGE_18.jpg",
+      "audioUrl": "",
+      "roundType": "image"
+    },
+    {
+      "id": "HIS_IMAGE_19",
+      "que": "What is this ancient stone-carved army guarding a Chinese emperor’s tomb called?",
+      "ans": {
+        "value": "Terracotta Army",
+        "correct_entity": "option_a"
+      },
+      "options": [
+        "Terracotta Army",
+        "Great Wall",
+        "Forbidden City"
+      ],
+      "expl": [
+        "The Terracotta Army is the ancient stone-carved army of thousands built to guard a Chinese emperor's tomb. Each Terracotta Army soldier has a unique face, no two are exactly alike. It was created to accompany Emperor Qin Shi Huang in the afterlife. The army includes thousands of soldiers, horses, and chariots, discovered by farmers in 1974."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "Terracotta Army",
+          "terracotta"
+        ],
+        "option_b": [
+          "Great Wall",
+          "wall"
+        ],
+        "option_c": [
+          "Forbidden City",
+          "forbidden"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "HIS_IMAGE_19.jpg",
+      "audioUrl": "",
+      "roundType": "image"
+    },
+    {
+      "id": "HIS_IMAGE_20",
+      "que": "What is this old wooden sailing ship style used by explorers called?",
+      "ans": {
+        "value": "Galleon",
+        "correct_entity": "option_a"
+      },
+      "options": [
+        "Galleon",
+        "Canoe",
+        "Steamship"
+      ],
+      "expl": [
+        "A galleon is the old wooden sailing ship style used by explorers to cross oceans centuries ago. Galleons were used by European explorers and traders from the 16th to 18th centuries. They were large, multi-decked ships often used for both trade and warfare. Spanish treasure galleons famously carried gold and silver from the Americas back to Europe."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "Galleon"
+        ],
+        "option_b": [
+          "Canoe"
+        ],
+        "option_c": [
+          "Steamship"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "HIS_IMAGE_20.jpg",
+      "audioUrl": "",
+      "roundType": "image"
+    },
+    {
+      "id": "HIS_IMAGE_21",
+      "que": "This long wooden warship with a dragon-carved bow was used by which seafaring warriors?",
+      "ans": {
+        "value": "Vikings",
+        "correct_entity": "option_a"
+      },
+      "options": [
+        "Vikings",
+        "Pirates",
+        "Romans"
+      ],
+      "expl": [
+        "This long wooden warship with a dragon-carved bow was used by Viking seafaring warriors. Viking longships were fast and light enough to sail up shallow rivers. Their shallow draft also allowed Vikings to launch surprise raids on coastal towns. Longships were also symbols of status, often buried alongside important Viking leaders."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "Vikings",
+          "why kings",
+          "y. kings",
+          "y. king",
+          "why king",
+          "viking"
+        ],
+        "option_b": [
+          "Pirates",
+          "pirate"
+        ],
+        "option_c": [
+          "Romans",
+          "roman"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "HIS_IMAGE_21.jpg",
+      "audioUrl": "",
+      "roundType": "image"
+    },
+    {
+      "id": "HIS_IMAGE_22",
+      "que": "Which historic Japanese warriors wore this full-body armor and distinctive helmet?",
+      "ans": {
+        "value": "Samurai",
+        "correct_entity": "option_a"
+      },
+      "options": [
+        "Samurai",
+        "Ninja",
+        "Shogun"
+      ],
+      "expl": [
+        "This full-body armor with a distinctive helmet was worn by Samurai warriors. Samurai armor was designed to be both protective and lightweight for mobility. It was typically made from small lacquered plates laced together with silk or leather cords. Samurai were the elite warrior class of feudal Japan for centuries."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "Samurai"
+        ],
+        "option_b": [
+          "Ninja"
+        ],
+        "option_c": [
+          "Shogun",
+          "shotgun"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "HIS_IMAGE_22.jpg",
+      "audioUrl": "",
+      "roundType": "image"
+    },
+    {
+      "id": "HIS_IMAGE_23",
+      "que": "These ancient picture-based symbols were used for writing in which civilization?",
+      "ans": {
+        "value": "Egypt",
+        "correct_entity": "option_a"
+      },
+      "options": [
+        "Egypt",
+        "Greece",
+        "Rome"
+      ],
+      "expl": [
+        "These ancient picture-based symbols were used for writing in Ancient Egypt. Hieroglyphics combine symbols representing sounds, ideas, and objects. They were carved into temple walls, monuments, and papyrus scrolls. The script was largely deciphered in the 19th century using the Rosetta Stone."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "Egypt"
+        ],
+        "option_b": [
+          "Greece"
+        ],
+        "option_c": [
+          "Rome"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "HIS_IMAGE_23.jpg",
+      "audioUrl": "",
+      "roundType": "image"
+    },
+    {
+      "id": "HIS_IMAGE_24",
+      "que": "This grand, ornate royal palace with vast gardens is located near which European capital?",
+      "ans": {
+        "value": "Paris",
+        "correct_entity": "option_a"
+      },
+      "options": [
+        "Paris",
+        "London",
+        "Rome"
+      ],
+      "expl": [
+        "This grand, ornate royal palace with vast gardens is located near Paris (Versailles). The Palace of Versailles has over 2,300 rooms and famously features a Hall of Mirrors. It served as the principal royal residence of France from 1682 until the French Revolution. Versailles's extensive gardens were designed by landscape architect André Le Nôtre."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "Paris"
+        ],
+        "option_b": [
+          "London"
+        ],
+        "option_c": [
+          "Rome"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "HIS_IMAGE_24.jpg",
+      "audioUrl": "",
+      "roundType": "image"
+    },
+    {
+      "id": "HIS_IMAGE_25",
+      "que": "What is this tall Roman structure with arches used to transport water called?",
+      "ans": {
+        "value": "aqueduct",
+        "correct_entity": "option_a"
+      },
+      "options": [
+        "aqueduct",
+        "viaduct",
+        "causeway"
+      ],
+      "expl": [
+        "This tall stone structure with arches was built by ancient Romans to transport water, called an aqueduct. Some Roman aqueducts still stand and function partially today, nearly 2,000 years later. They used gravity and a precise gradual slope to carry water over long distances. Aqueducts supplied Roman cities with water for public baths, fountains, and homes."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "aqueduct"
+        ],
+        "option_b": [
+          "viaduct",
+          "wired up",
+          "wire duct",
+          "wireduct"
+        ],
+        "option_c": [
+          "causeway",
+          "pauseway",
+          "pause way"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "HIS_IMAGE_25.jpg",
+      "audioUrl": "",
+      "roundType": "image"
+    },
+    {
+      "id": "HIS_IMAGE_26",
+      "que": "What is this fortified medieval structure with high walls and a water-filled ditch called?",
+      "ans": {
+        "value": "castle",
+        "correct_entity": "option_a"
+      },
+      "options": [
+        "castle",
+        "palace",
+        "fortress town"
+      ],
+      "expl": [
+        "This fortified structure with high walls and a water-filled ditch, common in medieval times, is a castle. Many medieval castles had a moat specifically to make them harder to attack. Castles served as both defensive strongholds and residences for nobility. Their thick walls and elevated towers gave defenders a major advantage over attackers."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "castle"
+        ],
+        "option_b": [
+          "palace"
+        ],
+        "option_c": [
+          "fortress town",
+          "fortress",
+          "town"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "HIS_IMAGE_26.jpg",
+      "audioUrl": "",
+      "roundType": "image"
+    },
+    {
+      "id": "HIS_IMAGE_27",
+      "que": "What is this old hand-drawn world map called?",
+      "ans": {
+        "value": "antique map",
+        "correct_entity": "option_a"
+      },
+      "options": [
+        "antique map",
+        "blueprint",
+        "nautical chart"
+      ],
+      "expl": [
+        "This old hand-drawn map of the world, made before modern satellite technology, is called an antique map. Early world maps often contained large blank or imagined areas where regions were unexplored. Mapmakers relied on explorers' accounts, which were sometimes inaccurate or incomplete. Antique maps are now valuable historical artifacts that show how understanding of the world evolved."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "antique map",
+          "antique",
+          "map"
+        ],
+        "option_b": [
+          "blueprint"
+        ],
+        "option_c": [
+          "nautical chart",
+          "nautical",
+          "chart"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "HIS_IMAGE_27.jpg",
+      "audioUrl": "",
+      "roundType": "image"
+    }
+  ],
+  "AUDIO_QUESTIONS": [
+    {
+      "id": "HIS_AUDIO_01",
+      "que": "This clacking sound comes from which old invention used for writing?",
+      "ans": {
+        "value": "Typewriter",
+        "correct_entity": "option_a"
+      },
+      "options": [
+        "Typewriter",
+        "Motor Bike",
+        "Blender"
+      ],
+      "expl": [
+        "This clacking sound comes from the typewriter. The first commercial typewriter was sold in 1874. Typewriters mechanically stamped ink onto paper through metal type bars. The QWERTY keyboard layout, still used today, was originally designed for typewriters. Typewriters were eventually replaced by computers and word processors in offices."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "Typewriter",
+          "type writer"
+        ],
+        "option_b": [
+          "Motor Bike"
+        ],
+        "option_c": [
+          "Blender"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": "HIS_AUDIO_01.mp3",
+      "roundType": "audio"
+    },
+    {
+      "id": "HIS_AUDIO_02",
+      "que": "Which old communication device makes this dot-dash beeping sound?",
+      "ans": {
+        "value": "Telegraph",
+        "correct_entity": "option_a"
+      },
+      "options": [
+        "Telegraph",
+        "Telephone",
+        "Radio"
+      ],
+      "expl": [
+        "This dot-dash beeping sound comes from the telegraph. Morse code, used on telegraphs, was invented by Samuel Morse in the 1830s. Telegraphs allowed messages to be sent almost instantly across long distances for the first time. Operators had to learn to send and interpret Morse code by ear. The telegraph revolutionized communication before the invention of the telephone."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "Telegraph",
+          "telegram"
+        ],
+        "option_b": [
+          "Telephone"
+        ],
+        "option_c": [
+          "Radio"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": "HIS_AUDIO_02.mp3",
+      "roundType": "audio"
+    },
+    {
+      "id": "HIS_AUDIO_03",
+      "que": "This crackly, scratchy playback sound comes from which old device?",
+      "ans": {
+        "value": "Gramophone",
+        "correct_entity": "option_b"
+      },
+      "options": [
+        "Radio",
+        "Gramophone",
+        "Cassette player"
+      ],
+      "expl": [
+        "This crackly, scratchy playback sound comes from the gramophone. Early gramophones played music from wax cylinders before vinyl records existed. The device used a needle to trace grooves and reproduce sound mechanically. Gramophones didn't require electricity, relying on a hand-cranked spring motor. They were a major step toward modern recorded music and home entertainment."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "Radio"
+        ],
+        "option_b": [
+          "Gramophone"
+        ],
+        "option_c": [
+          "Cassette player",
+          "cassette",
+          "player"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": "HIS_AUDIO_03.mp3",
+      "roundType": "audio"
+    },
+    {
+      "id": "HIS_AUDIO_04",
+      "que": "Which brass instrument was traditionally used to signal soldiers into battle?",
+      "ans": {
+        "value": "War drum",
+        "correct_entity": "option_b"
+      },
+      "options": [
+        "Church bell",
+        "War drum",
+        "Trumpet call"
+      ],
+      "expl": [
+        "This deep rhythmic beat, traditionally used to rally soldiers, comes from a war drum. War drums were used across ancient civilizations to communicate commands across a battlefield. Their loud, carrying sound could be heard clearly amid the chaos of battle. Drums were also used to help synchronize the marching pace of large armies."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "Church bell",
+          "church",
+          "bell"
+        ],
+        "option_b": [
+          "War drum",
+          "wardrobe",
+          "wall drum",
+          "war",
+          "drum",
+          "wall"
+        ],
+        "option_c": [
+          "Trumpet call",
+          "trumpet",
+          "call"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": "HIS_AUDIO_04.mp3",
+      "roundType": "audio"
+    },
+    {
+      "id": "HIS_AUDIO_05",
+      "que": "This deep horn sound was used by old ships. What is it?",
+      "ans": {
+        "value": "Foghorn",
+        "correct_entity": "option_a"
+      },
+      "options": [
+        "Foghorn",
+        "Lighthouse Siren",
+        "Ship whistle"
+      ],
+      "expl": [
+        "This deep horn sound used by old ships is a foghorn. Foghorns were used to warn other ships of a vessel's location in heavy fog. Their low frequency allows the sound to travel long distances over water. Lighthouses often had foghorns paired with their lights for added safety. Modern ships now often use radar and GPS alongside or instead of foghorns."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "Foghorn",
+          "fog horn"
+        ],
+        "option_b": [
+          "Lighthouse Siren",
+          "lighthouse",
+          "light house siren",
+          "light house",
+          "siren"
+        ],
+        "option_c": [
+          "Ship whistle",
+          "ship",
+          "whistle"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": "HIS_AUDIO_05.mp3",
+      "roundType": "audio"
+    },
+    {
+      "id": "HIS_AUDIO_06",
+      "que": "This famous bell tower sound rings every hour in London. Name it.",
+      "ans": {
+        "value": "Big Ben",
+        "correct_entity": "option_c"
+      },
+      "options": [
+        "Kremlin bell",
+        "Notre Dame",
+        "Big Ben"
+      ],
+      "expl": [
+        "This famous bell tower sound that rings every hour in London is Big Ben. Big Ben has rung over the Houses of Parliament since 1859. The name technically refers to the Great Bell, not the tower itself. The tower is officially named the Elizabeth Tower, renamed in 2012. Big Ben's chimes are among the most recognizable sounds in the world."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "Kremlin bell",
+          "crimmin bell",
+          "krembling bell"
+        ],
+        "option_b": [
+          "Notre Dame"
+        ],
+        "option_c": [
+          "Big Ben",
+          "big bang"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": "HIS_AUDIO_06.mp3",
+      "roundType": "audio"
+    },
+    {
+      "id": "HIS_AUDIO_07",
+      "que": "This clopping sound comes from which mode of old-time transport?",
+      "ans": {
+        "value": "Horse carriage",
+        "correct_entity": "option_a"
+      },
+      "options": [
+        "Horse carriage",
+        "Bicycle",
+        "Steam train"
+      ],
+      "expl": [
+        "This clopping sound comes from a horse carriage. Before cars, horse-drawn carriages were the main form of city transportation. The clopping sound comes from horseshoes striking cobblestone or paved roads. Carriages varied widely in style, from simple carts to elegant royal coaches. Horse-drawn transport gradually declined with the rise of automobiles in the early 20th century."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "Horse carriage",
+          "horse",
+          "carriage"
+        ],
+        "option_b": [
+          "Bicycle"
+        ],
+        "option_c": [
+          "Steam train",
+          "steam",
+          "train"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": "HIS_AUDIO_07.mp3",
+      "roundType": "audio"
+    },
+    {
+      "id": "HIS_AUDIO_08",
+      "que": "This static-filled voice broadcast comes from which classic device?",
+      "ans": {
+        "value": "Old radio",
+        "correct_entity": "option_c"
+      },
+      "options": [
+        "Telephone",
+        "Television",
+        "Old radio"
+      ],
+      "expl": [
+        "This static-filled voice broadcast comes from an old radio. Regular public radio broadcasting began in the early 1920s. Early radios used vacuum tubes before transistors made them smaller and more reliable. Families once gathered around the radio for news, drama, and entertainment."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "Telephone"
+        ],
+        "option_b": [
+          "Television"
+        ],
+        "option_c": [
+          "Old radio",
+          "old",
+          "radio",
+          "cold radio"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": "HIS_AUDIO_08.mp3",
+      "roundType": "audio"
+    },
+    {
+      "id": "HIS_AUDIO_09",
+      "que": "This chugging, whistling sound belongs to which historic mode of transport?",
+      "ans": {
+        "value": "Steam train",
+        "correct_entity": "option_a"
+      },
+      "options": [
+        "Steam train",
+        "Ship",
+        "Airplane"
+      ],
+      "expl": [
+        "This chugging, whistling sound belongs to the historic steam train. The first steam locomotives were developed in the early 1800s in Britain. Steam trains use burning fuel to heat water into steam, which powers the engine's pistons. They revolutionized long-distance travel and trade before being replaced by diesel and electric trains."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "Steam train",
+          "steam engine",
+          "train",
+          "steam",
+          "stream train"
+        ],
+        "option_b": [
+          "Ship"
+        ],
+        "option_c": [
+          "Airplane",
+          "aeroplane"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": "HIS_AUDIO_09.mp3",
+      "roundType": "audio"
+    },
+    {
+      "id": "HIS_AUDIO_10",
+      "que": "This mechanical clanking sound was made by which invention that spread books?",
+      "ans": {
+        "value": "Printing press",
+        "correct_entity": "option_a"
+      },
+      "options": [
+        "Printing press",
+        "Typewriter",
+        "Loom"
+      ],
+      "expl": [
+        "This mechanical clanking sound was made by the printing press, the invention that spread books. Gutenberg's printing press, invented around 1440, made books far cheaper to produce. Before its invention, books had to be copied by hand, a slow and expensive process. The printing press helped fuel the spread of literacy and ideas across Europe."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "Printing press",
+          "printing",
+          "press"
+        ],
+        "option_b": [
+          "Typewriter",
+          "type writer"
+        ],
+        "option_c": [
+          "Loom",
+          "luu",
+          "lu",
+          "room"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": "HIS_AUDIO_10.mp3",
+      "roundType": "audio"
+    },
+    {
+      "id": "HIS_AUDIO_11",
+      "que": "This brass instrument's call was traditionally used to signal soldiers into battle. What is it?",
+      "ans": {
+        "value": "bugle call",
+        "correct_entity": "option_a"
+      },
+      "options": [
+        "bugle call",
+        "trumpet fanfare",
+        "drum roll"
+      ],
+      "expl": [
+        "This brass instrument's call, traditionally used to signal soldiers into battle, is a bugle call. Bugles were used because their simple design made them reliable on the battlefield. Unlike trumpets, bugles have no valves, relying on the player's lip control to change notes. Specific bugle calls signaled different commands, such as charge, retreat, or reveille."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "bugle call",
+          "bugal",
+          "call",
+          "bugal car",
+          "blue girl call"
+        ],
+        "option_b": [
+          "trumpet fanfare",
+          "trumpet fan fare",
+          "trumpet fan fair",
+          "trumpet",
+          "fanfare",
+          "fun fair",
+          "fun fare",
+          "fan fir",
+          "trumpet funfare",
+          "trumpet funfair"
+        ],
+        "option_c": [
+          "drum roll",
+          "drum",
+          "roll",
+          "yum roll"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": "HIS_AUDIO_11.mp3",
+      "roundType": "audio"
+    },
+    {
+      "id": "HIS_AUDIO_12",
+      "que": "What old-fashioned weapon made this loud booming sound in historic battles and on ships?",
+      "ans": {
+        "value": "Cannon fire",
+        "correct_entity": "option_a"
+      },
+      "options": [
+        "Cannon fire",
+        "Musket fire",
+        "Fireworks"
+      ],
+      "expl": [
+        "This loud booming sound was made by cannon fire, an old-fashioned weapon used in historic battles and on ships. Early cannons were so loud they could be heard from several kilometers away. Cannons used gunpowder to launch heavy projectiles at enemy forces or fortifications. Naval cannons in particular helped shape centuries of warfare at sea."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "Cannon fire",
+          "canon fire",
+          "cannon",
+          "canon",
+          "canon five"
+        ],
+        "option_b": [
+          "Musket fire",
+          "muscat fire",
+          "muscat",
+          "musket"
+        ],
+        "option_c": [
+          "Fireworks",
+          "firework",
+          "fire works",
+          "fire work"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": "HIS_AUDIO_12.mp3",
+      "roundType": "audio"
+    },
+    {
+      "id": "HIS_AUDIO_13",
+      "que": "This clashing, ringing sound comes from which type of historic hand-to-hand combat?",
+      "ans": {
+        "value": "Sword fighting",
+        "correct_entity": "option_c"
+      },
+      "options": [
+        "Wrestling",
+        "Archery",
+        "Sword fighting"
+      ],
+      "expl": [
+        "This clashing, ringing sound comes from sword fighting, a type of historic hand-to-hand combat. Sword fighting techniques were often passed down through formal fencing schools in medieval Europe. Different sword styles developed based on regional combat needs and weapon designs. Modern fencing evolved directly from these historical swordfighting traditions."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "Wrestling"
+        ],
+        "option_b": [
+          "Archery"
+        ],
+        "option_c": [
+          "Sword fighting",
+          "sword",
+          "fighting",
+          "what fighting\\"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": "HIS_AUDIO_13.mp3",
+      "roundType": "audio"
+    },
+    {
+      "id": "HIS_AUDIO_14",
+      "que": "Which historic military activity involving many soldiers moving together makes this rhythmic thudding sound?",
+      "ans": {
+        "value": "Marching soldiers",
+        "correct_entity": "option_a"
+      },
+      "options": [
+        "Marching soldiers",
+        "cavalry charge",
+        "jousting match"
+      ],
+      "expl": [
+        "This rhythmic thudding sound comes from marching soldiers, a historic activity involving many soldiers moving together. Armies have marched in step for centuries partly to keep discipline and morale high. Coordinated marching also helped commanders keep large groups of soldiers organized while traveling. Military marching traditions continue today in parades and ceremonial events."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "Marching soldiers",
+          "marching shoulders",
+          "marching",
+          "soldiers",
+          "shoulders",
+          "marching soldier",
+          "marching shoulder"
+        ],
+        "option_b": [
+          "cavalry charge",
+          "cadbury recharge",
+          "cavalry recharge",
+          "cavalry",
+          "charge",
+          "recharge"
+        ],
+        "option_c": [
+          "jousting match",
+          "justin march",
+          "jousting marsh",
+          "jousting",
+          "marsh",
+          "match",
+          "march",
+          "justin match"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": "HIS_AUDIO_14.mp3",
+      "roundType": "audio"
+    },
+    {
+      "id": "HIS_AUDIO_15",
+      "que": "Which traditional craftsperson’s workshop makes this repeated clanging sound?",
+      "ans": {
+        "value": "blacksmith's forge",
+        "correct_entity": "option_a"
+      },
+      "options": [
+        "blacksmith's forge",
+        "carpenter's workshop",
+        "potter's wheel"
+      ],
+      "expl": [
+        "This repeated clanging sound comes from a blacksmith's forge, a traditional craftsperson's workshop. Blacksmiths historically made everything from horseshoes to swords by hand. They heated metal in a forge until it became malleable enough to hammer into shape. Blacksmithing skills were essential to nearly every community before mass manufacturing existed."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "blacksmith's forge",
+          "blacksmith forge",
+          "blacksmith",
+          "blacksmith's",
+          "blacksmith's coach",
+          "let's make sports",
+          "blacksmith's porsche",
+          "blacksmith's for",
+          "blacksmith's porch",
+          "blacksmiths",
+          "blacksmiths coach",
+          "blacksmiths forge",
+          "blacksmiths porsche",
+          "blacksmiths for",
+          "blacksmiths porch",
+          "blacksmith sports"
+        ],
+        "option_b": [
+          "carpenter's workshop",
+          "carpenter's",
+          "carenter",
+          "carpenter workshop",
+          "workshop",
+          "work shop",
+          "carpenter's work shop",
+          "carpenters workshop"
+        ],
+        "option_c": [
+          "potter's wheel",
+          "potters wheel",
+          "potters",
+          "wheel"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": "HIS_AUDIO_15.mp3",
+      "roundType": "audio"
+    },
+    {
+      "id": "HIS_AUDIO_16",
+      "que": "This roaring crowd sound would have been heard at which ancient Roman entertainment venue?",
+      "ans": {
+        "value": "Colosseum",
+        "correct_entity": "option_b"
+      },
+      "options": [
+        "Senate",
+        "Colosseum",
+        "Forum"
+      ],
+      "expl": [
+        "This roaring crowd sound would have been heard at the Colosseum, an ancient Roman entertainment venue. Ancient Roman crowds at the Colosseum could number in the tens of thousands. Spectators gathered to watch gladiator battles, animal hunts, and other public spectacles. The Colosseum's design allowed for efficient crowd entry and exit through numerous arched entrances."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "Senate",
+          "send it"
+        ],
+        "option_b": [
+          "Colosseum",
+          "coliseum"
+        ],
+        "option_c": [
+          "Forum",
+          "form",
+          "fom",
+          "from"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": "HIS_AUDIO_16.mp3",
+      "roundType": "audio"
+    },
+    {
+      "id": "HIS_AUDIO_17",
+      "que": "Which historic wind-powered machine makes this slow creaking sound while grinding grain?",
+      "ans": {
+        "value": "windmill",
+        "correct_entity": "option_b"
+      },
+      "options": [
+        "water wheel",
+        "windmill",
+        "treadmill"
+      ],
+      "expl": [
+        "This slow creaking sound comes from a windmill, a historic machine powered by wind used to grind grain. Windmills were also used historically to pump water and saw wood, not just grind grain. They convert the wind's kinetic energy into rotational motion using large sails or blades. Windmills were especially common across the Netherlands, where they also helped drain low-lying land."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "water wheel",
+          "water",
+          "wheel",
+          "water will"
+        ],
+        "option_b": [
+          "windmill",
+          "wind mill"
+        ],
+        "option_c": [
+          "treadmill",
+          "trade mill",
+          "trademill",
+          "thread mill",
+          "threadmill"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": "HIS_AUDIO_17.mp3",
+      "roundType": "audio"
+    },
+    {
+      "id": "HIS_AUDIO_18",
+      "que": "This deep horn blast was traditionally used by which historic seafaring raiders?",
+      "ans": {
+        "value": "Vikings",
+        "correct_entity": "option_a"
+      },
+      "options": [
+        "Vikings",
+        "Pirates",
+        "Roman sailors"
+      ],
+      "expl": [
+        "This deep horn blast was traditionally used by Viking seafaring raiders. Viking horns, often made from animal horns, were used for signaling across long distances. They could be used to announce arrivals, coordinate raids, or call warriors together. Viking horns are sometimes confused with drinking horns, which served a very different, ceremonial purpose."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "Vikings",
+          "why kings",
+          "y. kings",
+          "y. king",
+          "why king",
+          "viking"
+        ],
+        "option_b": [
+          "Pirates",
+          "pirate"
+        ],
+        "option_c": [
+          "Roman sailors",
+          "roman",
+          "sailor",
+          "sailors",
+          "roman sailor"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": "HIS_AUDIO_18.mp3",
+      "roundType": "audio"
+    },
+    {
+      "id": "HIS_AUDIO_19",
+      "que": "What historic writing tool makes a soft scratching sound on parchment?",
+      "ans": {
+        "value": "quill pen",
+        "correct_entity": "option_a"
+      },
+      "options": [
+        "quill pen",
+        "stone tablet",
+        "printing press"
+      ],
+      "expl": [
+        "This soft scratching sound comes from a quill pen being used on parchment. Quill pens needed to be re-sharpened frequently as they wore down with use. They were typically made from the flight feathers of large birds, such as geese or swans. Quill pens remained the primary writing tool in Europe for centuries before steel pens took over."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "quill pen",
+          "will pen",
+          "quill",
+          "will",
+          "pen"
+        ],
+        "option_b": [
+          "stone tablet",
+          "stone",
+          "tablet"
+        ],
+        "option_c": [
+          "printing press",
+          "printing",
+          "press"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": "HIS_AUDIO_19.mp3",
+      "roundType": "audio"
+    },
+    {
+      "id": "HIS_AUDIO_20",
+      "que": "Which ancient mode of transport makes this creaking, rolling sound on cobblestones?",
+      "ans": {
+        "value": "chariot",
+        "correct_entity": "option_a"
+      },
+      "options": [
+        "chariot",
+        "carriage",
+        "cart"
+      ],
+      "expl": [
+        "This creaking, rolling sound comes from a chariot, an ancient mode of transport moving over cobblestones. Chariots were used both in ancient warfare and in early competitive racing. They were typically light, two-wheeled vehicles pulled by horses. Chariot racing became a hugely popular public spectacle in both ancient Greece and Rome."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "chariot",
+          "share it",
+          "cherry ate",
+          "carrot"
+        ],
+        "option_b": [
+          "carriage",
+          "courage"
+        ],
+        "option_c": [
+          "cart",
+          "dart",
+          "hut",
+          "cut"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": "HIS_AUDIO_20.mp3",
+      "roundType": "audio"
+    },
+    {
+      "id": "HIS_AUDIO_21",
+      "que": "Which important figure was traditionally announced by this bold trumpet fanfare?",
+      "ans": {
+        "value": "Royalty",
+        "correct_entity": "option_a"
+      },
+      "options": [
+        "Royalty",
+        "general",
+        "judge"
+      ],
+      "expl": [
+        "This bold trumpet fanfare was traditionally played to announce the arrival of royalty. Royal fanfares were often composed specifically for coronations and state occasions. Trumpets were chosen for their bright, commanding sound that could be heard by large crowds. This tradition of ceremonial fanfare continues at royal events today."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "Royalty"
+        ],
+        "option_b": [
+          "general",
+          "journal"
+        ],
+        "option_c": [
+          "judge"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": "HIS_AUDIO_21.mp3",
+      "roundType": "audio"
+    },
+    {
+      "id": "HIS_AUDIO_22",
+      "que": "Which grim feature of old dungeons and prisons made this rattling, clinking sound?",
+      "ans": {
+        "value": "Chains",
+        "correct_entity": "option_a"
+      },
+      "options": [
+        "Chains",
+        "Iron bars",
+        "trapdoor"
+      ],
+      "expl": [
+        "This rattling, clinking sound is associated with chains, a grim feature of old dungeons and prisons. Prisoners in medieval dungeons were sometimes chained to the walls themselves. Dungeons were typically built beneath castles or fortresses, away from daylight. Chains and shackles were used both to restrain prisoners and to deter escape attempts."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "Chains",
+          "chain",
+          "chair",
+          "chairs",
+          "gems",
+          "gents",
+          "james",
+          "change"
+        ],
+        "option_b": [
+          "Iron bars",
+          "iron",
+          "bar",
+          "bars",
+          "iron bar"
+        ],
+        "option_c": [
+          "trapdoor",
+          "trap door",
+          "trap",
+          "door",
+          "raptor"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": "HIS_AUDIO_22.mp3",
+      "roundType": "audio"
+    },
+    {
+      "id": "HIS_AUDIO_23",
+      "que": "This lively hum of bartering voices would have been heard in which busy historic setting?",
+      "ans": {
+        "value": "old marketplace",
+        "correct_entity": "option_a"
+      },
+      "options": [
+        "old marketplace",
+        "royal court",
+        "monastery"
+      ],
+      "expl": [
+        "This lively hum of bartering voices would have been heard in an old marketplace. Marketplaces were often the social and economic heart of towns throughout history. Merchants and craftspeople gathered to sell goods, exchange news, and negotiate prices. Many modern markets and bazaars still carry on these centuries-old bartering traditions."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "old marketplace",
+          "old",
+          "marketplace",
+          "old market place"
+        ],
+        "option_b": [
+          "royal court",
+          "royal",
+          "court"
+        ],
+        "option_c": [
+          "monastery",
+          "money street"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": "HIS_AUDIO_23.mp3",
+      "roundType": "audio"
+    }
+  ]
+}

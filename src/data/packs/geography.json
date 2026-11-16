@@ -1,0 +1,1617 @@
+[
+  {
+    "id": "1",
+    "que": "Which continent is the smallest?",
+    "ans": {
+      "value": "Australia",
+      "correct_entity": "option_b"
+    },
+    "options": [
+      "South America",
+      "Australia",
+      "North America"
+    ],
+    "expl": [
+      "In terms of land area, Australia is the world's smallest continent."
+    ],
+    "imageUrl": "",
+    "audioUrl": "",
+    "dynamic_entities": {
+      "option_a": [
+        "south america",
+        "south",
+        "america"
+      ],
+      "option_b": [
+        "australia"
+      ],
+      "option_c": [
+        "north america",
+        "north",
+        "america"
+      ]
+    },
+    "isActive": true
+  },
+  {
+    "id": "2",
+    "que": "Where are the headquarters of the United Nations located?",
+    "ans": {
+      "value": "New York",
+      "correct_entity": "option_a"
+    },
+    "options": [
+      "New York",
+      "New Delhi",
+      "London"
+    ],
+    "expl": [
+      "The United Nations Head Quarters is located in Manhattan, New York since its completion in 1952."
+    ],
+    "imageUrl": "",
+    "audioUrl": "",
+    "dynamic_entities": {
+      "option_a": [
+        "new york",
+        "new",
+        "york"
+      ],
+      "option_b": [
+        "new delhi",
+        "new",
+        "delhi"
+      ],
+      "option_c": [
+        "london"
+      ]
+    },
+    "isActive": true
+  },
+  {
+    "id": "3",
+    "que": "Which planet is known as the red planet?",
+    "ans": {
+      "value": "Mars",
+      "correct_entity": "option_a"
+    },
+    "options": [
+      "Mars",
+      "Jupiter",
+      "Mercury"
+    ],
+    "expl": [
+      "Mars is often called the 'Red Planet' because it appears in the sky as an orange-red star."
+    ],
+    "imageUrl": "",
+    "audioUrl": "",
+    "dynamic_entities": {
+      "option_a": [
+        "mars",
+        "mar"
+      ],
+      "option_b": [
+        "jupiter"
+      ],
+      "option_c": [
+        "mercury"
+      ]
+    },
+    "isActive": true
+  },
+  {
+    "id": "4",
+    "que": "What is the capital of Australia?",
+    "ans": {
+      "value": "Canberra",
+      "correct_entity": "option_a"
+    },
+    "options": [
+      "Canberra",
+      "Sydney",
+      "Melbourne"
+    ],
+    "expl": [
+      "Canberra is the capital of Australia."
+    ],
+    "imageUrl": "",
+    "audioUrl": "",
+    "dynamic_entities": {
+      "option_a": [
+        "canberra"
+      ],
+      "option_b": [
+        "sydney"
+      ],
+      "option_c": [
+        "melbourne"
+      ]
+    },
+    "isActive": true
+  },
+  {
+    "id": "5",
+    "que": "Which country shares the maximum borders?",
+    "ans": {
+      "value": "China",
+      "correct_entity": "option_a"
+    },
+    "options": [
+      "China",
+      "India",
+      "Russia"
+    ],
+    "expl": [
+      "China shares 14 borders which is the maximum number of borders shared by one country."
+    ],
+    "imageUrl": "",
+    "audioUrl": "",
+    "dynamic_entities": {
+      "option_a": [
+        "china"
+      ],
+      "option_b": [
+        "india"
+      ],
+      "option_c": [
+        "russia"
+      ]
+    },
+    "isActive": true
+  },
+  {
+    "id": "6",
+    "que": "Which ocean is the largest ocean in the world?",
+    "ans": {
+      "value": "Pacific",
+      "correct_entity": "option_c"
+    },
+    "options": [
+      "Atlantic",
+      "Indian",
+      "Pacific"
+    ],
+    "expl": [
+      "The Pacific Ocean is the largest and deepest of the world ocean basins. It covers approximately 63 million square miles."
+    ],
+    "imageUrl": "",
+    "audioUrl": "",
+    "dynamic_entities": {
+      "option_a": [
+        "atlantic",
+        "atlantics"
+      ],
+      "option_b": [
+        "indian",
+        "india"
+      ],
+      "option_c": [
+        "pacific"
+      ]
+    },
+    "isActive": true
+  },
+  {
+    "id": "7",
+    "que": "What is the longest river in the world?",
+    "ans": {
+      "value": "Nile",
+      "correct_entity": "option_b"
+    },
+    "options": [
+      "Congo",
+      "Nile",
+      "Ganga"
+    ],
+    "expl": [
+      "The nile is the worlds longest river at 4132 miles."
+    ],
+    "imageUrl": "",
+    "audioUrl": "",
+    "dynamic_entities": {
+      "option_a": [
+        "congo"
+      ],
+      "option_b": [
+        "nile"
+      ],
+      "option_c": [
+        "ganga"
+      ]
+    },
+    "isActive": true
+  },
+  {
+    "id": "8",
+    "que": "What is the world's biggest island?",
+    "ans": {
+      "value": "Greenland",
+      "correct_entity": "option_a"
+    },
+    "options": [
+      "Greenland",
+      "Sri Lanka",
+      "Maldives"
+    ],
+    "expl": [
+      "Greenland is the worlds largest island. it has an area of 2,166,086 square km."
+    ],
+    "imageUrl": "",
+    "audioUrl": "",
+    "dynamic_entities": {
+      "option_a": [
+        "greenland",
+        "green land"
+      ],
+      "option_b": [
+        "sri lanka",
+        "sri",
+        "lanka"
+      ],
+      "option_c": [
+        "maldives",
+        "maldive"
+      ]
+    },
+    "isActive": true
+  },
+  {
+    "id": "9",
+    "que": "Which city in the world has the largest population?",
+    "ans": {
+      "value": "Tokyo",
+      "correct_entity": "option_a"
+    },
+    "options": [
+      "Tokyo",
+      "New Delhi",
+      "New York"
+    ],
+    "expl": [
+      "The largest city in the world by population is Tokyo, Japan, with a population of about 38 million."
+    ],
+    "imageUrl": "",
+    "audioUrl": "",
+    "dynamic_entities": {
+      "option_a": [
+        "tokyo"
+      ],
+      "option_b": [
+        "new delhi",
+        "new",
+        "delhi",
+        "dilli"
+      ],
+      "option_c": [
+        "new york",
+        "new",
+        "york"
+      ]
+    },
+    "isActive": true
+  },
+  {
+    "id": "10",
+    "que": "Which is the most populated U.S. state?",
+    "ans": {
+      "value": "California",
+      "correct_entity": "option_a"
+    },
+    "options": [
+      "California",
+      "Ohio",
+      "Texas"
+    ],
+    "expl": [
+      "California is Americas most populous state with 38.8 million residents."
+    ],
+    "imageUrl": "",
+    "audioUrl": "",
+    "dynamic_entities": {
+      "option_a": [
+        "california"
+      ],
+      "option_b": [
+        "ohio"
+      ],
+      "option_c": [
+        "texas"
+      ]
+    },
+    "isActive": true
+  },
+  {
+    "id": "11",
+    "que": "Which country is the largest producer of wheat?",
+    "ans": {
+      "value": "China",
+      "correct_entity": "option_c"
+    },
+    "options": [
+      "Pakistan",
+      "Bangladesh",
+      "China"
+    ],
+    "expl": [
+      "China produces around 126 million metric tons of wheat every year."
+    ],
+    "imageUrl": "",
+    "audioUrl": "",
+    "dynamic_entities": {
+      "option_a": [
+        "pakistan"
+      ],
+      "option_b": [
+        "bangladesh"
+      ],
+      "option_c": [
+        "china"
+      ]
+    },
+    "isActive": true
+  },
+  {
+    "id": "12",
+    "que": "Which country has the longest coastline in the world?",
+    "ans": {
+      "value": "Canada",
+      "correct_entity": "option_c"
+    },
+    "options": [
+      "India",
+      "Australia",
+      "Canada"
+    ],
+    "expl": [
+      "Canada is the country with the longest coastline which is 152,100 miles."
+    ],
+    "imageUrl": "",
+    "audioUrl": "",
+    "dynamic_entities": {
+      "option_a": [
+        "india"
+      ],
+      "option_b": [
+        "australia"
+      ],
+      "option_c": [
+        "canada"
+      ]
+    },
+    "isActive": true
+  },
+  {
+    "id": "13",
+    "que": "Where is the Dead Sea located?",
+    "ans": {
+      "value": "Israel and Jordan",
+      "correct_entity": "option_a"
+    },
+    "options": [
+      "Israel and Jordan",
+      "Iraq",
+      "Egypt"
+    ],
+    "expl": [
+      "Dead Sea is located in the Jordan Rift Valley, bordered by Israel to the East and Jordan to the West."
+    ],
+    "imageUrl": "",
+    "audioUrl": "",
+    "dynamic_entities": {
+      "option_a": [
+        "israel and jordan",
+        "israel",
+        "and",
+        "jordan"
+      ],
+      "option_b": [
+        "iraq"
+      ],
+      "option_c": [
+        "egypt"
+      ]
+    },
+    "isActive": true
+  },
+  {
+    "id": "14",
+    "que": "Which country is known as the land of the rising sun?",
+    "ans": {
+      "value": "Japan",
+      "correct_entity": "option_b"
+    },
+    "options": [
+      "Australia",
+      "Japan",
+      "China"
+    ],
+    "expl": [
+      "The name the land of the rising sun was chosen because the country was so close to where the sun rises."
+    ],
+    "imageUrl": "",
+    "audioUrl": "",
+    "dynamic_entities": {
+      "option_a": [
+        "australia"
+      ],
+      "option_b": [
+        "japan"
+      ],
+      "option_c": [
+        "china"
+      ]
+    },
+    "isActive": true
+  },
+  {
+    "id": "15",
+    "que": "Which country is the largest producer of rice?",
+    "ans": {
+      "value": "China",
+      "correct_entity": "option_a"
+    },
+    "options": [
+      "China",
+      "India",
+      "Pakistan"
+    ],
+    "expl": [
+      "China is the world's largest rice producer with 193 million metric tons which accounts for about 35% of total world rice production."
+    ],
+    "imageUrl": "",
+    "audioUrl": "",
+    "dynamic_entities": {
+      "option_a": [
+        "china"
+      ],
+      "option_b": [
+        "india"
+      ],
+      "option_c": [
+        "pakistan"
+      ]
+    },
+    "isActive": true
+  },
+  {
+    "id": "16",
+    "que": "Which is the smallest ocean in world?",
+    "ans": {
+      "value": "Arctic",
+      "correct_entity": "option_a"
+    },
+    "options": [
+      "Arctic",
+      "Indian",
+      "Southern"
+    ],
+    "expl": [
+      "The Arctic Ocean is the smallest of the world's five ocean basins covers approximately 5.4 million square miles."
+    ],
+    "imageUrl": "",
+    "audioUrl": "",
+    "dynamic_entities": {
+      "option_a": [
+        "arctic",
+        "artic"
+      ],
+      "option_b": [
+        "indian",
+        "india"
+      ],
+      "option_c": [
+        "southern"
+      ]
+    },
+    "isActive": true
+  },
+  {
+    "id": "17",
+    "que": "Which place holds the record for the highest temperature ever recorded on Earth?",
+    "ans": {
+      "value": "Death Valley",
+      "correct_entity": "option_a"
+    },
+    "options": [
+      "Death Valley",
+      "Kuwait",
+      "Sahara Desert"
+    ],
+    "expl": [
+      "The Death Valley temperature record of 56.7 degree Celcius (134 degree fahrenheit) is widely referenced."
+    ],
+    "imageUrl": "",
+    "audioUrl": "",
+    "dynamic_entities": {
+      "option_a": [
+        "death valley",
+        "death",
+        "valley"
+      ],
+      "option_b": [
+        "kuwait"
+      ],
+      "option_c": [
+        "sahara desert",
+        "sahara",
+        "desert"
+      ]
+    },
+    "isActive": true
+  },
+  {
+    "id": "18",
+    "que": "California was the first capital of America.",
+    "ans": {
+      "value": "false",
+      "correct_entity": "option_b"
+    },
+    "options": [
+      "true",
+      "false"
+    ],
+    "expl": [
+      "Philadelphia was the first capital of America."
+    ],
+    "imageUrl": "",
+    "audioUrl": "",
+    "dynamic_entities": {
+      "option_a": [
+        "true",
+        "yes",
+        "correct"
+      ],
+      "option_b": [
+        "false",
+        "no",
+        "incorrect"
+      ]
+    },
+    "isActive": true
+  },
+  {
+    "id": "19",
+    "que": "The first skyscraper was built in Hong Kong.",
+    "ans": {
+      "value": "false",
+      "correct_entity": "option_b"
+    },
+    "options": [
+      "true",
+      "false"
+    ],
+    "expl": [
+      "The first sky scraper was the home insurance building built in Chicago in 1885."
+    ],
+    "imageUrl": "",
+    "audioUrl": "",
+    "dynamic_entities": {
+      "option_a": [
+        "true",
+        "yes",
+        "correct"
+      ],
+      "option_b": [
+        "false",
+        "no",
+        "incorrect"
+      ]
+    },
+    "isActive": true
+  },
+  {
+    "id": "20",
+    "que": "Is Iceland really covered in ice.",
+    "ans": {
+      "value": "false",
+      "correct_entity": "option_b"
+    },
+    "options": [
+      "true",
+      "false"
+    ],
+    "expl": [
+      "Iceland is actually really not covered in ice. It is called Iceland because the waters are full of icebergs."
+    ],
+    "imageUrl": "",
+    "audioUrl": "",
+    "dynamic_entities": {
+      "option_a": [
+        "true",
+        "yes",
+        "correct"
+      ],
+      "option_b": [
+        "false",
+        "no",
+        "incorrect"
+      ]
+    },
+    "isActive": true
+  },
+  {
+    "id": "21",
+    "que": "Seattle is the capital of Washington state.",
+    "ans": {
+      "value": "false",
+      "correct_entity": "option_b"
+    },
+    "options": [
+      "true",
+      "false"
+    ],
+    "expl": [
+      "Olympia is the capital of Washington state."
+    ],
+    "imageUrl": "",
+    "audioUrl": "",
+    "dynamic_entities": {
+      "option_a": [
+        "true",
+        "yes",
+        "correct"
+      ],
+      "option_b": [
+        "false",
+        "no",
+        "incorrect"
+      ]
+    },
+    "isActive": true
+  },
+  {
+    "id": "22",
+    "que": "Which is the longest river in the U.S.?",
+    "ans": {
+      "value": "Missouri",
+      "correct_entity": "option_a"
+    },
+    "options": [
+      "Missouri",
+      "Yukon",
+      "Colorado "
+    ],
+    "expl": [
+      "Missouri River stretches for 2,341 miles."
+    ],
+    "imageUrl": "",
+    "audioUrl": "",
+    "dynamic_entities": {
+      "option_a": [
+        "missouri"
+      ],
+      "option_b": [
+        "yukon"
+      ],
+      "option_c": [
+        "colorado ",
+        "colorado",
+        "colourado"
+      ]
+    },
+    "isActive": true
+  },
+  {
+    "id": "23",
+    "que": "What is the oldest mountain range in the United States?",
+    "ans": {
+      "value": "Black Hills",
+      "correct_entity": "option_b"
+    },
+    "options": [
+      "Glacier Mountains",
+      "Black Hills",
+      "Rocky Mountains"
+    ],
+    "expl": [
+      "The Black Hills, they are 1.8 billion years old. They are located mostly in South Dakota and a bit in Wyoming."
+    ],
+    "imageUrl": "",
+    "audioUrl": "",
+    "dynamic_entities": {
+      "option_a": [
+        "glacier mountains",
+        "glacier",
+        "mountains",
+        "mountain",
+        "glacier mountain"
+      ],
+      "option_b": [
+        "black hills",
+        "black",
+        "hills",
+        "black hill",
+        "black heels",
+        "black heel",
+        "heels",
+        "heel"
+      ],
+      "option_c": [
+        "rocky mountains",
+        "rocky",
+        "mountains"
+      ]
+    },
+    "isActive": true
+  },
+  {
+    "id": "24",
+    "que": "Which U.S. state is the Grand Canyon located in?",
+    "ans": {
+      "value": "Arizona",
+      "correct_entity": "option_b"
+    },
+    "options": [
+      "Nevada",
+      "Arizona",
+      "New Mexico"
+    ],
+    "expl": [
+      "Grand Canyon is entirely in Arizona."
+    ],
+    "imageUrl": "",
+    "audioUrl": "",
+    "dynamic_entities": {
+      "option_a": [
+        "nevada"
+      ],
+      "option_b": [
+        "arizona"
+      ],
+      "option_c": [
+        "new mexico",
+        "new",
+        "mexico"
+      ]
+    },
+    "isActive": true
+  },
+  {
+    "id": "25",
+    "que": "What is the name of the tallest uninterrupted waterfall in the world?",
+    "ans": {
+      "value": "Angel",
+      "correct_entity": "option_b"
+    },
+    "options": [
+      "Niagara Falls",
+      "Angel",
+      "Victoria"
+    ],
+    "expl": [
+      "Angel Falls in Venezuela is the highest waterfall in the world. The falls are 3230 feet in height, with an uninterrupted drop of 2647 feet."
+    ],
+    "imageUrl": "",
+    "audioUrl": "",
+    "dynamic_entities": {
+      "option_a": [
+        "niagara falls",
+        "niagara",
+        "falls"
+      ],
+      "option_b": [
+        "angel",
+        "angels"
+      ],
+      "option_c": [
+        "victoria"
+      ]
+    },
+    "isActive": true
+  },
+  {
+    "id": "26",
+    "que": "What is the capital of Spain?",
+    "ans": {
+      "value": "Madrid",
+      "correct_entity": "option_b"
+    },
+    "options": [
+      "Barcelona",
+      "Madrid",
+      "Malaga"
+    ],
+    "expl": [
+      "Madrid is the capital and most populous city of Spain."
+    ],
+    "imageUrl": "",
+    "audioUrl": "",
+    "dynamic_entities": {
+      "option_a": [
+        "barcelona"
+      ],
+      "option_b": [
+        "madrid"
+      ],
+      "option_c": [
+        "malaga"
+      ]
+    },
+    "isActive": true
+  },
+  {
+    "id": "27",
+    "que": "Which river flows through Grand Canyon?",
+    "ans": {
+      "value": "Colorado",
+      "correct_entity": "option_a"
+    },
+    "options": [
+      "Colorado",
+      "Salt",
+      "Canyon"
+    ],
+    "expl": [
+      "Yes, it is true that the Colorado River flows through the Grand Canyon."
+    ],
+    "imageUrl": "",
+    "audioUrl": "",
+    "dynamic_entities": {
+      "option_a": [
+        "colorado",
+        "colorado",
+        "river"
+      ],
+      "option_b": [
+        "salt"
+      ],
+      "option_c": [
+        "canyon",
+        "can on",
+        "canon"
+      ]
+    },
+    "isActive": true
+  },
+  {
+    "id": "28",
+    "que": "What is the smallest country in the world?",
+    "ans": {
+      "value": "Vatican City",
+      "correct_entity": "option_b"
+    },
+    "options": [
+      "Nauru",
+      "Vatican City",
+      "Maldives"
+    ],
+    "expl": [
+      "Vatican City is the smallest country in the world. It is only .17 square miles in area."
+    ],
+    "imageUrl": "",
+    "audioUrl": "",
+    "dynamic_entities": {
+      "option_a": [
+        "nauru"
+      ],
+      "option_b": [
+        "vatican city",
+        "vatican",
+        "city"
+      ],
+      "option_c": [
+        "maldives",
+        "maldive"
+      ]
+    },
+    "isActive": true
+  },
+  {
+    "id": "29",
+    "que": "What continent covers all four hemispheres?",
+    "ans": {
+      "value": "Africa",
+      "correct_entity": "option_c"
+    },
+    "options": [
+      "Europe",
+      "North America",
+      "Africa"
+    ],
+    "expl": [
+      "Africa is the only continent found in all four hemispheres."
+    ],
+    "imageUrl": "",
+    "audioUrl": "",
+    "dynamic_entities": {
+      "option_a": [
+        "europe"
+      ],
+      "option_b": [
+        "north america",
+        "north",
+        "america"
+      ],
+      "option_c": [
+        "africa"
+      ]
+    },
+    "isActive": true
+  },
+  {
+    "id": "30",
+    "que": "Which country has more natural lakes than any other country?",
+    "ans": {
+      "value": "Canada",
+      "correct_entity": "option_c"
+    },
+    "options": [
+      "United States",
+      "China",
+      "Canada"
+    ],
+    "expl": [
+      "Canada has more natural lakes than any other country in the world. There are 561 lakes in Canada."
+    ],
+    "imageUrl": "",
+    "audioUrl": "",
+    "dynamic_entities": {
+      "option_a": [
+        "united states",
+        "united",
+        "states"
+      ],
+      "option_b": [
+        "china"
+      ],
+      "option_c": [
+        "canada"
+      ]
+    },
+    "isActive": true
+  },
+  {
+    "id": "31",
+    "que": "Most of the world's population lives in which hemisphere?",
+    "ans": {
+      "value": "North",
+      "correct_entity": "option_a"
+    },
+    "options": [
+      "North",
+      "South",
+      "East"
+    ],
+    "expl": [
+      "Roughly 90% off all people live in the north."
+    ],
+    "imageUrl": "",
+    "audioUrl": "",
+    "dynamic_entities": {
+      "option_a": [
+        "north"
+      ],
+      "option_b": [
+        "south"
+      ],
+      "option_c": [
+        "east"
+      ]
+    },
+    "isActive": true
+  },
+  {
+    "id": "32",
+    "que": "What continent has the most countries?",
+    "ans": {
+      "value": "Africa",
+      "correct_entity": "option_b"
+    },
+    "options": [
+      "North America",
+      "Africa",
+      "Asia"
+    ],
+    "expl": [
+      "The continent of Africa has the most countries. Africa has 54 countries."
+    ],
+    "imageUrl": "",
+    "audioUrl": "",
+    "dynamic_entities": {
+      "option_a": [
+        "north america",
+        "north",
+        "america"
+      ],
+      "option_b": [
+        "africa"
+      ],
+      "option_c": [
+        "asia"
+      ]
+    },
+    "isActive": true
+  },
+  {
+    "id": "33",
+    "que": "Where is the lowest point on Earth?",
+    "ans": {
+      "value": "The Dead Sea",
+      "correct_entity": "option_b"
+    },
+    "options": [
+      "The Grand Canyon",
+      "The Dead Sea",
+      "The Sahara Desert"
+    ],
+    "expl": [
+      "The Dead Sea is the lowest point on Earth. The Dead Sea is 1,388 feet below sea level."
+    ],
+    "imageUrl": "",
+    "audioUrl": "",
+    "dynamic_entities": {
+      "option_a": [
+        "the grand canyon",
+        "the",
+        "grand",
+        "canyon",
+        "grand canyon"
+      ],
+      "option_b": [
+        "the dead sea",
+        "the",
+        "dead",
+        "sea",
+        "dead sea"
+      ],
+      "option_c": [
+        "the sahara desert",
+        "the",
+        "sahara",
+        "desert",
+        "sahara desert"
+      ]
+    },
+    "isActive": true
+  },
+  {
+    "id": "34",
+    "que": "Where is the world's deepest lake?",
+    "ans": {
+      "value": "Russia",
+      "correct_entity": "option_c"
+    },
+    "options": [
+      "China",
+      "Canada",
+      "Russia"
+    ],
+    "expl": [
+      "Lake Baikal is the world's deepest lake is in Siberia, Russia. It is 5,387 feet deep."
+    ],
+    "imageUrl": "",
+    "audioUrl": "",
+    "dynamic_entities": {
+      "option_a": [
+        "china"
+      ],
+      "option_b": [
+        "canada"
+      ],
+      "option_c": [
+        "russia"
+      ]
+    },
+    "isActive": true
+  },
+  {
+    "id": "35",
+    "que": "What is the name of the line that divides the globe into east and west?",
+    "ans": {
+      "value": "Prime Meridian",
+      "correct_entity": "option_c"
+    },
+    "options": [
+      "Equator",
+      "Latitude",
+      "Prime Meridian"
+    ],
+    "expl": [
+      "The Prime Meridian divides the globe into east and west hemispheres. The Prime Meridian is at zero degrees longitude."
+    ],
+    "imageUrl": "",
+    "audioUrl": "",
+    "dynamic_entities": {
+      "option_a": [
+        "equator",
+        "equators"
+      ],
+      "option_b": [
+        "latitude",
+        "latitudes"
+      ],
+      "option_c": [
+        "prime meridian",
+        "prime",
+        "meridian"
+      ]
+    },
+    "isActive": true
+  },
+  {
+    "id": "36",
+    "que": "Where is the largest volcano in the world?",
+    "ans": {
+      "value": "United States",
+      "correct_entity": "option_a"
+    },
+    "options": [
+      "United States",
+      "Germany",
+      "England"
+    ],
+    "expl": [
+      "The largest volcano in the world is in the United States. Mauna Loa is in Hawaii and is also the most active volcano in the world."
+    ],
+    "imageUrl": "",
+    "audioUrl": "",
+    "dynamic_entities": {
+      "option_a": [
+        "united states",
+        "united",
+        "states"
+      ],
+      "option_b": [
+        "germany"
+      ],
+      "option_c": [
+        "england"
+      ]
+    },
+    "isActive": true
+  },
+  {
+    "id": "37",
+    "que": "Where is the largest coral reef?",
+    "ans": {
+      "value": "Australia",
+      "correct_entity": "option_b"
+    },
+    "options": [
+      "Italy",
+      "Australia",
+      "Canada"
+    ],
+    "expl": [
+      "The largest coral reef is in Australia. It is the Great Barrier Reef."
+    ],
+    "imageUrl": "",
+    "audioUrl": "",
+    "dynamic_entities": {
+      "option_a": [
+        "italy"
+      ],
+      "option_b": [
+        "australia"
+      ],
+      "option_c": [
+        "canada"
+      ]
+    },
+    "isActive": true
+  },
+  {
+    "id": "38",
+    "que": "What is the line called that divides the Northern and the Southern Hemispheres?",
+    "ans": {
+      "value": "Equator",
+      "correct_entity": "option_a"
+    },
+    "options": [
+      "Equator",
+      "Longitude",
+      "Latitude"
+    ],
+    "expl": [
+      "The equator is the line that divides the Northern and the Southern Hemispheres."
+    ],
+    "imageUrl": "",
+    "audioUrl": "",
+    "dynamic_entities": {
+      "option_a": [
+        "equator",
+        "equators"
+      ],
+      "option_b": [
+        "longitude"
+      ],
+      "option_c": [
+        "latitude"
+      ]
+    },
+    "isActive": true
+  },
+  {
+    "id": "39",
+    "que": "What percentage of the Earth's surface is covered by water?",
+    "ans": {
+      "value": "70",
+      "correct_entity": "option_b"
+    },
+    "options": [
+      "30",
+      "70",
+      "80"
+    ],
+    "expl": [
+      "About 70% of the surface of the Earth is water. The other 30% is land."
+    ],
+    "imageUrl": "",
+    "audioUrl": "",
+    "dynamic_entities": {
+      "option_a": [
+        "30",
+        "thirty"
+      ],
+      "option_b": [
+        "70",
+        "seventy"
+      ],
+      "option_c": [
+        "80",
+        "eighty"
+      ]
+    },
+    "isActive": true
+  },
+  {
+    "id": "40",
+    "que": "Which is the greenest country in the world",
+    "ans": {
+      "value": "Iceland",
+      "correct_entity": "option_a"
+    },
+    "options": [
+      "Iceland",
+      "Switzerland",
+      "Finland"
+    ],
+    "expl": [
+      "Iceland is the greenest country in the world with an EPI score of 93.5."
+    ],
+    "imageUrl": "",
+    "audioUrl": "",
+    "dynamic_entities": {
+      "option_a": [
+        "iceland",
+        "ice land"
+      ],
+      "option_b": [
+        "switzerland"
+      ],
+      "option_c": [
+        "finland"
+      ]
+    },
+    "isActive": true
+  },
+  {
+    "id": "41",
+    "que": "The United States state of Georgia is famous for what fruit?",
+    "ans": {
+      "value": "Peach",
+      "correct_entity": "option_a"
+    },
+    "options": [
+      "Peach",
+      "Apple",
+      "Kiwi"
+    ],
+    "expl": [
+      "Georgia is known for having the best quality peach."
+    ],
+    "imageUrl": "",
+    "audioUrl": "",
+    "dynamic_entities": {
+      "option_a": [
+        "peach"
+      ],
+      "option_b": [
+        "apple",
+        "apples"
+      ],
+      "option_c": [
+        "kiwi"
+      ]
+    },
+    "isActive": true
+  },
+  {
+    "id": "42",
+    "que": "In which U.S. state would you find Mount Rushmore?",
+    "ans": {
+      "value": "South Dakota",
+      "correct_entity": "option_b"
+    },
+    "options": [
+      "Utah",
+      "South Dakota",
+      "North Dakota"
+    ],
+    "expl": [
+      "Mount Rushmore is a massive sculpture carved into Mount Rushmore in South Dakota."
+    ],
+    "imageUrl": "",
+    "audioUrl": "",
+    "dynamic_entities": {
+      "option_a": [
+        "utah"
+      ],
+      "option_b": [
+        "south dakota",
+        "south",
+        "dakota"
+      ],
+      "option_c": [
+        "north dakota",
+        "north",
+        "dakota"
+      ]
+    },
+    "isActive": true
+  },
+  {
+    "id": "43",
+    "que": "What is the smallest state in the U.S.?",
+    "ans": {
+      "value": "Rhode Island",
+      "correct_entity": "option_a"
+    },
+    "options": [
+      "Rhode Island",
+      "Delaware",
+      "Hawaii"
+    ],
+    "expl": [
+      "Rhode Island is 1,212 square miles. It is known for it's sandy shores and seaside Colonial towns."
+    ],
+    "imageUrl": "",
+    "audioUrl": "",
+    "dynamic_entities": {
+      "option_a": [
+        "rhode island",
+        "rhode",
+        "island"
+      ],
+      "option_b": [
+        "delaware"
+      ],
+      "option_c": [
+        "hawaii",
+        "hawai"
+      ]
+    },
+    "isActive": true
+  },
+  {
+    "id": "44",
+    "que": "Which U.S. route is famous for being called 'The Mother Road'?",
+    "ans": {
+      "value": "Route 66",
+      "correct_entity": "option_a"
+    },
+    "options": [
+      "Route 66",
+      "Interstate 90",
+      "Pacific Coast"
+    ],
+    "expl": [
+      "Route 66 is called \"The Mother Road\" for its historic role in America's westward travel."
+    ],
+    "imageUrl": "",
+    "audioUrl": "",
+    "dynamic_entities": {
+      "option_a": [
+        "route 66",
+        "route",
+        "66"
+      ],
+      "option_b": [
+        "interstate 90",
+        "interstate",
+        "90"
+      ],
+      "option_c": [
+        "pacific coast",
+        "pacific",
+        "coast"
+      ]
+    },
+    "isActive": true
+  },
+  {
+    "id": "45",
+    "que": "How many time zones are in Canada?",
+    "ans": {
+      "value": "6",
+      "correct_entity": "option_a"
+    },
+    "options": [
+      "6",
+      "7",
+      "8"
+    ],
+    "expl": [
+      "Canada uses six primary time zones."
+    ],
+    "imageUrl": "",
+    "audioUrl": "",
+    "dynamic_entities": {
+      "option_a": [
+        "6",
+        "six"
+      ],
+      "option_b": [
+        "7",
+        "seven"
+      ],
+      "option_c": [
+        "8",
+        "eight"
+      ]
+    },
+    "isActive": true
+  },
+  {
+    "id": "46",
+    "que": "The Great Pyramid of Giza is located in?",
+    "ans": {
+      "value": "Egypt",
+      "correct_entity": "option_a"
+    },
+    "options": [
+      "Egypt",
+      "Peru",
+      "Africa"
+    ],
+    "expl": [
+      "The great pyramid of Giza is in Egypt. It is the oldest wonder of the seven wonders of the world."
+    ],
+    "imageUrl": "",
+    "audioUrl": "",
+    "dynamic_entities": {
+      "option_a": [
+        "egypt"
+      ],
+      "option_b": [
+        "peru"
+      ],
+      "option_c": [
+        "africa"
+      ]
+    },
+    "isActive": true
+  },
+  {
+    "id": "47",
+    "que": "Which is the only US state to produce commercial coffee beans?",
+    "ans": {
+      "value": "Hawaii",
+      "correct_entity": "option_b"
+    },
+    "options": [
+      "Alaska",
+      "Hawaii",
+      "New Jersey"
+    ],
+    "expl": [
+      "One of only two states in the USA able to grow coffee plants commercially is Hawaii and California."
+    ],
+    "imageUrl": "",
+    "audioUrl": "",
+    "dynamic_entities": {
+      "option_a": [
+        "alaska"
+      ],
+      "option_b": [
+        "hawaii"
+      ],
+      "option_c": [
+        "new jersey",
+        "new",
+        "jersey"
+      ]
+    },
+    "isActive": true
+  },
+  {
+    "id": "48",
+    "que": "Death Valley is located in what U.S. state?",
+    "ans": {
+      "value": "California",
+      "correct_entity": "option_c"
+    },
+    "options": [
+      "Utah",
+      "Nevada",
+      "California"
+    ],
+    "expl": [
+      "Death Valley is located in the northern Mojave Desert of southern California."
+    ],
+    "imageUrl": "",
+    "audioUrl": "",
+    "dynamic_entities": {
+      "option_a": [
+        "utah"
+      ],
+      "option_b": [
+        "nevada"
+      ],
+      "option_c": [
+        "california"
+      ]
+    },
+    "isActive": true
+  },
+  {
+    "id": "49",
+    "que": "Where is the the Liberty Bell located?",
+    "ans": {
+      "value": "Philadelphia",
+      "correct_entity": "option_b"
+    },
+    "options": [
+      "New York",
+      "Philadelphia",
+      "Chicago"
+    ],
+    "expl": [
+      "The Liberty Bell, is an iconic symbol of American independence, located in Philadelphia, Pennsylvania."
+    ],
+    "imageUrl": "",
+    "audioUrl": "",
+    "dynamic_entities": {
+      "option_a": [
+        "new york",
+        "new",
+        "york",
+        "n. y. c.",
+        "n. y."
+      ],
+      "option_b": [
+        "philadelphia"
+      ],
+      "option_c": [
+        "chicago"
+      ]
+    },
+    "isActive": true
+  },
+  {
+    "id": "50",
+    "que": "Where is the Sears Tower located?",
+    "ans": {
+      "value": "Chicago",
+      "correct_entity": "option_b"
+    },
+    "options": [
+      "Las Vegas",
+      "Chicago",
+      "New York City"
+    ],
+    "expl": [
+      "The Willis Tower is a 110-story, 1,450-foot skyscraper in Chicago, Illinois."
+    ],
+    "imageUrl": "",
+    "audioUrl": "",
+    "dynamic_entities": {
+      "option_a": [
+        "las vegas",
+        "las",
+        "vegas"
+      ],
+      "option_b": [
+        "chicago"
+      ],
+      "option_c": [
+        "new york city",
+        "new",
+        "york",
+        "city",
+        "n. y. c.",
+        "n. y."
+      ]
+    },
+    "isActive": true
+  }
+]

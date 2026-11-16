@@ -1,0 +1,158 @@
+{
+  "type": "APL",
+  "version": "1.8",
+  "theme": "dark",
+  "background": "#0A36A0",
+  "mainTemplate": {
+    "parameters": [
+      "payload"
+    ],
+    "items": [
+      {
+        "type": "Container",
+        "width": "100%",
+        "height": "100%",
+        "paddingTop": "${viewport.height < 600 ? 20 : 40}",
+        "paddingBottom": "${viewport.height < 600 ? 20 : 40}",
+        "paddingLeft": "${viewport.shape == 'round' ? 72 : (viewport.height < 600 ? 96 : 170)}",
+        "paddingRight": "${viewport.shape == 'round' ? 72 : (viewport.height < 600 ? 96 : 170)}",
+        "items": [
+          {
+            "type": "VectorGraphic",
+            "source": "cornerWave",
+            "position": "absolute",
+            "top": 0,
+            "left": 0,
+            "width": "${viewport.height < 600 ? 240 : 360}",
+            "height": "${viewport.height < 600 ? 72 : 108}",
+            "scale": "best-fit"
+          },
+          {
+            "type": "VectorGraphic",
+            "source": "ringCluster",
+            "position": "absolute",
+            "top": "${viewport.height < 600 ? 40 : 70}",
+            "right": 0,
+            "width": "${viewport.height < 600 ? 70 : 110}",
+            "height": "${viewport.height < 600 ? 112 : 176}",
+            "scale": "best-fit"
+          },
+          {
+            "type": "VectorGraphic",
+            "source": "ringCluster",
+            "position": "absolute",
+            "bottom": "${viewport.height < 600 ? 24 : 40}",
+            "left": "${viewport.height < 600 ? -8 : -12}",
+            "width": "${viewport.height < 600 ? 60 : 90}",
+            "height": "${viewport.height < 600 ? 96 : 144}",
+            "scale": "best-fit",
+            "transform": [
+              {
+                "rotate": 180
+              }
+            ]
+          },
+          {
+            "type": "VectorGraphic",
+            "source": "dot",
+            "position": "absolute",
+            "top": "${viewport.height * 0.4}",
+            "left": "${viewport.height < 600 ? 44 : 70}",
+            "width": 18,
+            "height": 18
+          },
+          {
+            "type": "Text",
+            "text": "${payload.screen.title}",
+            "fontSize": "${viewport.height < 600 ? 30 : 42}",
+            "fontWeight": "700",
+            "color": "#F8FAFC"
+          },
+          {
+            "type": "Text",
+            "text": "${payload.screen.subtitle}",
+            "spacing": 6,
+            "fontSize": "${viewport.height < 600 ? 20 : 28}",
+            "color": "#FFC928",
+            "maxLines": 2
+          },
+          {
+            "type": "Sequence",
+            "width": "100%",
+            "height": 0,
+            "grow": 1,
+            "spacing": 12,
+            "data": "${payload.screen.items}",
+            "items": [
+              {
+                "type": "Text",
+                "text": "${data}",
+                "spacing": 6,
+                "fontSize": "${viewport.height < 600 ? 20 : 28}",
+                "color": "#E2E8F0"
+              }
+            ]
+          },
+          {
+            "type": "Text",
+            "text": "${payload.screen.hint}",
+            "spacing": 8,
+            "fontSize": "${viewport.height < 600 ? 16 : 22}",
+            "color": "#DBEAFE",
+            "maxLines": 2
+          }
+        ]
+      }
+    ]
+  },
+  "graphics": {
+    "cornerWave": {
+      "type": "AVG",
+      "version": "1.2",
+      "width": 200,
+      "height": 60,
+      "items": [
+        {
+          "type": "path",
+          "pathData": "M0,0 L200,0 C175,14 160,8 140,18 C120,28 105,16 85,26 C65,36 55,56 34,48 C18,42 12,54 0,60 Z",
+          "fill": "#FFC928"
+        }
+      ]
+    },
+    "ringCluster": {
+      "type": "AVG",
+      "version": "1.2",
+      "width": 100,
+      "height": 160,
+      "items": [
+        {
+          "type": "path",
+          "pathData": "M100,0 A80,80 0 0 0 100,160 Z",
+          "fill": "#FFC928"
+        },
+        {
+          "type": "path",
+          "pathData": "M100,28 A52,52 0 0 0 100,132",
+          "fill": "transparent",
+          "stroke": "#0D47C4",
+          "strokeWidth": 4
+        }
+      ]
+    },
+    "dot": {
+      "type": "AVG",
+      "version": "1.2",
+      "width": 20,
+      "height": 20,
+      "items": [
+        {
+          "type": "path",
+          "pathData": "M10,3 A7,7 0 1 1 9.99,3 Z",
+          "fill": "transparent",
+          "stroke": "#FFFFFF",
+          "strokeWidth": 2
+        }
+      ]
+    }
+  }
+}

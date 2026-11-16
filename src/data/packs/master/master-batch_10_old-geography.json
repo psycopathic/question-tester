@@ -1,0 +1,746 @@
+{
+  "TEXT_QUESTIONS": [
+    {
+      "id": "geography_B10_1",
+      "que": "The River Thames runs through which city?",
+      "ans": {
+        "value": "London",
+        "correct_entity": "option_c"
+      },
+      "options": [
+        "Manchester",
+        "Edinburgh",
+        "London"
+      ],
+      "expl": [
+        "The River Thames runs through London, England. At 346 kilometres, it is the longest river entirely in England. The Thames has been central to London's history, serving as a major trade route and the site of many historical events."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "Manchester"
+        ],
+        "option_b": [
+          "Edinburgh"
+        ],
+        "option_c": [
+          "London",
+          "greater london"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": ""
+    },
+    {
+      "id": "geography_B10_2",
+      "que": "Which country is known for the Acropolis?",
+      "ans": {
+        "value": "Greece",
+        "correct_entity": "option_c"
+      },
+      "options": [
+        "Italy",
+        "Turkey",
+        "Greece"
+      ],
+      "expl": [
+        "The Acropolis is located in Athens, Greece. The most famous structure on the Acropolis is the Parthenon, a temple dedicated to the goddess Athena. Built in the 5th century BC, the Acropolis is a UNESCO World Heritage Site and one of the most recognizable monuments in the world."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "Italy",
+          "italian"
+        ],
+        "option_b": [
+          "Turkey",
+          "turkish"
+        ],
+        "option_c": [
+          "Greece",
+          "greek",
+          "hellenic republic"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": ""
+    },
+    {
+      "id": "geography_B10_3",
+      "que": "What is the capital of Argentina?",
+      "ans": {
+        "value": "Buenos Aires",
+        "correct_entity": "option_a"
+      },
+      "options": [
+        "Buenos Aires",
+        "Córdoba",
+        "Montevideo"
+      ],
+      "expl": [
+        "Buenos Aires is the capital and largest city of Argentina. Located on the western shore of the Río de la Plata estuary, it is one of the most populous cities in South America. The city is known for tango music, steak, and its European-influenced architecture."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "Buenos Aires",
+          "ba"
+        ],
+        "option_b": [
+          "Córdoba",
+          "cordoba"
+        ],
+        "option_c": [
+          "Montevideo"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": ""
+    },
+    {
+      "id": "geography_B10_4",
+      "que": "Lake Titicaca lies on the border of which two countries?",
+      "ans": {
+        "value": "Peru and Bolivia",
+        "correct_entity": "option_b"
+      },
+      "options": [
+        "Chile and Bolivia",
+        "Peru and Bolivia",
+        "Colombia and Ecuador"
+      ],
+      "expl": [
+        "Lake Titicaca is located on the border of Peru and Bolivia in the Andes mountains. At 3,812 metres above sea level, it is the highest navigable lake in the world by elevation. It is also the largest lake in South America by volume of water."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "Chile and Bolivia",
+          "chile bolivia"
+        ],
+        "option_b": [
+          "Peru and Bolivia",
+          "peru bolivia"
+        ],
+        "option_c": [
+          "Colombia and Ecuador",
+          "colombia ecuador"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": ""
+    },
+    {
+      "id": "geography_B10_5",
+      "que": "The Colosseum is located in which city?",
+      "ans": {
+        "value": "Rome",
+        "correct_entity": "option_b"
+      },
+      "options": [
+        "Athens",
+        "Rome",
+        "Madrid"
+      ],
+      "expl": [
+        "The Colosseum is located in the centre of Rome, Italy. Built between 70 and 80 AD, it is the largest ancient amphitheatre ever built and could hold between 50,000 and 80,000 spectators. It was used for gladiatorial contests, public spectacles, and dramatic performances."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "Athens",
+          "greek"
+        ],
+        "option_b": [
+          "Rome",
+          "roma",
+          "eternal city"
+        ],
+        "option_c": [
+          "Madrid",
+          "spanish capital"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": ""
+    },
+    {
+      "id": "geography_B10_6",
+      "que": "What is the name of the strait that separates Europe from Africa?",
+      "ans": {
+        "value": "Strait of Gibraltar",
+        "correct_entity": "option_c"
+      },
+      "options": [
+        "Strait of Hormuz",
+        "Bosphorus Strait",
+        "Strait of Gibraltar"
+      ],
+      "expl": [
+        "The Strait of Gibraltar separates Europe from Africa. It connects the Atlantic Ocean to the Mediterranean Sea and lies between Spain in Europe and Morocco in Africa. At its narrowest point, the strait is only about 14 kilometres wide."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "Strait of Hormuz",
+          "hormuz"
+        ],
+        "option_b": [
+          "Bosphorus Strait",
+          "bosphorus"
+        ],
+        "option_c": [
+          "Strait of Gibraltar",
+          "gibraltar"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": ""
+    },
+    {
+      "id": "geography_B10_7",
+      "que": "Angkor Wat is the largest religious monument in the world, located in which country?",
+      "ans": {
+        "value": "Cambodia",
+        "correct_entity": "option_c"
+      },
+      "options": [
+        "Thailand",
+        "Myanmar",
+        "Cambodia"
+      ],
+      "expl": [
+        "Angkor Wat is located in Cambodia and is the largest religious monument in the world, covering 162.6 hectares. Built in the 12th century by Khmer Emperor Suryavarman II, it was originally a Hindu temple before converting to Buddhism. It is featured on Cambodia's national flag."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "Thailand",
+          "thai"
+        ],
+        "option_b": [
+          "Myanmar",
+          "burma"
+        ],
+        "option_c": [
+          "Cambodia",
+          "cambodian",
+          "khmer"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": ""
+    },
+    {
+      "id": "geography_B10_8",
+      "que": "Which country is home to the most UNESCO World Heritage Sites?",
+      "ans": {
+        "value": "Italy",
+        "correct_entity": "option_b"
+      },
+      "options": [
+        "China",
+        "Italy",
+        "France"
+      ],
+      "expl": [
+        "Italy has the most UNESCO World Heritage Sites of any country, with 58 as of 2023. China follows closely behind. Italy's sites include the Colosseum, Venice, Pompeii, the Amalfi Coast, and many Renaissance centres such as Florence and Siena."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "China",
+          "chinese"
+        ],
+        "option_b": [
+          "Italy",
+          "italian"
+        ],
+        "option_c": [
+          "France",
+          "french"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": ""
+    },
+    {
+      "id": "geography_B10_9",
+      "que": "What is the tallest waterfall in the world?",
+      "ans": {
+        "value": "Angel Falls",
+        "correct_entity": "option_b"
+      },
+      "options": [
+        "Niagara Falls",
+        "Angel Falls",
+        "Iguazu Falls"
+      ],
+      "expl": [
+        "Angel Falls in Venezuela is the world's tallest uninterrupted waterfall, with a height of 979 metres and a plunge of 807 metres. It was named after Jimmie Angel, an American aviator who was the first to fly over the falls. It is known as Kerepakupai Merú in the local Pemón language."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "Niagara Falls",
+          "niagara"
+        ],
+        "option_b": [
+          "Angel Falls",
+          "angel waterfall"
+        ],
+        "option_c": [
+          "Iguazu Falls",
+          "iguazu"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": ""
+    },
+    {
+      "id": "geography_B10_10",
+      "que": "Which U.S. national park is famous for its giant geyser called Old Faithful?",
+      "ans": {
+        "value": "Yellowstone National Park",
+        "correct_entity": "option_c"
+      },
+      "options": [
+        "Yosemite National Park",
+        "Grand Canyon National Park",
+        "Yellowstone National Park"
+      ],
+      "expl": [
+        "Yellowstone National Park, mostly in Wyoming, is famous for its hot springs and geysers, especially Old Faithful, which erupts about every 90 minutes. Yellowstone was the first national park in the world, created in 1872. It is also home to bison, elk, bears, and wolves."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "Yosemite National Park",
+          "yosemite"
+        ],
+        "option_b": [
+          "Grand Canyon National Park",
+          "grand canyon"
+        ],
+        "option_c": [
+          "Yellowstone National Park",
+          "yellowstone"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": ""
+    },
+    {
+      "id": "geography_B10_11",
+      "que": "The Panama Canal connects which two oceans?",
+      "ans": {
+        "value": "Pacific and Atlantic",
+        "correct_entity": "option_b"
+      },
+      "options": [
+        "Pacific and Indian",
+        "Pacific and Atlantic",
+        "Atlantic and Indian"
+      ],
+      "expl": [
+        "The Panama Canal connects the Pacific Ocean and the Atlantic Ocean through the Isthmus of Panama. Opened in 1914, it allows ships to travel between the two oceans without sailing around South America. The canal is about 80 kilometres long."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "Pacific and Indian",
+          "pacific indian"
+        ],
+        "option_b": [
+          "Pacific and Atlantic",
+          "pacific atlantic"
+        ],
+        "option_c": [
+          "Atlantic and Indian",
+          "atlantic indian"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": ""
+    },
+    {
+      "id": "geography_B10_12",
+      "que": "What is the capital of Egypt?",
+      "ans": {
+        "value": "Cairo",
+        "correct_entity": "option_c"
+      },
+      "options": [
+        "Alexandria",
+        "Luxor",
+        "Cairo"
+      ],
+      "expl": [
+        "Cairo is the capital of Egypt and the largest city in the Arab world. Located near the Nile Delta, it is home to more than 20 million people in the greater metropolitan area. Cairo is near the ancient cities of Memphis and the Giza pyramid complex."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "Alexandria",
+          "al iskandariyah"
+        ],
+        "option_b": [
+          "Luxor",
+          "al uqsur"
+        ],
+        "option_c": [
+          "Cairo",
+          "al qahirah"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": ""
+    },
+    {
+      "id": "geography_B10_13",
+      "que": "The Serengeti National Park is located in which country?",
+      "ans": {
+        "value": "Tanzania",
+        "correct_entity": "option_b"
+      },
+      "options": [
+        "Kenya",
+        "Tanzania",
+        "South Africa"
+      ],
+      "expl": [
+        "The Serengeti National Park is located in northern Tanzania. It is famous for the annual migration of over 1.5 million wildebeest and hundreds of thousands of zebras and gazelles. The Serengeti covers about 14,763 square kilometres and is a UNESCO World Heritage Site."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "Kenya",
+          "kenyan"
+        ],
+        "option_b": [
+          "Tanzania",
+          "tanzanian"
+        ],
+        "option_c": [
+          "South Africa",
+          "south african"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": ""
+    },
+    {
+      "id": "geography_B10_14",
+      "que": "What is the name of the sea between Italy and the Balkans?",
+      "ans": {
+        "value": "Adriatic Sea",
+        "correct_entity": "option_b"
+      },
+      "options": [
+        "Ionian Sea",
+        "Adriatic Sea",
+        "Aegean Sea"
+      ],
+      "expl": [
+        "The Adriatic Sea separates the Italian Peninsula from the Balkan Peninsula. It is a part of the Mediterranean Sea. The sea is bordered by Italy to the west and Slovenia, Croatia, Bosnia, Montenegro, and Albania to the east."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "Ionian Sea",
+          "ionian"
+        ],
+        "option_b": [
+          "Adriatic Sea",
+          "adriatic"
+        ],
+        "option_c": [
+          "Aegean Sea",
+          "aegean"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": ""
+    },
+    {
+      "id": "geography_B10_15",
+      "que": "Which is the longest river in the United States?",
+      "ans": {
+        "value": "Missouri River",
+        "correct_entity": "option_b"
+      },
+      "options": [
+        "Mississippi River",
+        "Missouri River",
+        "Colorado River"
+      ],
+      "expl": [
+        "The Missouri River is the longest river in the United States, stretching about 2,341 miles from Montana to where it joins the Mississippi River near St. Louis. The Mississippi is the second longest. Together, the Missouri-Mississippi system is one of the longest river systems in the world."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "Mississippi River",
+          "mississippi"
+        ],
+        "option_b": [
+          "Missouri River",
+          "missouri"
+        ],
+        "option_c": [
+          "Colorado River",
+          "colorado"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": ""
+    },
+    {
+      "id": "geography_B10_16",
+      "que": "What is the largest continent by area?",
+      "ans": {
+        "value": "Asia",
+        "correct_entity": "option_b"
+      },
+      "options": [
+        "Africa",
+        "Asia",
+        "North America"
+      ],
+      "expl": [
+        "Asia is the largest continent by area, covering approximately 44.6 million square kilometres — about 30% of Earth's total land area. It is home to more than 4.7 billion people, over 60% of the world's population. Asia contains the world's highest and lowest points on land."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "Africa",
+          "african"
+        ],
+        "option_b": [
+          "Asia",
+          "asian"
+        ],
+        "option_c": [
+          "North America",
+          "north american"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": ""
+    },
+    {
+      "id": "geography_B10_17",
+      "que": "What is the capital of Germany?",
+      "ans": {
+        "value": "Berlin",
+        "correct_entity": "option_c"
+      },
+      "options": [
+        "Munich",
+        "Hamburg",
+        "Berlin"
+      ],
+      "expl": [
+        "Berlin is the capital and largest city of Germany. It has a population of about 3.7 million in the city proper. Berlin was divided into East and West during the Cold War before the Berlin Wall fell in 1989 and German reunification occurred in 1990."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "Munich",
+          "münchen"
+        ],
+        "option_b": [
+          "Hamburg"
+        ],
+        "option_c": [
+          "Berlin"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": ""
+    },
+    {
+      "id": "geography_B10_18",
+      "que": "In which US city would you find the Golden Gate Bridge?",
+      "ans": {
+        "value": "San Francisco",
+        "correct_entity": "option_b"
+      },
+      "options": [
+        "Los Angeles",
+        "San Francisco",
+        "Seattle"
+      ],
+      "expl": [
+        "The Golden Gate Bridge is located in San Francisco, California. Completed in 1937, it spans the Golden Gate strait — the opening of San Francisco Bay into the Pacific Ocean. The bridge is 2,737 metres long and was the world's longest suspension bridge when it was built."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "Los Angeles",
+          "la"
+        ],
+        "option_b": [
+          "San Francisco",
+          "sf",
+          "san fran"
+        ],
+        "option_c": [
+          "Seattle"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": ""
+    },
+    {
+      "id": "geography_B10_19",
+      "que": "Which famous American landmark in South Dakota features four giant carved presidents?",
+      "ans": {
+        "value": "Mount Rushmore",
+        "correct_entity": "option_b"
+      },
+      "options": [
+        "Statue of Liberty",
+        "Mount Rushmore",
+        "Hoover Dam"
+      ],
+      "expl": [
+        "Mount Rushmore National Memorial in South Dakota features the faces of four U.S. Presidents carved into a granite cliff: George Washington, Thomas Jefferson, Theodore Roosevelt, and Abraham Lincoln. Each face is about 60 feet tall and took 14 years to complete."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "Statue of Liberty",
+          "liberty statue"
+        ],
+        "option_b": [
+          "Mount Rushmore",
+          "rushmore"
+        ],
+        "option_c": [
+          "Hoover Dam",
+          "hoover"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": ""
+    },
+    {
+      "id": "geography_B10_20",
+      "que": "Which river runs through the Grand Canyon in Arizona?",
+      "ans": {
+        "value": "Colorado River",
+        "correct_entity": "option_b"
+      },
+      "options": [
+        "Mississippi River",
+        "Colorado River",
+        "Rio Grande"
+      ],
+      "expl": [
+        "The Colorado River runs through the Grand Canyon in northern Arizona. Over millions of years, the river carved the canyon, which is about 277 miles long and over a mile deep in places. The Grand Canyon is one of the Seven Natural Wonders of the World."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "Mississippi River",
+          "mississippi"
+        ],
+        "option_b": [
+          "Colorado River",
+          "colorado"
+        ],
+        "option_c": [
+          "Rio Grande"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": ""
+    },
+    {
+      "id": "geography_B10_21",
+      "que": "Which U.S. state is famous for pineapples, surfing, and active volcanoes?",
+      "ans": {
+        "value": "Hawaii",
+        "correct_entity": "option_b"
+      },
+      "options": [
+        "Florida",
+        "Hawaii",
+        "California"
+      ],
+      "expl": [
+        "Hawaii is famous for pineapples, surfing, and active volcanoes. It is the only U.S. state made up entirely of islands and the only one outside North America. Hawaii became the 50th state in 1959 and is home to Kilauea, one of the world's most active volcanoes."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "Florida"
+        ],
+        "option_b": [
+          "Hawaii"
+        ],
+        "option_c": [
+          "California"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": ""
+    },
+    {
+      "id": "geography_B10_22",
+      "que": "Which U.S. city is nicknamed the 'Windy City'?",
+      "ans": {
+        "value": "Chicago",
+        "correct_entity": "option_b"
+      },
+      "options": [
+        "New York City",
+        "Chicago",
+        "Boston"
+      ],
+      "expl": [
+        "Chicago is nicknamed the 'Windy City.' Located on the shore of Lake Michigan in Illinois, it is famous for deep-dish pizza, the Willis Tower (formerly the Sears Tower), and Millennium Park's mirror-like Cloud Gate sculpture, often called 'The Bean.'"
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "New York City",
+          "new york"
+        ],
+        "option_b": [
+          "Chicago"
+        ],
+        "option_c": [
+          "Boston"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": ""
+    }
+  ],
+  "IMAGE_QUESTIONS": [],
+  "AUDIO_QUESTIONS": []
+}

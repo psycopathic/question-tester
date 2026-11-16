@@ -1,0 +1,2582 @@
+{
+  "TEXT_QUESTIONS": [
+    {
+      "id": "Trivia_Battle_B5_10",
+      "que": "What is the name of the tallest tree in the world?",
+      "ans": {
+        "value": "Hyperion",
+        "correct_entity": "option_b"
+      },
+      "options": [
+        "Hypatia",
+        "Hyperion",
+        "Copernicus"
+      ],
+      "expl": [
+        "Hyperion, a giant redwood in California’s Redwood National Park, is the tallest known tree on Earth at 379 feet—over twice the Statue of Liberty’s height (excluding its base)."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "Hypatia",
+          "hiepatia"
+        ],
+        "option_b": [
+          "Hyperion",
+          "hyperions"
+        ],
+        "option_c": [
+          "Copernicus",
+          "coper",
+          "copper"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": ""
+    },
+    {
+      "id": "Trivia_Battle_B5_12",
+      "que": "Crayola crayons are named after the French word for what?",
+      "ans": {
+        "value": "Chalk",
+        "correct_entity": "option_c"
+      },
+      "options": [
+        "Color",
+        "Paint",
+        "Chalk"
+      ],
+      "expl": [
+        "Crayola was named by Alice Stead Binney, wife of founder Edwin Binney. “Cray” comes from French “craie” (chalk) and “ola” from “oleaginous” (oily), linking the name to both chalk and oil."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "Color",
+          "colour",
+          "colours",
+          "colors"
+        ],
+        "option_b": [
+          "Paint",
+          "paints"
+        ],
+        "option_c": [
+          "Chalk",
+          "crayons"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": ""
+    },
+    {
+      "id": "Trivia_Battle_B5_24",
+      "que": "Where is the world's first underwater restaurant?",
+      "ans": {
+        "value": "Maldives",
+        "correct_entity": "option_a"
+      },
+      "options": [
+        "Maldives",
+        "Singapore",
+        "Thailand"
+      ],
+      "expl": [
+        "The Conrad Maldives Rangali Island's undersea restaurant, Ithaa, is located 16ft below sea level, opened in 2005, and is the world's first undersea restaurant, per the Academy of World Records.\""
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "Maldives",
+          "maldive"
+        ],
+        "option_b": [
+          "Singapore"
+        ],
+        "option_c": [
+          "Thailand"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": ""
+    },
+    {
+      "id": "Trivia_Battle_B5_25",
+      "que": "Who introduced macaroni and cheese to America?",
+      "ans": {
+        "value": "Thomas Jefferson",
+        "correct_entity": "option_a"
+      },
+      "options": [
+        "Thomas Jefferson",
+        "Eugene Levy",
+        "Marco Polo"
+      ],
+      "expl": [
+        "While on U.S. government business in France, Thomas Jefferson tasted macaroni and cheese for the first time and enjoyed it. He was so fond of it that he decided to introduce the dish to the United States."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "Thomas Jefferson",
+          "thomas",
+          "jefferson"
+        ],
+        "option_b": [
+          "Eugene Levy",
+          "eugene",
+          "levy",
+          "you you been",
+          "you gene"
+        ],
+        "option_c": [
+          "Marco Polo",
+          "marco",
+          "polo"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": ""
+    },
+    {
+      "id": "Trivia_Battle_B5_27",
+      "que": "Which fast-food chain is older?",
+      "ans": {
+        "value": "White Castle",
+        "correct_entity": "option_b"
+      },
+      "options": [
+        "McDonald's",
+        "White Castle",
+        "KFC"
+      ],
+      "expl": [
+        "White Castle, founded in 1921, is America’s oldest fast-food chain. When it began, hamburgers sold for just five cents each, making it a pioneer in affordable, quick-service dining."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "McDonald's",
+          "mc d.",
+          "mac d.",
+          "mac donald",
+          "mcdonald",
+          "m. c. donald",
+          "donald",
+          "macdonald"
+        ],
+        "option_b": [
+          "White Castle",
+          "white",
+          "castle"
+        ],
+        "option_c": [
+          "KFC",
+          "k. f. c."
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": ""
+    },
+    {
+      "id": "Trivia_Battle_B5_39",
+      "que": "What song is played to wake up U.S. soldiers?",
+      "ans": {
+        "value": "Reveille",
+        "correct_entity": "option_b"
+      },
+      "options": [
+        "Taps",
+        "Reveille",
+        "To Arms"
+      ],
+      "expl": [
+        "Among U.S. bugle calls, Reveille uniquely means “wake up” in French. Used to rouse troops and raise the flag, it was once called Troop (1812) and served to muster and roll call the unit."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "Taps",
+          "tap",
+          "tabs",
+          "apps"
+        ],
+        "option_b": [
+          "Reveille",
+          "river",
+          "riverie"
+        ],
+        "option_c": [
+          "To Arms",
+          "to arm",
+          "two arms",
+          "too arm",
+          "two arm",
+          "too arms"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": ""
+    },
+    {
+      "id": "Trivia_Battle_B5_45",
+      "que": "Disney's tallest roller coaster is named after what mountain?",
+      "ans": {
+        "value": "Mount Everest",
+        "correct_entity": "option_a"
+      },
+      "options": [
+        "Mount Everest",
+        "Matterhorn",
+        "Mount Fuji"
+      ],
+      "expl": [
+        "Expedition Everest at Disney’s Animal Kingdom is themed after a Himalayan “forbidden mountain” guarded by a yeti. Standing 199.5 feet tall, it’s Disney’s tallest ride, edging out Tower of Terror."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "Mount Everest",
+          "everest",
+          "mount"
+        ],
+        "option_b": [
+          "Matterhorn",
+          "matter",
+          "horn"
+        ],
+        "option_c": [
+          "Mount Fuji",
+          "fuji",
+          "fuzi"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": ""
+    },
+    {
+      "id": "Trivia_Battle_B5_47",
+      "que": "What did the very first vending machine dispense?",
+      "ans": {
+        "value": "Cigarettes",
+        "correct_entity": "option_c"
+      },
+      "options": [
+        "Soda",
+        "Holy water",
+        "Cigarettes"
+      ],
+      "expl": [
+        "Hero of Alexandria created the first vending machine in 1st-century Egypt to dispense holy water for five drachmas. Though ingenious, the idea faded for centuries before modern revival."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "Soda",
+          "sodas"
+        ],
+        "option_b": [
+          "Holy water",
+          "holy",
+          "water"
+        ],
+        "option_c": [
+          "Cigarettes",
+          "cigarette"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": ""
+    },
+    {
+      "id": "Trivia_Battle_B5_50",
+      "que": "Who was named TIME magazine's person of the year for 2022?",
+      "ans": {
+        "value": "Volodymyr Zelensky",
+        "correct_entity": "option_c"
+      },
+      "options": [
+        "Elon Musk",
+        "King Charles",
+        "Volodymyr Zelensky"
+      ],
+      "expl": [
+        "TIME named Ukraine’s President Volodymyr Zelensky Person of the Year for his wartime leadership. The choice symbolized Ukraine’s resilience and condemnation of Putin’s invasion."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "Elon Musk",
+          "elon",
+          "musk"
+        ],
+        "option_b": [
+          "King Charles",
+          "king",
+          "charles"
+        ],
+        "option_c": [
+          "Volodymyr Zelensky",
+          "volodymyr",
+          "zelensky"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": ""
+    },
+    {
+      "id": "Trivia_Battle_B5_53",
+      "que": "What is the most common official state dance in the United States?",
+      "ans": {
+        "value": "Square Dance",
+        "correct_entity": "option_c"
+      },
+      "options": [
+        "Salsa",
+        "Tango",
+        "Square Dance"
+      ],
+      "expl": [
+        "Square dancing, rooted in European traditions, is the official state dance in over 20 U.S. states and was named the national folk dance in 1982. It features live music and a caller directing moves."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "Salsa"
+        ],
+        "option_b": [
+          "Tango",
+          "tangos"
+        ],
+        "option_c": [
+          "Square Dance",
+          "square",
+          "dance"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": ""
+    },
+    {
+      "id": "Trivia_Battle_B5_57",
+      "que": "Which item is flying off grocery store shelves in China after false rumors claim it's a COVID remedy?",
+      "ans": {
+        "value": "Canned peaches",
+        "correct_entity": "option_b"
+      },
+      "options": [
+        "Avocados",
+        "Canned peaches",
+        "Jars of pickles"
+      ],
+      "expl": [
+        "Amid a COVID surge in China, shoppers hoarded canned peaches, mistakenly believing they cured the virus. The craze caused shortages, prompting media to clarify peaches aren’t medicine."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "Avocados",
+          "avocadoes",
+          "avacados",
+          "avocado"
+        ],
+        "option_b": [
+          "Canned peaches",
+          "canned",
+          "peach",
+          "peaches",
+          "can peach",
+          "can peaches"
+        ],
+        "option_c": [
+          "Jars of pickles",
+          "jars of pickle",
+          "jar of pickles",
+          "jar of pickle",
+          "pickle"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": ""
+    },
+    {
+      "id": "Trivia_Battle_B5_58",
+      "que": "Which mogul purchased The Washington Post in 2013 for $250 million?",
+      "ans": {
+        "value": "Jeff Bezos",
+        "correct_entity": "option_a"
+      },
+      "options": [
+        "Jeff Bezos",
+        "Mark Zuckerberg",
+        "Mark Cuban"
+      ],
+      "expl": [
+        "Jeff Bezos bought The Washington Post in 2013 for $250M. He tripled tech staff, doubling web traffic and profits within three years. Now, nearly 70% of its subscriptions are digital."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "Jeff Bezos",
+          "jeff",
+          "bezos",
+          "besos"
+        ],
+        "option_b": [
+          "Mark Zuckerberg",
+          "mark",
+          "zuckerberg"
+        ],
+        "option_c": [
+          "Mark Cuban",
+          "cuban",
+          "kaban",
+          "mark"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": ""
+    },
+    {
+      "id": "Trivia_Battle_B5_60",
+      "que": "Sam Bankman-Fried, who was recently arrested on fraud charges, founded what cryptocurrency exchange?",
+      "ans": {
+        "value": "FTX",
+        "correct_entity": "option_b"
+      },
+      "options": [
+        "Coinbase",
+        "FTX",
+        "Gemini"
+      ],
+      "expl": [
+        "FTX CEO Sam Bankman-Fried faced collapse in 2022 when FTT crashed. Arrested in the Bahamas on Dec 12 and indicted the next day on eight fraud and conspiracy counts, he denied all charges."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "Coinbase",
+          "coin base",
+          "coin",
+          "base"
+        ],
+        "option_b": [
+          "FTX",
+          "f. t. x."
+        ],
+        "option_c": [
+          "Gemini",
+          "jemini",
+          "mini"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": ""
+    },
+    {
+      "id": "Trivia_Battle_B5_62",
+      "que": "By definition, what does a xylographer do?",
+      "ans": {
+        "value": "Engraves wood",
+        "correct_entity": "option_a"
+      },
+      "options": [
+        "Engraves wood",
+        "Carves ivory",
+        "Melts gold"
+      ],
+      "expl": [
+        "Xylography, from French “xyl” (wood) and “graphie” (writing), is the art of carving wooden blocks for printing. This early method inspired Gutenberg’s later invention of the printing press."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "Engraves wood",
+          "engraves",
+          "wood",
+          "engrave wood",
+          "engrave"
+        ],
+        "option_b": [
+          "Carves ivory",
+          "carve",
+          "carve ivory",
+          "ivory",
+          "call ivory"
+        ],
+        "option_c": [
+          "Melts gold",
+          "melts",
+          "gold"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": ""
+    },
+    {
+      "id": "Trivia_Battle_B5_65",
+      "que": "How many reindeer pull Santa's sleigh, including Rudolph?",
+      "ans": {
+        "value": "Nine",
+        "correct_entity": "option_a"
+      },
+      "options": [
+        "Nine",
+        "Eight",
+        "Seven"
+      ],
+      "expl": [
+        "Santa’s reindeer - Dasher, Dancer, Prancer, Vixen, Comet, Cupid, Donner, Blitzen, and Rudolph were first named in an 1823 poem. Rudolph was added in 1939 for a Montgomery Ward promotion."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "Nine"
+        ],
+        "option_b": [
+          "Eight",
+          "8"
+        ],
+        "option_c": [
+          "Seven",
+          "7"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": ""
+    },
+    {
+      "id": "Trivia_Battle_B5_74",
+      "que": "Which \"Jeopardy\" champion won the 2022 Tournament of Champions?",
+      "ans": {
+        "value": "Amy Schneider",
+        "correct_entity": "option_a"
+      },
+      "options": [
+        "Amy Schneider",
+        "Brad Rutter",
+        "Ken Jennings"
+      ],
+      "expl": [
+        "Amy Schneider won 40 straight Jeopardy! games, ranking second to Ken Jennings. With $1.6M and a 2022 Tournament of Champions win, she’s the most successful female contestant in show history."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "Amy Schneider",
+          "amy",
+          "schneider"
+        ],
+        "option_b": [
+          "Brad Rutter",
+          "brad",
+          "rutter"
+        ],
+        "option_c": [
+          "Ken Jennings",
+          "jenning",
+          "ken"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": ""
+    },
+    {
+      "id": "Trivia_Battle_B5_80",
+      "que": "Which number is considered unlucky in Japan because it may be pronounced shi, which is the word for death?",
+      "ans": {
+        "value": "Four",
+        "correct_entity": "option_b"
+      },
+      "options": [
+        "Eight",
+        "Four",
+        "Six"
+      ],
+      "expl": [
+        "In Japan, the number 4 is unlucky because “shi” sounds like “death.” It’s often avoided in buildings, hospitals, and license plates, reflecting cultural sensitivity to words and symbols."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "Eight",
+          "8"
+        ],
+        "option_b": [
+          "Four",
+          "4"
+        ],
+        "option_c": [
+          "Six",
+          "6"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": ""
+    },
+    {
+      "id": "Trivia_Battle_B5_81",
+      "que": "What popular fast food chain encouraged customers to \"Think Outside the Bun\"?",
+      "ans": {
+        "value": "Taco Bell",
+        "correct_entity": "option_b"
+      },
+      "options": [
+        "Chipotle",
+        "Taco Bell",
+        "KFC"
+      ],
+      "expl": [
+        "Taco Bell’s famous slogans include “Yo Quiero Taco Bell,” “Live Más,” and “Think Outside the Bun,” which cleverly urged fans to choose tacos over burgers and embrace creativity."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "Chipotle"
+        ],
+        "option_b": [
+          "Taco Bell",
+          "taco",
+          "bell"
+        ],
+        "option_c": [
+          "KFC",
+          "k. f. c."
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": ""
+    },
+    {
+      "id": "Trivia_Battle_B5_83",
+      "que": "What is the largest beverage size at Starbucks?",
+      "ans": {
+        "value": "Trenta",
+        "correct_entity": "option_b"
+      },
+      "options": [
+        "Venti",
+        "Trenta",
+        "Grande"
+      ],
+      "expl": [
+        "Starbucks’ secret Trenta size, meaning “thirty” in Italian, actually holds 31 ounces. It’s only for cold drinks, unavailable on the app, and must be ordered in-store for extra-large refreshment."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "Venti",
+          "venty"
+        ],
+        "option_b": [
+          "Trenta",
+          "trentas"
+        ],
+        "option_c": [
+          "Grande",
+          "grand"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": ""
+    },
+    {
+      "id": "Trivia_Battle_B5_86",
+      "que": "What is your sign of the zodiac if you were born on Groundhog day?",
+      "ans": {
+        "value": "Aquarius",
+        "correct_entity": "option_b"
+      },
+      "options": [
+        "Aries",
+        "Aquarius",
+        "Gemini"
+      ],
+      "expl": [
+        "Groundhog Day falls on Feb 2, during Aquarius season (Jan 20–Feb 18). The Water Bearer represents intellect and innovation, even though Aquarius is actually an Air sign, not water."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "Aries",
+          "airs"
+        ],
+        "option_b": [
+          "Aquarius",
+          "aqua"
+        ],
+        "option_c": [
+          "Gemini",
+          "jemini",
+          "mini"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": ""
+    },
+    {
+      "id": "Trivia_Battle_B5_99",
+      "que": "What is the age requirement to be elected President of the United States?",
+      "ans": {
+        "value": "35",
+        "correct_entity": "option_a"
+      },
+      "options": [
+        "35",
+        "30",
+        "40"
+      ],
+      "expl": [
+        "Article II of the U.S. Constitution requires a president to be a natural-born citizen, at least 35 years old, and a U.S. resident for 14 years. Joe Biden, inaugurated at 78, is the oldest president in history."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "35",
+          "thirty five",
+          "three five"
+        ],
+        "option_b": [
+          "30",
+          "thirty",
+          "three zero"
+        ],
+        "option_c": [
+          "40",
+          "four zero",
+          "fourty",
+          "forty"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": ""
+    },
+    {
+      "id": "Trivia_Battle_B5_100",
+      "que": "Handsome Dan is the bulldog mascot of which Ivy League university's sports teams?",
+      "ans": {
+        "value": "Yale",
+        "correct_entity": "option_a"
+      },
+      "options": [
+        "Yale",
+        "Brown",
+        "Princeton"
+      ],
+      "expl": [
+        "Since 1889, Handsome Dan, a purebred bulldog, has been Yale University's mascot, embodying the school spirit. Despite the original Dan's passing, the tradition lives on with Handsome Dan XIX, born in 2021."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "Yale",
+          "yell"
+        ],
+        "option_b": [
+          "Brown"
+        ],
+        "option_c": [
+          "Princeton",
+          "princetone",
+          "prince tone",
+          "prince",
+          "tone",
+          "ton"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": ""
+    },
+    {
+      "id": "Trivia_Battle_B5_102",
+      "que": "Where was the Fortune Cookie invented?",
+      "ans": {
+        "value": "United States",
+        "correct_entity": "option_c"
+      },
+      "options": [
+        "North Korea",
+        "China",
+        "United States"
+      ],
+      "expl": [
+        "Despite common belief, the fortune cookie was not invented in China but in California by Japanese-American Makoto Hagiwara in 1914. A federal judge confirmed Hagiwara's credit for creating the cookie in San Francisco."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "North Korea",
+          "north",
+          "korea"
+        ],
+        "option_b": [
+          "China"
+        ],
+        "option_c": [
+          "United States",
+          "united",
+          "states",
+          "u. s.",
+          "u. s. a."
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": ""
+    },
+    {
+      "id": "Trivia_Battle_B5_109",
+      "que": "Which brand says, \"Welcome to the human network.\"",
+      "ans": {
+        "value": "Cisco Systems",
+        "correct_entity": "option_a"
+      },
+      "options": [
+        "Cisco Systems",
+        "IBM",
+        "HP"
+      ],
+      "expl": [
+        "Cisco is a global tech company providing networking hardware, software, and telecom gear. Its slogan “Welcome to the human network” highlights human connection through advancing technology."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "Cisco Systems",
+          "cisco system",
+          "cisco",
+          "system",
+          "systems"
+        ],
+        "option_b": [
+          "IBM",
+          "i. b. m."
+        ],
+        "option_c": [
+          "HP",
+          "h. p."
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": ""
+    },
+    {
+      "id": "Trivia_Battle_B5_135",
+      "que": "Who was the first woman to win a Nobel Prize?",
+      "ans": {
+        "value": "Marie Curie",
+        "correct_entity": "option_b"
+      },
+      "options": [
+        "Mother Teresa",
+        "Marie Curie",
+        "Malala Yousafzai"
+      ],
+      "expl": [
+        "Marie Curie, a Polish physicist and chemist, was the first woman to win a Nobel Prize. She won Physics in 1903 with Pierre Curie and Henri Becquerel, and Chemistry in 1911 for discovering radium and polonium."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "Mother Teresa",
+          "tereza",
+          "mother"
+        ],
+        "option_b": [
+          "Marie Curie",
+          "cure",
+          "mary",
+          "mary cure",
+          "mary kury",
+          "mercury"
+        ],
+        "option_c": [
+          "Malala Yousafzai",
+          "malala yusuf",
+          "malala yousaf",
+          "malala yusufsai",
+          "malala yusufzai"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": ""
+    },
+    {
+      "id": "Trivia_Battle_B5_138",
+      "que": "Which American president is on the one-dollar bill?",
+      "ans": {
+        "value": "George Washington",
+        "correct_entity": "option_b"
+      },
+      "options": [
+        "Abraham Lincoln",
+        "George Washington",
+        "John F. Kennedy"
+      ],
+      "expl": [
+        "The American president who is on the one-dollar bill is George Washington, the first president of the United States. His portrait has been on the one-dollar bill since 1869."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "Abraham Lincoln",
+          "abraham",
+          "lincoln",
+          "lincon"
+        ],
+        "option_b": [
+          "George Washington",
+          "george",
+          "washington"
+        ],
+        "option_c": [
+          "John F. Kennedy"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": ""
+    },
+    {
+      "id": "Trivia_Battle_B5_139",
+      "que": "What is the state motto of Texas?",
+      "ans": {
+        "value": "Friendship",
+        "correct_entity": "option_a"
+      },
+      "options": [
+        "Friendship",
+        "Excelsior",
+        "Liberty"
+      ],
+      "expl": [
+        "The state motto of Texas is \"Friendship\". It was adopted by the Texas Legislature in 1930 and is meant to symbolize the spirit of unity and goodwill among Texans."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "Friendship",
+          "friend ship",
+          "friend"
+        ],
+        "option_b": [
+          "Excelsior"
+        ],
+        "option_c": [
+          "Liberty",
+          "liberti"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": ""
+    },
+    {
+      "id": "Trivia_Battle_B5_179",
+      "que": "Who was the first President of the United States?",
+      "ans": {
+        "value": "George Washington",
+        "correct_entity": "option_a"
+      },
+      "options": [
+        "George Washington",
+        "Thomas Jefferson",
+        "Benjamin Franklin"
+      ],
+      "expl": [
+        "George Washington, the first U.S. President (1789–1797), led the Continental Army and oversaw the U.S. Constitution’s creation, earning the title “Father of His Country.”"
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "George Washington",
+          "george",
+          "washington"
+        ],
+        "option_b": [
+          "Thomas Jefferson",
+          "thomas",
+          "jefferson"
+        ],
+        "option_c": [
+          "Benjamin Franklin",
+          "benjamin",
+          "franklin"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": ""
+    },
+    {
+      "id": "Trivia_Battle_B5_180",
+      "que": "Which famous playwright wrote the tragedy \"Romeo and Juliet\"?",
+      "ans": {
+        "value": "William Shakespeare",
+        "correct_entity": "option_a"
+      },
+      "options": [
+        "William Shakespeare",
+        "Oscar Wilde",
+        "Tennessee Williams"
+      ],
+      "expl": [
+        "“Romeo and Juliet,” by Shakespeare, tells of two young lovers from feuding families. It explores love, fate, and tragedy, remaining one of the most performed plays ever."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "William Shakespeare",
+          "william",
+          "shakespeare"
+        ],
+        "option_b": [
+          "Oscar Wilde",
+          "oscar",
+          "wilde",
+          "wild",
+          "oscar wild"
+        ],
+        "option_c": [
+          "Tennessee Williams",
+          "tennessee",
+          "williams"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": ""
+    },
+    {
+      "id": "Trivia_Battle_B5_181",
+      "que": "What is the tallest mountain in the world?",
+      "ans": {
+        "value": "Everest",
+        "correct_entity": "option_a"
+      },
+      "options": [
+        "Everest",
+        "Kilimanjaro",
+        "Fuji"
+      ],
+      "expl": [
+        "Mount Everest, at 8,848 meters, is Earth’s tallest peak. On the Nepal-China border, it attracts climbers worldwide with its height, danger, and breathtaking Himalayan views."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "Everest",
+          "everest everest"
+        ],
+        "option_b": [
+          "Kilimanjaro"
+        ],
+        "option_c": [
+          "Fuji",
+          "fuzi",
+          "fiji",
+          "fuzzy"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": ""
+    },
+    {
+      "id": "Trivia_Battle_B5_182",
+      "que": "What is the capital city of Australia?",
+      "ans": {
+        "value": "Canberra",
+        "correct_entity": "option_b"
+      },
+      "options": [
+        "Sydney",
+        "Canberra",
+        "Melbourne"
+      ],
+      "expl": [
+        "Canberra is Australia’s capital, chosen between Sydney and Melbourne. Located in the Australian Capital Territory, it houses Parliament House and national monuments."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "Sydney"
+        ],
+        "option_b": [
+          "Canberra"
+        ],
+        "option_c": [
+          "Melbourne"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": ""
+    },
+    {
+      "id": "Trivia_Battle_B5_183",
+      "que": "Who painted the famous artwork \"Mona Lisa\"?",
+      "ans": {
+        "value": "Leonardo da Vinci",
+        "correct_entity": "option_a"
+      },
+      "options": [
+        "Leonardo da Vinci",
+        "Vincent van Gogh",
+        "Pablo Picasso"
+      ],
+      "expl": [
+        "The “Mona Lisa,” painted by Leonardo da Vinci in the 1500s, is housed in Paris’s Louvre Museum. Known for its mysterious smile, it’s a timeless masterpiece of art."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "Leonardo da Vinci",
+          "leonardo",
+          "da",
+          "vinci"
+        ],
+        "option_b": [
+          "Vincent van Gogh",
+          "vincent",
+          "van",
+          "gogh",
+          "vincent van",
+          "van gogh",
+          "gog"
+        ],
+        "option_c": [
+          "Pablo Picasso",
+          "pablo",
+          "picasso"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": ""
+    },
+    {
+      "id": "Trivia_Battle_B5_184",
+      "que": "What is the largest planet in our solar system?",
+      "ans": {
+        "value": "Jupiter",
+        "correct_entity": "option_c"
+      },
+      "options": [
+        "Mars",
+        "Saturn",
+        "Jupiter"
+      ],
+      "expl": [
+        "Jupiter, the largest planet, is a gas giant with the Great Red Spot and cloud bands. Its massive gravity influences other planets, shaping our solar system’s structure."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "Mars",
+          "mar"
+        ],
+        "option_b": [
+          "Saturn"
+        ],
+        "option_c": [
+          "Jupiter"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": ""
+    },
+    {
+      "id": "Trivia_Battle_B5_185",
+      "que": "Which country is famous for the ancient ruins of Machu Picchu?",
+      "ans": {
+        "value": "Peru",
+        "correct_entity": "option_a"
+      },
+      "options": [
+        "Peru",
+        "Mexico",
+        "Brazil"
+      ],
+      "expl": [
+        "Machu Picchu in Peru, built by the Inca in the 15th century, sits high in the Andes. The ancient site’s beauty and cultural significance draw millions of visitors yearly."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "Peru"
+        ],
+        "option_b": [
+          "Mexico"
+        ],
+        "option_c": [
+          "Brazil"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": ""
+    },
+    {
+      "id": "Trivia_Battle_B5_186",
+      "que": "Who wrote the novel \"To Kill a Mockingbird\"?",
+      "ans": {
+        "value": "Harper Lee",
+        "correct_entity": "option_a"
+      },
+      "options": [
+        "Harper Lee",
+        "F. Scott Fitzgerald",
+        "Ernest Hemingway"
+      ],
+      "expl": [
+        "“To Kill a Mockingbird” by Harper Lee explores race and innocence in 1930s Alabama through young Scout Finch. The Pulitzer-winning novel remains a timeless classic."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "Harper Lee",
+          "harper",
+          "lee"
+        ],
+        "option_b": [
+          "F. Scott Fitzgerald",
+          "f.",
+          "scott",
+          "fitzgerald",
+          "f scott fitzgerald",
+          "scott fitzgerald"
+        ],
+        "option_c": [
+          "Ernest Hemingway",
+          "ernest",
+          "hemingway",
+          "heming way"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": ""
+    },
+    {
+      "id": "Trivia_Battle_B5_187",
+      "que": "Who is credited with the invention of the telephone?",
+      "ans": {
+        "value": "Alexander Bell",
+        "correct_entity": "option_a"
+      },
+      "options": [
+        "Alexander Bell",
+        "Thomas Edison",
+        "Nikola Tesla"
+      ],
+      "expl": [
+        "Alexander Graham Bell invented the telephone in 1876. His device transmitted sound electrically, revolutionizing communication and laying telecom’s modern foundation."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "Alexander Bell",
+          "alexander",
+          "bell",
+          "bel"
+        ],
+        "option_b": [
+          "Thomas Edison",
+          "thomas",
+          "edison"
+        ],
+        "option_c": [
+          "Nikola Tesla",
+          "nikola",
+          "tesla",
+          "nikol"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": ""
+    },
+    {
+      "id": "Trivia_Battle_B5_209",
+      "que": "What was America's first national park?",
+      "ans": {
+        "value": "Yellowstone",
+        "correct_entity": "option_a"
+      },
+      "options": [
+        "Yellowstone",
+        "Grand Canyon",
+        "Yosemite"
+      ],
+      "expl": [
+        "Yellowstone, America’s first national park (1872), spans Wyoming, Montana, and Idaho. Famous for geysers, hot springs, and wildlife, it’s a natural wonder of the U.S."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "Yellowstone",
+          "yellow stone"
+        ],
+        "option_b": [
+          "Grand Canyon",
+          "grand",
+          "canyon"
+        ],
+        "option_c": [
+          "Yosemite"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": ""
+    },
+    {
+      "id": "Trivia_Battle_B5_210",
+      "que": "What is Texas' state flower?",
+      "ans": {
+        "value": "Bluebonnet",
+        "correct_entity": "option_a"
+      },
+      "options": [
+        "Bluebonnet",
+        "Rose",
+        "Sunflower"
+      ],
+      "expl": [
+        "The Bluebonnet, Texas’s state flower, blooms each spring, covering fields in blue. These wildflowers symbolize Texas pride and natural beauty across the state."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "Bluebonnet",
+          "blue bonnet",
+          "bluebonet",
+          "blue bonet",
+          "blue on it"
+        ],
+        "option_b": [
+          "Rose"
+        ],
+        "option_c": [
+          "Sunflower",
+          "sun flower",
+          "sunflowers"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": ""
+    },
+    {
+      "id": "Trivia_Battle_B5_211",
+      "que": "From whom did the United States purchase Florida?",
+      "ans": {
+        "value": "Spain",
+        "correct_entity": "option_b"
+      },
+      "options": [
+        "France",
+        "Spain",
+        "Mexico"
+      ],
+      "expl": [
+        "The U.S. bought Florida from Spain through the 1819 Adams-Onís Treaty. The acquisition expanded U.S. territory and led to Florida’s eventual statehood."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "France"
+        ],
+        "option_b": [
+          "Spain",
+          "spin"
+        ],
+        "option_c": [
+          "Mexico"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": ""
+    },
+    {
+      "id": "Trivia_Battle_B5_212",
+      "que": "What fast food chain once used the slogan \"Think outside the bun\"?",
+      "ans": {
+        "value": "Taco Bell",
+        "correct_entity": "option_c"
+      },
+      "options": [
+        "McDonald's",
+        "Wendy's",
+        "Taco Bell"
+      ],
+      "expl": [
+        "Taco Bell used the slogan “Think outside the bun” to promote its Mexican-inspired menu, highlighting creativity and innovation in fast food."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "McDonald's",
+          "mc d.",
+          "mac d.",
+          "mac donald",
+          "mcdonald",
+          "m. c. donald",
+          "donald",
+          "macdonald"
+        ],
+        "option_b": [
+          "Wendy's",
+          "wendy"
+        ],
+        "option_c": [
+          "Taco Bell",
+          "taco",
+          "bell"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": ""
+    },
+    {
+      "id": "Trivia_Battle_B5_213",
+      "que": "What is the name of the world's hottest chili pepper?",
+      "ans": {
+        "value": "Carolina Reaper",
+        "correct_entity": "option_b"
+      },
+      "options": [
+        "Habanero",
+        "Carolina Reaper",
+        "Ghost Pepper"
+      ],
+      "expl": [
+        "The Carolina Reaper, developed by Ed Currie, holds the record as the world’s hottest chili pepper, averaging over 1.5 million Scoville Heat Units."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "Habanero",
+          "habaniro"
+        ],
+        "option_b": [
+          "Carolina Reaper",
+          "carolina",
+          "reaper",
+          "reper"
+        ],
+        "option_c": [
+          "Ghost Pepper",
+          "ghost",
+          "pepper"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": ""
+    },
+    {
+      "id": "Trivia_Battle_B5_214",
+      "que": "What is Prince Harry's official first name?",
+      "ans": {
+        "value": "Henry",
+        "correct_entity": "option_b"
+      },
+      "options": [
+        "Harry",
+        "Henry",
+        "Harrison"
+      ],
+      "expl": [
+        "Prince Harry’s real name is Henry Charles Albert David. “Harry” is a nickname from his given name, used throughout his life and public image."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "Harry",
+          "hary",
+          "hairy"
+        ],
+        "option_b": [
+          "Henry"
+        ],
+        "option_c": [
+          "Harrison",
+          "harry son"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": ""
+    },
+    {
+      "id": "Trivia_Battle_B5_235",
+      "que": "What does a phillumenist collect?",
+      "ans": {
+        "value": "Matchbox labels",
+        "correct_entity": "option_c"
+      },
+      "options": [
+        "Coins",
+        "Stamps",
+        "Matchbox labels"
+      ],
+      "expl": [
+        "A phillumenist collects matchbox labels, valuing their design, art, and history. This niche hobby celebrates rare finds and the cultural beauty of these small, often overlooked paper treasures."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "Coins",
+          "coin"
+        ],
+        "option_b": [
+          "Stamps",
+          "stamp"
+        ],
+        "option_c": [
+          "Matchbox labels",
+          "matchbox",
+          "labels",
+          "match box",
+          "match box label",
+          "match box labels",
+          "matchbox label"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": ""
+    },
+    {
+      "id": "Trivia_Battle_B5_236",
+      "que": "Which sign of the zodiac gets its name from the Latin for 'balance'?",
+      "ans": {
+        "value": "Libra",
+        "correct_entity": "option_b"
+      },
+      "options": [
+        "Scorpio",
+        "Libra",
+        "Taurus"
+      ],
+      "expl": [
+        "Libra means “balance” in Latin and is symbolized by scales. In astrology, Libra represents harmony, fairness, and justice, focusing on balance in life, decisions, and relationships."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "Scorpio"
+        ],
+        "option_b": [
+          "Libra"
+        ],
+        "option_c": [
+          "Taurus"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": ""
+    },
+    {
+      "id": "Trivia_Battle_B5_237",
+      "que": "The Vedas are sacred texts of which religion?",
+      "ans": {
+        "value": "Hinduism",
+        "correct_entity": "option_b"
+      },
+      "options": [
+        "Christianity",
+        "Hinduism",
+        "Buddhism"
+      ],
+      "expl": [
+        "The Vedas, Hinduism’s oldest sacred texts, contain hymns, rituals, and teachings forming its spiritual foundation. Revered as divine revelations, they guide Hindu philosophy and worship."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "Christianity",
+          "christian"
+        ],
+        "option_b": [
+          "Hinduism",
+          "hindu"
+        ],
+        "option_c": [
+          "Buddhism"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": ""
+    },
+    {
+      "id": "Trivia_Battle_B5_241",
+      "que": "In which city is the largest church building in the world?",
+      "ans": {
+        "value": "Rome",
+        "correct_entity": "option_a"
+      },
+      "options": [
+        "Rome",
+        "Moscow",
+        "Barcelona"
+      ],
+      "expl": [
+        "St. Peter’s Basilica in Rome, Italy, is the world’s largest church and a central Catholic site. Its massive dome and grandeur attract millions of visitors and pilgrims yearly."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "Rome",
+          "roam"
+        ],
+        "option_b": [
+          "Moscow",
+          "mosco"
+        ],
+        "option_c": [
+          "Barcelona"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": ""
+    },
+    {
+      "id": "Trivia_Battle_B5_243",
+      "que": "Which is the only piece that can be promoted in chess?",
+      "ans": {
+        "value": "Pawn",
+        "correct_entity": "option_a"
+      },
+      "options": [
+        "Pawn",
+        "Knight",
+        "Rook"
+      ],
+      "expl": [
+        "In chess, pawns can be promoted upon reaching the board’s end. They’re exchanged for a queen, rook, bishop, or knight, allowing a once-small piece to gain powerful new abilities."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "Pawn",
+          "paw",
+          "porn",
+          "paul",
+          "pound"
+        ],
+        "option_b": [
+          "Knight",
+          "night",
+          "knights"
+        ],
+        "option_c": [
+          "Rook",
+          "ruk"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": ""
+    },
+    {
+      "id": "Trivia_Battle_B5_246",
+      "que": "What is Canada's official summer sport?",
+      "ans": {
+        "value": "Lacrosse",
+        "correct_entity": "option_b"
+      },
+      "options": [
+        "Ice hockey",
+        "Lacrosse",
+        "Baseball"
+      ],
+      "expl": [
+        "Lacrosse, Canada’s official summer sport, has Indigenous roots and deep cultural meaning. Played for centuries, it represents heritage and remains popular across the country."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "Ice hockey",
+          "ice",
+          "hockey"
+        ],
+        "option_b": [
+          "Lacrosse",
+          "lacrose"
+        ],
+        "option_c": [
+          "Baseball"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": ""
+    },
+    {
+      "id": "Trivia_Battle_B5_247",
+      "que": "What are the holes in Swiss cheese called?",
+      "ans": {
+        "value": "Eyes",
+        "correct_entity": "option_c"
+      },
+      "options": [
+        "Chasms",
+        "Pores",
+        "Eyes"
+      ],
+      "expl": [
+        "The holes in Swiss cheese, called “eyes,” form when carbon dioxide bubbles create gaps during fermentation, giving the cheese its signature look, flavor, and texture."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "Chasms",
+          "chasm",
+          "cancel"
+        ],
+        "option_b": [
+          "Pores",
+          "pause"
+        ],
+        "option_c": [
+          "Eyes",
+          "eye",
+          "ice",
+          "i."
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": ""
+    },
+    {
+      "id": "Trivia_Battle_B5_248",
+      "que": "What company was initially known as Blue Ribbon Sports?",
+      "ans": {
+        "value": "Nike",
+        "correct_entity": "option_b"
+      },
+      "options": [
+        "Adidas",
+        "Nike",
+        "Reebok"
+      ],
+      "expl": [
+        "Nike was originally called Blue Ribbon Sports, founded in 1964 by Bill Bowerman and Phil Knight. It was renamed Nike in 1971 and became a global leader in athletic gear."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "Adidas"
+        ],
+        "option_b": [
+          "Nike"
+        ],
+        "option_c": [
+          "Reebok"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": ""
+    },
+    {
+      "id": "Trivia_Battle_B5_249",
+      "que": "Linen is made from which plant?",
+      "ans": {
+        "value": "Flax",
+        "correct_entity": "option_b"
+      },
+      "options": [
+        "Cotton",
+        "Flax",
+        "Jute"
+      ],
+      "expl": [
+        "Linen is made from flax fibers, prized for their strength and shine. Cotton comes from the cotton plant, while jute isn’t used for linen—it’s made into burlap and sacks."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "Cotton"
+        ],
+        "option_b": [
+          "Flax",
+          "flags"
+        ],
+        "option_c": [
+          "Jute",
+          "jhoot",
+          "joot"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": ""
+    },
+    {
+      "id": "Trivia_Battle_B5_251",
+      "que": "What kind of tree do acorns come from?",
+      "ans": {
+        "value": "Oak",
+        "correct_entity": "option_b"
+      },
+      "options": [
+        "Pine",
+        "Oak",
+        "Maple"
+      ],
+      "expl": [
+        "Acorns are seeds of oak trees and serve as food for animals. Found in abundance under oak trees during fall, they’re a key part of many forest ecosystems."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "Pine"
+        ],
+        "option_b": [
+          "Oak",
+          "o. k.",
+          "ok",
+          "okay"
+        ],
+        "option_c": [
+          "Maple"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": ""
+    },
+    {
+      "id": "Trivia_Battle_B5_252",
+      "que": "In what country is the world's longest road tunnel?",
+      "ans": {
+        "value": "Norway",
+        "correct_entity": "option_b"
+      },
+      "options": [
+        "Switzerland",
+        "Norway",
+        "Japan"
+      ],
+      "expl": [
+        "Norway’s Lærdal Tunnel, connecting Lærdal and Aurland, is the world’s longest road tunnel at 24.5 km (15.2 miles). It’s an engineering marvel cutting through rugged terrain."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "Switzerland"
+        ],
+        "option_b": [
+          "Norway"
+        ],
+        "option_c": [
+          "Japan"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": ""
+    },
+    {
+      "id": "Trivia_Battle_B5_253",
+      "que": "Which country is known as the land of white elephants?",
+      "ans": {
+        "value": "Thailand",
+        "correct_entity": "option_a"
+      },
+      "options": [
+        "Thailand",
+        "India",
+        "Cambodia"
+      ],
+      "expl": [
+        "Thailand, known as the land of white elephants, views them as symbols of power, prosperity, and good fortune. These sacred animals hold deep historical and cultural value."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "Thailand"
+        ],
+        "option_b": [
+          "India"
+        ],
+        "option_c": [
+          "Cambodia"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": ""
+    },
+    {
+      "id": "Trivia_Battle_B5_254",
+      "que": "Jurassic Park was located off the coast of which country?",
+      "ans": {
+        "value": "Costa Rica",
+        "correct_entity": "option_b"
+      },
+      "options": [
+        "United States",
+        "Costa Rica",
+        "Australia"
+      ],
+      "expl": [
+        "Jurassic Park was set on Isla Nublar, a fictional island off Costa Rica’s coast. There, dinosaurs were genetically recreated, forming the park in Michael Crichton’s story."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "United States",
+          "united",
+          "states",
+          "u. s.",
+          "u. s. a."
+        ],
+        "option_b": [
+          "Costa Rica",
+          "costa",
+          "rica"
+        ],
+        "option_c": [
+          "Australia"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": ""
+    },
+    {
+      "id": "Trivia_Battle_B5_255",
+      "que": "In what country did Starbucks open their first store outside of North America?",
+      "ans": {
+        "value": "Japan",
+        "correct_entity": "option_b"
+      },
+      "options": [
+        "United Kingdom",
+        "Japan",
+        "China"
+      ],
+      "expl": [
+        "Starbucks opened its first international store in Japan, marking its global expansion. The move introduced coffee culture to Asia, making Japan a major Starbucks market."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "United Kingdom",
+          "united",
+          "kingdom",
+          "u. k."
+        ],
+        "option_b": [
+          "Japan"
+        ],
+        "option_c": [
+          "China"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": ""
+    },
+    {
+      "id": "Trivia_Battle_B5_264",
+      "que": "What animal is featured on the Porsche logo?",
+      "ans": {
+        "value": "Horse",
+        "correct_entity": "option_b"
+      },
+      "options": [
+        "Lion",
+        "Horse",
+        "Eagle"
+      ],
+      "expl": [
+        "The Porsche logo features a horse, symbolizing strength, speed, and elegance. Designed in 1952, the crest reflects the brand’s heritage and high-performance identity."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "Lion",
+          "lions"
+        ],
+        "option_b": [
+          "Horse",
+          "horses"
+        ],
+        "option_c": [
+          "Eagle",
+          "eagles"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": ""
+    },
+    {
+      "id": "Trivia_Battle_B5_265",
+      "que": "In what year did Netflix start offering streaming?",
+      "ans": {
+        "value": "2007",
+        "correct_entity": "option_c"
+      },
+      "options": [
+        "2011",
+        "2004",
+        "2007"
+      ],
+      "expl": [
+        "Netflix began streaming in 2007, revolutionizing how we watch media. Before that, it mailed DVDs since 1997. Streaming led to a boom in online entertainment platforms."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "2011",
+          "two thousand eleven",
+          "two thousand and eleven",
+          "twenty double one",
+          "twenty eleven"
+        ],
+        "option_b": [
+          "2004",
+          "two thousand and four",
+          "two zero zero four",
+          "two double zero four",
+          "two thousand four"
+        ],
+        "option_c": [
+          "2007",
+          "two thousand and seven",
+          "two zero zero seven",
+          "two double zero seven",
+          "two thousand seven"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": ""
+    },
+    {
+      "id": "Trivia_Battle_B5_267",
+      "que": "How many black keys does a traditional piano have?",
+      "ans": {
+        "value": "36",
+        "correct_entity": "option_b"
+      },
+      "options": [
+        "52",
+        "36",
+        "42"
+      ],
+      "expl": [
+        "A piano has 36 black keys arranged in twos and threes. These keys play sharps and flats, adding musical variety and allowing pianists to perform in different scales."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "52",
+          "fifty two"
+        ],
+        "option_b": [
+          "36",
+          "thirty six",
+          "three six"
+        ],
+        "option_c": [
+          "42",
+          "four two",
+          "forty two"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": ""
+    },
+    {
+      "id": "Trivia_Battle_B5_269",
+      "que": "Who holds the all-time record for most Olympic gold medals?",
+      "ans": {
+        "value": "Michael Phelps",
+        "correct_entity": "option_a"
+      },
+      "options": [
+        "Michael Phelps",
+        "Usain Bolt",
+        "Simone Biles"
+      ],
+      "expl": [
+        "Michael Phelps holds the record for the most Olympic golds—23 total. His dominance in swimming made him the most decorated Olympian in history."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "Michael Phelps",
+          "michael",
+          "phelps"
+        ],
+        "option_b": [
+          "Usain Bolt",
+          "usain",
+          "bolt"
+        ],
+        "option_c": [
+          "Simone Biles",
+          "simone",
+          "biles",
+          "simone bile"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": ""
+    },
+    {
+      "id": "Trivia_Battle_B5_272",
+      "que": "What is the highest uninterrupted waterfall in the world?",
+      "ans": {
+        "value": "Angel",
+        "correct_entity": "option_a"
+      },
+      "options": [
+        "Angel",
+        "Victoria",
+        "Niagara"
+      ],
+      "expl": [
+        "Angel Falls, located in Venezuela, holds the title for the highest uninterrupted waterfall in the world. It cascades down a height of 979 meters (3,212 feet), making it a breathtaking natural wonder."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "Angel"
+        ],
+        "option_b": [
+          "Victoria"
+        ],
+        "option_c": [
+          "Niagara"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": ""
+    },
+    {
+      "id": "Trivia_Battle_B5_275",
+      "que": "How many stripes are in the American flag?",
+      "ans": {
+        "value": "13",
+        "correct_entity": "option_b"
+      },
+      "options": [
+        "10",
+        "13",
+        "22"
+      ],
+      "expl": [
+        "The American flag has 13 stripes symbolizing the original colonies. Alternating red and white, they represent unity and the founding values that shaped the birth and spirit of the United States."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "10",
+          "ten"
+        ],
+        "option_b": [
+          "13",
+          "thirteen"
+        ],
+        "option_c": [
+          "22",
+          "twenty two",
+          "two two"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": ""
+    },
+    {
+      "id": "Trivia_Battle_B5_276",
+      "que": "What is the highest number on a standard roulette wheel?",
+      "ans": {
+        "value": "36",
+        "correct_entity": "option_a"
+      },
+      "options": [
+        "36",
+        "42",
+        "50"
+      ],
+      "expl": [
+        "The highest number on a roulette wheel is 36. Standard wheels have numbers 1–36 plus a single zero in European roulette, making 37 total. However, 36 remains the top number for players to bet on."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "36",
+          "thirty six",
+          "three six"
+        ],
+        "option_b": [
+          "42",
+          "four two",
+          "forty two"
+        ],
+        "option_c": [
+          "50",
+          "five zero",
+          "fifty"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": ""
+    },
+    {
+      "id": "Trivia_Battle_B5_279",
+      "que": "Which Japanese word means \"empty orchestra\"?",
+      "ans": {
+        "value": "Karaoke",
+        "correct_entity": "option_c"
+      },
+      "options": [
+        "Kabuki",
+        "Geisha",
+        "Karaoke"
+      ],
+      "expl": [
+        "“Karaoke” means “empty orchestra” in Japanese—“kara” for empty and “okesutora” for orchestra. It lets people sing along to instrumental tracks and feel like they have their own personal band."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "Kabuki",
+          "cabuki"
+        ],
+        "option_b": [
+          "Geisha"
+        ],
+        "option_c": [
+          "Karaoke"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": ""
+    },
+    {
+      "id": "Trivia_Battle_B5_280",
+      "que": "In China, what does the color red symbolize?",
+      "ans": {
+        "value": "Good Luck",
+        "correct_entity": "option_a"
+      },
+      "options": [
+        "Good Luck",
+        "Sadness",
+        "Wisdom"
+      ],
+      "expl": [
+        "In Chinese culture, red stands for joy, luck, and prosperity. It’s used during weddings, birthdays, and festivals like Lunar New Year to attract good fortune and drive away evil spirits."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "Good Luck",
+          "good",
+          "luck"
+        ],
+        "option_b": [
+          "Sadness"
+        ],
+        "option_c": [
+          "Wisdom"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": ""
+    },
+    {
+      "id": "Trivia_Battle_B5_284",
+      "que": "After google.com, what is the most-visited website in the United States?",
+      "ans": {
+        "value": "YouTube",
+        "correct_entity": "option_a"
+      },
+      "options": [
+        "YouTube",
+        "Amazon",
+        "Wikipedia"
+      ],
+      "expl": [
+        "As of 2021, YouTube.com was the most-visited U.S. site after Google. It’s a massive platform for videos and creators, though rankings may have shifted since then with changing internet trends."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "YouTube",
+          "you",
+          "tube"
+        ],
+        "option_b": [
+          "Amazon"
+        ],
+        "option_c": [
+          "Wikipedia",
+          "wiki"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": ""
+    },
+    {
+      "id": "Trivia_Battle_B5_290",
+      "que": "How many pounds are in a ton?",
+      "ans": {
+        "value": "2000",
+        "correct_entity": "option_c"
+      },
+      "options": [
+        "100",
+        "500",
+        "2000"
+      ],
+      "expl": [
+        "A ton equals 2,000 pounds in the U.S., also called a short ton. However, in other systems like the metric ton (1,000 kg) or long ton (2,240 pounds), the value differs depending on regional use."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "100",
+          "hundred",
+          "one hundred",
+          "one zero zero"
+        ],
+        "option_b": [
+          "500",
+          "five hundred",
+          "five zero zero"
+        ],
+        "option_c": [
+          "2000",
+          "two thousand",
+          "two thousands",
+          "two zero zero zero"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": ""
+    },
+    {
+      "id": "Trivia_Battle_B5_291",
+      "que": "Approximately, what is the length of a nautical mile in feets?",
+      "ans": {
+        "value": "6000",
+        "correct_entity": "option_c"
+      },
+      "options": [
+        "1000",
+        "5000",
+        "6000"
+      ],
+      "expl": [
+        "A nautical mile equals 6,076 feet, or about 1.15 land miles. It’s mainly used in sea and air navigation, aligning with Earth’s curvature for accurate distance and location measurement."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "1000",
+          "one thousands",
+          "one thousand",
+          "thousand",
+          "thousands",
+          "one zero zero zero"
+        ],
+        "option_b": [
+          "5000",
+          "five thousands",
+          "five thousand",
+          "five zero zero zero",
+          "fifty hundred"
+        ],
+        "option_c": [
+          "6000",
+          "sixty hundred",
+          "six thousand",
+          "six thousands",
+          "six zero zero zero"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": ""
+    },
+    {
+      "id": "Trivia_Battle_B5_292",
+      "que": "In the United Kingdom, what is the day after Christmas known as?",
+      "ans": {
+        "value": "Boxing Day",
+        "correct_entity": "option_a"
+      },
+      "options": [
+        "Boxing Day",
+        "St. Stephen's Day",
+        "New Year's Day"
+      ],
+      "expl": [
+        "Boxing Day, on December 26th, follows Christmas in the U.K. Traditionally for giving to the poor, it’s now a day for shopping sales, sports, and family time across many Commonwealth nations."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "Boxing Day",
+          "boxing",
+          "day"
+        ],
+        "option_b": [
+          "St. Stephen's Day",
+          "st.",
+          "stephen's",
+          "saint stephen's",
+          "saint"
+        ],
+        "option_c": [
+          "New Year's Day",
+          "new",
+          "year's",
+          "years"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": ""
+    },
+    {
+      "id": "Trivia_Battle_B5_293",
+      "que": "About how many steps are there in the Empire State Building, approximately?",
+      "ans": {
+        "value": "1500",
+        "correct_entity": "option_b"
+      },
+      "options": [
+        "1000",
+        "1500",
+        "2200"
+      ],
+      "expl": [
+        "The Empire State Building has 1,576 steps to the 102nd floor. Though not open to the public, they’re used by staff for maintenance, while visitors reach the deck using high-speed elevators."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "1000",
+          "one thousands",
+          "one thousand",
+          "thousand",
+          "thousands",
+          "one zero zero zero"
+        ],
+        "option_b": [
+          "1500",
+          "one thousand five hundred",
+          "one five zero zero"
+        ],
+        "option_c": [
+          "2200",
+          "two thousand two hundred",
+          "two two zero zero"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": ""
+    },
+    {
+      "id": "Trivia_Battle_B5_298",
+      "que": "Page Six is a famous gossip column in what U.S. newspaper?",
+      "ans": {
+        "value": "New York Post",
+        "correct_entity": "option_c"
+      },
+      "options": [
+        "USA Today",
+        "Los Angeles Times",
+        "New York Post"
+      ],
+      "expl": [
+        "Page Six, The New York Post’s famous gossip column, has ruled celebrity news for 40+ years. With 24 million monthly readers, it outshines the print edition’s 147,000 circulation."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "USA Today",
+          "u. s. a. today",
+          "u. s. a.",
+          "today"
+        ],
+        "option_b": [
+          "Los Angeles Times",
+          "l. a. times",
+          "l. a. time",
+          "l. a.",
+          "times",
+          "los angeles time",
+          "time",
+          "los",
+          "los angeles",
+          "los angel"
+        ],
+        "option_c": [
+          "New York Post",
+          "n. y. post",
+          "n. y. posts",
+          "new york"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": ""
+    }
+  ],
+  "IMAGE_QUESTIONS": [],
+  "AUDIO_QUESTIONS": []
+}

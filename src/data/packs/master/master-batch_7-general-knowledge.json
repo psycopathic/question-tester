@@ -1,0 +1,3850 @@
+{
+  "TEXT_QUESTIONS": [
+    {
+      "id": "genernal-knowledge_B7_1",
+      "que": "Which company agreed to acquire Activision Blizzard in 2023?",
+      "ans": {
+        "value": "Microsoft",
+        "correct_entity": "option_b"
+      },
+      "options": [
+        "Google",
+        "Microsoft",
+        "Apple"
+      ],
+      "expl": [
+        "Microsoft announced a $69 billion deal to acquire Activision Blizzard in 2023. The move gave Microsoft control of major game franchises like Call of Duty and Candy Crush. It became one of the biggest acquisitions in gaming history."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "Google"
+        ],
+        "option_b": [
+          "Microsoft"
+        ],
+        "option_c": [
+          "Apple"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": ""
+    },
+    {
+      "id": "genernal-knowledge_B7_2",
+      "que": "What was the Oxford Word of the Year for 2023?",
+      "ans": {
+        "value": "Rizz",
+        "correct_entity": "option_b"
+      },
+      "options": [
+        "Vibe",
+        "Rizz",
+        "FOMO"
+      ],
+      "expl": [
+        "“Rizz” was chosen as the 2023 Oxford Word of the Year, meaning charisma or charm in flirting. The word spread fast on TikTok and among Gen Z. It became so popular that even dictionaries added it."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "Vibe"
+        ],
+        "option_b": [
+          "Rizz",
+          "rizzo",
+          "raise",
+          "reese",
+          "riz"
+        ],
+        "option_c": [
+          "FOMO",
+          "FO",
+          "MO",
+          "fo-mo",
+          "four more"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": ""
+    },
+    {
+      "id": "genernal-knowledge_B7_3",
+      "que": "Which company unveiled the Vision Pro mixed-reality headset in 2024?",
+      "ans": {
+        "value": "Apple",
+        "correct_entity": "option_b"
+      },
+      "options": [
+        "Meta",
+        "Apple",
+        "Google"
+      ],
+      "expl": [
+        "Apple revealed the Vision Pro headset in 2024, introducing its entry into spatial computing. The device lets users control apps using just eyes, hands, and voice. It marked Apple’s first major product line since the Apple Watch."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "Meta"
+        ],
+        "option_b": [
+          "Apple"
+        ],
+        "option_c": [
+          "Google"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": ""
+    },
+    {
+      "id": "genernal-knowledge_B7_4",
+      "que": "Which COVID-19 vaccine received the world's first regulatory approval?",
+      "ans": {
+        "value": "Pfizer",
+        "correct_entity": "option_a"
+      },
+      "options": [
+        "Pfizer",
+        "Moderna",
+        "Johnson and Johnson"
+      ],
+      "expl": [
+        "The Pfizer-BioNTech COVID-19 vaccine was the first to receive emergency approval in December 2020. It was rolled out in the UK before any other vaccine. The shot helped kick-start global vaccination efforts."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "Pfizer",
+          "ficxer",
+          "fizer",
+          "fixer",
+          "freezer",
+          "scissor"
+        ],
+        "option_b": [
+          "Moderna"
+        ],
+        "option_c": [
+          "Johnson and Johnson",
+          "Johnson n Johnson",
+          "John son",
+          "Johnson"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": ""
+    },
+    {
+      "id": "genernal-knowledge_B7_5",
+      "que": "What is the name of Meta's large-language model released in 2023?",
+      "ans": {
+        "value": "Llama",
+        "correct_entity": "option_b"
+      },
+      "options": [
+        "Gemini",
+        "Llama",
+        "Bard"
+      ],
+      "expl": [
+        "Meta released its LLaMA AI model in 2023 as an open-source alternative to large commercial AI systems. Developers quickly adopted it because of its smaller size and flexibility. It helped spark a boom in customizable AI models."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "Gemini",
+          "jemini"
+        ],
+        "option_b": [
+          "Llama",
+          "lama"
+        ],
+        "option_c": [
+          "Bard"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": ""
+    },
+    {
+      "id": "genernal-knowledge_B7_6",
+      "que": "Which U.S. city banned TikTok on government devices in 2023?",
+      "ans": {
+        "value": "Montana",
+        "correct_entity": "option_c"
+      },
+      "options": [
+        "London",
+        "New York",
+        "Montana"
+      ],
+      "expl": [
+        "Montana became the first U.S. state to pass a law banning TikTok on personal devices in 2023. Lawmakers cited security and data privacy concerns. The move sparked national debate and legal challenges."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "London"
+        ],
+        "option_b": [
+          "New York",
+          "New",
+          "York"
+        ],
+        "option_c": [
+          "Montana"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": ""
+    },
+    {
+      "id": "genernal-knowledge_B7_7",
+      "que": "Which automaker launched the Cybertruck?",
+      "ans": {
+        "value": "Tesla",
+        "correct_entity": "option_b"
+      },
+      "options": [
+        "Ford",
+        "Tesla",
+        "Rivian"
+      ],
+      "expl": [
+        "Tesla officially launched the Cybertruck in late 2023 after years of anticipation. Its sharp, steel-plated design sparked huge debate online. The truck can go from 0 to 60 mph in under 3 seconds."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "Ford",
+          "fords"
+        ],
+        "option_b": [
+          "Tesla"
+        ],
+        "option_c": [
+          "Rivian"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": ""
+    },
+    {
+      "id": "genernal-knowledge_B7_8",
+      "que": "Which company created the iPhone?",
+      "ans": {
+        "value": "Apple",
+        "correct_entity": "option_b"
+      },
+      "options": [
+        "Google",
+        "Apple",
+        "Samsung"
+      ],
+      "expl": [
+        "Apple created the iPhone, first launched in 2007 under Steve Jobs. It revolutionized smartphones with its touchscreen design. The iPhone has since become one of the best-selling tech products ever."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "Google"
+        ],
+        "option_b": [
+          "Apple"
+        ],
+        "option_c": [
+          "Samsung"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": ""
+    },
+    {
+      "id": "genernal-knowledge_B7_9",
+      "que": "What is the first book of the Bible?",
+      "ans": {
+        "value": "Genesis",
+        "correct_entity": "option_a"
+      },
+      "options": [
+        "Genesis",
+        "Exodus",
+        "Leviticus"
+      ],
+      "expl": [
+        "The first book of the Bible is Genesis, traditionally believed to be written around 1400–1500 BCE. It tells the story of creation, Adam and Eve, Noah’s Ark, and the earliest families in human history. The word “Genesis” means “origin,” fitting for the book that begins the Bible."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "Genesis",
+          "genius is",
+          "gene is"
+        ],
+        "option_b": [
+          "Exodus"
+        ],
+        "option_c": [
+          "Leviticus"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": ""
+    },
+    {
+      "id": "genernal-knowledge_B7_10",
+      "que": "Which tech company owns the Android operating system?",
+      "ans": {
+        "value": "Google",
+        "correct_entity": "option_b"
+      },
+      "options": [
+        "Apple",
+        "Google",
+        "Microsoft"
+      ],
+      "expl": [
+        "Google owns and develops the Android operating system. It acquired Android Inc. in 2005 and turned it into the world’s most-used mobile OS. Today, Android powers billions of phones, tablets, TVs, and even cars."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "Apple"
+        ],
+        "option_b": [
+          "Google"
+        ],
+        "option_c": [
+          "Microsoft",
+          "micro soft"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": ""
+    },
+    {
+      "id": "genernal-knowledge_B7_11",
+      "que": "Which streaming service is known for 'Stranger Things'?",
+      "ans": {
+        "value": "Netflix",
+        "correct_entity": "option_b"
+      },
+      "options": [
+        "Hulu",
+        "Netflix",
+        "Disney+"
+      ],
+      "expl": [
+        "Netflix is the streaming platform behind Stranger Things, which debuted in 2016. The show mixes 80s nostalgia with mystery, sci-fi, and horror. It helped turn actors like Millie Bobby Brown into global stars."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "Hulu"
+        ],
+        "option_b": [
+          "Netflix"
+        ],
+        "option_c": [
+          "Disney+",
+          "Disney plus",
+          "dusney",
+          "plus"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": ""
+    },
+    {
+      "id": "genernal-knowledge_B7_12",
+      "que": "Which European nation currently has a co-presidency system?",
+      "ans": {
+        "value": "Nicaragua",
+        "correct_entity": "option_b"
+      },
+      "options": [
+        "Bolivia",
+        "Nicaragua",
+        "Venezuela"
+      ],
+      "expl": [
+        "Nicaragua introduced a co-presidency in 2025, shared between Daniel Ortega and Rosario Murillo. The change came through a constitutional amendment. Critics say it concentrates power within one family."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "Bolivia",
+          "boliviya"
+        ],
+        "option_b": [
+          "Nicaragua"
+        ],
+        "option_c": [
+          "Venezuela"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": ""
+    },
+    {
+      "id": "genernal-knowledge_B7_13",
+      "que": "Which company shut 800 stores in 2025?",
+      "ans": {
+        "value": "Joann",
+        "correct_entity": "option_b"
+      },
+      "options": [
+        "Michaels",
+        "Joann",
+        "Hobby Lobby"
+      ],
+      "expl": [
+        "Joann, the U.S. fabric and craft store chain, filed for bankruptcy in 2025 and closed 800 locations. It struggled with declining sales and rising costs. The closures impacted thousands of employees nationwide."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "Michaels",
+          "Michael",
+          "Michael's"
+        ],
+        "option_b": [
+          "Joann",
+          "john",
+          "joan",
+          "jon",
+          "joanne"
+        ],
+        "option_c": [
+          "Hobby Lobby",
+          "Hobby",
+          "Lobby"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": ""
+    },
+    {
+      "id": "genernal-knowledge_B7_14",
+      "que": "Who created ChatGPT?",
+      "ans": {
+        "value": "OpenAI",
+        "correct_entity": "option_b"
+      },
+      "options": [
+        "Anthropic",
+        "OpenAI",
+        "Meta"
+      ],
+      "expl": [
+        "OpenAI created ChatGPT, launching its upgraded version GPT-4.5 in 2025. The model improved reasoning, memory, and writing abilities compared to earlier versions. OpenAI’s goal is to make AI useful and safe for everyone."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "Anthropic"
+        ],
+        "option_b": [
+          "OpenAI",
+          "open a. i."
+        ],
+        "option_c": [
+          "Meta"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": ""
+    },
+    {
+      "id": "genernal-knowledge_B7_15",
+      "que": "Which app experienced a violent‑content glitch?",
+      "ans": {
+        "value": "Instagram",
+        "correct_entity": "option_b"
+      },
+      "options": [
+        "TikTok",
+        "Instagram",
+        "YouTube"
+      ],
+      "expl": [
+        "In early 2025, a feed glitch on Instagram caused users to suddenly see violent and graphic content. The issue spread worldwide before Meta engineers fixed it. It sparked renewed debate about AI moderation and platform safety."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "TikTok",
+          "tik tok",
+          "tik-tok"
+        ],
+        "option_b": [
+          "Instagram"
+        ],
+        "option_c": [
+          "YouTube"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": ""
+    },
+    {
+      "id": "genernal-knowledge_B7_16",
+      "que": "What color is the sun?",
+      "ans": {
+        "value": "Yellow",
+        "correct_entity": "option_a"
+      },
+      "options": [
+        "Yellow",
+        "Red",
+        "Blue"
+      ],
+      "expl": [
+        "The sun looks yellow from Earth because of the way our atmosphere scatters light. In space, it actually appears white, since all wavelengths reach the eye evenly. Its true color is closer to white than yellow."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "Yellow"
+        ],
+        "option_b": [
+          "Red"
+        ],
+        "option_c": [
+          "Blue"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": ""
+    },
+    {
+      "id": "genernal-knowledge_B7_17",
+      "que": "What fruit is known for keeping doctors away if eaten once a day?",
+      "ans": {
+        "value": "Apple",
+        "correct_entity": "option_a"
+      },
+      "options": [
+        "Apple",
+        "Banana",
+        "Orange"
+      ],
+      "expl": [
+        "The saying “An apple a day keeps the doctor away” became popular in the 19th century. It promotes the idea that healthy food prevents illness. Apples are rich in fiber and vitamins, which is why the phrase stuck."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "Apple",
+          "apples"
+        ],
+        "option_b": [
+          "Banana",
+          "bananas"
+        ],
+        "option_c": [
+          "Orange",
+          "Oranges"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": ""
+    },
+    {
+      "id": "genernal-knowledge_B7_18",
+      "que": "Who was the first woman to win a Nobel Prize?",
+      "ans": {
+        "value": "Marie Curie",
+        "correct_entity": "option_a"
+      },
+      "options": [
+        "Marie Curie",
+        "Rosalind Franklin",
+        "Ada Lovelace"
+      ],
+      "expl": [
+        "Marie Curie became the first woman to win a Nobel Prize in 1903 for physics. She later won a second Nobel in chemistry, making her the only person to win in two different sciences. Her work led to major discoveries in radioactivity."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "Marie Curie",
+          "curie",
+          "marie",
+          "mary"
+        ],
+        "option_b": [
+          "Rosalind Franklin",
+          "Rosalind",
+          "Franklin"
+        ],
+        "option_c": [
+          "Ada Lovelace",
+          "ada love lace",
+          "love lace"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": ""
+    },
+    {
+      "id": "genernal-knowledge_B7_19",
+      "que": "Which country has the most official languages?",
+      "ans": {
+        "value": "South Africa",
+        "correct_entity": "option_a"
+      },
+      "options": [
+        "South Africa",
+        "India",
+        "Switzerland"
+      ],
+      "expl": [
+        "South Africa has 11 official languages, made equal in the 1996 constitution. They include Zulu, Xhosa, Afrikaans, and English. It’s one of the most linguistically diverse countries in the world."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "South Africa",
+          "South",
+          "Africa"
+        ],
+        "option_b": [
+          "India"
+        ],
+        "option_c": [
+          "Switzerland"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": ""
+    },
+    {
+      "id": "genernal-knowledge_B7_20",
+      "que": "In the FedEx Ground logo, what color are the letters “E-X”?",
+      "ans": {
+        "value": "Green",
+        "correct_entity": "option_a"
+      },
+      "options": [
+        "Green",
+        "Blue",
+        "Red"
+      ],
+      "expl": [
+        "In the FedEx Ground logo, “Ex” is green while “Fed” is purple. FedEx is also famous for its hidden arrow between the E and X — a sneaky symbol of speed and precision."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "Green"
+        ],
+        "option_b": [
+          "Blue"
+        ],
+        "option_c": [
+          "Red"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": ""
+    },
+    {
+      "id": "genernal-knowledge_B7_21",
+      "que": "Which fast food chain has a character named Ronald McDonald?",
+      "ans": {
+        "value": "McDonald's",
+        "correct_entity": "option_b"
+      },
+      "options": [
+        "Burger King",
+        "McDonald's",
+        "Wendy's"
+      ],
+      "expl": [
+        "McDonald’s uses Ronald McDonald as its famous clown mascot. He first appeared in 1963 and later starred in children’s charity events and commercials worldwide."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "Burger King",
+          "Burger",
+          "King"
+        ],
+        "option_b": [
+          "McDonald's",
+          "mac donald",
+          "mc donald",
+          "donald",
+          "mcdonalds",
+          "mcdonald"
+        ],
+        "option_c": [
+          "Wendy's",
+          "Wendy",
+          "when d."
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": ""
+    },
+    {
+      "id": "genernal-knowledge_B7_22",
+      "que": "Which fruit has many seeds on the inside?",
+      "ans": {
+        "value": "Pomegranate",
+        "correct_entity": "option_b"
+      },
+      "options": [
+        "Apple",
+        "Pomegranate",
+        "Orange"
+      ],
+      "expl": [
+        "The pomegranate is packed with hundreds of edible seeds called arils. Ancient Egyptians considered it a symbol of life and rebirth. One fruit can contain 600+ seeds."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "Apple",
+          "apples"
+        ],
+        "option_b": [
+          "Pomegranate"
+        ],
+        "option_c": [
+          "Orange",
+          "Oranges"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": ""
+    },
+    {
+      "id": "genernal-knowledge_B7_23",
+      "que": "Which company makes the Snickers bar?",
+      "ans": {
+        "value": "Mars",
+        "correct_entity": "option_a"
+      },
+      "options": [
+        "Mars",
+        "Nestle",
+        "Hershey"
+      ],
+      "expl": [
+        "Mars, Inc. produces Snickers, first launched in 1930. It was named after the Mars family’s favorite racehorse. Today it’s one of the best-selling candy bars worldwide."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "Mars"
+        ],
+        "option_b": [
+          "Nestle",
+          "Nestlé"
+        ],
+        "option_c": [
+          "Hershey",
+          "harshey"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": ""
+    },
+    {
+      "id": "genernal-knowledge_B7_24",
+      "que": "Which vegetable is good for eye health?",
+      "ans": {
+        "value": "Carrot",
+        "correct_entity": "option_a"
+      },
+      "options": [
+        "Carrot",
+        "Tomato",
+        "Spinach"
+      ],
+      "expl": [
+        "Carrots are high in beta-carotene, which the body turns into Vitamin A, essential for healthy vision. The WWII myth “carrots help you see in the dark” was actually British propaganda."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "Carrot",
+          "carrots"
+        ],
+        "option_b": [
+          "Tomato",
+          "Tomatoes"
+        ],
+        "option_c": [
+          "Spinach"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": ""
+    },
+    {
+      "id": "genernal-knowledge_B7_25",
+      "que": "Which soft drink was originally marketed as a medicinal tonic?",
+      "ans": {
+        "value": "Coca-Cola",
+        "correct_entity": "option_b"
+      },
+      "options": [
+        "Pepsi",
+        "Coca-Cola",
+        "Sprite"
+      ],
+      "expl": [
+        "Coca-Cola was invented in 1886 and sold as a cure for headaches and fatigue. It originally contained coca leaf extract — yes, the same plant used to make cocaine."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "Pepsi"
+        ],
+        "option_b": [
+          "Coca-Cola",
+          "coca",
+          "coca cola",
+          "coke",
+          "cola"
+        ],
+        "option_c": [
+          "Sprite"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": ""
+    },
+    {
+      "id": "genernal-knowledge_B7_26",
+      "que": "What is the name of the first video game ever created?",
+      "ans": {
+        "value": "Pong",
+        "correct_entity": "option_a"
+      },
+      "options": [
+        "Pong",
+        "Tetris",
+        "Space Invaders"
+      ],
+      "expl": [
+        "Pong (1972) is considered the first commercially successful video game and helped launch the arcade industry. It was created by Atari and simulates table tennis."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "Pong",
+          "bong",
+          "pon"
+        ],
+        "option_b": [
+          "Tetris"
+        ],
+        "option_c": [
+          "Space Invaders",
+          "space",
+          "invaders",
+          "space invader"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": ""
+    },
+    {
+      "id": "genernal-knowledge_B7_27",
+      "que": "What's the world's most widely spoken language?",
+      "ans": {
+        "value": "English",
+        "correct_entity": "option_a"
+      },
+      "options": [
+        "English",
+        "Mandarin",
+        "Spanish"
+      ],
+      "expl": [
+        "English is the most widely spoken language when combining native and non-native speakers. Over 1.3 billion people speak it globally."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "English"
+        ],
+        "option_b": [
+          "Mandarin"
+        ],
+        "option_c": [
+          "Spanish"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": ""
+    },
+    {
+      "id": "genernal-knowledge_B7_28",
+      "que": "Which country is the home of the Ferrari car brand?",
+      "ans": {
+        "value": "Italy",
+        "correct_entity": "option_b"
+      },
+      "options": [
+        "Germany",
+        "Italy",
+        "France"
+      ],
+      "expl": [
+        "Ferrari is an iconic luxury sports car company founded in Maranello, Italy. The brand is known for its racing history and distinct red color. Its logo, the prancing horse, is famous worldwide."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "Germany"
+        ],
+        "option_b": [
+          "Italy"
+        ],
+        "option_c": [
+          "France"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": ""
+    },
+    {
+      "id": "genernal-knowledge_B7_29",
+      "que": "What's the name of the famous theme park in Anaheim, California?",
+      "ans": {
+        "value": "Disneyland",
+        "correct_entity": "option_a"
+      },
+      "options": [
+        "Disneyland",
+        "Universal Studios",
+        "Magic Kingdom"
+      ],
+      "expl": [
+        "Disneyland in Anaheim opened in 1955 as the first-ever Disney theme park. Walt Disney himself walked the park on opening day. It later inspired Disney parks around the world."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "Disneyland",
+          "disney",
+          "land"
+        ],
+        "option_b": [
+          "Universal Studios",
+          "Universal",
+          "Studios"
+        ],
+        "option_c": [
+          "Magic Kingdom",
+          "Magic",
+          "Kingdom"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": ""
+    },
+    {
+      "id": "genernal-knowledge_B7_30",
+      "que": "Who was the famous queen of Egypt known for her beauty and power?",
+      "ans": {
+        "value": "Cleopatra",
+        "correct_entity": "option_a"
+      },
+      "options": [
+        "Cleopatra",
+        "Nefertiti",
+        "Hatshepsut"
+      ],
+      "expl": [
+        "Cleopatra VII ruled Egypt and formed political alliances — and romances — with Julius Caesar and Mark Antony. She spoke several languages and was highly educated. Her dramatic death in 30 BCE marked the end of ancient Egypt’s independence."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "Cleopatra"
+        ],
+        "option_b": [
+          "Nefertiti",
+          "never t. t."
+        ],
+        "option_c": [
+          "Hatshepsut",
+          "hat shapes sort",
+          "hat shapes art",
+          "head chef set"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": ""
+    },
+    {
+      "id": "genernal-knowledge_B7_31",
+      "que": "Who won the first season of American Idol?",
+      "ans": {
+        "value": "Kelly Clarkson",
+        "correct_entity": "option_a"
+      },
+      "options": [
+        "Kelly Clarkson",
+        "Carrie Underwood",
+        "Ruben Studdard"
+      ],
+      "expl": [
+        "Kelly Clarkson won the very first season of American Idol in 2002. Her win launched a huge music career with hits like \"Since U Been Gone.\" She later became a coach on The Voice and a talk show host."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "Kelly Clarkson",
+          "kelly",
+          "clarkson"
+        ],
+        "option_b": [
+          "Carrie Underwood",
+          "carrie under wood",
+          "carrie",
+          "underwood"
+        ],
+        "option_c": [
+          "Ruben Studdard",
+          "ruben",
+          "studdard"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": ""
+    },
+    {
+      "id": "genernal-knowledge_B7_32",
+      "que": "What famous singer's real name is Stefani Germanotta?",
+      "ans": {
+        "value": "Lady Gaga",
+        "correct_entity": "option_a"
+      },
+      "options": [
+        "Lady Gaga",
+        "Katy Perry",
+        "Adele"
+      ],
+      "expl": [
+        "That’s Lady Gaga, known for hits like “Poker Face” and “Bad Romance.” She chose her stage name from the Queen song “Radio Ga Ga.” She later won an Oscar for A Star Is Born."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "Lady Gaga",
+          "Lady",
+          "Gaga"
+        ],
+        "option_b": [
+          "Katy Perry",
+          "Katy",
+          "Perry"
+        ],
+        "option_c": [
+          "Adele"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": ""
+    },
+    {
+      "id": "genernal-knowledge_B7_33",
+      "que": "Which celebrity was known as the 'Queen of Pop' in the 1980s?",
+      "ans": {
+        "value": "Madonna",
+        "correct_entity": "option_a"
+      },
+      "options": [
+        "Madonna",
+        "Whitney Houston",
+        "Cher"
+      ],
+      "expl": [
+        "Madonna earned the title thanks to hits like “Like a Virgin” and “Material Girl.” She reinvented herself constantly and influenced fashion and music videos. She’s still the best-selling female artist ever."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "Madonna"
+        ],
+        "option_b": [
+          "Whitney Houston",
+          "Whitney",
+          "Houston"
+        ],
+        "option_c": [
+          "Cher"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": ""
+    },
+    {
+      "id": "genernal-knowledge_B7_34",
+      "que": "What is the main ingredient in guacamole?",
+      "ans": {
+        "value": "Avocado",
+        "correct_entity": "option_a"
+      },
+      "options": [
+        "Avocado",
+        "Tomato",
+        "Onion"
+      ],
+      "expl": [
+        "Guacamole is made mostly from mashed avocados mixed with lime and salt. Ancient Aztecs were making versions of it over 500 years ago."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "Avocado",
+          "Avocados"
+        ],
+        "option_b": [
+          "Tomato",
+          "Tomatoes"
+        ],
+        "option_c": [
+          "Onion",
+          "Onions"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": ""
+    },
+    {
+      "id": "genernal-knowledge_B7_35",
+      "que": "What is the primary ingredient in falafel?",
+      "ans": {
+        "value": "Chickpeas",
+        "correct_entity": "option_a"
+      },
+      "options": [
+        "Chickpeas",
+        "Lentils",
+        "Rice"
+      ],
+      "expl": [
+        "Falafel is made from ground chickpeas shaped into balls and deep-fried. It’s a street-food staple across the Middle East."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "Chickpeas",
+          "chick pea",
+          "chick piece"
+        ],
+        "option_b": [
+          "Lentils",
+          "lentil"
+        ],
+        "option_c": [
+          "Rice"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": ""
+    },
+    {
+      "id": "genernal-knowledge_B7_36",
+      "que": "Which fruit has seeds on the outside?",
+      "ans": {
+        "value": "Strawberry",
+        "correct_entity": "option_a"
+      },
+      "options": [
+        "Strawberry",
+        "Blueberry",
+        "Raspberry"
+      ],
+      "expl": [
+        "Strawberries are the only fruit with their seeds on the outside — about 200 of them per berry. Technically, it's not even a true berry."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "Strawberry"
+        ],
+        "option_b": [
+          "Blueberry",
+          "blue berry"
+        ],
+        "option_c": [
+          "Raspberry",
+          "ras berry"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": ""
+    },
+    {
+      "id": "genernal-knowledge_B7_37",
+      "que": "What is the most widely eaten food worldwide?",
+      "ans": {
+        "value": "Rice",
+        "correct_entity": "option_a"
+      },
+      "options": [
+        "Rice",
+        "Wheat",
+        "Corn"
+      ],
+      "expl": [
+        "Rice is a daily staple for more than half the planet. In some Asian countries, the word “rice” also means “meal.”"
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "Rice"
+        ],
+        "option_b": [
+          "Wheat"
+        ],
+        "option_c": [
+          "Corn",
+          "call",
+          "kaun"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": ""
+    },
+    {
+      "id": "genernal-knowledge_B7_38",
+      "que": "Which vegetable makes people cry when cut?",
+      "ans": {
+        "value": "Onion",
+        "correct_entity": "option_a"
+      },
+      "options": [
+        "Onion",
+        "Garlic",
+        "Leek"
+      ],
+      "expl": [
+        "Onions release sulfur gases when sliced, which irritate the eyes and cause tears. Chilling the onion can reduce the effect."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "Onion",
+          "onions"
+        ],
+        "option_b": [
+          "Garlic"
+        ],
+        "option_c": [
+          "Leek",
+          "leak",
+          "lick"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": ""
+    },
+    {
+      "id": "genernal-knowledge_B7_39",
+      "que": "What is the main ingredient in hummus?",
+      "ans": {
+        "value": "Chickpeas",
+        "correct_entity": "option_a"
+      },
+      "options": [
+        "Chickpeas",
+        "Tahini",
+        "Lentils"
+      ],
+      "expl": [
+        "Hummus is a creamy dip made from blended chickpeas, tahini, garlic and lemon. Its name literally means “chickpea” in Arabic."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "Chickpeas",
+          "chick pea",
+          "chick piece"
+        ],
+        "option_b": [
+          "Tahini"
+        ],
+        "option_c": [
+          "Lentils",
+          "Lentil"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": ""
+    },
+    {
+      "id": "genernal-knowledge_B7_40",
+      "que": "Which country developed French fries?",
+      "ans": {
+        "value": "Belgium",
+        "correct_entity": "option_a"
+      },
+      "options": [
+        "Belgium",
+        "France",
+        "USA"
+      ],
+      "expl": [
+        "Despite the name, French fries were invented in Belgium. American soldiers discovered them in WWI and thought they were French."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "Belgium"
+        ],
+        "option_b": [
+          "France"
+        ],
+        "option_c": [
+          "USA",
+          "United State",
+          "u. s.",
+          "us",
+          "u. s. a.",
+          "united states of america"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": ""
+    },
+    {
+      "id": "genernal-knowledge_B7_41",
+      "que": "What is the most expensive spice by weight?",
+      "ans": {
+        "value": "Saffron",
+        "correct_entity": "option_a"
+      },
+      "options": [
+        "Saffron",
+        "Vanilla",
+        "Cardamom"
+      ],
+      "expl": [
+        "Saffron is the world’s most expensive spice because each strand is hand-harvested from the crocus flower. It takes about 75,000 flowers to make just one pound of saffron, which drives the price sky-high."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "Saffron"
+        ],
+        "option_b": [
+          "Vanilla"
+        ],
+        "option_c": [
+          "Cardamom"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": ""
+    },
+    {
+      "id": "genernal-knowledge_B7_42",
+      "que": "What was the first food eaten on the moon?",
+      "ans": {
+        "value": "Bacon",
+        "correct_entity": "option_a"
+      },
+      "options": [
+        "Bacon",
+        "Applesauce",
+        "Crackers"
+      ],
+      "expl": [
+        "The first food eaten on the moon was bacon in the form of bacon squares. The Apollo 11 crew also had sugar cookie cubes, peaches, and coffee as part of their meal."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "Bacon",
+          "back on"
+        ],
+        "option_b": [
+          "Applesauce",
+          "apple sauce"
+        ],
+        "option_c": [
+          "Crackers",
+          "Cracker"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": ""
+    },
+    {
+      "id": "genernal-knowledge_B7_43",
+      "que": "What is the name of raw fish rolls served in Japan?",
+      "ans": {
+        "value": "Sushi",
+        "correct_entity": "option_a"
+      },
+      "options": [
+        "Sushi",
+        "Tempura",
+        "Sashimi"
+      ],
+      "expl": [
+        "Sushi is a Japanese dish made with vinegared rice paired with raw fish or vegetables. It’s often served as rolls, but sushi refers to the rice, not the fish itself."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "Sushi"
+        ],
+        "option_b": [
+          "Tempura"
+        ],
+        "option_c": [
+          "Sashimi"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": ""
+    },
+    {
+      "id": "genernal-knowledge_B7_44",
+      "que": "What is the most stolen food in the world?",
+      "ans": {
+        "value": "Cheese",
+        "correct_entity": "option_a"
+      },
+      "options": [
+        "Cheese",
+        "Bread",
+        "Chocolate"
+      ],
+      "expl": [
+        "Cheese is the most stolen food in the world, accounting for nearly 4% of all shoplifted items. Its high demand and easy-to-hide packaging make it a prime target."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "Cheese"
+        ],
+        "option_b": [
+          "Bread"
+        ],
+        "option_c": [
+          "Chocolate",
+          "Chocolates"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": ""
+    },
+    {
+      "id": "genernal-knowledge_B7_45",
+      "que": "What was the first vegetable grown in space?",
+      "ans": {
+        "value": "Potatoes",
+        "correct_entity": "option_a"
+      },
+      "options": [
+        "Potatoes",
+        "Lettuce",
+        "Tomato"
+      ],
+      "expl": [
+        "Potatoes were among the first vegetables grown in space by NASA. They were chosen for their nutritional value and ability to grow in controlled environments."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "Potatoes",
+          "potato"
+        ],
+        "option_b": [
+          "Lettuce",
+          "letest"
+        ],
+        "option_c": [
+          "Tomato",
+          "tomatoes"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": ""
+    },
+    {
+      "id": "genernal-knowledge_B7_46",
+      "que": "Which vegetable is used to make pickles?",
+      "ans": {
+        "value": "Cucumber",
+        "correct_entity": "option_a"
+      },
+      "options": [
+        "Cucumber",
+        "Zucchini",
+        "Carrot"
+      ],
+      "expl": [
+        "Cucumbers are the most common vegetable used to make pickles. They’re soaked in brine or vinegar to create the tangy snack."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "Cucumber"
+        ],
+        "option_b": [
+          "Zucchini"
+        ],
+        "option_c": [
+          "Carrot"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": ""
+    },
+    {
+      "id": "genernal-knowledge_B7_47",
+      "que": "What frozen treat is made from flavored liquid?",
+      "ans": {
+        "value": "Popsicle",
+        "correct_entity": "option_a"
+      },
+      "options": [
+        "Popsicle",
+        "Sorbet",
+        "Gelato"
+      ],
+      "expl": [
+        "A popsicle is made by freezing flavored liquid, usually juice or sweetened water, on a stick. It was invented by accident in 1905 by an 11-year-old."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "Popsicle",
+          "Popsicles"
+        ],
+        "option_b": [
+          "Sorbet"
+        ],
+        "option_c": [
+          "Gelato"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": ""
+    },
+    {
+      "id": "genernal-knowledge_B7_48",
+      "que": "Which fruit is green outside and red inside?",
+      "ans": {
+        "value": "Watermelon",
+        "correct_entity": "option_a"
+      },
+      "options": [
+        "Watermelon",
+        "Kiwi",
+        "Papaya"
+      ],
+      "expl": [
+        "A watermelon has a green rind on the outside and bright red juicy flesh inside. It’s 90% water, which makes it a refreshing summer fruit."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "Watermelon",
+          "water melon"
+        ],
+        "option_b": [
+          "Kiwi"
+        ],
+        "option_c": [
+          "Papaya"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": ""
+    },
+    {
+      "id": "genernal-knowledge_B7_49",
+      "que": "Who founded Microsoft?",
+      "ans": {
+        "value": "Bill Gates and Paul Allen",
+        "correct_entity": "option_b"
+      },
+      "options": [
+        "Steve Jobs",
+        "Bill Gates and Paul Allen",
+        "Elon Musk"
+      ],
+      "expl": [
+        "Microsoft was founded by Bill Gates and Paul Allen in 1975. Their first major success was the MS-DOS operating system, which powered early PCs."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "Steve Jobs",
+          "Steve",
+          "Jobs"
+        ],
+        "option_b": [
+          "Bill Gates and Paul Allen",
+          "Bill",
+          "Gates",
+          "and",
+          "Paul",
+          "Allen",
+          "Bill Gates Paul Allen",
+          "Bill Gates",
+          "Paul Allen"
+        ],
+        "option_c": [
+          "Elon Musk",
+          "musk",
+          "elon"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": ""
+    },
+    {
+      "id": "genernal-knowledge_B7_50",
+      "que": "Which company is known for the slogan “Just Do It”?",
+      "ans": {
+        "value": "Nike",
+        "correct_entity": "option_a"
+      },
+      "options": [
+        "Nike",
+        "Adidas",
+        "Puma"
+      ],
+      "expl": [
+        "Nike is the company behind the slogan “Just Do It,” launched in 1988. The campaign became one of the most successful in advertising history."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "Nike"
+        ],
+        "option_b": [
+          "Adidas"
+        ],
+        "option_c": [
+          "Puma"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": ""
+    },
+    {
+      "id": "genernal-knowledge_B7_51",
+      "que": "Which company owns the brand “Pepsi”?",
+      "ans": {
+        "value": "PepsiCo",
+        "correct_entity": "option_a"
+      },
+      "options": [
+        "PepsiCo",
+        "Coca-Cola",
+        "Nestle"
+      ],
+      "expl": [
+        "PepsiCo owns the Pepsi brand along with many other food and drink products like Lay’s and Gatorade. It’s one of the largest beverage companies in the world."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "PepsiCo",
+          "pepsi co.",
+          "pepsi co"
+        ],
+        "option_b": [
+          "Coca-Cola",
+          "coca",
+          "coca cola",
+          "coke"
+        ],
+        "option_c": [
+          "Nestle",
+          "Nestlé"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": ""
+    },
+    {
+      "id": "genernal-knowledge_B7_52",
+      "que": "What is the largest company by market capitalization as of 2024?",
+      "ans": {
+        "value": "Apple Inc.",
+        "correct_entity": "option_b"
+      },
+      "options": [
+        "Microsoft",
+        "Apple Inc.",
+        "Amazon"
+      ],
+      "expl": [
+        "In 2024, Apple Inc. held the title of the world’s largest company by market capitalization. Its dominance is driven by products like the iPhone, services, and global brand power."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "Microsoft"
+        ],
+        "option_b": [
+          "Apple Inc.",
+          "apple incorporation",
+          "apple i. n. c."
+        ],
+        "option_c": [
+          "Amazon"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": ""
+    },
+    {
+      "id": "genernal-knowledge_B7_53",
+      "que": "Which company is known for the slogan “Think Different”?",
+      "ans": {
+        "value": "Apple Inc.",
+        "correct_entity": "option_b"
+      },
+      "options": [
+        "IBM",
+        "Apple Inc.",
+        "Microsoft"
+      ],
+      "expl": [
+        "Apple created the “Think Different” campaign in 1997 to celebrate creativity and innovation. It helped revive the company during a critical time."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "IBM",
+          "i. b. m.",
+          "i. b. n."
+        ],
+        "option_b": [
+          "Apple Inc.",
+          "apple incorporation",
+          "apple i. n. c."
+        ],
+        "option_c": [
+          "Microsoft"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": ""
+    },
+    {
+      "id": "genernal-knowledge_B7_54",
+      "que": "Which company is known for the slogan “Have It Your Way”?",
+      "ans": {
+        "value": "Burger King",
+        "correct_entity": "option_b"
+      },
+      "options": [
+        "McDonald's",
+        "Burger King",
+        "Wendy's"
+      ],
+      "expl": [
+        "Burger King uses the slogan “Have It Your Way,” highlighting the ability to customize your order. The message reinforces their competitive edge over fast-food rivals."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "McDonald's",
+          "mac donald",
+          "mc donald",
+          "donald",
+          "mcdonalds",
+          "mcdonald"
+        ],
+        "option_b": [
+          "Burger King",
+          "Burger",
+          "King"
+        ],
+        "option_c": [
+          "Wendy's",
+          "when d."
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": ""
+    },
+    {
+      "id": "genernal-knowledge_B7_55",
+      "que": "Which company owns the brand “KFC”?",
+      "ans": {
+        "value": "Yum! Brands",
+        "correct_entity": "option_b"
+      },
+      "options": [
+        "PepsiCo",
+        "Yum! Brands",
+        "McDonald's"
+      ],
+      "expl": [
+        "Yum! Brands owns KFC along with Pizza Hut and Taco Bell. The company specializes in global fast-food franchises."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "PepsiCo",
+          "pepsi co.",
+          "pepsi co"
+        ],
+        "option_b": [
+          "Yum! Brands",
+          "Yum",
+          "Brands",
+          "brand",
+          "yum brand",
+          "yum brands"
+        ],
+        "option_c": [
+          "McDonald's",
+          "mac donald",
+          "mc donald",
+          "donald",
+          "mcdonalds",
+          "mcdonald"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": ""
+    },
+    {
+      "id": "genernal-knowledge_B7_56",
+      "que": "Which company is known for the slogan “I'm Lovin' It”?",
+      "ans": {
+        "value": "McDonald's",
+        "correct_entity": "option_c"
+      },
+      "options": [
+        "Wendy's",
+        "Burger King",
+        "McDonald's"
+      ],
+      "expl": [
+        "McDonald’s launched the slogan “I’m Lovin’ It” in 2003, and it quickly became a worldwide catchphrase. The jingle was even recorded by Justin Timberlake."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "Wendy's",
+          "when d.",
+          "wendy"
+        ],
+        "option_b": [
+          "Burger King",
+          "Burger",
+          "King"
+        ],
+        "option_c": [
+          "McDonald's",
+          "mac donald",
+          "mc donald",
+          "donald",
+          "mcdonalds",
+          "mcdonald"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": ""
+    },
+    {
+      "id": "genernal-knowledge_B7_57",
+      "que": "Spanakopita is filled with feta and what leafy green?",
+      "ans": {
+        "value": "Spinach",
+        "correct_entity": "option_a"
+      },
+      "options": [
+        "Spinach",
+        "Kale",
+        "Chard"
+      ],
+      "expl": [
+        "Spanakopita is a Greek pastry filled with spinach and feta cheese, wrapped in flaky phyllo dough. It’s a popular savory dish in Greek cuisine."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "Spinach"
+        ],
+        "option_b": [
+          "Kale",
+          "game",
+          "scale",
+          "kill"
+        ],
+        "option_c": [
+          "Chard",
+          "child"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": ""
+    },
+    {
+      "id": "genernal-knowledge_B7_58",
+      "que": "What is the name for a period of two weeks?",
+      "ans": {
+        "value": "Fortnight",
+        "correct_entity": "option_a"
+      },
+      "options": [
+        "Fortnight",
+        "Biweek",
+        "Semimonth"
+      ],
+      "expl": [
+        "A fortnight is a time period equal to 14 days, or two weeks. The word comes from the Old English phrase “fourteen nights.”"
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "Fortnight",
+          "fort night"
+        ],
+        "option_b": [
+          "Biweek",
+          "be weak",
+          "buy week",
+          "buy weak"
+        ],
+        "option_c": [
+          "Semimonth"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": ""
+    },
+    {
+      "id": "genernal-knowledge_B7_59",
+      "que": "Which alcohol is used in a Manhattan cocktail?",
+      "ans": {
+        "value": "whiskey",
+        "correct_entity": "option_b"
+      },
+      "options": [
+        "Vodka",
+        "whiskey",
+        "Gin"
+      ],
+      "expl": [
+        "A classic Manhattan cocktail is made with whisky, sweet vermouth, and bitters. It’s traditionally garnished with a cherry and served in a martini glass."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "Vodka"
+        ],
+        "option_b": [
+          "whiskey",
+          "Whisky"
+        ],
+        "option_c": [
+          "Gin",
+          "jin"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": ""
+    },
+    {
+      "id": "genernal-knowledge_B7_60",
+      "que": "Which star sign is symbolized by a pair of scales?",
+      "ans": {
+        "value": "Libra",
+        "correct_entity": "option_a"
+      },
+      "options": [
+        "Libra",
+        "Gemini",
+        "Virgo"
+      ],
+      "expl": [
+        "Libra is the zodiac sign represented by a pair of scales, symbolizing balance and fairness. It covers birthdays from late September to late October."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "Libra"
+        ],
+        "option_b": [
+          "Gemini"
+        ],
+        "option_c": [
+          "Virgo"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": ""
+    },
+    {
+      "id": "genernal-knowledge_B7_61",
+      "que": "What company makes Oreo cookies?",
+      "ans": {
+        "value": "Nabisco",
+        "correct_entity": "option_a"
+      },
+      "options": [
+        "Nabisco",
+        "Nestle",
+        "Kraft"
+      ],
+      "expl": [
+        "Nabisco is the company that makes Oreo cookies, which are now owned by Mondelēz International. Oreos were first introduced in 1912."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "Nabisco"
+        ],
+        "option_b": [
+          "Nestle",
+          "Nestlé"
+        ],
+        "option_c": [
+          "Kraft",
+          "craft"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": ""
+    },
+    {
+      "id": "genernal-knowledge_B7_62",
+      "que": "What is tofu made from?",
+      "ans": {
+        "value": "Soybeans",
+        "correct_entity": "option_a"
+      },
+      "options": [
+        "Soybeans",
+        "Wheat",
+        "Almonds"
+      ],
+      "expl": [
+        "Tofu is made from soybeans by curdling soy milk and pressing it into blocks. It's a major protein source in many vegetarian and Asian cuisines."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "Soybeans",
+          "soyabeans",
+          "soya",
+          "soya bean",
+          "soyabean",
+          "soya beans"
+        ],
+        "option_b": [
+          "Wheat"
+        ],
+        "option_c": [
+          "Almonds",
+          "Almond"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": ""
+    },
+    {
+      "id": "genernal-knowledge_B7_63",
+      "que": "Aqua Net is a brand of what?",
+      "ans": {
+        "value": "Hairspray",
+        "correct_entity": "option_c"
+      },
+      "options": [
+        "Shampoo",
+        "Gel",
+        "Hairspray"
+      ],
+      "expl": [
+        "Aqua Net is a well-known brand of hairspray, especially popular in the 1980s. It became iconic for big hair trends in rock, pop, and pageant culture."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "Shampoo"
+        ],
+        "option_b": [
+          "Gel"
+        ],
+        "option_c": [
+          "Hairspray",
+          "hair spray"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": ""
+    },
+    {
+      "id": "genernal-knowledge_B7_64",
+      "que": "Who made a 'Bye Sister' video about James Charles in 2018?",
+      "ans": {
+        "value": "Tati Westbrook",
+        "correct_entity": "option_a"
+      },
+      "options": [
+        "Tati Westbrook",
+        "Jeffree Star",
+        "Shane Dawson"
+      ],
+      "expl": [
+        "Tati Westbrook posted the viral “Bye Sister” video in 2018 during a public feud with James Charles. The video caused a massive fallout in the beauty YouTube community."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "Tati Westbrook",
+          "Tati",
+          "Westbrook"
+        ],
+        "option_b": [
+          "Jeffree Star",
+          "Jeffree",
+          "Star"
+        ],
+        "option_c": [
+          "Shane Dawson",
+          "Shane",
+          "Dawson"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": ""
+    },
+    {
+      "id": "genernal-knowledge_B7_65",
+      "que": "Who is the Greek god of the sea?",
+      "ans": {
+        "value": "Poseidon",
+        "correct_entity": "option_a"
+      },
+      "options": [
+        "Poseidon",
+        "Zeus",
+        "Ares"
+      ],
+      "expl": [
+        "Poseidon is the Greek god of the sea, earthquakes, and horses. He’s usually shown holding a three-pronged trident."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "Poseidon"
+        ],
+        "option_b": [
+          "Zeus"
+        ],
+        "option_c": [
+          "Ares",
+          "aries"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": ""
+    },
+    {
+      "id": "genernal-knowledge_B7_66",
+      "que": "A bellini contains white peaches and what?",
+      "ans": {
+        "value": "Prosecco",
+        "correct_entity": "option_b"
+      },
+      "options": [
+        "Champagne",
+        "Prosecco",
+        "Soda"
+      ],
+      "expl": [
+        "A bellini is made with peach purée and Prosecco, an Italian sparkling wine. It originated in Venice in the 1940s."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "Champagne"
+        ],
+        "option_b": [
+          "Prosecco"
+        ],
+        "option_c": [
+          "Soda"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": ""
+    },
+    {
+      "id": "genernal-knowledge_B7_67",
+      "que": "In electrical work, which wire is typically hot?",
+      "ans": {
+        "value": "Black",
+        "correct_entity": "option_b"
+      },
+      "options": [
+        "White",
+        "Black",
+        "Green"
+      ],
+      "expl": [
+        "In electrical wiring, the black wire is typically the hot or live wire. It carries the current from the power source to the device."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "White"
+        ],
+        "option_b": [
+          "Black"
+        ],
+        "option_c": [
+          "Green"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": ""
+    },
+    {
+      "id": "genernal-knowledge_B7_68",
+      "que": "Which word is an antonym of 'prolix'?",
+      "ans": {
+        "value": "Laconic",
+        "correct_entity": "option_b"
+      },
+      "options": [
+        "Verbose",
+        "Laconic",
+        "Detailed"
+      ],
+      "expl": [
+        "Laconic means brief or using very few words, making it the opposite of “prolix,” which means overly wordy. The term comes from the ancient Spartans, known for speaking bluntly."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "Verbose"
+        ],
+        "option_b": [
+          "Laconic"
+        ],
+        "option_c": [
+          "Detailed",
+          "detail"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": ""
+    },
+    {
+      "id": "genernal-knowledge_B7_69",
+      "que": "How do you say 'five' in Spanish?",
+      "ans": {
+        "value": "Cinco",
+        "correct_entity": "option_a"
+      },
+      "options": [
+        "Cinco",
+        "Cinque",
+        "Cinq"
+      ],
+      "expl": [
+        "The Spanish word for five is cinco. It’s commonly heard during celebrations like Cinco de Mayo."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "Cinco",
+          "sinco"
+        ],
+        "option_b": [
+          "Cinque",
+          "sonk",
+          "song"
+        ],
+        "option_c": [
+          "Cinq",
+          "sink",
+          "sing"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": ""
+    },
+    {
+      "id": "genernal-knowledge_B7_70",
+      "que": "What is the dot above the letter 'i' called?",
+      "ans": {
+        "value": "Tittle",
+        "correct_entity": "option_c"
+      },
+      "options": [
+        "Pip",
+        "Nub",
+        "Tittle"
+      ],
+      "expl": [
+        "The dot above the letters i and j is called a tittle. The word comes from Latin and means “small mark.”"
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "Pip",
+          "peep"
+        ],
+        "option_b": [
+          "Nub"
+        ],
+        "option_c": [
+          "Tittle",
+          "title",
+          "tea time",
+          "little",
+          "details"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": ""
+    },
+    {
+      "id": "genernal-knowledge_B7_71",
+      "que": "What is a word that reads the same forward and backward?",
+      "ans": {
+        "value": "Palindrome",
+        "correct_entity": "option_b"
+      },
+      "options": [
+        "Antonym",
+        "Palindrome",
+        "Homonym"
+      ],
+      "expl": [
+        "A palindrome reads the same forward and backward, like “level” or “racecar.” Numbers and phrases can also be palindromes."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "Antonym"
+        ],
+        "option_b": [
+          "Palindrome"
+        ],
+        "option_c": [
+          "Homonym",
+          "how many"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": ""
+    },
+    {
+      "id": "genernal-knowledge_B7_72",
+      "que": "What beverage is made by fermenting apples?",
+      "ans": {
+        "value": "Cider",
+        "correct_entity": "option_a"
+      },
+      "options": [
+        "Cider",
+        "Mead",
+        "Wine"
+      ],
+      "expl": [
+        "Cider is an alcoholic drink made by fermenting apple juice. Its flavor can range from sweet to dry depending on the variety of apples used."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "Cider",
+          "apple cider"
+        ],
+        "option_b": [
+          "Mead"
+        ],
+        "option_c": [
+          "Wine"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": ""
+    },
+    {
+      "id": "genernal-knowledge_B7_73",
+      "que": "What was the first toy advertised on TV?",
+      "ans": {
+        "value": "Mr. Potato Head",
+        "correct_entity": "option_b"
+      },
+      "options": [
+        "Slinky",
+        "Mr. Potato Head",
+        "Barbie"
+      ],
+      "expl": [
+        "Mr. Potato Head became the first toy ever advertised on television in 1952. The original version used real potatoes with separate plastic face pieces."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "Slinky"
+        ],
+        "option_b": [
+          "Mr. Potato Head",
+          "mr potato head",
+          "potato head",
+          "mister potato head"
+        ],
+        "option_c": [
+          "Barbie"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": ""
+    },
+    {
+      "id": "genernal-knowledge_B7_74",
+      "que": "Which M and M color replaced tan?",
+      "ans": {
+        "value": "Blue",
+        "correct_entity": "option_a"
+      },
+      "options": [
+        "Blue",
+        "Green",
+        "Red"
+      ],
+      "expl": [
+        "Blue M and Ms replaced the tan ones after a public vote in 1995. The color change was part of a campaign to modernize the candy’s look."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "Blue"
+        ],
+        "option_b": [
+          "Green"
+        ],
+        "option_c": [
+          "Red"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": ""
+    },
+    {
+      "id": "genernal-knowledge_B7_75",
+      "que": "What is the main ingredient in sake?",
+      "ans": {
+        "value": "Rice",
+        "correct_entity": "option_b"
+      },
+      "options": [
+        "Barley",
+        "Rice",
+        "Soybeans"
+      ],
+      "expl": [
+        "Japanese sake is made by fermenting polished rice, giving it a smooth, clean flavor. The rice is milled to remove the outer layers before brewing."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "Barley"
+        ],
+        "option_b": [
+          "Rice"
+        ],
+        "option_c": [
+          "Soybeans",
+          "soya beans",
+          "soya",
+          "beans",
+          "soy",
+          "soybean"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": ""
+    },
+    {
+      "id": "genernal-knowledge_B7_76",
+      "que": "Gnocchi is made from what?",
+      "ans": {
+        "value": "Potatoes",
+        "correct_entity": "option_b"
+      },
+      "options": [
+        "Corn",
+        "Potatoes",
+        "Wheat"
+      ],
+      "expl": [
+        "Gnocchi are soft Italian dumplings made primarily from mashed potatoes mixed with flour. They are often served with sauces like pesto, butter, or tomato."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "Corn"
+        ],
+        "option_b": [
+          "Potatoes",
+          "potato"
+        ],
+        "option_c": [
+          "Wheat"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": ""
+    },
+    {
+      "id": "genernal-knowledge_B7_77",
+      "que": "What is the name of Cosmo and Wanda's baby?",
+      "ans": {
+        "value": "Poof",
+        "correct_entity": "option_a"
+      },
+      "options": [
+        "Poof",
+        "Boom",
+        "Zap"
+      ],
+      "expl": [
+        "Poof is the baby of Cosmo and Wanda in The Fairly OddParents. He first appeared in the show's sixth season."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "Poof",
+          "proof"
+        ],
+        "option_b": [
+          "Boom"
+        ],
+        "option_c": [
+          "Zap",
+          "tap"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": ""
+    },
+    {
+      "id": "genernal-knowledge_B7_78",
+      "que": "How many cups are in a quart?",
+      "ans": {
+        "value": "4",
+        "correct_entity": "option_a"
+      },
+      "options": [
+        "4",
+        "2",
+        "3"
+      ],
+      "expl": [
+        "There are 4 cups in a quart in standard U.S. measurement. This is helpful for cooking and baking conversions."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "4",
+          "four"
+        ],
+        "option_b": [
+          "2",
+          "two"
+        ],
+        "option_c": [
+          "3",
+          "three"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": ""
+    },
+    {
+      "id": "genernal-knowledge_B7_79",
+      "que": "What leafy green is also called rocket?",
+      "ans": {
+        "value": "Arugula",
+        "correct_entity": "option_a"
+      },
+      "options": [
+        "Arugula",
+        "Spinach",
+        "Kale"
+      ],
+      "expl": [
+        "Arugula, also known as rocket, is a leafy green with a peppery taste. It is often used in salads, sandwiches, and pizzas."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "Arugula"
+        ],
+        "option_b": [
+          "Spinach"
+        ],
+        "option_c": [
+          "Kale",
+          "game",
+          "scale",
+          "kill"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": ""
+    },
+    {
+      "id": "genernal-knowledge_B7_80",
+      "que": "A pluot is a mix of which fruits?",
+      "ans": {
+        "value": "Plum and Apricot",
+        "correct_entity": "option_a"
+      },
+      "options": [
+        "Plum and Apricot",
+        "Peach and Plum",
+        "Pear and Apricot"
+      ],
+      "expl": [
+        "A pluot is a hybrid fruit combining plums and apricots. It has smooth skin like a plum and a sweet flavor like an apricot."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "Plum and Apricot",
+          "Apricot",
+          "plum"
+        ],
+        "option_b": [
+          "Peach and Plum",
+          "Peach",
+          "plum"
+        ],
+        "option_c": [
+          "Pear and Apricot",
+          "Pear"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": ""
+    },
+    {
+      "id": "genernal-knowledge_B7_81",
+      "que": "What are tamales traditionally wrapped in?",
+      "ans": {
+        "value": "Corn husks",
+        "correct_entity": "option_a"
+      },
+      "options": [
+        "Corn husks",
+        "Banana leaves",
+        "Tortillas"
+      ],
+      "expl": [
+        "Tamales are traditionally wrapped in corn husks before being steamed. The husk is removed before eating, leaving the soft masa and filling inside."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "Corn husks",
+          "Corn",
+          "husks",
+          "Corn husk"
+        ],
+        "option_b": [
+          "Banana leaves",
+          "Banana",
+          "leaves"
+        ],
+        "option_c": [
+          "Tortillas",
+          "Tortilla"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": ""
+    },
+    {
+      "id": "genernal-knowledge_B7_82",
+      "que": "What are Lego people called?",
+      "ans": {
+        "value": "Minifigures",
+        "correct_entity": "option_a"
+      },
+      "options": [
+        "Minifigures",
+        "Brick Buddies",
+        "Blockmen"
+      ],
+      "expl": [
+        "Lego people are officially called minifigures, often shortened to “minifigs.” They come in thousands of themed variations, from astronauts to wizards."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "Minifigures",
+          "Mini figures",
+          "mini figure",
+          "minifigure"
+        ],
+        "option_b": [
+          "Brick Buddies",
+          "Brick",
+          "Buddies",
+          "brick buddy"
+        ],
+        "option_c": [
+          "Blockmen",
+          "Block men"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": ""
+    },
+    {
+      "id": "genernal-knowledge_B7_83",
+      "que": "What's the beef version of shepherd's pie called?",
+      "ans": {
+        "value": "Cottage pie",
+        "correct_entity": "option_a"
+      },
+      "options": [
+        "Cottage pie",
+        "Meatloaf",
+        "Grounder pie"
+      ],
+      "expl": [
+        "Cottage pie is similar to shepherd’s pie but uses beef instead of lamb. It’s topped with mashed potatoes and baked until golden. The dish originated in the United Kingdom."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "Cottage pie",
+          "Cottage",
+          "pie"
+        ],
+        "option_b": [
+          "Meatloaf"
+        ],
+        "option_c": [
+          "Grounder pie",
+          "Grounder",
+          "pie"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": ""
+    },
+    {
+      "id": "genernal-knowledge_B7_84",
+      "que": "What's the first button in the Konami Code?",
+      "ans": {
+        "value": "Up",
+        "correct_entity": "option_b"
+      },
+      "options": [
+        "A",
+        "Up",
+        "Start"
+      ],
+      "expl": [
+        "The Konami Code starts with the button “Up.” The full code is “Up, Up, Down, Down, Left, Right, Left, Right, B, A.” It became an iconic cheat code in video games."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "A",
+          "a."
+        ],
+        "option_b": [
+          "Up"
+        ],
+        "option_c": [
+          "Start"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": ""
+    },
+    {
+      "id": "genernal-knowledge_B7_85",
+      "que": "What color is ochre?",
+      "ans": {
+        "value": "Yellow",
+        "correct_entity": "option_a"
+      },
+      "options": [
+        "Yellow",
+        "Brown",
+        "Green"
+      ],
+      "expl": [
+        "Ochre is an earthy pigment that appears in yellow to orange-brown tones. It has been used in art and decoration since ancient times. Natural ochre comes from clay colored by iron oxide."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "Yellow"
+        ],
+        "option_b": [
+          "Brown"
+        ],
+        "option_c": [
+          "Green"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": ""
+    },
+    {
+      "id": "genernal-knowledge_B7_86",
+      "que": "What type of milk is used in traditional mozzarella?",
+      "ans": {
+        "value": "Buffalo",
+        "correct_entity": "option_a"
+      },
+      "options": [
+        "Buffalo",
+        "Cow",
+        "Goat"
+      ],
+      "expl": [
+        "Traditional mozzarella is made from the milk of water buffaloes. This type is known as mozzarella di bufala in Italy. It has a richer, creamier taste than cow’s milk mozzarella."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "Buffalo",
+          "Buffaloes"
+        ],
+        "option_b": [
+          "Cow"
+        ],
+        "option_c": [
+          "Goat",
+          "got"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": ""
+    },
+    {
+      "id": "genernal-knowledge_B7_87",
+      "que": "Who is the Norse god of thunder?",
+      "ans": {
+        "value": "Thor",
+        "correct_entity": "option_a"
+      },
+      "options": [
+        "Thor",
+        "Loki",
+        "Odin"
+      ],
+      "expl": [
+        "Thor is the Norse god of thunder, storms, and strength. He wields a magical hammer called Mjölnir. Thor appears in ancient mythology and modern pop culture."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "Thor",
+          "thar"
+        ],
+        "option_b": [
+          "Loki",
+          "low key"
+        ],
+        "option_c": [
+          "Odin"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": ""
+    },
+    {
+      "id": "genernal-knowledge_B7_88",
+      "que": "What is polenta made from?",
+      "ans": {
+        "value": "Cornmeal",
+        "correct_entity": "option_a"
+      },
+      "options": [
+        "Cornmeal",
+        "Wheat",
+        "Rice"
+      ],
+      "expl": [
+        "Polenta is made from boiled cornmeal. It can be served creamy, grilled, or baked. It is a traditional staple in Italian cuisine."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "Cornmeal",
+          "corn meal",
+          "corn"
+        ],
+        "option_b": [
+          "Wheat"
+        ],
+        "option_c": [
+          "Rice"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": ""
+    },
+    {
+      "id": "genernal-knowledge_B7_89",
+      "que": "What does 'Carpe Diem' mean?",
+      "ans": {
+        "value": "Seize the day",
+        "correct_entity": "option_a"
+      },
+      "options": [
+        "Seize the day",
+        "Live forever",
+        "Take it slow"
+      ],
+      "expl": [
+        "“Carpe Diem” is a Latin phrase meaning “Seize the day.” It encourages living in the moment instead of waiting for the future. The idea is often used as a motivational motto."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "Seize the day",
+          "Seize",
+          "day"
+        ],
+        "option_b": [
+          "Live forever",
+          "Live",
+          "forever"
+        ],
+        "option_c": [
+          "Take it slow",
+          "Take",
+          "it",
+          "slow"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": ""
+    },
+    {
+      "id": "genernal-knowledge_B7_90",
+      "que": "Which pastry is not fried?",
+      "ans": {
+        "value": "Croissant",
+        "correct_entity": "option_a"
+      },
+      "options": [
+        "Croissant",
+        "Churro",
+        "Doughnut"
+      ],
+      "expl": [
+        "Croissants are baked, not fried. They’re made from layered, buttery dough that creates a flaky texture. The method is called “lamination.”"
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "Croissant"
+        ],
+        "option_b": [
+          "Churro"
+        ],
+        "option_c": [
+          "Doughnut",
+          "Dough nut"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": ""
+    },
+    {
+      "id": "genernal-knowledge_B7_91",
+      "que": "Frangipane contains which nut?",
+      "ans": {
+        "value": "Almond",
+        "correct_entity": "option_a"
+      },
+      "options": [
+        "Almond",
+        "Hazelnut",
+        "Walnut"
+      ],
+      "expl": [
+        "Frangipane is a sweet almond-based filling used in pastries and tarts. It’s made from ground almonds, sugar, butter, and eggs. It’s commonly found in French desserts."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "Almond",
+          "Almonds"
+        ],
+        "option_b": [
+          "Hazelnut"
+        ],
+        "option_c": [
+          "Walnut"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": ""
+    },
+    {
+      "id": "genernal-knowledge_B7_92",
+      "que": "What's inside a Moon Pie?",
+      "ans": {
+        "value": "Marshmallow cream",
+        "correct_entity": "option_a"
+      },
+      "options": [
+        "Marshmallow cream",
+        "Peanut butter",
+        "Fruit jelly"
+      ],
+      "expl": [
+        "Moon Pies are filled with marshmallow cream sandwiched between two cookies. The whole treat is usually coated in chocolate. They’ve been a popular snack in the U.S. since the early 1900s."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "Marshmallow cream",
+          "Marshmallow",
+          "cream"
+        ],
+        "option_b": [
+          "Peanut butter",
+          "Peanut",
+          "butter"
+        ],
+        "option_c": [
+          "Fruit jelly",
+          "Fruit",
+          "jelly"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": ""
+    },
+    {
+      "id": "genernal-knowledge_B7_93",
+      "que": "Where were po'boys invented?",
+      "ans": {
+        "value": "Louisiana",
+        "correct_entity": "option_a"
+      },
+      "options": [
+        "Louisiana",
+        "Georgia",
+        "Mississippi"
+      ],
+      "expl": [
+        "Po’boy sandwiches were invented in Louisiana. They were originally given to feed striking streetcar workers in the 1920s. The name comes from feeding “poor boys.”"
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "Louisiana"
+        ],
+        "option_b": [
+          "Georgia"
+        ],
+        "option_c": [
+          "Mississippi"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": ""
+    },
+    {
+      "id": "genernal-knowledge_B7_94",
+      "que": "Which pasta is in goulash?",
+      "ans": {
+        "value": "Elbow",
+        "correct_entity": "option_a"
+      },
+      "options": [
+        "Elbow",
+        "Shell",
+        "Spaghetti"
+      ],
+      "expl": [
+        "Elbow macaroni is the pasta most commonly used in American goulash. The dish combines pasta, ground meat, tomato sauce, and spices. It’s a classic comfort food."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "Elbow"
+        ],
+        "option_b": [
+          "Shell"
+        ],
+        "option_c": [
+          "Spaghetti"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": ""
+    },
+    {
+      "id": "genernal-knowledge_B7_95",
+      "que": "What cheese is in cannelloni?",
+      "ans": {
+        "value": "Ricotta",
+        "correct_entity": "option_a"
+      },
+      "options": [
+        "Ricotta",
+        "Mozzarella",
+        "Parmesan"
+      ],
+      "expl": [
+        "Ricotta is the classic cheese used to fill cannelloni. It’s often mixed with spinach or herbs. The creamy texture makes it ideal for baked pasta dishes."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "Ricotta"
+        ],
+        "option_b": [
+          "Mozzarella"
+        ],
+        "option_c": [
+          "Parmesan",
+          "permission"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": ""
+    },
+    {
+      "id": "genernal-knowledge_B7_96",
+      "que": "What was Play-Doh originally used for?",
+      "ans": {
+        "value": "Wallpaper cleaner",
+        "correct_entity": "option_a"
+      },
+      "options": [
+        "Wallpaper cleaner",
+        "Toy",
+        "Glue"
+      ],
+      "expl": [
+        "Play-Doh was originally invented as a wallpaper cleaner. It was later rebranded as a children’s modeling clay. The change happened after teachers began using it in classrooms."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "Wallpaper cleaner",
+          "Wallpaper",
+          "cleaner",
+          "wall paper",
+          "wall paper cleaner"
+        ],
+        "option_b": [
+          "Toy"
+        ],
+        "option_c": [
+          "Glue"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": ""
+    },
+    {
+      "id": "genernal-knowledge_B7_97",
+      "que": "What shape is also known as a rhombus?",
+      "ans": {
+        "value": "Diamond",
+        "correct_entity": "option_a"
+      },
+      "options": [
+        "Diamond",
+        "Rectangle",
+        "Trapezoid"
+      ],
+      "expl": [
+        "A rhombus is commonly called a diamond because of its shape. All four sides are equal in length. It appears frequently in playing cards and design patterns."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "Diamond",
+          "Diamonds"
+        ],
+        "option_b": [
+          "Rectangle",
+          "Rectangles"
+        ],
+        "option_c": [
+          "Trapezoid"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": ""
+    },
+    {
+      "id": "genernal-knowledge_B7_98",
+      "que": "Bánh mì originated in which country?",
+      "ans": {
+        "value": "Vietnam",
+        "correct_entity": "option_a"
+      },
+      "options": [
+        "Vietnam",
+        "Thailand",
+        "Cambodia"
+      ],
+      "expl": [
+        "Bánh mì originated in Vietnam. It’s a sandwich that combines French bread with Vietnamese ingredients. Common fillings include meat, pickled vegetables, and cilantro."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "Vietnam"
+        ],
+        "option_b": [
+          "Thailand"
+        ],
+        "option_c": [
+          "Cambodia"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": ""
+    },
+    {
+      "id": "genernal-knowledge_B7_99",
+      "que": "What does Roman numeral 'C' stand for?",
+      "ans": {
+        "value": "100",
+        "correct_entity": "option_a"
+      },
+      "options": [
+        "100",
+        "50",
+        "5000"
+      ],
+      "expl": [
+        "In Roman numerals, the letter “C” represents 100. It comes from the Latin word centum. The numeral is still used in clocks, outlines, and numbering systems."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "100",
+          "hundred",
+          "one hundred"
+        ],
+        "option_b": [
+          "50",
+          "five zero",
+          "fifty"
+        ],
+        "option_c": [
+          "5000",
+          "five thousand",
+          "five thousands"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": ""
+    },
+    {
+      "id": "genernal-knowledge_B7_100",
+      "que": "What are words called that sound alike but differ in meaning?",
+      "ans": {
+        "value": "Homophones",
+        "correct_entity": "option_a"
+      },
+      "options": [
+        "Homophones",
+        "Antonyms",
+        "Synonyms"
+      ],
+      "expl": [
+        "Homophones are words that sound the same but have different meanings and spellings. Examples include “flower” and “flour.” They can cause confusion in spoken language."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "Homophones",
+          "Homophone",
+          "Homo phone"
+        ],
+        "option_b": [
+          "Antonyms",
+          "Antonym"
+        ],
+        "option_c": [
+          "Synonyms",
+          "Synonym"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": ""
+    },
+    {
+      "id": "genernal-knowledge_B7_101",
+      "que": "What is an aglet?",
+      "ans": {
+        "value": "Shoelace tip",
+        "correct_entity": "option_a"
+      },
+      "options": [
+        "Shoelace tip",
+        "Coat button",
+        "Bag clip"
+      ],
+      "expl": [
+        "An aglet is the small plastic or metal tip on a shoelace. It prevents the lace from fraying and makes threading easier. The word comes from the Latin acus, meaning “needle.”"
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "Shoelace tip",
+          "Shoelace",
+          "tip"
+        ],
+        "option_b": [
+          "Coat button",
+          "Coat",
+          "button"
+        ],
+        "option_c": [
+          "Bag clip",
+          "Bag",
+          "clip",
+          "back clip"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": ""
+    },
+    {
+      "id": "genernal-knowledge_B7_102",
+      "que": "Where was Guinness beer invented?",
+      "ans": {
+        "value": "Ireland",
+        "correct_entity": "option_a"
+      },
+      "options": [
+        "Ireland",
+        "Scotland",
+        "England"
+      ],
+      "expl": [
+        "Guinness beer was first brewed in Dublin, Ireland. The brewery at St. James’s Gate opened in 1759. The brand is now famous worldwide for its dark stout."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "Ireland"
+        ],
+        "option_b": [
+          "Scotland"
+        ],
+        "option_c": [
+          "England"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": ""
+    },
+    {
+      "id": "genernal-knowledge_B7_103",
+      "que": "Who said, 'I think, therefore I am'?",
+      "ans": {
+        "value": "Rene Descartes",
+        "correct_entity": "option_a"
+      },
+      "options": [
+        "Rene Descartes",
+        "Socrates",
+        "Plato"
+      ],
+      "expl": [
+        "René Descartes coined the phrase “I think, therefore I am.” It comes from his philosophical work Discourse on the Method. The statement argues that thinking proves existence."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "Rene Descartes",
+          "René",
+          "Descartes",
+          "René Descartes"
+        ],
+        "option_b": [
+          "Socrates",
+          "sockets"
+        ],
+        "option_c": [
+          "Plato"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": ""
+    },
+    {
+      "id": "genernal-knowledge_B7_104",
+      "que": "What's the name of Toys 'R' Us giraffe mascot?",
+      "ans": {
+        "value": "Geoffrey",
+        "correct_entity": "option_a"
+      },
+      "options": [
+        "Geoffrey",
+        "Jerry",
+        "Gerald"
+      ],
+      "expl": [
+        "Geoffrey the Giraffe is the longtime mascot of Toys \"R\" Us. He has appeared in commercials and store branding for decades. The character became a symbol of childhood toy shopping."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "Geoffrey",
+          "jefrey",
+          "jeffrey",
+          "joffrey"
+        ],
+        "option_b": [
+          "Jerry"
+        ],
+        "option_c": [
+          "Gerald"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": ""
+    },
+    {
+      "id": "genernal-knowledge_B7_105",
+      "que": "What signaling objects do sailors use in semaphore communication?",
+      "ans": {
+        "value": "Flags",
+        "correct_entity": "option_a"
+      },
+      "options": [
+        "Flags",
+        "Lights",
+        "Signs"
+      ],
+      "expl": [
+        "Semaphore uses hand-held flags to send messages over long distances. The flag positions represent letters and numbers. Sailors used this system before modern communication technology."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "Flags",
+          "Flag"
+        ],
+        "option_b": [
+          "Lights",
+          "Light"
+        ],
+        "option_c": [
+          "Signs",
+          "Sign"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": ""
+    },
+    {
+      "id": "genernal-knowledge_B7_106",
+      "que": "What is one strand of spaghetti called?",
+      "ans": {
+        "value": "Spaghetto",
+        "correct_entity": "option_a"
+      },
+      "options": [
+        "Spaghetto",
+        "Spaghettini",
+        "Spaghet"
+      ],
+      "expl": [
+        "“Spaghetto” is the singular form of the word “spaghetti” in Italian. Even though it’s rarely used in English, it is grammatically correct. The word literally means “a thin string.”"
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "Spaghetto"
+        ],
+        "option_b": [
+          "Spaghettini"
+        ],
+        "option_c": [
+          "Spaghet"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": ""
+    },
+    {
+      "id": "genernal-knowledge_B7_107",
+      "que": "What are the key ingredients in Japanese dashi broth?",
+      "ans": {
+        "value": "Fish and kelp",
+        "correct_entity": "option_a"
+      },
+      "options": [
+        "Fish and kelp",
+        "Soy and garlic",
+        "Rice and miso"
+      ],
+      "expl": [
+        "Dashi is a Japanese broth made from kombu (kelp) and bonito flakes (dried fish). It forms the base of many Japanese soups, including miso soup. Its flavor is mild, savory, and rich in umami."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "Fish and kelp",
+          "Fish",
+          "kelp"
+        ],
+        "option_b": [
+          "Soy and garlic",
+          "Soy",
+          "garlic"
+        ],
+        "option_c": [
+          "Rice and miso",
+          "Rice",
+          "miso"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": ""
+    },
+    {
+      "id": "genernal-knowledge_B7_108",
+      "que": "How many fluid ounces are in Starbucks' Venti size?",
+      "ans": {
+        "value": "20",
+        "correct_entity": "option_a"
+      },
+      "options": [
+        "20",
+        "26",
+        "24"
+      ],
+      "expl": [
+        "A Starbucks Venti hot drink holds 20 fluid ounces. The iced version is slightly larger at 24 ounces. The name “venti” means “twenty” in Italian."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "20",
+          "twenty",
+          "two zero"
+        ],
+        "option_b": [
+          "26",
+          "twenty six",
+          "two six"
+        ],
+        "option_c": [
+          "24",
+          "two four",
+          "twenty four"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": ""
+    },
+    {
+      "id": "genernal-knowledge_B7_109",
+      "que": "What is the fear of purple color called?",
+      "ans": {
+        "value": "Porphyrophobia",
+        "correct_entity": "option_a"
+      },
+      "options": [
+        "Porphyrophobia",
+        "Chromophobia",
+        "Melanophobia"
+      ],
+      "expl": [
+        "Porphyrophobia is the fear of the color purple. Like other color-related phobias, it is rare. People with it may avoid objects, clothing, or lighting that appears purple."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "Porphyrophobia"
+        ],
+        "option_b": [
+          "Chromophobia"
+        ],
+        "option_c": [
+          "Melanophobia"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": ""
+    },
+    {
+      "id": "genernal-knowledge_B7_110",
+      "que": "Which 1985 game starts in Missouri?",
+      "ans": {
+        "value": "The Oregon Trail",
+        "correct_entity": "option_a"
+      },
+      "options": [
+        "The Oregon Trail",
+        "Civilization",
+        "Pong"
+      ],
+      "expl": [
+        "The Oregon Trail begins in Independence, Missouri in the 1840s. Players guide a pioneer family on a journey to the West. The game became famous for teaching history through gameplay."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "The Oregon Trail",
+          "Oregon",
+          "Trail",
+          "oregon trail",
+          "organ trail"
+        ],
+        "option_b": [
+          "Civilization"
+        ],
+        "option_c": [
+          "Pong",
+          "bong",
+          "pon",
+          "song"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": ""
+    },
+    {
+      "id": "genernal-knowledge_B7_111",
+      "que": "What is the main nut in pesto?",
+      "ans": {
+        "value": "Pine nut",
+        "correct_entity": "option_a"
+      },
+      "options": [
+        "Pine nut",
+        "Almond",
+        "Walnut"
+      ],
+      "expl": [
+        "Traditional pesto is made using pine nuts, along with basil, garlic, olive oil, and Parmesan. The nuts give it a rich, creamy texture. It originated in Italy, especially the Liguria region."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "Pine nut",
+          "Pine",
+          "nut"
+        ],
+        "option_b": [
+          "Almond",
+          "Almonds"
+        ],
+        "option_c": [
+          "Walnut",
+          "Walnuts"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": ""
+    },
+    {
+      "id": "genernal-knowledge_B7_112",
+      "que": "In the water cycle, what is the term for when water falls as rain?",
+      "ans": {
+        "value": "Precipitation",
+        "correct_entity": "option_a"
+      },
+      "options": [
+        "Precipitation",
+        "Condensation",
+        "Evaporation"
+      ],
+      "expl": [
+        "When water falls from the sky as rain, it is called precipitation. This is one stage of the water cycle. Other forms include snow, sleet, and hail."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "Precipitation"
+        ],
+        "option_b": [
+          "Condensation"
+        ],
+        "option_c": [
+          "Evaporation",
+          "vaporation"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": ""
+    },
+    {
+      "id": "genernal-knowledge_B7_113",
+      "que": "In rock-paper-scissors, which option defeats rock?",
+      "ans": {
+        "value": "Paper",
+        "correct_entity": "option_a"
+      },
+      "options": [
+        "Paper",
+        "Scissors",
+        "Lizard"
+      ],
+      "expl": [
+        "In rock-paper-scissors, paper defeats rock. The idea is that paper covers rock. It’s one of the three basic moves in the game."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "Paper"
+        ],
+        "option_b": [
+          "Scissors",
+          "Scissor"
+        ],
+        "option_c": [
+          "Lizard",
+          "Lizards"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": ""
+    }
+  ],
+  "IMAGE_QUESTIONS": [],
+  "AUDIO_QUESTIONS": []
+}

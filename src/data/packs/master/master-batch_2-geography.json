@@ -1,0 +1,307 @@
+{
+  "TEXT_QUESTIONS": [
+    {
+      "id": "geography_B2_1",
+      "que": "Which country is home to Mount Everest, the world's highest peak?",
+      "ans": {
+        "value": "Nepal",
+        "correct_entity": "option_c"
+      },
+      "options": [
+        "China",
+        "India",
+        "Nepal"
+      ],
+      "expl": [
+        "Nepal is the country that is home to Mount Everest, the world's highest peak. Located in the Himalayas, Mount Everest stands at an elevation of 8,848 meters or 29 thousand feet above sea level. It attracts mountaineers and adventurers from around the world, making it an iconic symbol of human achievement and natural beauty."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "China"
+        ],
+        "option_b": [
+          "India"
+        ],
+        "option_c": [
+          "Nepal"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": ""
+    },
+    {
+      "id": "geography_B2_2",
+      "que": "Which of the following countries is landlocked?",
+      "ans": {
+        "value": "Switzerland",
+        "correct_entity": "option_b"
+      },
+      "options": [
+        "Japan",
+        "Switzerland",
+        "Australia"
+      ],
+      "expl": [
+        "Switzerland is a landlocked country in Central Europe, surrounded by several countries but without direct access to the sea. Landlocked countries are entirely surrounded by land and do not have a coastline or access to open water."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "Japan"
+        ],
+        "option_b": [
+          "Switzerland"
+        ],
+        "option_c": [
+          "Australia"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": ""
+    },
+    {
+      "id": "geography_B2_3",
+      "que": "Which mountain range is located between Spain and France?",
+      "ans": {
+        "value": "Pyrenees",
+        "correct_entity": "option_c"
+      },
+      "options": [
+        "Alps",
+        "Himalayas",
+        "Pyrenees"
+      ],
+      "expl": [
+        "The Pyrenees mountain range is between Spain and France, forming a natural border between the two countries. The Pyrenees are known for their scenic beauty, diverse flora and fauna, and popular hiking and skiing opportunities."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "Alps",
+          "a. l. p. s."
+        ],
+        "option_b": [
+          "Himalayas",
+          "Himalaya"
+        ],
+        "option_c": [
+          "Pyrenees",
+          "pyrenee"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": ""
+    },
+    {
+      "id": "geography_B2_4",
+      "que": "Which country is the smallest in the world by land area?",
+      "ans": {
+        "value": "Vatican City",
+        "correct_entity": "option_b"
+      },
+      "options": [
+        "Monaco",
+        "Vatican City",
+        "Maldives"
+      ],
+      "expl": [
+        "Vatican City, an independent city-state within Rome, Italy, is the smallest country in the world by land area. It occupies only about 44 hectares (110 acres) and is the spiritual and administrative headquarters of the Roman Catholic Church."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "Monaco"
+        ],
+        "option_b": [
+          "Vatican City",
+          "vatican",
+          "city",
+          "vaticane"
+        ],
+        "option_c": [
+          "Maldives",
+          "maldive"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": ""
+    },
+    {
+      "id": "geography_B2_5",
+      "que": "In which country is the Great Victoria Desert?",
+      "ans": {
+        "value": "Australia",
+        "correct_entity": "option_a"
+      },
+      "options": [
+        "Australia",
+        "Canada",
+        "Brazil"
+      ],
+      "expl": [
+        "The Great Victoria Desert is located in Australia. It is the largest desert in Australia and covers parts of Western Australia and South Australia. Spanning over 348,750 square kilometers, it is known for its arid climate and diverse flora and fauna, making it an important ecological region in the country."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "Australia"
+        ],
+        "option_b": [
+          "Canada"
+        ],
+        "option_c": [
+          "Brazil"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": ""
+    },
+    {
+      "id": "geography_B2_6",
+      "que": "Mount Etna is a volcano on which island?",
+      "ans": {
+        "value": "Sicily",
+        "correct_entity": "option_a"
+      },
+      "options": [
+        "Sicily",
+        "Crete",
+        "Bali"
+      ],
+      "expl": [
+        "Mount Etna, an active volcano in Sicily, Italy, is a prominent natural landmark on the island's eastern coast. Known for its frequent eruptions and majestic beauty, it symbolizes Sicily's volcanic activity and has shaped the region's geological history."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "Sicily",
+          "sisily",
+          "sissy",
+          "silly"
+        ],
+        "option_b": [
+          "Crete",
+          "crate",
+          "create"
+        ],
+        "option_c": [
+          "Bali"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": ""
+    },
+    {
+      "id": "geography_B2_7",
+      "que": "Which is the deepest lake in the world?",
+      "ans": {
+        "value": "Baikal",
+        "correct_entity": "option_a"
+      },
+      "options": [
+        "Baikal",
+        "Superior",
+        "Tanganyika"
+      ],
+      "expl": [
+        "Lake Baikal is the deepest lake in the world, reaching a maximum depth of approximately 1,642 meters (5,387 feet). Located in Siberia, Russia, it holds about 20% of the world's unfrozen freshwater."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "Baikal"
+        ],
+        "option_b": [
+          "Superior"
+        ],
+        "option_c": [
+          "Tanganyika",
+          "tangika",
+          "tenkaika"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": ""
+    },
+    {
+      "id": "geography_B2_8",
+      "que": "Which is the only country that has 3 capital cities?",
+      "ans": {
+        "value": "South Africa",
+        "correct_entity": "option_b"
+      },
+      "options": [
+        "United States",
+        "South Africa",
+        "Bolivia"
+      ],
+      "expl": [
+        "South Africa is the only country that has three capital cities. The administrative capital is Pretoria, the legislative capital is Cape Town, and the judicial capital is Bloemfontein. This unique arrangement is designed to share power across regions."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "United States",
+          "united",
+          "states",
+          "u. s.",
+          "u. s. a."
+        ],
+        "option_b": [
+          "South Africa",
+          "south",
+          "africa"
+        ],
+        "option_c": [
+          "Bolivia"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": ""
+    },
+    {
+      "id": "geography_B2_9",
+      "que": "What continent is the South Pole on?",
+      "ans": {
+        "value": "Antarctica",
+        "correct_entity": "option_b"
+      },
+      "options": [
+        "Africa",
+        "Antarctica",
+        "South America"
+      ],
+      "expl": [
+        "The South Pole is in Antarctica, the southernmost point on Earth. It's in the middle of the continent, surrounded by the Southern Ocean. Unlike Africa or South America, the South Pole isn't on those continents. Antarctica is a special place with lots of ice, which makes it tough to survive there."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "Africa"
+        ],
+        "option_b": [
+          "Antarctica"
+        ],
+        "option_c": [
+          "South America",
+          "south",
+          "america"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": ""
+    }
+  ],
+  "IMAGE_QUESTIONS": [],
+  "AUDIO_QUESTIONS": []
+}

@@ -1,0 +1,631 @@
+{
+  "TEXT_QUESTIONS": [
+    {
+      "id": "history_B10_1",
+      "que": "Which treaty ended World War I?",
+      "ans": {
+        "value": "Treaty of Versailles",
+        "correct_entity": "option_a"
+      },
+      "options": [
+        "Treaty of Versailles",
+        "Treaty of Paris",
+        "Treaty of Utrecht"
+      ],
+      "expl": [
+        "The Treaty of Versailles was signed on June 28, 1919, officially ending World War I. Germany was held responsible for the war and forced to pay heavy reparations, cede territory, and drastically reduce its military, conditions that contributed to World War II."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "Treaty of Versailles",
+          "versailles"
+        ],
+        "option_b": [
+          "Treaty of Paris",
+          "paris"
+        ],
+        "option_c": [
+          "Treaty of Utrecht",
+          "utrecht"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": ""
+    },
+    {
+      "id": "history_B10_2",
+      "que": "Who was the first female Prime Minister of India?",
+      "ans": {
+        "value": "Indira Gandhi",
+        "correct_entity": "option_c"
+      },
+      "options": [
+        "Pratibha Patil",
+        "Sonia Gandhi",
+        "Indira Gandhi"
+      ],
+      "expl": [
+        "Indira Gandhi was the first and only female Prime Minister of India, serving from 1966 to 1977 and again from 1980 until her assassination in 1984. Daughter of India's first PM Jawaharlal Nehru, she was one of the most powerful political figures of the 20th century."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "Pratibha Patil",
+          "pratibha",
+          "patil"
+        ],
+        "option_b": [
+          "Sonia Gandhi",
+          "sonia"
+        ],
+        "option_c": [
+          "Indira Gandhi",
+          "indira"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": ""
+    },
+    {
+      "id": "history_B10_3",
+      "que": "The ancient Olympic Games originated in which country?",
+      "ans": {
+        "value": "Greece",
+        "correct_entity": "option_b"
+      },
+      "options": [
+        "Italy",
+        "Greece",
+        "Egypt"
+      ],
+      "expl": [
+        "The ancient Olympic Games originated in Greece in 776 BC at Olympia. They were held every four years in honor of Zeus and featured athletic competitions among representatives from various Greek city-states. The modern Olympics were revived in Athens in 1896."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "Italy",
+          "italian"
+        ],
+        "option_b": [
+          "Greece",
+          "greek",
+          "hellas"
+        ],
+        "option_c": [
+          "Egypt",
+          "egyptian"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": ""
+    },
+    {
+      "id": "history_B10_4",
+      "que": "Who was the leader of the Soviet Union during the Cuban Missile Crisis?",
+      "ans": {
+        "value": "Nikita Khrushchev",
+        "correct_entity": "option_b"
+      },
+      "options": [
+        "Joseph Stalin",
+        "Nikita Khrushchev",
+        "Leonid Brezhnev"
+      ],
+      "expl": [
+        "Nikita Khrushchev was the leader of the Soviet Union during the Cuban Missile Crisis of October 1962. He engaged in tense negotiations with U.S. President John F. Kennedy, ultimately agreeing to remove Soviet missiles from Cuba in exchange for U.S. pledges."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "Joseph Stalin",
+          "stalin"
+        ],
+        "option_b": [
+          "Nikita Khrushchev",
+          "khrushchev",
+          "nikita"
+        ],
+        "option_c": [
+          "Leonid Brezhnev",
+          "brezhnev",
+          "leonid"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": ""
+    },
+    {
+      "id": "history_B10_5",
+      "que": "The Colosseum in Rome was built primarily under which emperor?",
+      "ans": {
+        "value": "Vespasian",
+        "correct_entity": "option_c"
+      },
+      "options": [
+        "Julius Caesar",
+        "Augustus",
+        "Vespasian"
+      ],
+      "expl": [
+        "The Colosseum was begun under Emperor Vespasian around 70 AD and completed by his son Titus around 80 AD. It could hold between 50,000 and 80,000 spectators and hosted gladiatorial contests, animal hunts, and public spectacles."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "Julius Caesar",
+          "caesar"
+        ],
+        "option_b": [
+          "Augustus",
+          "emperor augustus"
+        ],
+        "option_c": [
+          "Vespasian",
+          "emperor vespasian"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": ""
+    },
+    {
+      "id": "history_B10_6",
+      "que": "Which American flag designer is traditionally said to have sewn the very first U.S. flag?",
+      "ans": {
+        "value": "Betsy Ross",
+        "correct_entity": "option_a"
+      },
+      "options": [
+        "Betsy Ross",
+        "Martha Washington",
+        "Dolley Madison"
+      ],
+      "expl": [
+        "Betsy Ross of Philadelphia is traditionally credited with sewing the first American flag in 1776. According to the popular story, George Washington personally asked her to make the flag with thirteen stars and thirteen stripes. Her home in Philadelphia is now a historic landmark."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "Betsy Ross",
+          "ross",
+          "elizabeth ross"
+        ],
+        "option_b": [
+          "Martha Washington"
+        ],
+        "option_c": [
+          "Dolley Madison",
+          "dolly madison",
+          "madison"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": ""
+    },
+    {
+      "id": "history_B10_7",
+      "que": "Who was the founder of the Mughal Empire?",
+      "ans": {
+        "value": "Babur",
+        "correct_entity": "option_b"
+      },
+      "options": [
+        "Akbar",
+        "Babur",
+        "Humayun"
+      ],
+      "expl": [
+        "Babur founded the Mughal Empire in 1526 after defeating Ibrahim Lodi at the First Battle of Panipat. Born in Fergana in modern Uzbekistan, Babur was a descendant of both Timur and Genghis Khan. The Mughal Empire became one of the most powerful empires in South Asia."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "Akbar",
+          "akbar the great"
+        ],
+        "option_b": [
+          "Babur"
+        ],
+        "option_c": [
+          "Humayun"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": ""
+    },
+    {
+      "id": "history_B10_8",
+      "que": "The Hundred Years' War was fought between which two countries?",
+      "ans": {
+        "value": "England and France",
+        "correct_entity": "option_b"
+      },
+      "options": [
+        "Spain and Portugal",
+        "England and France",
+        "Germany and France"
+      ],
+      "expl": [
+        "The Hundred Years' War was a series of armed conflicts fought between England and France from 1337 to 1453. Despite the name, it lasted 116 years. Key figures include Edward III of England, Henry V, and French heroine Joan of Arc."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "Spain and Portugal",
+          "spain portugal"
+        ],
+        "option_b": [
+          "England and France",
+          "england france",
+          "britain france"
+        ],
+        "option_c": [
+          "Germany and France",
+          "germany france"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": ""
+    },
+    {
+      "id": "history_B10_9",
+      "que": "Who was the first person to circumnavigate the globe?",
+      "ans": {
+        "value": "Ferdinand Magellan",
+        "correct_entity": "option_c"
+      },
+      "options": [
+        "Christopher Columbus",
+        "Vasco da Gama",
+        "Ferdinand Magellan"
+      ],
+      "expl": [
+        "Ferdinand Magellan led the first expedition to circumnavigate the Earth from 1519 to 1522, though he died in the Philippines in 1521. His voyage proved the world was round and vastly larger than previously believed. Only 18 of the original 270 crew members completed the journey."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "Christopher Columbus",
+          "columbus"
+        ],
+        "option_b": [
+          "Vasco da Gama",
+          "da gama"
+        ],
+        "option_c": [
+          "Ferdinand Magellan",
+          "magellan"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": ""
+    },
+    {
+      "id": "history_B10_10",
+      "que": "The Great Wall of China was primarily built to defend against invasions from which direction?",
+      "ans": {
+        "value": "North",
+        "correct_entity": "option_c"
+      },
+      "options": [
+        "South",
+        "East",
+        "North"
+      ],
+      "expl": [
+        "The Great Wall of China was built primarily to defend against invasions from northern nomadic peoples, including the Xiongnu, Mongols, and other steppe tribes. Construction began as early as the 7th century BC and continued through multiple dynasties."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "South",
+          "southern"
+        ],
+        "option_b": [
+          "East",
+          "eastern"
+        ],
+        "option_c": [
+          "North",
+          "northern"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": ""
+    },
+    {
+      "id": "history_B10_11",
+      "que": "Which US President was known as 'Honest Abe'?",
+      "ans": {
+        "value": "Abraham Lincoln",
+        "correct_entity": "option_c"
+      },
+      "options": [
+        "Ulysses S. Grant",
+        "Andrew Jackson",
+        "Abraham Lincoln"
+      ],
+      "expl": [
+        "Abraham Lincoln, the 16th President of the United States, was nicknamed 'Honest Abe' for his reputation for integrity. He served from 1861 until his assassination in 1865 and is best known for leading the country through the Civil War and abolishing slavery."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "Ulysses S. Grant",
+          "grant",
+          "ulysses grant"
+        ],
+        "option_b": [
+          "Andrew Jackson",
+          "jackson"
+        ],
+        "option_c": [
+          "Abraham Lincoln",
+          "lincoln",
+          "abe lincoln",
+          "honest abe"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": ""
+    },
+    {
+      "id": "history_B10_12",
+      "que": "The Trojan War, according to Greek legend, was sparked by the abduction of which woman?",
+      "ans": {
+        "value": "Helen of Troy",
+        "correct_entity": "option_c"
+      },
+      "options": [
+        "Penelope",
+        "Cassandra",
+        "Helen of Troy"
+      ],
+      "expl": [
+        "According to Greek legend, the Trojan War began when Paris of Troy abducted or eloped with Helen, wife of the Spartan king Menelaus. This led the Greeks to launch a thousand ships to Troy and the decade-long war immortalized in Homer's Iliad."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "Penelope"
+        ],
+        "option_b": [
+          "Cassandra"
+        ],
+        "option_c": [
+          "Helen of Troy",
+          "helen",
+          "helen of sparta"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": ""
+    },
+    {
+      "id": "history_B10_13",
+      "que": "Who was the first Chancellor of unified Germany in 1871?",
+      "ans": {
+        "value": "Otto von Bismarck",
+        "correct_entity": "option_b"
+      },
+      "options": [
+        "Kaiser Wilhelm I",
+        "Otto von Bismarck",
+        "Helmut Kohl"
+      ],
+      "expl": [
+        "Otto von Bismarck became the first Chancellor of the unified German Empire in 1871. Known as the 'Iron Chancellor,' he orchestrated the unification of Germany through a series of wars and shrewd diplomacy. He served as Chancellor until 1890."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "Kaiser Wilhelm I",
+          "kaiser wilhelm",
+          "wilhelm"
+        ],
+        "option_b": [
+          "Otto von Bismarck",
+          "bismarck",
+          "otto bismarck",
+          "von bismarck"
+        ],
+        "option_c": [
+          "Helmut Kohl",
+          "kohl"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": ""
+    },
+    {
+      "id": "history_B10_14",
+      "que": "Who delivered the famous 'I Have a Dream' speech in Washington, D.C., in 1963?",
+      "ans": {
+        "value": "Martin Luther King Jr.",
+        "correct_entity": "option_a"
+      },
+      "options": [
+        "Martin Luther King Jr.",
+        "Frederick Douglass",
+        "Malcolm X"
+      ],
+      "expl": [
+        "Dr. Martin Luther King Jr. delivered the famous 'I Have a Dream' speech on August 28, 1963, from the steps of the Lincoln Memorial in Washington, D.C. He spoke to over 250,000 civil rights supporters during the March on Washington for Jobs and Freedom."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "Martin Luther King Jr.",
+          "martin luther king",
+          "mlk",
+          "dr king",
+          "martin luther king junior"
+        ],
+        "option_b": [
+          "Frederick Douglass",
+          "douglass"
+        ],
+        "option_c": [
+          "Malcolm X",
+          "malcolm"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": ""
+    },
+    {
+      "id": "history_B10_15",
+      "que": "Which American hero is famous for her 1955 bus protest in Montgomery, Alabama?",
+      "ans": {
+        "value": "Rosa Parks",
+        "correct_entity": "option_a"
+      },
+      "options": [
+        "Rosa Parks",
+        "Harriet Tubman",
+        "Sojourner Truth"
+      ],
+      "expl": [
+        "Rosa Parks refused to give up her seat to a white passenger on a Montgomery bus on December 1, 1955. Her quiet act of courage sparked the year-long Montgomery Bus Boycott and became a defining moment of the American Civil Rights Movement."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "Rosa Parks",
+          "parks"
+        ],
+        "option_b": [
+          "Harriet Tubman",
+          "tubman"
+        ],
+        "option_c": [
+          "Sojourner Truth",
+          "truth"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": ""
+    },
+    {
+      "id": "history_B10_16",
+      "que": "Which U.S. astronaut was the first person to walk on the Moon?",
+      "ans": {
+        "value": "Neil Armstrong",
+        "correct_entity": "option_a"
+      },
+      "options": [
+        "Neil Armstrong",
+        "Buzz Aldrin",
+        "John Glenn"
+      ],
+      "expl": [
+        "Neil Armstrong became the first person to walk on the Moon on July 20, 1969, during NASA's Apollo 11 mission. As he stepped onto the lunar surface he famously said, 'That's one small step for man, one giant leap for mankind.' Buzz Aldrin joined him about 20 minutes later."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "Neil Armstrong",
+          "armstrong"
+        ],
+        "option_b": [
+          "Buzz Aldrin",
+          "aldrin"
+        ],
+        "option_c": [
+          "John Glenn",
+          "glenn"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": ""
+    },
+    {
+      "id": "history_B10_17",
+      "que": "How many original colonies formed the United States?",
+      "ans": {
+        "value": "Thirteen",
+        "correct_entity": "option_b"
+      },
+      "options": [
+        "Eleven",
+        "Thirteen",
+        "Fifteen"
+      ],
+      "expl": [
+        "Thirteen British colonies along the east coast formed the original United States. The first stripes on the American flag stand for these thirteen colonies, which included Massachusetts, Virginia, New York, Pennsylvania, and Georgia among others."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "Eleven",
+          "11"
+        ],
+        "option_b": [
+          "Thirteen",
+          "13"
+        ],
+        "option_c": [
+          "Fifteen",
+          "15"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": ""
+    },
+    {
+      "id": "history_B10_18",
+      "que": "Which American inventor flew a kite in a thunderstorm to study electricity?",
+      "ans": {
+        "value": "Benjamin Franklin",
+        "correct_entity": "option_b"
+      },
+      "options": [
+        "Thomas Edison",
+        "Benjamin Franklin",
+        "George Washington Carver"
+      ],
+      "expl": [
+        "Benjamin Franklin is famous for flying a kite during a thunderstorm in 1752 to study electricity. He proved lightning was a form of electrical energy and went on to invent the lightning rod. He was also a Founding Father and one of America's most beloved figures."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "Thomas Edison",
+          "edison"
+        ],
+        "option_b": [
+          "Benjamin Franklin",
+          "ben franklin",
+          "franklin"
+        ],
+        "option_c": [
+          "George Washington Carver",
+          "carver"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": ""
+    }
+  ],
+  "IMAGE_QUESTIONS": [],
+  "AUDIO_QUESTIONS": []
+}

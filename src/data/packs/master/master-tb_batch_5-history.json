@@ -1,0 +1,1050 @@
+{
+  "TEXT_QUESTIONS": [
+    {
+      "id": "Trivia_Battle_B5_5",
+      "que": "What candy bar was originally called Raider in Europe?",
+      "ans": {
+        "value": "Twix",
+        "correct_entity": "option_c"
+      },
+      "options": [
+        "Snickers",
+        "100 Grand",
+        "Twix"
+      ],
+      "expl": [
+        "The candy bar originally called Raider in Europe is now known as Twix. It was first introduced in the United Kingdom in 1967 and was later renamed in the 1990s."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "Snickers",
+          "snicker",
+          "sneaker",
+          "sneakers"
+        ],
+        "option_b": [
+          "100 Grand",
+          "hundred grand",
+          "one zero zero grand",
+          "one hundred grand",
+          "grand",
+          "grands"
+        ],
+        "option_c": [
+          "Twix",
+          "twiz"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": ""
+    },
+    {
+      "id": "Trivia_Battle_B5_32",
+      "que": "Which Native American tribe was involved in the first Thanksgiving?",
+      "ans": {
+        "value": "Wampanoag",
+        "correct_entity": "option_c"
+      },
+      "options": [
+        "Sioux",
+        "Cherokee",
+        "Wampanoag"
+      ],
+      "expl": [
+        "Thanksgiving began with a 1621 harvest feast shared by the Wampanoag and English settlers. The alliance soon ended, leading to Native suffering. Many now mark the day as mourning, not celebration."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "Sioux",
+          "siour",
+          "siyar",
+          "see you",
+          "sea",
+          "sea ox",
+          "seeox",
+          "seahawks"
+        ],
+        "option_b": [
+          "Cherokee",
+          "karaoke",
+          "cheery",
+          "cherry",
+          "cherry kee"
+        ],
+        "option_c": [
+          "Wampanoag",
+          "wampanog",
+          "wampnog"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": ""
+    },
+    {
+      "id": "Trivia_Battle_B5_36",
+      "que": "In 1994, the clothing retailer Gap Warehouse was given which new name?",
+      "ans": {
+        "value": "Old Navy",
+        "correct_entity": "option_b"
+      },
+      "options": [
+        "J. Crew",
+        "Old Navy",
+        "T. J. Maxx"
+      ],
+      "expl": [
+        "Gap launched Gap Warehouse in 1993 but rebranded it as Old Navy after a Paris bar, chosen by CEO Millard Drexler. The first store opened in 1994, and sales hit $1 billion in less than four years."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "J. Crew",
+          "crew",
+          "j",
+          "jay",
+          "jai",
+          "crow",
+          "j. crow"
+        ],
+        "option_b": [
+          "Old Navy",
+          "old",
+          "navy"
+        ],
+        "option_c": [
+          "T. J. Maxx",
+          "T. J. Max",
+          "max",
+          "t. j."
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": ""
+    },
+    {
+      "id": "Trivia_Battle_B5_42",
+      "que": "Which president's daughter has a shade of blue named after her?",
+      "ans": {
+        "value": "Theodore Roosevelt",
+        "correct_entity": "option_c"
+      },
+      "options": [
+        "Barack Obama",
+        "John F. Kennedy",
+        "Theodore Roosevelt"
+      ],
+      "expl": [
+        "Alice Roosevelt, daughter of Theodore Roosevelt, inspired the fashion color Alice Blue—matching her eye color. The shade remains in U.S. Navy use and even inspired a Broadway song."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "Barack Obama",
+          "barack",
+          "obama"
+        ],
+        "option_b": [
+          "John F. Kennedy",
+          "john",
+          "f. kennedy",
+          "kennedy",
+          "john kennedy"
+        ],
+        "option_c": [
+          "Theodore Roosevelt",
+          "theodore",
+          "roosevelt",
+          "rose",
+          "rosevelt",
+          "theodor",
+          "theatre"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": ""
+    },
+    {
+      "id": "Trivia_Battle_B5_44",
+      "que": "Alexander the Great, Napoleon, Mussolini, and Hitler all suffered from which phobia?",
+      "ans": {
+        "value": "Ailurophobia",
+        "correct_entity": "option_a"
+      },
+      "options": [
+        "Ailurophobia",
+        "Claustrophobia",
+        "Arachnophobia"
+      ],
+      "expl": [
+        "Ailurophobia, the fear of cats, affected figures like Hitler, Napoleon, and Caesar. From Greek for “cat” and “fear,” it’s thought to stem from childhood experiences as an unconscious defense."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "Ailurophobia",
+          "ailuro",
+          "auluphobia",
+          "ailuphobia",
+          "allerophobia"
+        ],
+        "option_b": [
+          "Claustrophobia",
+          "claus",
+          "claustro",
+          "claustrophobic"
+        ],
+        "option_c": [
+          "Arachnophobia",
+          "arachno",
+          "archono"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": ""
+    },
+    {
+      "id": "Trivia_Battle_B5_64",
+      "que": "Which U.S. city banned Christmas in 1659?",
+      "ans": {
+        "value": "Boston",
+        "correct_entity": "option_c"
+      },
+      "options": [
+        "Denver",
+        "Buffalo",
+        "Boston"
+      ],
+      "expl": [
+        "From 1659–1681, Boston’s Puritans banned Christmas, seeing no biblical reason to celebrate. The ban ended as strict religious control faded and holiday traditions returned."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "Denver"
+        ],
+        "option_b": [
+          "Buffalo",
+          "buffaloes"
+        ],
+        "option_c": [
+          "Boston"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": ""
+    },
+    {
+      "id": "Trivia_Battle_B5_69",
+      "que": "Who became the first Black woman to appear on a U.S. quarter?",
+      "ans": {
+        "value": "Maya Angelou",
+        "correct_entity": "option_b"
+      },
+      "options": [
+        "Rosa Parks",
+        "Maya Angelou",
+        "Harriet Tubman"
+      ],
+      "expl": [
+        "Maya Angelou became the first Black woman on a U.S. quarter through the American Women Quarters program (2022–2025). The coin shows her with open arms, a rising sun, and a soaring bird."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "Rosa Parks",
+          "rosa park",
+          "rosa",
+          "parks",
+          "park",
+          "parking"
+        ],
+        "option_b": [
+          "Maya Angelou",
+          "angelo",
+          "maya",
+          "angelou",
+          "anjali",
+          "angel"
+        ],
+        "option_c": [
+          "Harriet Tubman",
+          "harriet",
+          "tubman",
+          "tub",
+          "man",
+          "harrier",
+          "harr",
+          "hariet"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": ""
+    },
+    {
+      "id": "Trivia_Battle_B5_71",
+      "que": "The original Carlo's Bakery, of Cake Boss fame, is located in which city?",
+      "ans": {
+        "value": "Hoboken",
+        "correct_entity": "option_c"
+      },
+      "options": [
+        "Newark",
+        "Albany",
+        "Hoboken"
+      ],
+      "expl": [
+        "Buddy Valastro’s Carlo’s Bakery in Hoboken rose to fame through TLC’s Cake Boss, known for creative cakes and tourism buzz. It’s now a beloved brand with 12 additional locations."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "Newark",
+          "neymar",
+          "new york",
+          "new work",
+          "new world",
+          "newmar",
+          "keymar"
+        ],
+        "option_b": [
+          "Albany",
+          "albani",
+          "all",
+          "albane",
+          "albanie",
+          "alban",
+          "albin"
+        ],
+        "option_c": [
+          "Hoboken",
+          "hobroken",
+          "bobo ken",
+          "bobo cake"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": ""
+    },
+    {
+      "id": "Trivia_Battle_B5_85",
+      "que": "What was the original color of the first U.S. passports when they were issued in 1926?",
+      "ans": {
+        "value": "Red",
+        "correct_entity": "option_a"
+      },
+      "options": [
+        "Red",
+        "Brown",
+        "White"
+      ],
+      "expl": [
+        "Passports come in red, blue, green, and black. The U.S. has used all four—red in 1926, switching to blue in 1976. Blue is now the most common passport color worldwide, used by 83 nations."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "Red"
+        ],
+        "option_b": [
+          "Brown"
+        ],
+        "option_c": [
+          "White"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": ""
+    },
+    {
+      "id": "Trivia_Battle_B5_95",
+      "que": "Who invented sliced bread?",
+      "ans": {
+        "value": "jeweler",
+        "correct_entity": "option_a"
+      },
+      "options": [
+        "jeweler",
+        "baker",
+        "dentist"
+      ],
+      "expl": [
+        "In 1927, Otto Frederick Rohwedder sold his jewelry stores to build the first automatic bread-slicing and wrapping machine. Its success revolutionized baking, giving rise to “the best thing since sliced bread.”"
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "jeweler",
+          "jewler",
+          "jewellery"
+        ],
+        "option_b": [
+          "baker",
+          "bakers",
+          "bekaar"
+        ],
+        "option_c": [
+          "dentist",
+          "dentists"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": ""
+    },
+    {
+      "id": "Trivia_Battle_B5_98",
+      "que": "Which of these bottled water brands is produced by the makers of Coca-Cola?",
+      "ans": {
+        "value": "Dasani",
+        "correct_entity": "option_c"
+      },
+      "options": [
+        "Aquafina",
+        "Fiji Water",
+        "Dasani"
+      ],
+      "expl": [
+        "Dasani, a bottled water brand by Coca-Cola, launched in 1999, is popular in the U.S. and globally. Coca-Cola uses local tap water, which is filtered and enriched with minerals to offer a refreshing taste."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "Aquafina",
+          "aqua",
+          "fina",
+          "fine"
+        ],
+        "option_b": [
+          "Fiji Water",
+          "feasy",
+          "fizzy",
+          "fizz water",
+          "water",
+          "fizzy water"
+        ],
+        "option_c": [
+          "Dasani",
+          "dasan",
+          "dasany"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": ""
+    },
+    {
+      "id": "Trivia_Battle_B5_101",
+      "que": "What was the name of the first computer search engine?",
+      "ans": {
+        "value": "Archie",
+        "correct_entity": "option_b"
+      },
+      "options": [
+        "AltaVista",
+        "Archie",
+        "Infoseek"
+      ],
+      "expl": [
+        "Archie, the first internet search engine, was created in 1990 by Alan Emtage at McGill University. Later engines like Jughead and Veronica emerged but were eventually replaced by Yahoo! and Google."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "AltaVista",
+          "alta",
+          "vista",
+          "alta vista",
+          "ultra vista"
+        ],
+        "option_b": [
+          "Archie",
+          "archi"
+        ],
+        "option_c": [
+          "Infoseek",
+          "infosick",
+          "infosys"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": ""
+    },
+    {
+      "id": "Trivia_Battle_B5_117",
+      "que": "Where was the first example of paper money used?",
+      "ans": {
+        "value": "China",
+        "correct_entity": "option_a"
+      },
+      "options": [
+        "China",
+        "Turkey",
+        "Greece"
+      ],
+      "expl": [
+        "China’s Tang Dynasty introduced the first banknote-like instruments—promissory notes used to avoid carrying heavy copper coins. These merchant-issued notes could be redeemed for goods or services."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "China"
+        ],
+        "option_b": [
+          "Turkey",
+          "turkish"
+        ],
+        "option_c": [
+          "Greece"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": ""
+    },
+    {
+      "id": "Trivia_Battle_B5_132",
+      "que": "Which country was the first to send a human being into space?",
+      "ans": {
+        "value": "Russia",
+        "correct_entity": "option_b"
+      },
+      "options": [
+        "United States",
+        "Russia",
+        "China"
+      ],
+      "expl": [
+        "On April 12, 1961, Yuri Gagarin from the Soviet Union became the first human in space, orbiting Earth aboard the spacecraft Vostok 1 and marking a major space milestone."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "United States",
+          "united",
+          "states",
+          "u. s.",
+          "u. s. a."
+        ],
+        "option_b": [
+          "Russia"
+        ],
+        "option_c": [
+          "China"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": ""
+    },
+    {
+      "id": "Trivia_Battle_B5_133",
+      "que": "Which ancient civilization built the Great Pyramid of Giza?",
+      "ans": {
+        "value": "The Egyptians",
+        "correct_entity": "option_c"
+      },
+      "options": [
+        "The Greeks",
+        "The Romans",
+        "The Egyptians"
+      ],
+      "expl": [
+        "The Great Pyramid of Giza, built for Pharaoh Khufu in the 26th century BCE, stands as a marvel of ancient Egyptian engineering and remains one of the world’s most iconic monuments."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "The Greeks",
+          "the greek",
+          "greeks",
+          "greek",
+          "greks"
+        ],
+        "option_b": [
+          "The Romans",
+          "the roman",
+          "roman"
+        ],
+        "option_c": [
+          "The Egyptians",
+          "the engyptian",
+          "egypt"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": ""
+    },
+    {
+      "id": "Trivia_Battle_B5_134",
+      "que": "Who was the first emperor of Rome?",
+      "ans": {
+        "value": "Augustus",
+        "correct_entity": "option_c"
+      },
+      "options": [
+        "Julius Caesar",
+        "Nero",
+        "Augustus"
+      ],
+      "expl": [
+        "The first emperor of Rome was Caesar Augustus, born Gaius Octavius, who rose to power after defeating Mark Antony and Cleopatra in a civil war and was granted the title of Augustus in 27 BCE."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "Julius Caesar",
+          "cezer",
+          "julius cezer",
+          "caezar"
+        ],
+        "option_b": [
+          "Nero",
+          "niro",
+          "narrow",
+          "new row",
+          "zero"
+        ],
+        "option_c": [
+          "Augustus",
+          "august",
+          "augustas"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": ""
+    },
+    {
+      "id": "Trivia_Battle_B5_137",
+      "que": "Which country gifted the United States the Statue of Liberty?",
+      "ans": {
+        "value": "France",
+        "correct_entity": "option_c"
+      },
+      "options": [
+        "Spain",
+        "Germany",
+        "France"
+      ],
+      "expl": [
+        "France gifted the United States the Statue of Liberty, a symbol of freedom and democracy, in 1886. The statue was designed by French sculptor Frédéric Auguste Bartholdi."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "Spain",
+          "spin"
+        ],
+        "option_b": [
+          "Germany"
+        ],
+        "option_c": [
+          "France"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": ""
+    },
+    {
+      "id": "Trivia_Battle_B5_140",
+      "que": "Who wrote the Declaration of Independence?",
+      "ans": {
+        "value": "Thomas Jefferson",
+        "correct_entity": "option_c"
+      },
+      "options": [
+        "John Adams",
+        "Benjamin Franklin",
+        "Thomas Jefferson"
+      ],
+      "expl": [
+        "Thomas Jefferson, the third U.S. President, wrote the Declaration of Independence in 1776. It declared freedom from Britain and inspired global movements for liberty and democracy."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "John Adams",
+          "john",
+          "adams",
+          "adam",
+          "john adam"
+        ],
+        "option_b": [
+          "Benjamin Franklin",
+          "benjamin",
+          "franklin"
+        ],
+        "option_c": [
+          "Thomas Jefferson",
+          "thomas",
+          "jefferson"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": ""
+    },
+    {
+      "id": "Trivia_Battle_B5_141",
+      "que": "Which President issued the Emancipation Proclamation?",
+      "ans": {
+        "value": "Abraham Lincoln",
+        "correct_entity": "option_b"
+      },
+      "options": [
+        "Andrew Jackson",
+        "Abraham Lincoln",
+        "George Washington"
+      ],
+      "expl": [
+        "Abraham Lincoln, the 16th U.S. President, issued the Emancipation Proclamation in 1863. It freed enslaved people in Confederate areas and aimed to promote equality and justice."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "Andrew Jackson",
+          "andrew",
+          "jackson",
+          "andrea jackson",
+          "andrea"
+        ],
+        "option_b": [
+          "Abraham Lincoln",
+          "abraham",
+          "lincoln",
+          "lincon"
+        ],
+        "option_c": [
+          "George Washington",
+          "george",
+          "washington"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": ""
+    },
+    {
+      "id": "Trivia_Battle_B5_142",
+      "que": "Who invented the cotton gin?",
+      "ans": {
+        "value": "Eli Whitney",
+        "correct_entity": "option_c"
+      },
+      "options": [
+        "Thomas Edison",
+        "Alexander Bell",
+        "Eli Whitney"
+      ],
+      "expl": [
+        "Eli Whitney, an American inventor, patented the cotton gin in 1794. It revolutionized cotton production by quickly separating fibers from seeds and boosted the Southern economy."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "Thomas Edison",
+          "thomas",
+          "edison"
+        ],
+        "option_b": [
+          "Alexander Bell",
+          "alexander",
+          "bell",
+          "bel"
+        ],
+        "option_c": [
+          "Eli Whitney",
+          "eli",
+          "whitney",
+          "lie with me"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": ""
+    },
+    {
+      "id": "Trivia_Battle_B5_143",
+      "que": "Who authorized the Louisiana Purchase?",
+      "ans": {
+        "value": "Thomas Jefferson",
+        "correct_entity": "option_c"
+      },
+      "options": [
+        "James Monroe",
+        "James Madison",
+        "Thomas Jefferson"
+      ],
+      "expl": [
+        "Thomas Jefferson authorized the 1803 Louisiana Purchase, doubling U.S. territory. This major land deal with France spurred westward expansion and exploration across America."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "James Monroe",
+          "james",
+          "monroe",
+          "james monrow",
+          "monro"
+        ],
+        "option_b": [
+          "James Madison",
+          "james",
+          "madison",
+          "madyson"
+        ],
+        "option_c": [
+          "Thomas Jefferson",
+          "thomas",
+          "jefferson"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": ""
+    },
+    {
+      "id": "Trivia_Battle_B5_144",
+      "que": "Who was the first woman to serve as the Prime Minister of the United Kingdom?",
+      "ans": {
+        "value": "Margaret Thatcher",
+        "correct_entity": "option_a"
+      },
+      "options": [
+        "Margaret Thatcher",
+        "Theresa May",
+        "Angela Merkel"
+      ],
+      "expl": [
+        "Margaret Thatcher became Britain’s first female Prime Minister, serving from 1979 to 1990. Nicknamed the “Iron Lady,” she reshaped politics with her strong conservative policies."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "Margaret Thatcher",
+          "margaret",
+          "thatcher",
+          "margaret that"
+        ],
+        "option_b": [
+          "Theresa May",
+          "theresa",
+          "may",
+          "teresa",
+          "teresa may",
+          "teresa me",
+          "teresa men"
+        ],
+        "option_c": [
+          "Angela Merkel",
+          "angela",
+          "merkel",
+          "markel",
+          "angel"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": ""
+    },
+    {
+      "id": "Trivia_Battle_B5_145",
+      "que": "Which U.S. president signed the Civil Rights Act of 1964 into law?",
+      "ans": {
+        "value": "Lyndon B. Johnson",
+        "correct_entity": "option_b"
+      },
+      "options": [
+        "John F. Kennedy",
+        "Lyndon B. Johnson",
+        "Richard Nixon"
+      ],
+      "expl": [
+        "In 1964, President Lyndon B. Johnson signed the Civil Rights Act, banning segregation and racial bias in public spaces, jobs, and schools — a landmark in equal rights progress."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "John F. Kennedy",
+          "john",
+          "f. kennedy",
+          "kennedy",
+          "john kennedy"
+        ],
+        "option_b": [
+          "Lyndon B. Johnson",
+          "lyndon",
+          "johnson",
+          "london johnson",
+          "london",
+          "lyndon johnson"
+        ],
+        "option_c": [
+          "Richard Nixon",
+          "richard",
+          "nixon",
+          "nicson"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": ""
+    },
+    {
+      "id": "Trivia_Battle_B5_146",
+      "que": "Which country was the first to launch a human-made satellite into space?",
+      "ans": {
+        "value": "Soviet Union",
+        "correct_entity": "option_b"
+      },
+      "options": [
+        "United States",
+        "Soviet Union",
+        "China"
+      ],
+      "expl": [
+        "The Soviet Union launched Sputnik 1 on October 4, 1957, becoming the first to send a man-made satellite into orbit. It began the Space Age and heightened the U.S.-Soviet rivalry."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "United States",
+          "united",
+          "states",
+          "u. s.",
+          "u. s. a."
+        ],
+        "option_b": [
+          "Soviet Union",
+          "soviet",
+          "union"
+        ],
+        "option_c": [
+          "China"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": ""
+    },
+    {
+      "id": "Trivia_Battle_B5_147",
+      "que": "Who is considered the father of modern physics?",
+      "ans": {
+        "value": "Albert Einstein",
+        "correct_entity": "option_c"
+      },
+      "options": [
+        "Isaac Newton",
+        "Galileo Galilei",
+        "Albert Einstein"
+      ],
+      "expl": [
+        "Albert Einstein, the German physicist, transformed science with his theory of relativity. His groundbreaking work reshaped our understanding of space, time, and modern physics."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "Isaac Newton",
+          "isaac",
+          "newton"
+        ],
+        "option_b": [
+          "Galileo Galilei",
+          "galileo",
+          "galilei"
+        ],
+        "option_c": [
+          "Albert Einstein",
+          "albert",
+          "einstein"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": ""
+    },
+    {
+      "id": "Trivia_Battle_B5_231",
+      "que": "Which Italian city was explorer Marco Polo from?",
+      "ans": {
+        "value": "Venice",
+        "correct_entity": "option_c"
+      },
+      "options": [
+        "Rome",
+        "Florence",
+        "Venice"
+      ],
+      "expl": [
+        "Marco Polo, the Venetian explorer, traveled the Silk Road to China. His book detailed Asia’s lands and cultures, inspiring exploration."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "Rome",
+          "roam"
+        ],
+        "option_b": [
+          "Florence"
+        ],
+        "option_c": [
+          "Venice",
+          "when is",
+          "vein is"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": ""
+    },
+    {
+      "id": "Trivia_Battle_B5_232",
+      "que": "In which European country is the International Court of Justice located?",
+      "ans": {
+        "value": "Netherlands",
+        "correct_entity": "option_a"
+      },
+      "options": [
+        "Netherlands",
+        "Switzerland",
+        "France"
+      ],
+      "expl": [
+        "The International Court of Justice, the UN’s main judicial body, is located in The Hague, Netherlands. It settles legal disputes between nations, reflecting the country’s dedication to global law and diplomacy."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "Netherlands",
+          "netherland"
+        ],
+        "option_b": [
+          "Switzerland"
+        ],
+        "option_c": [
+          "France"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": ""
+    }
+  ],
+  "IMAGE_QUESTIONS": [],
+  "AUDIO_QUESTIONS": []
+}

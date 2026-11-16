@@ -1,0 +1,803 @@
+{
+  "TEXT_QUESTIONS": [
+    {
+      "id": "animal_B9_1",
+      "que": "Which bird is the national symbol of the United States?",
+      "ans": {
+        "value": "Bald Eagle",
+        "correct_entity": "option_a"
+      },
+      "options": [
+        "Bald Eagle",
+        "Wild Turkey",
+        "Mockingbird"
+      ],
+      "expl": [
+        "The bald eagle has been the national symbol of the United States since 1782. It appears on the Great Seal of the United States and on many official documents. Despite its name, the bald eagle is not actually bald; the word 'bald' comes from an older word meaning white-headed."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "Bald Eagle",
+          "american bald eagle",
+          "eagle",
+          "bald egle"
+        ],
+        "option_b": [
+          "Wild Turkey",
+          "turkey",
+          "wild turky"
+        ],
+        "option_c": [
+          "Mockingbird",
+          "mocking bird"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": ""
+    },
+    {
+      "id": "animal_B9_2",
+      "que": "Which farm animal is famous for saying 'oink'?",
+      "ans": {
+        "value": "Pig",
+        "correct_entity": "option_b"
+      },
+      "options": [
+        "Cow",
+        "Pig",
+        "Sheep"
+      ],
+      "expl": [
+        "Pigs are the farm animals famous for the sound 'oink' in American English. They are smart animals and can be trained like dogs. Baby pigs are called piglets, and a group of pigs is called a herd or a drove."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "Cow",
+          "cows",
+          "gau"
+        ],
+        "option_b": [
+          "Pig",
+          "piggy",
+          "pigs"
+        ],
+        "option_c": [
+          "Sheep",
+          "sheeps",
+          "lamb",
+          "ship",
+          "ships"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": ""
+    },
+    {
+      "id": "animal_B9_3",
+      "que": "Which animal lives in a pond and says 'ribbit'?",
+      "ans": {
+        "value": "Frog",
+        "correct_entity": "option_a"
+      },
+      "options": [
+        "Frog",
+        "Turtle",
+        "Duck"
+      ],
+      "expl": [
+        "Frogs live in and near ponds, and many species are known for the 'ribbit' sound, especially Pacific tree frogs. Frogs start their lives as tadpoles in the water and grow legs as they become adults, a process called metamorphosis."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "Frog",
+          "frogs",
+          "froggy"
+        ],
+        "option_b": [
+          "Turtle",
+          "turtles",
+          "tortoise"
+        ],
+        "option_c": [
+          "Duck",
+          "ducks",
+          "ducky"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": ""
+    },
+    {
+      "id": "animal_B9_4",
+      "que": "Which animal is known as the 'king of the jungle'?",
+      "ans": {
+        "value": "Lion",
+        "correct_entity": "option_c"
+      },
+      "options": [
+        "Tiger",
+        "Elephant",
+        "Lion"
+      ],
+      "expl": [
+        "The lion is often called the 'king of the jungle' because of its strength, large size, and loud roar. Male lions are known for their thick golden manes. Lions actually live mostly in the grasslands and savannas of Africa, not in jungles, and they live together in groups called prides."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "Tiger",
+          "tigers",
+          "royal bengal tiger"
+        ],
+        "option_b": [
+          "Elephant",
+          "elephants",
+          "elefant"
+        ],
+        "option_c": [
+          "Lion",
+          "lions",
+          "king of jungle"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": ""
+    },
+    {
+      "id": "animal_B9_5",
+      "que": "Which insect is famous for making honey?",
+      "ans": {
+        "value": "Bee",
+        "correct_entity": "option_b"
+      },
+      "options": [
+        "Ant",
+        "Bee",
+        "Butterfly"
+      ],
+      "expl": [
+        "Honey bees are famous for making honey by collecting nectar from flowers and storing it in their hives. Bees live in colonies led by a queen, and worker bees do most of the gathering. Honey bees are also important pollinators that help fruits, vegetables, and flowers grow."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "Ant",
+          "ants",
+          "anty"
+        ],
+        "option_b": [
+          "Bee",
+          "bees",
+          "honey bee",
+          "honeybee",
+          "bumblebee"
+        ],
+        "option_c": [
+          "Butterfly",
+          "butterflies",
+          "butter fly"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": ""
+    },
+    {
+      "id": "animal_B9_6",
+      "que": "What is the gestation period of an elephant?",
+      "ans": {
+        "value": "22 months",
+        "correct_entity": "option_c"
+      },
+      "options": [
+        "12 months",
+        "18 months",
+        "22 months"
+      ],
+      "expl": [
+        "Elephants have the longest gestation period of any land animal — approximately 22 months (nearly two years). African elephants typically have slightly longer pregnancies than Asian elephants. Elephant calves are born well-developed and can walk within a few hours of birth."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "12 months",
+          "twelve months",
+          "one year",
+          "twelve month",
+          "1 year"
+        ],
+        "option_b": [
+          "18 months",
+          "eighteen months",
+          "eighteen month"
+        ],
+        "option_c": [
+          "22 months",
+          "twenty two months",
+          "twenty two month"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": ""
+    },
+    {
+      "id": "animal_B9_7",
+      "que": "Which bird is known for having the longest migration?",
+      "ans": {
+        "value": "Arctic tern",
+        "correct_entity": "option_b"
+      },
+      "options": [
+        "Canada goose",
+        "Arctic tern",
+        "Bar-tailed godwit"
+      ],
+      "expl": [
+        "The Arctic tern has the longest migration of any animal, traveling about 70,000 to 90,000 kilometres each year. It breeds in the Arctic and sub-Arctic regions in summer, then migrates to the Antarctic region for the Southern Hemisphere summer, essentially following summer from pole to pole."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "Canada goose",
+          "canadian goose",
+          "goose",
+          "canada goos"
+        ],
+        "option_b": [
+          "Arctic tern",
+          "tern",
+          "arctic bird"
+        ],
+        "option_c": [
+          "Bar-tailed godwit",
+          "bar tailed godwit",
+          "godwit",
+          "bartailed godwit"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": ""
+    },
+    {
+      "id": "animal_B9_8",
+      "que": "What do you call a young kangaroo?",
+      "ans": {
+        "value": "Joey",
+        "correct_entity": "option_c"
+      },
+      "options": [
+        "Cub",
+        "Pup",
+        "Joey"
+      ],
+      "expl": [
+        "A young kangaroo is called a joey. Baby kangaroos are born very small (about the size of a jellybean) after a short gestation of about 33 days. They then crawl into their mother's pouch and continue developing for about 6 to 8 months, attaching to a nipple for nourishment."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "Cub",
+          "cubs",
+          "baby bear"
+        ],
+        "option_b": [
+          "Pup",
+          "pups",
+          "puppy"
+        ],
+        "option_c": [
+          "Joey",
+          "joeys",
+          "baby kangaroo"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": ""
+    },
+    {
+      "id": "animal_B9_9",
+      "que": "What is the name of the world's largest fish?",
+      "ans": {
+        "value": "Whale shark",
+        "correct_entity": "option_b"
+      },
+      "options": [
+        "Great white shark",
+        "Whale shark",
+        "Oarfish"
+      ],
+      "expl": [
+        "The whale shark is the world's largest fish, reaching lengths of up to 12 metres and weights of up to 21.5 tonnes. Despite its massive size, it is not a predator — it filter-feeds on plankton and small fish. Whale sharks are found in warm, tropical ocean waters around the world."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "Great white shark",
+          "great white",
+          "white shark",
+          "white shork"
+        ],
+        "option_b": [
+          "Whale shark",
+          "whales hark",
+          "whale fish"
+        ],
+        "option_c": [
+          "Oarfish",
+          "oar fish",
+          "giant oarfish"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": ""
+    },
+    {
+      "id": "animal_B9_10",
+      "que": "What is the term for a group of fish?",
+      "ans": {
+        "value": "Shoal or school",
+        "correct_entity": "option_b"
+      },
+      "options": [
+        "Pod",
+        "Shoal or school",
+        "Flock"
+      ],
+      "expl": [
+        "A group of fish is called a shoal or a school. Technically, a shoal refers to fish swimming loosely together, while a school is a more organized, coordinated group moving in the same direction. Both terms are widely used. Some specific fish have their own group names — a group of herring is called an army."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "Pod",
+          "a pod",
+          "whale pod"
+        ],
+        "option_b": [
+          "Shoal or school",
+          "shoal",
+          "school",
+          "school of fish",
+          "fish school"
+        ],
+        "option_c": [
+          "Flock",
+          "a flock",
+          "bird flock"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": ""
+    },
+    {
+      "id": "animal_B9_11",
+      "que": "What is the venom of a king cobra primarily made of?",
+      "ans": {
+        "value": "Neurotoxins",
+        "correct_entity": "option_c"
+      },
+      "options": [
+        "Hemotoxins",
+        "Cytotoxins",
+        "Neurotoxins"
+      ],
+      "expl": [
+        "King cobra venom primarily consists of neurotoxins, which attack the nervous system. A single bite can deliver enough venom to kill an elephant. The king cobra is the world's longest venomous snake, reaching lengths of up to 5.5 metres. Despite its fearsome reputation, it generally avoids confrontation with humans."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "Hemotoxins",
+          "hemotoxin",
+          "blood toxin",
+          "hemo toxin"
+        ],
+        "option_b": [
+          "Cytotoxins",
+          "cytotoxin",
+          "cell toxin",
+          "cyto toxin"
+        ],
+        "option_c": [
+          "Neurotoxins",
+          "neurotoxin",
+          "nerve toxin",
+          "neuro toxin"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": ""
+    },
+    {
+      "id": "animal_B9_12",
+      "que": "Which animal sleeps the most hours per day on average?",
+      "ans": {
+        "value": "Koala",
+        "correct_entity": "option_b"
+      },
+      "options": [
+        "Sloth",
+        "Koala",
+        "Cat"
+      ],
+      "expl": [
+        "Koalas sleep the most of any mammal, spending up to 22 hours per day sleeping. This is because their diet of eucalyptus leaves is low in nutrition and high in toxins, requiring enormous amounts of energy to digest. Sleep conserves energy and allows their digestive system to process the toxic leaves."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "Sloth",
+          "sloths",
+          "three toed sloth",
+          "slow animal"
+        ],
+        "option_b": [
+          "Koala",
+          "koalas",
+          "koala bear",
+          "koალა"
+        ],
+        "option_c": [
+          "Cat",
+          "cats",
+          "domestic cat",
+          "feline"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": ""
+    },
+    {
+      "id": "animal_B9_13",
+      "que": "What is the tallest living animal in the world?",
+      "ans": {
+        "value": "Giraffe",
+        "correct_entity": "option_b"
+      },
+      "options": [
+        "Elephant",
+        "Giraffe",
+        "Ostrich"
+      ],
+      "expl": [
+        "The giraffe is the tallest living animal in the world, with males reaching heights of up to 5.8 metres (19 feet). Their long necks account for up to 1.8 metres of their height. Despite having such long necks, giraffes have the same number of vertebrae as humans — just seven."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "Elephant",
+          "elephants",
+          "elefant"
+        ],
+        "option_b": [
+          "Giraffe",
+          "giraffes",
+          "jiraf"
+        ],
+        "option_c": [
+          "Ostrich",
+          "ostriches",
+          "ostric"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": ""
+    },
+    {
+      "id": "animal_B9_14",
+      "que": "What is a young horse called?",
+      "ans": {
+        "value": "Foal",
+        "correct_entity": "option_b"
+      },
+      "options": [
+        "Colt or filly",
+        "Foal",
+        "Pony"
+      ],
+      "expl": [
+        "A young horse is called a foal, regardless of gender. A male foal is called a colt and a female foal is called a filly. Foals are typically considered 'young' until they reach one year of age. After one year, a male becomes a yearling colt and a female a yearling filly."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "Colt or filly",
+          "colt",
+          "filly",
+          "baby horse"
+        ],
+        "option_b": [
+          "Foal",
+          "foals",
+          "young horse"
+        ],
+        "option_c": [
+          "Pony",
+          "ponies",
+          "small horse"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": ""
+    },
+    {
+      "id": "animal_B9_15",
+      "que": "How many arms does a starfish typically have?",
+      "ans": {
+        "value": "Five",
+        "correct_entity": "option_b"
+      },
+      "options": [
+        "Four",
+        "Five",
+        "Six"
+      ],
+      "expl": [
+        "A starfish (or sea star) typically has five arms, though some species can have 10, 20, or even 40 arms. Starfish can regenerate lost arms. They are not actually fish — they are echinoderms, more closely related to sea urchins and sea cucumbers. There are about 2,000 known species of starfish."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "Four",
+          "4",
+          "for"
+        ],
+        "option_b": [
+          "Five",
+          "5",
+          "fiv"
+        ],
+        "option_c": [
+          "Six",
+          "6",
+          "sिक्स"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": ""
+    },
+    {
+      "id": "animal_B9_16",
+      "que": "What is the largest bird in the world by weight?",
+      "ans": {
+        "value": "Ostrich",
+        "correct_entity": "option_b"
+      },
+      "options": [
+        "Emu",
+        "Ostrich",
+        "Albatross"
+      ],
+      "expl": [
+        "The ostrich is the largest bird in the world by both height and weight. Male ostriches can reach heights of up to 2.8 metres and weigh up to 160 kilograms. Ostriches cannot fly but are the fastest running birds, reaching speeds of up to 70 km/h. They also lay the largest eggs of any living bird."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "Emu",
+          "emus",
+          "australian emu"
+        ],
+        "option_b": [
+          "Ostrich",
+          "ostriches",
+          "ostric"
+        ],
+        "option_c": [
+          "Albatross",
+          "albatrosses",
+          "sea bird"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": ""
+    },
+    {
+      "id": "animal_B9_17",
+      "que": "What is the collective name for a group of lions?",
+      "ans": {
+        "value": "Pride",
+        "correct_entity": "option_c"
+      },
+      "options": [
+        "Pack",
+        "Herd",
+        "Pride"
+      ],
+      "expl": [
+        "A group of lions is called a pride. A pride typically consists of related females, their cubs, and a small number of adult males. Female lions (lionesses) do most of the hunting. Lions are the only truly social wild cats. A pride can consist of 3 to 40 individuals."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "Pack",
+          "wolf pack",
+          "pack of wolves"
+        ],
+        "option_b": [
+          "Herd",
+          "animal herd",
+          "herd of animals"
+        ],
+        "option_c": [
+          "Pride",
+          "lion pride",
+          "pride of lions"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": ""
+    },
+    {
+      "id": "animal_B9_18",
+      "que": "Which animal is known to have the best sense of smell in the animal kingdom?",
+      "ans": {
+        "value": "Bear",
+        "correct_entity": "option_b"
+      },
+      "options": [
+        "Dog",
+        "Bear",
+        "Elephant"
+      ],
+      "expl": [
+        "Bears, particularly grizzly bears and polar bears, are known to have the best sense of smell in the animal kingdom. A bear's sense of smell is estimated to be 7 times better than a bloodhound's and 2,100 times better than a human's. They can detect smells from over 30 kilometres away."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "Dog",
+          "dogs",
+          "canine"
+        ],
+        "option_b": [
+          "Bear",
+          "bears",
+          "grizzly"
+        ],
+        "option_c": [
+          "Elephant",
+          "elephants",
+          "elefant"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": ""
+    },
+    {
+      "id": "animal_B9_19",
+      "que": "What is the name of a female fox?",
+      "ans": {
+        "value": "Vixen",
+        "correct_entity": "option_b"
+      },
+      "options": [
+        "Doe",
+        "Vixen",
+        "Hind"
+      ],
+      "expl": [
+        "A female fox is called a vixen. A male fox is called a tod or reynard. A young fox is called a kit, cub, or pup. The word 'vixen' has also entered common usage as a term for an attractive woman. Foxes are found on every continent except Antarctica."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "Doe",
+          "a doe",
+          "female deer"
+        ],
+        "option_b": [
+          "Vixen",
+          "a vixen",
+          "female fox"
+        ],
+        "option_c": [
+          "Hind",
+          "a hind",
+          "female deer"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": ""
+    },
+    {
+      "id": "animal_B9_20",
+      "que": "Which ocean creature has three hearts?",
+      "ans": {
+        "value": "Octopus",
+        "correct_entity": "option_b"
+      },
+      "options": [
+        "Clownfish",
+        "Octopus",
+        "Jellyfish"
+      ],
+      "expl": [
+        "An octopus has three hearts. Two branchial hearts pump blood through each of the two gills, while the third (systemic heart) pumps blood through the body. Octopuses also have blue blood due to copper-based hemocyanin, rather than the iron-based hemoglobin found in human blood."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "Clownfish",
+          "nemo fish",
+          "clown fish",
+          "nemo"
+        ],
+        "option_b": [
+          "Octopus",
+          "octopi",
+          "octopuses",
+          "octapus"
+        ],
+        "option_c": [
+          "Jellyfish",
+          "jelly fish",
+          "sea jelly"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": ""
+    },
+    {
+      "id": "animal_B9_21",
+      "que": "What is the name for a baby goat?",
+      "ans": {
+        "value": "Kid",
+        "correct_entity": "option_c"
+      },
+      "options": [
+        "Lamb",
+        "Calf",
+        "Kid"
+      ],
+      "expl": [
+        "A baby goat is called a kid. Female goats are called does (or nannies) and male goats are called bucks (or billies). A group of goats is called a herd or a tribe. Goats were among the first animals to be domesticated by humans, around 10,000 years ago."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "Lamb",
+          "lambs",
+          "baby sheep"
+        ],
+        "option_b": [
+          "Calf",
+          "calves",
+          "baby cow"
+        ],
+        "option_c": [
+          "Kid",
+          "kids",
+          "baby goat"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": ""
+    }
+  ],
+  "IMAGE_QUESTIONS": [],
+  "AUDIO_QUESTIONS": []
+}

@@ -1,0 +1,668 @@
+{
+  "TEXT_QUESTIONS": [
+    {
+      "id": "art-and-entertainment_B10_1",
+      "que": "Who is the author of 'Don Quixote'?",
+      "ans": {
+        "value": "Miguel de Cervantes",
+        "correct_entity": "option_b"
+      },
+      "options": [
+        "Lope de Vega",
+        "Miguel de Cervantes",
+        "Francisco de Quevedo"
+      ],
+      "expl": [
+        "Don Quixote was written by Miguel de Cervantes and published in two parts in 1605 and 1615. It is often considered the first modern novel and one of the greatest works of fiction ever written. It follows the adventures of an idealistic nobleman who fancies himself a knight."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "Lope de Vega",
+          "de vega"
+        ],
+        "option_b": [
+          "Miguel de Cervantes",
+          "cervantes",
+          "de cervantes"
+        ],
+        "option_c": [
+          "Francisco de Quevedo",
+          "quevedo",
+          "de quevedo"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": ""
+    },
+    {
+      "id": "art-and-entertainment_B10_2",
+      "que": "Which instrument is Yo-Yo Ma famous for playing?",
+      "ans": {
+        "value": "Cello",
+        "correct_entity": "option_c"
+      },
+      "options": [
+        "Violin",
+        "Piano",
+        "Cello"
+      ],
+      "expl": [
+        "Yo-Yo Ma is a world-renowned cellist, born in Paris in 1955 to Chinese parents. He began playing the cello at age four and became one of the most celebrated classical musicians in the world. He has won 19 Grammy Awards and collaborated with musicians across many genres."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "Violin",
+          "fiddle"
+        ],
+        "option_b": [
+          "Piano",
+          "keyboard"
+        ],
+        "option_c": [
+          "Cello",
+          "violoncello"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": ""
+    },
+    {
+      "id": "art-and-entertainment_B10_3",
+      "que": "Which colorful character is the best friend of Mickey Mouse?",
+      "ans": {
+        "value": "Goofy",
+        "correct_entity": "option_b"
+      },
+      "options": [
+        "Donald Duck",
+        "Goofy",
+        "Pluto"
+      ],
+      "expl": [
+        "Goofy is one of Mickey Mouse's best friends in Disney cartoons, known for his tall, clumsy character and signature laugh. He first appeared in 1932 and has starred in many movies and TV shows. Donald Duck and Pluto are also part of Mickey's classic group of friends."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "Donald Duck",
+          "donald"
+        ],
+        "option_b": [
+          "Goofy"
+        ],
+        "option_c": [
+          "Pluto"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": ""
+    },
+    {
+      "id": "art-and-entertainment_B10_4",
+      "que": "Which author created the character of James Bond?",
+      "ans": {
+        "value": "Ian Fleming",
+        "correct_entity": "option_b"
+      },
+      "options": [
+        "John le Carré",
+        "Ian Fleming",
+        "Len Deighton"
+      ],
+      "expl": [
+        "James Bond was created by British author Ian Fleming. Bond first appeared in the 1953 novel Casino Royale. Fleming based the character partly on intelligence officers he worked with during World War II. He wrote 14 Bond novels and two short story collections."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "John le Carré",
+          "le carre",
+          "john le carre"
+        ],
+        "option_b": [
+          "Ian Fleming",
+          "fleming"
+        ],
+        "option_c": [
+          "Len Deighton",
+          "deighton"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": ""
+    },
+    {
+      "id": "art-and-entertainment_B10_5",
+      "que": "What is the name of the hobbit in Tolkien's 'The Hobbit'?",
+      "ans": {
+        "value": "Bilbo Baggins",
+        "correct_entity": "option_c"
+      },
+      "options": [
+        "Frodo Baggins",
+        "Samwise Gamgee",
+        "Bilbo Baggins"
+      ],
+      "expl": [
+        "Bilbo Baggins is the titular hobbit in J.R.R. Tolkien's novel The Hobbit, published in 1937. He is recruited by the wizard Gandalf to join a company of dwarves on a quest to reclaim their homeland from the dragon Smaug. He later appears as an elderly hobbit in The Lord of the Rings."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "Frodo Baggins",
+          "frodo"
+        ],
+        "option_b": [
+          "Samwise Gamgee",
+          "samwise",
+          "sam"
+        ],
+        "option_c": [
+          "Bilbo Baggins",
+          "bilbo"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": ""
+    },
+    {
+      "id": "art-and-entertainment_B10_6",
+      "que": "Which musician is known as the 'King of Rock and Roll'?",
+      "ans": {
+        "value": "Elvis Presley",
+        "correct_entity": "option_c"
+      },
+      "options": [
+        "Chuck Berry",
+        "Little Richard",
+        "Elvis Presley"
+      ],
+      "expl": [
+        "Elvis Presley is widely known as the 'King of Rock and Roll.' He was one of the most culturally influential musicians of the 20th century. Known for hits like Hound Dog, Jailhouse Rock, and Love Me Tender, Elvis combined rock, country, and gospel influences."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "Chuck Berry",
+          "berry"
+        ],
+        "option_b": [
+          "Little Richard",
+          "richard penniman"
+        ],
+        "option_c": [
+          "Elvis Presley",
+          "elvis",
+          "the king"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": ""
+    },
+    {
+      "id": "art-and-entertainment_B10_7",
+      "que": "Who wrote the play 'A Midsummer Night's Dream'?",
+      "ans": {
+        "value": "William Shakespeare",
+        "correct_entity": "option_b"
+      },
+      "options": [
+        "Christopher Marlowe",
+        "William Shakespeare",
+        "Ben Jonson"
+      ],
+      "expl": [
+        "A Midsummer Night's Dream was written by William Shakespeare, believed to have been composed between 1594 and 1596. It is a comedy involving the interactions of four Athenian lovers, a group of amateur actors, and fairies in a woodland setting. It is one of Shakespeare's most popular comedies."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "Christopher Marlowe",
+          "marlowe"
+        ],
+        "option_b": [
+          "William Shakespeare",
+          "shakespeare",
+          "the bard"
+        ],
+        "option_c": [
+          "Ben Jonson",
+          "jonson"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": ""
+    },
+    {
+      "id": "art-and-entertainment_B10_8",
+      "que": "Which country produces the most films per year?",
+      "ans": {
+        "value": "India",
+        "correct_entity": "option_b"
+      },
+      "options": [
+        "United States",
+        "India",
+        "China"
+      ],
+      "expl": [
+        "India produces the most films per year of any country, with Bollywood (based in Mumbai) leading global film production. Indian cinema produces over 1,800 films annually across multiple regional film industries. Bollywood alone releases over 300 films per year."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "United States",
+          "usa",
+          "america"
+        ],
+        "option_b": [
+          "India",
+          "bollywood",
+          "indian"
+        ],
+        "option_c": [
+          "China",
+          "chinese"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": ""
+    },
+    {
+      "id": "art-and-entertainment_B10_9",
+      "que": "Who painted 'The Last Supper'?",
+      "ans": {
+        "value": "Leonardo da Vinci",
+        "correct_entity": "option_b"
+      },
+      "options": [
+        "Raphael",
+        "Leonardo da Vinci",
+        "Michelangelo"
+      ],
+      "expl": [
+        "The Last Supper was painted by Leonardo da Vinci between approximately 1495 and 1498. It depicts the moment Jesus announced that one of his apostles would betray him. The mural is located in the refectory of the Convent of Santa Maria delle Grazie in Milan, Italy."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "Raphael"
+        ],
+        "option_b": [
+          "Leonardo da Vinci",
+          "da vinci",
+          "leonardo",
+          "leonard"
+        ],
+        "option_c": [
+          "Michelangelo",
+          "michaelangelo"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": ""
+    },
+    {
+      "id": "art-and-entertainment_B10_10",
+      "que": "What is the longest-running Broadway show of all time?",
+      "ans": {
+        "value": "The Phantom of the Opera",
+        "correct_entity": "option_b"
+      },
+      "options": [
+        "Cats",
+        "The Phantom of the Opera",
+        "Chicago"
+      ],
+      "expl": [
+        "The Phantom of the Opera is the longest-running show in Broadway history. It opened on January 26, 1988, at the Majestic Theatre and closed on April 16, 2023, after 13,981 performances. It was based on Gaston Leroux's 1910 novel and composed by Andrew Lloyd Webber."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "Cats",
+          "the musical cats"
+        ],
+        "option_b": [
+          "The Phantom of the Opera",
+          "phantom of the opera",
+          "phantom",
+          "the phantom"
+        ],
+        "option_c": [
+          "Chicago",
+          "chicago musical"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": ""
+    },
+    {
+      "id": "art-and-entertainment_B10_11",
+      "que": "Who directed the movie 'The Godfather'?",
+      "ans": {
+        "value": "Francis Ford Coppola",
+        "correct_entity": "option_b"
+      },
+      "options": [
+        "Martin Scorsese",
+        "Francis Ford Coppola",
+        "Brian De Palma"
+      ],
+      "expl": [
+        "The Godfather was directed by Francis Ford Coppola and released in 1972. Based on Mario Puzo's novel, it stars Marlon Brando as Vito Corleone and Al Pacino as his son Michael. The film won three Academy Awards including Best Picture and is considered one of the greatest films ever made."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "Martin Scorsese",
+          "scorsese"
+        ],
+        "option_b": [
+          "Francis Ford Coppola",
+          "coppola",
+          "francis coppola"
+        ],
+        "option_c": [
+          "Brian De Palma",
+          "de palma"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": ""
+    },
+    {
+      "id": "art-and-entertainment_B10_12",
+      "que": "Which famous artist cut off part of his own ear?",
+      "ans": {
+        "value": "Vincent van Gogh",
+        "correct_entity": "option_c"
+      },
+      "options": [
+        "Paul Gauguin",
+        "Edvard Munch",
+        "Vincent van Gogh"
+      ],
+      "expl": [
+        "Vincent van Gogh famously cut off part of his own ear in December 1888 in Arles, France, during a mental breakdown following a confrontation with fellow artist Paul Gauguin. He then reportedly delivered the severed piece to a woman at a local brothel. The incident has become one of art history's most famous stories."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "Paul Gauguin",
+          "gauguin"
+        ],
+        "option_b": [
+          "Edvard Munch",
+          "munch"
+        ],
+        "option_c": [
+          "Vincent van Gogh",
+          "van gogh",
+          "vincent"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": ""
+    },
+    {
+      "id": "art-and-entertainment_B10_13",
+      "que": "What does 'DJ' stand for in music?",
+      "ans": {
+        "value": "Disc Jockey",
+        "correct_entity": "option_b"
+      },
+      "options": [
+        "Digital Jockey",
+        "Disc Jockey",
+        "Dynamic Jockey"
+      ],
+      "expl": [
+        "DJ stands for Disc Jockey. The term originated from the practice of playing vinyl records (discs) at radio stations or live events. Today, DJs use digital tools and software but the traditional term remains. DJs play a central role in genres like hip-hop, electronic, and club music."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "Digital Jockey"
+        ],
+        "option_b": [
+          "Disc Jockey",
+          "disk jockey"
+        ],
+        "option_c": [
+          "Dynamic Jockey"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": ""
+    },
+    {
+      "id": "art-and-entertainment_B10_14",
+      "que": "Which novel begins with the line 'Call me Ishmael'?",
+      "ans": {
+        "value": "Moby-Dick",
+        "correct_entity": "option_c"
+      },
+      "options": [
+        "The Old Man and the Sea",
+        "Lord Jim",
+        "Moby-Dick"
+      ],
+      "expl": [
+        "Moby-Dick by Herman Melville begins with the famous opening line 'Call me Ishmael.' The novel, published in 1851, is narrated by Ishmael, a sailor who joins the crew of the whaling ship Pequod commanded by the obsessed Captain Ahab."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "The Old Man and the Sea",
+          "old man and the sea",
+          "old man sea"
+        ],
+        "option_b": [
+          "Lord Jim"
+        ],
+        "option_c": [
+          "Moby-Dick",
+          "moby dick",
+          "whale book"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": ""
+    },
+    {
+      "id": "art-and-entertainment_B10_15",
+      "que": "Who composed the opera 'The Magic Flute'?",
+      "ans": {
+        "value": "Wolfgang Amadeus Mozart",
+        "correct_entity": "option_b"
+      },
+      "options": [
+        "Ludwig van Beethoven",
+        "Wolfgang Amadeus Mozart",
+        "Franz Schubert"
+      ],
+      "expl": [
+        "The Magic Flute was composed by Wolfgang Amadeus Mozart and first performed in Vienna in 1791. It was Mozart's last opera, composed in the final year of his life. It is a fairy-tale opera featuring trials of wisdom and love, and includes some of the most technically demanding soprano arias ever written."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "Ludwig van Beethoven",
+          "beethoven",
+          "ludwig beethoven"
+        ],
+        "option_b": [
+          "Wolfgang Amadeus Mozart",
+          "mozart",
+          "wolfgang mozart",
+          "amadeus mozart"
+        ],
+        "option_c": [
+          "Franz Schubert",
+          "schubert"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": ""
+    },
+    {
+      "id": "art-and-entertainment_B10_16",
+      "que": "In which decade did the Woodstock music festival first take place?",
+      "ans": {
+        "value": "1960s",
+        "correct_entity": "option_b"
+      },
+      "options": [
+        "1950s",
+        "1960s",
+        "1970s"
+      ],
+      "expl": [
+        "The Woodstock Music and Art Fair took place in August 1969, making it a product of the 1960s. Held on Max Yasgur's dairy farm in Bethel, New York, it drew about 400,000 attendees and became a defining event of the counterculture movement. Performers included Jimi Hendrix, Janis Joplin, and The Who."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "1950s",
+          "nineteen fifties",
+          "the fifties"
+        ],
+        "option_b": [
+          "1960s",
+          "nineteen sixties",
+          "the sixties"
+        ],
+        "option_c": [
+          "1970s",
+          "nineteen seventies",
+          "the seventies"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": ""
+    },
+    {
+      "id": "art-and-entertainment_B10_17",
+      "que": "Who wrote the play 'The Importance of Being Earnest'?",
+      "ans": {
+        "value": "Oscar Wilde",
+        "correct_entity": "option_b"
+      },
+      "options": [
+        "George Bernard Shaw",
+        "Oscar Wilde",
+        "Noel Coward"
+      ],
+      "expl": [
+        "The Importance of Being Earnest was written by Oscar Wilde and first performed on February 14, 1895. It is a farcical comedy about the social conventions and double lives of Victorian England. Wilde called it 'a trivial comedy for serious people.' It remains one of the most widely performed plays in the English language."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "George Bernard Shaw",
+          "shaw",
+          "george shaw"
+        ],
+        "option_b": [
+          "Oscar Wilde",
+          "wilde"
+        ],
+        "option_c": [
+          "Noel Coward",
+          "coward"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": ""
+    },
+    {
+      "id": "art-and-entertainment_B10_18",
+      "que": "Which famous balloon parade is held every Thanksgiving Day in New York City?",
+      "ans": {
+        "value": "Macy's Thanksgiving Day Parade",
+        "correct_entity": "option_b"
+      },
+      "options": [
+        "Rose Parade",
+        "Macy's Thanksgiving Day Parade",
+        "Mardi Gras Parade"
+      ],
+      "expl": [
+        "The Macy's Thanksgiving Day Parade is held every Thanksgiving morning in New York City. The parade has been a tradition since 1924 and features giant character balloons, marching bands, and floats, ending with the arrival of Santa Claus."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "Rose Parade"
+        ],
+        "option_b": [
+          "Macy's Thanksgiving Day Parade",
+          "macys thanksgiving day parade",
+          "macys parade",
+          "macy s thanksgiving day parade",
+          "macy s parade"
+        ],
+        "option_c": [
+          "Mardi Gras Parade",
+          "mardi gras"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": ""
+    },
+    {
+      "id": "art-and-entertainment_B10_19",
+      "que": "Which animated movie features a young girl named Elsa with ice powers?",
+      "ans": {
+        "value": "Frozen",
+        "correct_entity": "option_c"
+      },
+      "options": [
+        "Tangled",
+        "Moana",
+        "Frozen"
+      ],
+      "expl": [
+        "Frozen is the Disney animated movie that features Elsa, a young princess with magical ice powers, and her sister Anna. Released in 2013, it became one of Disney's most popular films and includes the hit song 'Let It Go.' A sequel, Frozen 2, was released in 2019."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "Tangled"
+        ],
+        "option_b": [
+          "Moana"
+        ],
+        "option_c": [
+          "Frozen"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": ""
+    }
+  ],
+  "IMAGE_QUESTIONS": [],
+  "AUDIO_QUESTIONS": []
+}

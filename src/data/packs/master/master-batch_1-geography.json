@@ -1,0 +1,833 @@
+{
+  "TEXT_QUESTIONS": [
+    {
+      "id": "geography_B1_1",
+      "que": "Which ocean is the largest ocean in the world?",
+      "ans": {
+        "value": "Pacific",
+        "correct_entity": "option_c"
+      },
+      "options": [
+        "Atlantic",
+        "Indian",
+        "Pacific"
+      ],
+      "expl": [
+        "The Pacific Ocean is the largest ocean in the world, covering an area of approximately 63.8 million square miles and accounting for about 46% of the world's ocean surface area."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "Atlantic"
+        ],
+        "option_b": [
+          "Indian",
+          "India"
+        ],
+        "option_c": [
+          "Pacific"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": ""
+    },
+    {
+      "id": "batch_1_row_2 (side table)",
+      "que": "Which state is known as the Baked Bean State?",
+      "ans": {
+        "value": "Massachusetts",
+        "correct_entity": "option_c"
+      },
+      "options": [
+        "Maine",
+        "Texas",
+        "Massachusetts"
+      ],
+      "expl": [
+        "Massachusetts is known as the Baked Bean State due to the state's history of producing and consuming baked beans, which were a staple of the diet during colonial times."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "Maine"
+        ],
+        "option_b": [
+          "Texas"
+        ],
+        "option_c": [
+          "Massachusetts"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": ""
+    },
+    {
+      "id": "batch_1_row_5 (side table)",
+      "que": "A reference to its famous monument, \"Great Faces. Great Places,\" appears on the license plate of which U.S. state?",
+      "ans": {
+        "value": "South Dakota",
+        "correct_entity": "option_c"
+      },
+      "options": [
+        "Montana",
+        "North Dakota",
+        "South Dakota"
+      ],
+      "expl": [
+        "South Dakota, nicknamed \"Great Faces. Great Places.\" since 1990, refers to the well-known sculptures of four U.S. presidents on Mount Rushmore by Gutzon and Lincoln Borglum."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "Montana"
+        ],
+        "option_b": [
+          "North Dakota"
+        ],
+        "option_c": [
+          "South Dakota"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": ""
+    },
+    {
+      "id": "batch_1_row_6 (side table)",
+      "que": "What is the name of the river that flows through Egypt?",
+      "ans": {
+        "value": "Nile River",
+        "correct_entity": "option_b"
+      },
+      "options": [
+        "Amazon River",
+        "Nile River",
+        "Mississippi River"
+      ],
+      "expl": [
+        "The Nile River is the longest river in the world, with a total length of approximately 4,135 miles. In Egypt, the Nile is particularly important, as it provides water for the majority of the country's population and irrigates its agricultural land, which is essential for the country's economy."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "Amazon River",
+          "Amazon",
+          "River"
+        ],
+        "option_b": [
+          "Nile River"
+        ],
+        "option_c": [
+          "Mississippi River",
+          "River",
+          "Mississi"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": ""
+    },
+    {
+      "id": "geography_B1_2",
+      "que": "The famous U.S. Route 66 ran from which city to Los Angeles?",
+      "ans": {
+        "value": "Chicago",
+        "correct_entity": "option_b"
+      },
+      "options": [
+        "Detroit",
+        "Chicago",
+        "Boston"
+      ],
+      "expl": [
+        "U.S. Route 66 ran from Chicago to Los Angeles. It was one of the original highways in the U.S. highway system, spanning a total of 2,448 miles and passing through eight states."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "Detroit",
+          "detrur",
+          "bolours",
+          "bolors"
+        ],
+        "option_b": [
+          "Chicago"
+        ],
+        "option_c": [
+          "Boston"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": ""
+    },
+    {
+      "id": "geography_B1_3",
+      "que": "Which airport is named after a former U.S. Secretary of State?",
+      "ans": {
+        "value": "Dulles",
+        "correct_entity": "option_c"
+      },
+      "options": [
+        "Laguardia",
+        "O'Hare",
+        "Dulles"
+      ],
+      "expl": [
+        "Located 26 miles to the west of downtown Washington, D.C., Dulles International Airport is an airport of international status, named in honor of John Foster Dulles, who served as the 52nd Secretary of State during the tenure of Republican President Dwight D. Eisenhower."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "Laguardia",
+          "lagardiya",
+          "laguardiya"
+        ],
+        "option_b": [
+          "O'Hare",
+          "ohare",
+          "o. hare",
+          "o hare",
+          "oh here"
+        ],
+        "option_c": [
+          "Dulles",
+          "dual",
+          "duels",
+          "dallas"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": ""
+    },
+    {
+      "id": "geography_B1_4",
+      "que": "Which country has the most time zones?",
+      "ans": {
+        "value": "France",
+        "correct_entity": "option_c"
+      },
+      "options": [
+        "China",
+        "Russia",
+        "France"
+      ],
+      "expl": [
+        "Although France seems small it spans multiple time zones due to its overseas territories. These include Saint Barthelemy Saint Martin Saint Pierre and Miquelon Wallis and Futuna and French Polynesia. Altogether France covers twelve time zones making it the country with the most in the world."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "China",
+          "chinese"
+        ],
+        "option_b": [
+          "Russia"
+        ],
+        "option_c": [
+          "France"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": ""
+    },
+    {
+      "id": "geography_B1_5",
+      "que": "Where would you find the world's most ancient forest?",
+      "ans": {
+        "value": "Australia",
+        "correct_entity": "option_a"
+      },
+      "options": [
+        "Australia",
+        "Africa",
+        "New Zealand"
+      ],
+      "expl": [
+        "The world's most ancient forest is believed to be the Daintree Rainforest in Queensland, Australia. The forest is estimated to be around 180 million years old and contains an incredible variety of plant and animal species, some of which are found nowhere else on Earth."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "Australia",
+          "Australiya"
+        ],
+        "option_b": [
+          "Africa"
+        ],
+        "option_c": [
+          "New Zealand"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": ""
+    },
+    {
+      "id": "geography_B1_6",
+      "que": "What is Happy Valley Hong Kong famous for?",
+      "ans": {
+        "value": "Horse racing",
+        "correct_entity": "option_b"
+      },
+      "options": [
+        "Water Sports",
+        "Horse racing",
+        "Flower display"
+      ],
+      "expl": [
+        "Happy Valley Racecourse, alongside Sha Tin Racecourse, is used by the Hong Kong Jockey Club for horse racing meets. Races at Happy Valley are on Wednesdays, open to the public and Club members."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "Water Sports",
+          "water sport",
+          "water",
+          "sport",
+          "sports"
+        ],
+        "option_b": [
+          "Horse racing",
+          "Horse",
+          "racing"
+        ],
+        "option_c": [
+          "Flower display",
+          "Flower",
+          "display"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": ""
+    },
+    {
+      "id": "geography_B1_7",
+      "que": "The Headquarters of the United Nations is situated at?",
+      "ans": {
+        "value": "United States",
+        "correct_entity": "option_a"
+      },
+      "options": [
+        "United States",
+        "Geneva",
+        "Paris"
+      ],
+      "expl": [
+        "The United Nations has its official headquarters in New York City's Turtle Bay neighborhood. The complex was designed by Oscar Niemeyer and built by Harrison and Abramovitz, occupying 17-18 acres and overlooking the East River. It has been in use since its completion in 1952."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "United States",
+          "u. s.",
+          "U. S. A.",
+          "united state of america"
+        ],
+        "option_b": [
+          "Geneva"
+        ],
+        "option_c": [
+          "Paris"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": ""
+    },
+    {
+      "id": "geography_B1_8",
+      "que": "Which skyscraper features the world's highest observation deck?",
+      "ans": {
+        "value": "Burj Khalifa",
+        "correct_entity": "option_a"
+      },
+      "options": [
+        "Burj Khalifa",
+        "Shanghai Tower",
+        "Empire State"
+      ],
+      "expl": [
+        "The Burj Khalifa, located in Dubai, is a mega-tall skyscraper standing at 828 meters. It holds the title of the World's Tallest Building and has observation decks on the 124th, 125th, and 148th floors, with the 148th floor deck being the highest accessible to the public due to the building's tapering form."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "Burj Khalifa",
+          "Burj",
+          "Khalifa"
+        ],
+        "option_b": [
+          "Shanghai Tower",
+          "Shanghai",
+          "Tower"
+        ],
+        "option_c": [
+          "Empire State",
+          "empire states",
+          "empire",
+          "state",
+          "states"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": ""
+    },
+    {
+      "id": "geography_B1_9",
+      "que": "If you are at zero degrees latitude and zero degrees longitude, what ocean are you in?",
+      "ans": {
+        "value": "Atlantic",
+        "correct_entity": "option_c"
+      },
+      "options": [
+        "Artic",
+        "Indian",
+        "Atlantic"
+      ],
+      "expl": [
+        "The Earth is gridded with imaginary lines of latitude and longitude. The Equator, at zero degrees latitude, splits the globe into northern and southern hemispheres, while the Prime Meridian, at zero degrees longitude, intersects the Equator in the middle of the Atlantic Ocean near Ghana."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "Artic",
+          "arctic"
+        ],
+        "option_b": [
+          "Indian"
+        ],
+        "option_c": [
+          "Atlantic"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": ""
+    },
+    {
+      "id": "geography_B1_10",
+      "que": "What percentage of Earth is permanently covered in snow and ice?",
+      "ans": {
+        "value": "12",
+        "correct_entity": "option_a"
+      },
+      "options": [
+        "12",
+        "25",
+        "6"
+      ],
+      "expl": [
+        "Snow and ice coverage on Earth fluctuate throughout the year, with seasonal snow covering up to 33% of the surface during the Northern Hemisphere winter. Only 12% is permanently ice- and snow-covered, mostly in polar regions. Melting from global warming poses threats like rising sea levels."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "12",
+          "one two",
+          "twelve"
+        ],
+        "option_b": [
+          "25",
+          "two five",
+          "twenty five"
+        ],
+        "option_c": [
+          "6",
+          "six"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": ""
+    },
+    {
+      "id": "geography_B1_11",
+      "que": "Where is the only place on Earth where alligators and crocodiles coexist?",
+      "ans": {
+        "value": "Florida",
+        "correct_entity": "option_b"
+      },
+      "options": [
+        "Costa Rica",
+        "Florida",
+        "Brazil"
+      ],
+      "expl": [
+        "Crocodiles and alligators coexist only in South Florida, specifically the Florida Everglades, due to their swampy habitat. They can be distinguished by their snout shape and color, with alligators having a U-shaped snout and darker color while crocodiles have a pointed snout and lighter color."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "Costa Rica",
+          "Costa",
+          "Rica",
+          "cost",
+          "cost all"
+        ],
+        "option_b": [
+          "Florida"
+        ],
+        "option_c": [
+          "Brazil"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": ""
+    },
+    {
+      "id": "geography_B1_12",
+      "que": "Which country has the highest waterfall in the world?",
+      "ans": {
+        "value": "Venezuela",
+        "correct_entity": "option_b"
+      },
+      "options": [
+        "Canada",
+        "Venezuela",
+        "United States"
+      ],
+      "expl": [
+        "The highest waterfall in the world is Angel Falls in Venezuela. Named after US aviator Jimmy Angel who discovered it in 1933, it stands about three 3212 feet tall. Located in Canaima National Park its remote location makes it reachable only by plane or a multi day trek."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "Canada",
+          "can",
+          "canadian"
+        ],
+        "option_b": [
+          "Venezuela"
+        ],
+        "option_c": [
+          "United States",
+          "United State",
+          "u. s.",
+          "us",
+          "usa",
+          "u. s. a.",
+          "united states of america"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": ""
+    },
+    {
+      "id": "geography_B1_13",
+      "que": "Which continent has the most countries?",
+      "ans": {
+        "value": "Africa",
+        "correct_entity": "option_c"
+      },
+      "options": [
+        "Europe",
+        "Asia",
+        "Africa"
+      ],
+      "expl": [
+        "The continent with the most countries is Africa, with a total of 54 recognized sovereign states. Africa is the second-largest continent in terms of land area and is home to diverse cultures, languages, and histories."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "Europe",
+          "european",
+          "yerope"
+        ],
+        "option_b": [
+          "Asia"
+        ],
+        "option_c": [
+          "Africa"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": ""
+    },
+    {
+      "id": "geography_B1_14",
+      "que": "What is the largest freshwater lake in the world?",
+      "ans": {
+        "value": "Baikal",
+        "correct_entity": "option_c"
+      },
+      "options": [
+        "Superior",
+        "Huron",
+        "Baikal"
+      ],
+      "expl": [
+        "The largest freshwater lake by volume is Lake Baikal in Russias Siberia. It holds about 20% of the worlds unfrozen freshwater. Estimated to be 25 million years old, it hosts thousands of plant and animal species many found nowhere else on Earth."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "Superior",
+          "super",
+          "superi"
+        ],
+        "option_b": [
+          "Huron",
+          "huran"
+        ],
+        "option_c": [
+          "Baikal",
+          "baikals"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": ""
+    },
+    {
+      "id": "geography_B1_15",
+      "que": "What is Brazil named after?",
+      "ans": {
+        "value": "Trees",
+        "correct_entity": "option_a"
+      },
+      "options": [
+        "Trees",
+        "River",
+        "Grass"
+      ],
+      "expl": [
+        "Brazil is named after the Brazilwood tree, a valuable resource during early colonial times. Native to South Americas Atlantic coast, its wood was prized for making dyes, especially a bright red dye called brazilin."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "Trees",
+          "tree"
+        ],
+        "option_b": [
+          "River",
+          "rivers"
+        ],
+        "option_c": [
+          "Grass"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": ""
+    },
+    {
+      "id": "geography_B1_16",
+      "que": "What is the capital city of Ukraine?",
+      "ans": {
+        "value": "Kyiv",
+        "correct_entity": "option_a"
+      },
+      "options": [
+        "Kyiv",
+        "Minsk",
+        "Pristina"
+      ],
+      "expl": [
+        "The capital city of Ukraine is Kyiv. It is the largest city in Ukraine and has a population of approximately 3 million people. Kyiv is located in the northern part of the country, along the Dnipro River. It has a rich history and is known for its beautiful architecture and cultural landmarks."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "Kyiv",
+          "keiv",
+          "kiv"
+        ],
+        "option_b": [
+          "Minsk",
+          "mins"
+        ],
+        "option_c": [
+          "Pristina",
+          "pristine"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": ""
+    },
+    {
+      "id": "geography_B1_17",
+      "que": "Which continent is divided into two halves by the equator?",
+      "ans": {
+        "value": "Africa",
+        "correct_entity": "option_a"
+      },
+      "options": [
+        "Africa",
+        "Asia",
+        "Europe"
+      ],
+      "expl": [
+        "Africa is divided into two halves by the Equator, which passes through 13 countries, including Gabon, Congo, Uganda, Kenya, and Somalia. The Equator is an imaginary line at 0 degrees latitude that separates the Northern and Southern Hemispheres."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "Africa"
+        ],
+        "option_b": [
+          "Asia"
+        ],
+        "option_c": [
+          "Europe",
+          "Euro"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": ""
+    },
+    {
+      "id": "geography_B1_18",
+      "que": "The unicorn is the national animal of which country?",
+      "ans": {
+        "value": "Scotland",
+        "correct_entity": "option_b"
+      },
+      "options": [
+        "Netherlands",
+        "Scotland",
+        "Ireland"
+      ],
+      "expl": [
+        "The unicorn is indeed the official national animal of Scotland and has been for many centuries. This mythical creature has been admired by various cultures since ancient times, including the Babylonians and the Indus civilization."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "Netherlands",
+          "netherland",
+          "nether"
+        ],
+        "option_b": [
+          "Scotland",
+          "scotish",
+          "scot"
+        ],
+        "option_c": [
+          "Ireland",
+          "ire",
+          "land"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": ""
+    },
+    {
+      "id": "geography_B1_19",
+      "que": "What country is called the Land of the Rising Sun?",
+      "ans": {
+        "value": "Japan",
+        "correct_entity": "option_b"
+      },
+      "options": [
+        "Jamaica",
+        "Japan",
+        "Jordan"
+      ],
+      "expl": [
+        "Japan is known as the Land of the Rising Sun due to its location in the eastern part of Asia, where the Sun appears to rise first over Japan before other neighboring countries. This nickname has been used for Japan for many years."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "Jamaica"
+        ],
+        "option_b": [
+          "Japan"
+        ],
+        "option_c": [
+          "Jordan"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": ""
+    },
+    {
+      "id": "geography_B1_20",
+      "que": "Where is the lowest point on Earth?",
+      "ans": {
+        "value": "Dead Sea",
+        "correct_entity": "option_b"
+      },
+      "options": [
+        "Grand Canyon",
+        "Dead Sea",
+        "Sahara Desert"
+      ],
+      "expl": [
+        "Located at the border of Israel, the West Bank and Jordan, the Dead Sea is the lowest point on land, situated 420 meters below sea level. It's located on the Dead Sea Rift, a tectonic fault line between the Arabian and African plates, causing the sea to sink about one meter every year."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "Grand Canyon",
+          "canyon",
+          "cannon",
+          "grand"
+        ],
+        "option_b": [
+          "Dead Sea",
+          "Dead",
+          "Sea"
+        ],
+        "option_c": [
+          "Sahara Desert",
+          "Sahara",
+          "Desert"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": ""
+    },
+    {
+      "id": "geography_B1_21",
+      "que": "Which country has the longest coastline in the world?",
+      "ans": {
+        "value": "Canada",
+        "correct_entity": "option_a"
+      },
+      "options": [
+        "Canada",
+        "Australia",
+        "Russia"
+      ],
+      "expl": [
+        "Canada has the longest coastline in the world, stretching over 202,080 kilometers along the Pacific, Arctic, and Atlantic oceans. It has more coastline than any other country in the world."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "Canada",
+          "canadian"
+        ],
+        "option_b": [
+          "Australia"
+        ],
+        "option_c": [
+          "Russia"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": ""
+    }
+  ],
+  "IMAGE_QUESTIONS": [],
+  "AUDIO_QUESTIONS": []
+}

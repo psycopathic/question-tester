@@ -1,0 +1,2081 @@
+{
+  "TEXT_QUESTIONS": [
+    {
+      "id": "science_B7_1",
+      "que": "Which NASA rover successfully touched down on Mars in 2021?",
+      "ans": {
+        "value": "Perseverance",
+        "correct_entity": "option_b"
+      },
+      "options": [
+        "Curiosity",
+        "Perseverance",
+        "Opportunity"
+      ],
+      "expl": [
+        "NASA's Perseverance rover landed on Mars in February 2021 as part of the Mars 2020 mission. It was designed to search for signs of ancient microbial life and collect rock samples for future return to Earth. The rover also carried the Ingenuity helicopter, which completed the first powered flight on another planet."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "Curiosity",
+          "curious"
+        ],
+        "option_b": [
+          "Perseverance"
+        ],
+        "option_c": [
+          "Opportunity"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": ""
+    },
+    {
+      "id": "science_B7_2",
+      "que": "Which country landed a spacecraft on the Moon's south pole in 2023?",
+      "ans": {
+        "value": "India",
+        "correct_entity": "option_a"
+      },
+      "options": [
+        "India",
+        "USA",
+        "China"
+      ],
+      "expl": [
+        "India made history in 2023 by successfully landing Chandrayaan-3 near the Moon's south pole. The Vikram lander and Pragyan rover explored the surface and confirmed the presence of sulfur. With this mission, India became the fourth nation to achieve a soft Moon landing."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "India"
+        ],
+        "option_b": [
+          "USA",
+          "United State",
+          "u. s.",
+          "us",
+          "usa",
+          "u. s. a.",
+          "united states of america"
+        ],
+        "option_c": [
+          "China",
+          "china",
+          "chinese"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": ""
+    },
+    {
+      "id": "science_B7_3",
+      "que": "Which AI chatbot was launched in 2022?",
+      "ans": {
+        "value": "ChatGPT",
+        "correct_entity": "option_b"
+      },
+      "options": [
+        "Bard",
+        "ChatGPT",
+        "Claude"
+      ],
+      "expl": [
+        "ChatGPT was launched by OpenAI in November 2022 and quickly went viral for its human-like responses. It reached one million users in just five days, faster than Instagram or Netflix. The chatbot sparked a new wave of AI tools worldwide."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "Bard",
+          "bart",
+          "bald",
+          "bond"
+        ],
+        "option_b": [
+          "ChatGPT",
+          "chat g. p. t."
+        ],
+        "option_c": [
+          "Claude",
+          "cloud"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": ""
+    },
+    {
+      "id": "science_B7_4",
+      "que": "Which Mars mission was launched by the United Arab Emirates?",
+      "ans": {
+        "value": "Hope",
+        "correct_entity": "option_a"
+      },
+      "options": [
+        "Hope",
+        "Vision",
+        "Dream"
+      ],
+      "expl": [
+        "The UAE launched the Hope Probe in 2020, which reached Mars in 2021. It became the first Arab nation to send a spacecraft to the red planet. The mission studies Mars' atmosphere and weather patterns."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "Hope",
+          "home"
+        ],
+        "option_b": [
+          "Vision"
+        ],
+        "option_c": [
+          "Dream",
+          "dreams"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": ""
+    },
+    {
+      "id": "science_B7_5",
+      "que": "Which cell organelle is nicknamed the “powerhouse” of the cell?",
+      "ans": {
+        "value": "Mitochondria",
+        "correct_entity": "option_b"
+      },
+      "options": [
+        "Nucleus",
+        "Mitochondria",
+        "Ribosome"
+      ],
+      "expl": [
+        "The mitochondria are known as the powerhouse of the cell because they produce energy. They convert nutrients into ATP, the fuel cells need to function. Each cell can contain hundreds of them."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "Nucleus"
+        ],
+        "option_b": [
+          "Mitochondria"
+        ],
+        "option_c": [
+          "Ribosome",
+          "rib o. some"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": ""
+    },
+    {
+      "id": "science_B7_6",
+      "que": "What planet is known as the Red Planet?",
+      "ans": {
+        "value": "Mars",
+        "correct_entity": "option_a"
+      },
+      "options": [
+        "Mars",
+        "Venus",
+        "Jupiter"
+      ],
+      "expl": [
+        "Mars is called the Red Planet because its surface is covered in iron oxide, which gives it a reddish color. It's the fourth planet from the Sun and a major target for future space missions. NASA and other space agencies hope to send humans there in the 2030s."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "Mars",
+          "mar",
+          "fourth planet"
+        ],
+        "option_b": [
+          "Venus",
+          "when is"
+        ],
+        "option_c": [
+          "Jupiter"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": ""
+    },
+    {
+      "id": "science_B7_7",
+      "que": "Which gas do humans breathe in?",
+      "ans": {
+        "value": "Oxygen",
+        "correct_entity": "option_b"
+      },
+      "options": [
+        "Carbon Dioxide",
+        "Oxygen",
+        "Nitrogen"
+      ],
+      "expl": [
+        "Humans mainly breathe in oxygen, which makes up about 21% of Earth's atmosphere. Our bodies use oxygen to help convert food into energy. Without it, cells can't function and the brain begins shutting down within minutes."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "Carbon Dioxide",
+          "dioxide",
+          "carbon",
+          "c. o. two"
+        ],
+        "option_b": [
+          "Oxygen",
+          "o. two"
+        ],
+        "option_c": [
+          "Nitrogen"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": ""
+    },
+    {
+      "id": "science_B7_8",
+      "que": "Who launched the New Glenn rocket in 2025?",
+      "ans": {
+        "value": "Blue Origin",
+        "correct_entity": "option_b"
+      },
+      "options": [
+        "SpaceX",
+        "Blue Origin",
+        "NASA"
+      ],
+      "expl": [
+        "Blue Origin launched its New Glenn rocket on a successful test flight in 2025. The rocket is designed for reusable space missions and heavy payloads. It marks Blue Origin's biggest step toward commercial space travel."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "SpaceX",
+          "space x.",
+          "space ex",
+          "space",
+          "x."
+        ],
+        "option_b": [
+          "Blue Origin",
+          "Blue",
+          "Origin"
+        ],
+        "option_c": [
+          "NASA",
+          "n. a. s. a."
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": ""
+    },
+    {
+      "id": "science_B7_9",
+      "que": "What did Blue Origin launch in 2025?",
+      "ans": {
+        "value": "New Glenn",
+        "correct_entity": "option_c"
+      },
+      "options": [
+        "Falcon 9",
+        "Starliner",
+        "New Glenn"
+      ],
+      "expl": [
+        "Blue Origin launched the New Glenn rocket in early 2025, marking its biggest aerospace milestone yet. The rocket is designed for multiple reuses and heavy-lift missions. It will compete with SpaceX's Falcon rockets in future commercial launches."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "Falcon 9",
+          "falcon nine",
+          "falcon"
+        ],
+        "option_b": [
+          "Starliner",
+          "star liner"
+        ],
+        "option_c": [
+          "New Glenn",
+          "New",
+          "Glenn",
+          "new glen"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": ""
+    },
+    {
+      "id": "science_B7_10",
+      "que": "Which gas linked to birds was detected on an exoplanet?",
+      "ans": {
+        "value": "DMS",
+        "correct_entity": "option_b"
+      },
+      "options": [
+        "Methane",
+        "DMS",
+        "Ozone"
+      ],
+      "expl": [
+        "Scientists detected dimethyl sulfide (DMS) in the atmosphere of exoplanet K2-18b in 2023. On Earth, this gas is mostly produced by marine plankton and seabirds, which makes it interesting for astrobiology. It's not proof of life, but it's one of the most promising chemical clues so far."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "Methane"
+        ],
+        "option_b": [
+          "DMS",
+          "d. m. s."
+        ],
+        "option_c": [
+          "Ozone"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": ""
+    },
+    {
+      "id": "science_B7_11",
+      "que": "What's the name of the largest planet in our solar system?",
+      "ans": {
+        "value": "Jupiter",
+        "correct_entity": "option_b"
+      },
+      "options": [
+        "Saturn",
+        "Jupiter",
+        "Neptune"
+      ],
+      "expl": [
+        "Jupiter is the largest planet in our solar system, more than 1,300 times the volume of Earth. It's known for its Great Red Spot, a giant storm that has lasted for centuries. Jupiter has at least 92 moons."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "Saturn"
+        ],
+        "option_b": [
+          "Jupiter"
+        ],
+        "option_c": [
+          "Neptune"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": ""
+    },
+    {
+      "id": "science_B7_12",
+      "que": "What's the smallest planet in our solar system?",
+      "ans": {
+        "value": "Mercury",
+        "correct_entity": "option_c"
+      },
+      "options": [
+        "Pluto",
+        "Mars",
+        "Mercury"
+      ],
+      "expl": [
+        "Mercury is the smallest planet in our solar system and the closest to the Sun. It has no atmosphere to trap heat, so temperatures swing from scorching to freezing. Pluto used to hold the title, but it was reclassified as a dwarf planet in 2006."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "Pluto"
+        ],
+        "option_b": [
+          "Mars",
+          "mar"
+        ],
+        "option_c": [
+          "Mercury"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": ""
+    },
+    {
+      "id": "science_B7_13",
+      "que": "What is the only metal that is liquid at room temperature?",
+      "ans": {
+        "value": "Mercury",
+        "correct_entity": "option_a"
+      },
+      "options": [
+        "Mercury",
+        "Aluminum",
+        "Iron"
+      ],
+      "expl": [
+        "Mercury is the only metal that stays liquid at standard room temperature. It was once used in thermometers and barometers. Its symbol on the periodic table is Hg, short for hydrargyrum."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "Mercury"
+        ],
+        "option_b": [
+          "Aluminum"
+        ],
+        "option_c": [
+          "Iron",
+          "ion"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": ""
+    },
+    {
+      "id": "science_B7_14",
+      "que": "What is the hardest natural substance on Earth?",
+      "ans": {
+        "value": "Diamond",
+        "correct_entity": "option_a"
+      },
+      "options": [
+        "Diamond",
+        "Quartz",
+        "Corundum"
+      ],
+      "expl": [
+        "Diamond is the hardest known natural material, ranking 10 on the Mohs hardness scale. It forms deep inside Earth under extreme pressure and heat. Because of its hardness, it's used in cutting and drilling tools."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "Diamond",
+          "Diamonds"
+        ],
+        "option_b": [
+          "Quartz"
+        ],
+        "option_c": [
+          "Corundum"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": ""
+    },
+    {
+      "id": "science_B7_15",
+      "que": "Who invented the telephone?",
+      "ans": {
+        "value": "Alexander Graham Bell",
+        "correct_entity": "option_a"
+      },
+      "options": [
+        "Alexander Graham Bell",
+        "Thomas Edison",
+        "Nikola Tesla"
+      ],
+      "expl": [
+        "Alexander Graham Bell received the patent for the telephone in 1876. His first successful call was to his assistant, saying \"Mr. Watson, come here, I want to see you.\" Bell founded what later became AT and T."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "Alexander Graham Bell",
+          "Alexander",
+          "Graham",
+          "Bell"
+        ],
+        "option_b": [
+          "Thomas Edison",
+          "edison"
+        ],
+        "option_c": [
+          "Nikola Tesla",
+          "nikola",
+          "tesla"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": ""
+    },
+    {
+      "id": "science_B7_16",
+      "que": "What was the first man-made element?",
+      "ans": {
+        "value": "Technetium",
+        "correct_entity": "option_a"
+      },
+      "options": [
+        "Technetium",
+        "Plutonium",
+        "Uranium"
+      ],
+      "expl": [
+        "Technetium was created in 1937 and became the first artificially produced chemical element. It doesn't naturally exist on Earth because it's unstable. Its name literally means \"artificial\" in Greek."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "Technetium",
+          "tecna t. m.",
+          "technium"
+        ],
+        "option_b": [
+          "Plutonium"
+        ],
+        "option_c": [
+          "Uranium"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": ""
+    },
+    {
+      "id": "science_B7_17",
+      "que": "Who was the first person to travel into space?",
+      "ans": {
+        "value": "Yuri Gagarin",
+        "correct_entity": "option_a"
+      },
+      "options": [
+        "Yuri Gagarin",
+        "Neil Armstrong",
+        "Alan Shepard"
+      ],
+      "expl": [
+        "Soviet cosmonaut Yuri Gagarin became the first human in space on April 12, 1961. His mission lasted just 108 minutes but changed history. His famous words were \"Poyekhali!\" meaning \"Let's go!\""
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "Yuri Gagarin",
+          "Yuri",
+          "Gagarin"
+        ],
+        "option_b": [
+          "Neil Armstrong",
+          "neil",
+          "arm strong",
+          "neil arm strong",
+          "nil",
+          "nile",
+          "neel armstrong",
+          "neel arm strong"
+        ],
+        "option_c": [
+          "Alan Shepard",
+          "Alan",
+          "Shepard"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": ""
+    },
+    {
+      "id": "science_B7_18",
+      "que": "Which famous physicist developed the theory of relativity?",
+      "ans": {
+        "value": "Albert Einstein",
+        "correct_entity": "option_b"
+      },
+      "options": [
+        "Isaac Newton",
+        "Albert Einstein",
+        "Galileo Galilei"
+      ],
+      "expl": [
+        "Albert Einstein developed the theory of relativity, which completely transformed modern physics. His famous equation E = mc² showed the relationship between mass and energy. It helped inspire nuclear energy and space-time science."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "Isaac Newton",
+          "Isaac",
+          "Newton"
+        ],
+        "option_b": [
+          "Albert Einstein",
+          "albert",
+          "einstein"
+        ],
+        "option_c": [
+          "Galileo Galilei",
+          "galileo",
+          "galilei"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": ""
+    },
+    {
+      "id": "science_B7_19",
+      "que": "Which space telescope was launched by NASA in 1990?",
+      "ans": {
+        "value": "Hubble",
+        "correct_entity": "option_c"
+      },
+      "options": [
+        "James Webb",
+        "Kepler",
+        "Hubble"
+      ],
+      "expl": [
+        "NASA launched the Hubble Space Telescope in 1990. It has captured some of the most detailed images of space ever seen and transformed astronomy."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "James Webb",
+          "James",
+          "Webb",
+          "james web",
+          "web"
+        ],
+        "option_b": [
+          "Kepler"
+        ],
+        "option_c": [
+          "Hubble",
+          "herbal"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": ""
+    },
+    {
+      "id": "science_B7_20",
+      "que": "Which system produces hormones in the body?",
+      "ans": {
+        "value": "Endocrine",
+        "correct_entity": "option_b"
+      },
+      "options": [
+        "Digestive",
+        "Endocrine",
+        "Nervous"
+      ],
+      "expl": [
+        "The endocrine system produces and regulates hormones in the body through glands like the thyroid and pituitary. These hormones control growth, metabolism, and mood."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "Digestive"
+        ],
+        "option_b": [
+          "Endocrine"
+        ],
+        "option_c": [
+          "Nervous"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": ""
+    },
+    {
+      "id": "science_B7_21",
+      "que": "Which blood component helps in clotting?",
+      "ans": {
+        "value": "Platelets",
+        "correct_entity": "option_b"
+      },
+      "options": [
+        "Plasma",
+        "Platelets",
+        "Red cells"
+      ],
+      "expl": [
+        "Platelets are the part of the blood that help clotting by forming plugs at injury sites. Without them, even small cuts could be dangerous."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "Plasma"
+        ],
+        "option_b": [
+          "Platelets",
+          "Platelet",
+          "plate late"
+        ],
+        "option_c": [
+          "Red cells",
+          "Red",
+          "cells",
+          "red sale",
+          "red cell",
+          "red sell"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": ""
+    },
+    {
+      "id": "science_B7_22",
+      "que": "In which organ does a baby grow during pregnancy?",
+      "ans": {
+        "value": "Uterus",
+        "correct_entity": "option_b"
+      },
+      "options": [
+        "Stomach",
+        "Uterus",
+        "Ovary"
+      ],
+      "expl": [
+        "A baby develops in the uterus during pregnancy. It is a muscular organ that expands as the fetus grows."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "Stomach"
+        ],
+        "option_b": [
+          "Uterus"
+        ],
+        "option_c": [
+          "Ovary"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": ""
+    },
+    {
+      "id": "science_B7_23",
+      "que": "A mouth organ is also called what?",
+      "ans": {
+        "value": "Harmonica",
+        "correct_entity": "option_c"
+      },
+      "options": [
+        "Clarinet",
+        "Recorder",
+        "Harmonica"
+      ],
+      "expl": [
+        "A harmonica is often called a mouth organ because it's played by blowing and drawing air through reeds. It's common in blues, folk, and rock music."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "Clarinet"
+        ],
+        "option_b": [
+          "Recorder",
+          "record"
+        ],
+        "option_c": [
+          "Harmonica"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": ""
+    },
+    {
+      "id": "science_B7_24",
+      "que": "Epidemiology is the study of what?",
+      "ans": {
+        "value": "Diseases",
+        "correct_entity": "option_b"
+      },
+      "options": [
+        "Brain",
+        "Diseases",
+        "Genetics"
+      ],
+      "expl": [
+        "Epidemiology is the study of how diseases spread, who they affect, and how to control them. It plays a key role in public health and outbreak response."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "Brain"
+        ],
+        "option_b": [
+          "Diseases",
+          "Disease"
+        ],
+        "option_c": [
+          "Genetics",
+          "Genetic"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": ""
+    },
+    {
+      "id": "science_B7_25",
+      "que": "Who created the Periodic Table?",
+      "ans": {
+        "value": "Dmitri Mendeleev",
+        "correct_entity": "option_c"
+      },
+      "options": [
+        "Marie Curie",
+        "John Dalton",
+        "Dmitri Mendeleev"
+      ],
+      "expl": [
+        "Russian chemist Dmitri Mendeleev created the first widely recognized Periodic Table, organizing elements by atomic mass and properties. His work helped predict elements not yet discovered."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "Marie Curie",
+          "curie",
+          "marie",
+          "mary curry",
+          "marry curry",
+          "cury"
+        ],
+        "option_b": [
+          "John Dalton"
+        ],
+        "option_c": [
+          "Dmitri Mendeleev",
+          "Dmitri",
+          "Mendeleev",
+          "dimitri mantalai",
+          "dimitri mendeleya",
+          "dimitri mendelev",
+          "dimitri",
+          "dimitri mendeleev",
+          "dmitri mendelev",
+          "dmitry mendelev"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": ""
+    },
+    {
+      "id": "science_B7_26",
+      "que": "Arachnophobia is a fear of what?",
+      "ans": {
+        "value": "Spiders",
+        "correct_entity": "option_a"
+      },
+      "options": [
+        "Spiders",
+        "Heights",
+        "Snakes"
+      ],
+      "expl": [
+        "Arachnophobia is the intense fear of spiders. It's one of the most common specific phobias worldwide."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "Spiders",
+          "Spider"
+        ],
+        "option_b": [
+          "Heights",
+          "height"
+        ],
+        "option_c": [
+          "Snakes",
+          "snake"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": ""
+    },
+    {
+      "id": "science_B7_27",
+      "que": "Gregor Mendel studied genetics using what plant?",
+      "ans": {
+        "value": "Pea plants",
+        "correct_entity": "option_b"
+      },
+      "options": [
+        "Beans",
+        "Pea plants",
+        "Corn"
+      ],
+      "expl": [
+        "Gregor Mendel used pea plants to study genetics. His experiments revealed how traits are inherited through dominant and recessive genes."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "Beans",
+          "bean"
+        ],
+        "option_b": [
+          "Pea plants",
+          "Pea",
+          "plants",
+          "pea plant",
+          "pee plant",
+          "pee plants",
+          "pee plant",
+          "p. plant"
+        ],
+        "option_c": [
+          "Corn",
+          "call"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": ""
+    },
+    {
+      "id": "science_B7_28",
+      "que": "What is the outermost skin layer?",
+      "ans": {
+        "value": "Epidermis",
+        "correct_entity": "option_b"
+      },
+      "options": [
+        "Dermis",
+        "Epidermis",
+        "Hypodermis"
+      ],
+      "expl": [
+        "The epidermis is the outermost layer of the skin. It acts as a protective barrier against the environment."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "Dermis"
+        ],
+        "option_b": [
+          "Epidermis",
+          "Epiderm"
+        ],
+        "option_c": [
+          "Hypodermis",
+          "Q"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": ""
+    },
+    {
+      "id": "science_B7_29",
+      "que": "Which system includes skin, hair, and nails?",
+      "ans": {
+        "value": "Integumentary",
+        "correct_entity": "option_a"
+      },
+      "options": [
+        "Integumentary",
+        "Nervous",
+        "Digestive"
+      ],
+      "expl": [
+        "The integumentary system includes the skin, hair, and nails. It protects the body and helps regulate temperature."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "Integumentary"
+        ],
+        "option_b": [
+          "Nervous"
+        ],
+        "option_c": [
+          "Digestive"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": ""
+    },
+    {
+      "id": "science_B7_30",
+      "que": "What does FM stand for in radio?",
+      "ans": {
+        "value": "Frequency Modulation",
+        "correct_entity": "option_b"
+      },
+      "options": [
+        "Frequency Meter",
+        "Frequency Modulation",
+        "Field Magnetic"
+      ],
+      "expl": [
+        "In radio, FM stands for Frequency Modulation, a broadcasting method known for clearer sound quality than AM. It became widely used for music stations."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "Frequency Meter",
+          "Frequency",
+          "Meter"
+        ],
+        "option_b": [
+          "Frequency Modulation",
+          "Frequency",
+          "Modulation"
+        ],
+        "option_c": [
+          "Field Magnetic",
+          "Field",
+          "Magnetic"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": ""
+    },
+    {
+      "id": "science_B7_31",
+      "que": "Where is the ulna located?",
+      "ans": {
+        "value": "Arm",
+        "correct_entity": "option_b"
+      },
+      "options": [
+        "Leg",
+        "Arm",
+        "Spine"
+      ],
+      "expl": [
+        "The ulna is one of the two bones in the forearm, located on the side opposite the thumb. It works together with the radius to allow arm movement."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "Leg",
+          "legs"
+        ],
+        "option_b": [
+          "Arm",
+          "arms"
+        ],
+        "option_c": [
+          "Spine"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": ""
+    },
+    {
+      "id": "science_B7_32",
+      "que": "What is the first step in cell reproduction?",
+      "ans": {
+        "value": "Interphase",
+        "correct_entity": "option_b"
+      },
+      "options": [
+        "Prophase",
+        "Interphase",
+        "Cytokinesis"
+      ],
+      "expl": [
+        "Interphase is the first step of cell reproduction, when the cell grows and copies its DNA. Only after this stage does mitosis begin."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "Prophase"
+        ],
+        "option_b": [
+          "Interphase",
+          "inter phase",
+          "interface",
+          "inter face"
+        ],
+        "option_c": [
+          "Cytokinesis"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": ""
+    },
+    {
+      "id": "science_B7_33",
+      "que": "Where in the body is the hippocampus?",
+      "ans": {
+        "value": "Brain",
+        "correct_entity": "option_a"
+      },
+      "options": [
+        "Brain",
+        "Liver",
+        "Heart"
+      ],
+      "expl": [
+        "The hippocampus is a small, curved structure located in the brain. It plays a key role in forming memories and learning."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "Brain"
+        ],
+        "option_b": [
+          "Liver"
+        ],
+        "option_c": [
+          "Heart"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": ""
+    },
+    {
+      "id": "science_B7_34",
+      "que": "What is a volcano called that hasn't erupted but isn't extinct?",
+      "ans": {
+        "value": "Dormant",
+        "correct_entity": "option_b"
+      },
+      "options": [
+        "Active",
+        "Dormant",
+        "Sleeping"
+      ],
+      "expl": [
+        "A dormant volcano hasn't erupted in a long time but is not considered extinct. It still has the potential to erupt in the future."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "Active"
+        ],
+        "option_b": [
+          "Dormant"
+        ],
+        "option_c": [
+          "Sleeping"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": ""
+    },
+    {
+      "id": "science_B7_35",
+      "que": "Who was the first American woman in space?",
+      "ans": {
+        "value": "Sally Ride",
+        "correct_entity": "option_a"
+      },
+      "options": [
+        "Sally Ride",
+        "Amelia Earhart",
+        "Mae Jemison"
+      ],
+      "expl": [
+        "Sally Ride became the first American woman in space in 1983 aboard the Space Shuttle Challenger. She was only 32 at the time."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "Sally Ride",
+          "sally",
+          "ride"
+        ],
+        "option_b": [
+          "Amelia Earhart",
+          "amelia",
+          "earhart"
+        ],
+        "option_c": [
+          "Mae Jemison",
+          "mae",
+          "jemison",
+          "jamieson",
+          "may jamieson",
+          "may"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": ""
+    },
+    {
+      "id": "science_B7_36",
+      "que": "What are underground freshwater stores called?",
+      "ans": {
+        "value": "Aquifers",
+        "correct_entity": "option_b"
+      },
+      "options": [
+        "Caverns",
+        "Aquifers",
+        "Basins"
+      ],
+      "expl": [
+        "Aquifers are underground layers that hold fresh water in rock, gravel, or sand. Many cities rely on them for drinking water."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "Caverns",
+          "Cavern"
+        ],
+        "option_b": [
+          "Aquifers",
+          "equiface"
+        ],
+        "option_c": [
+          "Basins",
+          "basin"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": ""
+    },
+    {
+      "id": "science_B7_37",
+      "que": "What element is represented by Pt on the periodic table?",
+      "ans": {
+        "value": "Platinum",
+        "correct_entity": "option_b"
+      },
+      "options": [
+        "Plutonium",
+        "Platinum",
+        "Palladium"
+      ],
+      "expl": [
+        "Pt is the chemical symbol for platinum, a dense, precious metal often used in jewelry and catalysts."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "Plutonium"
+        ],
+        "option_b": [
+          "Platinum"
+        ],
+        "option_c": [
+          "Palladium"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": ""
+    },
+    {
+      "id": "science_B7_38",
+      "que": "What is the smallest prime number?",
+      "ans": {
+        "value": "Two",
+        "correct_entity": "option_b"
+      },
+      "options": [
+        "One",
+        "Two",
+        "Three"
+      ],
+      "expl": [
+        "Two is the smallest prime number-and the only even one. A prime number is divisible only by 1 and itself."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "One",
+          "1"
+        ],
+        "option_b": [
+          "Two",
+          "2"
+        ],
+        "option_c": [
+          "Three",
+          "3"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": ""
+    },
+    {
+      "id": "science_B7_39",
+      "que": "What is the largest internal human organ?",
+      "ans": {
+        "value": "Liver",
+        "correct_entity": "option_a"
+      },
+      "options": [
+        "Liver",
+        "Lungs",
+        "Heart"
+      ],
+      "expl": [
+        "The liver is the largest internal organ in the human body. It performs hundreds of vital functions, including detoxifying blood."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "Liver"
+        ],
+        "option_b": [
+          "Lungs",
+          "lung"
+        ],
+        "option_c": [
+          "Heart",
+          "hurts",
+          "hurt"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": ""
+    },
+    {
+      "id": "science_B7_40",
+      "que": "Which gas do plants absorb?",
+      "ans": {
+        "value": "Carbon Dioxide",
+        "correct_entity": "option_c"
+      },
+      "options": [
+        "Oxygen",
+        "Nitrogen",
+        "Carbon Dioxide"
+      ],
+      "expl": [
+        "Plants absorb carbon dioxide during photosynthesis and release oxygen. It's one of the key processes that supports life on Earth."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "Oxygen",
+          "o. two"
+        ],
+        "option_b": [
+          "Nitrogen",
+          "n. two"
+        ],
+        "option_c": [
+          "Carbon Dioxide",
+          "Carbon",
+          "Dioxide",
+          "c. o. two"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": ""
+    },
+    {
+      "id": "science_B7_41",
+      "que": "What is the fear of heights called?",
+      "ans": {
+        "value": "Acrophobia",
+        "correct_entity": "option_a"
+      },
+      "options": [
+        "Acrophobia",
+        "Claustrophobia",
+        "Hydrophobia"
+      ],
+      "expl": [
+        "Acrophobia is an intense fear of heights. Even looking down from a balcony or staircase can trigger panic for people with this phobia."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "Acrophobia"
+        ],
+        "option_b": [
+          "Claustrophobia"
+        ],
+        "option_c": [
+          "Hydrophobia"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": ""
+    },
+    {
+      "id": "science_B7_42",
+      "que": "Which disease is known as the 'silent killer'?",
+      "ans": {
+        "value": "Hypertension",
+        "correct_entity": "option_a"
+      },
+      "options": [
+        "Hypertension",
+        "Diabetes",
+        "Asthma"
+      ],
+      "expl": [
+        "Hypertension is called the \"silent killer\" because it usually shows no symptoms. If untreated, it can lead to heart disease, stroke, and kidney failure."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "Hypertension",
+          "hyper tension",
+          "hyper",
+          "tension"
+        ],
+        "option_b": [
+          "Diabetes"
+        ],
+        "option_c": [
+          "Asthma"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": ""
+    },
+    {
+      "id": "science_B7_43",
+      "que": "Who invented the World Wide Web?",
+      "ans": {
+        "value": "Tim Berners-Lee",
+        "correct_entity": "option_a"
+      },
+      "options": [
+        "Tim Berners-Lee",
+        "Bill Gates",
+        "Steve Jobs"
+      ],
+      "expl": [
+        "Tim Berners-Lee invented the World Wide Web in 1989 while working at CERN. His creation allowed people to access and share information through linked web pages."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "Tim Berners-Lee",
+          "Tim",
+          "Berners-Lee",
+          "berners lee",
+          "lee",
+          "berners",
+          "Team",
+          "Team Berners Lee"
+        ],
+        "option_b": [
+          "Bill Gates",
+          "bill",
+          "gates",
+          "bill gate"
+        ],
+        "option_c": [
+          "Steve Jobs",
+          "Steve",
+          "Jobs"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": ""
+    },
+    {
+      "id": "science_B7_44",
+      "que": "Who discovered penicillin?",
+      "ans": {
+        "value": "Alexander Fleming",
+        "correct_entity": "option_a"
+      },
+      "options": [
+        "Alexander Fleming",
+        "Marie Curie",
+        "Louis Pasteur"
+      ],
+      "expl": [
+        "Alexander Fleming discovered penicillin in 1928 after noticing mold killing bacteria in a petri dish. It became the first widely used antibiotic."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "Alexander Fleming",
+          "alexander",
+          "fleming"
+        ],
+        "option_b": [
+          "Marie Curie",
+          "curie",
+          "marie"
+        ],
+        "option_c": [
+          "Louis Pasteur",
+          "Louis",
+          "Pasteur"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": ""
+    },
+    {
+      "id": "science_B7_45",
+      "que": "How many 0's are in a googol?",
+      "ans": {
+        "value": "100",
+        "correct_entity": "option_a"
+      },
+      "options": [
+        "100",
+        "10",
+        "1000"
+      ],
+      "expl": [
+        "A googol is written as 1 followed by 100 zeros. It is far larger than the number of atoms in the observable universe."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "100",
+          "hundred",
+          "one hundred"
+        ],
+        "option_b": [
+          "10",
+          "ten"
+        ],
+        "option_c": [
+          "1000",
+          "thousand",
+          "thousands",
+          "one thousand"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": ""
+    },
+    {
+      "id": "science_B7_46",
+      "que": "How many sides does a trapezoid have?",
+      "ans": {
+        "value": "Four",
+        "correct_entity": "option_a"
+      },
+      "options": [
+        "Four",
+        "Three",
+        "Five"
+      ],
+      "expl": [
+        "A trapezoid has four sides, with at least one pair of parallel sides. It is a basic shape in geometry."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "Four",
+          "4"
+        ],
+        "option_b": [
+          "Three",
+          "3"
+        ],
+        "option_c": [
+          "Five",
+          "5"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": ""
+    },
+    {
+      "id": "science_B7_47",
+      "que": "Where is a shrimp's heart located?",
+      "ans": {
+        "value": "Head",
+        "correct_entity": "option_a"
+      },
+      "options": [
+        "Head",
+        "Chest",
+        "Tail"
+      ],
+      "expl": [
+        "A shrimp's heart is located in its head, not its chest. It sits behind the brain inside the thorax. Many of a shrimp's organs are clustered in that front section."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "Head"
+        ],
+        "option_b": [
+          "Chest"
+        ],
+        "option_c": [
+          "Tail",
+          "tell"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": ""
+    },
+    {
+      "id": "science_B7_48",
+      "que": "Which element has atomic number 79?",
+      "ans": {
+        "value": "Gold",
+        "correct_entity": "option_a"
+      },
+      "options": [
+        "Gold",
+        "Platinum",
+        "Silver"
+      ],
+      "expl": [
+        "Gold is the chemical element with atomic number 79. It is a highly valued precious metal used in jewelry, coins, and technology. Its symbol on the periodic table is Au."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "Gold"
+        ],
+        "option_b": [
+          "Platinum"
+        ],
+        "option_c": [
+          "Silver"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": ""
+    },
+    {
+      "id": "science_B7_49",
+      "que": "What's Saturn's largest moon?",
+      "ans": {
+        "value": "Titan",
+        "correct_entity": "option_a"
+      },
+      "options": [
+        "Titan",
+        "Ganymede",
+        "Europa"
+      ],
+      "expl": [
+        "Titan is the largest moon of Saturn. It has a thick atmosphere and lakes of liquid methane. It's one of the most Earth-like bodies in the solar system."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "Titan"
+        ],
+        "option_b": [
+          "Ganymede",
+          "ganymade"
+        ],
+        "option_c": [
+          "Europa"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": ""
+    },
+    {
+      "id": "science_B7_50",
+      "que": "How many edges does a cube have?",
+      "ans": {
+        "value": "12",
+        "correct_entity": "option_a"
+      },
+      "options": [
+        "12",
+        "8",
+        "6"
+      ],
+      "expl": [
+        "A cube has 12 edges. It also has 6 faces and 8 vertices (corners). All its edges are the same length."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "12",
+          "twelve",
+          "one two"
+        ],
+        "option_b": [
+          "8",
+          "eight"
+        ],
+        "option_c": [
+          "6",
+          "six"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": ""
+    },
+    {
+      "id": "science_B7_51",
+      "que": "What is a sun pillar?",
+      "ans": {
+        "value": "Light column",
+        "correct_entity": "option_a"
+      },
+      "options": [
+        "Light column",
+        "Sunbeam",
+        "Fire column"
+      ],
+      "expl": [
+        "A sun pillar is a vertical beam of light that appears near the sun at sunrise or sunset. It forms when sunlight reflects off ice crystals in the atmosphere. The effect can look like a glowing column in the sky"
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "Light column",
+          "Light",
+          "column"
+        ],
+        "option_b": [
+          "Sunbeam",
+          "Sun",
+          "beam",
+          "sun beam",
+          "son beam"
+        ],
+        "option_c": [
+          "Fire column",
+          "Fire"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": ""
+    },
+    {
+      "id": "science_B7_52",
+      "que": "How many ounces are in a pound?",
+      "ans": {
+        "value": "16",
+        "correct_entity": "option_a"
+      },
+      "options": [
+        "16",
+        "12",
+        "10"
+      ],
+      "expl": [
+        "There are 16 ounces in a pound in the U.S. measurement system. This applies to both weight and many food packages. The system is part of the imperial unit standard."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "16",
+          "sixteen"
+        ],
+        "option_b": [
+          "12",
+          "twelve"
+        ],
+        "option_c": [
+          "10",
+          "ten"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": ""
+    },
+    {
+      "id": "science_B7_53",
+      "que": "What did Alfred Nobel invent?",
+      "ans": {
+        "value": "Dynamite",
+        "correct_entity": "option_a"
+      },
+      "options": [
+        "Dynamite",
+        "Gunpowder",
+        "Radio"
+      ],
+      "expl": [
+        "Alfred Nobel invented dynamite in the 1860s. The invention made him wealthy, but also associated him with destruction. He later created the Nobel Prizes to support peace and achievement."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "Dynamite"
+        ],
+        "option_b": [
+          "Gunpowder",
+          "gun powder"
+        ],
+        "option_c": [
+          "Radio"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": ""
+    },
+    {
+      "id": "science_B7_54",
+      "que": "What type of tree is General Sherman?",
+      "ans": {
+        "value": "Sequoia",
+        "correct_entity": "option_a"
+      },
+      "options": [
+        "Sequoia",
+        "Redwood",
+        "Oak"
+      ],
+      "expl": [
+        "General Sherman is a giant sequoia tree in California's Sequoia National Park. It is the largest tree in the world by volume. The tree is estimated to be over 2,000 years old."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "Sequoia",
+          "sekoya",
+          "sikhaya"
+        ],
+        "option_b": [
+          "Redwood",
+          "red wood"
+        ],
+        "option_c": [
+          "Oak"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": ""
+    },
+    {
+      "id": "science_B7_55",
+      "que": "What powder is sprinkled on tiramisu?",
+      "ans": {
+        "value": "Espresso powder",
+        "correct_entity": "option_a"
+      },
+      "options": [
+        "Espresso powder",
+        "Cinnamon",
+        "Matcha"
+      ],
+      "expl": [
+        "Tiramisu is typically topped with espresso powder or cocoa powder. The dessert layers coffee-soaked ladyfingers with mascarpone cream. It originated in Italy."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "Espresso powder",
+          "Espresso",
+          "powder"
+        ],
+        "option_b": [
+          "Cinnamon"
+        ],
+        "option_c": [
+          "Matcha",
+          "match"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": ""
+    },
+    {
+      "id": "science_B7_56",
+      "que": "What is the function of a carburetor in an engine?",
+      "ans": {
+        "value": "Mix air and fuel",
+        "correct_entity": "option_a"
+      },
+      "options": [
+        "Mix air and fuel",
+        "Start engine",
+        "Cool engine"
+      ],
+      "expl": [
+        "A carburetor mixes air and fuel in the correct ratio for an internal combustion engine. This mixture is then sent to the engine cylinders for burning. Modern cars often use fuel injection instead of carburetors."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "Mix air and fuel",
+          "Mix",
+          "air",
+          "fuel",
+          "mix air at fuel"
+        ],
+        "option_b": [
+          "Start engine",
+          "Start",
+          "engine"
+        ],
+        "option_c": [
+          "Cool engine",
+          "Cool",
+          "engine",
+          "call engine"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": ""
+    },
+    {
+      "id": "science_B7_57",
+      "que": "Which muscle never tires?",
+      "ans": {
+        "value": "Cardiac",
+        "correct_entity": "option_a"
+      },
+      "options": [
+        "Cardiac",
+        "Bicep",
+        "Hamstring"
+      ],
+      "expl": [
+        "The cardiac muscle in the heart works continuously without resting. It pumps blood through the body every second of your life. Unlike other muscles, it doesn't fatigue under normal conditions."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "Cardiac"
+        ],
+        "option_b": [
+          "Bicep",
+          "Biceps"
+        ],
+        "option_c": [
+          "Hamstring",
+          "Ham string"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": ""
+    },
+    {
+      "id": "science_B7_58",
+      "que": "What is the name of Jupiter's largest moon?",
+      "ans": {
+        "value": "Ganymede",
+        "correct_entity": "option_a"
+      },
+      "options": [
+        "Ganymede",
+        "Europa",
+        "Io"
+      ],
+      "expl": [
+        "Ganymede is Jupiter's largest moon and the biggest moon in the entire solar system. It is even larger than the planet Mercury. NASA has studied it for possible underground oceans."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "Ganymede"
+        ],
+        "option_b": [
+          "Europa",
+          "Europe"
+        ],
+        "option_c": [
+          "Io",
+          "i. o."
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": ""
+    },
+    {
+      "id": "science_B7_59",
+      "que": "How many permanent teeth does the average adult human have?",
+      "ans": {
+        "value": "32",
+        "correct_entity": "option_a"
+      },
+      "options": [
+        "32",
+        "28",
+        "29"
+      ],
+      "expl": [
+        "Most adults have 32 permanent teeth, including the four wisdom teeth. These typically finish coming in by the late teenage years or early twenties. Some people have fewer if their wisdom teeth are removed."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "32",
+          "three two",
+          "thirty two"
+        ],
+        "option_b": [
+          "28",
+          "twenty eight",
+          "two eight"
+        ],
+        "option_c": [
+          "29",
+          "twenty nine",
+          "two nine"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": ""
+    },
+    {
+      "id": "science_B7_60",
+      "que": "Which planet in our solar system currently has the most known moons?",
+      "ans": {
+        "value": "Saturn",
+        "correct_entity": "option_a"
+      },
+      "options": [
+        "Saturn",
+        "Jupiter",
+        "Neptune"
+      ],
+      "expl": [
+        "Saturn currently has the most confirmed moons in the solar system. It overtook Jupiter as more moons were discovered in recent years. Many of Saturn's moons are small and irregular in shape."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "Saturn"
+        ],
+        "option_b": [
+          "Jupiter"
+        ],
+        "option_c": [
+          "Neptune"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": ""
+    }
+  ],
+  "IMAGE_QUESTIONS": [],
+  "AUDIO_QUESTIONS": []
+}

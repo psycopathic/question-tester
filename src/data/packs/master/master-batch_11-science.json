@@ -1,0 +1,2758 @@
+{
+  "TEXT_QUESTIONS": [
+    {
+      "id": "SCI_TEXT_01",
+      "que": "Which bird is famous for being unable to fly?",
+      "ans": {
+        "value": "Penguin",
+        "correct_entity": "option_c"
+      },
+      "options": [
+        "Sparrow",
+        "Eagle",
+        "Penguin"
+      ],
+      "expl": [
+        "The penguin is the bird famous for being unable to fly. Penguins may not be able to fly, but they are amazing swimmers and can \"fly\" through the water at incredible speeds. Their wings have evolved into flippers ideal for swimming rather than flight. Penguins are found almost exclusively in the Southern Hemisphere, especially Antarctica."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "Sparrow"
+        ],
+        "option_b": [
+          "Eagle"
+        ],
+        "option_c": [
+          "Penguin"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": "",
+      "roundType": "text"
+    },
+    {
+      "id": "SCI_TEXT_02",
+      "que": "Which part of the eye gives it its color?",
+      "ans": {
+        "value": "Iris",
+        "correct_entity": "option_b"
+      },
+      "options": [
+        "Retina",
+        "Iris",
+        "Cornea"
+      ],
+      "expl": [
+        "The iris is the part of the eye that gives it its color. Every person's iris pattern is unique—even identical twins don't have exactly the same iris patterns. The iris also controls how much light enters the eye by adjusting the pupil's size. Iris scanning is sometimes used as a form of biometric identification."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "Retina"
+        ],
+        "option_b": [
+          "Iris"
+        ],
+        "option_c": [
+          "Cornea"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": "",
+      "roundType": "text"
+    },
+    {
+      "id": "SCI_TEXT_03",
+      "que": "Which vitamin is produced by our skin when exposed to sunlight?",
+      "ans": {
+        "value": "D",
+        "correct_entity": "option_b"
+      },
+      "options": [
+        "A",
+        "D",
+        "K"
+      ],
+      "expl": [
+        "Vitamin D is the vitamin produced by our skin when exposed to sunlight. Vitamin D helps your body absorb calcium, keeping your bones and teeth strong. A deficiency in vitamin D can lead to weakened bones over time. It can also be obtained through certain foods and dietary supplements."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "A",
+          "vitamin a.",
+          "a."
+        ],
+        "option_b": [
+          "D",
+          "vitamin d.",
+          "d."
+        ],
+        "option_c": [
+          "K",
+          "k.",
+          "vitamin k."
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": "",
+      "roundType": "text"
+    },
+    {
+      "id": "SCI_TEXT_04",
+      "que": "What do bees collect from flowers to eventually make honey?",
+      "ans": {
+        "value": "Nectar",
+        "correct_entity": "option_b"
+      },
+      "options": [
+        "Pollen",
+        "Nectar",
+        "Sap"
+      ],
+      "expl": [
+        "Bees collect nectar from flowers to eventually make honey. Bees actually use pollen for protein and nectar for making honey. Nectar is a sugary liquid produced by flowers to attract pollinators. Bees convert the nectar they collect into honey through a process involving enzymes and evaporation."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "Pollen",
+          "collin"
+        ],
+        "option_b": [
+          "Nectar"
+        ],
+        "option_c": [
+          "Sap",
+          "zap",
+          "set"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": "",
+      "roundType": "text"
+    },
+    {
+      "id": "SCI_TEXT_05",
+      "que": "Which gas makes up the largest percentage of the air we breathe?",
+      "ans": {
+        "value": "Nitrogen",
+        "correct_entity": "option_b"
+      },
+      "options": [
+        "Oxygen",
+        "Nitrogen",
+        "Carbon Dioxide"
+      ],
+      "expl": [
+        "Nitrogen makes up the largest percentage of the air we breathe. Nitrogen makes up about 78% of Earth's atmosphere, far more than oxygen. It is a relatively inert gas, meaning it doesn't easily react with other substances. Nitrogen is essential for building proteins and DNA in living organisms."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "Oxygen"
+        ],
+        "option_b": [
+          "Nitrogen"
+        ],
+        "option_c": [
+          "Carbon Dioxide"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": "",
+      "roundType": "text"
+    },
+    {
+      "id": "SCI_TEXT_06",
+      "que": "Which state of matter has a fixed volume but no fixed shape?",
+      "ans": {
+        "value": "Liquid",
+        "correct_entity": "option_b"
+      },
+      "options": [
+        "Solid",
+        "Liquid",
+        "Gas"
+      ],
+      "expl": [
+        "A liquid is the state of matter that has a fixed volume but no fixed shape. Liquids take the shape of their container while keeping the same overall volume. Their particles are close together but can move and flow past one another. This is different from solids, where particles stay in a fixed structure."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "Solid"
+        ],
+        "option_b": [
+          "Liquid"
+        ],
+        "option_c": [
+          "Gas"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": "",
+      "roundType": "text"
+    },
+    {
+      "id": "SCI_TEXT_07",
+      "que": "Which planet takes the longest time to orbit the Sun?",
+      "ans": {
+        "value": "Neptune",
+        "correct_entity": "option_b"
+      },
+      "options": [
+        "Uranus",
+        "Neptune",
+        "Saturn"
+      ],
+      "expl": [
+        "Neptune is the planet that takes the longest time to orbit the Sun. If you celebrated your birthday on Neptune, you'd have to wait 165 Earth years for your next Neptune birthday! Neptune is the farthest known planet from the Sun in our solar system. It is known for its intense winds, among the fastest recorded in the solar system."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "Uranus"
+        ],
+        "option_b": [
+          "Neptune"
+        ],
+        "option_c": [
+          "Saturn"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": "",
+      "roundType": "text"
+    },
+    {
+      "id": "SCI_TEXT_08",
+      "que": "What gas do plants absorb from the air for photosynthesis?",
+      "ans": {
+        "value": "Carbon dioxide",
+        "correct_entity": "option_a"
+      },
+      "options": [
+        "Carbon dioxide",
+        "Nitrogen",
+        "Hydrogen"
+      ],
+      "expl": [
+        "Plants absorb carbon dioxide from the air for photosynthesis. They release oxygen as a byproduct of this process. Photosynthesis converts light energy into chemical energy stored in glucose. It mostly takes place in the chloroplasts of plant cells. Nearly all life on Earth depends, directly or indirectly, on photosynthesis for energy."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "Carbon dioxide"
+        ],
+        "option_b": [
+          "Nitrogen"
+        ],
+        "option_c": [
+          "Hydrogen"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": "",
+      "roundType": "text"
+    },
+    {
+      "id": "SCI_TEXT_09",
+      "que": "What is the chemical symbol for gold?",
+      "ans": {
+        "value": "Au",
+        "correct_entity": "option_a"
+      },
+      "options": [
+        "Au",
+        "Gd",
+        "Go"
+      ],
+      "expl": [
+        "The chemical symbol for gold is Au. It comes from the Latin word for gold, \"aurum.\" Gold is one of the least reactive metals, which is why it resists tarnishing. It's so malleable that one ounce can be stretched into a wire 80 kilometers long. Gold has an atomic number of 79 on the periodic table."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "Au",
+          "a. u."
+        ],
+        "option_b": [
+          "Gd",
+          "g. d."
+        ],
+        "option_c": [
+          "Go",
+          "g. o.",
+          "gho"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": "",
+      "roundType": "text"
+    },
+    {
+      "id": "SCI_TEXT_10",
+      "que": "How many bones are in the babies human body?",
+      "ans": {
+        "value": "Around 300",
+        "correct_entity": "option_b"
+      },
+      "options": [
+        "One hundred eighty six",
+        "Around 300",
+        "Two hundred fifty six"
+      ],
+      "expl": [
+        "Babies are born with around 300 bones, more than adults have. Many of these bones fuse together over time as a person grows. Adults end up with 206 bones once fusion is complete. Baby bones are softer and more flexible, made largely of cartilage. This flexibility helps babies pass through the birth canal more easily."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "One hundred eighty six",
+          "one hundred and eighty six",
+          "hundred and eighty six"
+        ],
+        "option_b": [
+          "Around 300",
+          "around three hundred",
+          "three"
+        ],
+        "option_c": [
+          "Two hundred fifty six",
+          "two hundred and fifty six",
+          "two fifty six",
+          "two five six"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": "",
+      "roundType": "text"
+    },
+    {
+      "id": "SCI_TEXT_11",
+      "que": "Which planet is closest to the sun?",
+      "ans": {
+        "value": "Mercury",
+        "correct_entity": "option_a"
+      },
+      "options": [
+        "Mercury",
+        "Earth",
+        "Mars"
+      ],
+      "expl": [
+        "Mercury is the planet closest to the sun. Despite this, it isn't the hottest planet — Venus is, due to its thick atmosphere. Mercury has virtually no atmosphere, causing extreme temperature swings. A year on Mercury lasts just 88 Earth days. It's also the smallest planet in our solar system."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "Mercury"
+        ],
+        "option_b": [
+          "Earth"
+        ],
+        "option_c": [
+          "Mars",
+          "marks"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": "",
+      "roundType": "text"
+    },
+    {
+      "id": "SCI_TEXT_12",
+      "que": "What force pulls objects toward the center of the Earth?",
+      "ans": {
+        "value": "Gravity",
+        "correct_entity": "option_c"
+      },
+      "options": [
+        "Magnetism",
+        "Friction",
+        "Gravity"
+      ],
+      "expl": [
+        "Gravity is the force that pulls objects toward the center of the Earth. Gravity on the Moon is about one sixth as strong as on Earth. Sir Isaac Newton formalized the law of universal gravitation in the 17th century. Gravity also keeps planets in orbit around the sun. Einstein later described gravity as the curvature of space and time in his general theory of relativity."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "Magnetism"
+        ],
+        "option_b": [
+          "Friction"
+        ],
+        "option_c": [
+          "Gravity"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": "",
+      "roundType": "text"
+    },
+    {
+      "id": "SCI_TEXT_13",
+      "que": "Which part of a cell contains its genetic material?",
+      "ans": {
+        "value": "Nucleus",
+        "correct_entity": "option_b"
+      },
+      "options": [
+        "Mitochondria",
+        "Nucleus",
+        "Ribosome"
+      ],
+      "expl": [
+        "The nucleus contains a cell's genetic material. It's often called the control center of the cell. The nucleus is enclosed by a membrane that regulates what enters and exits. DNA inside the nucleus is tightly coiled into structures called chromosomes. Not all cells have a nucleus — bacteria, for example, do not."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "Mitochondria"
+        ],
+        "option_b": [
+          "Nucleus"
+        ],
+        "option_c": [
+          "Ribosome"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": "",
+      "roundType": "text"
+    },
+    {
+      "id": "SCI_TEXT_14",
+      "que": "Which scientist developed the theory of general relativity?",
+      "ans": {
+        "value": "Albert Einstein",
+        "correct_entity": "option_c"
+      },
+      "options": [
+        "Isaac Newton",
+        "Niels Bohr",
+        "Albert Einstein"
+      ],
+      "expl": [
+        "Albert Einstein developed the theory of general relativity. He published the theory in 1915. General relativity describes gravity as the warping of space and time by mass. Einstein also won the Nobel Prize in Physics, though for his work on the photoelectric effect, not relativity. His famous equation, E=mc², relates energy and mass."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "Isaac Newton",
+          "issac",
+          "newton"
+        ],
+        "option_b": [
+          "Niels Bohr",
+          "niels",
+          "bohr",
+          "nines",
+          "niel"
+        ],
+        "option_c": [
+          "Albert Einstein",
+          "Albert",
+          "einstein"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": "",
+      "roundType": "text"
+    },
+    {
+      "id": "SCI_TEXT_15",
+      "que": "What is the chemical symbol for the element sodium?",
+      "ans": {
+        "value": "Na",
+        "correct_entity": "option_c"
+      },
+      "options": [
+        "So",
+        "Sd",
+        "Na"
+      ],
+      "expl": [
+        "Na is the chemical symbol for the element sodium. The symbol \"Na\" comes from \"natrium,\" the Latin name for sodium. Sodium is a soft, highly reactive metal that reacts violently with water. It is a key component of table salt, or sodium chloride."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "So",
+          "s. o."
+        ],
+        "option_b": [
+          "Sd",
+          "s. d."
+        ],
+        "option_c": [
+          "Na",
+          "n. a.",
+          "naa"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": "",
+      "roundType": "text"
+    },
+    {
+      "id": "SCI_TEXT_16",
+      "que": "Which blood type is often called the 'universal donor' because it's safe for almost anyone to receive?",
+      "ans": {
+        "value": "O negative",
+        "correct_entity": "option_b"
+      },
+      "options": [
+        "AB positive",
+        "O negative",
+        "B positive"
+      ],
+      "expl": [
+        "O negative is the blood type often called the \"universal donor\" because it's safe for almost anyone to receive. O negative blood lacks the antigens that can trigger immune reactions in most recipients. It is especially valuable in emergency situations when a patient's blood type is unknown. Despite its usefulness, O negative is relatively rare, found in only a small percentage of people."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "AB positive",
+          "a. b. positive",
+          "a. p. positive"
+        ],
+        "option_b": [
+          "O negative",
+          "o. negative"
+        ],
+        "option_c": [
+          "B positive",
+          "b. positive",
+          "be positive",
+          "bee positive"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": "",
+      "roundType": "text"
+    },
+    {
+      "id": "SCI_TEXT_17",
+      "que": "What is the name of the force that opposes motion between two surfaces sliding against each other?",
+      "ans": {
+        "value": "Friction",
+        "correct_entity": "option_a"
+      },
+      "options": [
+        "Friction",
+        "Gravity",
+        "Momentum"
+      ],
+      "expl": [
+        "Friction is the force that opposes motion between two surfaces sliding against each other. Without friction, walking, driving, and even holding objects would be nearly impossible. It occurs because of tiny irregularities on the surfaces in contact. Friction also generates heat, which is why rubbing your hands together warms them up."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "Friction"
+        ],
+        "option_b": [
+          "Gravity"
+        ],
+        "option_c": [
+          "Momentum"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": "",
+      "roundType": "text"
+    },
+    {
+      "id": "SCI_TEXT_18",
+      "que": "Which organ in the human body produces insulin to help regulate blood sugar?",
+      "ans": {
+        "value": "Pancreas",
+        "correct_entity": "option_b"
+      },
+      "options": [
+        "Liver",
+        "Pancreas",
+        "Kidney"
+      ],
+      "expl": [
+        "The pancreas is the organ in the human body that produces insulin to help regulate blood sugar. The pancreas also produces enzymes that help digest food. It sits behind the stomach and plays roles in both the digestive and endocrine systems. Insulin produced by the pancreas helps cells absorb glucose from the bloodstream."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "Liver",
+          "leaver",
+          "fever"
+        ],
+        "option_b": [
+          "Pancreas"
+        ],
+        "option_c": [
+          "Kidney"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": "",
+      "roundType": "text"
+    },
+    {
+      "id": "SCI_TEXT_19",
+      "que": "What is the hardest naturally occurring substance found on Earth?",
+      "ans": {
+        "value": "Diamond",
+        "correct_entity": "option_b"
+      },
+      "options": [
+        "Quartz",
+        "Diamond",
+        "Granite"
+      ],
+      "expl": [
+        "Diamond is the hardest naturally occurring substance found on Earth. Diamonds are made of pure carbon arranged in a very rigid crystal structure. They form deep within the Earth under extreme heat and pressure over millions of years. Diamonds are prized both for their hardness in industrial tools and their brilliance in jewelry."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "Quartz",
+          "quotes"
+        ],
+        "option_b": [
+          "Diamond"
+        ],
+        "option_c": [
+          "Granite"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": "",
+      "roundType": "text"
+    },
+    {
+      "id": "SCI_TEXT_20",
+      "que": "What is the process called when plants lose water vapor through tiny pores in their leaves?",
+      "ans": {
+        "value": "Transpiration",
+        "correct_entity": "option_a"
+      },
+      "options": [
+        "Transpiration",
+        "Respiration",
+        "Photosynthesis"
+      ],
+      "expl": [
+        "Transpiration is the process when plants lose water vapor through tiny pores in their leaves. Transpiration helps pull water and nutrients up from a plant's roots to its leaves. The tiny pores involved, called stomata, also allow gas exchange for photosynthesis. Weather conditions like heat and wind can increase the rate of transpiration."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "Transpiration"
+        ],
+        "option_b": [
+          "Respiration"
+        ],
+        "option_c": [
+          "Photosynthesis"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": "",
+      "roundType": "text"
+    },
+    {
+      "id": "SCI_TEXT_21",
+      "que": "How many chambers does the human heart have?",
+      "ans": {
+        "value": "Four",
+        "correct_entity": "option_c"
+      },
+      "options": [
+        "Two",
+        "Three",
+        "Four"
+      ],
+      "expl": [
+        "The human heart has four chambers. The four chambers are called the left and right atria, and the left and right ventricles. The atria receive blood, while the ventricles pump it out to the lungs and body. Valves between the chambers keep blood flowing in the correct direction."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "Two"
+        ],
+        "option_b": [
+          "Three"
+        ],
+        "option_c": [
+          "Four"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": "",
+      "roundType": "text"
+    },
+    {
+      "id": "SCI_TEXT_22",
+      "que": "Which scientist is best known for developing the theory of evolution by natural selection?",
+      "ans": {
+        "value": "Charles Darwin",
+        "correct_entity": "option_b"
+      },
+      "options": [
+        "Gregor Mendel",
+        "Charles Darwin",
+        "Louis Pasteur"
+      ],
+      "expl": [
+        "Charles Darwin is best known for developing the theory of evolution by natural selection. Darwin developed his theory partly after studying finches on the Galapagos Islands. He published his ideas in \"On the Origin of Species\" in 1859. Darwin's theory proposed that species change over generations as favorable traits are passed on."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "Gregor Mendel",
+          "gregor",
+          "mendel"
+        ],
+        "option_b": [
+          "Charles Darwin",
+          "charles",
+          "darwin"
+        ],
+        "option_c": [
+          "Louis Pasteur",
+          "louis",
+          "pasteur"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": "",
+      "roundType": "text"
+    },
+    {
+      "id": "SCI_TEXT_23",
+      "que": "What is the name of the star found at the very center of our solar system?",
+      "ans": {
+        "value": "Sun",
+        "correct_entity": "option_a"
+      },
+      "options": [
+        "Sun",
+        "Polaris",
+        "Sirius"
+      ],
+      "expl": [
+        "The Sun is the star found at the very center of our solar system. Light from the Sun takes about eight minutes to reach Earth. It is composed mostly of hydrogen and helium, generating energy through nuclear fusion. The Sun's gravity holds all the planets, moons, and other objects of the solar system in orbit."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "Sun",
+          "son"
+        ],
+        "option_b": [
+          "Polaris",
+          "polar is"
+        ],
+        "option_c": [
+          "Sirius",
+          "serious",
+          "siri up"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": "",
+      "roundType": "text"
+    },
+    {
+      "id": "SCI_TEXT_24",
+      "que": "Which vitamin does the human body produce when skin is exposed to sunlight?",
+      "ans": {
+        "value": "D",
+        "correct_entity": "option_b"
+      },
+      "options": [
+        "C",
+        "D",
+        "B12"
+      ],
+      "expl": [
+        "Vitamin D is the vitamin the human body produces when skin is exposed to sunlight. Vitamin D helps the body absorb calcium to keep bones strong. A lack of sufficient sunlight exposure can lead to vitamin D deficiency. It can also be found in foods like fatty fish, egg yolks, and fortified dairy products."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "C",
+          "c.",
+          "see",
+          "sea"
+        ],
+        "option_b": [
+          "D",
+          "d.",
+          "b."
+        ],
+        "option_c": [
+          "B12",
+          "b. twelve",
+          "p. twelve"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": "",
+      "roundType": "text"
+    },
+    {
+      "id": "SCI_TEXT_25",
+      "que": "What do we call the scientific study of earthquakes?",
+      "ans": {
+        "value": "Seismology",
+        "correct_entity": "option_c"
+      },
+      "options": [
+        "Geology",
+        "Meteorology",
+        "Seismology"
+      ],
+      "expl": [
+        "Seismology is the scientific study of earthquakes. Seismologists use instruments called seismographs to measure ground movement. The strength of an earthquake is commonly measured using the Richter or moment magnitude scale. Seismology also helps scientists study the structure of Earth's interior."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "Geology"
+        ],
+        "option_b": [
+          "Meteorology"
+        ],
+        "option_c": [
+          "Seismology"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": "",
+      "roundType": "text"
+    },
+    {
+      "id": "SCI_TEXT_26",
+      "que": "Which metal is unusual for being liquid at normal room temperature?",
+      "ans": {
+        "value": "Mercury",
+        "correct_entity": "option_a"
+      },
+      "options": [
+        "Mercury",
+        "Lead",
+        "Tin"
+      ],
+      "expl": [
+        "Mercury is the metal unusual for being liquid at normal room temperature. Mercury was historically used in thermometers because it expands evenly with heat. It is also highly toxic, which has led to its reduced use in many modern products. Mercury is sometimes called \"quicksilver\" due to its shiny, fast-moving liquid form."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "Mercury"
+        ],
+        "option_b": [
+          "Lead",
+          "lid"
+        ],
+        "option_c": [
+          "Tin"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": "",
+      "roundType": "text"
+    },
+    {
+      "id": "SCI_TEXT_27",
+      "que": "What do we call the smallest basic unit of life, found in all living organisms?",
+      "ans": {
+        "value": "Cell",
+        "correct_entity": "option_b"
+      },
+      "options": [
+        "Atom",
+        "Cell",
+        "Molecule"
+      ],
+      "expl": [
+        "A cell is the smallest basic unit of life, found in all living organisms. Some simple organisms, like bacteria, consist of just a single cell. Larger organisms, including humans, are made up of trillions of cells working together. Cells were first observed and named by scientist Robert Hooke in 1665."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "Atom"
+        ],
+        "option_b": [
+          "Cell",
+          "sell"
+        ],
+        "option_c": [
+          "Molecule"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": "",
+      "roundType": "text"
+    },
+    {
+      "id": "SCI_TEXT_28",
+      "que": "What do we call the layer of gases surrounding planet Earth?",
+      "ans": {
+        "value": "Atmosphere",
+        "correct_entity": "option_b"
+      },
+      "options": [
+        "Crust",
+        "Atmosphere",
+        "Ionosphere"
+      ],
+      "expl": [
+        "The atmosphere is the layer of gases surrounding planet Earth. Earth's atmosphere is made up mostly of nitrogen and oxygen. It also protects life on Earth by blocking harmful solar radiation and burning up most meteors. The atmosphere is divided into several layers, including the troposphere, stratosphere, and mesosphere."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "Crust",
+          "crushed"
+        ],
+        "option_b": [
+          "Atmosphere"
+        ],
+        "option_c": [
+          "Ionosphere"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": "",
+      "roundType": "text"
+    }
+  ],
+  "IMAGE_QUESTIONS": [
+    {
+      "id": "SCI_IMAGE_01",
+      "que": "Guess the planet shown in this image.",
+      "ans": {
+        "value": "Saturn",
+        "correct_entity": "option_b"
+      },
+      "options": [
+        "Jupiter",
+        "Saturn",
+        "Neptune"
+      ],
+      "expl": [
+        "Saturn is the planet shown in this image. Saturn's rings are made mostly of ice particles. It is the second-largest planet in the solar system, after Jupiter. Saturn has dozens of moons, including Titan, which has a thick atmosphere of its own."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "Jupiter"
+        ],
+        "option_b": [
+          "Saturn"
+        ],
+        "option_c": [
+          "Neptune"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "SCI_IMAGE_01.png",
+      "audioUrl": "",
+      "roundType": "image"
+    },
+    {
+      "id": "SCI_IMAGE_02",
+      "que": "What molecule is shown here?",
+      "ans": {
+        "value": "DNA",
+        "correct_entity": "option_a"
+      },
+      "options": [
+        "DNA",
+        "Protein",
+        "Enzyme"
+      ],
+      "expl": [
+        "This molecule is DNA. If stretched out, the DNA in your body would reach the sun and back many times. DNA is shaped like a double helix, resembling a twisted ladder. It carries the genetic instructions for nearly all known living organisms. Human DNA is about 99.9% identical between any two people."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "DNA",
+          "d. n. a."
+        ],
+        "option_b": [
+          "Protein"
+        ],
+        "option_c": [
+          "Enzyme"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "SCI_IMAGE_02.png",
+      "audioUrl": "",
+      "roundType": "image"
+    },
+    {
+      "id": "SCI_IMAGE_03",
+      "que": "What instrument is shown here?",
+      "ans": {
+        "value": "Telescope",
+        "correct_entity": "option_c"
+      },
+      "options": [
+        "Microscope",
+        "Binoculars",
+        "Telescope"
+      ],
+      "expl": [
+        "A telescope is the instrument shown here. Galileo was among the first to study the night sky with a telescope in 1609. Telescopes work by collecting and focusing light using lenses or mirrors. Modern telescopes, including space-based ones like Hubble, can capture images of galaxies billions of light-years away."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "Microscope"
+        ],
+        "option_b": [
+          "Binoculars",
+          "binocular"
+        ],
+        "option_c": [
+          "Telescope"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "SCI_IMAGE_03.png",
+      "audioUrl": "",
+      "roundType": "image"
+    },
+    {
+      "id": "SCI_IMAGE_04",
+      "que": "This icon represents which natural phenomenon?",
+      "ans": {
+        "value": "Lightning",
+        "correct_entity": "option_a"
+      },
+      "options": [
+        "Lightning",
+        "Rainbow",
+        "Aurora"
+      ],
+      "expl": [
+        "Lightning is the natural phenomenon represented by this icon. A single lightning bolt can be hotter than the surface of the sun. It results from the buildup and sudden release of electrical charge within storm clouds. Lightning strikes the Earth millions of times every day worldwide."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "Lightning",
+          "lighting"
+        ],
+        "option_b": [
+          "Rainbow"
+        ],
+        "option_c": [
+          "Aurora"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "SCI_IMAGE_04.png",
+      "audioUrl": "",
+      "roundType": "image"
+    },
+    {
+      "id": "SCI_IMAGE_05",
+      "que": "What natural landform is shown here?",
+      "ans": {
+        "value": "Volcano",
+        "correct_entity": "option_a"
+      },
+      "options": [
+        "Volcano",
+        "Mountain",
+        "Earthquake"
+      ],
+      "expl": [
+        "This natural landform is a volcano. There are over 1,500 active volcanoes on Earth. Volcanoes form when magma from beneath the crust escapes to the surface. Some volcanic eruptions can affect global climate by releasing ash and gases into the atmosphere. The \"Ring of Fire\" around the Pacific Ocean holds most of the world's active volcanoes."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "Volcano"
+        ],
+        "option_b": [
+          "Mountain"
+        ],
+        "option_c": [
+          "Earthquake"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "SCI_IMAGE_05.png",
+      "audioUrl": "",
+      "roundType": "image"
+    },
+    {
+      "id": "SCI_IMAGE_06",
+      "que": "Can you guess the object shown in the image?",
+      "ans": {
+        "value": "Magnet",
+        "correct_entity": "option_b"
+      },
+      "options": [
+        "Battery",
+        "Magnet",
+        "Conductor"
+      ],
+      "expl": [
+        "This object is a magnet. Earth itself acts like a giant magnet, which is why compasses work. Magnets have a north and south pole that attract or repel each other. Some materials, like iron and nickel, are naturally magnetic. Electromagnets can be switched on and off using electric current."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "Battery"
+        ],
+        "option_b": [
+          "Magnet"
+        ],
+        "option_c": [
+          "Conductor"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "SCI_IMAGE_06.png",
+      "audioUrl": "",
+      "roundType": "image"
+    },
+    {
+      "id": "SCI_IMAGE_07",
+      "que": "This icon commonly represents which type of organism?",
+      "ans": {
+        "value": "Bacteria",
+        "correct_entity": "option_b"
+      },
+      "options": [
+        "Virus",
+        "Bacteria",
+        "Parasite"
+      ],
+      "expl": [
+        "This icon commonly represents bacteria. There are more bacterial cells on and in your body than human cells. Bacteria are among the oldest forms of life on Earth. While some bacteria cause disease, many others are essential for digestion and health. Bacteria can reproduce extremely quickly, sometimes dividing every 20 minutes."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "Virus"
+        ],
+        "option_b": [
+          "Bacteria"
+        ],
+        "option_c": [
+          "Parasite"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "SCI_IMAGE_07.png",
+      "audioUrl": "",
+      "roundType": "image"
+    },
+    {
+      "id": "SCI_IMAGE_08",
+      "que": "Can you identify the planet shown in image?",
+      "ans": {
+        "value": "Jupiter",
+        "correct_entity": "option_c"
+      },
+      "options": [
+        "Venus",
+        "Saturn",
+        "Jupiter"
+      ],
+      "expl": [
+        "This planet is Jupiter, the largest planet of the solar system. It has a Great Red Spot, a giant storm larger than Earth that has raged for centuries. Jupiter has dozens of moons, including four large ones discovered by Galileo. It's primarily made of hydrogen and helium, similar in composition to the sun. Jupiter's strong gravity helps shield the inner planets from some asteroids and comets."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "Venus"
+        ],
+        "option_b": [
+          "Saturn"
+        ],
+        "option_c": [
+          "Jupiter"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "SCI_IMAGE_08.jpg",
+      "audioUrl": "",
+      "roundType": "image"
+    },
+    {
+      "id": "SCI_IMAGE_09",
+      "que": "Which simple machine is shown here?",
+      "ans": {
+        "value": "Pulley",
+        "correct_entity": "option_b"
+      },
+      "options": [
+        "Lever",
+        "Pulley",
+        "Wedge"
+      ],
+      "expl": [
+        "This simple machine is a pulley. Pulleys are used to lift heavy loads with less effort, like in cranes and flagpoles. They work by redirecting the force needed to lift an object. Combining multiple pulleys can multiply the lifting force even further. Pulleys are one of six classical simple machines identified since antiquity."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "Lever"
+        ],
+        "option_b": [
+          "Pulley",
+          "puli",
+          "bully",
+          "pulli"
+        ],
+        "option_c": [
+          "Wedge",
+          "veg",
+          "weg"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "SCI_IMAGE_09.jpg",
+      "audioUrl": "",
+      "roundType": "image"
+    },
+    {
+      "id": "SCI_IMAGE_10",
+      "que": "This element symbol 'O' stands for which element?",
+      "ans": {
+        "value": "Oxygen",
+        "correct_entity": "option_a"
+      },
+      "options": [
+        "Oxygen",
+        "Osmium",
+        "Gold"
+      ],
+      "expl": [
+        "The element symbol \"O\" stands for oxygen. Oxygen makes up about 21% of the air we breathe. It is essential for respiration in humans and most other living organisms. Oxygen also plays a key role in combustion, allowing things to burn."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "Oxygen"
+        ],
+        "option_b": [
+          "Osmium"
+        ],
+        "option_c": [
+          "Gold"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "SCI_IMAGE_10.png",
+      "audioUrl": "",
+      "roundType": "image"
+    },
+    {
+      "id": "SCI_IMAGE_11",
+      "que": "Which part of the plant is shown absorbing water and nutrients?",
+      "ans": {
+        "value": "Roots",
+        "correct_entity": "option_a"
+      },
+      "options": [
+        "Roots",
+        "Leaves",
+        "Stem"
+      ],
+      "expl": [
+        "Roots are the part of the plant shown absorbing water and nutrients. Roots can grow deep or wide depending on the type of soil and plant. They also anchor the plant firmly into the ground. Some roots, like those of carrots and beets, store food energy for the plant."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "Roots",
+          "root"
+        ],
+        "option_b": [
+          "Leaves",
+          "leave",
+          "leaf"
+        ],
+        "option_c": [
+          "Stem"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "SCI_IMAGE_11.jpg",
+      "audioUrl": "",
+      "roundType": "image"
+    },
+    {
+      "id": "SCI_IMAGE_12",
+      "que": "Which organ is highlighted in this diagram, responsible for pumping blood?",
+      "ans": {
+        "value": "Heart",
+        "correct_entity": "option_a"
+      },
+      "options": [
+        "Heart",
+        "Lungs",
+        "Liver"
+      ],
+      "expl": [
+        "The heart is the organ highlighted in this diagram, responsible for pumping blood. The human heart beats about 100,000 times a day. It has four chambers that work together to circulate blood throughout the body. The heart pumps roughly 7,500 liters of blood every day in an adult."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "Heart"
+        ],
+        "option_b": [
+          "Lungs",
+          "lung"
+        ],
+        "option_c": [
+          "Liver"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "SCI_IMAGE_12.jpg",
+      "audioUrl": "",
+      "roundType": "image"
+    },
+    {
+      "id": "SCI_IMAGE_13",
+      "que": "This colorful spiral shape represents which scientific structure?",
+      "ans": {
+        "value": "DNA",
+        "correct_entity": "option_a"
+      },
+      "options": [
+        "DNA",
+        "Atom",
+        "Cell"
+      ],
+      "expl": [
+        "This colorful spiral shape represents DNA. If you stretched out all the DNA in your body, it would reach the sun and back many times. Its double-helix shape was first described by Watson and Crick in 1953. DNA is made of four chemical bases: adenine, thymine, guanine, and cytosine. Every cell in your body with a nucleus contains a complete copy of your DNA."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "DNA",
+          "d. n. a."
+        ],
+        "option_b": [
+          "Atom"
+        ],
+        "option_c": [
+          "Cell",
+          "sell",
+          "self"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "SCI_IMAGE_13.png",
+      "audioUrl": "",
+      "roundType": "image"
+    },
+    {
+      "id": "SCI_IMAGE_14",
+      "que": "Which state of matter is shown here as ice?",
+      "ans": {
+        "value": "Solid",
+        "correct_entity": "option_a"
+      },
+      "options": [
+        "Solid",
+        "Liquid",
+        "Gas"
+      ],
+      "expl": [
+        "Ice represents the solid state of matter shown here. Water is one of the few substances that expands when it freezes. This is why ice floats on top of liquid water rather than sinking. In a solid, particles are packed tightly together and vibrate in fixed positions."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "Solid"
+        ],
+        "option_b": [
+          "Liquid"
+        ],
+        "option_c": [
+          "Gas"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "SCI_IMAGE_14.jpg",
+      "audioUrl": "",
+      "roundType": "image"
+    },
+    {
+      "id": "SCI_IMAGE_15",
+      "que": "This colorful arc appears in the sky after rain. What is it?",
+      "ans": {
+        "value": "Rainbow",
+        "correct_entity": "option_a"
+      },
+      "options": [
+        "Rainbow",
+        "Aurora",
+        "Halo"
+      ],
+      "expl": [
+        "A rainbow is the colorful arc that appears in the sky after rain. A rainbow is formed when light is refracted, reflected, and dispersed in water droplets. Sunlight splits into its full spectrum of colors as it passes through raindrops. Rainbows always appear opposite the sun in the sky."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "Rainbow"
+        ],
+        "option_b": [
+          "Aurora"
+        ],
+        "option_c": [
+          "Halo",
+          "hello"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "SCI_IMAGE_15.jpg",
+      "audioUrl": "",
+      "roundType": "image"
+    },
+    {
+      "id": "SCI_IMAGE_16",
+      "que": "Which tool is used to view very tiny objects like cells?",
+      "ans": {
+        "value": "Microscope",
+        "correct_entity": "option_a"
+      },
+      "options": [
+        "Microscope",
+        "Telescope",
+        "Binoculars"
+      ],
+      "expl": [
+        "A microscope is the tool used to view very tiny objects like cells. The first microscope was invented in the late 1500s in the Netherlands. Modern microscopes can magnify objects thousands of times their actual size. Microscopes have been essential to discoveries in biology, medicine, and materials science."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "Microscope"
+        ],
+        "option_b": [
+          "Telescope"
+        ],
+        "option_c": [
+          "Binoculars",
+          "binocular"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "SCI_IMAGE_16.jpg",
+      "audioUrl": "",
+      "roundType": "image"
+    },
+    {
+      "id": "SCI_IMAGE_17",
+      "que": "This diagram shows which cycle involving water?",
+      "ans": {
+        "value": "water cycle",
+        "correct_entity": "option_a"
+      },
+      "options": [
+        "water cycle",
+        "carbon cycle",
+        "rock cycle"
+      ],
+      "expl": [
+        "This diagram shows the water cycle. About 97% of Earth's water is found in the oceans. The cycle includes evaporation, condensation, precipitation, and collection stages. Water continuously moves between the oceans, atmosphere, and land through this ongoing process."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "water cycle",
+          "watercycle",
+          "water"
+        ],
+        "option_b": [
+          "carbon cycle",
+          "carbon",
+          "carboncycle"
+        ],
+        "option_c": [
+          "rock cycle",
+          "rock",
+          "rockcycle"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "SCI_IMAGE_17.jpg",
+      "audioUrl": "",
+      "roundType": "image"
+    },
+    {
+      "id": "SCI_IMAGE_18",
+      "que": "This colorful layered diagram shows different levels of which structure inside the Earth?",
+      "ans": {
+        "value": "Earth's layers",
+        "correct_entity": "option_a"
+      },
+      "options": [
+        "Earth's layers",
+        "Ocean floor",
+        "Volcano"
+      ],
+      "expl": [
+        "This colorful layered diagram shows Earth's layers: the core, mantle, and crust. Earth's inner core is solid despite temperatures as hot as the sun's surface, due to immense pressure. The mantle is the thickest layer, made of slow-moving semi-solid rock. The crust, the outermost layer, is thin compared to the layers beneath it."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "Earth's layers",
+          "earths layers",
+          "earth's layer",
+          "earths layer",
+          "earth"
+        ],
+        "option_b": [
+          "Ocean floor",
+          "ocean",
+          "floor"
+        ],
+        "option_c": [
+          "Volcano"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "SCI_IMAGE_18.png",
+      "audioUrl": "",
+      "roundType": "image"
+    },
+    {
+      "id": "SCI_IMAGE_19",
+      "que": "This diagram shows tiny building blocks with a nucleus and orbiting particles. What is it?",
+      "ans": {
+        "value": "Atom",
+        "correct_entity": "option_a"
+      },
+      "options": [
+        "Atom",
+        "Cell",
+        "Molecule"
+      ],
+      "expl": [
+        "This diagram shows an atom. Atoms are so small that millions could fit across the width of a human hair. An atom's nucleus contains protons and neutrons, with electrons orbiting around it. Nearly all of an atom's mass is concentrated in its tiny nucleus. Atoms combine in different ways to form all the matter we see around us."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "Atom"
+        ],
+        "option_b": [
+          "Cell",
+          "sell",
+          "self"
+        ],
+        "option_c": [
+          "Molecule"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "SCI_IMAGE_19.png",
+      "audioUrl": "",
+      "roundType": "image"
+    },
+    {
+      "id": "SCI_IMAGE_20",
+      "que": "Which natural light display, seen in polar skies, is shown in this photo?",
+      "ans": {
+        "value": "Aurora Borealis",
+        "correct_entity": "option_a"
+      },
+      "options": [
+        "Aurora Borealis",
+        "Rainbow",
+        "Solar eclipse"
+      ],
+      "expl": [
+        "The Aurora Borealis is the natural light display shown in this photo, seen in polar skies. The Aurora Borealis is caused by charged particles from the sun colliding with Earth's atmosphere. These collisions release energy in the form of glowing green, pink, and purple lights. The phenomenon is best seen near the North Pole, in places like Norway, Iceland, and Alaska."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "Aurora Borealis",
+          "aurora",
+          "borealis"
+        ],
+        "option_b": [
+          "Rainbow"
+        ],
+        "option_c": [
+          "Solar eclipse",
+          "solar",
+          "eclipse"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "SCI_IMAGE_20.jpg",
+      "audioUrl": "",
+      "roundType": "image"
+    },
+    {
+      "id": "SCI_IMAGE_21",
+      "que": "What is this rare event called when the Moon passes between the Sun and Earth?",
+      "ans": {
+        "value": "Solar eclipse",
+        "correct_entity": "option_a"
+      },
+      "options": [
+        "Solar eclipse",
+        "Lunar eclipse",
+        "Supermoon"
+      ],
+      "expl": [
+        "A solar eclipse is the rare event when the moon passes directly between the sun and Earth. During a total solar eclipse, day can briefly turn to darkness. It only occurs during a new moon phase, when the moon's orbit aligns just right. Solar eclipses are visible only from specific, narrow paths on Earth's surface."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "Solar eclipse",
+          "solar",
+          "eclipse"
+        ],
+        "option_b": [
+          "Lunar eclipse",
+          "lunar",
+          "eclipse"
+        ],
+        "option_c": [
+          "Supermoon",
+          "super moon"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "SCI_IMAGE_21.jpg",
+      "audioUrl": "",
+      "roundType": "image"
+    },
+    {
+      "id": "SCI_IMAGE_22",
+      "que": "This diagram shows the full framework of bones inside the human body. What is it called?",
+      "ans": {
+        "value": "skeleton",
+        "correct_entity": "option_a"
+      },
+      "options": [
+        "skeleton",
+        "nervous system",
+        "muscular system"
+      ],
+      "expl": [
+        "This diagram shows the human skeleton, the full framework of bones inside the body. An adult human skeleton has 206 bones, though babies are born with more. The skeleton supports the body's shape and protects vital organs like the brain and heart. Bones also store minerals such as calcium and produce blood cells within their marrow."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "skeleton"
+        ],
+        "option_b": [
+          "nervous system",
+          "now voice system",
+          "nervous"
+        ],
+        "option_c": [
+          "muscular system",
+          "muscular"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "SCI_IMAGE_22.jpg",
+      "audioUrl": "",
+      "roundType": "image"
+    },
+    {
+      "id": "SCI_IMAGE_23",
+      "que": "This tightly packed hexagonal pattern is built naturally by which insect?",
+      "ans": {
+        "value": "Bee",
+        "correct_entity": "option_c"
+      },
+      "options": [
+        "Ant",
+        "Wasp",
+        "Bee"
+      ],
+      "expl": [
+        "A bee builds the tightly packed hexagonal pattern shown here. Bees build hexagonal cells because that shape uses the least wax for the most storage space. Each cell can store honey, pollen, or a developing bee larva. A single hive may contain thousands of these hexagonal cells."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "Ant"
+        ],
+        "option_b": [
+          "Wasp"
+        ],
+        "option_c": [
+          "Bee",
+          "be",
+          "b."
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "SCI_IMAGE_23.jpg",
+      "audioUrl": "",
+      "roundType": "image"
+    },
+    {
+      "id": "SCI_IMAGE_24",
+      "que": "This tool with a bulb of liquid is used to measure body or air temperature. What is it called?",
+      "ans": {
+        "value": "Thermometer",
+        "correct_entity": "option_b"
+      },
+      "options": [
+        "Barometer",
+        "Thermometer",
+        "Hygrometer"
+      ],
+      "expl": [
+        "A thermometer is the tool with a bulb of liquid used to measure body or air temperature. Early thermometers used mercury, but many now use safer alcohol-based liquids. Thermometers work because liquids expand predictably as they heat up. Digital thermometers today often use electronic sensors instead of liquid columns."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "Barometer"
+        ],
+        "option_b": [
+          "Thermometer"
+        ],
+        "option_c": [
+          "Hygrometer"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "SCI_IMAGE_24.jpg",
+      "audioUrl": "",
+      "roundType": "image"
+    },
+    {
+      "id": "SCI_IMAGE_25",
+      "que": "What is this medical tool used to listen to the heart and lungs called?",
+      "ans": {
+        "value": "Stethoscope",
+        "correct_entity": "option_a"
+      },
+      "options": [
+        "Stethoscope",
+        "Otoscope",
+        "Thermometer"
+      ],
+      "expl": [
+        "A stethoscope is the medical tool with earpieces and a chest piece used to listen to the heart and lungs. The stethoscope was invented in 1816 by a French doctor. It works by amplifying internal body sounds so doctors can detect abnormalities. Modern stethoscopes can be acoustic or electronic for enhanced sound clarity."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "Stethoscope"
+        ],
+        "option_b": [
+          "Otoscope",
+          "autoscope"
+        ],
+        "option_c": [
+          "Thermometer"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "SCI_IMAGE_25.jpg",
+      "audioUrl": "",
+      "roundType": "image"
+    },
+    {
+      "id": "SCI_IMAGE_26",
+      "que": "What is this laboratory glassware used for measure and mix liquids called",
+      "ans": {
+        "value": "beaker",
+        "correct_entity": "option_a"
+      },
+      "options": [
+        "beaker",
+        "funnel",
+        "flask"
+      ],
+      "expl": [
+        "A beaker is the laboratory glassware used to measure and mix liquids during experiments. Beakers usually have a small spout to make pouring liquids easier. They come in various sizes, marked with volume measurements for approximate readings. Beakers are among the most commonly used pieces of equipment in science labs."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "beaker",
+          "breaker"
+        ],
+        "option_b": [
+          "funnel",
+          "tunnel"
+        ],
+        "option_c": [
+          "flask"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "SCI_IMAGE_26.jpg",
+      "audioUrl": "",
+      "roundType": "image"
+    },
+    {
+      "id": "SCI_IMAGE_27",
+      "que": "This diagram shows the sun with all the planets orbiting around it. What is it called?",
+      "ans": {
+        "value": "solar system",
+        "correct_entity": "option_b"
+      },
+      "options": [
+        "galaxy map",
+        "solar system",
+        "star chart"
+      ],
+      "expl": [
+        "This diagram shows the solar system, with the sun and all the planets orbiting around it. Our solar system also includes dwarf planets, moons, asteroids, and comets. The sun's gravity holds all these objects in orbit around it. The eight planets are grouped into rocky inner planets and gas giant outer planets."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "galaxy map",
+          "galaxy",
+          "map"
+        ],
+        "option_b": [
+          "solar system",
+          "solar",
+          "system"
+        ],
+        "option_c": [
+          "star chart",
+          "star",
+          "chart",
+          "start chart",
+          "start chat",
+          "star chat"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "SCI_IMAGE_27.jpg",
+      "audioUrl": "",
+      "roundType": "image"
+    }
+  ],
+  "AUDIO_QUESTIONS": [
+    {
+      "id": "SCI_AUDIO_01",
+      "que": "What natural sound is this?",
+      "ans": {
+        "value": "Thunder",
+        "correct_entity": "option_a"
+      },
+      "options": [
+        "Thunder",
+        "Earthquake",
+        "Volcano"
+      ],
+      "expl": [
+        "This natural sound is thunder. Thunder is the sound created by lightning heating the air to five times the temperature of the sun's surface. The rapid expansion of superheated air produces the loud crack we hear. You can estimate a storm's distance by counting seconds between lightning and thunder. Thunder can be heard from many kilometers away, depending on terrain and weather."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "Thunder"
+        ],
+        "option_b": [
+          "Earthquake"
+        ],
+        "option_c": [
+          "Volcano"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": "SCI_AUDIO_01.mp3",
+      "roundType": "audio"
+    },
+    {
+      "id": "SCI_AUDIO_02",
+      "que": "What sound is this?",
+      "ans": {
+        "value": "Rocket launch",
+        "correct_entity": "option_a"
+      },
+      "options": [
+        "Rocket launch",
+        "Airplane takeoff",
+        "Fireworks"
+      ],
+      "expl": [
+        "This sound is a rocket launch. A rocket launch can produce sound levels over 200 decibels, loud enough to damage hearing instantly up close. Engineers use water deluge systems at launch pads to help dampen the intense sound waves. The roar comes from hot exhaust gases expanding rapidly as they exit the engine. Sound from a launch can sometimes be felt as a physical vibration, not just heard."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "Rocket launch",
+          "rocket"
+        ],
+        "option_b": [
+          "Airplane takeoff",
+          "airplane take off"
+        ],
+        "option_c": [
+          "Fireworks",
+          "firework"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": "SCI_AUDIO_02.mp3",
+      "roundType": "audio"
+    },
+    {
+      "id": "SCI_AUDIO_03",
+      "que": "What is this rhythmic sound doctors listen to with a stethoscope?",
+      "ans": {
+        "value": "Heartbeat",
+        "correct_entity": "option_a"
+      },
+      "options": [
+        "Heartbeat",
+        "Breathing",
+        "Blood flow"
+      ],
+      "expl": [
+        "This rhythmic sound doctors listen to with a stethoscope is a heartbeat. A healthy adult heart beats about 60 to 100 times per minute at rest. The \"lub-dub\" sound comes from heart valves closing as blood moves through the chambers. Doctors use it to check for irregular rhythms or potential heart issues. An athlete's resting heart rate can be significantly lower due to cardiovascular fitness."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "Heartbeat",
+          "heart beat"
+        ],
+        "option_b": [
+          "Breathing"
+        ],
+        "option_c": [
+          "Blood flow",
+          "blood"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": "SCI_AUDIO_03.mp3",
+      "roundType": "audio"
+    },
+    {
+      "id": "SCI_AUDIO_04",
+      "que": "What natural event produces this rumbling sound?",
+      "ans": {
+        "value": "Volcanic eruption",
+        "correct_entity": "option_a"
+      },
+      "options": [
+        "Volcanic eruption",
+        "Landslide",
+        "Tornado"
+      ],
+      "expl": [
+        "This rumbling sound is produced by a volcanic eruption. Some volcanic eruptions are loud enough to be heard thousands of kilometers away. The sound comes from an explosive release of gas and pressure built up inside the volcano. Ash and shockwaves from major eruptions can circle the globe. Scientists monitor these sounds, along with seismic activity, to help predict eruptions."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "Volcanic eruption",
+          "volcanic",
+          "weuption"
+        ],
+        "option_b": [
+          "Landslide",
+          "landside",
+          "land",
+          "slide"
+        ],
+        "option_c": [
+          "Tornado"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": "SCI_AUDIO_04.mp3",
+      "roundType": "audio"
+    },
+    {
+      "id": "SCI_AUDIO_05",
+      "que": "What is this whooshing sound?",
+      "ans": {
+        "value": "Wind storm",
+        "correct_entity": "option_a"
+      },
+      "options": [
+        "Wind storm",
+        "Ocean waves",
+        "Waterfall"
+      ],
+      "expl": [
+        "This whooshing sound is a wind storm. The fastest wind speed ever recorded on Earth was 407 km/h during a tornado. Wind sounds are created by air rushing past objects and through gaps at high speed. Severe wind storms can uproot trees and damage buildings. Meteorologists track wind speed and direction to issue storm warnings."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "Wind storm",
+          "windstorm"
+        ],
+        "option_b": [
+          "Ocean waves",
+          "ocean"
+        ],
+        "option_c": [
+          "Waterfall"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": "SCI_AUDIO_05.mp3",
+      "roundType": "audio"
+    },
+    {
+      "id": "SCI_AUDIO_06",
+      "que": "What sound is this crackling noise?",
+      "ans": {
+        "value": "Fire burning",
+        "correct_entity": "option_a"
+      },
+      "options": [
+        "Fire burning",
+        "Ice cracking",
+        "Waterfall"
+      ],
+      "expl": [
+        "This crackling noise is fire burning. Fire crackles because trapped water and air pockets in wood rapidly expand and burst. The popping sounds are tiny explosions of steam escaping the wood's fibers. Different types of wood produce different crackling sounds depending on moisture and density. Fire has been used by humans for warmth, cooking, and light for hundreds of thousands of years."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "Fire burning",
+          "fire"
+        ],
+        "option_b": [
+          "Ice cracking",
+          "ice",
+          "eyes cracking",
+          "eyes"
+        ],
+        "option_c": [
+          "Waterfall",
+          "water",
+          "fall",
+          "water fall"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": "SCI_AUDIO_06.mp3",
+      "roundType": "audio"
+    },
+    {
+      "id": "SCI_AUDIO_07",
+      "que": "What is this steady pattering sound?",
+      "ans": {
+        "value": "Rain falling",
+        "correct_entity": "option_c"
+      },
+      "options": [
+        "Tornado",
+        "Landslide",
+        "Rain falling"
+      ],
+      "expl": [
+        "This steady pattering sound is rain falling. The smell after rain is called \"petrichor.\" Rain forms when water vapor in clouds condenses into droplets heavy enough to fall. Petrichor comes from oils released by plants and bacteria in the soil."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "Tornado"
+        ],
+        "option_b": [
+          "Landslide",
+          "land slides",
+          "land slide",
+          "land sides",
+          "landsides",
+          "landslides"
+        ],
+        "option_c": [
+          "Rain falling",
+          "rain",
+          "rain fall"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": "SCI_AUDIO_07.mp3",
+      "roundType": "audio"
+    },
+    {
+      "id": "SCI_AUDIO_08",
+      "que": "What sound is this?",
+      "ans": {
+        "value": "Ocean waves",
+        "correct_entity": "option_a"
+      },
+      "options": [
+        "Ocean waves",
+        "Vacuum cleaner",
+        "Earthquake"
+      ],
+      "expl": [
+        "This sound is ocean waves. Ocean waves are mostly caused by wind blowing across the water's surface. Larger waves can also be generated by storms, earthquakes, or gravitational pull from the moon. The rhythmic crash of waves against the shore is a defining sound of coastlines worldwide."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "Ocean waves",
+          "ocean",
+          "waves",
+          "ocean wave"
+        ],
+        "option_b": [
+          "Vacuum cleaner",
+          "vaccum"
+        ],
+        "option_c": [
+          "Earthquake"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": "SCI_AUDIO_08.mp3",
+      "roundType": "audio"
+    },
+    {
+      "id": "SCI_AUDIO_09",
+      "que": "What machine sound is this?",
+      "ans": {
+        "value": "Engine running",
+        "correct_entity": "option_c"
+      },
+      "options": [
+        "Vacuum cleaner",
+        "Blender",
+        "Engine running"
+      ],
+      "expl": [
+        "This machine sound is an engine running. A car engine can have over 200 moving parts working together. Internal combustion engines generate power by burning fuel in small, controlled explosions. Engine sounds vary depending on the number of cylinders and how the engine is tuned."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "Vacuum cleaner"
+        ],
+        "option_b": [
+          "Blender"
+        ],
+        "option_c": [
+          "Engine running",
+          "engine",
+          "running"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": "SCI_AUDIO_09.mp3",
+      "roundType": "audio"
+    },
+    {
+      "id": "SCI_AUDIO_10",
+      "que": "What natural event causes this deep rumbling underground sound?",
+      "ans": {
+        "value": "Earthquake",
+        "correct_entity": "option_a"
+      },
+      "options": [
+        "Earthquake",
+        "Ocean waves",
+        "Waterfall"
+      ],
+      "expl": [
+        "This deep rumbling underground sound is an earthquake. Earthquakes are measured using the Richter or moment magnitude scale. They occur when built-up stress along fault lines is suddenly released. The rumbling sound comes from seismic waves traveling through the ground. Most earthquakes are too small to be felt, but some cause major damage."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "Earthquake"
+        ],
+        "option_b": [
+          "Ocean waves"
+        ],
+        "option_c": [
+          "Waterfall"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": "SCI_AUDIO_10.mp3",
+      "roundType": "audio"
+    },
+    {
+      "id": "SCI_AUDIO_11",
+      "que": "What gentle, tinkling sound is this, often heard outdoors on a breezy day?",
+      "ans": {
+        "value": "Wind chimes",
+        "correct_entity": "option_a"
+      },
+      "options": [
+        "Wind chimes",
+        "Bells ringing",
+        "Glass breaking"
+      ],
+      "expl": [
+        "This gentle, tinkling sound, often heard outdoors on a breezy day, is wind chimes. Wind chimes work because moving air causes the hanging tubes to strike each other. They are traditionally made of metal, wood, or bamboo, each producing a different tone. Wind chimes are used in many cultures both for their sound and as decorative garden pieces."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "Wind chimes",
+          "wind",
+          "chimes",
+          "wind chime"
+        ],
+        "option_b": [
+          "Bells ringing",
+          "bell ringing",
+          "bells",
+          "ringing"
+        ],
+        "option_c": [
+          "Glass breaking",
+          "grass breaking",
+          "glass",
+          "grass",
+          "breaking"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": "SCI_AUDIO_11.mp3",
+      "roundType": "audio"
+    },
+    {
+      "id": "SCI_AUDIO_12",
+      "que": "What sound is this, made by water reaching a very high temperature?",
+      "ans": {
+        "value": "Boiling water",
+        "correct_entity": "option_a"
+      },
+      "options": [
+        "Boiling water",
+        "Ice melting",
+        "Steam engine"
+      ],
+      "expl": [
+        "This sound, made by water reaching a very high temperature, is boiling water. Water boils when its vapor pressure equals the surrounding air pressure. At sea level, water boils at 100 degrees Celsius, though this changes with altitude. The bubbling sound comes from vapor rapidly forming and rising through the liquid."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "Boiling water",
+          "boiling",
+          "water"
+        ],
+        "option_b": [
+          "Ice melting",
+          "ice",
+          "melting",
+          "eyes",
+          "eyes melting"
+        ],
+        "option_c": [
+          "Steam engine",
+          "steam",
+          "engine"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": "SCI_AUDIO_12.mp3",
+      "roundType": "audio"
+    },
+    {
+      "id": "SCI_AUDIO_13",
+      "que": "What natural sound is this, made by large ice sheets slowly cracking apart?",
+      "ans": {
+        "value": "Glacier cracking",
+        "correct_entity": "option_a"
+      },
+      "options": [
+        "Glacier cracking",
+        "Earthquake",
+        "Avalanche"
+      ],
+      "expl": [
+        "This natural sound, made by large ice sheets slowly cracking apart, is glacier cracking. This cracking sound, sometimes called 'ice quakes', can be heard from kilometers away. It occurs as pressure builds and shifts within massive bodies of ice. Glacier cracking is becoming more frequently studied as scientists track melting ice due to climate change."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "Glacier cracking",
+          "glacier"
+        ],
+        "option_b": [
+          "Earthquake"
+        ],
+        "option_c": [
+          "Avalanche"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": "SCI_AUDIO_13.mp3",
+      "roundType": "audio"
+    },
+    {
+      "id": "SCI_AUDIO_14",
+      "que": "What sharp crackling sound is this, caused by a sudden discharge of electricity?",
+      "ans": {
+        "value": "Static electricity",
+        "correct_entity": "option_a"
+      },
+      "options": [
+        "Static electricity",
+        "Satellite signal",
+        "Lightning strike"
+      ],
+      "expl": [
+        "This sharp crackling sound, caused by a sudden discharge of electricity, is static electricity. This happens when built-up electric charge suddenly jumps between two surfaces. It commonly occurs when two materials rub together, transferring electrons. Dry weather conditions tend to make static electricity more noticeable."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "Static electricity",
+          "static",
+          "electricity"
+        ],
+        "option_b": [
+          "Satellite signal",
+          "satellite",
+          "signal"
+        ],
+        "option_c": [
+          "Lightning strike",
+          "lightning",
+          "strike"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": "SCI_AUDIO_14.mp3",
+      "roundType": "audio"
+    },
+    {
+      "id": "SCI_AUDIO_15",
+      "que": "Which device, used to detect radiation, makes this rapid clicking sound?",
+      "ans": {
+        "value": "Geiger counter",
+        "correct_entity": "option_a"
+      },
+      "options": [
+        "Geiger counter",
+        "Satellite signal",
+        "Seismograph"
+      ],
+      "expl": [
+        "A Geiger counter is the device used to detect radiation that makes this rapid clicking sound. The faster the clicking, the higher the level of radiation being detected. It works by detecting charged particles that ionize gas inside a small tube. Geiger counters are widely used in nuclear facilities, laboratories, and radiation safety checks."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "Geiger counter",
+          "geiger",
+          "counter",
+          "tiger counter"
+        ],
+        "option_b": [
+          "Satellite signal",
+          "satellite",
+          "signal"
+        ],
+        "option_c": [
+          "Seismograph"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": "SCI_AUDIO_15.mp3",
+      "roundType": "audio"
+    },
+    {
+      "id": "SCI_AUDIO_16",
+      "que": "What technology produces this rhythmic pinging sound used to detect objects underwater?",
+      "ans": {
+        "value": "sonar",
+        "correct_entity": "option_c"
+      },
+      "options": [
+        "Seismograph",
+        "Radar",
+        "sonar"
+      ],
+      "expl": [
+        "Sonar is the technology that produces this rhythmic pinging sound used to detect objects underwater. Sonar works by sending sound waves out and listening for their echo to bounce back. It is widely used by submarines, ships, and marine researchers to map the ocean floor. Many marine animals, like dolphins and whales, use a natural form of sonar called echolocation."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "Seismograph"
+        ],
+        "option_b": [
+          "Radar"
+        ],
+        "option_c": [
+          "sonar",
+          "sonal",
+          "solar"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": "SCI_AUDIO_16.mp3",
+      "roundType": "audio"
+    },
+    {
+      "id": "SCI_AUDIO_17",
+      "que": "What natural disaster produces this powerful rumbling sound as snow and ice rush down a mountain?",
+      "ans": {
+        "value": "Avalanche",
+        "correct_entity": "option_a"
+      },
+      "options": [
+        "Avalanche",
+        "Rainfall",
+        "Snowfall"
+      ],
+      "expl": [
+        "An avalanche is the natural disaster that produces this powerful rumbling sound as snow and ice rush down a mountain. Avalanches can reach speeds of over 100 kilometers per hour within seconds. They are often triggered by heavy snowfall, temperature changes, or vibrations on unstable slopes. Avalanches pose serious risks to skiers, climbers, and mountain communities."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "Avalanche"
+        ],
+        "option_b": [
+          "Rainfall",
+          "rain fall"
+        ],
+        "option_c": [
+          "Snowfall",
+          "snow fall"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": "SCI_AUDIO_17.mp3",
+      "roundType": "audio"
+    },
+    {
+      "id": "SCI_AUDIO_18",
+      "que": "What weather event produces this sharp, tapping sound as ice pellets fall from the sky?",
+      "ans": {
+        "value": "Hailstorm",
+        "correct_entity": "option_b"
+      },
+      "options": [
+        "Snowstorm",
+        "Hailstorm",
+        "Rainstorm"
+      ],
+      "expl": [
+        "A hailstorm is the weather event that produces this sharp, tapping sound as ice pellets fall from the sky. Hailstones form when strong updrafts carry raindrops high enough to freeze. The stones can grow larger as they are carried repeatedly through freezing layers of a storm cloud. Large hailstones can cause significant damage to crops, vehicles, and buildings."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "Snowstorm",
+          "no storm",
+          "snow storm",
+          "snow"
+        ],
+        "option_b": [
+          "Hailstorm",
+          "hail storm",
+          "hell storm",
+          "hellstorm"
+        ],
+        "option_c": [
+          "Rainstorm",
+          "rain storm",
+          "rain"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": "SCI_AUDIO_18.mp3",
+      "roundType": "audio"
+    },
+    {
+      "id": "SCI_AUDIO_19",
+      "que": "What natural sound is this, made by a large volume of water falling from a height?",
+      "ans": {
+        "value": "Waterfall",
+        "correct_entity": "option_c"
+      },
+      "options": [
+        "Rapids",
+        "River stream",
+        "Waterfall"
+      ],
+      "expl": [
+        "A waterfall is the natural feature producing this powerful rushing sound of falling water. The largest waterfalls can create so much mist that it forms visible rainbows nearby. Waterfalls form where a river flows over a sudden drop in elevation, often due to erosion-resistant rock layers. Some of the world's tallest waterfalls, like Angel Falls in Venezuela, drop nearly a kilometer."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "Rapids",
+          "rabit",
+          "rapid"
+        ],
+        "option_b": [
+          "River stream",
+          "river",
+          "stream"
+        ],
+        "option_c": [
+          "Waterfall",
+          "water fall"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": "SCI_AUDIO_19.mp3",
+      "roundType": "audio"
+    },
+    {
+      "id": "SCI_AUDIO_20",
+      "que": "What weather event is producing this howling, gritty wind sound?",
+      "ans": {
+        "value": "Sandstorm",
+        "correct_entity": "option_a"
+      },
+      "options": [
+        "Sandstorm",
+        "Hurricane",
+        "Tornado"
+      ],
+      "expl": [
+        "A sandstorm is the weather event producing this howling, gritty wind sound. Sandstorms can reduce visibility to almost zero and travel for hundreds of kilometers. They form when strong winds lift loose sand and dust from dry, arid regions. Sandstorms are most common in desert areas such as the Sahara and the Arabian Peninsula."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "Sandstorm",
+          "sand storm",
+          "sand"
+        ],
+        "option_b": [
+          "Hurricane",
+          "you already can",
+          "yuriken"
+        ],
+        "option_c": [
+          "Tornado"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": "SCI_AUDIO_20.mp3",
+      "roundType": "audio"
+    },
+    {
+      "id": "SCI_AUDIO_21",
+      "que": "Which laboratory tool produces this soft hissing flame sound?",
+      "ans": {
+        "value": "Bunsen burner",
+        "correct_entity": "option_a"
+      },
+      "options": [
+        "Bunsen burner",
+        "Candle",
+        "Blowtorch"
+      ],
+      "expl": [
+        "A Bunsen burner is the laboratory tool producing this soft hissing flame sound. A Bunsen burner mixes gas with air to create a clean, hot flame for experiments. It was popularized in the 1850s by German chemist Robert Bunsen. The flame's color and heat can be adjusted by controlling the airflow into the burner."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "Bunsen burner",
+          "bunsen",
+          "burner"
+        ],
+        "option_b": [
+          "Candle"
+        ],
+        "option_c": [
+          "Blowtorch",
+          "blow torch",
+          "low torch",
+          "lowtorch"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": "SCI_AUDIO_21.mp3",
+      "roundType": "audio"
+    },
+    {
+      "id": "SCI_AUDIO_22",
+      "que": "What renewable energy device is producing this steady whooshing sound as its blades turn?",
+      "ans": {
+        "value": "Wind turbine",
+        "correct_entity": "option_b"
+      },
+      "options": [
+        "Water wheel",
+        "Wind turbine",
+        "Ceiling fan"
+      ],
+      "expl": [
+        "A wind turbine is the renewable energy device producing this steady whooshing sound as its blades turn. A single large wind turbine can generate enough electricity to power hundreds of homes. Wind turbines convert kinetic energy from moving air into electricity using large rotating blades. Many countries are expanding wind farms as part of efforts to reduce reliance on fossil fuels."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "Water wheel",
+          "water",
+          "wheel",
+          "water bill",
+          "water will"
+        ],
+        "option_b": [
+          "Wind turbine",
+          "winter wine",
+          "wind",
+          "turbine"
+        ],
+        "option_c": [
+          "Ceiling fan",
+          "ceiling",
+          "fan"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": "SCI_AUDIO_22.mp3",
+      "roundType": "audio"
+    },
+    {
+      "id": "SCI_AUDIO_23",
+      "que": "What natural hot-water feature is producing this bubbling, hissing sound before it erupts?",
+      "ans": {
+        "value": "Geyser",
+        "correct_entity": "option_a"
+      },
+      "options": [
+        "Geyser",
+        "Hot spring",
+        "Volcano"
+      ],
+      "expl": [
+        "A geyser is the natural hot-water feature producing this bubbling, hissing sound before it erupts. Famous geysers like Old Faithful erupt at fairly predictable intervals. Geysers form when groundwater is heated by volcanic activity until pressure forces it to burst upward. They are found in only a few places worldwide, including Yellowstone National Park and Iceland."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "Geyser"
+        ],
+        "option_b": [
+          "Hot spring",
+          "spring"
+        ],
+        "option_c": [
+          "Volcano"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": "SCI_AUDIO_23.mp3",
+      "roundType": "audio"
+    },
+    {
+      "id": "SCI_AUDIO_24",
+      "que": "What fizzing, bubbling sound is this?",
+      "ans": {
+        "value": "chemical reaction",
+        "correct_entity": "option_a"
+      },
+      "options": [
+        "chemical reaction",
+        "Boiling water",
+        "Carbonated soda"
+      ],
+      "expl": [
+        "A chemical reaction is producing this fizzing, bubbling sound. This fizzing often happens when an acid reacts with a base, releasing gas bubbles. Such reactions can produce carbon dioxide, which forms the visible bubbles and fizzing sound. Chemists use these reactions in experiments to demonstrate how substances transform into new compounds."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "chemical reaction",
+          "chemical"
+        ],
+        "option_b": [
+          "Boiling water",
+          "boiling",
+          "water"
+        ],
+        "option_c": [
+          "Carbonated soda",
+          "soda",
+          "carbonated"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": "SCI_AUDIO_24.mp3",
+      "roundType": "audio"
+    }
+  ]
+}

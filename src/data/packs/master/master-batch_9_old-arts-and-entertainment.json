@@ -1,0 +1,730 @@
+{
+  "TEXT_QUESTIONS": [
+    {
+      "id": "art-and-entertainment_B9_1",
+      "que": "Which Shakespeare play features the characters Romeo and Juliet?",
+      "ans": {
+        "value": "Romeo and Juliet",
+        "correct_entity": "option_b"
+      },
+      "options": [
+        "A Midsummer Night's Dream",
+        "Romeo and Juliet",
+        "Hamlet"
+      ],
+      "expl": [
+        "Romeo and Juliet is a tragic play by William Shakespeare, written between 1594 and 1596. It tells the story of two young lovers from feuding families in Verona, Italy. It is one of Shakespeare's most famous plays and has been adapted into countless films and stage productions."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "A Midsummer Night's Dream",
+          "midsummer nights dream",
+          "midsummer dream"
+        ],
+        "option_b": [
+          "Romeo and Juliet",
+          "romeo juliet"
+        ],
+        "option_c": [
+          "Hamlet"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": ""
+    },
+    {
+      "id": "art-and-entertainment_B9_2",
+      "que": "How many strings does a standard guitar have?",
+      "ans": {
+        "value": "Six",
+        "correct_entity": "option_b"
+      },
+      "options": [
+        "Four",
+        "Six",
+        "Eight"
+      ],
+      "expl": [
+        "A standard guitar has six strings. They are typically tuned to E, A, D, G, B, and E from lowest to highest pitch. Bass guitars usually have four strings, and some guitars can have seven, eight, or twelve strings."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "Four",
+          "4"
+        ],
+        "option_b": [
+          "Six",
+          "6"
+        ],
+        "option_c": [
+          "Eight",
+          "8"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": ""
+    },
+    {
+      "id": "art-and-entertainment_B9_3",
+      "que": "Who wrote 'Harry Potter and the Philosopher's Stone'?",
+      "ans": {
+        "value": "J.K. Rowling",
+        "correct_entity": "option_b"
+      },
+      "options": [
+        "J.R.R. Tolkien",
+        "J.K. Rowling",
+        "Roald Dahl"
+      ],
+      "expl": [
+        "Harry Potter and the Philosopher's Stone was written by J.K. Rowling and published in 1997. It is the first book in the seven-part Harry Potter series. The series follows the adventures of young wizard Harry Potter and his friends at the Hogwarts School of Witchcraft and Wizardry."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "J.R.R. Tolkien",
+          "tolkien",
+          "jrr tolkien",
+          "j r r tolkien"
+        ],
+        "option_b": [
+          "J.K. Rowling",
+          "rowling",
+          "jk rowling",
+          "j k rowling"
+        ],
+        "option_c": [
+          "Roald Dahl",
+          "dahl"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": ""
+    },
+    {
+      "id": "art-and-entertainment_B9_4",
+      "que": "Which movie won the first Academy Award for Best Picture?",
+      "ans": {
+        "value": "Wings",
+        "correct_entity": "option_a"
+      },
+      "options": [
+        "Wings",
+        "It Happened One Night",
+        "Gone with the Wind"
+      ],
+      "expl": [
+        "Wings won the first Academy Award for Best Picture at the inaugural Academy Awards ceremony in 1929, honoring films from 1927 and 1928. It is a silent war film directed by William A. Wellman about two rival pilots in love with the same woman during World War I."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "Wings",
+          "wings 1927"
+        ],
+        "option_b": [
+          "It Happened One Night"
+        ],
+        "option_c": [
+          "Gone with the Wind",
+          "gwtw"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": ""
+    },
+    {
+      "id": "art-and-entertainment_B9_5",
+      "que": "What instrument does a pianist play?",
+      "ans": {
+        "value": "Piano",
+        "correct_entity": "option_c"
+      },
+      "options": [
+        "Violin",
+        "Harp",
+        "Piano"
+      ],
+      "expl": [
+        "A pianist plays the piano. The piano is a keyboard instrument invented around 1700 by Bartolomeo Cristofori. It produces sound by hammers striking strings when keys are pressed. There are two main types: grand pianos and upright pianos."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "Violin",
+          "fiddle"
+        ],
+        "option_b": [
+          "Harp"
+        ],
+        "option_c": [
+          "Piano",
+          "pianoforte",
+          "keyboard"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": ""
+    },
+    {
+      "id": "art-and-entertainment_B9_6",
+      "que": "Which artist is known for the painting 'The Starry Night'?",
+      "ans": {
+        "value": "Vincent van Gogh",
+        "correct_entity": "option_b"
+      },
+      "options": [
+        "Paul Gauguin",
+        "Vincent van Gogh",
+        "Pablo Picasso"
+      ],
+      "expl": [
+        "The Starry Night was painted by Vincent van Gogh in June 1889 while he was in the Saint-Paul-de-Mausole asylum in France. It depicts a swirling night sky over a village. The painting is now housed at the Museum of Modern Art in New York City."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "Paul Gauguin",
+          "gauguin"
+        ],
+        "option_b": [
+          "Vincent van Gogh",
+          "van gogh",
+          "vincent"
+        ],
+        "option_c": [
+          "Pablo Picasso",
+          "picasso"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": ""
+    },
+    {
+      "id": "art-and-entertainment_B9_7",
+      "que": "Which band was Freddie Mercury the lead singer of?",
+      "ans": {
+        "value": "Queen",
+        "correct_entity": "option_c"
+      },
+      "options": [
+        "The Rolling Stones",
+        "Led Zeppelin",
+        "Queen"
+      ],
+      "expl": [
+        "Freddie Mercury was the lead vocalist and a founding member of the rock band Queen. Formed in London in 1970, Queen is known for hits like Bohemian Rhapsody, We Will Rock You, and Don't Stop Me Now. Mercury died in 1991 from bronchopneumonia caused by AIDS."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "The Rolling Stones",
+          "rolling stones",
+          "the stones"
+        ],
+        "option_b": [
+          "Led Zeppelin",
+          "zeppelin"
+        ],
+        "option_c": [
+          "Queen",
+          "the band queen"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": ""
+    },
+    {
+      "id": "art-and-entertainment_B9_8",
+      "que": "In the novel '1984' by George Orwell, who is the totalitarian leader?",
+      "ans": {
+        "value": "Big Brother",
+        "correct_entity": "option_b"
+      },
+      "options": [
+        "Emmanuel Goldstein",
+        "Big Brother",
+        "Winston Smith"
+      ],
+      "expl": [
+        "In George Orwell's dystopian novel 1984, published in 1949, Big Brother is the mysterious totalitarian leader of Oceania. The phrase 'Big Brother is watching you' has become a cultural symbol for oppressive surveillance. Winston Smith is the protagonist who rebels against the regime."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "Emmanuel Goldstein",
+          "goldstein"
+        ],
+        "option_b": [
+          "Big Brother"
+        ],
+        "option_c": [
+          "Winston Smith",
+          "winston"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": ""
+    },
+    {
+      "id": "art-and-entertainment_B9_9",
+      "que": "What nationality was composer Ludwig van Beethoven?",
+      "ans": {
+        "value": "German",
+        "correct_entity": "option_b"
+      },
+      "options": [
+        "Austrian",
+        "German",
+        "Italian"
+      ],
+      "expl": [
+        "Ludwig van Beethoven was German, born in Bonn in 1770. He is considered one of the greatest composers of all time. Despite becoming deaf later in his life, he continued to compose masterworks including his Ninth Symphony, which he composed while completely deaf."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "Austrian",
+          "austria"
+        ],
+        "option_b": [
+          "German",
+          "germany"
+        ],
+        "option_c": [
+          "Italian",
+          "italy"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": ""
+    },
+    {
+      "id": "art-and-entertainment_B9_10",
+      "que": "Which Disney movie features a young lion named Simba?",
+      "ans": {
+        "value": "The Lion King",
+        "correct_entity": "option_b"
+      },
+      "options": [
+        "Aladdin",
+        "The Lion King",
+        "The Jungle Book"
+      ],
+      "expl": [
+        "The Lion King is the Disney movie that features a young lion named Simba who must take his place as king. It was first released in 1994, has a popular Broadway musical version, and is one of the highest-grossing animated films of all time."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "Aladdin"
+        ],
+        "option_b": [
+          "The Lion King",
+          "lion king"
+        ],
+        "option_c": [
+          "The Jungle Book",
+          "jungle book"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": ""
+    },
+    {
+      "id": "art-and-entertainment_B9_11",
+      "que": "Which colorful musical instrument do you blow into and slide your hands along to play?",
+      "ans": {
+        "value": "Trombone",
+        "correct_entity": "option_b"
+      },
+      "options": [
+        "Drums",
+        "Trombone",
+        "Violin"
+      ],
+      "expl": [
+        "A trombone is a brass instrument played by blowing into a mouthpiece and moving a long slide back and forth to change notes. Trombones are popular in jazz bands, marching bands, and orchestras, and they make a deep, warm sound."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "Drums",
+          "drum"
+        ],
+        "option_b": [
+          "Trombone"
+        ],
+        "option_c": [
+          "Violin"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": ""
+    },
+    {
+      "id": "art-and-entertainment_B9_12",
+      "que": "Which director made the movie 'Jurassic Park'?",
+      "ans": {
+        "value": "Steven Spielberg",
+        "correct_entity": "option_b"
+      },
+      "options": [
+        "George Lucas",
+        "Steven Spielberg",
+        "James Cameron"
+      ],
+      "expl": [
+        "Jurassic Park was directed by Steven Spielberg and released in 1993. Based on Michael Crichton's novel, it tells the story of a theme park where genetically engineered dinosaurs have been created from ancient DNA. The film was groundbreaking in its use of CGI and animatronics."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "George Lucas",
+          "lucas"
+        ],
+        "option_b": [
+          "Steven Spielberg",
+          "spielberg",
+          "steve spielberg"
+        ],
+        "option_c": [
+          "James Cameron",
+          "cameron"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": ""
+    },
+    {
+      "id": "art-and-entertainment_B9_13",
+      "que": "Which opera house is located in Sydney, Australia?",
+      "ans": {
+        "value": "The Sydney Opera House",
+        "correct_entity": "option_c"
+      },
+      "options": [
+        "The Royal Opera House",
+        "The Metropolitan Opera",
+        "The Sydney Opera House"
+      ],
+      "expl": [
+        "The Sydney Opera House is located on Bennelong Point in Sydney Harbour, Australia. Designed by Danish architect Jørn Utzon, it was completed in 1973 and is one of the most recognizable buildings in the world. It became a UNESCO World Heritage Site in 2007."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "The Royal Opera House",
+          "royal opera house",
+          "covent garden"
+        ],
+        "option_b": [
+          "The Metropolitan Opera",
+          "met opera",
+          "metropolitan opera"
+        ],
+        "option_c": [
+          "The Sydney Opera House",
+          "sydney opera house",
+          "opera house"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": ""
+    },
+    {
+      "id": "art-and-entertainment_B9_14",
+      "que": "Who wrote the novel 'Moby-Dick'?",
+      "ans": {
+        "value": "Herman Melville",
+        "correct_entity": "option_a"
+      },
+      "options": [
+        "Herman Melville",
+        "Mark Twain",
+        "Ernest Hemingway"
+      ],
+      "expl": [
+        "Moby-Dick was written by Herman Melville and published in 1851. The novel tells the story of Captain Ahab's obsessive quest to kill Moby Dick, the white sperm whale. Though initially a commercial failure, it is now considered one of the greatest works of American literature."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "Herman Melville",
+          "melville"
+        ],
+        "option_b": [
+          "Mark Twain",
+          "twain"
+        ],
+        "option_c": [
+          "Ernest Hemingway",
+          "hemingway"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": ""
+    },
+    {
+      "id": "art-and-entertainment_B9_15",
+      "que": "What is the name of the fictional detective created by Arthur Conan Doyle?",
+      "ans": {
+        "value": "Sherlock Holmes",
+        "correct_entity": "option_b"
+      },
+      "options": [
+        "Hercule Poirot",
+        "Sherlock Holmes",
+        "Philip Marlowe"
+      ],
+      "expl": [
+        "Sherlock Holmes is the fictional detective created by Scottish author Arthur Conan Doyle. Holmes first appeared in 1887 in the novel A Study in Scarlet. Known for his powers of deduction and his companion Dr. Watson, Holmes lives at 221B Baker Street in London."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "Hercule Poirot",
+          "poirot",
+          "hercule"
+        ],
+        "option_b": [
+          "Sherlock Holmes",
+          "sherlock",
+          "holmes"
+        ],
+        "option_c": [
+          "Philip Marlowe",
+          "marlowe"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": ""
+    },
+    {
+      "id": "art-and-entertainment_B9_16",
+      "que": "Which band sang 'Hey Jude'?",
+      "ans": {
+        "value": "The Beatles",
+        "correct_entity": "option_c"
+      },
+      "options": [
+        "The Rolling Stones",
+        "The Who",
+        "The Beatles"
+      ],
+      "expl": [
+        "Hey Jude was recorded and released by The Beatles in 1968. Written by Paul McCartney, originally to comfort John Lennon's son Julian during his parents' divorce, it reached number one in several countries and is one of the best-selling singles of all time."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "The Rolling Stones",
+          "rolling stones",
+          "the stones"
+        ],
+        "option_b": [
+          "The Who"
+        ],
+        "option_c": [
+          "The Beatles",
+          "beatles"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": ""
+    },
+    {
+      "id": "art-and-entertainment_B9_17",
+      "que": "Who sculpted the famous statue of David?",
+      "ans": {
+        "value": "Michelangelo",
+        "correct_entity": "option_c"
+      },
+      "options": [
+        "Donatello",
+        "Raphael",
+        "Michelangelo"
+      ],
+      "expl": [
+        "The statue of David was sculpted by Michelangelo between 1501 and 1504. It is a masterpiece of Renaissance sculpture depicting the Biblical hero David. The 5.17-metre marble statue is housed in the Galleria dell'Accademia in Florence, Italy."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "Donatello"
+        ],
+        "option_b": [
+          "Raphael"
+        ],
+        "option_c": [
+          "Michelangelo",
+          "michaelangelo"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": ""
+    },
+    {
+      "id": "art-and-entertainment_B9_18",
+      "que": "In which city was the famous ballet company the Bolshoi Ballet founded?",
+      "ans": {
+        "value": "Moscow",
+        "correct_entity": "option_b"
+      },
+      "options": [
+        "St. Petersburg",
+        "Moscow",
+        "Kiev"
+      ],
+      "expl": [
+        "The Bolshoi Ballet was founded in Moscow in 1776. It is one of the oldest and most prestigious ballet companies in the world. The Bolshoi Theatre where it performs is an iconic neoclassical building in the centre of Moscow."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "St. Petersburg",
+          "st petersburg",
+          "saint petersburg",
+          "leningrad"
+        ],
+        "option_b": [
+          "Moscow",
+          "moskva"
+        ],
+        "option_c": [
+          "Kiev",
+          "kyiv",
+          "ukraine"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": ""
+    },
+    {
+      "id": "art-and-entertainment_B9_19",
+      "que": "Which Disney movie features a princess named Ariel who is a mermaid?",
+      "ans": {
+        "value": "The Little Mermaid",
+        "correct_entity": "option_a"
+      },
+      "options": [
+        "The Little Mermaid",
+        "Beauty and the Beast",
+        "Cinderella"
+      ],
+      "expl": [
+        "The Little Mermaid is a popular Disney animated movie released in 1989, telling the story of Ariel, a young mermaid princess who dreams of living on land. The movie features the famous song 'Under the Sea.' A live-action version of the film was released in 2023."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "The Little Mermaid",
+          "little mermaid"
+        ],
+        "option_b": [
+          "Beauty and the Beast"
+        ],
+        "option_c": [
+          "Cinderella"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": ""
+    },
+    {
+      "id": "art-and-entertainment_B9_20",
+      "que": "Which famous painting shows a woman with no eyebrows in a 16th century style?",
+      "ans": {
+        "value": "Mona Lisa",
+        "correct_entity": "option_b"
+      },
+      "options": [
+        "The Birth of Venus",
+        "Mona Lisa",
+        "Girl with a Pearl Earring"
+      ],
+      "expl": [
+        "The Mona Lisa by Leonardo da Vinci depicts Lisa Gherardini with notably sparse eyebrows, which was fashionable in 15th-century Florence, where women would often shave or pluck their eyebrows. This distinctive feature has intrigued art lovers for centuries."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "The Birth of Venus",
+          "birth of venus",
+          "venus botticelli"
+        ],
+        "option_b": [
+          "Mona Lisa",
+          "pearl earring",
+          "girl pearl earring"
+        ],
+        "option_c": [
+          "Girl with a Pearl Earring",
+          "mona lisa",
+          "la gioconda"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": ""
+    },
+    {
+      "id": "entertainment_B9_1",
+      "que": "Which famous American movie wizard is known by the name Harry Potter?",
+      "ans": {
+        "value": "A wizard",
+        "correct_entity": "option_a"
+      },
+      "options": [
+        "A wizard",
+        "A pirate",
+        "A robot"
+      ],
+      "expl": [
+        "Harry Potter is a young wizard from the popular book and movie series written by J.K. Rowling. The first novel, Harry Potter and the Sorcerer's Stone, was published in the United States in 1998. Eight blockbuster films were made based on the seven books."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "A wizard",
+          "wizard",
+          "young wizard"
+        ],
+        "option_b": [
+          "A pirate",
+          "pirate"
+        ],
+        "option_c": [
+          "A robot",
+          "robot"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": ""
+    }
+  ],
+  "IMAGE_QUESTIONS": [],
+  "AUDIO_QUESTIONS": []
+}

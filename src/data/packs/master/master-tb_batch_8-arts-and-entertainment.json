@@ -1,0 +1,1555 @@
+{
+  "TEXT_QUESTIONS": [
+    {
+      "id": "art-and-entertainment_B8_1",
+      "que": "Which Shakespeare play features the characters Romeo and Juliet?",
+      "ans": {
+        "value": "Romeo and Juliet",
+        "correct_entity": "option_b"
+      },
+      "options": [
+        "A Midsummer Night's Dream",
+        "Romeo and Juliet",
+        "Hamlet"
+      ],
+      "expl": [
+        "Romeo and Juliet is a tragic play by William Shakespeare, written between 1594 and 1596. It tells the story of two young lovers from feuding families in Verona, Italy. It is one of Shakespeare's most famous plays and has been adapted into countless films and stage productions."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "A Midsummer Night's Dream",
+          "midsummer nights dream",
+          "midsummer dream",
+          "a midsummer nights dream",
+          "midsummer night's dream"
+        ],
+        "option_b": [
+          "Romeo and Juliet",
+          "romeo juliet",
+          "romio juliet"
+        ],
+        "option_c": [
+          "Hamlet",
+          "prince hamlet"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": ""
+    },
+    {
+      "id": "art-and-entertainment_B8_2",
+      "que": "How many strings does a standard guitar have?",
+      "ans": {
+        "value": "Six",
+        "correct_entity": "option_b"
+      },
+      "options": [
+        "Four",
+        "Six",
+        "Eight"
+      ],
+      "expl": [
+        "A standard guitar has six strings. They are typically tuned to E, A, D, G, B, and E from lowest to highest pitch. Bass guitars usually have four strings, and some guitars can have seven, eight, or twelve strings."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "Four",
+          "4",
+          "for"
+        ],
+        "option_b": [
+          "Six",
+          "6"
+        ],
+        "option_c": [
+          "Eight",
+          "8",
+          "ait",
+          "ate"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": ""
+    },
+    {
+      "id": "art-and-entertainment_B8_3",
+      "que": "Who wrote 'Harry Potter and the Philosopher's Stone'?",
+      "ans": {
+        "value": "J.K. Rowling",
+        "correct_entity": "option_b"
+      },
+      "options": [
+        "J.R.R. Tolkien",
+        "J.K. Rowling",
+        "Roald Dahl"
+      ],
+      "expl": [
+        "Harry Potter and the Philosopher's Stone was written by J.K. Rowling and published in 1997. It is the first book in the seven-part Harry Potter series. The series follows the adventures of young wizard Harry Potter and his friends at the Hogwarts School of Witchcraft and Wizardry."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "J.R.R. Tolkien",
+          "tolkien",
+          "jrr tolkien",
+          "j r r tolkien",
+          "john tolkien",
+          "j. r. r. tolkien"
+        ],
+        "option_b": [
+          "J.K. Rowling",
+          "rowling",
+          "jk rowling",
+          "j k rowling",
+          "joanne rowling",
+          "j. k. rowling",
+          "j. k. roling",
+          "rolling",
+          "j. k. rolling"
+        ],
+        "option_c": [
+          "Roald Dahl",
+          "dahl",
+          "roal dahl"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": ""
+    },
+    {
+      "id": "art-and-entertainment_B8_4",
+      "que": "Which movie won the first Academy Award for Best Picture?",
+      "ans": {
+        "value": "Wings",
+        "correct_entity": "option_a"
+      },
+      "options": [
+        "Wings",
+        "It Happened One Night",
+        "Gone with the Wind"
+      ],
+      "expl": [
+        "Wings won the first Academy Award for Best Picture at the inaugural Academy Awards ceremony in 1929, honoring films from 1927 and 1928. It is a silent war film directed by William A. Wellman about two rival pilots in love with the same woman during World War I."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "Wings",
+          "wings 1927",
+          "the movie wings",
+          "ings"
+        ],
+        "option_b": [
+          "It Happened One Night",
+          "happened one night"
+        ],
+        "option_c": [
+          "Gone with the Wind",
+          "gwtw",
+          "gone with wind"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": ""
+    },
+    {
+      "id": "art-and-entertainment_B8_5",
+      "que": "What instrument does a pianist play?",
+      "ans": {
+        "value": "Piano",
+        "correct_entity": "option_c"
+      },
+      "options": [
+        "Violin",
+        "Harp",
+        "Piano"
+      ],
+      "expl": [
+        "A pianist plays the piano. The piano is a keyboard instrument invented around 1700 by Bartolomeo Cristofori. It produces sound by hammers striking strings when keys are pressed. There are two main types: grand pianos and upright pianos."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "Violin",
+          "fiddle",
+          "violin instrument",
+          "oilen"
+        ],
+        "option_b": [
+          "Harp",
+          "harp instrument",
+          "arp",
+          "sharp"
+        ],
+        "option_c": [
+          "Piano",
+          "pianoforte",
+          "keyboard",
+          "piano instrument",
+          "yano"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": ""
+    },
+    {
+      "id": "art-and-entertainment_B8_6",
+      "que": "Which artist is known for the painting 'The Starry Night'?",
+      "ans": {
+        "value": "Vincent van Gogh",
+        "correct_entity": "option_b"
+      },
+      "options": [
+        "Paul Gauguin",
+        "Vincent van Gogh",
+        "Pablo Picasso"
+      ],
+      "expl": [
+        "The Starry Night was painted by Vincent van Gogh in June 1889 while he was in the Saint-Paul-de-Mausole asylum in France. It depicts a swirling night sky over a village. The painting is now housed at the Museum of Modern Art in New York City."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "Paul Gauguin",
+          "gauguin",
+          "gogan"
+        ],
+        "option_b": [
+          "Vincent van Gogh",
+          "van gogh",
+          "vincent",
+          "vangogh"
+        ],
+        "option_c": [
+          "Pablo Picasso",
+          "picasso",
+          "picaso"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": ""
+    },
+    {
+      "id": "art-and-entertainment_B8_7",
+      "que": "Which band was Freddie Mercury the lead singer of?",
+      "ans": {
+        "value": "Queen",
+        "correct_entity": "option_c"
+      },
+      "options": [
+        "The Rolling Stones",
+        "Led Zeppelin",
+        "Queen"
+      ],
+      "expl": [
+        "Freddie Mercury was the lead vocalist and a founding member of the rock band Queen. Formed in London in 1970, Queen is known for hits like Bohemian Rhapsody, We Will Rock You, and Don't Stop Me Now. Mercury died in 1991 from bronchopneumonia caused by AIDS."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "The Rolling Stones",
+          "rolling stones",
+          "the stones",
+          "rolling stone band"
+        ],
+        "option_b": [
+          "Led Zeppelin",
+          "zeppelin",
+          "led zepplin"
+        ],
+        "option_c": [
+          "Queen",
+          "the band queen",
+          "queen band"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": ""
+    },
+    {
+      "id": "art-and-entertainment_B8_8",
+      "que": "In the novel '1984' by George Orwell, who is the totalitarian leader?",
+      "ans": {
+        "value": "Big Brother",
+        "correct_entity": "option_b"
+      },
+      "options": [
+        "Emmanuel Goldstein",
+        "Big Brother",
+        "Winston Smith"
+      ],
+      "expl": [
+        "In George Orwell's dystopian novel 1984, published in 1949, Big Brother is the mysterious totalitarian leader of Oceania. The phrase 'Big Brother is watching you' has become a cultural symbol for oppressive surveillance. Winston Smith is the protagonist who rebels against the regime."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "Emmanuel Goldstein",
+          "goldstein",
+          "emanuel goldstein"
+        ],
+        "option_b": [
+          "Big Brother",
+          "bigbrother"
+        ],
+        "option_c": [
+          "Winston Smith",
+          "winston",
+          "winston smyth"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": ""
+    },
+    {
+      "id": "art-and-entertainment_B8_9",
+      "que": "What nationality was composer Ludwig van Beethoven?",
+      "ans": {
+        "value": "German",
+        "correct_entity": "option_b"
+      },
+      "options": [
+        "Austrian",
+        "German",
+        "Italian"
+      ],
+      "expl": [
+        "Ludwig van Beethoven was German, born in Bonn in 1770. He is considered one of the greatest composers of all time. Despite becoming deaf later in his life, he continued to compose masterworks including his Ninth Symphony, which he composed while completely deaf."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "Austrian",
+          "austria",
+          "austrian people",
+          "strain"
+        ],
+        "option_b": [
+          "German",
+          "germany",
+          "deutsch",
+          "erman"
+        ],
+        "option_c": [
+          "Italian",
+          "italy",
+          "italiano",
+          "talian",
+          "taly"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": ""
+    },
+    {
+      "id": "art-and-entertainment_B8_10",
+      "que": "Which Disney movie features a young lion named Simba?",
+      "ans": {
+        "value": "The Lion King",
+        "correct_entity": "option_b"
+      },
+      "options": [
+        "Aladdin",
+        "The Lion King",
+        "The Jungle Book"
+      ],
+      "expl": [
+        "The Lion King is the Disney movie that features a young lion named Simba who must take his place as king. It was first released in 1994, has a popular Broadway musical version, and is one of the highest-grossing animated films of all time."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "Aladdin",
+          "disney aladdin",
+          "adin",
+          "din"
+        ],
+        "option_b": [
+          "The Lion King",
+          "lion king",
+          "lionking"
+        ],
+        "option_c": [
+          "The Jungle Book",
+          "jungle book",
+          "junglebook"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": ""
+    },
+    {
+      "id": "art-and-entertainment_B8_11",
+      "que": "Which colorful musical instrument do you blow into and slide your hands along to play?",
+      "ans": {
+        "value": "Trombone",
+        "correct_entity": "option_b"
+      },
+      "options": [
+        "Drums",
+        "Trombone",
+        "Violin"
+      ],
+      "expl": [
+        "A trombone is a brass instrument played by blowing into a mouthpiece and moving a long slide back and forth to change notes. Trombones are popular in jazz bands, marching bands, and orchestras, and they make a deep, warm sound."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "Drums",
+          "drum",
+          "drum set",
+          "percussion drums"
+        ],
+        "option_b": [
+          "Trombone",
+          "trombones"
+        ],
+        "option_c": [
+          "Violin",
+          "fiddle",
+          "violin instrument"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": ""
+    },
+    {
+      "id": "art-and-entertainment_B8_12",
+      "que": "Which director made the movie 'Jurassic Park'?",
+      "ans": {
+        "value": "Steven Spielberg",
+        "correct_entity": "option_b"
+      },
+      "options": [
+        "George Lucas",
+        "Steven Spielberg",
+        "James Cameron"
+      ],
+      "expl": [
+        "Jurassic Park was directed by Steven Spielberg and released in 1993. Based on Michael Crichton's novel, it tells the story of a theme park where genetically engineered dinosaurs have been created from ancient DNA. The film was groundbreaking in its use of CGI and animatronics."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "George Lucas",
+          "lucas",
+          "george"
+        ],
+        "option_b": [
+          "Steven Spielberg",
+          "spielberg",
+          "steve spielberg",
+          "steven spilberg",
+          "steven"
+        ],
+        "option_c": [
+          "James Cameron",
+          "cameron",
+          "jim cameron"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": ""
+    },
+    {
+      "id": "art-and-entertainment_B8_13",
+      "que": "Which opera house is located in Sydney, Australia?",
+      "ans": {
+        "value": "The Sydney Opera House",
+        "correct_entity": "option_c"
+      },
+      "options": [
+        "The Royal Opera House",
+        "The Metropolitan Opera",
+        "The Sydney Opera House"
+      ],
+      "expl": [
+        "The Sydney Opera House is located on Bennelong Point in Sydney Harbour, Australia. Designed by Danish architect Jørn Utzon, it was completed in 1973 and is one of the most recognizable buildings in the world. It became a UNESCO World Heritage Site in 2007."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "The Royal Opera House",
+          "royal opera house",
+          "covent garden",
+          "royal opera"
+        ],
+        "option_b": [
+          "The Metropolitan Opera",
+          "met opera",
+          "metropolitan opera",
+          "the met opera"
+        ],
+        "option_c": [
+          "The Sydney Opera House",
+          "sydney opera house",
+          "opera house",
+          "sydney opera"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": ""
+    },
+    {
+      "id": "art-and-entertainment_B8_14",
+      "que": "Who wrote the novel 'Moby-Dick'?",
+      "ans": {
+        "value": "Herman Melville",
+        "correct_entity": "option_a"
+      },
+      "options": [
+        "Herman Melville",
+        "Mark Twain",
+        "Ernest Hemingway"
+      ],
+      "expl": [
+        "Moby-Dick was written by Herman Melville and published in 1851. The novel tells the story of Captain Ahab's obsessive quest to kill Moby Dick, the white sperm whale. Though initially a commercial failure, it is now considered one of the greatest works of American literature."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "Herman Melville",
+          "melville",
+          "harman melville"
+        ],
+        "option_b": [
+          "Mark Twain",
+          "twain",
+          "samuel clemens"
+        ],
+        "option_c": [
+          "Ernest Hemingway",
+          "hemingway",
+          "earnest hemingway"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": ""
+    },
+    {
+      "id": "art-and-entertainment_B8_15",
+      "que": "What is the name of the fictional detective created by Arthur Conan Doyle?",
+      "ans": {
+        "value": "Sherlock Holmes",
+        "correct_entity": "option_b"
+      },
+      "options": [
+        "Hercule Poirot",
+        "Sherlock Holmes",
+        "Philip Marlowe"
+      ],
+      "expl": [
+        "Sherlock Holmes is the fictional detective created by Scottish author Arthur Conan Doyle. Holmes first appeared in 1887 in the novel A Study in Scarlet. Known for his powers of deduction and his companion Dr. Watson, Holmes lives at 221B Baker Street in London."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "Hercule Poirot",
+          "poirot",
+          "hercule",
+          "poiret"
+        ],
+        "option_b": [
+          "Sherlock Holmes",
+          "sherlock",
+          "holmes",
+          "sherlock homes"
+        ],
+        "option_c": [
+          "Philip Marlowe",
+          "marlowe",
+          "phil marlowe"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": ""
+    },
+    {
+      "id": "art-and-entertainment_B8_16",
+      "que": "Which band sang 'Hey Jude'?",
+      "ans": {
+        "value": "The Beatles",
+        "correct_entity": "option_c"
+      },
+      "options": [
+        "The Rolling Stones",
+        "The Who",
+        "The Beatles"
+      ],
+      "expl": [
+        "Hey Jude was recorded and released by The Beatles in 1968. Written by Paul McCartney, originally to comfort John Lennon's son Julian during his parents' divorce, it reached number one in several countries and is one of the best-selling singles of all time."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "The Rolling Stones",
+          "rolling stones",
+          "the stones",
+          "rolling stone band"
+        ],
+        "option_b": [
+          "The Who",
+          "who band"
+        ],
+        "option_c": [
+          "The Beatles",
+          "beatles",
+          "beetles"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": ""
+    },
+    {
+      "id": "art-and-entertainment_B8_17",
+      "que": "Who sculpted the famous statue of David?",
+      "ans": {
+        "value": "Michelangelo",
+        "correct_entity": "option_c"
+      },
+      "options": [
+        "Donatello",
+        "Raphael",
+        "Michelangelo"
+      ],
+      "expl": [
+        "The statue of David was sculpted by Michelangelo between 1501 and 1504. It is a masterpiece of Renaissance sculpture depicting the Biblical hero David. The 5.17-metre marble statue is housed in the Galleria dell'Accademia in Florence, Italy."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "Donatello",
+          "donatelo"
+        ],
+        "option_b": [
+          "Raphael",
+          "rafael"
+        ],
+        "option_c": [
+          "Michelangelo",
+          "michaelangelo",
+          "michel angelo"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": ""
+    },
+    {
+      "id": "art-and-entertainment_B8_18",
+      "que": "In which city was the famous ballet company the Bolshoi Ballet founded?",
+      "ans": {
+        "value": "Moscow",
+        "correct_entity": "option_b"
+      },
+      "options": [
+        "St. Petersburg",
+        "Moscow",
+        "Kiev"
+      ],
+      "expl": [
+        "The Bolshoi Ballet was founded in Moscow in 1776. It is one of the oldest and most prestigious ballet companies in the world. The Bolshoi Theatre where it performs is an iconic neoclassical building in the centre of Moscow."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "St. Petersburg",
+          "st petersburg",
+          "saint petersburg",
+          "leningrad",
+          "st peterburg"
+        ],
+        "option_b": [
+          "Moscow",
+          "moskva",
+          "mosco"
+        ],
+        "option_c": [
+          "Kiev",
+          "kyiv",
+          "ukraine",
+          "kiyev"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": ""
+    },
+    {
+      "id": "art-and-entertainment_B8_19",
+      "que": "Which Disney movie features a princess named Ariel who is a mermaid?",
+      "ans": {
+        "value": "The Little Mermaid",
+        "correct_entity": "option_a"
+      },
+      "options": [
+        "The Little Mermaid",
+        "Beauty and the Beast",
+        "Cinderella"
+      ],
+      "expl": [
+        "The Little Mermaid is a popular Disney animated movie released in 1989, telling the story of Ariel, a young mermaid princess who dreams of living on land. The movie features the famous song 'Under the Sea.' A live-action version of the film was released in 2023."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "The Little Mermaid",
+          "little mermaid",
+          "disney little mermaid",
+          "the latest mermaid",
+          "a little mermaid",
+          "mermaid"
+        ],
+        "option_b": [
+          "Beauty and the Beast",
+          "beauty beast"
+        ],
+        "option_c": [
+          "Cinderella",
+          "cindrella"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": ""
+    },
+    {
+      "id": "art-and-entertainment_B8_20",
+      "que": "Which famous painting shows a woman with no eyebrows in a 16th century style?",
+      "ans": {
+        "value": "Mona Lisa",
+        "correct_entity": "option_b"
+      },
+      "options": [
+        "The Birth of Venus",
+        "Mona Lisa",
+        "Girl with a Pearl Earring"
+      ],
+      "expl": [
+        "The Mona Lisa by Leonardo da Vinci depicts Lisa Gherardini with notably sparse eyebrows, which was fashionable in 15th-century Florence, where women would often shave or pluck their eyebrows. This distinctive feature has intrigued art lovers for centuries."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "The Birth of Venus",
+          "birth of venus",
+          "venus botticelli"
+        ],
+        "option_b": [
+          "Mona Lisa",
+          "la gioconda",
+          "leonardo mona lisa",
+          "monalisa"
+        ],
+        "option_c": [
+          "Girl with a Pearl Earring",
+          "pearl earring",
+          "girl pearl earring"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": ""
+    },
+    {
+      "id": "art-and-entertainment_B8_21",
+      "que": "Who is the author of 'Don Quixote'?",
+      "ans": {
+        "value": "Miguel de Cervantes",
+        "correct_entity": "option_b"
+      },
+      "options": [
+        "Lope de Vega",
+        "Miguel de Cervantes",
+        "Francisco de Quevedo"
+      ],
+      "expl": [
+        "Don Quixote was written by Miguel de Cervantes and published in two parts in 1605 and 1615. It is often considered the first modern novel and one of the greatest works of fiction ever written. It follows the adventures of an idealistic nobleman who fancies himself a knight."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "Lope de Vega",
+          "de vega",
+          "lope"
+        ],
+        "option_b": [
+          "Miguel de Cervantes",
+          "cervantes",
+          "de cervantes",
+          "miguel cervantes"
+        ],
+        "option_c": [
+          "Francisco de Quevedo",
+          "quevedo",
+          "de quevedo",
+          "francisco quevedo"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": ""
+    },
+    {
+      "id": "art-and-entertainment_B8_22",
+      "que": "Which instrument is Yo-Yo Ma famous for playing?",
+      "ans": {
+        "value": "Cello",
+        "correct_entity": "option_c"
+      },
+      "options": [
+        "Violin",
+        "Piano",
+        "Cello"
+      ],
+      "expl": [
+        "Yo-Yo Ma is a world-renowned cellist, born in Paris in 1955 to Chinese parents. He began playing the cello at age four and became one of the most celebrated classical musicians in the world. He has won 19 Grammy Awards and collaborated with musicians across many genres."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "Violin",
+          "fiddle",
+          "violin instrument",
+          "oilin"
+        ],
+        "option_b": [
+          "Piano",
+          "keyboard",
+          "pianoforte"
+        ],
+        "option_c": [
+          "Cello",
+          "violoncello",
+          "chello"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": ""
+    },
+    {
+      "id": "art-and-entertainment_B8_23",
+      "que": "Which colorful character is the best friend of Mickey Mouse?",
+      "ans": {
+        "value": "Goofy",
+        "correct_entity": "option_b"
+      },
+      "options": [
+        "Donald Duck",
+        "Goofy",
+        "Pluto"
+      ],
+      "expl": [
+        "Goofy is one of Mickey Mouse's best friends in Disney cartoons, known for his tall, clumsy character and signature laugh. He first appeared in 1932 and has starred in many movies and TV shows. Donald Duck and Pluto are also part of Mickey's classic group of friends."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "Donald Duck",
+          "donald",
+          "duck donald"
+        ],
+        "option_b": [
+          "Goofy",
+          "goofie"
+        ],
+        "option_c": [
+          "Pluto",
+          "disney pluto"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": ""
+    },
+    {
+      "id": "art-and-entertainment_B8_24",
+      "que": "Which author created the character of James Bond?",
+      "ans": {
+        "value": "Ian Fleming",
+        "correct_entity": "option_b"
+      },
+      "options": [
+        "John le Carré",
+        "Ian Fleming",
+        "Len Deighton"
+      ],
+      "expl": [
+        "James Bond was created by British author Ian Fleming. Bond first appeared in the 1953 novel Casino Royale. Fleming based the character partly on intelligence officers he worked with during World War II. He wrote 14 Bond novels and two short story collections."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "John le Carré",
+          "le carre",
+          "john le carre",
+          "le carré"
+        ],
+        "option_b": [
+          "Ian Fleming",
+          "fleming",
+          "ian flemimg"
+        ],
+        "option_c": [
+          "Len Deighton",
+          "deighton",
+          "leonard deighton"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": ""
+    },
+    {
+      "id": "art-and-entertainment_B8_25",
+      "que": "What is the name of the hobbit in Tolkien's 'The Hobbit'?",
+      "ans": {
+        "value": "Bilbo Baggins",
+        "correct_entity": "option_c"
+      },
+      "options": [
+        "Frodo Baggins",
+        "Samwise Gamgee",
+        "Bilbo Baggins"
+      ],
+      "expl": [
+        "Bilbo Baggins is the titular hobbit in J.R.R. Tolkien's novel The Hobbit, published in 1937. He is recruited by the wizard Gandalf to join a company of dwarves on a quest to reclaim their homeland from the dragon Smaug. He later appears as an elderly hobbit in The Lord of the Rings."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "Frodo Baggins",
+          "frodo",
+          "frodo bagins"
+        ],
+        "option_b": [
+          "Samwise Gamgee",
+          "samwise",
+          "sam",
+          "sam gamgee"
+        ],
+        "option_c": [
+          "Bilbo Baggins",
+          "bilbo",
+          "bilbo bagins",
+          "baggins",
+          "bilbo baggings"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": ""
+    },
+    {
+      "id": "art-and-entertainment_B8_26",
+      "que": "Which musician is known as the 'King of Rock and Roll'?",
+      "ans": {
+        "value": "Elvis Presley",
+        "correct_entity": "option_c"
+      },
+      "options": [
+        "Chuck Berry",
+        "Little Richard",
+        "Elvis Presley"
+      ],
+      "expl": [
+        "Elvis Presley is widely known as the 'King of Rock and Roll.' He was one of the most culturally influential musicians of the 20th century. Known for hits like Hound Dog, Jailhouse Rock, and Love Me Tender, Elvis combined rock, country, and gospel influences."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "Chuck Berry",
+          "berry",
+          "charles berry"
+        ],
+        "option_b": [
+          "Little Richard",
+          "richard penniman"
+        ],
+        "option_c": [
+          "Elvis Presley",
+          "elvis",
+          "the king",
+          "king of rock and roll"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": ""
+    },
+    {
+      "id": "art-and-entertainment_B8_27",
+      "que": "Who wrote the play 'A Midsummer Night's Dream'?",
+      "ans": {
+        "value": "William Shakespeare",
+        "correct_entity": "option_b"
+      },
+      "options": [
+        "Christopher Marlowe",
+        "William Shakespeare",
+        "Ben Jonson"
+      ],
+      "expl": [
+        "A Midsummer Night's Dream was written by William Shakespeare, believed to have been composed between 1594 and 1596. It is a comedy involving the interactions of four Athenian lovers, a group of amateur actors, and fairies in a woodland setting. It is one of Shakespeare's most popular comedies."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "Christopher Marlowe",
+          "marlowe",
+          "kit marlowe"
+        ],
+        "option_b": [
+          "William Shakespeare",
+          "shakespeare",
+          "the bard",
+          "shakespear"
+        ],
+        "option_c": [
+          "Ben Jonson",
+          "jonson",
+          "benjamin jonson"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": ""
+    },
+    {
+      "id": "art-and-entertainment_B8_28",
+      "que": "Which country produces the most films per year?",
+      "ans": {
+        "value": "India",
+        "correct_entity": "option_b"
+      },
+      "options": [
+        "United States",
+        "India",
+        "China"
+      ],
+      "expl": [
+        "India produces the most films per year of any country, with Bollywood (based in Mumbai) leading global film production. Indian cinema produces over 1,800 films annually across multiple regional film industries. Bollywood alone releases over 300 films per year."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "United States",
+          "usa",
+          "america",
+          "united states of america",
+          "us"
+        ],
+        "option_b": [
+          "India",
+          "bollywood",
+          "indian",
+          "bharat",
+          "hindustan"
+        ],
+        "option_c": [
+          "China",
+          "chinese",
+          "zhongguo"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": ""
+    },
+    {
+      "id": "art-and-entertainment_B8_29",
+      "que": "Who painted 'The Last Supper'?",
+      "ans": {
+        "value": "Leonardo da Vinci",
+        "correct_entity": "option_b"
+      },
+      "options": [
+        "Raphael",
+        "Leonardo da Vinci",
+        "Michelangelo"
+      ],
+      "expl": [
+        "The Last Supper was painted by Leonardo da Vinci between approximately 1495 and 1498. It depicts the moment Jesus announced that one of his apostles would betray him. The mural is located in the refectory of the Convent of Santa Maria delle Grazie in Milan, Italy."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "Raphael",
+          "rafael"
+        ],
+        "option_b": [
+          "Leonardo da Vinci",
+          "da vinci",
+          "leonardo",
+          "leonard"
+        ],
+        "option_c": [
+          "Michelangelo",
+          "michaelangelo",
+          "michel angelo"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": ""
+    },
+    {
+      "id": "art-and-entertainment_B8_30",
+      "que": "What is the longest-running Broadway show of all time?",
+      "ans": {
+        "value": "The Phantom of the Opera",
+        "correct_entity": "option_b"
+      },
+      "options": [
+        "Cats",
+        "The Phantom of the Opera",
+        "Chicago"
+      ],
+      "expl": [
+        "The Phantom of the Opera is the longest-running show in Broadway history. It opened on January 26, 1988, at the Majestic Theatre and closed on April 16, 2023, after 13,981 performances. It was based on Gaston Leroux's 1910 novel and composed by Andrew Lloyd Webber."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "Cats",
+          "the musical cats",
+          "cats musical",
+          "rats"
+        ],
+        "option_b": [
+          "The Phantom of the Opera",
+          "phantom of the opera",
+          "phantom",
+          "the phantom",
+          "phantom opera"
+        ],
+        "option_c": [
+          "Chicago",
+          "chicago musical",
+          "chicago broadway"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": ""
+    },
+    {
+      "id": "art-and-entertainment_B8_31",
+      "que": "Who directed the movie 'The Godfather'?",
+      "ans": {
+        "value": "Francis Ford Coppola",
+        "correct_entity": "option_b"
+      },
+      "options": [
+        "Martin Scorsese",
+        "Francis Ford Coppola",
+        "Brian De Palma"
+      ],
+      "expl": [
+        "The Godfather was directed by Francis Ford Coppola and released in 1972. Based on Mario Puzo's novel, it stars Marlon Brando as Vito Corleone and Al Pacino as his son Michael. The film won three Academy Awards including Best Picture and is considered one of the greatest films ever made."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "Martin Scorsese",
+          "scorsese",
+          "martin skorcese"
+        ],
+        "option_b": [
+          "Francis Ford Coppola",
+          "coppola",
+          "francis coppola",
+          "francis ford"
+        ],
+        "option_c": [
+          "Brian De Palma",
+          "de palma",
+          "brian depalma"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": ""
+    },
+    {
+      "id": "art-and-entertainment_B8_32",
+      "que": "Which famous artist cut off part of his own ear?",
+      "ans": {
+        "value": "Vincent van Gogh",
+        "correct_entity": "option_c"
+      },
+      "options": [
+        "Paul Gauguin",
+        "Edvard Munch",
+        "Vincent van Gogh"
+      ],
+      "expl": [
+        "Vincent van Gogh famously cut off part of his own ear in December 1888 in Arles, France, during a mental breakdown following a confrontation with fellow artist Paul Gauguin. He then reportedly delivered the severed piece to a woman at a local brothel. The incident has become one of art history's most famous stories."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "Paul Gauguin",
+          "gauguin",
+          "gogan"
+        ],
+        "option_b": [
+          "Edvard Munch",
+          "munch",
+          "edward munch"
+        ],
+        "option_c": [
+          "Vincent van Gogh",
+          "van gogh",
+          "vincent",
+          "vangogh"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": ""
+    },
+    {
+      "id": "art-and-entertainment_B8_33",
+      "que": "What does 'DJ' stand for in music?",
+      "ans": {
+        "value": "Disc Jockey",
+        "correct_entity": "option_b"
+      },
+      "options": [
+        "Digital Jockey",
+        "Disc Jockey",
+        "Dynamic Jockey"
+      ],
+      "expl": [
+        "DJ stands for Disc Jockey. The term originated from the practice of playing vinyl records (discs) at radio stations or live events. Today, DJs use digital tools and software but the traditional term remains. DJs play a central role in genres like hip-hop, electronic, and club music."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "Digital Jockey",
+          "dj digital",
+          "igital hockey"
+        ],
+        "option_b": [
+          "Disc Jockey",
+          "disk jockey",
+          "dj",
+          "dee jay",
+          "isc jockey"
+        ],
+        "option_c": [
+          "Dynamic Jockey",
+          "dynamic dj",
+          "anynamic jockey"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": ""
+    },
+    {
+      "id": "art-and-entertainment_B8_34",
+      "que": "Which novel begins with the line 'Call me Ishmael'?",
+      "ans": {
+        "value": "Moby-Dick",
+        "correct_entity": "option_c"
+      },
+      "options": [
+        "The Old Man and the Sea",
+        "Lord Jim",
+        "Moby-Dick"
+      ],
+      "expl": [
+        "Moby-Dick by Herman Melville begins with the famous opening line 'Call me Ishmael.' The novel, published in 1851, is narrated by Ishmael, a sailor who joins the crew of the whaling ship Pequod commanded by the obsessed Captain Ahab."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "The Old Man and the Sea",
+          "old man and the sea",
+          "old man sea"
+        ],
+        "option_b": [
+          "Lord Jim",
+          "jim novel"
+        ],
+        "option_c": [
+          "Moby-Dick",
+          "moby dick",
+          "whale book",
+          "mobydick"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": ""
+    },
+    {
+      "id": "art-and-entertainment_B8_35",
+      "que": "Who composed the opera 'The Magic Flute'?",
+      "ans": {
+        "value": "Wolfgang Amadeus Mozart",
+        "correct_entity": "option_b"
+      },
+      "options": [
+        "Ludwig van Beethoven",
+        "Wolfgang Amadeus Mozart",
+        "Franz Schubert"
+      ],
+      "expl": [
+        "The Magic Flute was composed by Wolfgang Amadeus Mozart and first performed in Vienna in 1791. It was Mozart's last opera, composed in the final year of his life. It is a fairy-tale opera featuring trials of wisdom and love, and includes some of the most technically demanding soprano arias ever written."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "Ludwig van Beethoven",
+          "beethoven",
+          "ludwig beethoven",
+          "ladwig beethoven"
+        ],
+        "option_b": [
+          "Wolfgang Amadeus Mozart",
+          "mozart",
+          "wolfgang mozart",
+          "amadeus mozart",
+          "wolfgang",
+          "amadeus",
+          "wolf gang",
+          "wolf gand mozart",
+          "wolf gang amadeus mozart"
+        ],
+        "option_c": [
+          "Franz Schubert",
+          "schubert",
+          "france",
+          "france schebuert"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": ""
+    },
+    {
+      "id": "art-and-entertainment_B8_36",
+      "que": "In which decade did the Woodstock music festival first take place?",
+      "ans": {
+        "value": "1960s",
+        "correct_entity": "option_b"
+      },
+      "options": [
+        "1950s",
+        "1960s",
+        "1970s"
+      ],
+      "expl": [
+        "The Woodstock Music and Art Fair took place in August 1969, making it a product of the 1960s. Held on Max Yasgur's dairy farm in Bethel, New York, it drew about 400,000 attendees and became a defining event of the counterculture movement. Performers included Jimi Hendrix, Janis Joplin, and The Who."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "1950s",
+          "nineteen fifties",
+          "the fifties",
+          "ninteen fifty",
+          "one nine five zero",
+          "nineteen fiftys",
+          "nineten fifties"
+        ],
+        "option_b": [
+          "1960s",
+          "nineteen sixties",
+          "the sixties",
+          "nineteen sixtys",
+          "nineten sixties"
+        ],
+        "option_c": [
+          "1970s",
+          "nineteen seventies",
+          "the seventies",
+          "nineteen seventys",
+          "nineten seveties"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": ""
+    },
+    {
+      "id": "art-and-entertainment_B8_37",
+      "que": "Who wrote the play 'The Importance of Being Earnest'?",
+      "ans": {
+        "value": "Oscar Wilde",
+        "correct_entity": "option_b"
+      },
+      "options": [
+        "George Bernard Shaw",
+        "Oscar Wilde",
+        "Noel Coward"
+      ],
+      "expl": [
+        "The Importance of Being Earnest was written by Oscar Wilde and first performed on February 14, 1895. It is a farcical comedy about the social conventions and double lives of Victorian England. Wilde called it 'a trivial comedy for serious people.' It remains one of the most widely performed plays in the English language."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "George Bernard Shaw",
+          "shaw",
+          "george shaw",
+          "g b shaw"
+        ],
+        "option_b": [
+          "Oscar Wilde",
+          "wilde",
+          "oscar wild"
+        ],
+        "option_c": [
+          "Noel Coward",
+          "coward",
+          "noël coward"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": ""
+    },
+    {
+      "id": "art-and-entertainment_B8_40",
+      "que": "Which famous American movie wizard is known by the name Harry Potter?",
+      "ans": {
+        "value": "wizard",
+        "correct_entity": "option_a"
+      },
+      "options": [
+        "wizard",
+        "pirate",
+        "robot"
+      ],
+      "expl": [
+        "Harry Potter is a young wizard from the popular book and movie series written by J.K. Rowling. The first novel, Harry Potter and the Sorcerer's Stone, was published in the United States in 1998. Eight blockbuster films were made based on the seven books."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "wizard",
+          "a wizard",
+          "young wizard",
+          "magic wizard",
+          "magician"
+        ],
+        "option_b": [
+          "pirate",
+          "a pirate",
+          "sea pirate",
+          "captain pirate"
+        ],
+        "option_c": [
+          "robot",
+          "a robot",
+          "android",
+          "machine robot"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": ""
+    },
+    {
+      "id": "art-and-entertainment_B8_38",
+      "que": "Which famous balloon parade is held every Thanksgiving Day in New York City?",
+      "ans": {
+        "value": "Macy's Thanksgiving Day Parade",
+        "correct_entity": "option_b"
+      },
+      "options": [
+        "Rose Parade",
+        "Macy's Thanksgiving Day Parade",
+        "Mardi Gras Parade"
+      ],
+      "expl": [
+        "The Macy's Thanksgiving Day Parade is held every Thanksgiving morning in New York City. The parade has been a tradition since 1924 and features giant character balloons, marching bands, and floats, ending with the arrival of Santa Claus."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "Rose Parade",
+          "tournament of roses parade"
+        ],
+        "option_b": [
+          "Macy's Thanksgiving Day Parade",
+          "macys thanksgiving day parade",
+          "macys parade",
+          "macy s thanksgiving day parade",
+          "macy s parade",
+          "macy parade"
+        ],
+        "option_c": [
+          "Mardi Gras Parade",
+          "mardi gras",
+          "new orleans parade"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": ""
+    },
+    {
+      "id": "art-and-entertainment_B8_39",
+      "que": "Which animated movie features a young girl named Elsa with ice powers?",
+      "ans": {
+        "value": "Frozen",
+        "correct_entity": "option_c"
+      },
+      "options": [
+        "Tangled",
+        "Moana",
+        "Frozen"
+      ],
+      "expl": [
+        "Frozen is the Disney animated movie that features Elsa, a young princess with magical ice powers, and her sister Anna. Released in 2013, it became one of Disney's most popular films and includes the hit song 'Let It Go.' A sequel, Frozen 2, was released in 2019."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "Tangled",
+          "disney tangled"
+        ],
+        "option_b": [
+          "Moana",
+          "disney moana"
+        ],
+        "option_c": [
+          "Frozen",
+          "frozan",
+          "frozhan",
+          "disney frozen"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": ""
+    }
+  ],
+  "IMAGE_QUESTIONS": [],
+  "AUDIO_QUESTIONS": []
+}

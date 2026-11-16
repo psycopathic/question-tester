@@ -1,0 +1,790 @@
+{
+  "TEXT_QUESTIONS": [
+    {
+      "id": "science_B10_1",
+      "que": "The ozone layer primarily absorbs which type of radiation from the Sun?",
+      "ans": {
+        "value": "Ultraviolet radiation",
+        "correct_entity": "option_b"
+      },
+      "options": [
+        "Infrared radiation",
+        "Ultraviolet radiation",
+        "X-ray radiation"
+      ],
+      "expl": [
+        "The ozone layer primarily absorbs ultraviolet (UV) radiation from the Sun, particularly UV-B and UV-C radiation. Without this protective layer, the Earth's surface would be bombarded with harmful radiation that causes skin cancer and damages ecosystems."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "Infrared radiation",
+          "infrared",
+          "ir radiation"
+        ],
+        "option_b": [
+          "Ultraviolet radiation",
+          "ultraviolet",
+          "uv radiation",
+          "uv"
+        ],
+        "option_c": [
+          "X-ray radiation",
+          "x ray"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": ""
+    },
+    {
+      "id": "science_B10_2",
+      "que": "Which gas do plants take in from the air to help them grow?",
+      "ans": {
+        "value": "Carbon dioxide",
+        "correct_entity": "option_b"
+      },
+      "options": [
+        "Oxygen",
+        "Carbon dioxide",
+        "Helium"
+      ],
+      "expl": [
+        "Plants take in carbon dioxide from the air through tiny pores on their leaves called stomata. Using sunlight and water, they turn it into food through a process called photosynthesis. As a result, plants release oxygen back into the air, which people and animals breathe."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "Oxygen",
+          "o2"
+        ],
+        "option_b": [
+          "Carbon dioxide",
+          "co2",
+          "c o 2"
+        ],
+        "option_c": [
+          "Helium"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": ""
+    },
+    {
+      "id": "science_B10_3",
+      "que": "What causes a rainbow to appear?",
+      "ans": {
+        "value": "Refraction and reflection of sunlight through water droplets",
+        "correct_entity": "option_a"
+      },
+      "options": [
+        "Refraction and reflection of sunlight through water droplets",
+        "Reflection of sunlight off clouds",
+        "Diffraction of sunlight through dust particles"
+      ],
+      "expl": [
+        "A rainbow is formed by the refraction and reflection of sunlight through water droplets in the atmosphere. Sunlight enters a droplet, is refracted, reflected off the back of the droplet, then refracted again as it exits, separating light into its spectral colours."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "Refraction and reflection of sunlight through water droplets",
+          "refraction reflection",
+          "light through water"
+        ],
+        "option_b": [
+          "Reflection of sunlight off clouds",
+          "clouds",
+          "reflection clouds"
+        ],
+        "option_c": [
+          "Diffraction of sunlight through dust particles",
+          "diffraction",
+          "dust particles"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": ""
+    },
+    {
+      "id": "science_B10_4",
+      "que": "What is the name of the galaxy that contains our solar system?",
+      "ans": {
+        "value": "Milky Way",
+        "correct_entity": "option_c"
+      },
+      "options": [
+        "Andromeda",
+        "Triangulum",
+        "Milky Way"
+      ],
+      "expl": [
+        "Our solar system is located in the Milky Way galaxy, a barred spiral galaxy containing an estimated 100–400 billion stars. Earth is located on one of the outer spiral arms. The Milky Way is about 100,000 light-years in diameter."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "Andromeda",
+          "andromeda galaxy"
+        ],
+        "option_b": [
+          "Triangulum",
+          "triangulum galaxy"
+        ],
+        "option_c": [
+          "Milky Way",
+          "milky way galaxy"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": ""
+    },
+    {
+      "id": "science_B10_5",
+      "que": "What is the unit used to measure the intensity of sound?",
+      "ans": {
+        "value": "Decibel",
+        "correct_entity": "option_b"
+      },
+      "options": [
+        "Hertz",
+        "Decibel",
+        "Pascal"
+      ],
+      "expl": [
+        "The decibel (dB) is the unit used to measure the intensity of sound. Zero decibels represents the threshold of human hearing. Normal conversation is about 60 dB, while a jet engine at close range can reach 140 dB, which can cause immediate hearing damage."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "Hertz",
+          "hz"
+        ],
+        "option_b": [
+          "Decibel",
+          "db",
+          "decibels"
+        ],
+        "option_c": [
+          "Pascal",
+          "pa",
+          "pascals"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": ""
+    },
+    {
+      "id": "science_B10_6",
+      "que": "Which scientist is credited with developing the polio vaccine?",
+      "ans": {
+        "value": "Jonas Salk",
+        "correct_entity": "option_c"
+      },
+      "options": [
+        "Louis Pasteur",
+        "Alexander Fleming",
+        "Jonas Salk"
+      ],
+      "expl": [
+        "Jonas Salk developed the first successful polio vaccine, announced in 1955. He and his team at the University of Pittsburgh used killed poliovirus to create the vaccine. Salk refused to patent the vaccine so it could be made available to everyone."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "Louis Pasteur",
+          "pasteur"
+        ],
+        "option_b": [
+          "Alexander Fleming",
+          "fleming"
+        ],
+        "option_c": [
+          "Jonas Salk",
+          "salk"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": ""
+    },
+    {
+      "id": "science_B10_7",
+      "que": "What is the most common type of star in the Milky Way?",
+      "ans": {
+        "value": "Red dwarf",
+        "correct_entity": "option_c"
+      },
+      "options": [
+        "Red giant",
+        "White dwarf",
+        "Red dwarf"
+      ],
+      "expl": [
+        "Red dwarf stars are the most common type of star in the Milky Way, making up about 70% of all stars. They are small and cool compared to our Sun, with surface temperatures below 4,000 K. They burn their hydrogen fuel very slowly and can live for trillions of years."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "Red giant",
+          "giant star"
+        ],
+        "option_b": [
+          "White dwarf",
+          "dwarf star"
+        ],
+        "option_c": [
+          "Red dwarf",
+          "m dwarf"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": ""
+    },
+    {
+      "id": "science_B10_8",
+      "que": "Which element is a liquid at room temperature?",
+      "ans": {
+        "value": "Mercury",
+        "correct_entity": "option_a"
+      },
+      "options": [
+        "Mercury",
+        "Lead",
+        "Tin"
+      ],
+      "expl": [
+        "Mercury (Hg) is the only metal that is liquid at room temperature. Its melting point is -38.83°C. Mercury has been known since ancient times and was called quicksilver due to its silvery appearance and fluid nature. It is highly toxic."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "Mercury",
+          "quicksilver",
+          "hg"
+        ],
+        "option_b": [
+          "Lead",
+          "pb"
+        ],
+        "option_c": [
+          "Tin",
+          "sn"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": ""
+    },
+    {
+      "id": "science_B10_9",
+      "que": "What is the name of the force that pulls objects toward the centre of the Earth?",
+      "ans": {
+        "value": "Gravity",
+        "correct_entity": "option_b"
+      },
+      "options": [
+        "Magnetism",
+        "Gravity",
+        "Friction"
+      ],
+      "expl": [
+        "Gravity is the force that attracts objects with mass toward one another. On Earth, it pulls objects toward the planet's centre. Earth's gravity gives weight to physical objects and causes objects to fall toward the ground when dropped."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "Magnetism",
+          "magnetic force"
+        ],
+        "option_b": [
+          "Gravity",
+          "gravitational force"
+        ],
+        "option_c": [
+          "Friction",
+          "frictional force"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": ""
+    },
+    {
+      "id": "science_B10_10",
+      "que": "Human blood is what color inside the body?",
+      "ans": {
+        "value": "Red",
+        "correct_entity": "option_c"
+      },
+      "options": [
+        "Blue",
+        "Purple",
+        "Red"
+      ],
+      "expl": [
+        "Human blood is always red inside the body. Oxygenated blood (in arteries) is bright red, while deoxygenated blood (in veins) is a darker red. The myth that venous blood is blue comes from veins appearing blue through the skin, which is due to how light penetrates tissue."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "Blue"
+        ],
+        "option_b": [
+          "Purple"
+        ],
+        "option_c": [
+          "Red"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": ""
+    },
+    {
+      "id": "science_B10_11",
+      "que": "What is the term for animals that eat both plants and animals?",
+      "ans": {
+        "value": "Omnivore",
+        "correct_entity": "option_c"
+      },
+      "options": [
+        "Herbivore",
+        "Carnivore",
+        "Omnivore"
+      ],
+      "expl": [
+        "Animals that eat both plants and animals are called omnivores. The word comes from the Latin 'omnis' (all) and 'vorare' (to devour). Humans, bears, pigs, and rats are common examples of omnivores. Omnivores have digestive systems that can process both plant and animal matter."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "Herbivore",
+          "plant eater"
+        ],
+        "option_b": [
+          "Carnivore",
+          "meat eater"
+        ],
+        "option_c": [
+          "Omnivore",
+          "omni"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": ""
+    },
+    {
+      "id": "science_B10_12",
+      "que": "What is the chemical symbol for sodium?",
+      "ans": {
+        "value": "Na",
+        "correct_entity": "option_b"
+      },
+      "options": [
+        "So",
+        "Na",
+        "Sa"
+      ],
+      "expl": [
+        "The chemical symbol for sodium is Na, from the Latin word 'natrium.' Sodium is element number 11 on the periodic table. It is a soft, silvery-white metal that reacts vigorously with water. It is an essential element for human health, regulating fluid balance."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "So",
+          "s o"
+        ],
+        "option_b": [
+          "Na",
+          "n a",
+          "natrium"
+        ],
+        "option_c": [
+          "Sa",
+          "s a"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": ""
+    },
+    {
+      "id": "science_B10_13",
+      "que": "Which scientist formulated the three laws of motion?",
+      "ans": {
+        "value": "Isaac Newton",
+        "correct_entity": "option_b"
+      },
+      "options": [
+        "Galileo Galilei",
+        "Isaac Newton",
+        "Robert Hooke"
+      ],
+      "expl": [
+        "Isaac Newton formulated his three laws of motion in his landmark work 'Principia Mathematica' published in 1687. These laws describe the relationship between a body and the forces acting upon it, and form the foundation of classical mechanics."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "Galileo Galilei",
+          "galileo",
+          "galilei"
+        ],
+        "option_b": [
+          "Isaac Newton",
+          "newton",
+          "sir isaac newton"
+        ],
+        "option_c": [
+          "Robert Hooke",
+          "hooke"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": ""
+    },
+    {
+      "id": "science_B10_14",
+      "que": "What is the name of the phobia that describes a fear of spiders?",
+      "ans": {
+        "value": "Arachnophobia",
+        "correct_entity": "option_a"
+      },
+      "options": [
+        "Arachnophobia",
+        "Agoraphobia",
+        "Claustrophobia"
+      ],
+      "expl": [
+        "Arachnophobia is the fear of spiders and other arachnids. It is one of the most common animal phobias, affecting between 3.5% and 6.1% of the global population. The word comes from the Greek 'arachne' (spider) and 'phobos' (fear)."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "Arachnophobia",
+          "arachnophobic"
+        ],
+        "option_b": [
+          "Agoraphobia"
+        ],
+        "option_c": [
+          "Claustrophobia"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": ""
+    },
+    {
+      "id": "science_B10_15",
+      "que": "At what temperature does water boil at sea level?",
+      "ans": {
+        "value": "100 degrees Celsius",
+        "correct_entity": "option_b"
+      },
+      "options": [
+        "90 degrees Celsius",
+        "100 degrees Celsius",
+        "110 degrees Celsius"
+      ],
+      "expl": [
+        "Water boils at 100 degrees Celsius (212 degrees Fahrenheit) at sea level, where atmospheric pressure is 1 atmosphere. At higher altitudes where pressure is lower, water boils at a lower temperature. This is why cooking takes longer at high elevations."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "90 degrees Celsius",
+          "ninety degrees",
+          "90 celsius"
+        ],
+        "option_b": [
+          "100 degrees Celsius",
+          "one hundred degrees",
+          "100 celsius"
+        ],
+        "option_c": [
+          "110 degrees Celsius",
+          "one hundred ten degrees",
+          "110 celsius"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": ""
+    },
+    {
+      "id": "science_B10_16",
+      "que": "What is the name of the process where plants make food using sunlight?",
+      "ans": {
+        "value": "Photosynthesis",
+        "correct_entity": "option_b"
+      },
+      "options": [
+        "Respiration",
+        "Photosynthesis",
+        "Fermentation"
+      ],
+      "expl": [
+        "Photosynthesis is the process by which green plants, algae, and some bacteria use sunlight, water, and carbon dioxide to produce oxygen and energy in the form of glucose. The word comes from the Greek 'photo' (light) and 'synthesis' (putting together)."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "Respiration",
+          "breathing"
+        ],
+        "option_b": [
+          "Photosynthesis"
+        ],
+        "option_c": [
+          "Fermentation",
+          "ferment"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": ""
+    },
+    {
+      "id": "science_B10_17",
+      "que": "Which planet has a moon called Titan?",
+      "ans": {
+        "value": "Saturn",
+        "correct_entity": "option_c"
+      },
+      "options": [
+        "Jupiter",
+        "Neptune",
+        "Saturn"
+      ],
+      "expl": [
+        "Titan is the largest moon of Saturn and the second largest moon in the solar system, after Jupiter's Ganymede. Titan is unique in the solar system for having a dense atmosphere, primarily composed of nitrogen. It also has lakes and rivers of liquid methane and ethane on its surface."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "Jupiter"
+        ],
+        "option_b": [
+          "Neptune"
+        ],
+        "option_c": [
+          "Saturn"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": ""
+    },
+    {
+      "id": "science_B10_18",
+      "que": "What is the name of the lightest element on the periodic table?",
+      "ans": {
+        "value": "Hydrogen",
+        "correct_entity": "option_b"
+      },
+      "options": [
+        "Helium",
+        "Hydrogen",
+        "Lithium"
+      ],
+      "expl": [
+        "Hydrogen is the lightest element on the periodic table with an atomic mass of approximately 1.008 atomic mass units. It has one proton and, in its most common form, no neutrons. It is the most abundant element in the universe and is used in fuel cells and as rocket fuel."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "Helium",
+          "he"
+        ],
+        "option_b": [
+          "Hydrogen",
+          "h"
+        ],
+        "option_c": [
+          "Lithium",
+          "li"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": ""
+    },
+    {
+      "id": "science_B10_19",
+      "que": "Which big striped cat is the largest member of the cat family?",
+      "ans": {
+        "value": "Tiger",
+        "correct_entity": "option_b"
+      },
+      "options": [
+        "Cheetah",
+        "Tiger",
+        "Leopard"
+      ],
+      "expl": [
+        "The tiger is the largest member of the cat family in the world. Males can grow up to ten feet long, including their tail, and can weigh more than 600 pounds. Tigers live in parts of Asia and are known for their bright orange coats with black stripes."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "Cheetah",
+          "cheetahs"
+        ],
+        "option_b": [
+          "Tiger",
+          "tigers"
+        ],
+        "option_c": [
+          "Leopard",
+          "leopards"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": ""
+    },
+    {
+      "id": "science_B10_20",
+      "que": "What is the process called when a star collapses into an extremely dense object with a powerful gravitational pull?",
+      "ans": {
+        "value": "Black hole formation",
+        "correct_entity": "option_b"
+      },
+      "options": [
+        "Supernova",
+        "Black hole formation",
+        "Neutron star collapse"
+      ],
+      "expl": [
+        "A black hole forms when a massive star collapses at the end of its life, typically after a supernova explosion. The core collapses under gravity to form an object so dense that not even light can escape its gravitational pull. Black holes were first predicted by Einstein's general theory of relativity."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "Supernova"
+        ],
+        "option_b": [
+          "Black hole formation",
+          "black hole",
+          "black hole creation"
+        ],
+        "option_c": [
+          "Neutron star collapse",
+          "neutron star",
+          "neutron collapse"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": ""
+    },
+    {
+      "id": "science_B10_21",
+      "que": "Which simple machine is a ramp used for lifting heavy objects?",
+      "ans": {
+        "value": "Inclined plane",
+        "correct_entity": "option_a"
+      },
+      "options": [
+        "Inclined plane",
+        "Lever",
+        "Pulley"
+      ],
+      "expl": [
+        "An inclined plane is a flat surface set at an angle, like a ramp. It is one of the six classic simple machines. By using a ramp, a person can move a heavy object up to a higher level with less force than lifting it straight up."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "Inclined plane",
+          "incline",
+          "ramp"
+        ],
+        "option_b": [
+          "Lever"
+        ],
+        "option_c": [
+          "Pulley"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": ""
+    },
+    {
+      "id": "science_B10_22",
+      "que": "Which season comes right after winter in the United States?",
+      "ans": {
+        "value": "Spring",
+        "correct_entity": "option_c"
+      },
+      "options": [
+        "Summer",
+        "Fall",
+        "Spring"
+      ],
+      "expl": [
+        "Spring comes right after winter in the United States. It begins in March and lasts until June. During spring, flowers bloom, trees grow new leaves, and many animals have babies. Days get longer and the weather gets warmer."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "Summer"
+        ],
+        "option_b": [
+          "Fall",
+          "autumn"
+        ],
+        "option_c": [
+          "Spring"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": ""
+    },
+    {
+      "id": "science_B10_23",
+      "que": "Which simple machine is a seesaw at a playground a great example of?",
+      "ans": {
+        "value": "Lever",
+        "correct_entity": "option_c"
+      },
+      "options": [
+        "Pulley",
+        "Wheel and axle",
+        "Lever"
+      ],
+      "expl": [
+        "A seesaw is a great example of a lever. A lever is a stiff bar that turns on a fixed point called a fulcrum. When one child pushes down on their end, the other end lifts up. Levers help people move heavy objects with less effort."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "Pulley"
+        ],
+        "option_b": [
+          "Wheel and axle",
+          "wheel axle"
+        ],
+        "option_c": [
+          "Lever"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": ""
+    }
+  ],
+  "IMAGE_QUESTIONS": [],
+  "AUDIO_QUESTIONS": []
+}

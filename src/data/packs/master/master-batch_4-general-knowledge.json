@@ -1,0 +1,2495 @@
+{
+  "TEXT_QUESTIONS": [
+    {
+      "id": "general-knowledge_B4_1",
+      "que": "Which designer's brand features a lion in its logo?",
+      "ans": {
+        "value": "Anne Klein",
+        "correct_entity": "option_a"
+      },
+      "options": [
+        "Anne Klein",
+        "Liz Claiborne",
+        "Lane Bryant"
+      ],
+      "expl": [
+        "Anne Klein, a US fashion designer, established a women's clothing brand in 1968. The iconic lion logo, inspired by her zodiac sign Leo symbolizing female strength, is featured on all products. After Anne Klein's death in 1974, Donna Karan led the brand before creating her own label."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "Anne Klein",
+          "anne",
+          "klein",
+          "any klein"
+        ],
+        "option_b": [
+          "Liz Claiborne",
+          "liz",
+          "claiborne"
+        ],
+        "option_c": [
+          "Lane Bryant",
+          "lane",
+          "bryant"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": ""
+    },
+    {
+      "id": "general-knowledge_B4_2",
+      "que": "Which entrepreneur's red star tattoo ultimately evolved into the iconic logo for his company?",
+      "ans": {
+        "value": "R. H. Macy",
+        "correct_entity": "option_c"
+      },
+      "options": [
+        "John W. Nordstrom",
+        "Sam Walton",
+        "R. H. Macy"
+      ],
+      "expl": [
+        "The Macy's red star logo originates from a tattoo its founder R.H. Macy got as a teenager while on a whaling ship. Lost at sea, he used a star to guide himself to shore. This star tattoo, a reminder of that event, inspired his business logo. Moving to NYC in 1858, he established \"R.H. Macy Dry Goods,\" with the red star on his hand becoming the enduring logo."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "John W. Nordstrom",
+          "john",
+          "nordstrom",
+          "nord strom",
+          "john nord strom",
+          "john nord"
+        ],
+        "option_b": [
+          "Sam Walton",
+          "sam",
+          "walton"
+        ],
+        "option_c": [
+          "R. H. Macy",
+          "macy",
+          "macy's",
+          "r. h.",
+          "r. h. messi",
+          "messi"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": ""
+    },
+    {
+      "id": "general-knowledge_B4_3",
+      "que": "What was the first ever registered domain name?",
+      "ans": {
+        "value": "Symbolics",
+        "correct_entity": "option_b"
+      },
+      "options": [
+        "IBM",
+        "Symbolics",
+        "Xerox"
+      ],
+      "expl": [
+        "Symbolics.com is the internet's inaugural commercial domain, registered on March 15, 1985. It represented Symbolics Computer Corporation, a Massachusetts firm that pioneered the Lisp Machine, the first commercial workstation. Now an internet museum, it honors web history with 200,000 yearly visitors."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "IBM",
+          "i. b. m."
+        ],
+        "option_b": [
+          "Symbolics",
+          "symbolic"
+        ],
+        "option_c": [
+          "Xerox"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": ""
+    },
+    {
+      "id": "general-knowledge_B4_4",
+      "que": "Where are you likely to see the manufacturer's name \"Otis\" stamped?",
+      "ans": {
+        "value": "Elevator",
+        "correct_entity": "option_b"
+      },
+      "options": [
+        "Lawn Mower",
+        "Elevator",
+        "Vending Machine"
+      ],
+      "expl": [
+        "Founded in 1853 by Elisha Otis, Otis is the world's largest elevator manufacturer. Elisha Otis invented the safety elevator, transforming the industry. A demonstration at the 1853 New York World's Fair established its credibility and changed urban living. Otis Elevator Company's products carry the world's population every five days."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "Lawn Mower",
+          "lawn",
+          "mower"
+        ],
+        "option_b": [
+          "Elevator",
+          "elevators"
+        ],
+        "option_c": [
+          "Vending Machine",
+          "vending",
+          "machine"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": ""
+    },
+    {
+      "id": "general-knowledge_B4_5",
+      "que": "What company trademarked the color magenta?",
+      "ans": {
+        "value": "T-Mobile",
+        "correct_entity": "option_b"
+      },
+      "options": [
+        "Lululemon",
+        "T-Mobile",
+        "Pizza Hut"
+      ],
+      "expl": [
+        "T-Mobile values magenta greatly. It's a vital part of their brand, used in products and ads. In 2014, they legally trademarked magenta, after a dispute with AT and T. They guard this trademark against unauthorized use."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "Lululemon"
+        ],
+        "option_b": [
+          "T-Mobile",
+          "t. mobile",
+          "t mobile"
+        ],
+        "option_c": [
+          "Pizza Hut",
+          "pizza",
+          "hut"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": ""
+    },
+    {
+      "id": "general-knowledge_B4_6",
+      "que": "What piece of music is often played at graduations?",
+      "ans": {
+        "value": "Pomp and Circumstance",
+        "correct_entity": "option_a"
+      },
+      "options": [
+        "Pomp and Circumstance",
+        "Processional Melody",
+        "The Graduation Anthem"
+      ],
+      "expl": [
+        "Pomp and Circumstance, composed by Sir Edward Elgar, is famous for being linked to graduation events. Originally meant to honor British royalty, it premiered at King Edward VII's coronation in 1902. Elgar himself heard it during his Yale honorary doctorate ceremony in 1905, and universities started using it for graduations, making it the standard commencement melody."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "Pomp and Circumstance",
+          "pomp and circumstances",
+          "pop and circumstances",
+          "pomp",
+          "circumstance"
+        ],
+        "option_b": [
+          "Processional Melody",
+          "melody",
+          "processional",
+          "Processional Melodies",
+          "professional melody"
+        ],
+        "option_c": [
+          "The Graduation Anthem",
+          "graduation",
+          "anthem",
+          "graduation anthem"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": ""
+    },
+    {
+      "id": "general-knowledge_B4_7",
+      "que": "What is the official name for a blob of toothpaste on a toothbrush?",
+      "ans": {
+        "value": "Nurdle",
+        "correct_entity": "option_b"
+      },
+      "options": [
+        "Pixly",
+        "Nurdle",
+        "Quazzle"
+      ],
+      "expl": [
+        "A \"nurdle\" is a wavy toothpaste blob on a toothbrush. Colgate and GlaxoSmithKline had a legal fight over the term and design trademark. They settled the dispute privately."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "Pixly"
+        ],
+        "option_b": [
+          "Nurdle",
+          "nurdles",
+          "london"
+        ],
+        "option_c": [
+          "Quazzle",
+          "quazzles"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": ""
+    },
+    {
+      "id": "general-knowledge_B4_8",
+      "que": "German chocolate cake originated from which country?",
+      "ans": {
+        "value": "United States",
+        "correct_entity": "option_c"
+      },
+      "options": [
+        "Belgium",
+        "Germany",
+        "United States"
+      ],
+      "expl": [
+        "German chocolate cake is a layered chocolate cake with coconut-pecan frosting, originating from the United States. Its name comes from Samuel German, an American chocolate maker, and the brand of chocolate he developed for the recipe. Despite the name, the cake isn't of German origin."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "Belgium"
+        ],
+        "option_b": [
+          "Germany"
+        ],
+        "option_c": [
+          "United States",
+          "u. s.",
+          "u. s. a.",
+          "united state of america",
+          "united state",
+          "united states america"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": ""
+    },
+    {
+      "id": "general-knowledge_B4_9",
+      "que": "Which restaurant uses the slogan \"Eatin' Good in the Neighborhood\"?",
+      "ans": {
+        "value": "Applebee's",
+        "correct_entity": "option_a"
+      },
+      "options": [
+        "Applebee's",
+        "Red Lobster",
+        "Olive Garden"
+      ],
+      "expl": [
+        "Eatin' Good in the Neighborhood is Applebee's well-known slogan. Founded by Bill and T. J. Palmer as \"T.J. Applebee's Rx for Edibles and Elixirs,\" the restaurant later became \"Applebee's Neighborhood Grill and Bar\" in 1986. Known for casual dining and American dishes, it has grown from a local spot to a popular chain across the US."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "Applebee's",
+          "applebees",
+          "apple bee",
+          "applebee",
+          "apple bees",
+          "apple",
+          "bee",
+          "bees",
+          "bee's"
+        ],
+        "option_b": [
+          "Red Lobster",
+          "red",
+          "lobster"
+        ],
+        "option_c": [
+          "Olive Garden",
+          "olive",
+          "garden"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": ""
+    },
+    {
+      "id": "general-knowledge_B4_10",
+      "que": "What do France, Spain, and Russia have instead of the Tooth Fairy?",
+      "ans": {
+        "value": "Tooth Mouse",
+        "correct_entity": "option_b"
+      },
+      "options": [
+        "Tooth Rabbit",
+        "Tooth Mouse",
+        "Tooth Wizard"
+      ],
+      "expl": [
+        "In the United States, children have their baby teeth collected by the tooth fairy. In France and other regions like Belgium, Switzerland, and Spanish-speaking countries, a tooth-collecting mouse known as \"la petite souris\" or Pérez Mouse takes the teeth from under the pillow and leaves money in exchange."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "Tooth Rabbit",
+          "rabbit"
+        ],
+        "option_b": [
+          "Tooth Mouse",
+          "mouse"
+        ],
+        "option_c": [
+          "Tooth Wizard",
+          "tooth",
+          "wizard"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": ""
+    },
+    {
+      "id": "general-knowledge_B4_11",
+      "que": "What fast food chain was the first to offer full drive-thru service?",
+      "ans": {
+        "value": "In-N-Out Burger",
+        "correct_entity": "option_c"
+      },
+      "options": [
+        "McDonald's",
+        "Popeyes",
+        "In-N-Out Burger"
+      ],
+      "expl": [
+        "Established in 1948, In-N-Out Burger transformed fast food with a pioneering idea. By enabling customers to order from their cars through a two-way intercom system and drive-thru lanes, In-N-Out eliminated the need for carhops and set the stage for the contemporary drive-thru model, significantly impacting the fast-food sector."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "McDonald's",
+          "mac donald",
+          "m. c. donald",
+          "donald",
+          "mac d.",
+          "mc d.",
+          "macdonald"
+        ],
+        "option_b": [
+          "Popeyes",
+          "popeye",
+          "pop eyes",
+          "pop eye"
+        ],
+        "option_c": [
+          "In-N-Out Burger",
+          "in n out",
+          "in-n-out",
+          "in and out",
+          "in n. out burger",
+          "in and out burger",
+          "in n out burger",
+          "in n. out",
+          "burger",
+          "in and out barbel"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": ""
+    },
+    {
+      "id": "general-knowledge_B4_12",
+      "que": "Where is the Declaration of Independence housed?",
+      "ans": {
+        "value": "National Archives",
+        "correct_entity": "option_b"
+      },
+      "options": [
+        "The White House",
+        "National Archives",
+        "The Capitol"
+      ],
+      "expl": [
+        "The Declaration of Independence is safeguarded in Washington, D.C.'s National Archives Building, alongside other significant documents like the U.S. Constitution and the Bill of Rights. It is exhibited in a specialized, secure case built to protect it from environmental and security threats."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "The White House",
+          "white",
+          "house",
+          "white house"
+        ],
+        "option_b": [
+          "National Archives",
+          "national archive",
+          "archives",
+          "national"
+        ],
+        "option_c": [
+          "The Capitol",
+          "the capital",
+          "capitol",
+          "capital"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": ""
+    },
+    {
+      "id": "general-knowledge_B4_13",
+      "que": "O.J. Simpson ran through airports as the spokesperson for which company?",
+      "ans": {
+        "value": "Hertz",
+        "correct_entity": "option_c"
+      },
+      "options": [
+        "Avis",
+        "Delta",
+        "Hertz"
+      ],
+      "expl": [
+        "O.J. Simpson, once the face of Hertz Rental Cars, starred in commercials showcasing speed at airports with the tagline \"The Superstar in a rent-a-car.\" Chosen in 1975 to highlight Hertz's swift service for white businessmen, these ads boosted sales until Simpson's 1994 trial."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "Avis"
+        ],
+        "option_b": [
+          "Delta"
+        ],
+        "option_c": [
+          "Hertz",
+          "herts",
+          "hurts",
+          "horse"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": ""
+    },
+    {
+      "id": "general-knowledge_B4_14",
+      "que": "Disney's Space Mountain is the centerpiece of what Magic Kingdom land?",
+      "ans": {
+        "value": "Tomorrowland",
+        "correct_entity": "option_c"
+      },
+      "options": [
+        "Frontierland",
+        "Adventureland",
+        "Tomorrowland"
+      ],
+      "expl": [
+        "Space Mountain is a captivating outer space-themed roller coaster located in Walt Disney World's Magic Kingdom. Found in the Tomorrowland section, it reflects Walt Disney's forward-thinking spirit. Although conceived by Disney, the ride's technology wasn't feasible until after his passing."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "Frontierland",
+          "frontier land",
+          "frontier"
+        ],
+        "option_b": [
+          "Adventureland",
+          "adventure land",
+          "adventure"
+        ],
+        "option_c": [
+          "Tomorrowland",
+          "tomorrow",
+          "tomorrow land"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": ""
+    },
+    {
+      "id": "general-knowledge_B4_15",
+      "que": "What is the oldest currency still in circulation today?",
+      "ans": {
+        "value": "British Pound",
+        "correct_entity": "option_c"
+      },
+      "options": [
+        "Chinese Yuan",
+        "Euro",
+        "British Pound"
+      ],
+      "expl": [
+        "The British pound is the world's oldest currency still in use at around 1,200 years old. Dating back to Anglo-Saxon times, the pound has gone through many changes before evolving into the currency we recognise today. The British pound is both the oldest and one of the most traded currencies​ in the world."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "Chinese Yuan",
+          "yuan",
+          "chinese"
+        ],
+        "option_b": [
+          "Euro",
+          "euros"
+        ],
+        "option_c": [
+          "British Pound",
+          "british pounds",
+          "pound",
+          "pounds"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": ""
+    },
+    {
+      "id": "general-knowledge_B4_16",
+      "que": "Which country gives students the longest summer holiday?",
+      "ans": {
+        "value": "Italy",
+        "correct_entity": "option_b"
+      },
+      "options": [
+        "United States",
+        "Italy",
+        "Australia"
+      ],
+      "expl": [
+        "Italy gives its students the longest summer break with 13 weeks of vacation, followed by Portugal and Greece with 12 weeks."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "United States",
+          "u. s.",
+          "u. s. a.",
+          "united state of america",
+          "united state",
+          "united states america"
+        ],
+        "option_b": [
+          "Italy"
+        ],
+        "option_c": [
+          "Australia"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": ""
+    },
+    {
+      "id": "general-knowledge_B4_17",
+      "que": "Which month of the year is National Ice Cream Month?",
+      "ans": {
+        "value": "July",
+        "correct_entity": "option_a"
+      },
+      "options": [
+        "July",
+        "August",
+        "June"
+      ],
+      "expl": [
+        "National Ice Cream Month is celebrated in the United States during the month of July. This designation was made by President Ronald Reagan in 1984 to honor this beloved frozen treat."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "July"
+        ],
+        "option_b": [
+          "August"
+        ],
+        "option_c": [
+          "June"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": ""
+    },
+    {
+      "id": "general-knowledge_B4_18",
+      "que": "From which country does Lego originate?",
+      "ans": {
+        "value": "Denmark",
+        "correct_entity": "option_b"
+      },
+      "options": [
+        "Sweden",
+        "Denmark",
+        "Germany"
+      ],
+      "expl": [
+        "Lego originates from Denmark. It is a popular brand of interlocking plastic building blocks and toys. Founded in 1932 by Ole Kirk Christiansen, the company's name is derived from the Danish words \"leg godt,\" which mean \"play well.\" Lego sets are known for their versatility, encouraging creativity and imagination in children and adults alike."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "Sweden"
+        ],
+        "option_b": [
+          "Denmark",
+          "den mark",
+          "den",
+          "mark",
+          "ten",
+          "ten mark"
+        ],
+        "option_c": [
+          "Germany"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": ""
+    },
+    {
+      "id": "general-knowledge_B4_19",
+      "que": "Which flag is the only one that does not have four sides?",
+      "ans": {
+        "value": "Nepal",
+        "correct_entity": "option_b"
+      },
+      "options": [
+        "Canada",
+        "Nepal",
+        "Japan"
+      ],
+      "expl": [
+        "The flag of Nepal is the only national flag in the world that does not have four sides. It consists of two stacked, overlapping triangles, forming a unique and distinctive design. This design represents Nepal's mountainous terrain and its hope for both eternal peace and a bright future."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "Canada"
+        ],
+        "option_b": [
+          "Nepal"
+        ],
+        "option_c": [
+          "Japan"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": ""
+    },
+    {
+      "id": "general-knowledge_B4_20",
+      "que": "Which instrument is known as the \"king of instruments\"?",
+      "ans": {
+        "value": "Organ",
+        "correct_entity": "option_b"
+      },
+      "options": [
+        "Piano",
+        "Organ",
+        "Violin"
+      ],
+      "expl": [
+        "The organ is often referred to as the \"king of instruments\" due to its complexity, versatility, and rich sound."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "Piano",
+          "pianos"
+        ],
+        "option_b": [
+          "Organ",
+          "organs"
+        ],
+        "option_c": [
+          "Violin",
+          "violins"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": ""
+    },
+    {
+      "id": "general-knowledge_B4_21",
+      "que": "Who is known for the development of the theory of psychoanalysis?",
+      "ans": {
+        "value": "Sigmund Freud",
+        "correct_entity": "option_a"
+      },
+      "options": [
+        "Sigmund Freud",
+        "Carl Jung",
+        "B. F. Skinner"
+      ],
+      "expl": [
+        "Sigmund Freud is credited with developing the theory of psychoanalysis, delving into the unconscious mind and its influence on behavior."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "Sigmund Freud",
+          "freud",
+          "sigmund"
+        ],
+        "option_b": [
+          "Carl Jung",
+          "carl",
+          "jung"
+        ],
+        "option_c": [
+          "B. F. Skinner",
+          "b f skinner",
+          "skinner",
+          "b. f. skin",
+          "spinner",
+          "be a skinner",
+          "be a spinner"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": ""
+    },
+    {
+      "id": "general-knowledge_B4_22",
+      "que": "What is the name of Michelle Obama's book about gardening?",
+      "ans": {
+        "value": "American Grown",
+        "correct_entity": "option_a"
+      },
+      "options": [
+        "American Grown",
+        "Gardening for Kids",
+        "Gardening for Life"
+      ],
+      "expl": [
+        "Michelle Obama's book \"American Grown\" delves into her passion for gardening and highlights the significance of the White House Kitchen Garden. It also explores various gardens across the United States and emphasizes the importance of healthy eating and sustainable living."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "American Grown",
+          "american",
+          "grown"
+        ],
+        "option_b": [
+          "Gardening for Kids",
+          "for kids"
+        ],
+        "option_c": [
+          "Gardening for Life",
+          "for life"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": ""
+    },
+    {
+      "id": "general-knowledge_B4_23",
+      "que": "What was the original name of the indoor amusement park in the Mall of America?",
+      "ans": {
+        "value": "Camp Snoopy",
+        "correct_entity": "option_b"
+      },
+      "options": [
+        "Snoopyland",
+        "Camp Snoopy",
+        "Camp Peanuts"
+      ],
+      "expl": [
+        "The indoor amusement park initially located in the Mall of America was called \"Camp Snoopy.\" It featured various rides and attractions based on the popular Peanuts comic strip characters, created by Charles M. Schulz."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "Snoopyland"
+        ],
+        "option_b": [
+          "Camp Snoopy",
+          "snoopy"
+        ],
+        "option_c": [
+          "Camp Peanuts",
+          "peanuts"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": ""
+    },
+    {
+      "id": "general-knowledge_B4_24",
+      "que": "Who helped to create United Airlines?",
+      "ans": {
+        "value": "William Boeing",
+        "correct_entity": "option_a"
+      },
+      "options": [
+        "William Boeing",
+        "Neil Armstrong",
+        "Orville Wright"
+      ],
+      "expl": [
+        "United Airlines was co-founded by William Boeing and Walter Varney. It was initially established as Varney Air Lines, which later merged with Boeing's aircraft company, leading to the formation of United Airlines."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "William Boeing",
+          "william",
+          "boeing"
+        ],
+        "option_b": [
+          "Neil Armstrong",
+          "neil arm strong",
+          "neil",
+          "armstrong",
+          "arm strong",
+          "nil"
+        ],
+        "option_c": [
+          "Orville Wright",
+          "orville right",
+          "orville",
+          "wright",
+          "right",
+          "orville write",
+          "write",
+          "or will right"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": ""
+    },
+    {
+      "id": "general-knowledge_B4_25",
+      "que": "Which app came first?",
+      "ans": {
+        "value": "Twitter",
+        "correct_entity": "option_b"
+      },
+      "options": [
+        "TikTok",
+        "Twitter",
+        "Spotify"
+      ],
+      "expl": [
+        "Twitter was the earliest, starting in July 2006. TikTok followed, first in China as Douyin in September 2016, then globally as TikTok. Spotify, launched in October 2008, streams music from a large collection. Twitter has short messages, TikTok has short videos, and Spotify streams music."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "TikTok",
+          "tik tok",
+          "tik",
+          "tok"
+        ],
+        "option_b": [
+          "Twitter"
+        ],
+        "option_c": [
+          "Spotify"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": ""
+    },
+    {
+      "id": "general-knowledge_B4_26",
+      "que": "Which is the oldest airline in Europe?",
+      "ans": {
+        "value": "KLM Airlines",
+        "correct_entity": "option_c"
+      },
+      "options": [
+        "Air France",
+        "Lufthansa",
+        "KLM Airlines"
+      ],
+      "expl": [
+        "Founded in 1919, KLM Royal Dutch Airlines is Europe's oldest airline. Over a century, it has shaped aviation, maintaining prominence as a key European carrier with a legacy of innovation in global aviation history."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "Air France",
+          "air",
+          "france"
+        ],
+        "option_b": [
+          "Lufthansa"
+        ],
+        "option_c": [
+          "KLM Airlines",
+          "k. l. m. airlines",
+          "k. l. m. airline",
+          "k. l. m.",
+          "airlines"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": ""
+    },
+    {
+      "id": "general-knowledge_B4_27",
+      "que": "Who was Time Magazine's Person of the Year in 2010?",
+      "ans": {
+        "value": "Barack Obama",
+        "correct_entity": "option_a"
+      },
+      "options": [
+        "Barack Obama",
+        "Donald Trump",
+        "Angela Merkel"
+      ],
+      "expl": [
+        "Barack Obama was named Time Magazine's 2010 Person of the Year for his global influence as the 44th US President. Time selects individuals or groups with the most impactful global influence annually. Obama was chosen for his leadership, achievements, and influence on important issues during his presidency."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "Barack Obama",
+          "barack",
+          "obama"
+        ],
+        "option_b": [
+          "Donald Trump",
+          "donald",
+          "trump"
+        ],
+        "option_c": [
+          "Angela Merkel",
+          "angela",
+          "merkel"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": ""
+    },
+    {
+      "id": "general-knowledge_B4_28",
+      "que": "What is the name of the United Nations Secretary-General?",
+      "ans": {
+        "value": "Antonio Guterres",
+        "correct_entity": "option_b"
+      },
+      "options": [
+        "Angela Merkel",
+        "Antonio Guterres",
+        "Xi Jinping"
+      ],
+      "expl": [
+        "The current United Nations Secretary-General is António Guterres. He assumed office on January 1, 2017, succeeding Ban Ki-moon."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "Angela Merkel",
+          "merkel"
+        ],
+        "option_b": [
+          "Antonio Guterres",
+          "antónio",
+          "guterres",
+          "antonio",
+          "António Guterres"
+        ],
+        "option_c": [
+          "Xi Jinping",
+          "xi",
+          "jin ping",
+          "jinping"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": ""
+    },
+    {
+      "id": "general-knowledge_B4_29",
+      "que": "What is the name of the festival celebrated in Australia in January?",
+      "ans": {
+        "value": "Australia Day",
+        "correct_entity": "option_a"
+      },
+      "options": [
+        "Australia Day",
+        "Harmony Day",
+        "Anzac Day"
+      ],
+      "expl": [
+        "Australia Day is celebrated on January 26th in Australia. It commemorates the arrival of the First Fleet of British ships in 1788 and is a national day of celebration."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "Australia Day",
+          "australia"
+        ],
+        "option_b": [
+          "Harmony Day",
+          "harmony"
+        ],
+        "option_c": [
+          "Anzac Day",
+          "anzac"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": ""
+    },
+    {
+      "id": "general-knowledge_B4_30",
+      "que": "Which of these animals does NOT appear in the Chinese zodiac?",
+      "ans": {
+        "value": "Bear",
+        "correct_entity": "option_a"
+      },
+      "options": [
+        "Bear",
+        "Dog",
+        "Dragon"
+      ],
+      "expl": [
+        "The Chinese zodiac comprises 12 animal signs, symbolizing lunar years. It includes Dog and Dragon but not Bear. These signs influence traits and destiny of those born in their years. Used for astrology and culture."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "Bear",
+          "Bears"
+        ],
+        "option_b": [
+          "Dog",
+          "dogs"
+        ],
+        "option_c": [
+          "Dragon",
+          "dragons"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": ""
+    },
+    {
+      "id": "general-knowledge_B4_31",
+      "que": "What company makes the Xperia model of smartphone?",
+      "ans": {
+        "value": "Sony",
+        "correct_entity": "option_b"
+      },
+      "options": [
+        "Samsung",
+        "Sony",
+        "Nokia"
+      ],
+      "expl": [
+        "The Xperia model of smartphones is produced by Sony, a multinational conglomerate known for its electronics, entertainment, and technology products."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "Samsung"
+        ],
+        "option_b": [
+          "Sony"
+        ],
+        "option_c": [
+          "Nokia"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": ""
+    },
+    {
+      "id": "general-knowledge_B4_32",
+      "que": "Which of the following is NOT a fruit?",
+      "ans": {
+        "value": "Rhubarb",
+        "correct_entity": "option_b"
+      },
+      "options": [
+        "Tomatoes",
+        "Rhubarb",
+        "Avocados"
+      ],
+      "expl": [
+        "Among the options provided, rhubarb is the only one that is not a fruit. While tomatoes and avocados are considered fruits botanically, rhubarb is a vegetable. Despite its culinary use in sweet dishes, rhubarb's edible stalks are classified as vegetables due to their nutritional composition and botanical characteristics."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "Tomatoes",
+          "tomato"
+        ],
+        "option_b": [
+          "Rhubarb"
+        ],
+        "option_c": [
+          "Avocados",
+          "avocado"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": ""
+    },
+    {
+      "id": "general-knowledge_B4_33",
+      "que": "What sort of plant is a truffle?",
+      "ans": {
+        "value": "Type of mushroom",
+        "correct_entity": "option_c"
+      },
+      "options": [
+        "Flowering Shrub",
+        "Root Vegetable",
+        "Type of mushroom"
+      ],
+      "expl": [
+        "Truffles are actually a type of fungus that grows underground in close association with tree roots. They are highly prized for their distinctive aroma and are used in gourmet cuisine."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "Flowering Shrub",
+          "flowering",
+          "shrub",
+          "flower",
+          "flower shrub"
+        ],
+        "option_b": [
+          "Root Vegetable",
+          "root vegetables",
+          "root",
+          "vegetable",
+          "vegetables"
+        ],
+        "option_c": [
+          "Type of mushroom",
+          "type of",
+          "type mushroom",
+          "mushroom",
+          "type of mushrooms",
+          "mushrooms"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": ""
+    },
+    {
+      "id": "general-knowledge_B4_34",
+      "que": "Lent always begins on which day of the week?",
+      "ans": {
+        "value": "Wednesday",
+        "correct_entity": "option_b"
+      },
+      "options": [
+        "Monday",
+        "Wednesday",
+        "Friday"
+      ],
+      "expl": [
+        "Lent traditionally begins on Ash Wednesday, which is the day after Shrove Tuesday (also known as Fat Tuesday or Mardi Gras). Ash Wednesday marks the start of the 40-day period of fasting and reflection leading up to Easter Sunday in the Christian calendar."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "Monday"
+        ],
+        "option_b": [
+          "Wednesday"
+        ],
+        "option_c": [
+          "Friday"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": ""
+    },
+    {
+      "id": "general-knowledge_B4_35",
+      "que": "What does a Geiger counter detect and measure?",
+      "ans": {
+        "value": "Radioactivity",
+        "correct_entity": "option_a"
+      },
+      "options": [
+        "Radioactivity",
+        "Humidity",
+        "Pressure"
+      ],
+      "expl": [
+        "A Geiger counter measures ionizing radiation by detecting and counting electrical pulses generated when radioactive particles interact with its sensor. This helps assess radiation risks in materials, facilities, and medical procedures."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "Radioactivity",
+          "radio activity"
+        ],
+        "option_b": [
+          "Humidity"
+        ],
+        "option_c": [
+          "Pressure"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": ""
+    },
+    {
+      "id": "general-knowledge_B4_36",
+      "que": "What was the official currency of Austria before the Euro?",
+      "ans": {
+        "value": "Schilling",
+        "correct_entity": "option_a"
+      },
+      "options": [
+        "Schilling",
+        "Franc",
+        "Mark"
+      ],
+      "expl": [
+        "The official currency of Austria before the Euro was the Schilling. It was used from 1924 to 2002 when Austria adopted the Euro as its official currency. The Schilling was subdivided into 100 Groschen and played a significant role in Austria's economic history."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "Schilling",
+          "chilling"
+        ],
+        "option_b": [
+          "Franc",
+          "france"
+        ],
+        "option_c": [
+          "Mark",
+          "marks"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": ""
+    },
+    {
+      "id": "general-knowledge_B4_37",
+      "que": "Which automobile manufacturer produces the Celica model?",
+      "ans": {
+        "value": "Toyota",
+        "correct_entity": "option_c"
+      },
+      "options": [
+        "Ford",
+        "Honda",
+        "Toyota"
+      ],
+      "expl": [
+        "The Celica model is produced by the automobile manufacturer Toyota. Toyota Celica was a popular sports car that gained fame for its sleek design and performance capabilities. It was manufactured from 1970 to 2006 and was known for its sporty styling and reputation as an affordable sports coupe."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "Ford",
+          "four",
+          "fort"
+        ],
+        "option_b": [
+          "Honda"
+        ],
+        "option_c": [
+          "Toyota"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": ""
+    },
+    {
+      "id": "general-knowledge_B4_38",
+      "que": "What type of acid is commonly found in car batteries?",
+      "ans": {
+        "value": "Sulfuric",
+        "correct_entity": "option_b"
+      },
+      "options": [
+        "Citric",
+        "Sulfuric",
+        "Hydrochloric"
+      ],
+      "expl": [
+        "Car batteries commonly contain sulfuric acid. It is an electrolyte that facilitates the chemical reactions within the battery, generating electrical energy. It plays a crucial role in the battery's operation by allowing the flow of electrons between the lead plates, producing the necessary electric current."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "Citric",
+          "citrics"
+        ],
+        "option_b": [
+          "Sulfuric",
+          "sulphuric"
+        ],
+        "option_c": [
+          "Hydrochloric",
+          "hydro chloric acid"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": ""
+    },
+    {
+      "id": "general-knowledge_B4_39",
+      "que": "Which crop is attacked by the Colorado beetle?",
+      "ans": {
+        "value": "Potato",
+        "correct_entity": "option_a"
+      },
+      "options": [
+        "Potato",
+        "Wheat",
+        "Corn"
+      ],
+      "expl": [
+        "The Colorado beetle is a notorious pest that attacks potato crops. This beetle, also known as the potato beetle, can cause significant damage to potato plants by feeding on their leaves, leading to reduced yield and quality of potatoes."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "Potato",
+          "potatoes"
+        ],
+        "option_b": [
+          "Wheat"
+        ],
+        "option_c": [
+          "Corn",
+          "corns",
+          "call"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": ""
+    },
+    {
+      "id": "general-knowledge_B4_40",
+      "que": "What was the previous name of Tuberculosis?",
+      "ans": {
+        "value": "Consumption",
+        "correct_entity": "option_a"
+      },
+      "options": [
+        "Consumption",
+        "Pneumonia",
+        "Lung Fever"
+      ],
+      "expl": [
+        "Tuberculosis was previously known as \"consumption.\" The term originated from the belief that the disease seemed to consume or waste away the afflicted person's body over time. This term was commonly used before the true nature of the disease and its causes were fully understood."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "Consumption",
+          "consumptions"
+        ],
+        "option_b": [
+          "Pneumonia"
+        ],
+        "option_c": [
+          "Lung Fever",
+          "lung",
+          "fever"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": ""
+    },
+    {
+      "id": "general-knowledge_B4_41",
+      "que": "Which martial art's name translates to \"gentle way\"?",
+      "ans": {
+        "value": "Judo",
+        "correct_entity": "option_c"
+      },
+      "options": [
+        "Karate",
+        "Taekwondo",
+        "Judo"
+      ],
+      "expl": [
+        "Judo, a martial art developed in Japan, translates to \"gentle way.\" Founded by Jigoro Kano, Judo emphasizes using an opponent's strength and momentum against them rather than relying solely on brute force. It embodies the philosophy of achieving victory through balance, technique, and strategic leverage."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "Karate"
+        ],
+        "option_b": [
+          "Taekwondo"
+        ],
+        "option_c": [
+          "Judo"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": ""
+    },
+    {
+      "id": "general-knowledge_B4_42",
+      "que": "In Greek mythology, what did a Hamadryads spirit protect or guard?",
+      "ans": {
+        "value": "Trees",
+        "correct_entity": "option_b"
+      },
+      "options": [
+        "Underworld",
+        "Trees",
+        "Rivers and Streams"
+      ],
+      "expl": [
+        "In Greek mythology, a Hamadryads spirit was believed to protect or guard trees. Each Hamadryad was uniquely tied to a specific tree and its well-being. If the tree was harmed, the spirit's existence would be endangered. This concept reflected the ancient Greeks' reverence for nature and their belief in the interconnectedness of life."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "Underworld",
+          "under world"
+        ],
+        "option_b": [
+          "Trees",
+          "tree"
+        ],
+        "option_c": [
+          "Rivers and Streams",
+          "river and streams",
+          "river and stream",
+          "rivers",
+          "streams",
+          "river",
+          "stream"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": ""
+    },
+    {
+      "id": "general-knowledge_B4_43",
+      "que": "Which digit is absent in Roman Numerals?",
+      "ans": {
+        "value": "Zero",
+        "correct_entity": "option_b"
+      },
+      "options": [
+        "One",
+        "Zero",
+        "Ten"
+      ],
+      "expl": [
+        "Identify the missing Roman numeral digit. Determine the absent numeral from the sequence and decipher the numeral system used in ancient Rome."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "One",
+          "1"
+        ],
+        "option_b": [
+          "Zero"
+        ],
+        "option_c": [
+          "Ten",
+          "10"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": ""
+    },
+    {
+      "id": "general-knowledge_B4_44",
+      "que": "What does the Italian term \"terracotta\" translate to?",
+      "ans": {
+        "value": "Baked Earth",
+        "correct_entity": "option_b"
+      },
+      "options": [
+        "Green Earth",
+        "Baked Earth",
+        "Red Earth"
+      ],
+      "expl": [
+        "The Italian term \"terracotta\" translates to \"baked earth\" or \"fired clay.\" It refers to a type of clay-based ceramic material that is molded and then fired at high temperatures to create durable and porous reddish-brown pottery. Terracotta has been used for centuries in various cultures for artistic, architectural, and functional purposes."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "Green Earth",
+          "green"
+        ],
+        "option_b": [
+          "Baked Earth"
+        ],
+        "option_c": [
+          "Red Earth",
+          "red",
+          "earth"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": ""
+    },
+    {
+      "id": "general-knowledge_B4_45",
+      "que": "Which country was the first to introduce old-age pensions?",
+      "ans": {
+        "value": "Germany",
+        "correct_entity": "option_b"
+      },
+      "options": [
+        "France",
+        "Germany",
+        "United Kingdom"
+      ],
+      "expl": [
+        "Germany is credited with being the first country to introduce old age pensions. This landmark social policy was established in the late 19th century, setting a precedent for other nations to follow in providing financial support to the elderly population."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "France"
+        ],
+        "option_b": [
+          "Germany"
+        ],
+        "option_c": [
+          "United Kingdom",
+          "u. k.",
+          "uk"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": ""
+    },
+    {
+      "id": "general-knowledge_B4_46",
+      "que": "Whose statue is located in Leicester Square?",
+      "ans": {
+        "value": "William Shakespeare",
+        "correct_entity": "option_a"
+      },
+      "options": [
+        "William Shakespeare",
+        "Marilyn Monroe",
+        "Audrey Hepburn"
+      ],
+      "expl": [
+        "The statue in Leicester Square is of William Shakespeare, honoring his enduring influence on literature and culture. It's a well-known landmark that celebrates his timeless contributions to the arts."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "William Shakespeare",
+          "william",
+          "shakespeare"
+        ],
+        "option_b": [
+          "Marilyn Monroe",
+          "marilin",
+          "monroe",
+          "marilyn"
+        ],
+        "option_c": [
+          "Audrey Hepburn",
+          "audrey",
+          "hepburn"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": ""
+    },
+    {
+      "id": "general-knowledge_B4_47",
+      "que": "In which city did the first public opera house make its debut?",
+      "ans": {
+        "value": "Venice",
+        "correct_entity": "option_c"
+      },
+      "options": [
+        "Paris",
+        "Milan",
+        "Venice"
+      ],
+      "expl": [
+        "The first public opera house, the Teatro San Cassiano, made its debut in Venice, Italy, in the 17th century. This marked a pivotal moment in the history of opera, as it transitioned from private court performances to being accessible to a wider audience."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "Paris"
+        ],
+        "option_b": [
+          "Milan"
+        ],
+        "option_c": [
+          "Venice"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": ""
+    },
+    {
+      "id": "general-knowledge_B4_48",
+      "que": "On what material is the famous artwork Mona Lisa painted?",
+      "ans": {
+        "value": "Wood",
+        "correct_entity": "option_a"
+      },
+      "options": [
+        "Wood",
+        "Metal",
+        "Canvas"
+      ],
+      "expl": [
+        "The Mona Lisa was painted with oil paints on a poplar wood panel and measures 30 in tall by 20 in wide. Although the Mona Lisa currently resides in the Louvre Museum in France, the painting has never been insured as it is considered priceless."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "Wood",
+          "woods"
+        ],
+        "option_b": [
+          "Metal",
+          "metals"
+        ],
+        "option_c": [
+          "Canvas"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": ""
+    },
+    {
+      "id": "general-knowledge_B4_49",
+      "que": "Which country invented the bedsprings?",
+      "ans": {
+        "value": "Germany",
+        "correct_entity": "option_c"
+      },
+      "options": [
+        "England",
+        "Canada",
+        "Germany"
+      ],
+      "expl": [
+        "The mid-19th Century saw the appearance of the coil spring which was patented in 1865. The German inventor Heinrich Westphal invented the first innerspring mattress in 1871."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "England"
+        ],
+        "option_b": [
+          "Canada"
+        ],
+        "option_c": [
+          "Germany"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": ""
+    },
+    {
+      "id": "general-knowledge_B4_50",
+      "que": "What metal impurity makes Rubies red and Emeralds green?",
+      "ans": {
+        "value": "Chromium",
+        "correct_entity": "option_b"
+      },
+      "options": [
+        "Copper",
+        "Chromium",
+        "Iron"
+      ],
+      "expl": [
+        "Rubies owe their red hue to the presence of chromium ions within the crystal lattice. On the other hand, the green color of emeralds is a result of trace amounts of chromium. These metal impurities interact with the crystal structure of the gemstones, causing them to exhibit their distinctive and coveted colors."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "Copper"
+        ],
+        "option_b": [
+          "Chromium"
+        ],
+        "option_c": [
+          "Iron",
+          "irons"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": ""
+    },
+    {
+      "id": "general-knowledge_B4_51",
+      "que": "Whose slogan was \"Don't Leave Home Without it\"?",
+      "ans": {
+        "value": "American Express",
+        "correct_entity": "option_c"
+      },
+      "options": [
+        "Mercedes",
+        "Apple",
+        "American Express"
+      ],
+      "expl": [
+        "The slogan \"Don't Leave Home Without It\" was associated with American Express, a renowned financial services corporation. This iconic catchphrase emphasized the company's credit card's widespread acceptance and convenience, implying that it should always be carried for any financial need, wherever you go."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "Mercedes"
+        ],
+        "option_b": [
+          "Apple"
+        ],
+        "option_c": [
+          "American Express",
+          "american",
+          "express"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": ""
+    },
+    {
+      "id": "general-knowledge_B4_52",
+      "que": "Whose recruiting slogan was \"Be All You Can Be\"?",
+      "ans": {
+        "value": "US Army",
+        "correct_entity": "option_b"
+      },
+      "options": [
+        "Microsoft",
+        "US Army",
+        "Google"
+      ],
+      "expl": [
+        "The recruiting slogan \"Be All You Can Be\" was used by the United States Army as a prominent campaign during the 1980s and 1990s. This slogan aimed to inspire individuals to reach their full potential by joining the Army, highlighting personal growth and development within the military context."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "Microsoft"
+        ],
+        "option_b": [
+          "US Army"
+        ],
+        "option_c": [
+          "Google"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": ""
+    },
+    {
+      "id": "general-knowledge_B4_53",
+      "que": "What do you call heavy matter placed at the bottom of the ship to provide balance?",
+      "ans": {
+        "value": "Ballast",
+        "correct_entity": "option_a"
+      },
+      "options": [
+        "Ballast",
+        "Castor",
+        "Gunwale"
+      ],
+      "expl": [
+        "Ballast refers to the dense material loaded into a ship's lower compartments to ensure stability and balance. This practice prevents the vessel from tilting excessively and helps it navigate smoothly through varying sea conditions."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "Ballast",
+          "ball last"
+        ],
+        "option_b": [
+          "Castor",
+          "caster"
+        ],
+        "option_c": [
+          "Gunwale",
+          "gun wale"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": ""
+    },
+    {
+      "id": "general-knowledge_B4_54",
+      "que": "Which is a system used to detect objects underwater via sound pulses?",
+      "ans": {
+        "value": "Sonar",
+        "correct_entity": "option_b"
+      },
+      "options": [
+        "Radar",
+        "Sonar",
+        "Lidar"
+      ],
+      "expl": [
+        "Sonar, short for \"sound navigation and ranging\" is the system employed to detect underwater objects through the transmission and reception of sound pulses. By emitting sound waves into the water and analyzing their echoes, sonar technology allows for precise localization of submerged objects, aiding navigation, mapping, and various underwater applications."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "Radar"
+        ],
+        "option_b": [
+          "Sonar"
+        ],
+        "option_c": [
+          "Lidar",
+          "leader"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": ""
+    },
+    {
+      "id": "general-knowledge_B4_55",
+      "que": "In the abbreviation \"YMCA\" what does the M stand for?",
+      "ans": {
+        "value": "Men",
+        "correct_entity": "option_a"
+      },
+      "options": [
+        "Men",
+        "Manor",
+        "Member"
+      ],
+      "expl": [
+        "The abbreviation \"YMCA\" stands for \"Young Men's Christian Association.\" The \"M\" in YMCA stands for \"Men,\" reflecting the organization's historical focus on providing Christian-based programs and support for young men's physical, mental, and spiritual development. Established in 1844, YMCA has grown to encompass diverse community services globally."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "Men",
+          "mens"
+        ],
+        "option_b": [
+          "Manor",
+          "manors",
+          "manner"
+        ],
+        "option_c": [
+          "Member",
+          "members"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": ""
+    },
+    {
+      "id": "general-knowledge_B4_56",
+      "que": "What is the only country that displays the Bible in its flag?",
+      "ans": {
+        "value": "Dominican Republic",
+        "correct_entity": "option_a"
+      },
+      "options": [
+        "Dominican Republic",
+        "Panama",
+        "Nicaragua"
+      ],
+      "expl": [
+        "The only country that displays the Bible on its flag is the Dominican Republic. The flag features an open Bible placed over a cross, representing the nation's strong Christian heritage and values. This unique design symbolizes the country's commitment to faith and spirituality in its identity."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "Dominican Republic",
+          "republic",
+          "dominican",
+          "Dominic Republic"
+        ],
+        "option_b": [
+          "Panama"
+        ],
+        "option_c": [
+          "Nicaragua"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": ""
+    },
+    {
+      "id": "general-knowledge_B4_57",
+      "que": "What does the first \"C\" stand for for the TV channel CNBC?",
+      "ans": {
+        "value": "Consumer",
+        "correct_entity": "option_b"
+      },
+      "options": [
+        "Channel",
+        "Consumer",
+        "Commercial"
+      ],
+      "expl": [
+        "The first \"C\" in CNBC stands for \"Consumer.\" It's a TV channel renowned for its financial and business news coverage, initially focusing on consumer trends and economic insights."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "Channel",
+          "channels"
+        ],
+        "option_b": [
+          "Consumer",
+          "consumers"
+        ],
+        "option_c": [
+          "Commercial",
+          "commercials"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": ""
+    },
+    {
+      "id": "general-knowledge_B4_58",
+      "que": "Which SpaceX spacecraft had a test flight in April 2023?",
+      "ans": {
+        "value": "Starship",
+        "correct_entity": "option_a"
+      },
+      "options": [
+        "Starship",
+        "Falcon 9",
+        "Blue Origin"
+      ],
+      "expl": [
+        "In April 2023, SpaceX conducted a test flight of their spacecraft named \"Starship.\" The test flight marked a significant milestone in SpaceX's ongoing efforts to develop and refine the technologies required for future missions to Mars and beyond."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "Starship",
+          "star ship"
+        ],
+        "option_b": [
+          "Falcon 9",
+          "falcon",
+          "falcon nine",
+          "nine"
+        ],
+        "option_c": [
+          "Blue Origin",
+          "blue",
+          "origin"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": ""
+    },
+    {
+      "id": "general-knowledge_B4_59",
+      "que": "What do you call the holes used for shoelaces in a shoe?",
+      "ans": {
+        "value": "Eyelet",
+        "correct_entity": "option_c"
+      },
+      "options": [
+        "Aglet",
+        "Grumlet",
+        "Eyelet"
+      ],
+      "expl": [
+        "The holes used for shoelaces in a shoe are called \"eyelets.\" Eyelets provide a way to secure and adjust the fit of the shoe by threading shoelaces through them. They are usually reinforced with metal or plastic rings to prevent wear and tear, ensuring the longevity of the shoe's design and functionality."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "Aglet",
+          "egg late",
+          "egglet"
+        ],
+        "option_b": [
+          "Grumlet",
+          "grumlate"
+        ],
+        "option_c": [
+          "Eyelet",
+          "eye late"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": ""
+    },
+    {
+      "id": "general-knowledge_B4_60",
+      "que": "What do you call a procedure or set of steps to solve a mathematical computation?",
+      "ans": {
+        "value": "Algorithm",
+        "correct_entity": "option_c"
+      },
+      "options": [
+        "Formula",
+        "Equation",
+        "Algorithm"
+      ],
+      "expl": [
+        "The term for a systematic process employed to solve mathematical calculations is known as an \"algorithm.\" An algorithm outlines a sequence of well-defined steps aimed at achieving a specific mathematical outcome. It serves as a fundamental concept in computer science and various fields where precise problem-solving methods are essential."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "Formula",
+          "formulas"
+        ],
+        "option_b": [
+          "Equation",
+          "equations"
+        ],
+        "option_c": [
+          "Algorithm",
+          "algorithms"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": ""
+    },
+    {
+      "id": "general-knowledge_B4_61",
+      "que": "What do you call the area of a ship's side where people board and disembark?",
+      "ans": {
+        "value": "Gangway",
+        "correct_entity": "option_b"
+      },
+      "options": [
+        "Sternway",
+        "Gangway",
+        "Starboard"
+      ],
+      "expl": [
+        "The area of a ship's side used for boarding and disembarking is called the \"gangway\" or \"boarding ramp.\" It's a designated entry and exit point for passengers and crew, ensuring safe and efficient movement between the vessel and the dock. This vital maritime feature facilitates smooth embarkation and debarkation processes."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "Sternway",
+          "stern way",
+          "stern"
+        ],
+        "option_b": [
+          "Gangway",
+          "gang away",
+          "gang way"
+        ],
+        "option_c": [
+          "Starboard",
+          "star board"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": ""
+    },
+    {
+      "id": "general-knowledge_B4_62",
+      "que": "What is the name given to the key of a map?",
+      "ans": {
+        "value": "Legend",
+        "correct_entity": "option_a"
+      },
+      "options": [
+        "Legend",
+        "Index",
+        "Errata"
+      ],
+      "expl": [
+        "The term used to refer to the key of a map is known as a \"legend.\" A legend provides essential information about the symbols and colors used on a map to represent various features, making it easier for users to interpret and understand the map's content."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "Legend",
+          "legends"
+        ],
+        "option_b": [
+          "Index"
+        ],
+        "option_c": [
+          "Errata",
+          "irata",
+          "irada",
+          "erotica"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": ""
+    },
+    {
+      "id": "general-knowledge_B4_63",
+      "que": "The mascots Snap, Crackle, and Pop are associated with which breakfast cereal?",
+      "ans": {
+        "value": "Rice Krispies",
+        "correct_entity": "option_b"
+      },
+      "options": [
+        "Froot Loops",
+        "Rice Krispies",
+        "Corn Flakes"
+      ],
+      "expl": [
+        "The famous mascots Snap, Crackle, and Pop are closely associated with the beloved cereal Rice Krispies. For years, they've brought joy to generations with their playful actions and the cereal's signature sound when milk is added."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "Froot Loops",
+          "froot",
+          "loops"
+        ],
+        "option_b": [
+          "Rice Krispies",
+          "rice",
+          "krispies",
+          "Rice Krispy"
+        ],
+        "option_c": [
+          "Corn Flakes",
+          "corn flake",
+          "corn",
+          "flakes",
+          "flake"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": ""
+    },
+    {
+      "id": "general-knowledge_B4_64",
+      "que": "After five decades, the U.S. officially re-opened its embassy in which country?",
+      "ans": {
+        "value": "Cuba",
+        "correct_entity": "option_b"
+      },
+      "options": [
+        "North Korea",
+        "Cuba",
+        "Iraq"
+      ],
+      "expl": [
+        "After 5 decades, the U.S. officially re-opened its embassy in Cuba. The diplomatic move marked a significant step in normalizing relations between the two nations after years of strained ties."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "North Korea",
+          "korea",
+          "north"
+        ],
+        "option_b": [
+          "Cuba"
+        ],
+        "option_c": [
+          "Iraq"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": ""
+    },
+    {
+      "id": "general-knowledge_B4_65",
+      "que": "Which automotive brand has a model called the \"Viper\"?",
+      "ans": {
+        "value": "Dodge",
+        "correct_entity": "option_c"
+      },
+      "options": [
+        "Ford",
+        "Chevrolet",
+        "Dodge"
+      ],
+      "expl": [
+        "The \"Viper\" by Dodge is a legendary model, famous for its strong performance and unique design. It's a high-performance sports car with a devoted fanbase, showcasing Dodge's dedication to power and standing as an iconic American muscle car."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "Ford"
+        ],
+        "option_b": [
+          "Chevrolet"
+        ],
+        "option_c": [
+          "Dodge"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": ""
+    },
+    {
+      "id": "general-knowledge_B4_66",
+      "que": "Which city's name means \"Fragrant Harbor\"?",
+      "ans": {
+        "value": "Hong Kong",
+        "correct_entity": "option_a"
+      },
+      "options": [
+        "Hong Kong",
+        "Singapore",
+        "Mumbai"
+      ],
+      "expl": [
+        "The city that means \"Fragrant Harbor\" is Hong Kong. Its name originates from the Cantonese words \"heung\" (fragrant) and \"gong\" (harbor), referring to the city's aromatic waters and bustling port."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "Hong Kong",
+          "hong",
+          "kong"
+        ],
+        "option_b": [
+          "Singapore"
+        ],
+        "option_c": [
+          "Mumbai"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": ""
+    },
+    {
+      "id": "general-knowledge_B4_67",
+      "que": "Which automaker has the Maybach as its luxury brand?",
+      "ans": {
+        "value": "Mercedes-Benz",
+        "correct_entity": "option_c"
+      },
+      "options": [
+        "Toyota",
+        "Bugatti",
+        "Mercedes-Benz"
+      ],
+      "expl": [
+        "Maybach, linked to Mercedes-Benz, epitomizes utmost luxury, crafting elite vehicles for comfort, performance, and elegance. Once independent, it joined Mercedes to serve high-end customers desiring peerless automotive luxury and innovation."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "Toyota"
+        ],
+        "option_b": [
+          "Bugatti"
+        ],
+        "option_c": [
+          "Mercedes-Benz",
+          "mercedes benz",
+          "mercedes",
+          "benz"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": ""
+    },
+    {
+      "id": "general-knowledge_B4_68",
+      "que": "In which city will you find Piccadilly Circus?",
+      "ans": {
+        "value": "London",
+        "correct_entity": "option_b"
+      },
+      "options": [
+        "Paris",
+        "London",
+        "Mumbai"
+      ],
+      "expl": [
+        "Piccadilly Circus is located in the vibrant city of London, England. It's a famous public space and traffic intersection known for its illuminated advertising signs and bustling atmosphere."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "Paris"
+        ],
+        "option_b": [
+          "London"
+        ],
+        "option_c": [
+          "Mumbai"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": ""
+    },
+    {
+      "id": "general-knowledge_B4_69",
+      "que": "What is the nationality of fashion designer Tommy Hilfiger?",
+      "ans": {
+        "value": "American",
+        "correct_entity": "option_c"
+      },
+      "options": [
+        "French",
+        "German",
+        "American"
+      ],
+      "expl": [
+        "Tommy Hilfiger is an American fashion designer. He is known for his iconic designs that blend classic American styles with a modern twist. His brand focuses on preppy and casual clothing, making him a prominent figure in the fashion industry."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "French"
+        ],
+        "option_b": [
+          "German"
+        ],
+        "option_c": [
+          "American"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": ""
+    },
+    {
+      "id": "general-knowledge_B4_70",
+      "que": "This is a National Anthem of which country?",
+      "ans": {
+        "value": "France",
+        "correct_entity": "option_a"
+      },
+      "options": [
+        "France",
+        "Canada",
+        "Germany"
+      ],
+      "expl": [
+        "The French National Anthem, \"La Marseillaise,\" composed in 1792, originated as a patriotic song for soldiers. The anthem's name comes from the French city of Marseille, where it gained popularity among revolutionary troops. Its powerful melody and historical significance continue to evoke French national pride."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "France"
+        ],
+        "option_b": [
+          "Canada"
+        ],
+        "option_c": [
+          "Germany"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": ""
+    },
+    {
+      "id": "general-knowledge_B4_71",
+      "que": "Listen to this voice and tell me which language is being spoken?",
+      "ans": {
+        "value": "Spanish",
+        "correct_entity": "option_a"
+      },
+      "options": [
+        "Spanish",
+        "French",
+        "Latin"
+      ],
+      "expl": [
+        "Spanish, or Español, is the second most natively spoken language globally, with over 460 million native speakers. It originated in the Iberian Peninsula and spread due to colonization. Spanish is an official language in 21 countries. \"Spanglish,\" a blend of Spanish and English, is spoken by millions in the US."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "Spanish"
+        ],
+        "option_b": [
+          "French"
+        ],
+        "option_c": [
+          "Latin"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": ""
+    }
+  ],
+  "IMAGE_QUESTIONS": [],
+  "AUDIO_QUESTIONS": []
+}

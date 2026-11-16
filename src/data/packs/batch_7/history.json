@@ -1,0 +1,1547 @@
+{
+  "TEXT_QUESTIONS": [
+    {
+      "id": "history_B7_1",
+      "que": "Who became the UK Prime Minister in October 2022?",
+      "ans": {
+        "value": "Rishi Sunak",
+        "correct_entity": "option_c"
+      },
+      "options": [
+        "Liz Truss",
+        "Boris Johnson",
+        "Rishi Sunak"
+      ],
+      "expl": [
+        "Rishi Sunak became the UK's Prime Minister in October 2022 after Liz Truss resigned. He is the first British Asian to hold the role and the youngest PM in modern times. Sunak previously served as Chancellor of the Exchequer."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "Liz Truss",
+          "Liz",
+          "Truss"
+        ],
+        "option_b": [
+          "Boris Johnson",
+          "Boris",
+          "Johnson",
+          "boris jhonson"
+        ],
+        "option_c": [
+          "Rishi Sunak",
+          "rishi",
+          "sunak",
+          "suna"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": ""
+    },
+    {
+      "id": "history_B7_2",
+      "que": "Who served as President of the European Central Bank in 2024?",
+      "ans": {
+        "value": "Lagarde",
+        "correct_entity": "option_b"
+      },
+      "options": [
+        "Ursula",
+        "Lagarde",
+        "Merkel"
+      ],
+      "expl": [
+        "Christine Lagarde continued as the President of the European Central Bank (ECB) in 2024. She has held the job since 2019, guiding eurozone financial policy. Lagarde also previously led the International Monetary Fund."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "Ursula"
+        ],
+        "option_b": [
+          "Lagarde"
+        ],
+        "option_c": [
+          "Merkel",
+          "markal",
+          "markel",
+          "markar"
+        ]
+      },
+      "isActive": false,
+      "imageUrl": "",
+      "audioUrl": ""
+    },
+    {
+      "id": "history_B7_3",
+      "que": "Who became the Chair of the African Union Commission in 2025?",
+      "ans": {
+        "value": "Youssouf",
+        "correct_entity": "option_b"
+      },
+      "options": [
+        "Mahamat",
+        "Youssouf",
+        "Zuma"
+      ],
+      "expl": [
+        "Mahamoud Ali Youssouf from Djibouti became the Chair of the African Union Commission in early 2025. He previously served as Djibouti's foreign minister. His leadership focuses on regional peace, trade, and youth development."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "Mahamat",
+          "maha",
+          "mat",
+          "muhammad"
+        ],
+        "option_b": [
+          "Youssouf",
+          "yusuf",
+          "you soup"
+        ],
+        "option_c": [
+          "Zuma",
+          "juma"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": ""
+    },
+    {
+      "id": "history_B7_4",
+      "que": "Who was the first person to walk on the Moon?",
+      "ans": {
+        "value": "Neil Armstrong",
+        "correct_entity": "option_b"
+      },
+      "options": [
+        "Buzz Aldrin",
+        "Neil Armstrong",
+        "Yuri Gagarin"
+      ],
+      "expl": [
+        "Neil Armstrong became the first person to walk on the Moon on July 20, 1969. He was an astronaut on NASA's Apollo 11 mission. His famous words were, 'That's one small step for man, one giant leap for mankind.'"
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "Buzz Aldrin"
+        ],
+        "option_b": [
+          "Neil Armstrong"
+        ],
+        "option_c": [
+          "Yuri Gagarin"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": ""
+    },
+    {
+      "id": "history_B7_5",
+      "que": "Which Pope passed away in 2025?",
+      "ans": {
+        "value": "Francis",
+        "correct_entity": "option_b"
+      },
+      "options": [
+        "Benedict",
+        "Francis",
+        "John Paul II"
+      ],
+      "expl": [
+        "Pope Francis passed away in April 2025 at the age of 88. He served as head of the Catholic Church for more than a decade. His papacy focused on compassion, climate action, and helping the poor."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "Benedict"
+        ],
+        "option_b": [
+          "Francis"
+        ],
+        "option_c": [
+          "John Paul II",
+          "John",
+          "Paul",
+          "II",
+          "John Paul the second",
+          "joan paul the second",
+          "jon paul the second",
+          "john paul two"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": ""
+    },
+    {
+      "id": "history_B7_6",
+      "que": "Which Australian political leader was re-elected in 2025?",
+      "ans": {
+        "value": "Albanese",
+        "correct_entity": "option_b"
+      },
+      "options": [
+        "Morrison",
+        "Albanese",
+        "Dutton"
+      ],
+      "expl": [
+        "Anthony Albanese and the Labor Party won re-election in Australia's 2025 federal election. It marked his second term as Prime Minister after first winning in 2022. His campaign focused on climate action, cost-of-living relief, and renewable energy jobs."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "Morrison",
+          "morri",
+          "son",
+          "moreyson"
+        ],
+        "option_b": [
+          "Albanese",
+          "alvin a. c."
+        ],
+        "option_c": [
+          "Dutton"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": ""
+    },
+    {
+      "id": "history_B7_7",
+      "que": "Who was the first president of the United States?",
+      "ans": {
+        "value": "George Washington",
+        "correct_entity": "option_a"
+      },
+      "options": [
+        "George Washington",
+        "John Adams",
+        "Thomas Jefferson"
+      ],
+      "expl": [
+        "George Washington became the first U.S. President in 1789 and served two terms until 1797. He refused a third term, which later inspired the two-term limit law. He's the only president unanimously elected - twice."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "George Washington",
+          "George",
+          "Washington"
+        ],
+        "option_b": [
+          "John Adams",
+          "adam",
+          "adams",
+          "john adam",
+          "joan adam",
+          "jon",
+          "joan",
+          "joan adams"
+        ],
+        "option_c": [
+          "Thomas Jefferson",
+          "jeff",
+          "jefferson",
+          "thomas"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": ""
+    },
+    {
+      "id": "history_B7_8",
+      "que": "Who was the first woman to fly solo across the Atlantic?",
+      "ans": {
+        "value": "Amelia Earhart",
+        "correct_entity": "option_c"
+      },
+      "options": [
+        "Bessie Coleman",
+        "Valentina Tereshkova",
+        "Amelia Earhart"
+      ],
+      "expl": [
+        "Amelia Earhart became the first woman to fly solo across the Atlantic Ocean in 1932. The flight took nearly 15 hours and made her an international hero. She later mysteriously disappeared in 1937 during another world flight attempt."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "Bessie Coleman",
+          "Bessie",
+          "Coleman"
+        ],
+        "option_b": [
+          "Valentina Tereshkova",
+          "Valentina",
+          "Tereshkova",
+          "terrace kova",
+          "terescoa",
+          "terescova"
+        ],
+        "option_c": [
+          "Amelia Earhart",
+          "amelia",
+          "earhart"
+        ]
+      },
+      "isActive": false,
+      "imageUrl": "",
+      "audioUrl": ""
+    },
+    {
+      "id": "history_B7_9",
+      "que": "Who was the first emperor of China?",
+      "ans": {
+        "value": "Qin Shi Huang",
+        "correct_entity": "option_a"
+      },
+      "options": [
+        "Qin Shi Huang",
+        "Liu Bang",
+        "Sun Yat-sen"
+      ],
+      "expl": [
+        "Qin Shi Huang united China in 221 BCE and became its first emperor. He started the construction of the Great Wall and created a single written language. His tomb contains the famous Terracotta Army."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "Qin Shi Huang",
+          "Qin",
+          "Shi",
+          "Huang",
+          "kin shi huang",
+          "king shi",
+          "quincy yuan",
+          "chin chin hua"
+        ],
+        "option_b": [
+          "Liu Bang",
+          "Liu",
+          "Bang",
+          "louie wang"
+        ],
+        "option_c": [
+          "Sun Yat-sen",
+          "Sun",
+          "Yat-sen",
+          "sun yet sen",
+          "yat sen",
+          "sen",
+          "sun yat sen"
+        ]
+      },
+      "isActive": false,
+      "imageUrl": "",
+      "audioUrl": ""
+    },
+    {
+      "id": "history_B7_10",
+      "que": "What ancient civilization built the pyramids in Egypt?",
+      "ans": {
+        "value": "Ancient Egyptians",
+        "correct_entity": "option_b"
+      },
+      "options": [
+        "Romans",
+        "Ancient Egyptians",
+        "Greeks"
+      ],
+      "expl": [
+        "The Ancient Egyptians built the pyramids over 4,500 years ago as tombs for their pharaohs. The Great Pyramid of Giza is the last surviving Wonder of the Ancient World. Some pyramids still contain hidden chambers that haven't been fully explored."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "Romans",
+          "roman"
+        ],
+        "option_b": [
+          "Ancient Egyptians",
+          "Ancient",
+          "Egyptians",
+          "Ancient Egyptian"
+        ],
+        "option_c": [
+          "Greeks",
+          "greek"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": ""
+    },
+    {
+      "id": "history_B7_11",
+      "que": "Who discovered America in 1492?",
+      "ans": {
+        "value": "Christopher Columbus",
+        "correct_entity": "option_a"
+      },
+      "options": [
+        "Christopher Columbus",
+        "Amerigo Vespucci",
+        "Leif Erikson"
+      ],
+      "expl": [
+        "Christopher Columbus reached the Americas in 1492, sailing under the Spanish flag. He believed he had reached Asia, but instead landed in the Caribbean. His voyage changed world history - for better and worse."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "Christopher Columbus",
+          "Christopher",
+          "Columbus"
+        ],
+        "option_b": [
+          "Amerigo Vespucci",
+          "Amerigo",
+          "Vespucci"
+        ],
+        "option_c": [
+          "Leif Erikson",
+          "Leif",
+          "Erikson",
+          "ericsson"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": ""
+    },
+    {
+      "id": "history_B7_12",
+      "que": "Which war was fought between the Northern and Southern United States?",
+      "ans": {
+        "value": "American Civil War",
+        "correct_entity": "option_b"
+      },
+      "options": [
+        "World War I",
+        "American Civil War",
+        "Revolutionary War"
+      ],
+      "expl": [
+        "The American Civil War was fought from 1861-1865 over slavery and the future of the Union. It resulted in over 600,000 deaths, making it the deadliest war in U.S. history. The North (Union) ultimately defeated the South (Confederacy)."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "World War I",
+          "World",
+          "world war one"
+        ],
+        "option_b": [
+          "American Civil War",
+          "American",
+          "Civil",
+          "amaerican civil"
+        ],
+        "option_c": [
+          "Revolutionary War",
+          "Revolutionary"
+        ]
+      },
+      "isActive": false,
+      "imageUrl": "",
+      "audioUrl": ""
+    },
+    {
+      "id": "history_B7_13",
+      "que": "Who was the first emperor of Rome?",
+      "ans": {
+        "value": "Augustus",
+        "correct_entity": "option_b"
+      },
+      "options": [
+        "Julius Caesar",
+        "Augustus",
+        "Nero"
+      ],
+      "expl": [
+        "Augustus became Rome's first emperor in 27 BCE, after the fall of the Roman Republic. He was originally named Octavian and was Julius Caesar's adopted son. His rule started the Pax Romana, a 200-year period of peace."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "Julius Caesar",
+          "Julius",
+          "Caesar",
+          "scissor",
+          "julius scissor"
+        ],
+        "option_b": [
+          "Augustus"
+        ],
+        "option_c": [
+          "Nero",
+          "narrow"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": ""
+    },
+    {
+      "id": "history_B7_14",
+      "que": "Which country was the first to grant women the right to vote?",
+      "ans": {
+        "value": "New Zealand",
+        "correct_entity": "option_c"
+      },
+      "options": [
+        "USA",
+        "UK",
+        "New Zealand"
+      ],
+      "expl": [
+        "New Zealand became the first country to give women voting rights in 1893. This happened thanks to strong activism and a massive petition. Women could vote - but still couldn't run for Parliament until later."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "USA",
+          "United State",
+          "u. s.",
+          "us",
+          "usa",
+          "u. s. a.",
+          "united states of america"
+        ],
+        "option_b": [
+          "UK",
+          "u. k.",
+          "yu k."
+        ],
+        "option_c": [
+          "New Zealand",
+          "New",
+          "Zealand"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": ""
+    },
+    {
+      "id": "history_B7_15",
+      "que": "Who was the leader of the Soviet Union during World War II?",
+      "ans": {
+        "value": "Joseph Stalin",
+        "correct_entity": "option_b"
+      },
+      "options": [
+        "Lenin",
+        "Joseph Stalin",
+        "Khrushchev"
+      ],
+      "expl": [
+        "Joseph Stalin ruled the Soviet Union through most of World War II. He led the country against Nazi Germany and helped the Allies win. Despite that, his dictatorship caused millions of deaths through purges and forced labor camps."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "Lenin"
+        ],
+        "option_b": [
+          "Joseph Stalin",
+          "Joseph",
+          "Stalin"
+        ],
+        "option_c": [
+          "Khrushchev",
+          "crochet"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": ""
+    },
+    {
+      "id": "history_B7_16",
+      "que": "Which battle marked a turning point in the American Revolution?",
+      "ans": {
+        "value": "Saratoga",
+        "correct_entity": "option_c"
+      },
+      "options": [
+        "Yorktown",
+        "Lexington",
+        "Saratoga"
+      ],
+      "expl": [
+        "The Battle of Saratoga in 1777 was the turning point of the American Revolution. After the American victory, France officially joined the war as an ally. Without French help, the U.S. probably wouldn't have won independence."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "Yorktown",
+          "york town",
+          "yok town"
+        ],
+        "option_b": [
+          "Lexington"
+        ],
+        "option_c": [
+          "Saratoga",
+          "sara doha",
+          "saradova"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": ""
+    },
+    {
+      "id": "history_B7_17",
+      "que": "Which empire was ruled by Julius Caesar, Augustus, and Nero?",
+      "ans": {
+        "value": "Roman",
+        "correct_entity": "option_b"
+      },
+      "options": [
+        "Greek",
+        "Roman",
+        "Ottoman"
+      ],
+      "expl": [
+        "The Roman Empire was home to leaders like Julius Caesar, Augustus, and Nero. It expanded across Europe, North Africa, and parts of Asia. At its peak, over 50 million people lived under Roman rule."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "Greek",
+          "greeks"
+        ],
+        "option_b": [
+          "Roman"
+        ],
+        "option_c": [
+          "Ottoman",
+          "auto man",
+          "automan"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": ""
+    },
+    {
+      "id": "history_B7_18",
+      "que": "Who was the British Prime Minister during most of World War II?",
+      "ans": {
+        "value": "Winston Churchill",
+        "correct_entity": "option_b"
+      },
+      "options": [
+        "Neville Chamberlain",
+        "Winston Churchill",
+        "Tony Blair"
+      ],
+      "expl": [
+        "Winston Churchill led the United Kingdom through most of World War II. He became famous for his powerful speeches and refusal to surrender. Many credit him with boosting British morale during the darkest days of the war."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "Neville Chamberlain",
+          "Neville",
+          "Chamberlain"
+        ],
+        "option_b": [
+          "Winston Churchill",
+          "Winston",
+          "Churchill"
+        ],
+        "option_c": [
+          "Tony Blair",
+          "Tony",
+          "Blair"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": ""
+    },
+    {
+      "id": "history_B7_19",
+      "que": "What was the name of the ship that carried the Pilgrims to America in 1620?",
+      "ans": {
+        "value": "Mayflower",
+        "correct_entity": "option_b"
+      },
+      "options": [
+        "Santa Maria",
+        "Mayflower",
+        "Endeavour"
+      ],
+      "expl": [
+        "The Mayflower carried a group of English settlers, known as the Pilgrims, to North America in 1620. They landed in present-day Massachusetts and signed the Mayflower Compact, an early form of self-government. The voyage took over two months across dangerous waters."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "Santa Maria",
+          "Santa",
+          "Maria"
+        ],
+        "option_b": [
+          "Mayflower",
+          "may flower"
+        ],
+        "option_c": [
+          "Endeavour",
+          "endeavor"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": ""
+    },
+    {
+      "id": "history_B7_20",
+      "que": "Which ancient civilization is credited with creating the first written language?",
+      "ans": {
+        "value": "Sumerians",
+        "correct_entity": "option_b"
+      },
+      "options": [
+        "Egyptians",
+        "Sumerians",
+        "Greeks"
+      ],
+      "expl": [
+        "The Sumerians developed the first known writing system, called cuneiform, around 3200 BCE. It was written using wedge-shaped marks on clay tablets. This early writing helped record trade, laws, and stories."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "Egyptians",
+          "egyptian"
+        ],
+        "option_b": [
+          "Sumerians",
+          "Sumerian"
+        ],
+        "option_c": [
+          "Greeks",
+          "greek"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": ""
+    },
+    {
+      "id": "history_B7_21",
+      "que": "Which company introduced the first personal computer?",
+      "ans": {
+        "value": "IBM",
+        "correct_entity": "option_a"
+      },
+      "options": [
+        "IBM",
+        "Apple",
+        "Microsoft"
+      ],
+      "expl": [
+        "IBM introduced the first personal computer, the IBM PC, in 1981. It set the standard for future home and office computers."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "IBM",
+          "i. b. m.",
+          "i. b. n."
+        ],
+        "option_b": [
+          "Apple"
+        ],
+        "option_c": [
+          "Microsoft"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": ""
+    },
+    {
+      "id": "history_B7_22",
+      "que": "Where did the Renaissance begin in the 14th century?",
+      "ans": {
+        "value": "Italy",
+        "correct_entity": "option_b"
+      },
+      "options": [
+        "France",
+        "Italy",
+        "Germany"
+      ],
+      "expl": [
+        "The Renaissance began in Italy in the 14th century, especially in cities like Florence. It sparked a revival in art, science, and culture that spread across Europe."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "France"
+        ],
+        "option_b": [
+          "Italy"
+        ],
+        "option_c": [
+          "Germany"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": ""
+    },
+    {
+      "id": "history_B7_23",
+      "que": "Who was the 16th U.S. president?",
+      "ans": {
+        "value": "Abraham Lincoln",
+        "correct_entity": "option_a"
+      },
+      "options": [
+        "Abraham Lincoln",
+        "Andrew Jackson",
+        "Ulysses Grant"
+      ],
+      "expl": [
+        "Abraham Lincoln was the 16th president of the United States, best known for leading the country through the Civil War and abolishing slavery. He served from 1861 until his assassination in 1865."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "Abraham Lincoln",
+          "lincoln",
+          "abraham"
+        ],
+        "option_b": [
+          "Andrew Jackson",
+          "Andrew",
+          "Jackson",
+          "andrea jackson",
+          "andrea"
+        ],
+        "option_c": [
+          "Ulysses Grant",
+          "Ulysses",
+          "Grant"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": ""
+    },
+    {
+      "id": "history_B7_24",
+      "que": "Which ship's sinking helped bring the U.S. into WWI?",
+      "ans": {
+        "value": "RMS Lusitania",
+        "correct_entity": "option_b"
+      },
+      "options": [
+        "Titanic",
+        "RMS Lusitania",
+        "Bismarck"
+      ],
+      "expl": [
+        "The sinking of the RMS Lusitania in 1915 helped push the U.S. toward entering World War I. A German submarine torpedoed the ship, killing over 1,000 passengers."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "Titanic"
+        ],
+        "option_b": [
+          "RMS Lusitania",
+          "r. m. s. lusitania",
+          "r. m. s.",
+          "lusitania"
+        ],
+        "option_c": [
+          "Bismarck"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": ""
+    },
+    {
+      "id": "history_B7_25",
+      "que": "Winston Churchill was Prime Minister of which country?",
+      "ans": {
+        "value": "UK",
+        "correct_entity": "option_c"
+      },
+      "options": [
+        "France",
+        "USA",
+        "UK"
+      ],
+      "expl": [
+        "Winston Churchill was the Prime Minister of the United Kingdom, most famously during World War II. His speeches and leadership became symbols of British resilience."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "France"
+        ],
+        "option_b": [
+          "USA",
+          "United State",
+          "u. s.",
+          "us",
+          "usa",
+          "u. s. a.",
+          "united states of america"
+        ],
+        "option_c": [
+          "UK",
+          "u. k.",
+          "united kingdom"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": ""
+    },
+    {
+      "id": "history_B7_26",
+      "que": "In which century did the Industrial Revolution begin?",
+      "ans": {
+        "value": "18th",
+        "correct_entity": "option_b"
+      },
+      "options": [
+        "17th",
+        "18th",
+        "19th"
+      ],
+      "expl": [
+        "The Industrial Revolution began in the 18th century in Great Britain. It introduced machines, factories, and mass production, reshaping society."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "17th",
+          "seventeenth"
+        ],
+        "option_b": [
+          "18th",
+          "eighteenth"
+        ],
+        "option_c": [
+          "19th",
+          "nineteenth"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": ""
+    },
+    {
+      "id": "history_B7_27",
+      "que": "How many amendments are in the Bill of Rights?",
+      "ans": {
+        "value": "10",
+        "correct_entity": "option_a"
+      },
+      "options": [
+        "10",
+        "12",
+        "15"
+      ],
+      "expl": [
+        "The Bill of Rights is made up of the first 10 amendments to the U.S. Constitution. They protect individual freedoms like speech, religion, and due process."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "10",
+          "ten"
+        ],
+        "option_b": [
+          "12",
+          "twelve"
+        ],
+        "option_c": [
+          "15",
+          "fifteen"
+        ]
+      },
+      "isActive": false,
+      "imageUrl": "",
+      "audioUrl": ""
+    },
+    {
+      "id": "history_B7_28",
+      "que": "What does 'bourgeoisie' refer to?",
+      "ans": {
+        "value": "Middle class",
+        "correct_entity": "option_c"
+      },
+      "options": [
+        "Nobility",
+        "Working class",
+        "Middle class"
+      ],
+      "expl": [
+        "The term bourgeoisie refers to the middle class, especially in economic and social theory. It's often mentioned in discussions of capitalism and class structure."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "Nobility",
+          "nobile"
+        ],
+        "option_b": [
+          "Working class",
+          "Working"
+        ],
+        "option_c": [
+          "Middle class",
+          "Middle"
+        ]
+      },
+      "isActive": false,
+      "imageUrl": "",
+      "audioUrl": ""
+    },
+    {
+      "id": "history_B7_29",
+      "que": "Who was imprisoned 27 years before leading South Africa?",
+      "ans": {
+        "value": "Nelson Mandela",
+        "correct_entity": "option_b"
+      },
+      "options": [
+        "Desmond Tutu",
+        "Nelson Mandela",
+        "Jacob Zuma"
+      ],
+      "expl": [
+        "Nelson Mandela was imprisoned for 27 years before becoming South Africa's first Black president in 1994. He became a global symbol of resistance and reconciliation."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "Desmond Tutu",
+          "Desmond",
+          "Tutu"
+        ],
+        "option_b": [
+          "Nelson Mandela",
+          "nelson",
+          "mandela"
+        ],
+        "option_c": [
+          "Jacob Zuma",
+          "Jacob",
+          "Zuma",
+          "juma"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": ""
+    },
+    {
+      "id": "history_B7_30",
+      "que": "Which Byzantine ruler expanded the empire the most?",
+      "ans": {
+        "value": "Justinian",
+        "correct_entity": "option_a"
+      },
+      "options": [
+        "Justinian",
+        "Constantine",
+        "Theodosius"
+      ],
+      "expl": [
+        "Justinian I was the Byzantine emperor who expanded the empire and rebuilt Constantinople. He also ordered the construction of the Hagia Sophia."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "Justinian"
+        ],
+        "option_b": [
+          "Constantine",
+          "constantinian"
+        ],
+        "option_c": [
+          "Theodosius",
+          "theodore is"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": ""
+    },
+    {
+      "id": "history_B7_31",
+      "que": "Catherine the Great ruled which empire?",
+      "ans": {
+        "value": "Russia",
+        "correct_entity": "option_c"
+      },
+      "options": [
+        "Prussia",
+        "Austria",
+        "Russia"
+      ],
+      "expl": [
+        "Catherine the Great ruled the Russian Empire from 1762 to 1796. Although she was born in Prussia, she became one of Russia's longest-reigning and most influential monarchs."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "Prussia",
+          "russia"
+        ],
+        "option_b": [
+          "Austria"
+        ],
+        "option_c": [
+          "Russia"
+        ]
+      },
+      "isActive": false,
+      "imageUrl": "",
+      "audioUrl": ""
+    },
+    {
+      "id": "history_B7_32",
+      "que": "The Amber Room vanished during which war?",
+      "ans": {
+        "value": "WWII",
+        "correct_entity": "option_b"
+      },
+      "options": [
+        "WWI",
+        "WWII",
+        "Cold War"
+      ],
+      "expl": [
+        "The Amber Room vanished during World War II after being looted by the Nazis. Its location is still considered one of history's greatest art mysteries."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "WWI",
+          "world war one",
+          "war one"
+        ],
+        "option_b": [
+          "WWII",
+          "World war two"
+        ],
+        "option_c": [
+          "Cold War",
+          "Cold",
+          "War"
+        ]
+      },
+      "isActive": false,
+      "imageUrl": "",
+      "audioUrl": ""
+    },
+    {
+      "id": "history_B7_33",
+      "que": "Vietnam was split at which parallel in 1954?",
+      "ans": {
+        "value": "17th",
+        "correct_entity": "option_b"
+      },
+      "options": [
+        "12th",
+        "17th",
+        "20th"
+      ],
+      "expl": [
+        "Vietnam was divided at the 17th parallel in 1954 after the Geneva Accords. It separated communist North Vietnam and anti-communist South Vietnam."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "12th",
+          "twelveth",
+          "twelfth"
+        ],
+        "option_b": [
+          "17th",
+          "seventeenth"
+        ],
+        "option_c": [
+          "20th",
+          "twentyth",
+          "twentieth"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": ""
+    },
+    {
+      "id": "history_B7_34",
+      "que": "Who was the only US president to serve three terms?",
+      "ans": {
+        "value": "FDR",
+        "correct_entity": "option_a"
+      },
+      "options": [
+        "FDR",
+        "Theodore Roosevelt",
+        "Harry Truman"
+      ],
+      "expl": [
+        "Franklin D. Roosevelt is the only U.S. president to serve more than two terms. He was elected four times and led the country through the Great Depression and World War II."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "FDR",
+          "f. d. r.",
+          "f. b. r"
+        ],
+        "option_b": [
+          "Theodore Roosevelt",
+          "Theodore",
+          "Roosevelt"
+        ],
+        "option_c": [
+          "Harry Truman",
+          "Harry",
+          "Truman"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": ""
+    },
+    {
+      "id": "history_B7_35",
+      "que": "Which Greek hero was shot in the heel?",
+      "ans": {
+        "value": "Achilles",
+        "correct_entity": "option_a"
+      },
+      "options": [
+        "Achilles",
+        "Hercules",
+        "Odysseus"
+      ],
+      "expl": [
+        "In Greek mythology, Achilles was killed by an arrow to his heel, his only weak spot. This gave rise to the term \"Achilles' heel.\""
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "Achilles",
+          "chilies"
+        ],
+        "option_b": [
+          "Hercules",
+          "Hercule"
+        ],
+        "option_c": [
+          "Odysseus"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": ""
+    },
+    {
+      "id": "history_B7_36",
+      "que": "What was ancient Egyptian paper called?",
+      "ans": {
+        "value": "Papyrus",
+        "correct_entity": "option_a"
+      },
+      "options": [
+        "Papyrus",
+        "Parchment",
+        "Velum"
+      ],
+      "expl": [
+        "The ancient Egyptians wrote on papyrus, a paper-like material made from pressed reeds. It was used for documents, scrolls, and religious texts."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "Papyrus"
+        ],
+        "option_b": [
+          "Parchment"
+        ],
+        "option_c": [
+          "Velum"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": ""
+    },
+    {
+      "id": "history_B7_37",
+      "que": "Which act gave settlers free land in the western U.S.?",
+      "ans": {
+        "value": "Homestead Act",
+        "correct_entity": "option_a"
+      },
+      "options": [
+        "Homestead Act",
+        "New Deal",
+        "Land Act"
+      ],
+      "expl": [
+        "The Homestead Act of 1862 granted free land to settlers willing to live on and farm it for five years. It helped expand the American West."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "Homestead Act",
+          "Homestead",
+          "home stead"
+        ],
+        "option_b": [
+          "New Deal",
+          "New",
+          "Deal"
+        ],
+        "option_c": [
+          "Land Act",
+          "Land"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": ""
+    },
+    {
+      "id": "history_B7_38",
+      "que": "What was the ancient supercontinent called?",
+      "ans": {
+        "value": "Pangea",
+        "correct_entity": "option_b"
+      },
+      "options": [
+        "Atlantis",
+        "Pangea",
+        "Eurasia"
+      ],
+      "expl": [
+        "Pangea was a massive supercontinent that existed about 300 million years ago. Over millions of years, it split apart due to continental drift and formed the continents we have today."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "Atlantis"
+        ],
+        "option_b": [
+          "Pangea",
+          "pangaea",
+          "panji",
+          "panjee"
+        ],
+        "option_c": [
+          "Eurasia"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": ""
+    },
+    {
+      "id": "history_B7_39",
+      "que": "The Knights of the Round Table served which king?",
+      "ans": {
+        "value": "Arthur",
+        "correct_entity": "option_a"
+      },
+      "options": [
+        "Arthur",
+        "George",
+        "Henry"
+      ],
+      "expl": [
+        "The Knights of the Round Table served the legendary King Arthur. They were known for bravery, honor, and quests like the search for the Holy Grail. The round table symbolized equality among the knights."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "Arthur"
+        ],
+        "option_b": [
+          "George"
+        ],
+        "option_c": [
+          "Henry"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": ""
+    },
+    {
+      "id": "history_B7_40",
+      "que": "Who discovered Florida?",
+      "ans": {
+        "value": "Ponce de Leon",
+        "correct_entity": "option_a"
+      },
+      "options": [
+        "Ponce de Leon",
+        "Christopher Columbus",
+        "Amerigo Vespucci"
+      ],
+      "expl": [
+        "Ponce de Leon is credited with discovering Florida in 1513. He was searching for the mythical Fountain of Youth. The land was named \"La Florida,\" meaning \"flowery place.\""
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "Ponce de Leon",
+          "Ponce",
+          "de",
+          "Leon"
+        ],
+        "option_b": [
+          "Christopher Columbus",
+          "Christopher",
+          "Columbus"
+        ],
+        "option_c": [
+          "Amerigo Vespucci",
+          "Amerigo",
+          "Vespucci"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": ""
+    },
+    {
+      "id": "history_B7_41",
+      "que": "Which country remained neutral during WWII?",
+      "ans": {
+        "value": "Switzerland",
+        "correct_entity": "option_a"
+      },
+      "options": [
+        "Switzerland",
+        "France",
+        "Norway"
+      ],
+      "expl": [
+        "Switzerland stayed neutral during World War II. The country did not officially join either side of the conflict. Its policy of neutrality has been in place for centuries."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "Switzerland"
+        ],
+        "option_b": [
+          "France"
+        ],
+        "option_c": [
+          "Norway"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": ""
+    },
+    {
+      "id": "history_B7_42",
+      "que": "Who was the first American in space?",
+      "ans": {
+        "value": "Alan Shepard",
+        "correct_entity": "option_a"
+      },
+      "options": [
+        "Alan Shepard",
+        "John Glenn",
+        "Neil Armstrong"
+      ],
+      "expl": [
+        "Alan Shepard became the first American in space in 1961. His flight lasted about 15 minutes. He later walked on the Moon as part of Apollo 14."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "Alan Shepard",
+          "Alan",
+          "Shepard"
+        ],
+        "option_b": [
+          "John Glenn",
+          "John",
+          "Glenn",
+          "joan glenn",
+          "jon glenn"
+        ],
+        "option_c": [
+          "Neil Armstrong",
+          "Neil",
+          "Armstrong"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": ""
+    },
+    {
+      "id": "history_B7_43",
+      "que": "Who was the first woman on American currency?",
+      "ans": {
+        "value": "Martha Washington",
+        "correct_entity": "option_a"
+      },
+      "options": [
+        "Martha Washington",
+        "Susan B. Anthony",
+        "Sacagawea"
+      ],
+      "expl": [
+        "Martha Washington was the first woman to appear on U.S. currency. She was featured on the $1 silver certificate in the late 1800s. She remains the only First Lady to appear on U.S. paper money."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "Martha Washington",
+          "Martha",
+          "Washington"
+        ],
+        "option_b": [
+          "Susan B. Anthony",
+          "Susan",
+          "B.",
+          "Anthony",
+          "susan anthony"
+        ],
+        "option_c": [
+          "Sacagawea"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": ""
+    }
+  ],
+  "IMAGE_QUESTIONS": [],
+  "AUDIO_QUESTIONS": []
+}

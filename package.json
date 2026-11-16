@@ -1,0 +1,29 @@
+{
+  "name": "alexa-question-tester",
+  "version": "0.1.0",
+  "private": true,
+  "description": "Voice and Echo Show question testing skill with Koyal evaluation.",
+  "engines": {
+    "node": ">=22"
+  },
+  "scripts": {
+    "typecheck": "tsc --noEmit",
+    "test": "jest",
+    "bundle": "esbuild src/index.ts --bundle --platform=node --target=node22 --outfile=dist/index.js --external:@aws-sdk/*",
+    "build": "npm run typecheck && npm run bundle"
+  },
+  "dependencies": {
+    "@aws-sdk/client-dynamodb": "3.1161.0",
+    "@aws-sdk/lib-dynamodb": "3.1161.0",
+    "ask-sdk-core": "2.14.0",
+    "ask-sdk-model": "1.86.0"
+  },
+  "devDependencies": {
+    "@types/jest": "30.0.0",
+    "@types/node": "22.20.5",
+    "esbuild": "0.28.2",
+    "jest": "30.5.2",
+    "ts-jest": "29.4.15",
+    "typescript": "5.9.3"
+  }
+}

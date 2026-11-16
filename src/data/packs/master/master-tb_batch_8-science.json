@@ -1,0 +1,1767 @@
+{
+  "TEXT_QUESTIONS": [
+    {
+      "id": "science_B8_1",
+      "que": "What is the chemical symbol for oxygen?",
+      "ans": {
+        "value": "O",
+        "correct_entity": "option_c"
+      },
+      "options": [
+        "Ox",
+        "H",
+        "O"
+      ],
+      "expl": [
+        "The chemical symbol for oxygen is O. It is element number 8 on the periodic table. Oxygen is the gas that humans and animals breathe in to stay alive. About 21 percent of Earth's atmosphere is made up of oxygen."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "Ox",
+          "o x",
+          "oxen",
+          "o. x."
+        ],
+        "option_b": [
+          "H",
+          "capital h",
+          "letter h",
+          "h."
+        ],
+        "option_c": [
+          "O",
+          "capital o",
+          "letter o",
+          "o."
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": ""
+    },
+    {
+      "id": "science_B8_2",
+      "que": "Which sense organ do humans use to smell?",
+      "ans": {
+        "value": "Nose",
+        "correct_entity": "option_b"
+      },
+      "options": [
+        "Eyes",
+        "Nose",
+        "Ears"
+      ],
+      "expl": [
+        "Humans use their nose to smell. Tiny receptors inside the nose detect molecules in the air and send signals to the brain, which identifies the scent. The sense of smell is closely linked to memory and to the sense of taste."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "Eyes",
+          "eye",
+          "eyesight"
+        ],
+        "option_b": [
+          "Nose",
+          "nostrils"
+        ],
+        "option_c": [
+          "Ears",
+          "ear",
+          "hearing"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": ""
+    },
+    {
+      "id": "science_B8_3",
+      "que": "What is the powerhouse of the cell?",
+      "ans": {
+        "value": "Mitochondria",
+        "correct_entity": "option_b"
+      },
+      "options": [
+        "Nucleus",
+        "Mitochondria",
+        "Ribosome"
+      ],
+      "expl": [
+        "The mitochondria is known as the powerhouse of the cell because it generates most of the cell's supply of adenosine triphosphate (ATP), which is used as a source of chemical energy. Mitochondria are found in almost all eukaryotic cells."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "Nucleus",
+          "nuclei",
+          "cell nucleus"
+        ],
+        "option_b": [
+          "Mitochondria",
+          "mitochondrion",
+          "powerhouse of the cell",
+          "neetu chondria"
+        ],
+        "option_c": [
+          "Ribosome",
+          "ribosomes"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": ""
+    },
+    {
+      "id": "science_B8_4",
+      "que": "Which planet do humans live on?",
+      "ans": {
+        "value": "Earth",
+        "correct_entity": "option_b"
+      },
+      "options": [
+        "Mars",
+        "Earth",
+        "Saturn"
+      ],
+      "expl": [
+        "Humans live on Earth, the third planet from the Sun. Earth is the only known planet with liquid water on its surface and the only one known to support life. From space, Earth looks like a blue marble because of its oceans."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "Mars",
+          "mass",
+          "red planet"
+        ],
+        "option_b": [
+          "Earth",
+          "planet earth",
+          "eth"
+        ],
+        "option_c": [
+          "Saturn",
+          "turn",
+          "saturns",
+          "ringed planet"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": ""
+    },
+    {
+      "id": "science_B8_5",
+      "que": "What is the speed of light in a vacuum?",
+      "ans": {
+        "value": "About 300,000 km per second",
+        "correct_entity": "option_b"
+      },
+      "options": [
+        "About 200,000 km per second",
+        "About 300,000 km per second",
+        "About 400,000 km per second"
+      ],
+      "expl": [
+        "The speed of light in a vacuum is approximately 299,792 kilometres per second, commonly rounded to 300,000 km/s. In physics, it is denoted by the letter c. Nothing in the universe can travel faster than the speed of light."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "About 200,000 km per second",
+          "two hundred thousand kilometers per second",
+          "200000 kilometers per second",
+          "two lakh kilometers per second"
+        ],
+        "option_b": [
+          "About 300,000 km per second",
+          "three hundred thousand kilometers per second",
+          "300000 kilometers per second",
+          "speed of light"
+        ],
+        "option_c": [
+          "About 400,000 km per second",
+          "four hundred thousand kilometers per second",
+          "400000 kilometers per second"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": ""
+    },
+    {
+      "id": "science_B8_6",
+      "que": "Which planet is famous for the bright rings around it?",
+      "ans": {
+        "value": "Saturn",
+        "correct_entity": "option_b"
+      },
+      "options": [
+        "Mars",
+        "Saturn",
+        "Mercury"
+      ],
+      "expl": [
+        "Saturn is famous for the bright rings that circle its equator. The rings are made mostly of tiny pieces of ice and rock. Saturn is the sixth planet from the Sun and the second largest planet in our solar system after Jupiter."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "Mars",
+          "mass",
+          "red planet"
+        ],
+        "option_b": [
+          "Saturn",
+          "turn",
+          "saturns",
+          "ringed planet"
+        ],
+        "option_c": [
+          "Mercury",
+          "closest planet to the sun"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": ""
+    },
+    {
+      "id": "science_B8_7",
+      "que": "DNA stands for what?",
+      "ans": {
+        "value": "Deoxyribonucleic acid",
+        "correct_entity": "option_a"
+      },
+      "options": [
+        "Deoxyribonucleic acid",
+        "Dioxynuclear acid",
+        "Diribonucleic acid"
+      ],
+      "expl": [
+        "DNA stands for Deoxyribonucleic acid. It is a molecule that carries the genetic information of all living organisms and many viruses. DNA is made of two strands coiled together in a double helix, first described by Watson and Crick in 1953."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "Deoxyribonucleic acid",
+          "deoxyribonucleic",
+          "dna"
+        ],
+        "option_b": [
+          "Dioxynuclear acid",
+          "dioxynuclear"
+        ],
+        "option_c": [
+          "Diribonucleic acid",
+          "diribonucleic"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": ""
+    },
+    {
+      "id": "science_B8_8",
+      "que": "Which natural object lights up the sky during the daytime?",
+      "ans": {
+        "value": "The Sun",
+        "correct_entity": "option_b"
+      },
+      "options": [
+        "The Moon",
+        "The Sun",
+        "A star"
+      ],
+      "expl": [
+        "The Sun lights up the sky during the daytime. It is the closest star to Earth, about 93 million miles away. Sunlight gives us warmth, helps plants grow, and is the main source of energy for almost all life on our planet."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "The Moon",
+          "moon",
+          "earth moon",
+          "lunar moon"
+        ],
+        "option_b": [
+          "The Sun",
+          "sun",
+          "solar sun",
+          "suraj"
+        ],
+        "option_c": [
+          "A star",
+          "star",
+          "tara",
+          "stellar object"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": ""
+    },
+    {
+      "id": "science_B8_9",
+      "que": "What is the atomic number of carbon?",
+      "ans": {
+        "value": "6",
+        "correct_entity": "option_a"
+      },
+      "options": [
+        "6",
+        "8",
+        "12"
+      ],
+      "expl": [
+        "Carbon has an atomic number of 6, meaning it has 6 protons in its nucleus. Carbon is the basis of all organic chemistry and life on Earth. It exists in multiple forms including diamond, graphite, and graphene. Its chemical symbol is C."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "6",
+          "six",
+          "siks"
+        ],
+        "option_b": [
+          "8",
+          "eight",
+          "ait"
+        ],
+        "option_c": [
+          "12",
+          "twelve",
+          "twelv"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": ""
+    },
+    {
+      "id": "science_B8_10",
+      "que": "Which scientist proposed the theory of general relativity?",
+      "ans": {
+        "value": "Albert Einstein",
+        "correct_entity": "option_b"
+      },
+      "options": [
+        "Isaac Newton",
+        "Albert Einstein",
+        "Niels Bohr"
+      ],
+      "expl": [
+        "Albert Einstein proposed the theory of general relativity in 1915, which describes gravity as a curvature of spacetime caused by mass and energy. This revolutionary theory replaced Newton's law of gravitation and is fundamental to modern physics."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "Isaac Newton",
+          "newton",
+          "sir isaac",
+          "sir isaac newton"
+        ],
+        "option_b": [
+          "Albert Einstein",
+          "einstein",
+          "professor einstein"
+        ],
+        "option_c": [
+          "Niels Bohr",
+          "bohr",
+          "neils bohr"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": ""
+    },
+    {
+      "id": "science_B8_11",
+      "que": "How many chambers does the human heart have?",
+      "ans": {
+        "value": "Four",
+        "correct_entity": "option_c"
+      },
+      "options": [
+        "Two",
+        "Three",
+        "Four"
+      ],
+      "expl": [
+        "The human heart has four chambers: the right atrium, right ventricle, left atrium, and left ventricle. The right side pumps deoxygenated blood to the lungs, while the left side pumps oxygenated blood to the rest of the body."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "Two",
+          "2",
+          "too"
+        ],
+        "option_b": [
+          "Three",
+          "3",
+          "tree"
+        ],
+        "option_c": [
+          "Four",
+          "4",
+          "for"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": ""
+    },
+    {
+      "id": "science_B8_12",
+      "que": "Which part of the body pumps blood?",
+      "ans": {
+        "value": "Heart",
+        "correct_entity": "option_a"
+      },
+      "options": [
+        "Heart",
+        "Lungs",
+        "Stomach"
+      ],
+      "expl": [
+        "The heart pumps blood around the body. About the size of a fist, it beats roughly 100,000 times a day. Blood carries oxygen and nutrients to every part of the body and removes waste products like carbon dioxide."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "Heart",
+          "human heart",
+          "dil"
+        ],
+        "option_b": [
+          "Lungs",
+          "lung",
+          "human lungs"
+        ],
+        "option_c": [
+          "Stomach",
+          "belly",
+          "gastric"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": ""
+    },
+    {
+      "id": "science_B8_13",
+      "que": "The study of earthquakes is known as what?",
+      "ans": {
+        "value": "Seismology",
+        "correct_entity": "option_c"
+      },
+      "options": [
+        "Meteorology",
+        "Geology",
+        "Seismology"
+      ],
+      "expl": [
+        "Seismology is the scientific study of earthquakes and the propagation of elastic waves through the Earth. Seismologists use seismographs to measure and record the vibrations produced by earthquakes and can determine the magnitude, location, and depth of seismic events."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "Meteorology",
+          "weather science"
+        ],
+        "option_b": [
+          "Geology",
+          "earth science"
+        ],
+        "option_c": [
+          "Seismology",
+          "earthquake science"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": ""
+    },
+    {
+      "id": "science_B8_14",
+      "que": "What element is the Sun primarily composed of?",
+      "ans": {
+        "value": "Hydrogen",
+        "correct_entity": "option_b"
+      },
+      "options": [
+        "Helium",
+        "Hydrogen",
+        "s"
+      ],
+      "expl": [
+        "The Sun is primarily composed of hydrogen, which makes up about 73% of its mass. Helium accounts for about 25%. Through nuclear fusion, the Sun converts hydrogen into helium, releasing enormous amounts of energy as light and heat."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "Helium",
+          "he",
+          "heelium"
+        ],
+        "option_b": [
+          "Hydrogen",
+          "h two",
+          "h2",
+          "hydrozen"
+        ],
+        "option_c": [
+          "s",
+          "oxygen",
+          "o two",
+          "o2",
+          "oxigen"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": ""
+    },
+    {
+      "id": "science_B8_15",
+      "que": "Which planet do astronomers nickname the Red Planet because of its rusty color?",
+      "ans": {
+        "value": "Mars",
+        "correct_entity": "option_b"
+      },
+      "options": [
+        "Venus",
+        "Mars",
+        "Jupiter"
+      ],
+      "expl": [
+        "Astronomers nickname Mars the Red Planet because its surface is covered in iron oxide, which gives it a rusty, reddish-orange color. NASA has sent several rovers to Mars to explore its dusty landscape and to search for signs of ancient water."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "Venus",
+          "morning star"
+        ],
+        "option_b": [
+          "Mars",
+          "red planet"
+        ],
+        "option_c": [
+          "Jupiter",
+          "largest planet"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": ""
+    },
+    {
+      "id": "science_B8_16",
+      "que": "What is the name of the process by which water turns into vapor?",
+      "ans": {
+        "value": "Evaporation",
+        "correct_entity": "option_b"
+      },
+      "options": [
+        "Condensation",
+        "Evaporation",
+        "Sublimation"
+      ],
+      "expl": [
+        "Evaporation is the process by which liquid water is converted into water vapor (gas). This occurs when water molecules at the surface gain enough energy to overcome the forces holding them together and escape into the atmosphere."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "Condensation",
+          "condense"
+        ],
+        "option_b": [
+          "Evaporation",
+          "evaporate",
+          "vaporization"
+        ],
+        "option_c": [
+          "Sublimation",
+          "sublimating"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": ""
+    },
+    {
+      "id": "science_B8_17",
+      "que": "What is frozen water called?",
+      "ans": {
+        "value": "Ice",
+        "correct_entity": "option_c"
+      },
+      "options": [
+        "Steam",
+        "Mist",
+        "Ice"
+      ],
+      "expl": [
+        "Frozen water is called ice. Water turns into ice when its temperature drops to 32 degrees Fahrenheit, which is zero degrees Celsius. Ice is less dense than liquid water, which is why ice cubes float in a glass."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "Steam",
+          "water vapor"
+        ],
+        "option_b": [
+          "Mist",
+          "fog"
+        ],
+        "option_c": [
+          "Ice",
+          "frozen water",
+          "eyes"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": ""
+    },
+    {
+      "id": "science_B8_18",
+      "que": "Which sea creature is famous for having eight arms?",
+      "ans": {
+        "value": "Octopus",
+        "correct_entity": "option_a"
+      },
+      "options": [
+        "Octopus",
+        "Dolphin",
+        "Shark"
+      ],
+      "expl": [
+        "An octopus is famous for having eight arms. Each arm is lined with suction cups that help it grip prey and explore the seafloor. Octopuses are very smart and can solve puzzles, open jars, and even camouflage themselves to match their surroundings."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "Octopus",
+          "octopuses",
+          "octopi"
+        ],
+        "option_b": [
+          "Dolphin",
+          "dolphins"
+        ],
+        "option_c": [
+          "Shark",
+          "sharks"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": ""
+    },
+    {
+      "id": "science_B8_19",
+      "que": "Which part of a plant takes in water from the soil?",
+      "ans": {
+        "value": "Roots",
+        "correct_entity": "option_b"
+      },
+      "options": [
+        "Leaves",
+        "Roots",
+        "Flowers"
+      ],
+      "expl": [
+        "Roots grow underground and soak up water and nutrients from the soil to help the plant live and grow. Roots also keep the plant firmly anchored in the ground. The water and nutrients travel from the roots up through the stem to the rest of the plant."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "Leaves",
+          "leaf",
+          "green leaves"
+        ],
+        "option_b": [
+          "Roots",
+          "root",
+          "plant roots"
+        ],
+        "option_c": [
+          "Flowers",
+          "flower",
+          "petals",
+          "bloom"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": ""
+    },
+    {
+      "id": "science_B8_20",
+      "que": "Which device on a smartphone is used to take pictures?",
+      "ans": {
+        "value": "Camera",
+        "correct_entity": "option_b"
+      },
+      "options": [
+        "Battery",
+        "Camera",
+        "Speaker"
+      ],
+      "expl": [
+        "The camera on a smartphone is used to take pictures. A tiny lens focuses light onto a digital sensor, which records the image. Most modern phones have multiple cameras, including ones for wide shots, zoomed-in shots, and selfies."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "Battery",
+          "cell",
+          "power cell"
+        ],
+        "option_b": [
+          "Camera",
+          "cam",
+          "photo camera",
+          "canada"
+        ],
+        "option_c": [
+          "Speaker",
+          "loudspeaker",
+          "audio speaker"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": ""
+    },
+    {
+      "id": "science_B8_21",
+      "que": "What is Newton's first law of motion also known as?",
+      "ans": {
+        "value": "The law of inertia",
+        "correct_entity": "option_c"
+      },
+      "options": [
+        "The law of acceleration",
+        "The law of action and reaction",
+        "The law of inertia"
+      ],
+      "expl": [
+        "Newton's first law of motion is known as the law of inertia. It states that an object at rest stays at rest, and an object in motion stays in motion with the same speed and direction unless acted upon by an external force."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "The law of acceleration",
+          "law of acceleration",
+          "acceleration law",
+          "newtons second law",
+          "second law of motion"
+        ],
+        "option_b": [
+          "The law of action and reaction",
+          "action reaction",
+          "law of action reaction",
+          "newtons third law",
+          "every action has equal and opposite reaction"
+        ],
+        "option_c": [
+          "The law of inertia",
+          "law of inertia",
+          "inertia law",
+          "inertia",
+          "newtons first law"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": ""
+    },
+    {
+      "id": "science_B8_22",
+      "que": "What part of the brain controls balance and coordination?",
+      "ans": {
+        "value": "Cerebellum",
+        "correct_entity": "option_b"
+      },
+      "options": [
+        "Cerebrum",
+        "Cerebellum",
+        "Brain stem"
+      ],
+      "expl": [
+        "The cerebellum controls balance, coordination, and fine motor skills. Located at the back and bottom of the brain, it receives information from the sensory systems, the spinal cord, and other parts of the brain to regulate and coordinate movement."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "Cerebrum",
+          "cerebral cortex",
+          "forebrain"
+        ],
+        "option_b": [
+          "Cerebellum",
+          "little brain"
+        ],
+        "option_c": [
+          "Brain stem",
+          "brainstem",
+          "medulla"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": ""
+    },
+    {
+      "id": "science_B8_23",
+      "que": "What is the process called when a caterpillar transforms into a butterfly?",
+      "ans": {
+        "value": "Metamorphosis",
+        "correct_entity": "option_a"
+      },
+      "options": [
+        "Metamorphosis",
+        "Evolution",
+        "Mitosis"
+      ],
+      "expl": [
+        "Metamorphosis is the biological process of transformation from a larva to an adult. Butterflies undergo complete metamorphosis (holometabolism) with four stages: egg, larva (caterpillar), pupa (chrysalis), and adult butterfly."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "Metamorphosis",
+          "transformation",
+          "complete transformation"
+        ],
+        "option_b": [
+          "Evolution",
+          "evolve",
+          "evolutionary process"
+        ],
+        "option_c": [
+          "Mitosis",
+          "cell division",
+          "mitotic division"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": ""
+    },
+    {
+      "id": "science_B8_24",
+      "que": "What is the SI unit of electric current?",
+      "ans": {
+        "value": "Ampere",
+        "correct_entity": "option_c"
+      },
+      "options": [
+        "Volt",
+        "Watt",
+        "Ampere"
+      ],
+      "expl": [
+        "The ampere, often shortened to amp, is the SI unit of electric current. It is named after French mathematician and physicist André-Marie Ampère. One ampere is defined as one coulomb of electric charge passing a point per second."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "Volt",
+          "volts",
+          "voltage unit"
+        ],
+        "option_b": [
+          "Watt",
+          "watts",
+          "power unit"
+        ],
+        "option_c": [
+          "Ampere",
+          "amp",
+          "amps",
+          "current unit",
+          "empir"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": ""
+    },
+    {
+      "id": "science_B8_25",
+      "que": "The ozone layer primarily absorbs which type of radiation from the Sun?",
+      "ans": {
+        "value": "Ultraviolet radiation",
+        "correct_entity": "option_b"
+      },
+      "options": [
+        "Infrared radiation",
+        "Ultraviolet radiation",
+        "X-ray radiation"
+      ],
+      "expl": [
+        "The ozone layer primarily absorbs ultraviolet (UV) radiation from the Sun, particularly UV-B and UV-C radiation. Without this protective layer, the Earth's surface would be bombarded with harmful radiation that causes skin cancer and damages ecosystems."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "Infrared radiation",
+          "infrared",
+          "ir radiation",
+          "infrared rays"
+        ],
+        "option_b": [
+          "Ultraviolet radiation",
+          "ultraviolet",
+          "uv radiation",
+          "uv",
+          "ultraviolet rays"
+        ],
+        "option_c": [
+          "X-ray radiation",
+          "x ray",
+          "xray",
+          "x rays"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": ""
+    },
+    {
+      "id": "science_B8_26",
+      "que": "Which gas do plants take in from the air to help them grow?",
+      "ans": {
+        "value": "Carbon dioxide",
+        "correct_entity": "option_b"
+      },
+      "options": [
+        "Oxygen",
+        "Carbon dioxide",
+        "Helium"
+      ],
+      "expl": [
+        "Plants take in carbon dioxide from the air through tiny pores on their leaves called stomata. Using sunlight and water, they turn it into food through a process called photosynthesis. As a result, plants release oxygen back into the air, which people and animals breathe."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "Oxygen",
+          "o2",
+          "oxygen gas"
+        ],
+        "option_b": [
+          "Carbon dioxide",
+          "co2",
+          "c o 2",
+          "carbon di oxide"
+        ],
+        "option_c": [
+          "Helium",
+          "he",
+          "helium gas"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": ""
+    },
+    {
+      "id": "science_B8_27",
+      "que": "What causes a rainbow to appear?",
+      "ans": {
+        "value": "Refraction and reflection of sunlight through water droplets",
+        "correct_entity": "option_a"
+      },
+      "options": [
+        "Refraction and reflection of sunlight through water droplets",
+        "Reflection of sunlight off clouds",
+        "Diffraction of sunlight through dust particles"
+      ],
+      "expl": [
+        "A rainbow is formed by the refraction and reflection of sunlight through water droplets in the atmosphere. Sunlight enters a droplet, is refracted, reflected off the back of the droplet, then refracted again as it exits, separating light into its spectral colours."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "Refraction and reflection of sunlight through water droplets",
+          "refraction reflection",
+          "light through water",
+          "rainbow formation",
+          "sunlight through droplets"
+        ],
+        "option_b": [
+          "Reflection of sunlight off clouds",
+          "clouds",
+          "reflection clouds",
+          "sunlight off clouds"
+        ],
+        "option_c": [
+          "Diffraction of sunlight through dust particles",
+          "diffraction",
+          "dust particles",
+          "sunlight through dust"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": ""
+    },
+    {
+      "id": "science_B8_28",
+      "que": "What is the name of the galaxy that contains our solar system?",
+      "ans": {
+        "value": "Milky Way",
+        "correct_entity": "option_c"
+      },
+      "options": [
+        "Andromeda",
+        "Triangulum",
+        "Milky Way"
+      ],
+      "expl": [
+        "Our solar system is located in the Milky Way galaxy, a barred spiral galaxy containing an estimated 100–400 billion stars. Earth is located on one of the outer spiral arms. The Milky Way is about 100,000 light-years in diameter."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "Andromeda",
+          "andromeda galaxy",
+          "m31 galaxy"
+        ],
+        "option_b": [
+          "Triangulum",
+          "triangulum galaxy",
+          "m33 galaxy"
+        ],
+        "option_c": [
+          "Milky Way",
+          "milky way galaxy",
+          "akash ganga"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": ""
+    },
+    {
+      "id": "science_B8_29",
+      "que": "What is the unit used to measure the intensity of sound?",
+      "ans": {
+        "value": "Decibel",
+        "correct_entity": "option_b"
+      },
+      "options": [
+        "Hertz",
+        "Decibel",
+        "Pascal"
+      ],
+      "expl": [
+        "The decibel (dB) is the unit used to measure the intensity of sound. Zero decibels represents the threshold of human hearing. Normal conversation is about 60 dB, while a jet engine at close range can reach 140 dB, which can cause immediate hearing damage."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "Hertz",
+          "hz",
+          "herts"
+        ],
+        "option_b": [
+          "Decibel",
+          "db",
+          "decibels",
+          "decibal"
+        ],
+        "option_c": [
+          "Pascal",
+          "pa",
+          "pascals"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": ""
+    },
+    {
+      "id": "science_B8_30",
+      "que": "Which scientist is credited with developing the polio vaccine?",
+      "ans": {
+        "value": "Jonas Salk",
+        "correct_entity": "option_c"
+      },
+      "options": [
+        "Louis Pasteur",
+        "Alexander Fleming",
+        "Jonas Salk"
+      ],
+      "expl": [
+        "Jonas Salk developed the first successful polio vaccine, announced in 1955. He and his team at the University of Pittsburgh used killed poliovirus to create the vaccine. Salk refused to patent the vaccine so it could be made available to everyone."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "Louis Pasteur",
+          "pasteur",
+          "lui pasteur"
+        ],
+        "option_b": [
+          "Alexander Fleming",
+          "fleming",
+          "alex fleming"
+        ],
+        "option_c": [
+          "Jonas Salk",
+          "salk",
+          "jonus salk"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": ""
+    },
+    {
+      "id": "science_B8_31",
+      "que": "What is the most common type of star in the Milky Way?",
+      "ans": {
+        "value": "Red dwarf",
+        "correct_entity": "option_c"
+      },
+      "options": [
+        "Red giant",
+        "White dwarf",
+        "Red dwarf"
+      ],
+      "expl": [
+        "Red dwarf stars are the most common type of star in the Milky Way, making up about 70% of all stars. They are small and cool compared to our Sun, with surface temperatures below 4,000 K. They burn their hydrogen fuel very slowly and can live for trillions of years."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "Red giant",
+          "giant star",
+          "red giant star"
+        ],
+        "option_b": [
+          "White dwarf",
+          "dwarf star",
+          "white dwarf star"
+        ],
+        "option_c": [
+          "Red dwarf",
+          "m dwarf",
+          "red dwarf star"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": ""
+    },
+    {
+      "id": "science_B8_32",
+      "que": "Which element is a liquid at room temperature?",
+      "ans": {
+        "value": "Mercury",
+        "correct_entity": "option_a"
+      },
+      "options": [
+        "Mercury",
+        "Lead",
+        "Tin"
+      ],
+      "expl": [
+        "Mercury (Hg) is the only metal that is liquid at room temperature. Its melting point is -38.83°C. Mercury has been known since ancient times and was called quicksilver due to its silvery appearance and fluid nature. It is highly toxic."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "Mercury",
+          "quicksilver",
+          "hg",
+          "mercuri"
+        ],
+        "option_b": [
+          "Lead",
+          "pb",
+          "led"
+        ],
+        "option_c": [
+          "Tin",
+          "sn",
+          "tinn"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": ""
+    },
+    {
+      "id": "science_B8_33",
+      "que": "What is the name of the force that pulls objects toward the centre of the Earth?",
+      "ans": {
+        "value": "Gravity",
+        "correct_entity": "option_b"
+      },
+      "options": [
+        "Magnetism",
+        "Gravity",
+        "Friction"
+      ],
+      "expl": [
+        "Gravity is the force that attracts objects with mass toward one another. On Earth, it pulls objects toward the planet's centre. Earth's gravity gives weight to physical objects and causes objects to fall toward the ground when dropped."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "Magnetism",
+          "magnetic force",
+          "magnetic attraction"
+        ],
+        "option_b": [
+          "Gravity",
+          "gravitational force",
+          "gravitation"
+        ],
+        "option_c": [
+          "Friction",
+          "frictional force",
+          "rubbing force"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": ""
+    },
+    {
+      "id": "science_B8_34",
+      "que": "Human blood is what color inside the body?",
+      "ans": {
+        "value": "Red",
+        "correct_entity": "option_c"
+      },
+      "options": [
+        "Blue",
+        "Purple",
+        "Red"
+      ],
+      "expl": [
+        "Human blood is always red inside the body. Oxygenated blood (in arteries) is bright red, while deoxygenated blood (in veins) is a darker red. The myth that venous blood is blue comes from veins appearing blue through the skin, which is due to how light penetrates tissue."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "Blue",
+          "blu"
+        ],
+        "option_b": [
+          "Purple",
+          "purpal",
+          "violet"
+        ],
+        "option_c": [
+          "Red",
+          "reed",
+          "read"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": ""
+    },
+    {
+      "id": "science_B8_35",
+      "que": "What is the term for animals that eat both plants and animals?",
+      "ans": {
+        "value": "omnivore | omni | omnivores",
+        "correct_entity": "option_c"
+      },
+      "options": [
+        "herbivore | plant eater | herbivorous animal",
+        "carnivore | meat eater | carnivorous animal",
+        "omnivore | omni | omnivores"
+      ],
+      "expl": [
+        "Animals that eat both plants and animals are called omnivores. The word comes from the Latin 'omnis' (all) and 'vorare' (to devour). Humans, bears, pigs, and rats are common examples of omnivores. Omnivores have digestive systems that can process both plant and animal matter."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "herbivore | plant eater | herbivorous animal",
+          "Carnivore"
+        ],
+        "option_b": [
+          "carnivore | meat eater | carnivorous animal",
+          "Omnivore"
+        ],
+        "option_c": [
+          "omnivore | omni | omnivores",
+          "omnivore",
+          "omni",
+          "eats both plants and meat"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": ""
+    },
+    {
+      "id": "science_B8_36",
+      "que": "What is the chemical symbol for sodium?",
+      "ans": {
+        "value": "Na",
+        "correct_entity": "option_b"
+      },
+      "options": [
+        "So",
+        "Na",
+        "Sa"
+      ],
+      "expl": [
+        "The chemical symbol for sodium is Na, from the Latin word 'natrium.' Sodium is element number 11 on the periodic table. It is a soft, silvery-white metal that reacts vigorously with water. It is an essential element for human health, regulating fluid balance."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "So",
+          "s o"
+        ],
+        "option_b": [
+          "Na",
+          "n a",
+          "natrium"
+        ],
+        "option_c": [
+          "Sa",
+          "s a"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": ""
+    },
+    {
+      "id": "science_B8_37",
+      "que": "Which scientist formulated the three laws of motion?",
+      "ans": {
+        "value": "Isaac Newton",
+        "correct_entity": "option_b"
+      },
+      "options": [
+        "Galileo Galilei",
+        "Isaac Newton",
+        "Robert Hooke"
+      ],
+      "expl": [
+        "Isaac Newton formulated his three laws of motion in his landmark work 'Principia Mathematica' published in 1687. These laws describe the relationship between a body and the forces acting upon it, and form the foundation of classical mechanics."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "Galileo Galilei",
+          "galileo",
+          "galilei"
+        ],
+        "option_b": [
+          "Isaac Newton",
+          "newton",
+          "sir isaac newton",
+          "sir isaac"
+        ],
+        "option_c": [
+          "Robert Hooke",
+          "hooke",
+          "robert huke"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": ""
+    },
+    {
+      "id": "science_B8_38",
+      "que": "What is the name of the phobia that describes a fear of spiders?",
+      "ans": {
+        "value": "Arachnophobia",
+        "correct_entity": "option_a"
+      },
+      "options": [
+        "Arachnophobia",
+        "Agoraphobia",
+        "Claustrophobia"
+      ],
+      "expl": [
+        "Arachnophobia is the fear of spiders and other arachnids. It is one of the most common animal phobias, affecting between 3.5% and 6.1% of the global population. The word comes from the Greek 'arachne' (spider) and 'phobos' (fear)."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "Arachnophobia",
+          "arachnophobic",
+          "fear of spiders",
+          "spider phobia"
+        ],
+        "option_b": [
+          "Agoraphobia",
+          "fear of open spaces"
+        ],
+        "option_c": [
+          "Claustrophobia",
+          "fear of closed spaces",
+          "fear of confined spaces"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": ""
+    },
+    {
+      "id": "science_B8_39",
+      "que": "At what temperature does water boil at sea level?",
+      "ans": {
+        "value": "100 degrees Celsius",
+        "correct_entity": "option_b"
+      },
+      "options": [
+        "90 degrees Celsius",
+        "100 degrees Celsius",
+        "110 degrees Celsius"
+      ],
+      "expl": [
+        "Water boils at 100 degrees Celsius (212 degrees Fahrenheit) at sea level, where atmospheric pressure is 1 atmosphere. At higher altitudes where pressure is lower, water boils at a lower temperature. This is why cooking takes longer at high elevations."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "90 degrees Celsius",
+          "ninety degrees",
+          "90 celsius",
+          "ninety degree celsius",
+          "90 degree celsius"
+        ],
+        "option_b": [
+          "100 degrees Celsius",
+          "one hundred degrees",
+          "100 celsius",
+          "hundred degree celsius",
+          "boiling point of water"
+        ],
+        "option_c": [
+          "110 degrees Celsius",
+          "one hundred ten degrees",
+          "110 celsius",
+          "hundred ten degree celsius"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": ""
+    },
+    {
+      "id": "science_B8_40",
+      "que": "What is the name of the process where plants make food using sunlight?",
+      "ans": {
+        "value": "Photosynthesis",
+        "correct_entity": "option_b"
+      },
+      "options": [
+        "Respiration",
+        "Photosynthesis",
+        "Fermentation"
+      ],
+      "expl": [
+        "Photosynthesis is the process by which green plants, algae, and some bacteria use sunlight, water, and carbon dioxide to produce oxygen and energy in the form of glucose. The word comes from the Greek 'photo' (light) and 'synthesis' (putting together)."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "Respiration",
+          "breathing",
+          "cellular respiration"
+        ],
+        "option_b": [
+          "Photosynthesis",
+          "photo synthesis"
+        ],
+        "option_c": [
+          "Fermentation",
+          "ferment",
+          "anaerobic fermentation"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": ""
+    },
+    {
+      "id": "science_B8_41",
+      "que": "Which planet has a moon called Titan?",
+      "ans": {
+        "value": "Saturn",
+        "correct_entity": "option_c"
+      },
+      "options": [
+        "Jupiter",
+        "Neptune",
+        "Saturn"
+      ],
+      "expl": [
+        "Titan is the largest moon of Saturn and the second largest moon in the solar system, after Jupiter's Ganymede. Titan is unique in the solar system for having a dense atmosphere, primarily composed of nitrogen. It also has lakes and rivers of liquid methane and ethane on its surface."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "Jupiter",
+          "largest planet"
+        ],
+        "option_b": [
+          "Neptune",
+          "blue planet"
+        ],
+        "option_c": [
+          "Saturn",
+          "ringed planet"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": ""
+    },
+    {
+      "id": "science_B8_42",
+      "que": "What is the name of the lightest element on the periodic table?",
+      "ans": {
+        "value": "Hydrogen",
+        "correct_entity": "option_b"
+      },
+      "options": [
+        "Helium",
+        "Hydrogen",
+        "Lithium"
+      ],
+      "expl": [
+        "Hydrogen is the lightest element on the periodic table with an atomic mass of approximately 1.008 atomic mass units. It has one proton and, in its most common form, no neutrons. It is the most abundant element in the universe and is used in fuel cells and as rocket fuel."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "Helium",
+          "he",
+          "heelium"
+        ],
+        "option_b": [
+          "Hydrogen",
+          "h",
+          "hydrozen"
+        ],
+        "option_c": [
+          "Lithium",
+          "li",
+          "lithum"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": ""
+    },
+    {
+      "id": "science_B8_43",
+      "que": "Which big striped cat is the largest member of the cat family?",
+      "ans": {
+        "value": "Tiger",
+        "correct_entity": "option_b"
+      },
+      "options": [
+        "Cheetah",
+        "Tiger",
+        "Leopard"
+      ],
+      "expl": [
+        "The tiger is the largest member of the cat family in the world. Males can grow up to ten feet long, including their tail, and can weigh more than 600 pounds. Tigers live in parts of Asia and are known for their bright orange coats with black stripes."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "Cheetah",
+          "cheetahs",
+          "fastest land animal",
+          "chitas",
+          "chitazz"
+        ],
+        "option_b": [
+          "Tiger",
+          "tigers",
+          "bengal tiger",
+          "tigher"
+        ],
+        "option_c": [
+          "Leopard",
+          "leopards",
+          "lepard"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": ""
+    },
+    {
+      "id": "science_B8_44",
+      "que": "What is the process called when a star collapses into an extremely dense object with a powerful gravitational pull?",
+      "ans": {
+        "value": "Black hole formation",
+        "correct_entity": "option_b"
+      },
+      "options": [
+        "Supernova",
+        "Black hole formation",
+        "Neutron star collapse"
+      ],
+      "expl": [
+        "A black hole forms when a massive star collapses at the end of its life, typically after a supernova explosion. The core collapses under gravity to form an object so dense that not even light can escape its gravitational pull. Black holes were first predicted by Einstein's general theory of relativity."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "Supernova",
+          "exploding star"
+        ],
+        "option_b": [
+          "Black hole formation",
+          "black hole",
+          "black hole creation",
+          "blackhole"
+        ],
+        "option_c": [
+          "Neutron star collapse",
+          "neutron star",
+          "neutron collapse",
+          "collapsed neutron star"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": ""
+    },
+    {
+      "id": "science_B8_45",
+      "que": "Which simple machine is a ramp used for lifting heavy objects?",
+      "ans": {
+        "value": "Inclined plane",
+        "correct_entity": "option_a"
+      },
+      "options": [
+        "Inclined plane",
+        "Lever",
+        "Pulley"
+      ],
+      "expl": [
+        "An inclined plane is a flat surface set at an angle, like a ramp. It is one of the six classic simple machines. By using a ramp, a person can move a heavy object up to a higher level with less force than lifting it straight up."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "Inclined plane",
+          "incline",
+          "ramp",
+          "sloped plane",
+          "client plane",
+          "incline plain"
+        ],
+        "option_b": [
+          "Lever",
+          "simple lever",
+          "liver"
+        ],
+        "option_c": [
+          "Pulley",
+          "pulley system",
+          "pulli",
+          "puli"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": ""
+    },
+    {
+      "id": "science_B8_46",
+      "que": "Which season comes right after winter in the United States?",
+      "ans": {
+        "value": "Spring",
+        "correct_entity": "option_c"
+      },
+      "options": [
+        "Summer",
+        "Fall",
+        "Spring"
+      ],
+      "expl": [
+        "Spring comes right after winter in the United States. It begins in March and lasts until June. During spring, flowers bloom, trees grow new leaves, and many animals have babies. Days get longer and the weather gets warmer."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "Summer",
+          "summers"
+        ],
+        "option_b": [
+          "Fall",
+          "autumn",
+          "fall season"
+        ],
+        "option_c": [
+          "Spring",
+          "ring",
+          "spring season"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": ""
+    },
+    {
+      "id": "science_B8_47",
+      "que": "Which simple machine is a seesaw at a playground a great example of?",
+      "ans": {
+        "value": "Lever",
+        "correct_entity": "option_c"
+      },
+      "options": [
+        "Pulley",
+        "Wheel and axle",
+        "Lever"
+      ],
+      "expl": [
+        "A seesaw is a great example of a lever. A lever is a stiff bar that turns on a fixed point called a fulcrum. When one child pushes down on their end, the other end lifts up. Levers help people move heavy objects with less effort."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "Pulley",
+          "pulley system"
+        ],
+        "option_b": [
+          "Wheel and axle",
+          "wheel axle",
+          "axle wheel"
+        ],
+        "option_c": [
+          "Lever",
+          "liver",
+          "simple machine lever"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": ""
+    }
+  ],
+  "IMAGE_QUESTIONS": [],
+  "AUDIO_QUESTIONS": []
+}

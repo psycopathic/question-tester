@@ -1,0 +1,1083 @@
+{
+  "TEXT_QUESTIONS": [
+    {
+      "id": "general-knowledge_B1_1",
+      "que": "What is the name of the tallest tree in the world?",
+      "ans": {
+        "value": "Hyperion",
+        "correct_entity": "option_b"
+      },
+      "options": [
+        "Hypatia",
+        "Hyperion",
+        "Copernicus"
+      ],
+      "expl": [
+        "Hyperion, a colossal tree in California's Redwood National Park, is considered to be the tallest of the 3 trillion trees worldwide, standing at an impressive height of 379 feet. It is over twice as tall as the Statue of Liberty, excluding the base."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "Hypatia",
+          "hiepatia"
+        ],
+        "option_b": [
+          "Hyperion",
+          "hyperions"
+        ],
+        "option_c": [
+          "Copernicus",
+          "coper",
+          "copper"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": ""
+    },
+    {
+      "id": "general-knowledge_B1_2",
+      "que": "Crayola crayons are named after the French word for what?",
+      "ans": {
+        "value": "Chalk",
+        "correct_entity": "option_c"
+      },
+      "options": [
+        "Color",
+        "Paint",
+        "Chalk"
+      ],
+      "expl": [
+        "The wife of Crayola's founder, Edwin Binney, Alice Stead Binney, named the brand. The \"ola\" in the name comes from \"oleaginous,\" which means \"oily\" in English. \"Cray\" is derived from the French word \"craie,\" which means \"chalk,\" connecting the brand's name to the French language."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "Color",
+          "colour",
+          "colours",
+          "colors"
+        ],
+        "option_b": [
+          "Paint",
+          "paints"
+        ],
+        "option_c": [
+          "Chalk",
+          "Crayons"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": ""
+    },
+    {
+      "id": "general-knowledge_B1_3",
+      "que": "Where is the world's first underwater restaurant?",
+      "ans": {
+        "value": "Maldives",
+        "correct_entity": "option_a"
+      },
+      "options": [
+        "Maldives",
+        "Singapore",
+        "Thailand"
+      ],
+      "expl": [
+        "The Conrad Maldives Rangali Island's undersea restaurant, Ithaa, is located 16ft below sea level, opened in 2005, and is the world's first undersea restaurant, per the Academy of World Records.\""
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "Maldives",
+          "maldive",
+          "malldive"
+        ],
+        "option_b": [
+          "Singapore"
+        ],
+        "option_c": [
+          "Thailand"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": ""
+    },
+    {
+      "id": "general-knowledge_B1_4",
+      "que": "Who introduced macaroni and cheese to America?",
+      "ans": {
+        "value": "Thomas Jefferson",
+        "correct_entity": "option_a"
+      },
+      "options": [
+        "Thomas Jefferson",
+        "Eugene Levy",
+        "Marco Polo"
+      ],
+      "expl": [
+        "While on U.S. government business in France, Thomas Jefferson tasted macaroni and cheese for the first time and enjoyed it. He was so fond of it that he decided to introduce the dish to the United States."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "Thomas Jefferson",
+          "Thomas",
+          "Jefferson"
+        ],
+        "option_b": [
+          "Eugene Levy",
+          "Eugene",
+          "Levy",
+          "you you been",
+          "you gene"
+        ],
+        "option_c": [
+          "Marco Polo",
+          "Marco",
+          "Polo"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": ""
+    },
+    {
+      "id": "general-knowledge_B1_5",
+      "que": "Which fast-food chain is older?",
+      "ans": {
+        "value": "White Castle",
+        "correct_entity": "option_b"
+      },
+      "options": [
+        "McDonald's",
+        "White Castle",
+        "KFC"
+      ],
+      "expl": [
+        "White Castle, which originated in the U.S. in 1921, is the oldest chain among them. In the beginning, they only charged five cents per hamburger. Their hamburgers were sold at a mere five cents apiece when they first started out."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "McDonald's",
+          "Mc D.",
+          "mac d.",
+          "mac donald",
+          "mcDonald",
+          "m. c. donald",
+          "donald",
+          "macdonald"
+        ],
+        "option_b": [
+          "White Castle",
+          "White",
+          "Castle"
+        ],
+        "option_c": [
+          "KFC",
+          "k. f. c."
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": ""
+    },
+    {
+      "id": "general-knowledge_B1_6",
+      "que": "What song is played to wake up U.S. soldiers?",
+      "ans": {
+        "value": "Reveille",
+        "correct_entity": "option_b"
+      },
+      "options": [
+        "Taps",
+        "Reveille",
+        "To Arms"
+      ],
+      "expl": [
+        "Among U.S. military bugle calls, Reveille is the only one meaning wake up in French. It wakes personnel in the morning, followed by To The Colors when the flag is raised. Originally called Troop in 1812, Reveille was used to muster units and call the roll."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "Taps",
+          "tap"
+        ],
+        "option_b": [
+          "Reveille",
+          "river",
+          "riverie"
+        ],
+        "option_c": [
+          "To Arms",
+          "to arm",
+          "two arms",
+          "too arm",
+          "two arm",
+          "too arms"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": ""
+    },
+    {
+      "id": "general-knowledge_B1_7",
+      "que": "Disney's tallest roller coaster is named after what mountain?",
+      "ans": {
+        "value": "Mount Everest",
+        "correct_entity": "option_a"
+      },
+      "options": [
+        "Mount Everest",
+        "Matterhorn",
+        "Mount Fuji"
+      ],
+      "expl": [
+        "Expedition Everest, a steel roller coaster at Disney's Animal Kingdom, is themed after the Himalayan mountain. It features a fictional \"forbidden mountain\" guarded by a yeti and stands at 199.5 feet, making it the tallest Disney attraction, surpassing The Twilight Zone Tower of Terror by 6 inches."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "Mount Everest",
+          "everest",
+          "mount"
+        ],
+        "option_b": [
+          "Matterhorn",
+          "matter",
+          "horn"
+        ],
+        "option_c": [
+          "Mount Fuji",
+          "fuji",
+          "fuzi"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": ""
+    },
+    {
+      "id": "general-knowledge_B1_8",
+      "que": "What did the very first vending machine dispense?",
+      "ans": {
+        "value": "Cigarettes",
+        "correct_entity": "option_c"
+      },
+      "options": [
+        "Soda",
+        "Holy water",
+        "Cigarettes"
+      ],
+      "expl": [
+        "Hero of Alexandria invented the first vending machine in 1st century Roman Egypt to dispense proper amounts of holy water in temples. It required a five-drachm coin to release a small amount of water, but the concept did not become popular for many centuries."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "Soda",
+          "sodas"
+        ],
+        "option_b": [
+          "Holy water",
+          "Holy",
+          "water"
+        ],
+        "option_c": [
+          "Cigarettes",
+          "cigarette"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": ""
+    },
+    {
+      "id": "general-knowledge_B1_9",
+      "que": "Who was named TIME magazine's person of the year for 2022?",
+      "ans": {
+        "value": "Volodymyr Zelensky",
+        "correct_entity": "option_c"
+      },
+      "options": [
+        "Elon Musk",
+        "King Charles",
+        "Volodymyr Zelensky"
+      ],
+      "expl": [
+        "Time Magazines Person of the Year was Ukraine’s President Volodymyr Zelensky for his leadership during the war with Russia, highlighting Ukraines resilience and opposing Vladimir Putin. The choice was clear, with finalists including Iranian protesters Xi Jinping and the US Supreme Court."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "Elon Musk",
+          "Elon",
+          "Musk"
+        ],
+        "option_b": [
+          "King Charles",
+          "king",
+          "charles"
+        ],
+        "option_c": [
+          "Volodymyr Zelensky",
+          "Volodymyr",
+          "Zelensky"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": ""
+    },
+    {
+      "id": "general-knowledge_B1_10",
+      "que": "What is the most common official state dance in the United States?",
+      "ans": {
+        "value": "Square Dance",
+        "correct_entity": "option_c"
+      },
+      "options": [
+        "Salsa",
+        "Tango",
+        "Square Dance"
+      ],
+      "expl": [
+        "Square dancing is the official state dance for over 20 states in the U.S. and was declared the national folk dance in 1982. It originated from European traditions brought by early settlers and involves live music and a \"caller\" to direct specific moves."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "Salsa"
+        ],
+        "option_b": [
+          "Tango",
+          "tangos"
+        ],
+        "option_c": [
+          "Square Dance",
+          "square",
+          "dance"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": ""
+    },
+    {
+      "id": "batch_1_row_59",
+      "que": "Which item was flying off grocery store shelves in China after false rumors claim it's a COVID remedy?",
+      "ans": {
+        "value": "Canned peaches",
+        "correct_entity": "option_b"
+      },
+      "options": [
+        "Avocados",
+        "Canned peaches",
+        "Jars of pickles"
+      ],
+      "expl": [
+        "Due to a surge in COVID cases in China, canned peaches were being bought in large quantities by shoppers who mistakenly believed they could cure the virus. The sudden demand has caused shortages, leading state media to remind people that peaches are not a cure."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "Avocados",
+          "avocadoes",
+          "avacados",
+          "avocado"
+        ],
+        "option_b": [
+          "Canned peaches",
+          "canned",
+          "peach",
+          "peaches",
+          "can peach",
+          "can peaches"
+        ],
+        "option_c": [
+          "Jars of pickles",
+          "jars of pickle",
+          "jar of pickles",
+          "jar of pickle",
+          "pickle"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": ""
+    },
+    {
+      "id": "general-knowledge_B1_12",
+      "que": "Which mogul purchased The Washington Post in 2013 for $250 million?",
+      "ans": {
+        "value": "Jeff Bezos",
+        "correct_entity": "option_a"
+      },
+      "options": [
+        "Jeff Bezos",
+        "Mark Zuckerberg",
+        "Mark Cuban"
+      ],
+      "expl": [
+        "Jeff Bezos, the powerful figure behind Amazon with a net worth of $111 billion, purchased The Washington Post for $250 million in 2013. He tripled the technology staff, resulting in doubled web traffic and profitability within three years. Today, almost 70% of total subscriptions are digital."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "Jeff Bezos",
+          "Jeff",
+          "Bezos",
+          "besos"
+        ],
+        "option_b": [
+          "Mark Zuckerberg",
+          "mark",
+          "zuckerburg"
+        ],
+        "option_c": [
+          "Mark Cuban",
+          "cuban",
+          "kaban",
+          "mark"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": ""
+    },
+    {
+      "id": "general-knowledge_B1_13",
+      "que": "Sam Bankman-Fried, who was recently arrested on fraud charges, founded what cryptocurrency exchange?",
+      "ans": {
+        "value": "FTX",
+        "correct_entity": "option_b"
+      },
+      "options": [
+        "Coinbase",
+        "FTX",
+        "Gemini"
+      ],
+      "expl": [
+        "Samuel Benjamin Bankman-Fried, the CEO of FTX and Alameda Research, faced a crisis in late 2022, resulting in the collapse of FTX's cryptocurrency, FTT. He was arrested in the Bahamas on December 12, 2022, and indicted the following day on eight counts of fraud and conspiracy, which he denied."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "Coinbase",
+          "coin base",
+          "coin",
+          "base"
+        ],
+        "option_b": [
+          "FTX",
+          "F. T. X."
+        ],
+        "option_c": [
+          "Gemini"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": ""
+    },
+    {
+      "id": "general-knowledge_B1_14",
+      "que": "By definition, what does a xylographer do?",
+      "ans": {
+        "value": "Engraves wood",
+        "correct_entity": "option_a"
+      },
+      "options": [
+        "Engraves wood",
+        "Carves ivory",
+        "Melts gold"
+      ],
+      "expl": [
+        "Xylography, derived from the French \"xyl-\" for wood and \"-graphie\" for specified writing, is the art of carving text into a wooden block, which is then inked and pressed onto paper. It was the earliest known printing technique, prompting Johannes Gutenberg to invent the printing press."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "Engraves wood",
+          "Engraves",
+          "wood",
+          "Engrave wood",
+          "engrave"
+        ],
+        "option_b": [
+          "Carves ivory",
+          "carve",
+          "carve ivory",
+          "ivory"
+        ],
+        "option_c": [
+          "Melts gold",
+          "Melts",
+          "gold"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": ""
+    },
+    {
+      "id": "general-knowledge_B1_15",
+      "que": "How many reindeer pull Santa's sleigh, including Rudolph?",
+      "ans": {
+        "value": "Nine",
+        "correct_entity": "option_a"
+      },
+      "options": [
+        "Nine",
+        "Eight",
+        "Seven"
+      ],
+      "expl": [
+        "Santa Claus has nine famous reindeer: Dasher, Dancer, Prancer, Vixen, Comet, Cupid, Donner, Blitzen, and Rudolph. Rudolph was added in 1939 by Robert L May for marketing. The first eight names appeared in Clement Clarke Moores poem A Visit from Saint Nicholas in 1823."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "Nine"
+        ],
+        "option_b": [
+          "Eight",
+          "8"
+        ],
+        "option_c": [
+          "Seven",
+          "7"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": ""
+    },
+    {
+      "id": "general-knowledge_B1_16",
+      "que": "Which \"Jeopardy\" champion won the 2022 Tournament of Champions?",
+      "ans": {
+        "value": "Amy Schneider",
+        "correct_entity": "option_a"
+      },
+      "options": [
+        "Amy Schneider",
+        "Brad Rutter",
+        "Ken Jennings"
+      ],
+      "expl": [
+        "With 40 consecutive wins on Jeopardy!, Amy Schneider is second to Ken Jennings in the show's history. She's the most successful female contestant with $1.6M in winnings. She won the 2022 Tournament of Champions, earning an extra $250K and ranking fourth in all-time wins."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "Amy Schneider",
+          "Amy",
+          "Schneider"
+        ],
+        "option_b": [
+          "Brad Rutter",
+          "Brad",
+          "Rutter"
+        ],
+        "option_c": [
+          "Ken Jennings",
+          "jenning",
+          "ken"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": ""
+    },
+    {
+      "id": "general-knowledge_B1_17",
+      "que": "Which number is considered unlucky in Japan because it may be pronounced shi, which is the word for death?",
+      "ans": {
+        "value": "Four",
+        "correct_entity": "option_b"
+      },
+      "options": [
+        "Eight",
+        "Four",
+        "Six"
+      ],
+      "expl": [
+        "In Japan, specific numbers are deemed fortunate or unfortunate, and knowing them is crucial. The number 4 is considered unlucky due to its pronunciation, \"shi,\" which also means \"death.\" Thus, it's avoided in various settings, from buildings to license plates."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "Eight",
+          "8"
+        ],
+        "option_b": [
+          "Four",
+          "4"
+        ],
+        "option_c": [
+          "Six",
+          "6"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": ""
+    },
+    {
+      "id": "general-knowledge_B1_18",
+      "que": "After google.com, what is the most-visited website in the United States?",
+      "ans": {
+        "value": "YouTube",
+        "correct_entity": "option_a"
+      },
+      "options": [
+        "YouTube",
+        "Amazon",
+        "Wikipedia"
+      ],
+      "expl": [
+        "As of my knowledge cutoff date in September 2021, the most-visited website in the United States after Google.com was YouTube.com. However, this may have changed since then."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "YouTube",
+          "you",
+          "tube"
+        ],
+        "option_b": [
+          "Amazon"
+        ],
+        "option_c": [
+          "Wikipedia",
+          "Wiki"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": ""
+    },
+    {
+      "id": "general-knowledge_B1_19",
+      "que": "Page Six is a famous gossip column in what U.S. newspaper?",
+      "ans": {
+        "value": "New York Post",
+        "correct_entity": "option_c"
+      },
+      "options": [
+        "USA Today",
+        "Los Angeles Times",
+        "New York Post"
+      ],
+      "expl": [
+        "Page Six, the renowned gossip section of The New York Post, has reigned over celebrity gossip for over 40 years. It's a trusted source built on insider tips, anonymous sources, and traditional journalism. With over 24 million monthly web readers, it surpasses the print edition's 147,000 readership."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "USA Today",
+          "u. s. a. today",
+          "u. s. a.",
+          "today"
+        ],
+        "option_b": [
+          "Los Angeles Times",
+          "l. a. times",
+          "l. a. time",
+          "l. a.",
+          "times",
+          "Los Angeles Time",
+          "time",
+          "los",
+          "los angeles"
+        ],
+        "option_c": [
+          "New York Post",
+          "n. y. post",
+          "n. y. posts"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": ""
+    },
+    {
+      "id": "general-knowledge_B1_20",
+      "que": "What popular fast food chain encouraged customers to \"Think Outside the Bun\"?",
+      "ans": {
+        "value": "Taco Bell",
+        "correct_entity": "option_b"
+      },
+      "options": [
+        "Chipotle",
+        "Taco Bell",
+        "KFC"
+      ],
+      "expl": [
+        "Taco Bell's memorable slogans like \"Yo Quiero Taco Bell\" and \"Live mas\" have delighted fast-food enthusiasts. \"Think Outside the Bun\" is a clever play on words encouraging originality and differentiation from hamburger-focused competitors."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "Chipotle"
+        ],
+        "option_b": [
+          "Taco Bell",
+          "Taco",
+          "Bell"
+        ],
+        "option_c": [
+          "KFC",
+          "k. f. c."
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": ""
+    },
+    {
+      "id": "general-knowledge_B1_21",
+      "que": "What is the largest beverage size at Starbucks?",
+      "ans": {
+        "value": "Trenta",
+        "correct_entity": "option_b"
+      },
+      "options": [
+        "Venti",
+        "Trenta",
+        "Grande"
+      ],
+      "expl": [
+        "Starbucks offers a secret menu size called Trenta, named after the Italian word for 30, but it actually holds 31 ounces for extra ice. It's only for cold drinks and can't be ordered on the app. You must order it in-store."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "Venti",
+          "venty"
+        ],
+        "option_b": [
+          "Trenta",
+          "trentas"
+        ],
+        "option_c": [
+          "Grande",
+          "grand"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": ""
+    },
+    {
+      "id": "general-knowledge_B1_22",
+      "que": "What is your sign of the zodiac if you were born on Groundhog day?",
+      "ans": {
+        "value": "Aquarius",
+        "correct_entity": "option_b"
+      },
+      "options": [
+        "Aries",
+        "Aquarius",
+        "Gemini"
+      ],
+      "expl": [
+        "February 2 marks Groundhog Day in the U.S., and those born on this date have the Aquarius zodiac sign. Aquarians are born between Jan 20th-Feb 18th and symbolized by the Water Bearer, despite being an Air sign often confused with water signs."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "Aries",
+          "airs"
+        ],
+        "option_b": [
+          "Aquarius",
+          "aqua"
+        ],
+        "option_c": [
+          "Gemini",
+          "jemini",
+          "mini"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": ""
+    },
+    {
+      "id": "general-knowledge_B1_23",
+      "que": "What is the age requirement to be elected President of the United States?",
+      "ans": {
+        "value": "35",
+        "correct_entity": "option_a"
+      },
+      "options": [
+        "35",
+        "20",
+        "40"
+      ],
+      "expl": [
+        "The U.S. Constitution's Article II sets unchanged requirements for presidential candidates since George Washington's presidency: natural-born U.S. citizenship, minimum age of 35, and 14 years of U.S. residency. Joe Biden, the current U.S. president, was inaugurated at age 78, the oldest in history."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "35",
+          "thirty five",
+          "three five"
+        ],
+        "option_b": [
+          "20",
+          "two zero",
+          "twenty"
+        ],
+        "option_c": [
+          "40",
+          "four zero",
+          "fourty",
+          "forty"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": ""
+    },
+    {
+      "id": "general-knowledge_B1_24",
+      "que": "Handsome Dan is the bulldog mascot of which Ivy League university's sports teams?",
+      "ans": {
+        "value": "Yale",
+        "correct_entity": "option_a"
+      },
+      "options": [
+        "Yale",
+        "Brown",
+        "Princeton"
+      ],
+      "expl": [
+        "Since 1889, Handsome Dan, a purebred bulldog, has been Yale University's mascot, embodying the school spirit. Despite the original Dan's passing, the tradition lives on with Handsome Dan XIX, born in 2021."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "Yale",
+          "yell"
+        ],
+        "option_b": [
+          "Brown"
+        ],
+        "option_c": [
+          "Princeton",
+          "princetone",
+          "prince tone",
+          "prince",
+          "tone",
+          "ton"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": ""
+    },
+    {
+      "id": "general-knowledge_B1_25",
+      "que": "Where was the Fortune Cookie invented?",
+      "ans": {
+        "value": "United States",
+        "correct_entity": "option_c"
+      },
+      "options": [
+        "North Korea",
+        "China",
+        "United States"
+      ],
+      "expl": [
+        "Despite common belief, the fortune cookie was not invented in China but in California by Japanese-American Makoto Hagiwara in 1914. A federal judge confirmed Hagiwara's credit for creating the cookie in San Francisco."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "North Korea",
+          "North",
+          "Korea"
+        ],
+        "option_b": [
+          "China",
+          "chinese"
+        ],
+        "option_c": [
+          "United States",
+          "United State",
+          "u. s.",
+          "us",
+          "usa",
+          "u. s. a.",
+          "united states of america"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": ""
+    },
+    {
+      "id": "general-knowledge_B1_26",
+      "que": "Which brand says, \"Welcome to the human network.\"",
+      "ans": {
+        "value": "Cisco Systems",
+        "correct_entity": "option_a"
+      },
+      "options": [
+        "Cisco Systems",
+        "IBM",
+        "HP"
+      ],
+      "expl": [
+        "Cisco is a multinational technology company offering networking hardware, software, and telecommunications equipment. Their slogan Welcome to the human network highlighted the value of human connections in an era of rapidly advancing technology."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "Cisco Systems",
+          "cisco system",
+          "cisco",
+          "system",
+          "systems"
+        ],
+        "option_b": [
+          "IBM",
+          "I. b. m."
+        ],
+        "option_c": [
+          "HP",
+          "h. p."
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": ""
+    },
+    {
+      "id": "general-knowledge_B1_27",
+      "que": "Who was the first woman to win a Nobel Prize?",
+      "ans": {
+        "value": "Marie Curie",
+        "correct_entity": "option_b"
+      },
+      "options": [
+        "Mother Teresa",
+        "Marie Curie",
+        "Malala Yousafzai"
+      ],
+      "expl": [
+        "The first woman to win a Nobel Prize was Marie Curie, a Polish physicist and chemist. She won the Nobel Prize in Physics in 1903 with her husband Pierre Curie and Antoine Henri Becquerel for work on radioactivity, and the Nobel Prize in Chemistry in 1911 for discovering radium and polonium."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "Mother Teresa",
+          "tereza",
+          "mother"
+        ],
+        "option_b": [
+          "Marie Curie",
+          "cure",
+          "Mary",
+          "mary cure",
+          "mary kury"
+        ],
+        "option_c": [
+          "Malala Yousafzai",
+          "malala Yusuf",
+          "malala Yousaf",
+          "malala yusufsai",
+          "malala yusufzai"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": ""
+    },
+    {
+      "id": "general-knowledge_B1_28",
+      "que": "Which American president is on the one-dollar bill?",
+      "ans": {
+        "value": "George Washington",
+        "correct_entity": "option_b"
+      },
+      "options": [
+        "Abraham Lincoln",
+        "George Washington",
+        "John F. Kennedy"
+      ],
+      "expl": [
+        "The American president who is on the one-dollar bill is George Washington, the first president of the United States. His portrait has been on the one-dollar bill since 1869."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "Abraham Lincoln",
+          "abraham",
+          "lincoln"
+        ],
+        "option_b": [
+          "George Washington",
+          "george",
+          "washington"
+        ],
+        "option_c": [
+          "John F. Kennedy",
+          "john",
+          "kennedy",
+          "kenedy",
+          "john kennedy",
+          "F kennedy",
+          "john F"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": ""
+    },
+    {
+      "id": "general-knowledge_B1_29",
+      "que": "What is the state motto of Texas?",
+      "ans": {
+        "value": "Friendship",
+        "correct_entity": "option_a"
+      },
+      "options": [
+        "Friendship",
+        "Excelsior",
+        "Liberty"
+      ],
+      "expl": [
+        "The state motto of Texas is \"Friendship\". It was adopted by the Texas Legislature in 1930 and is meant to symbolize the spirit of unity and goodwill among Texans."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "Friendship",
+          "friend ship",
+          "friend"
+        ],
+        "option_b": [
+          "Excelsior",
+          "excelsor"
+        ],
+        "option_c": [
+          "Liberty",
+          "liberti"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": ""
+    }
+  ],
+  "IMAGE_QUESTIONS": [],
+  "AUDIO_QUESTIONS": []
+}

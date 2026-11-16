@@ -1,0 +1,2904 @@
+{
+  "TEXT_QUESTIONS": [
+    {
+      "id": "ANI_TEXT_01",
+      "que": "Which reptile can regrow its tail if it loses one to a predator?",
+      "ans": {
+        "value": "Lizard",
+        "correct_entity": "option_b"
+      },
+      "options": [
+        "Snake",
+        "Lizard",
+        "Turtle"
+      ],
+      "expl": [
+        "The lizard is the reptile that can regrow its tail if it loses one to a predator. Some lizards can even choose to detach their own tail to escape danger. This process, called autotomy, allows the lizard to escape while the detached tail distracts predators. Growing a new tail can take weeks or months and often results in a slightly different appearance than the original."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "Snake"
+        ],
+        "option_b": [
+          "Lizard"
+        ],
+        "option_c": [
+          "Turtle"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": "",
+      "roundType": "text"
+    },
+    {
+      "id": "ANI_TEXT_02",
+      "que": "What is a baby cow called?",
+      "ans": {
+        "value": "Calf",
+        "correct_entity": "option_a"
+      },
+      "options": [
+        "Calf",
+        "Cub",
+        "Kid"
+      ],
+      "expl": [
+        "A baby cow is called a calf. A calf can usually stand and walk within an hour of being born. Calves typically nurse from their mothers for several months after birth. Female calves may eventually become dairy or breeding cows, while male calves are often raised for beef."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "Calf",
+          "cough",
+          "call",
+          "caf",
+          "cuf"
+        ],
+        "option_b": [
+          "Cub",
+          "cup",
+          "club",
+          "kup"
+        ],
+        "option_c": [
+          "Kid"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": "",
+      "roundType": "text"
+    },
+    {
+      "id": "ANI_TEXT_03",
+      "que": "What does a caterpillar transform into after metamorphosis?",
+      "ans": {
+        "value": "Butterfly",
+        "correct_entity": "option_a"
+      },
+      "options": [
+        "Butterfly",
+        "Dragonfly",
+        "Beetle"
+      ],
+      "expl": [
+        "A caterpillar transforms into a butterfly after metamorphosis. Inside its chrysalis, a caterpillar's body almost completely breaks down before reforming. This dramatic transformation includes rebuilding its wings, legs, and internal organs. The entire metamorphosis process can take anywhere from a week to several months, depending on the species."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "Butterfly"
+        ],
+        "option_b": [
+          "Dragonfly"
+        ],
+        "option_c": [
+          "Beetle"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": "",
+      "roundType": "text"
+    },
+    {
+      "id": "ANI_TEXT_04",
+      "que": "Which slow-moving rainforest animal is known for sleeping up to 15 hours a day?",
+      "ans": {
+        "value": "Sloth",
+        "correct_entity": "option_a"
+      },
+      "options": [
+        "Sloth",
+        "Panda",
+        "Otter"
+      ],
+      "expl": [
+        "The sloth is the slow-moving rainforest animal known for sleeping up to 15 hours a day. Sloths move so slowly that algae can grow on their fur. This algae actually helps camouflage them among the leaves of the rainforest canopy. Sloths spend nearly their entire lives hanging upside down in trees."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "Sloth",
+          "slot"
+        ],
+        "option_b": [
+          "Panda"
+        ],
+        "option_c": [
+          "Otter",
+          "hotter"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": "",
+      "roundType": "text"
+    },
+    {
+      "id": "ANI_TEXT_05",
+      "que": "Which farm animal is raised mainly for its wool?",
+      "ans": {
+        "value": "Sheep",
+        "correct_entity": "option_b"
+      },
+      "options": [
+        "Goat",
+        "Sheep",
+        "The Llama"
+      ],
+      "expl": [
+        "The sheep is the farm animal raised mainly for its wool. A single sheep can produce enough wool each year to make several sweaters. Sheep are typically sheared once a year, and the process doesn't hurt them if done correctly. Wool has natural properties that make it warm, water-resistant, and durable for clothing."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "Goat"
+        ],
+        "option_b": [
+          "Sheep",
+          "ship"
+        ],
+        "option_c": [
+          "The Llama",
+          "lama"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": "",
+      "roundType": "text"
+    },
+    {
+      "id": "ANI_TEXT_06",
+      "que": "Which colorful bird is well known for mimicking human speech?",
+      "ans": {
+        "value": "Parrot",
+        "correct_entity": "option_c"
+      },
+      "options": [
+        "Peacock",
+        "Pigeon",
+        "Parrot"
+      ],
+      "expl": [
+        "The parrot is the colorful bird well known for mimicking human speech. Some parrots can learn to recognize and use hundreds of different words. Parrots mimic sounds using a specialized vocal organ called the syrinx. Certain species, like African grey parrots, are considered among the most intelligent birds in the world."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "Peacock"
+        ],
+        "option_b": [
+          "Pigeon"
+        ],
+        "option_c": [
+          "Parrot"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": "",
+      "roundType": "text"
+    },
+    {
+      "id": "ANI_TEXT_07",
+      "que": "What is a group of fish called?",
+      "ans": {
+        "value": "School",
+        "correct_entity": "option_b"
+      },
+      "options": [
+        "Pack",
+        "School",
+        "Herd"
+      ],
+      "expl": [
+        "A group of fish is called a school. Fish swim in schools partly to confuse predators and stay safer together. Schooling also helps fish save energy while swimming. Not all fish school — some species remain solitary their entire lives. A loosely organized group is sometimes called a \"shoal\" rather than a school."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "Pack",
+          "park"
+        ],
+        "option_b": [
+          "School"
+        ],
+        "option_c": [
+          "Herd",
+          "heard",
+          "head",
+          "had",
+          "heart",
+          "hard"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": "",
+      "roundType": "text"
+    },
+    {
+      "id": "ANI_TEXT_08",
+      "que": "What is the fastest land animal in the world?",
+      "ans": {
+        "value": "Cheetah",
+        "correct_entity": "option_c"
+      },
+      "options": [
+        "Lion",
+        "Gazelle",
+        "Cheetah"
+      ],
+      "expl": [
+        "The cheetah is the fastest land animal in the world. It can go from 0 to 60 miles per hour in about 3 seconds. Cheetahs can reach top speeds of roughly 100–120 km/h in short bursts. Their long tails act like rudders, helping them make sharp turns at high speed. Despite their speed, cheetahs can only sustain a sprint for 20-30 seconds before overheating."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "Lion"
+        ],
+        "option_b": [
+          "Gazelle"
+        ],
+        "option_c": [
+          "Cheetah"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": "",
+      "roundType": "text"
+    },
+    {
+      "id": "ANI_TEXT_09",
+      "que": "Which is the largest mammal on Earth?",
+      "ans": {
+        "value": "Blue Whale",
+        "correct_entity": "option_c"
+      },
+      "options": [
+        "African Elephant",
+        "Giraffe",
+        "Blue Whale"
+      ],
+      "expl": [
+        "The blue whale is the largest mammal on Earth. A blue whale's heart alone can weigh as much as a small car. It can grow up to 30 meters long, longer than three school buses. Its diet consists almost entirely of tiny shrimp-like animals called krill. A blue whale's call can be louder than a jet engine and travel for miles underwater."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "African Elephant",
+          "african",
+          "elephant"
+        ],
+        "option_b": [
+          "Giraffe"
+        ],
+        "option_c": [
+          "Blue Whale",
+          "whale",
+          "blue"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": "",
+      "roundType": "text"
+    },
+    {
+      "id": "ANI_TEXT_10",
+      "que": "What do you call a baby kangaroo?",
+      "ans": {
+        "value": "Joey",
+        "correct_entity": "option_c"
+      },
+      "options": [
+        "Cub",
+        "Pup",
+        "Joey"
+      ],
+      "expl": [
+        "A baby kangaroo is called a joey. A newborn joey is only about the size of a jellybean. Joeys are born extremely underdeveloped and crawl into their mother's pouch to keep growing. They can stay in the pouch for several months before venturing out. Kangaroos are marsupials, a group of mammals that carry their young in pouches."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "Cub",
+          "cup",
+          "come",
+          "cuf"
+        ],
+        "option_b": [
+          "Pup",
+          "pop"
+        ],
+        "option_c": [
+          "Joey",
+          "joy",
+          "enjoy"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": "",
+      "roundType": "text"
+    },
+    {
+      "id": "ANI_TEXT_11",
+      "que": "Which flightless African bird is known for its speed on land?",
+      "ans": {
+        "value": "Ostrich",
+        "correct_entity": "option_c"
+      },
+      "options": [
+        "Emu",
+        "Penguin",
+        "Ostrich"
+      ],
+      "expl": [
+        "The ostrich is a flightless African bird known for its speed on land. Ostriches can run up to 70 kilometers per hour. They are the largest living birds, standing up to nearly 3 meters tall. Ostriches lay the largest eggs of any living bird. Despite being flightless, their powerful legs make them capable of outrunning most predators."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "Emu",
+          "emo",
+          "nimo",
+          "nemo"
+        ],
+        "option_b": [
+          "Penguin"
+        ],
+        "option_c": [
+          "Ostrich"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": "",
+      "roundType": "text"
+    },
+    {
+      "id": "ANI_TEXT_12",
+      "que": "How many hearts does an octopus have?",
+      "ans": {
+        "value": "Three",
+        "correct_entity": "option_c"
+      },
+      "options": [
+        "One",
+        "Two",
+        "Three"
+      ],
+      "expl": [
+        "An octopus has three hearts. Two hearts pump blood to the gills, and the third pumps it to the rest of the body. Octopus blood is blue because it's copper-based rather than iron-based. Its main heart actually stops beating when it swims, which is why octopuses prefer crawling."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "One",
+          "1",
+          "on"
+        ],
+        "option_b": [
+          "Two",
+          "2",
+          "thu",
+          "too"
+        ],
+        "option_c": [
+          "Three",
+          "3",
+          "tree"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": "",
+      "roundType": "text"
+    },
+    {
+      "id": "ANI_TEXT_13",
+      "que": "Which big cat is known as the king of the jungle?",
+      "ans": {
+        "value": "Lion",
+        "correct_entity": "option_c"
+      },
+      "options": [
+        "Tiger",
+        "Leopard",
+        "Lion"
+      ],
+      "expl": [
+        "The lion is known as the king of the jungle. Ironically, lions mostly live on grasslands and plains, not jungles. Lions are the only big cats that live in social groups, called prides. A lion's roar can be heard from up to 8 kilometers away. Male lions are easily recognized by their manes, which darken as they age."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "Tiger"
+        ],
+        "option_b": [
+          "Leopard",
+          "lepard",
+          "lepod"
+        ],
+        "option_c": [
+          "Lion"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": "",
+      "roundType": "text"
+    },
+    {
+      "id": "ANI_TEXT_14",
+      "que": "What is a group of lions called?",
+      "ans": {
+        "value": "Pride",
+        "correct_entity": "option_b"
+      },
+      "options": [
+        "Pack",
+        "Pride",
+        "Flock"
+      ],
+      "expl": [
+        "A group of lions is called a pride. A pride of lions can include up to 30 members. Prides typically consist of related females, their cubs, and a small number of males. Female lions do most of the hunting for the pride. Cubs are raised communally, often nursing from any lioness in the pride."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "Pack",
+          "park"
+        ],
+        "option_b": [
+          "Pride",
+          "ride",
+          "fried"
+        ],
+        "option_c": [
+          "Flock",
+          "lock"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": "",
+      "roundType": "text"
+    },
+    {
+      "id": "ANI_TEXT_15",
+      "que": "Which black-and-white bear from China feeds almost entirely on bamboo?",
+      "ans": {
+        "value": "Panda",
+        "correct_entity": "option_b"
+      },
+      "options": [
+        "Sun Bear",
+        "Panda",
+        "Sloth Bear"
+      ],
+      "expl": [
+        "The panda is the black-and-white bear from China that feeds almost entirely on bamboo. A panda can eat up to 14 kilograms of bamboo in a single day. Despite this bamboo-heavy diet, pandas actually have the digestive system of a carnivore. Giant pandas are native to mountainous regions of central China and are considered a national symbol there."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "Sun Bear"
+        ],
+        "option_b": [
+          "Panda"
+        ],
+        "option_c": [
+          "Sloth Bear",
+          "slot bear",
+          "slot",
+          "sloth",
+          "bear"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": "",
+      "roundType": "text"
+    },
+    {
+      "id": "ANI_TEXT_16",
+      "que": "Which animal has such powerful hearing it can rotate its long ears to track sound?",
+      "ans": {
+        "value": "Rabbit",
+        "correct_entity": "option_a"
+      },
+      "options": [
+        "Rabbit",
+        "Hedgehog",
+        "Turtle"
+      ],
+      "expl": [
+        "The rabbit is the animal with such powerful hearing it can rotate its long ears to track sound. A rabbit's ears can grow up to 10 centimeters long to help regulate body heat too. Their ears can rotate almost independently to pinpoint the direction of a sound. Rabbits rely on this acute hearing to detect approaching predators early."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "Rabbit"
+        ],
+        "option_b": [
+          "Hedgehog"
+        ],
+        "option_c": [
+          "Turtle"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": "",
+      "roundType": "text"
+    },
+    {
+      "id": "ANI_TEXT_17",
+      "que": "Which small mammal is famous for burying nuts to eat later in winter?",
+      "ans": {
+        "value": "Squirrel",
+        "correct_entity": "option_a"
+      },
+      "options": [
+        "Squirrel",
+        "Chipmunk",
+        "Beaver"
+      ],
+      "expl": [
+        "The squirrel is the small mammal famous for burying nuts to eat later in winter. Squirrels forget where they bury many of their nuts, accidentally planting new trees. This behavior, called scatter hoarding, helps spread seeds across forests. Squirrels also rely on their excellent memory and sense of smell to relocate many of their buried caches."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "Squirrel"
+        ],
+        "option_b": [
+          "Chipmunk"
+        ],
+        "option_c": [
+          "Beaver",
+          "bieber",
+          "fever"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": "",
+      "roundType": "text"
+    },
+    {
+      "id": "ANI_TEXT_18",
+      "que": "Which large African animal's closest living relative is actually the whale?",
+      "ans": {
+        "value": "Hippopotamus",
+        "correct_entity": "option_b"
+      },
+      "options": [
+        "Rhinoceros",
+        "Hippopotamus",
+        "Elephant"
+      ],
+      "expl": [
+        "The hippopotamus is the large African animal whose closest living relative is actually the whale. Hippos and whales are believed to share a common ancestor from about 55 million years ago. Despite this connection, hippos spend much of their time on land near rivers and lakes. Hippos are also considered one of the most dangerous animals in Africa due to their aggressive territorial behavior."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "Rhinoceros",
+          "rhino",
+          "rhinocer"
+        ],
+        "option_b": [
+          "Hippopotamus",
+          "hippo"
+        ],
+        "option_c": [
+          "Elephant"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": "",
+      "roundType": "text"
+    },
+    {
+      "id": "ANI_TEXT_19",
+      "que": "A rhinoceros's horn is made mostly of which material, also found in human hair and nails?",
+      "ans": {
+        "value": "Keratin",
+        "correct_entity": "option_b"
+      },
+      "options": [
+        "Bone",
+        "Keratin",
+        "Cartilage"
+      ],
+      "expl": [
+        "A rhinoceros's horn is made mostly of keratin, also found in human hair and nails. Unlike antlers, a rhino's horn will keep growing back throughout its life if broken. Rhino horns have sadly made them a target for illegal poaching in parts of Africa and Asia. Different rhino species have either one or two horns depending on where they are found."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "Bone"
+        ],
+        "option_b": [
+          "Keratin",
+          "carotene"
+        ],
+        "option_c": [
+          "Cartilage"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": "",
+      "roundType": "text"
+    },
+    {
+      "id": "ANI_TEXT_20",
+      "que": "Which reptile is famously unable to stick its tongue out of its mouth?",
+      "ans": {
+        "value": "Crocodile",
+        "correct_entity": "option_b"
+      },
+      "options": [
+        "Snake",
+        "Crocodile",
+        "Lizard"
+      ],
+      "expl": [
+        "The crocodile is the reptile famously unable to stick its tongue out of its mouth. A crocodile's tongue is held in place by a membrane, so it can't move it freely. This is different from many other reptiles, whose tongues move more freely. Crocodiles use a powerful bite force instead of their tongue to catch and hold prey."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "Snake"
+        ],
+        "option_b": [
+          "Crocodile"
+        ],
+        "option_c": [
+          "Lizard"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": "",
+      "roundType": "text"
+    },
+    {
+      "id": "ANI_TEXT_21",
+      "que": "A camel's humps mainly store which of the following, not water as many people believe?",
+      "ans": {
+        "value": "Fat",
+        "correct_entity": "option_b"
+      },
+      "options": [
+        "Muscle",
+        "Fat",
+        "Water"
+      ],
+      "expl": [
+        "A camel's humps mainly store fat, not water as many people believe. Camels can lose up to 25% of their body weight in water without any danger to their health. Their humps allow them to go for long periods without eating in harsh desert conditions. Camels can also close their nostrils to keep sand out during storms."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "Muscle"
+        ],
+        "option_b": [
+          "Fat",
+          "bad",
+          "bat",
+          "pet"
+        ],
+        "option_c": [
+          "Water"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": "",
+      "roundType": "text"
+    },
+    {
+      "id": "ANI_TEXT_22",
+      "que": "Which animal is considered the largest living primate on Earth?",
+      "ans": {
+        "value": "Gorilla",
+        "correct_entity": "option_c"
+      },
+      "options": [
+        "Chimpanzee",
+        "Orangutan",
+        "Gorilla"
+      ],
+      "expl": [
+        "The gorilla is considered the largest living primate on Earth. A fully grown male gorilla can weigh as much as three adult humans combined. Gorillas are herbivores, spending much of their day eating leaves, stems, and fruit. Despite their immense strength, gorillas are generally gentle and live in close-knit family groups."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "Chimpanzee"
+        ],
+        "option_b": [
+          "Orangutan"
+        ],
+        "option_c": [
+          "Gorilla"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": "",
+      "roundType": "text"
+    },
+    {
+      "id": "ANI_TEXT_23",
+      "que": "Which great ape shares roughly 98% of its DNA with humans?",
+      "ans": {
+        "value": "Chimpanzee",
+        "correct_entity": "option_a"
+      },
+      "options": [
+        "Chimpanzee",
+        "Gorilla",
+        "Baboon"
+      ],
+      "expl": [
+        "The chimpanzee is the great ape that shares roughly 98% of its DNA with humans. Chimpanzees can learn to use tools and even recognize themselves in a mirror. They live in complex social groups with structures similar in some ways to human communities. Chimpanzees are found in the forests and savannas of central and West Africa."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "Chimpanzee"
+        ],
+        "option_b": [
+          "Gorilla"
+        ],
+        "option_c": [
+          "Baboon"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": "",
+      "roundType": "text"
+    },
+    {
+      "id": "ANI_TEXT_24",
+      "que": "Sharks have skeletons made mostly of which flexible material instead of bone?",
+      "ans": {
+        "value": "Cartilage",
+        "correct_entity": "option_a"
+      },
+      "options": [
+        "Cartilage",
+        "Keratin",
+        "Muscle"
+      ],
+      "expl": [
+        "Sharks have skeletons made mostly of cartilage instead of bone. This is why shark skeletons rarely fossilize compared to bony fish. Cartilage is lighter and more flexible than bone, helping sharks move efficiently through water. Sharks have existed for hundreds of millions of years, predating even the dinosaurs."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "Cartilage"
+        ],
+        "option_b": [
+          "Keratin",
+          "carotene"
+        ],
+        "option_c": [
+          "Muscle"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": "",
+      "roundType": "text"
+    },
+    {
+      "id": "ANI_TEXT_25",
+      "que": "Which sea creature has no brain, no heart, and is made almost entirely of water?",
+      "ans": {
+        "value": "jellyfish",
+        "correct_entity": "option_b"
+      },
+      "options": [
+        "Starfish",
+        "jellyfish",
+        "Seahorse"
+      ],
+      "expl": [
+        "The jellyfish is the sea creature with no brain, no heart, and made almost entirely of water. Jellyfish are about 95% water, and some species are considered biologically immortal. They use stinging cells called nematocysts to capture prey and defend themselves. Jellyfish have existed in the oceans for more than 500 million years."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "Starfish",
+          "star fish"
+        ],
+        "option_b": [
+          "jellyfish",
+          "jelly fish"
+        ],
+        "option_c": [
+          "Seahorse",
+          "sea horse"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": "",
+      "roundType": "text"
+    },
+    {
+      "id": "ANI_TEXT_26",
+      "que": "Which tiny bird is the only one able to fly backwards?",
+      "ans": {
+        "value": "Hummingbird",
+        "correct_entity": "option_b"
+      },
+      "options": [
+        "Sparrow",
+        "Hummingbird",
+        "Swallow"
+      ],
+      "expl": [
+        "The hummingbird is the tiny bird that is the only one able to fly backwards. A hummingbird's heart can beat over 1,200 times per minute during flight. Their rapid wingbeats allow them to hover in place while feeding on nectar. Hummingbirds have extremely high metabolisms and must feed frequently throughout the day to survive."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "Sparrow"
+        ],
+        "option_b": [
+          "Hummingbird",
+          "humming bird"
+        ],
+        "option_c": [
+          "Swallow",
+          "swollow",
+          "willow"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": "",
+      "roundType": "text"
+    },
+    {
+      "id": "ANI_TEXT_27",
+      "que": "Which unusual Australian mammal lays eggs instead of giving birth to live young?",
+      "ans": {
+        "value": "Platypus",
+        "correct_entity": "option_b"
+      },
+      "options": [
+        "Koala",
+        "Platypus",
+        "Wombat"
+      ],
+      "expl": [
+        "The platypus is the unusual Australian mammal that lays eggs instead of giving birth to live young. The platypus is one of only a few mammals in the world that lay eggs. It also has a duck-like bill and webbed feet suited to its semi-aquatic lifestyle. Male platypuses are venomous, using spurs on their hind legs for defense."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "Koala"
+        ],
+        "option_b": [
+          "Platypus"
+        ],
+        "option_c": [
+          "Wombat",
+          "worm bat"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": "",
+      "roundType": "text"
+    },
+    {
+      "id": "ANI_TEXT_28",
+      "que": "Which is the only mammal in the world capable of true, sustained flight?",
+      "ans": {
+        "value": "Bat",
+        "correct_entity": "option_b"
+      },
+      "options": [
+        "Flying squirrel",
+        "Bat",
+        "Sugar glider"
+      ],
+      "expl": [
+        "The bat is the only mammal in the world capable of true, sustained flight. Bats use echolocation, bouncing sound waves off objects, to navigate in complete darkness. Their wings are made of a thin skin membrane stretched between elongated finger bones. Bats play an important ecological role by pollinating plants and controlling insect populations."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "Flying squirrel",
+          "flying",
+          "squirrel"
+        ],
+        "option_b": [
+          "Bat",
+          "bad",
+          "bed"
+        ],
+        "option_c": [
+          "Sugar glider",
+          "sugar",
+          "glider"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": "",
+      "roundType": "text"
+    },
+    {
+      "id": "ANI_TEXT_29",
+      "que": "Which small, social desert animal is known for taking turns standing guard for predators?",
+      "ans": {
+        "value": "Meerkat",
+        "correct_entity": "option_a"
+      },
+      "options": [
+        "Meerkat",
+        "Prairie dog",
+        "Mongoose"
+      ],
+      "expl": [
+        "The meerkat is the small, social desert animal known for taking turns standing guard for predators. Meerkats live in tight-knit groups called mobs or gangs, often with over 20 members. While some meerkats forage, others stand watch on their hind legs to spot danger. Meerkats communicate a range of specific warning calls depending on the type of threat."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "Meerkat",
+          "market",
+          "mark at",
+          "meer cat"
+        ],
+        "option_b": [
+          "Prairie dog",
+          "dog",
+          "prary dog",
+          "preety dog"
+        ],
+        "option_c": [
+          "Mongoose"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": "",
+      "roundType": "text"
+    }
+  ],
+  "IMAGE_QUESTIONS": [
+    {
+      "id": "ANI_IMAGE_01",
+      "que": "Which animal is shown here?",
+      "ans": {
+        "value": "Giraffe",
+        "correct_entity": "option_b"
+      },
+      "options": [
+        "Camel",
+        "Giraffe",
+        "Ostrich"
+      ],
+      "expl": [
+        "The animal shown here is a giraffe. A giraffe's neck has the same number of neck bones as a human — seven, just much larger. Giraffes are the tallest land animals in the world, thanks largely to their long necks and legs. Their height helps them reach leaves high in trees that other animals cannot access."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "Camel"
+        ],
+        "option_b": [
+          "Giraffe"
+        ],
+        "option_c": [
+          "Ostrich"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "ANI_IMAGE_01.png",
+      "audioUrl": "",
+      "roundType": "image"
+    },
+    {
+      "id": "ANI_IMAGE_02",
+      "que": "Can you identify the animal shown here? What's the name of this animal?",
+      "ans": {
+        "value": "Elephant",
+        "correct_entity": "option_b"
+      },
+      "options": [
+        "Rhino",
+        "Elephant",
+        "Mammoth"
+      ],
+      "expl": [
+        "The animal shown here is an elephant. Elephants are the only mammals that can't jump. They are the largest land animals on Earth, with African elephants being the largest species. Elephants use their trunks, which contain thousands of muscles, for breathing, eating, and even communication."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "Rhino"
+        ],
+        "option_b": [
+          "Elephant"
+        ],
+        "option_c": [
+          "Mammoth"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "ANI_IMAGE_02.png",
+      "audioUrl": "",
+      "roundType": "image"
+    },
+    {
+      "id": "ANI_IMAGE_03",
+      "que": "Which creature does this image show?",
+      "ans": {
+        "value": "Sloth",
+        "correct_entity": "option_a"
+      },
+      "options": [
+        "Sloth",
+        "Anteater",
+        "Armadillo"
+      ],
+      "expl": [
+        "The animal shown here is a sloth. Sloths can take up to a month to digest a single meal. They are famous for being one of the slowest-moving mammals on Earth. Sloths spend most of their lives hanging upside down in trees in Central and South American rainforests."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "Sloth",
+          "slot"
+        ],
+        "option_b": [
+          "Anteater",
+          "ant eater"
+        ],
+        "option_c": [
+          "Armadillo"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "ANI_IMAGE_03.png",
+      "audioUrl": "",
+      "roundType": "image"
+    },
+    {
+      "id": "ANI_IMAGE_04",
+      "que": "Identify the animal in this picture.",
+      "ans": {
+        "value": "Hedgehog",
+        "correct_entity": "option_b"
+      },
+      "options": [
+        "Porcupine",
+        "Hedgehog",
+        "Sea Urchin"
+      ],
+      "expl": [
+        "The animal shown here is a hedgehog. A hedgehog has around 5,000 to 7,000 spines on its back. These spines are made of keratin, the same material found in human hair and nails. When threatened, a hedgehog curls into a tight ball to protect its soft underside."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "Porcupine"
+        ],
+        "option_b": [
+          "Hedgehog"
+        ],
+        "option_c": [
+          "Sea Urchin",
+          "sea",
+          "urchin",
+          "see urchin",
+          "c. urchin"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "ANI_IMAGE_04.png",
+      "audioUrl": "",
+      "roundType": "image"
+    },
+    {
+      "id": "ANI_IMAGE_05",
+      "que": "Which animal is displayed here?",
+      "ans": {
+        "value": "Flamingo",
+        "correct_entity": "option_a"
+      },
+      "options": [
+        "Flamingo",
+        "Crane",
+        "Heron"
+      ],
+      "expl": [
+        "The animal shown here is a flamingo. Flamingos get their pink color from pigments in the shrimp and algae they eat. Without this diet, flamingos would actually be greyish-white in color. They are also known for their ability to stand on one leg for long periods."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "Flamingo"
+        ],
+        "option_b": [
+          "Crane"
+        ],
+        "option_c": [
+          "Heron",
+          "heeron"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "ANI_IMAGE_05.png",
+      "audioUrl": "",
+      "roundType": "image"
+    },
+    {
+      "id": "ANI_IMAGE_06",
+      "que": "Which animal is shown here?",
+      "ans": {
+        "value": "Otter",
+        "correct_entity": "option_c"
+      },
+      "options": [
+        "Beaver",
+        "Muskrat",
+        "Otter"
+      ],
+      "expl": [
+        "The animal shown here is an otter. Sea otters hold hands while sleeping so they don't drift apart. They have some of the densest fur of any animal, helping keep them warm without a layer of blubber. Otters are also known for using rocks as tools to crack open shellfish."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "Beaver",
+          "fever",
+          "beware"
+        ],
+        "option_b": [
+          "Muskrat",
+          "must rat"
+        ],
+        "option_c": [
+          "Otter",
+          "order",
+          "scooter"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "ANI_IMAGE_06.png",
+      "audioUrl": "",
+      "roundType": "image"
+    },
+    {
+      "id": "ANI_IMAGE_07",
+      "que": "Guess the animal shown in this image.",
+      "ans": {
+        "value": "Peacock",
+        "correct_entity": "option_b"
+      },
+      "options": [
+        "Turkey",
+        "Peacock",
+        "Parrot"
+      ],
+      "expl": [
+        "The animal shown here is a peacock. Only male peafowl are called peacocks — females are called peahens. Male peacocks display their large, colorful tail feathers to attract mates during courtship. A peacock's dazzling feather colors come from microscopic structures that reflect light rather than pigment alone."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "Turkey"
+        ],
+        "option_b": [
+          "Peacock"
+        ],
+        "option_c": [
+          "Parrot"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "ANI_IMAGE_07.png",
+      "audioUrl": "",
+      "roundType": "image"
+    },
+    {
+      "id": "ANI_IMAGE_08",
+      "que": "Whose stripes are these?",
+      "ans": {
+        "value": "Zebra",
+        "correct_entity": "option_b"
+      },
+      "options": [
+        "Tiger",
+        "Zebra",
+        "Skunk"
+      ],
+      "expl": [
+        "These stripes belong to a zebra. No two zebras have exactly the same stripe pattern. Scientists believe stripes may help confuse predators or deter biting insects. Zebras are closely related to horses and donkeys. Each zebra's stripe pattern is as unique as a human fingerprint."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "Tiger"
+        ],
+        "option_b": [
+          "Zebra"
+        ],
+        "option_c": [
+          "Skunk",
+          "skun",
+          "skank"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "ANI_IMAGE_08.jpg",
+      "audioUrl": "",
+      "roundType": "image"
+    },
+    {
+      "id": "ANI_IMAGE_09",
+      "que": "This is a close-up of whose skin pattern?",
+      "ans": {
+        "value": "Giraffe",
+        "correct_entity": "option_a"
+      },
+      "options": [
+        "Giraffe",
+        "Leopard",
+        "Cheetah"
+      ],
+      "expl": [
+        "This is a close-up of a giraffe's skin pattern. A giraffe's spot pattern is as unique as a human fingerprint. Giraffes are the tallest living land animals. Each patch pattern is thought to help giraffes blend into dappled light in the wild. A giraffe's tongue can be up to 50 centimeters long, helping it reach leaves."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "Giraffe"
+        ],
+        "option_b": [
+          "Leopard"
+        ],
+        "option_c": [
+          "Cheetah"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "ANI_IMAGE_09.jpg",
+      "audioUrl": "",
+      "roundType": "image"
+    },
+    {
+      "id": "ANI_IMAGE_10",
+      "que": "Which animal left this footprint?",
+      "ans": {
+        "value": "Elephant",
+        "correct_entity": "option_c"
+      },
+      "options": [
+        "Bear",
+        "Wolf",
+        "Elephant"
+      ],
+      "expl": [
+        "This footprint belongs to an elephant. An elephant footprint can be used to estimate its height. Elephants are the largest land animals on Earth. Their footprints can help track individual elephants over time. Elephants walk on their toes, with a fat pad behind acting like a cushion."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "Bear",
+          "beer"
+        ],
+        "option_b": [
+          "Wolf"
+        ],
+        "option_c": [
+          "Elephant"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "ANI_IMAGE_10.jpg",
+      "audioUrl": "",
+      "roundType": "image"
+    },
+    {
+      "id": "ANI_IMAGE_11",
+      "que": "What is a baby of Sheep called?",
+      "ans": {
+        "value": "Lamb",
+        "correct_entity": "option_b"
+      },
+      "options": [
+        "Cub",
+        "Lamb",
+        "Kid"
+      ],
+      "expl": [
+        "Sheep and lambs have amazing traits, including rectangular pupils, incredible memory, and early walking abilities They have scent glands on their face and hooves to leave messages for other sheep. An adult sheep can run up to 25 miles per hour to get away from danger."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "Cub",
+          "come",
+          "cum",
+          "cup"
+        ],
+        "option_b": [
+          "Lamb",
+          "lam",
+          "lem",
+          "vam",
+          "bam",
+          "lamp"
+        ],
+        "option_c": [
+          "Kid"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "ANI_IMAGE_11.jpg",
+      "audioUrl": "",
+      "roundType": "image"
+    },
+    {
+      "id": "ANI_IMAGE_12",
+      "que": "Which bird is this, famous for not flying?",
+      "ans": {
+        "value": "Ostrich",
+        "correct_entity": "option_a"
+      },
+      "options": [
+        "Ostrich",
+        "Peacock",
+        "Flamingo"
+      ],
+      "expl": [
+        "The bird shown here, famous for not flying, is the ostrich. Ostriches can run faster than 70 km/h, faster than most horses. They are the largest living bird species, and also lay the largest eggs of any bird. Ostriches rely on their strong legs to escape predators rather than flight."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "Ostrich"
+        ],
+        "option_b": [
+          "Peacock"
+        ],
+        "option_c": [
+          "Flamingo"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "ANI_IMAGE_12.jpg",
+      "audioUrl": "",
+      "roundType": "image"
+    },
+    {
+      "id": "ANI_IMAGE_13",
+      "que": "This shell home belongs to which slow-moving animal?",
+      "ans": {
+        "value": "Tortoise",
+        "correct_entity": "option_b"
+      },
+      "options": [
+        "Snail",
+        "Tortoise",
+        "Crab"
+      ],
+      "expl": [
+        "This shell home belongs to the tortoise, a slow-moving animal. A tortoise's shell is actually part of its skeleton, fused to its spine and ribs. Tortoises are known for their long lifespans, with some species living over 100 years. Unlike turtles, most tortoises live entirely on land rather than in water."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "Snail"
+        ],
+        "option_b": [
+          "Tortoise"
+        ],
+        "option_c": [
+          "Crab"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "ANI_IMAGE_13.jpg",
+      "audioUrl": "",
+      "roundType": "image"
+    },
+    {
+      "id": "ANI_IMAGE_14",
+      "que": "What color are a polar bear's whiskers-covered skin under all that white fur?",
+      "ans": {
+        "value": "Black",
+        "correct_entity": "option_a"
+      },
+      "options": [
+        "Black",
+        "Pink",
+        "White"
+      ],
+      "expl": [
+        "A polar bear's skin under all that white fur is black. Polar bear fur isn't actually white - it's transparent and appears white by reflecting light. The black skin underneath helps absorb heat from the sun to keep the bear warm. Polar bears rely on this fur and a thick layer of fat to survive extreme Arctic cold."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "Black"
+        ],
+        "option_b": [
+          "Pink"
+        ],
+        "option_c": [
+          "White"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "ANI_IMAGE_14.jpg",
+      "audioUrl": "",
+      "roundType": "image"
+    },
+    {
+      "id": "ANI_IMAGE_15",
+      "que": "Which of these animals is a marsupial?",
+      "ans": {
+        "value": "Koala",
+        "correct_entity": "option_a"
+      },
+      "options": [
+        "Koala",
+        "Panda",
+        "Raccoon"
+      ],
+      "expl": [
+        "The koala is the marsupial shown here. Koalas sleep up to 20 hours a day. They feed almost exclusively on eucalyptus leaves. Baby koalas, also called joeys, live in their mother's pouch after birth. Koalas have fingerprints so similar to humans that they can be mistaken at a glance."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "Koala"
+        ],
+        "option_b": [
+          "Panda"
+        ],
+        "option_c": [
+          "Raccoon"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "ANI_IMAGE_15.jpg",
+      "audioUrl": "",
+      "roundType": "image"
+    },
+    {
+      "id": "ANI_IMAGE_16",
+      "que": "What is this camouflaged insect pretending to be?",
+      "ans": {
+        "value": "leaf",
+        "correct_entity": "option_a"
+      },
+      "options": [
+        "leaf",
+        "flower",
+        "twig"
+      ],
+      "expl": [
+        "This camouflaged insect is pretending to be a leaf. Leaf insects sway gently to mimic a leaf moving in the wind. Their flattened, leaf-shaped bodies and veined wings make them extremely difficult for predators to spot. This form of camouflage, called mimicry, helps them avoid being eaten by birds and other predators."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "leaf",
+          "leave"
+        ],
+        "option_b": [
+          "flower"
+        ],
+        "option_c": [
+          "twig"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "ANI_IMAGE_16.jpg",
+      "audioUrl": "",
+      "roundType": "image"
+    },
+    {
+      "id": "ANI_IMAGE_17",
+      "que": "Which big cat is known for this dark 'tear mark' under its eyes?",
+      "ans": {
+        "value": "Cheetah",
+        "correct_entity": "option_b"
+      },
+      "options": [
+        "Lion",
+        "Cheetah",
+        "Tiger"
+      ],
+      "expl": [
+        "The cheetah is the big cat known for a dark \"tear mark\" running from its eyes to its mouth. Scientists believe cheetah tear marks help reduce sun glare while hunting. Cheetahs rely heavily on keen daytime vision to spot prey across open grasslands. These natural markings may also help reduce the sun's glare during high-speed daytime chases."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "Lion"
+        ],
+        "option_b": [
+          "Cheetah"
+        ],
+        "option_c": [
+          "Tiger"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "ANI_IMAGE_17.jpg",
+      "audioUrl": "",
+      "roundType": "image"
+    },
+    {
+      "id": "ANI_IMAGE_18",
+      "que": "Which animal is famous for changing its skin color to blend into surroundings?",
+      "ans": {
+        "value": "Chameleon",
+        "correct_entity": "option_a"
+      },
+      "options": [
+        "Chameleon",
+        "Gecko",
+        "Iguana"
+      ],
+      "expl": [
+        "The chameleon is the animal famous for changing its skin color to blend into its surroundings. Chameleons change color mainly to communicate mood and temperature, not just to hide. Their skin contains special cells with pigments that expand or contract to shift color. Chameleons are also known for their independently rotating eyes, which let them scan for prey and predators at once."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "Chameleon"
+        ],
+        "option_b": [
+          "Gecko"
+        ],
+        "option_c": [
+          "Iguana"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "ANI_IMAGE_18.jpg",
+      "audioUrl": "",
+      "roundType": "image"
+    },
+    {
+      "id": "ANI_IMAGE_19",
+      "que": "This animal is known for carrying its home wherever it goes. What is it?",
+      "ans": {
+        "value": "Snail",
+        "correct_entity": "option_a"
+      },
+      "options": [
+        "Snail",
+        "Hedgehog",
+        "Armadillo"
+      ],
+      "expl": [
+        "This animal is known for carrying its home wherever it goes: the snail. A snail's shell grows with it throughout its life and is never shed. Snails move using a muscular \"foot\" that produces a trail of slime. Some snail species can live for several years. Snails are found in nearly every habitat, from gardens to deep oceans."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "Snail",
+          "nail"
+        ],
+        "option_b": [
+          "Hedgehog",
+          "head ke ho"
+        ],
+        "option_c": [
+          "Armadillo"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "ANI_IMAGE_19.jpg",
+      "audioUrl": "",
+      "roundType": "image"
+    },
+    {
+      "id": "ANI_IMAGE_20",
+      "que": "Which animal is shown here with its distinctive long neck used to reach tall trees?",
+      "ans": {
+        "value": "Giraffe",
+        "correct_entity": "option_a"
+      },
+      "options": [
+        "Giraffe",
+        "Camel",
+        "Ostrich"
+      ],
+      "expl": [
+        "The giraffe is shown here with its distinctive long neck used to reach tall trees. A giraffe's neck alone can be over 1.8 meters long, but has the same number of neck bones as a human - just seven. Their long necks let them feed on leaves high in acacia trees that other animals can't reach. Giraffes are the tallest land animals on Earth."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "Giraffe"
+        ],
+        "option_b": [
+          "Camel"
+        ],
+        "option_c": [
+          "Ostrich"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "ANI_IMAGE_20.jpg",
+      "audioUrl": "",
+      "roundType": "image"
+    },
+    {
+      "id": "ANI_IMAGE_21",
+      "que": "This nocturnal black-and-white striped animal is known for its strong smell as defense. What is it?",
+      "ans": {
+        "value": "Skunk",
+        "correct_entity": "option_a"
+      },
+      "options": [
+        "Skunk",
+        "Badger",
+        "Raccoon"
+      ],
+      "expl": [
+        "The skunk is the nocturnal black-and-white striped animal known for its strong smell as defense. A skunk's spray can be smelled from over a kilometer away. This foul-smelling spray comes from special glands near the base of its tail. Skunks typically only spray as a last resort after warning signals like stomping or hissing."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "Skunk",
+          "skun",
+          "skank"
+        ],
+        "option_b": [
+          "Badger"
+        ],
+        "option_c": [
+          "Raccoon"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "ANI_IMAGE_21.jpg",
+      "audioUrl": "",
+      "roundType": "image"
+    },
+    {
+      "id": "ANI_IMAGE_22",
+      "que": "Which sea creature is shown here with eight arms and the ability to change color instantly?",
+      "ans": {
+        "value": "Octopus",
+        "correct_entity": "option_b"
+      },
+      "options": [
+        "Squid",
+        "Octopus",
+        "Jellyfish"
+      ],
+      "expl": [
+        "The octopus is the sea creature shown here with eight arms and the ability to change color instantly. An octopus has three hearts and blue blood. Its blood is blue because it relies on copper-based hemocyanin rather than iron-based hemoglobin. Octopuses are also remarkably intelligent, able to solve puzzles and even escape enclosures."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "Squid"
+        ],
+        "option_b": [
+          "Octopus"
+        ],
+        "option_c": [
+          "Jellyfish",
+          "jelly fish"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "ANI_IMAGE_22.jpg",
+      "audioUrl": "",
+      "roundType": "image"
+    },
+    {
+      "id": "ANI_IMAGE_23",
+      "que": "This large-eared animal uses its ears to cool off in hot climates. Which animal is it?",
+      "ans": {
+        "value": "Fennec fox",
+        "correct_entity": "option_a"
+      },
+      "options": [
+        "Fennec fox",
+        "Elephant",
+        "Rabbit"
+      ],
+      "expl": [
+        "The fennec fox is the large-eared animal that uses its ears to cool off in hot desert climates. The fennec fox's oversized ears also give it excellent hearing to find prey underground. It is the smallest species of fox in the world. Fennec foxes are native to the Sahara Desert and other parts of North Africa."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "Fennec fox",
+          "fox",
+          "panic fox",
+          "fennec",
+          "panic"
+        ],
+        "option_b": [
+          "Elephant"
+        ],
+        "option_c": [
+          "Rabbit"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "ANI_IMAGE_23.jpg",
+      "audioUrl": "",
+      "roundType": "image"
+    },
+    {
+      "id": "ANI_IMAGE_24",
+      "que": "Which black-and-white flightless seabird is shown here, found mostly in the Southern Hemisphere?",
+      "ans": {
+        "value": "Penguin",
+        "correct_entity": "option_a"
+      },
+      "options": [
+        "Penguin",
+        "Puffin",
+        "Pelican"
+      ],
+      "expl": [
+        "The penguin is the black-and-white flightless seabird shown here, found mostly in the Southern Hemisphere. Penguins can't fly, but the largest species can dive deeper than 500 meters underwater. Their wings have evolved into flippers that make them powerful swimmers instead. Penguins are found in various climates, from icy Antarctica to warmer coastal regions of South America and Africa."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "Penguin"
+        ],
+        "option_b": [
+          "Puffin",
+          "muffin"
+        ],
+        "option_c": [
+          "Pelican"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "ANI_IMAGE_24.jpg",
+      "audioUrl": "",
+      "roundType": "image"
+    },
+    {
+      "id": "ANI_IMAGE_25",
+      "que": "This masked, ring-tailed animal is famous for raiding trash cans at night. What is it?",
+      "ans": {
+        "value": "Raccoon",
+        "correct_entity": "option_b"
+      },
+      "options": [
+        "Badger",
+        "Raccoon",
+        "Possum"
+      ],
+      "expl": [
+        "The raccoon is the masked, ring-tailed animal famous for raiding trash cans at night. Raccoons have extremely sensitive front paws, almost like hands, to help them find food. This sensitivity lets them manipulate objects and open containers with surprising dexterity. Raccoons are highly adaptable and are found in a wide range of habitats, including cities."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "Badger"
+        ],
+        "option_b": [
+          "Raccoon"
+        ],
+        "option_c": [
+          "Possum"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "ANI_IMAGE_25.jpg",
+      "audioUrl": "",
+      "roundType": "image"
+    },
+    {
+      "id": "ANI_IMAGE_26",
+      "que": "This colorful tropical bird has an oversized, brightly colored beak. What is it called?",
+      "ans": {
+        "value": "Toucan",
+        "correct_entity": "option_a"
+      },
+      "options": [
+        "Toucan",
+        "Macaw",
+        "Kingfisher"
+      ],
+      "expl": [
+        "The toucan is the colorful tropical bird with an oversized, brightly colored beak. A toucan's large beak is surprisingly lightweight because it's mostly hollow inside. Toucans use their beaks to reach and peel fruit, their primary food source. They are native to the forests of Central and South America."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "Toucan",
+          "token",
+          "two can",
+          "to can",
+          "tocan"
+        ],
+        "option_b": [
+          "Macaw"
+        ],
+        "option_c": [
+          "Kingfisher",
+          "king fisher"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "ANI_IMAGE_26.jpg",
+      "audioUrl": "",
+      "roundType": "image"
+    },
+    {
+      "id": "ANI_IMAGE_27",
+      "que": "This tiny, upright-swimming fish with a curled tail is called what?",
+      "ans": {
+        "value": "Seahorse",
+        "correct_entity": "option_a"
+      },
+      "options": [
+        "Seahorse",
+        "Pipefish",
+        "Clownfish"
+      ],
+      "expl": [
+        "The seahorse is the tiny, upright-swimming fish with a curled tail. Male seahorses are the ones who carry and give birth to the babies, not the females. Seahorses swim upright, unlike most fish, using a small fin on their back for propulsion. They are also known for their poor swimming speed, among the slowest of any fish species."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "Seahorse",
+          "sea horse"
+        ],
+        "option_b": [
+          "Pipefish",
+          "pipe fish",
+          "pipe"
+        ],
+        "option_c": [
+          "Clownfish",
+          "clown fish",
+          "clown"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "ANI_IMAGE_27.jpg",
+      "audioUrl": "",
+      "roundType": "image"
+    },
+    {
+      "id": "ANI_IMAGE_28",
+      "que": "This spiky-coated animal is covered in sharp quills for defense. What is it?",
+      "ans": {
+        "value": "Porcupine",
+        "correct_entity": "option_b"
+      },
+      "options": [
+        "Hedgehog",
+        "Porcupine",
+        "Echidna"
+      ],
+      "expl": [
+        "The porcupine is the spiky-coated animal covered in sharp quills for defense. A porcupine has around 30,000 quills covering its body. These quills are modified hairs made of keratin that can detach easily when touched. Porcupines cannot actually shoot their quills, despite common myths."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "Hedgehog"
+        ],
+        "option_b": [
+          "Porcupine"
+        ],
+        "option_c": [
+          "Echidna",
+          "ekidna",
+          "idikna"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "ANI_IMAGE_28.jpg",
+      "audioUrl": "",
+      "roundType": "image"
+    },
+    {
+      "id": "ANI_IMAGE_29",
+      "que": "This huge tusked animal spends much of its life in cold Arctic waters. What is it?",
+      "ans": {
+        "value": "Walrus",
+        "correct_entity": "option_a"
+      },
+      "options": [
+        "Walrus",
+        "Seal",
+        "Narwhal"
+      ],
+      "expl": [
+        "The walrus is the huge tusked animal that spends much of its life in cold Arctic waters. A walrus can use its long tusks to help haul its heavy body out of icy water. Its thick layer of blubber helps it survive in freezing Arctic temperatures. Walruses use their sensitive whiskers to locate shellfish on the ocean floor."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "Walrus",
+          "virus"
+        ],
+        "option_b": [
+          "Seal"
+        ],
+        "option_c": [
+          "Narwhal",
+          "marvel",
+          "norwell"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "ANI_IMAGE_29.jpg",
+      "audioUrl": "",
+      "roundType": "image"
+    },
+    {
+      "id": "ANI_IMAGE_30",
+      "que": "This large lizard, the world's biggest, is native to a group of Indonesian islands. What is it?",
+      "ans": {
+        "value": "Komodo Dragon",
+        "correct_entity": "option_a"
+      },
+      "options": [
+        "Komodo Dragon",
+        "Iguana",
+        "Monitor Lizard"
+      ],
+      "expl": [
+        "The Komodo Dragon is the large lizard, the world's biggest, native to a group of Indonesian islands. Komodo dragons can grow over 3 meters long and have a venomous bite. They are apex predators capable of taking down animals as large as deer and water buffalo. Komodo dragons are found only in a small region of Indonesia, including Komodo Island."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "Komodo Dragon",
+          "komodo",
+          "dragon"
+        ],
+        "option_b": [
+          "Iguana"
+        ],
+        "option_c": [
+          "Monitor Lizard",
+          "lizard"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "ANI_IMAGE_30.jpg",
+      "audioUrl": "",
+      "roundType": "image"
+    },
+    {
+      "id": "ANI_IMAGE_31",
+      "que": "This armored mammal can roll itself into a tight ball for protection. What is it?",
+      "ans": {
+        "value": "Armadillo",
+        "correct_entity": "option_c"
+      },
+      "options": [
+        "Hedgehog",
+        "Pangolin",
+        "Armadillo"
+      ],
+      "expl": [
+        "The armadillo is the armored mammal that can roll itself into a tight ball for protection. Armadillos are the only mammals known to have a natural bony shell covering their body. This shell, made of bony plates, protects them from predators. Armadillos are also known for their strong digging ability, using it to build burrows and find food."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "Hedgehog"
+        ],
+        "option_b": [
+          "Pangolin",
+          "penguin"
+        ],
+        "option_c": [
+          "Armadillo"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "ANI_IMAGE_31.jpg",
+      "audioUrl": "",
+      "roundType": "image"
+    }
+  ],
+  "AUDIO_QUESTIONS": [
+    {
+      "id": "ANI_AUDIO_01",
+      "que": "Which animal makes this sound?",
+      "ans": {
+        "value": "Lion",
+        "correct_entity": "option_a"
+      },
+      "options": [
+        "Lion",
+        "Zebra",
+        "Bear"
+      ],
+      "expl": [
+        "The lion is the animal making this powerful roaring sound. A lion's roar can be heard from up to 8 kilometers away. Lions roar to communicate with pride members and to mark their territory. Male lions are especially known for their loud roars, aided by a unique bone structure in their throat."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "Lion"
+        ],
+        "option_b": [
+          "Zebra"
+        ],
+        "option_c": [
+          "Bear",
+          "beer"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": "ANI_AUDIO_01.mp3",
+      "roundType": "audio"
+    },
+    {
+      "id": "ANI_AUDIO_02",
+      "que": "Can you identify the animal behind this sound?",
+      "ans": {
+        "value": "Elephant",
+        "correct_entity": "option_b"
+      },
+      "options": [
+        "Bear",
+        "Elephant",
+        "Hippo"
+      ],
+      "expl": [
+        "The elephant is the animal behind this deep, rumbling sound. Elephants can also communicate using low-frequency rumbles too deep for humans to hear. These infrasonic sounds can travel over long distances, even through the ground. Elephants use a wide range of vocalizations, from trumpeting to rumbling, to communicate with their herd."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "Bear",
+          "beer"
+        ],
+        "option_b": [
+          "Elephant"
+        ],
+        "option_c": [
+          "Hippo"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": "ANI_AUDIO_02.mp3",
+      "roundType": "audio"
+    },
+    {
+      "id": "ANI_AUDIO_03",
+      "que": "Guess the animal from this sound.",
+      "ans": {
+        "value": "Wolf",
+        "correct_entity": "option_b"
+      },
+      "options": [
+        "Deer",
+        "Wolf",
+        "Coyote"
+      ],
+      "expl": [
+        "This animal sound is a wolf howling. Wolves howl to communicate with pack members over long distances. A howl can carry for several kilometers across open terrain. Wolves often howl together, which can make a pack sound larger than it is. Howling helps wolves defend territory and reunite scattered pack members."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "Deer",
+          "dear"
+        ],
+        "option_b": [
+          "Wolf"
+        ],
+        "option_c": [
+          "Coyote"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": "ANI_AUDIO_03.mp3",
+      "roundType": "audio"
+    },
+    {
+      "id": "ANI_AUDIO_04",
+      "que": "Which bird makes this sound?",
+      "ans": {
+        "value": "Owl",
+        "correct_entity": "option_b"
+      },
+      "options": [
+        "Eagle",
+        "Owl",
+        "Crow"
+      ],
+      "expl": [
+        "This bird making the sound is an owl. Owls can rotate their heads up to 270 degrees. Their feathers are specially structured for near-silent flight. Most owls are nocturnal, hunting primarily at night. An owl's hooting call is often used to mark territory or attract a mate."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "Eagle"
+        ],
+        "option_b": [
+          "Owl"
+        ],
+        "option_c": [
+          "Crow"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": "ANI_AUDIO_04.mp3",
+      "roundType": "audio"
+    },
+    {
+      "id": "ANI_AUDIO_05",
+      "que": "Which creature is producing this noise?",
+      "ans": {
+        "value": "Rooster",
+        "correct_entity": "option_a"
+      },
+      "options": [
+        "Rooster",
+        "Peacock",
+        "Parrot"
+      ],
+      "expl": [
+        "This creature producing the sound is a rooster. A rooster's crow can reach up to 130 decibels, as loud as a chainsaw. Roosters often crow at dawn but can call out at any time of day. Their crowing helps establish territory and signal dominance to other roosters. Roosters have an internal body clock that helps trigger their regular crowing."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "Rooster"
+        ],
+        "option_b": [
+          "Peacock"
+        ],
+        "option_c": [
+          "Parrot"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": "ANI_AUDIO_05.mp3",
+      "roundType": "audio"
+    },
+    {
+      "id": "ANI_AUDIO_06",
+      "que": "Listen carefully — which animal do you hear?",
+      "ans": {
+        "value": "Horse",
+        "correct_entity": "option_b"
+      },
+      "options": [
+        "Donkey",
+        "Horse",
+        "Zebra"
+      ],
+      "expl": [
+        "This animal you hear is a horse. Horses can sleep both lying down and standing up. A horse's neigh can express excitement, distress, or greeting to other horses. Horses have one of the largest eyes of any land mammal. Their hearing is highly sensitive, able to detect sounds from far away."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "Donkey"
+        ],
+        "option_b": [
+          "Horse"
+        ],
+        "option_c": [
+          "Zebra"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": "ANI_AUDIO_06.mp3",
+      "roundType": "audio"
+    },
+    {
+      "id": "ANI_AUDIO_07",
+      "que": "Identify the domestic animal from the audio clip.",
+      "ans": {
+        "value": "Cow",
+        "correct_entity": "option_b"
+      },
+      "options": [
+        "Dog",
+        "Cow",
+        "Goat"
+      ],
+      "expl": [
+        "The cow is the domestic animal making this mooing sound. Cows have best friends and can become stressed when separated from them. They are highly social animals that form strong bonds within their herds. Cows also have an excellent sense of smell, able to detect scents from several kilometers away."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "Dog"
+        ],
+        "option_b": [
+          "Cow"
+        ],
+        "option_c": [
+          "Goat"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": "ANI_AUDIO_07.mp3",
+      "roundType": "audio"
+    },
+    {
+      "id": "ANI_AUDIO_08",
+      "que": "Which animal makes this sound?",
+      "ans": {
+        "value": "Frog",
+        "correct_entity": "option_b"
+      },
+      "options": [
+        "Dog",
+        "Frog",
+        "Bee"
+      ],
+      "expl": [
+        "The frog is the animal making this croaking sound. There are over 7,000 known species of frogs, each with a unique call. Male frogs typically call to attract mates or establish territory. Frog calls can vary widely, from croaks and chirps to whistles and clicks, depending on species."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "Dog"
+        ],
+        "option_b": [
+          "Frog"
+        ],
+        "option_c": [
+          "Bee",
+          "be",
+          "b."
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": "ANI_AUDIO_08.mp3",
+      "roundType": "audio"
+    },
+    {
+      "id": "ANI_AUDIO_09",
+      "que": "Which aquatic creature makes this sound?",
+      "ans": {
+        "value": "Dolphin",
+        "correct_entity": "option_b"
+      },
+      "options": [
+        "Sea Lion",
+        "Dolphin",
+        "Fish"
+      ],
+      "expl": [
+        "This aquatic creature making the sound is a dolphin. Dolphins use clicks and whistles to echolocate and to identify each other. Each dolphin may develop its own unique signature whistle, like a name. Dolphins are highly social and often travel in groups called pods. Their sounds can travel long distances underwater to communicate with others."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "Sea Lion",
+          "c. lion"
+        ],
+        "option_b": [
+          "Dolphin"
+        ],
+        "option_c": [
+          "Fish"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": "ANI_AUDIO_09.mp3",
+      "roundType": "audio"
+    },
+    {
+      "id": "ANI_AUDIO_10",
+      "que": "Which insect makes this sound?",
+      "ans": {
+        "value": "Cricket",
+        "correct_entity": "option_b"
+      },
+      "options": [
+        "Bee",
+        "Cricket",
+        "Butterfly"
+      ],
+      "expl": [
+        "This insect making the sound is a cricket. Only male crickets chirp, by rubbing their wings together. Crickets chirp faster in warmer temperatures, slower in cooler ones. Their chirping is mainly used to attract mates or warn off rivals. Some people even estimate temperature by counting cricket chirps per minute."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "Bee",
+          "b.",
+          "be"
+        ],
+        "option_b": [
+          "Cricket"
+        ],
+        "option_c": [
+          "Butterfly"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": "ANI_AUDIO_10.mp3",
+      "roundType": "audio"
+    },
+    {
+      "id": "ANI_AUDIO_11",
+      "que": "Which farmyard bird makes this loud quacking sound?",
+      "ans": {
+        "value": "Duck",
+        "correct_entity": "option_b"
+      },
+      "options": [
+        "Goose",
+        "Duck",
+        "Turkey"
+      ],
+      "expl": [
+        "The duck is the farmyard bird that makes this loud quacking sound. A duck's quack famously does not echo, though this old myth has since been debunked. Ducks are known for their waterproof feathers, which repel water thanks to natural oils. Male and female ducks often have noticeably different quacking sounds."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "Goose",
+          "guess",
+          "choose"
+        ],
+        "option_b": [
+          "Duck"
+        ],
+        "option_c": [
+          "Turkey"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": "ANI_AUDIO_11.mp3",
+      "roundType": "audio"
+    },
+    {
+      "id": "ANI_AUDIO_12",
+      "que": "Which household pet makes this soft meowing sound?",
+      "ans": {
+        "value": "Cat",
+        "correct_entity": "option_a"
+      },
+      "options": [
+        "Cat",
+        "Kitten",
+        "Ferret"
+      ],
+      "expl": [
+        "The cat is the household pet that makes this soft meowing sound. Adult cats mostly meow to communicate with humans, rarely with other cats. Kittens meow primarily to get attention from their mothers. Cats also communicate through purring, hissing, and body language beyond just meowing."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "Cat"
+        ],
+        "option_b": [
+          "Kitten"
+        ],
+        "option_c": [
+          "Ferret",
+          "parrot"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": "ANI_AUDIO_12.mp3",
+      "roundType": "audio"
+    },
+    {
+      "id": "ANI_AUDIO_13",
+      "que": "Which farm animal makes this snorting oink sound?",
+      "ans": {
+        "value": "Pig",
+        "correct_entity": "option_a"
+      },
+      "options": [
+        "Pig",
+        "Boar",
+        "Warthog"
+      ],
+      "expl": [
+        "The pig is the farm animal that makes this snorting oink sound. Pigs are considered among the most intelligent domesticated animals in the world. They are capable of learning tasks and solving simple problems quickly. Pigs also have an excellent sense of smell, which is why they are sometimes used to find truffles."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "Pig"
+        ],
+        "option_b": [
+          "Boar",
+          "boat"
+        ],
+        "option_c": [
+          "Warthog",
+          "what a",
+          "what hog",
+          "what dog"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": "ANI_AUDIO_13.mp3",
+      "roundType": "audio"
+    },
+    {
+      "id": "ANI_AUDIO_14",
+      "que": "Which farm animal makes this bleating sound?",
+      "ans": {
+        "value": "Goat",
+        "correct_entity": "option_b"
+      },
+      "options": [
+        "Sheep",
+        "Goat",
+        "Llama"
+      ],
+      "expl": [
+        "The goat is the farm animal that makes this bleating sound. Baby goats, called kids, can start bleating within minutes of being born. Goats are highly social animals and often bleat to communicate with the rest of their herd. Each goat can develop a distinct bleat that other goats learn to recognize."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "Sheep",
+          "ship"
+        ],
+        "option_b": [
+          "Goat"
+        ],
+        "option_c": [
+          "Llama",
+          "lama",
+          "lana"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": "ANI_AUDIO_14.mp3",
+      "roundType": "audio"
+    },
+    {
+      "id": "ANI_AUDIO_15",
+      "que": "Which large farmyard bird makes this gobbling sound?",
+      "ans": {
+        "value": "Turkey",
+        "correct_entity": "option_a"
+      },
+      "options": [
+        "Turkey",
+        "Peacock",
+        "Rooster"
+      ],
+      "expl": [
+        "The turkey is the large farmyard bird that makes this gobbling sound. Only male turkeys gobble; females make a clicking sound instead. Male turkeys gobble primarily to attract mates and assert dominance. A turkey's gobble can be heard from as far as a kilometer away under the right conditions."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "Turkey"
+        ],
+        "option_b": [
+          "Peacock"
+        ],
+        "option_c": [
+          "Rooster"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": "ANI_AUDIO_15.mp3",
+      "roundType": "audio"
+    },
+    {
+      "id": "ANI_AUDIO_16",
+      "que": "Which bird makes this loud honking sound, often heard flying in a V formation?",
+      "ans": {
+        "value": "Goose",
+        "correct_entity": "option_a"
+      },
+      "options": [
+        "Goose",
+        "Duck",
+        "Swan"
+      ],
+      "expl": [
+        "The goose is the bird that makes this loud honking sound, often heard flying in a V formation. Geese take turns leading their V-shaped flying formation to save energy. Flying in this pattern reduces air resistance for the birds following behind the leader. Geese honk during flight partly to encourage and coordinate with the leading bird."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "Goose",
+          "guess",
+          "choose"
+        ],
+        "option_b": [
+          "Duck"
+        ],
+        "option_c": [
+          "Swan",
+          "run",
+          "phone",
+          "swon"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": "ANI_AUDIO_16.mp3",
+      "roundType": "audio"
+    },
+    {
+      "id": "ANI_AUDIO_17",
+      "que": "Which large primate makes this deep hooting and chest-beating sound?",
+      "ans": {
+        "value": "Gorilla",
+        "correct_entity": "option_b"
+      },
+      "options": [
+        "Chimpanzee",
+        "Gorilla",
+        "Orangutan"
+      ],
+      "expl": [
+        "The gorilla is the large primate that makes this deep hooting and chest-beating sound. Gorillas beat their chests mainly to communicate, not always to threaten. This display can signal excitement, alert others to danger, or establish social status. Gorillas live in family groups led typically by one dominant adult male."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "Chimpanzee"
+        ],
+        "option_b": [
+          "Gorilla"
+        ],
+        "option_c": [
+          "Orangutan"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": "ANI_AUDIO_17.mp3",
+      "roundType": "audio"
+    },
+    {
+      "id": "ANI_AUDIO_18",
+      "que": "Which nocturnal flying mammal produces these high-pitched echolocation clicks?",
+      "ans": {
+        "value": "Bat",
+        "correct_entity": "option_a"
+      },
+      "options": [
+        "Bat",
+        "Owl",
+        "Moth"
+      ],
+      "expl": [
+        "The bat is the nocturnal flying mammal that produces high-pitched echolocation clicks. Bats can emit these clicks over 100 times per second while hunting insects. The returning echoes help bats build a detailed picture of their surroundings in total darkness. Many bat species rely almost entirely on echolocation rather than eyesight to navigate and hunt."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "Bat"
+        ],
+        "option_b": [
+          "Owl"
+        ],
+        "option_c": [
+          "Moth",
+          "mot",
+          "not"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": "ANI_AUDIO_18.mp3",
+      "roundType": "audio"
+    },
+    {
+      "id": "ANI_AUDIO_19",
+      "que": "Which big cat makes this deep, rhythmic purring sound?",
+      "ans": {
+        "value": "House cat",
+        "correct_entity": "option_a"
+      },
+      "options": [
+        "House cat",
+        "Cheetah",
+        "Tiger"
+      ],
+      "expl": [
+        "The house cat is the big-cat family member that makes this deep, rhythmic purring sound. Interestingly, big cats like lions and tigers can roar but cannot purr the way house cats do. Purring is believed to result from rapid movements of muscles in the cat's larynx. Cats sometimes purr not just when content, but also when anxious or in pain."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "House cat",
+          "house",
+          "cat"
+        ],
+        "option_b": [
+          "Cheetah",
+          "cheetha"
+        ],
+        "option_c": [
+          "Tiger"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": "ANI_AUDIO_19.mp3",
+      "roundType": "audio"
+    },
+    {
+      "id": "ANI_AUDIO_20",
+      "que": "Which African animal makes this trumpeting bugle-like call while charging?",
+      "ans": {
+        "value": "Hippopotamus",
+        "correct_entity": "option_c"
+      },
+      "options": [
+        "Rhinoceros",
+        "Elephant seal",
+        "Hippopotamus"
+      ],
+      "expl": [
+        "The hippopotamus is the African animal that makes this trumpeting, bugle-like call while charging. Hippos can also make sounds underwater that travel through both air and water at once. This dual-transmission ability lets hippos communicate with others both above and below the surface. Despite their bulky appearance, hippos can move surprisingly fast on land when threatened."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "Rhinoceros",
+          "rhino",
+          "rhinocer"
+        ],
+        "option_b": [
+          "Elephant seal",
+          "elephant see",
+          "elephant sea",
+          "elephant c."
+        ],
+        "option_c": [
+          "Hippopotamus",
+          "hippo"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": "ANI_AUDIO_20.mp3",
+      "roundType": "audio"
+    },
+    {
+      "id": "ANI_AUDIO_21",
+      "que": "Which large sea mammal makes this deep, echoing song underwater?",
+      "ans": {
+        "value": "Whale",
+        "correct_entity": "option_a"
+      },
+      "options": [
+        "Whale",
+        "Dolphin",
+        "Shark"
+      ],
+      "expl": [
+        "The whale is the large sea mammal that makes this deep, echoing song underwater. Whale songs can travel for hundreds of kilometers underwater and can last over 30 minutes. Male whales, particularly humpbacks, are known for these complex, repeating song patterns. Scientists believe whale songs may play a role in mating and long-distance communication."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "Whale"
+        ],
+        "option_b": [
+          "Dolphin"
+        ],
+        "option_c": [
+          "Shark"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": "ANI_AUDIO_21.mp3",
+      "roundType": "audio"
+    },
+    {
+      "id": "ANI_AUDIO_22",
+      "que": "Which insect makes this steady buzzing sound while flying between flowers?",
+      "ans": {
+        "value": "Bee",
+        "correct_entity": "option_a"
+      },
+      "options": [
+        "Bee",
+        "Fly",
+        "Wasp"
+      ],
+      "expl": [
+        "The bee is the insect that makes this steady buzzing sound while flying between flowers. A honeybee's wings beat about 200 times per second, creating its buzzing sound. Bees play an essential role in pollinating flowers and crops as they move between them. A bee's buzz can also change pitch depending on its activity, such as flying versus warning signals."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "Bee",
+          "be",
+          "b."
+        ],
+        "option_b": [
+          "Fly",
+          "fry"
+        ],
+        "option_c": [
+          "Wasp"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": "ANI_AUDIO_22.mp3",
+      "roundType": "audio"
+    },
+    {
+      "id": "ANI_AUDIO_23",
+      "que": "Which small, colorful bird produces this cheerful chirping song at sunrise?",
+      "ans": {
+        "value": "Robin",
+        "correct_entity": "option_b"
+      },
+      "options": [
+        "Sparrow",
+        "Robin",
+        "Canary"
+      ],
+      "expl": [
+        "The robin is the small, colorful bird that produces this cheerful chirping song at sunrise. Robins are often among the first birds to start singing at dawn. Their early morning song is often used to establish territory before other birds wake. Robins are found across much of Europe, Asia, and North America, depending on the species."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "Sparrow"
+        ],
+        "option_b": [
+          "Robin"
+        ],
+        "option_c": [
+          "Canary"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": "ANI_AUDIO_23.mp3",
+      "roundType": "audio"
+    },
+    {
+      "id": "ANI_AUDIO_24",
+      "que": "Which large cat found in South America makes this low growling sound?",
+      "ans": {
+        "value": "Jaguar",
+        "correct_entity": "option_a"
+      },
+      "options": [
+        "Jaguar",
+        "Cougar",
+        "Panther"
+      ],
+      "expl": [
+        "The jaguar is the large cat found in South America that makes this low growling sound. The jaguar has the strongest bite force relative to size of any big cat. Their powerful jaws allow them to crush through tough turtle shells and thick hides. Jaguars are solitary, stealthy hunters that rely on ambush rather than long chases."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "Jaguar"
+        ],
+        "option_b": [
+          "Cougar",
+          "cow girl"
+        ],
+        "option_c": [
+          "Panther"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": "ANI_AUDIO_24.mp3",
+      "roundType": "audio"
+    },
+    {
+      "id": "ANI_AUDIO_25",
+      "que": "Which small, burrowing desert animal makes this high-pitched chattering alarm call?",
+      "ans": {
+        "value": "Meerkat",
+        "correct_entity": "option_a"
+      },
+      "options": [
+        "Meerkat",
+        "Prairie dog",
+        "Gopher"
+      ],
+      "expl": [
+        "The meerkat is the small, burrowing desert animal that makes this high-pitched chattering alarm call. Meerkats have different alarm calls depending on whether the danger comes from air or land. This allows the rest of the group to react appropriately, whether to hide or flee. Meerkats take turns as sentries, standing guard on raised ground to watch for predators."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "Meerkat",
+          "market",
+          "mark at",
+          "meer cat"
+        ],
+        "option_b": [
+          "Prairie dog",
+          "dog",
+          "prary dog",
+          "preety dog"
+        ],
+        "option_c": [
+          "Gopher",
+          "goofer",
+          "go far",
+          "go for"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": "ANI_AUDIO_25.mp3",
+      "roundType": "audio"
+    }
+  ]
+}

@@ -1,0 +1,2387 @@
+{
+  "TEXT_QUESTIONS": [
+    {
+      "id": "SPO_TEXT_01",
+      "que": "How many players does a standard soccer team have on the field at once?",
+      "ans": {
+        "value": "Eleven",
+        "correct_entity": "option_c"
+      },
+      "options": [
+        "Nine",
+        "Ten",
+        "Eleven"
+      ],
+      "expl": [
+        "A standard soccer team fields eleven players at once, including one goalkeeper. That's ten outfield players plus the keeper defending the goal. If a team drops below seven players, the match is typically abandoned. Soccer is the world's most popular sport, played in nearly every country. The modern rules of the game were first codified in England in 1863."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "Nine",
+          "nile"
+        ],
+        "option_b": [
+          "Ten"
+        ],
+        "option_c": [
+          "Eleven"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": "",
+      "roundType": "text"
+    },
+    {
+      "id": "SPO_TEXT_02",
+      "que": "In tennis, what is a score of zero called?",
+      "ans": {
+        "value": "Love",
+        "correct_entity": "option_a"
+      },
+      "options": [
+        "Love",
+        "Duck",
+        "Zero"
+      ],
+      "expl": [
+        "In tennis, a score of zero is called \"love.\" The term may come from the French \"l'oeuf\" (egg), which resembles the shape of a zero. Tennis scoring runs 15, 30, 40, then game, an unusual system dating back centuries. \"Love\" is used at every level, from beginners to Grand Slam finals. A \"love set\" means one player won all six games without losing a single one."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "Love"
+        ],
+        "option_b": [
+          "Duck"
+        ],
+        "option_c": [
+          "Zero"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": "",
+      "roundType": "text"
+    },
+    {
+      "id": "SPO_TEXT_03",
+      "que": "In which country was modern badminton first codified?",
+      "ans": {
+        "value": "England",
+        "correct_entity": "option_b"
+      },
+      "options": [
+        "India",
+        "England",
+        "Indonesia"
+      ],
+      "expl": [
+        "Modern badminton was first codified in England. It takes its name from Badminton House, the estate where the game grew popular. The sport actually has roots in ancient games from India and China. Badminton became an official Olympic sport in 1992. Its shuttlecock can travel over 400 km/h in professional smashes, faster than any other racquet sport."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "India"
+        ],
+        "option_b": [
+          "England"
+        ],
+        "option_c": [
+          "Indonesia"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": "",
+      "roundType": "text"
+    },
+    {
+      "id": "SPO_TEXT_04",
+      "que": "How many rings are on the Olympic flag?",
+      "ans": {
+        "value": "Five",
+        "correct_entity": "option_a"
+      },
+      "options": [
+        "Five",
+        "Six",
+        "Seven"
+      ],
+      "expl": [
+        "The Olympic flag features five interlocking rings. They represent the five inhabited continents joined by the Olympic movement. The rings are colored blue, yellow, black, green, and red on a white background. At least one of these colors appears in every national flag in the world. The design was created in 1913 by Pierre de Coubertin, founder of the modern Olympics."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "Five"
+        ],
+        "option_b": [
+          "Six"
+        ],
+        "option_c": [
+          "Seven"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": "",
+      "roundType": "text"
+    },
+    {
+      "id": "SPO_TEXT_05",
+      "que": "In which sport would you perform a slam dunk?",
+      "ans": {
+        "value": "Basketball",
+        "correct_entity": "option_a"
+      },
+      "options": [
+        "Basketball",
+        "Handball",
+        "Netball"
+      ],
+      "expl": [
+        "A slam dunk is performed in basketball. It became a signature move in the sport by the 1970s. College basketball briefly banned dunking from 1967 to 1976, partly due to Kareem Abdul-Jabbar's dominance. The Slam Dunk Contest, introduced in 1984, remains a highlight of NBA All-Star Weekend. Basketball itself was invented in 1891 by Dr. James Naismith using a soccer ball and peach baskets."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "Basketball",
+          "basket ball",
+          "basket"
+        ],
+        "option_b": [
+          "Handball",
+          "hand ball",
+          "hand"
+        ],
+        "option_c": [
+          "Netball",
+          "net ball",
+          "net"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": "",
+      "roundType": "text"
+    },
+    {
+      "id": "SPO_TEXT_06",
+      "que": "What is the maximum possible score in ten pin bowling?",
+      "ans": {
+        "value": "Three Hundred",
+        "correct_entity": "option_c"
+      },
+      "options": [
+        "Two Hundred",
+        "Two Hundred Fifty",
+        "Three Hundred"
+      ],
+      "expl": [
+        "The maximum possible score in ten-pin bowling is three hundred. A perfect game requires twelve strikes in a row. Bowling has been played in some form for thousands of years, with roots traced to ancient Egypt. Fewer than a thousand sanctioned \"300 games\" are recorded each year despite millions of games bowled. The triangular layout of ten pins has remained standard since the sport's modern rules were set in the 1890s."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "Two Hundred",
+          "two"
+        ],
+        "option_b": [
+          "Two Hundred Fifty",
+          "two hundred and fifty",
+          "two fifty"
+        ],
+        "option_c": [
+          "Three Hundred",
+          "three"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": "",
+      "roundType": "text"
+    },
+    {
+      "id": "SPO_TEXT_07",
+      "que": "Which country has won the most FIFA World Cup titles?",
+      "ans": {
+        "value": "Brazil",
+        "correct_entity": "option_b"
+      },
+      "options": [
+        "Germany",
+        "Brazil",
+        "Argentina"
+      ],
+      "expl": [
+        "Brazil has won the most FIFA World Cup titles, with five championships. It's the only team to have played in every FIFA World Cup tournament. Brazil's most famous player, Pelé, remains the only person to win three World Cups. The country's yellow jersey is one of the most recognized kits in sports. Brazil hosted the tournament twice, in 1950 and 2014."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "Germany"
+        ],
+        "option_b": [
+          "Brazil"
+        ],
+        "option_c": [
+          "Argentina"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": "",
+      "roundType": "text"
+    },
+    {
+      "id": "SPO_TEXT_08",
+      "que": "In golf, what is the term for finishing a hole one stroke under par?",
+      "ans": {
+        "value": "Birdie",
+        "correct_entity": "option_a"
+      },
+      "options": [
+        "Birdie",
+        "Bogey",
+        "Eagle"
+      ],
+      "expl": [
+        "A birdie is scored in golf, one stroke under par. Two strokes under par is called an 'eagle', and three under is an 'albatross'. The term \"birdie\" is believed to have originated in American slang for something excellent. Par itself represents the expected number of strokes a skilled golfer needs to complete a hole."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "Birdie",
+          "birdy"
+        ],
+        "option_b": [
+          "Bogey",
+          "bogy",
+          "bogi"
+        ],
+        "option_c": [
+          "Eagle"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": "",
+      "roundType": "text"
+    },
+    {
+      "id": "SPO_TEXT_09",
+      "que": "How many periods are there in a standard ice hockey game?",
+      "ans": {
+        "value": "Three",
+        "correct_entity": "option_b"
+      },
+      "options": [
+        "Two",
+        "Three",
+        "Four"
+      ],
+      "expl": [
+        "A standard ice hockey game is divided into three periods. Each period in professional ice hockey usually lasts 20 minutes. Teams switch ends between periods to balance any rink or lighting advantages. If the score is tied after three periods, the game may go to overtime or a shootout depending on the competition."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "Two"
+        ],
+        "option_b": [
+          "Three"
+        ],
+        "option_c": [
+          "Four"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": "",
+      "roundType": "text"
+    },
+    {
+      "id": "SPO_TEXT_10",
+      "que": "Which sport is often nicknamed 'the king of sports' for being the most popular worldwide?",
+      "ans": {
+        "value": "Football",
+        "correct_entity": "option_c"
+      },
+      "options": [
+        "Basketball",
+        "Cricket",
+        "Football"
+      ],
+      "expl": [
+        "Football, also known as soccer, is often nicknamed \"the king of sports.\" It is the world's most popular sport, enjoyed by billions of fans and played in more than 200 countries and territories worldwide. The FIFA World Cup, held every four years, is the sport's most-watched single event. Football's simple rules and minimal equipment needs have helped it spread to nearly every corner of the globe."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "Basketball"
+        ],
+        "option_b": [
+          "Cricket"
+        ],
+        "option_c": [
+          "Football"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": "",
+      "roundType": "text"
+    },
+    {
+      "id": "SPO_TEXT_11",
+      "que": "In the Olympics, which color medal is awarded for third place?",
+      "ans": {
+        "value": "Bronze",
+        "correct_entity": "option_c"
+      },
+      "options": [
+        "Gold",
+        "Silver",
+        "Bronze"
+      ],
+      "expl": [
+        "A bronze medal is awarded for third place at the Olympics. Olympic medals must contain at least 92.5% silver, even the bronze ones are mostly copper alloy. Gold medals are actually made mostly of silver, coated with a thin layer of gold. The design of Olympic medals changes for each edition of the Games, reflecting the host city's culture."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "Gold"
+        ],
+        "option_b": [
+          "Silver"
+        ],
+        "option_c": [
+          "Bronze"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": "",
+      "roundType": "text"
+    },
+    {
+      "id": "SPO_TEXT_12",
+      "que": "How many points is a touchdown worth in American football, before any extra point or conversion?",
+      "ans": {
+        "value": "Six",
+        "correct_entity": "option_b"
+      },
+      "options": [
+        "Five",
+        "Six",
+        "Seven"
+      ],
+      "expl": [
+        "A touchdown is worth six points in American football before any extra point or conversion. Teams can add one or two extra points after a touchdown through a kick or another play. A touchdown is scored by carrying or catching the ball in the opponent's end zone. The extra point kick is successful in the vast majority of cases at the professional level."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "Five"
+        ],
+        "option_b": [
+          "Six"
+        ],
+        "option_c": [
+          "Seven"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": "",
+      "roundType": "text"
+    },
+    {
+      "id": "SPO_TEXT_13",
+      "que": "Which combat sport involves trying to pin an opponent's shoulders to the mat?",
+      "ans": {
+        "value": "Wrestling",
+        "correct_entity": "option_b"
+      },
+      "options": [
+        "Boxing",
+        "Wrestling",
+        "Fencing"
+      ],
+      "expl": [
+        "Wrestling involves trying to pin an opponent's shoulders to the mat. Wrestling is considered one of the oldest competitive sports, dating back thousands of years. It featured in the ancient Olympic Games as early as 708 BCE. Modern wrestling includes styles such as freestyle and Greco-Roman, each with different rules on holds and techniques."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "Boxing"
+        ],
+        "option_b": [
+          "Wrestling"
+        ],
+        "option_c": [
+          "Fencing"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": "",
+      "roundType": "text"
+    },
+    {
+      "id": "SPO_TEXT_14",
+      "que": "In football (soccer), what is it called when one player scores three goals in a single match?",
+      "ans": {
+        "value": "Hat-trick",
+        "correct_entity": "option_b"
+      },
+      "options": [
+        "Double",
+        "Hat-trick",
+        "Triple Play"
+      ],
+      "expl": [
+        "Scoring three goals in a single football (soccer) match is called a hat-trick. The term 'hat-trick' originally came from cricket, where a bowler took three wickets in a row. It was later adopted by football and other sports to describe any set of three achievements in one game. Fans sometimes throw hats onto the field to celebrate a player completing one."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "Double"
+        ],
+        "option_b": [
+          "Hat-trick",
+          "hattrick",
+          "hat trick"
+        ],
+        "option_c": [
+          "Triple Play",
+          "triple"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": "",
+      "roundType": "text"
+    },
+    {
+      "id": "SPO_TEXT_15",
+      "que": "How many holes are typically played in one standard round of golf?",
+      "ans": {
+        "value": "Eighteen",
+        "correct_entity": "option_b"
+      },
+      "options": [
+        "Nine",
+        "Eighteen",
+        "Twenty-four"
+      ],
+      "expl": [
+        "A standard round of golf consists of 18 holes. A round of 18 holes became the standard at St Andrews in Scotland in 1764. Before that, golf courses varied widely in the number of holes they featured. Most 18-hole courses are divided into a \"front nine\" and a \"back nine.\""
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "Nine"
+        ],
+        "option_b": [
+          "Eighteen"
+        ],
+        "option_c": [
+          "Twenty-four",
+          "twenty four"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": "",
+      "roundType": "text"
+    },
+    {
+      "id": "SPO_TEXT_16",
+      "que": "In swimming, which stroke involves face-down alternating overhead arm movements with a flutter kick?",
+      "ans": {
+        "value": "Freestyle",
+        "correct_entity": "option_b"
+      },
+      "options": [
+        "Backstroke",
+        "Freestyle",
+        "Breaststroke"
+      ],
+      "expl": [
+        "Freestyle is the swimming stroke that involves face-down alternating overhead arm movements with a flutter kick. Freestyle, also called front crawl, is generally the fastest swimming stroke. Swimmers are allowed to use any stroke they choose during freestyle events, though nearly all choose front crawl for speed. It is typically the first stroke taught to beginner swimmers."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "Backstroke",
+          "back stroke",
+          "back"
+        ],
+        "option_b": [
+          "Freestyle",
+          "free style"
+        ],
+        "option_c": [
+          "Breaststroke",
+          "breast stroke"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": "",
+      "roundType": "text"
+    },
+    {
+      "id": "SPO_TEXT_17",
+      "que": "Which country hosted the very first modern Olympic Games in 1896?",
+      "ans": {
+        "value": "Greece",
+        "correct_entity": "option_b"
+      },
+      "options": [
+        "Italy",
+        "Greece",
+        "France"
+      ],
+      "expl": [
+        "Greece hosted the very first modern Olympic Games in 1896. The first modern games were held in Athens, honoring the ancient Greek tradition. Only 14 nations and around 241 athletes competed in that inaugural Games. The event revived a tradition of athletic competition that dated back to ancient Olympia."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "Italy"
+        ],
+        "option_b": [
+          "Greece"
+        ],
+        "option_c": [
+          "France"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": "",
+      "roundType": "text"
+    },
+    {
+      "id": "SPO_TEXT_18",
+      "que": "In basketball, how many points is a single successful free throw worth?",
+      "ans": {
+        "value": "One",
+        "correct_entity": "option_a"
+      },
+      "options": [
+        "One",
+        "Two",
+        "Three"
+      ],
+      "expl": [
+        "A single successful free throw in basketball is worth one point. A free throw is awarded after certain fouls and is taken unopposed from the foul line. Players typically get one, two, or three free throw attempts depending on the type of foul committed. The free throw line sits 15 feet from the backboard in most competitions."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "One"
+        ],
+        "option_b": [
+          "Two"
+        ],
+        "option_c": [
+          "Three"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": "",
+      "roundType": "text"
+    },
+    {
+      "id": "SPO_TEXT_19",
+      "que": "Which sport is traditionally played on a diamond-shaped field with four bases?",
+      "ans": {
+        "value": "Baseball",
+        "correct_entity": "option_b"
+      },
+      "options": [
+        "Softball",
+        "Baseball",
+        "Cricket"
+      ],
+      "expl": [
+        "Baseball is traditionally played on a diamond-shaped field with four bases. A baseball diamond actually forms a square, but is called a diamond due to its angle of view. The four bases are home plate, first base, second base, and third base. A batter must round all four bases to score a run."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "Softball",
+          "soft"
+        ],
+        "option_b": [
+          "Baseball",
+          "base"
+        ],
+        "option_c": [
+          "Cricket"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": "",
+      "roundType": "text"
+    },
+    {
+      "id": "SPO_TEXT_20",
+      "que": "How many players are on a standard volleyball team on the court at one time?",
+      "ans": {
+        "value": "Six",
+        "correct_entity": "option_b"
+      },
+      "options": [
+        "Five",
+        "Six",
+        "Seven"
+      ],
+      "expl": [
+        "A standard volleyball team has six players on the court at one time. Volleyball teams also frequently rotate positions after winning a serve. The sport was invented in 1895 by William G. Morgan as a less strenuous alternative to basketball. A team must hit the ball over the net within three touches."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "Five"
+        ],
+        "option_b": [
+          "Six"
+        ],
+        "option_c": [
+          "Seven"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": "",
+      "roundType": "text"
+    },
+    {
+      "id": "SPO_TEXT_21",
+      "que": "In Formula 1 racing, what is the term for the starting position earned by setting the fastest qualifying lap?",
+      "ans": {
+        "value": "Pole position",
+        "correct_entity": "option_a"
+      },
+      "options": [
+        "Pole position",
+        "Grid slot",
+        "Pit lane"
+      ],
+      "expl": [
+        "\"Pole position\" is the term for the starting spot earned by the fastest qualifying lap in Formula 1. Starting from pole position gives a significant advantage heading into the first corner. The term originated from horse racing, where the inside position near a track pole was considered the best start. Modern Formula 1 qualifying uses a three-part knockout format to determine the starting grid."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "Pole position",
+          "p1 start",
+          "pole"
+        ],
+        "option_b": [
+          "Grid slot"
+        ],
+        "option_c": [
+          "Pit lane"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": "",
+      "roundType": "text"
+    },
+    {
+      "id": "SPO_TEXT_22",
+      "que": "Which Japanese martial art focuses mainly on throws and grappling rather than striking?",
+      "ans": {
+        "value": "Judo",
+        "correct_entity": "option_b"
+      },
+      "options": [
+        "Karate",
+        "Judo",
+        "Kendo"
+      ],
+      "expl": [
+        "Judo is the Japanese martial art that focuses mainly on throws and grappling rather than striking. Judo became an official Olympic sport for men in 1964. It was founded by Jigoro Kano in Japan in 1882. The word \"judo\" translates roughly to \"the gentle way.\""
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "Karate"
+        ],
+        "option_b": [
+          "Judo"
+        ],
+        "option_c": [
+          "Kendo"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": "",
+      "roundType": "text"
+    },
+    {
+      "id": "SPO_TEXT_23",
+      "que": "In cricket, what term describes a batter being dismissed when the ball hits the stumps directly?",
+      "ans": {
+        "value": "Bowled",
+        "correct_entity": "option_b"
+      },
+      "options": [
+        "Caught",
+        "Bowled",
+        "Run out"
+      ],
+      "expl": [
+        "In cricket, \"bowled\" describes a batter being dismissed when the ball hits the stumps directly. A batter can be bowled even if the ball first grazes their bat before hitting the stumps. It is one of the most common ways to get a batter out in the sport. A \"golden duck\" occurs when a batter is bowled out on the very first ball they face."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "Caught"
+        ],
+        "option_b": [
+          "Bowled",
+          "bowl",
+          "bold"
+        ],
+        "option_c": [
+          "Run out"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": "",
+      "roundType": "text"
+    },
+    {
+      "id": "SPO_TEXT_24",
+      "que": "How many players make up a rugby union team on the field at one time?",
+      "ans": {
+        "value": "Fifteen",
+        "correct_entity": "option_c"
+      },
+      "options": [
+        "Eleven",
+        "Thirteen",
+        "Fifteen"
+      ],
+      "expl": [
+        "A rugby union team fields fifteen players on the field at one time. Rugby league, a related sport, instead uses only thirteen players per side. Rugby union developed at Rugby School in England, giving the sport its name. Matches are typically split into two 40-minute halves."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "Eleven"
+        ],
+        "option_b": [
+          "Thirteen"
+        ],
+        "option_c": [
+          "Fifteen"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": "",
+      "roundType": "text"
+    },
+    {
+      "id": "SPO_TEXT_25",
+      "que": "Which winter sport involves sliding feet-first, lying face-up, down an icy track on a small sled?",
+      "ans": {
+        "value": "Luge",
+        "correct_entity": "option_b"
+      },
+      "options": [
+        "Bobsled",
+        "Luge",
+        "Skeleton"
+      ],
+      "expl": [
+        "Luge is the winter sport involving sliding feet-first, lying face-up, down an icy track on a small sled. Luge athletes can reach speeds of over 140 kilometers per hour on the track. Unlike skeleton, where riders lie face-down, luge athletes lie on their backs. The sport has been part of the Winter Olympics since 1964."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "Bobsled",
+          "bob slid",
+          "bob sled"
+        ],
+        "option_b": [
+          "Luge",
+          "luke",
+          "look",
+          "loop",
+          "log",
+          "loose"
+        ],
+        "option_c": [
+          "Skeleton"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": "",
+      "roundType": "text"
+    },
+    {
+      "id": "SPO_TEXT_26",
+      "que": "In which athletics event do competitors use a long pole to help clear a high horizontal bar?",
+      "ans": {
+        "value": "Pole vault",
+        "correct_entity": "option_b"
+      },
+      "options": [
+        "High jump",
+        "Pole vault",
+        "Long jump"
+      ],
+      "expl": [
+        "Pole vault is the athletics event in which competitors use a long pole to help clear a high horizontal bar. Modern pole vault poles are made of flexible fiberglass or carbon fiber, replacing the rigid wooden and metal poles used historically. The event has been part of the men's Olympic program since 1896 and the women's since 2000. Vaulters use the pole's bend to convert running speed into upward lift."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "High jump",
+          "high"
+        ],
+        "option_b": [
+          "Pole vault",
+          "pole",
+          "vault"
+        ],
+        "option_c": [
+          "Long jump",
+          "long"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": "",
+      "roundType": "text"
+    },
+    {
+      "id": "SPO_TEXT_27",
+      "que": "What is the approximate distance, in kilometers, of a standard marathon race?",
+      "ans": {
+        "value": "42 kilometers",
+        "correct_entity": "option_b"
+      },
+      "options": [
+        "32 kilometers",
+        "42 kilometers",
+        "50 kilometers"
+      ],
+      "expl": [
+        "A standard marathon race covers approximately 42 kilometers. The marathon distance is based on the legendary run from Marathon to Athens in ancient Greece. The exact modern distance, 42.195 kilometers, was standardized at the 1908 London Olympics. Marathons are now held in major cities worldwide, attracting both elite runners and amateurs."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "32 kilometers",
+          "thirty two kilometers",
+          "thirty two kilometer",
+          "thirty two"
+        ],
+        "option_b": [
+          "42 kilometers",
+          "fourty two kilometers",
+          "forty two kilometer",
+          "forty two",
+          "forty two kilometers"
+        ],
+        "option_c": [
+          "50 kilometers",
+          "fifty kilometers",
+          "fifty"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": "",
+      "roundType": "text"
+    },
+    {
+      "id": "SPO_TEXT_28",
+      "que": "In snooker, which colored ball is worth the highest number of points?",
+      "ans": {
+        "value": "Black",
+        "correct_entity": "option_c"
+      },
+      "options": [
+        "Red",
+        "Blue",
+        "Black"
+      ],
+      "expl": [
+        "In snooker, the black ball is worth the highest number of points. A black ball in snooker is worth seven points, more than any other color. The colored balls are worth points ranging from one for red up to seven for black. Snooker is played on a large table with six pockets, using a cue and 21 balls plus the cue ball."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "Red"
+        ],
+        "option_b": [
+          "Blue"
+        ],
+        "option_c": [
+          "Black"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": "",
+      "roundType": "text"
+    }
+  ],
+  "IMAGE_QUESTIONS": [
+    {
+      "id": "SPO_IMAGE_01",
+      "que": "This equipment is used in which sport?",
+      "ans": {
+        "value": "Cricket",
+        "correct_entity": "option_b"
+      },
+      "options": [
+        "Baseball",
+        "Cricket",
+        "Squash"
+      ],
+      "expl": [
+        "This equipment is used in cricket. A test cricket match can last up to five days. Cricket is believed to have originated in England during the 16th century. The sport is especially popular in countries like India, Australia, and England."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "Baseball"
+        ],
+        "option_b": [
+          "Cricket"
+        ],
+        "option_c": [
+          "Squash",
+          "crash",
+          "crush",
+          "wash"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "SPO_IMAGE_01.png",
+      "audioUrl": "",
+      "roundType": "image"
+    },
+    {
+      "id": "SPO_IMAGE_02",
+      "que": "Which sport is played with this equipment?",
+      "ans": {
+        "value": "Table Tennis",
+        "correct_entity": "option_c"
+      },
+      "options": [
+        "Badminton",
+        "Tennis",
+        "Table Tennis"
+      ],
+      "expl": [
+        "This equipment is used in table tennis. Table tennis balls can travel over 100 km per hour during a smash. The sport originated in England in the late 19th century as an indoor version of tennis. Table tennis became an official Olympic sport in 1988."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "Badminton"
+        ],
+        "option_b": [
+          "Tennis"
+        ],
+        "option_c": [
+          "Table Tennis",
+          "table"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "SPO_IMAGE_02.png",
+      "audioUrl": "",
+      "roundType": "image"
+    },
+    {
+      "id": "SPO_IMAGE_03",
+      "que": "This equipment and board is part of which sport?",
+      "ans": {
+        "value": "Archery",
+        "correct_entity": "option_c"
+      },
+      "options": [
+        "Fencing",
+        "Javelin",
+        "Archery"
+      ],
+      "expl": [
+        "This equipment is part of archery. Archery has been part of the modern Olympics since 1900. It's one of the oldest skills in human history, once vital for hunting and warfare. Modern competitive bows can shoot arrows well over 150 km/h. Archers must account for wind, distance, and even their own heartbeat for precision."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "Fencing"
+        ],
+        "option_b": [
+          "Javelin"
+        ],
+        "option_c": [
+          "Archery"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "SPO_IMAGE_03.png",
+      "audioUrl": "",
+      "roundType": "image"
+    },
+    {
+      "id": "SPO_IMAGE_04",
+      "que": "This equipment is used in which sport?",
+      "ans": {
+        "value": "Boxing",
+        "correct_entity": "option_a"
+      },
+      "options": [
+        "Boxing",
+        "MMA",
+        "Judo"
+      ],
+      "expl": [
+        "This equipment is used in boxing. Boxing gloves were introduced to help protect a boxer's hands, not just their opponent. Modern boxing rules trace back to the Marquess of Queensberry rules from the 1860s. A boxing match is divided into rounds, each typically lasting three minutes. Boxing is one of the oldest combat sports, with roots in ancient Greece."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "Boxing"
+        ],
+        "option_b": [
+          "MMA",
+          "m. m. a."
+        ],
+        "option_c": [
+          "Judo"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "SPO_IMAGE_04.png",
+      "audioUrl": "",
+      "roundType": "image"
+    },
+    {
+      "id": "SPO_IMAGE_05",
+      "que": "Which sport uses this equipment?",
+      "ans": {
+        "value": "Golf",
+        "correct_entity": "option_c"
+      },
+      "options": [
+        "Cricket",
+        "Croquet",
+        "Golf"
+      ],
+      "expl": [
+        "This equipment is used in golf. Golf is believed to have originated in Scotland in the 15th century. A standard round of golf consists of 18 holes. The longest golf drives can travel over 400 yards. St Andrews in Scotland is often called the \"home of golf.\""
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "Cricket"
+        ],
+        "option_b": [
+          "Croquet",
+          "profit",
+          "crockett",
+          "crop white"
+        ],
+        "option_c": [
+          "Golf",
+          "call"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "SPO_IMAGE_05.png",
+      "audioUrl": "",
+      "roundType": "image"
+    },
+    {
+      "id": "SPO_IMAGE_06",
+      "que": "Which sport is played with this equipment?",
+      "ans": {
+        "value": "Ice Hockey",
+        "correct_entity": "option_b"
+      },
+      "options": [
+        "Field Hockey",
+        "Ice Hockey",
+        "Bandy"
+      ],
+      "expl": [
+        "This equipment is used in ice hockey. A slapshot in ice hockey can send the puck over 160 km per hour. Ice hockey originated in Canada during the 19th century. Games are played in three periods, typically 20 minutes each. Players wear extensive padding due to the sport's high speed and physical contact."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "Field Hockey",
+          "field"
+        ],
+        "option_b": [
+          "Ice Hockey",
+          "ice",
+          "eyes",
+          "eyes hockey"
+        ],
+        "option_c": [
+          "Bandy"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "SPO_IMAGE_06.png",
+      "audioUrl": "",
+      "roundType": "image"
+    },
+    {
+      "id": "SPO_IMAGE_07",
+      "que": "This equipment is used in which sport?",
+      "ans": {
+        "value": "Fencing",
+        "correct_entity": "option_a"
+      },
+      "options": [
+        "Fencing",
+        "Sabre Dueling",
+        "Swordsmanship"
+      ],
+      "expl": [
+        "This equipment is used in fencing. Fencing is one of only five sports to feature in every modern Olympics. It has three main disciplines: foil, épée, and sabre, each with different rules for valid target areas. Electronic scoring systems are used today to accurately detect touches during a bout."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "Fencing"
+        ],
+        "option_b": [
+          "Sabre Dueling",
+          "dueling"
+        ],
+        "option_c": [
+          "Swordsmanship"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "SPO_IMAGE_07.png",
+      "audioUrl": "",
+      "roundType": "image"
+    },
+    {
+      "id": "SPO_IMAGE_08",
+      "que": "This curved wooden equipment with strings is used in which sport?",
+      "ans": {
+        "value": "Tennis",
+        "correct_entity": "option_a"
+      },
+      "options": [
+        "Tennis",
+        "Badminton",
+        "Squash"
+      ],
+      "expl": [
+        "This equipment is used in tennis. Modern tennis rackets are made mostly of graphite instead of wood. Early tennis rackets, used until the 1970s-80s, were traditionally wooden. Professional serves can reach speeds over 200 km/h. Tennis originated in 12th-century France before evolving into its modern form in England."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "Tennis"
+        ],
+        "option_b": [
+          "Badminton"
+        ],
+        "option_c": [
+          "Squash",
+          "crash",
+          "crush",
+          "wash"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "SPO_IMAGE_08.jpg",
+      "audioUrl": "",
+      "roundType": "image"
+    },
+    {
+      "id": "SPO_IMAGE_09",
+      "que": "This ball belongs to which Sport?",
+      "ans": {
+        "value": "Rugby",
+        "correct_entity": "option_c"
+      },
+      "options": [
+        "Basketball",
+        "Football",
+        "Rugby"
+      ],
+      "expl": [
+        "This ball belongs to rugby. Rugby is a highly physical, close-contact team sport that originated in 19th-century England. It reportedly began when a schoolboy at Rugby School picked up the ball and ran with it during a football match. Rugby balls are oval-shaped, unlike the round balls used in most other football codes."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "Basketball"
+        ],
+        "option_b": [
+          "Football"
+        ],
+        "option_c": [
+          "Rugby",
+          "rug by",
+          "rugb"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "SPO_IMAGE_09.jpg",
+      "audioUrl": "",
+      "roundType": "image"
+    },
+    {
+      "id": "SPO_IMAGE_10",
+      "que": "This trophy, shaped like a golden globe, is awarded in which sport?",
+      "ans": {
+        "value": "Football",
+        "correct_entity": "option_a"
+      },
+      "options": [
+        "Football",
+        "Cricket",
+        "Olympics"
+      ],
+      "expl": [
+        "This golden globe-shaped trophy is awarded in football. The FIFA World Cup trophy is made of 18-karat gold. It stands about 36.8 centimeters tall and weighs roughly 6.1 kilograms. Winning teams do not keep the actual trophy but receive a gold-plated replica instead."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "Football"
+        ],
+        "option_b": [
+          "Cricket"
+        ],
+        "option_c": [
+          "Olympics"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "SPO_IMAGE_10.jpg",
+      "audioUrl": "",
+      "roundType": "image"
+    },
+    {
+      "id": "SPO_IMAGE_11",
+      "que": "This large stadium famous for the Olympics 'Bird's Nest' design is located in which city?",
+      "ans": {
+        "value": "Beijing",
+        "correct_entity": "option_a"
+      },
+      "options": [
+        "Beijing",
+        "London",
+        "Tokyo"
+      ],
+      "expl": [
+        "This stadium, known for its Bird's Nest design, is located in Beijing. The Beijing National Stadium was built for the 2008 Summer Olympics. Its nickname comes from its distinctive latticed steel exterior. It later hosted events for the 2022 Winter Olympics as well, making it a rare dual-Olympics venue."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "Beijing",
+          "being",
+          "bejing"
+        ],
+        "option_b": [
+          "London"
+        ],
+        "option_c": [
+          "Tokyo"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "SPO_IMAGE_11.jpg",
+      "audioUrl": "",
+      "roundType": "image"
+    },
+    {
+      "id": "SPO_IMAGE_12",
+      "que": "This colorful set of rings is the symbol of which global sporting event?",
+      "ans": {
+        "value": "Olympics",
+        "correct_entity": "option_a"
+      },
+      "options": [
+        "Olympics",
+        "Commonwealth Games",
+        "World Cup"
+      ],
+      "expl": [
+        "This colorful set of rings is the symbol of the Olympics. The five Olympic rings represent the five inhabited continents joined together. The design was created in 1913 by Pierre de Coubertin, founder of the modern Olympic Games. The rings are colored blue, yellow, black, green, and red, chosen so that every national flag includes at least one of these colors."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "Olympics",
+          "olympic"
+        ],
+        "option_b": [
+          "Commonwealth Games",
+          "common wealth games",
+          "common wealth game",
+          "commonwealth game",
+          "common wealth",
+          "commonwealth"
+        ],
+        "option_c": [
+          "World Cup"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "SPO_IMAGE_12.png",
+      "audioUrl": "",
+      "roundType": "image"
+    },
+    {
+      "id": "SPO_IMAGE_13",
+      "que": "Which sport is played at Wimbeldon?",
+      "ans": {
+        "value": "Tennis",
+        "correct_entity": "option_c"
+      },
+      "options": [
+        "Boxing",
+        "Squash",
+        "Tennis"
+      ],
+      "expl": [
+        "The sport played at Wimbledon is tennis. Hosted annually at the All England Lawn Tennis and Croquet Club in London, it is the oldest tennis tournament in the world, first held in 1877. It is the only Grand Slam event still played on grass courts. Players and officials traditionally follow an all-white dress code at the tournament."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "Boxing"
+        ],
+        "option_b": [
+          "Squash",
+          "crash",
+          "crush",
+          "wash"
+        ],
+        "option_c": [
+          "Tennis"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "SPO_IMAGE_13.jpg",
+      "audioUrl": "",
+      "roundType": "image"
+    },
+    {
+      "id": "SPO_IMAGE_14",
+      "que": "This curved stick and small hard ball are used in which sport?",
+      "ans": {
+        "value": "Hockey",
+        "correct_entity": "option_a"
+      },
+      "options": [
+        "Hockey",
+        "Cricket",
+        "Golf"
+      ],
+      "expl": [
+        "This curved stick and small hard ball are used in hockey. Field hockey is believed to be one of the oldest known team sports. Modern field hockey rules were largely standardized in England during the 19th century. It has been part of the Olympic Games since 1908 for men and 1980 for women."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "Hockey"
+        ],
+        "option_b": [
+          "Cricket"
+        ],
+        "option_c": [
+          "Golf"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "SPO_IMAGE_14.jpg",
+      "audioUrl": "",
+      "roundType": "image"
+    },
+    {
+      "id": "SPO_IMAGE_15",
+      "que": "This colorful jersey with number 10 is iconic in which sport, worn by legends like Pele and Maradona?",
+      "ans": {
+        "value": "Football",
+        "correct_entity": "option_a"
+      },
+      "options": [
+        "Football",
+        "Basketball",
+        "Cricket"
+      ],
+      "expl": [
+        "This iconic number 10 jersey is worn in football. The number 10 shirt is traditionally worn by a team's most creative playmaker. Legends like Pelé and Diego Maradona made the number famous through their skill and leadership on the field. The tradition of assigning fixed squad numbers began in the 1920s and 1930s."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "Football"
+        ],
+        "option_b": [
+          "Basketball"
+        ],
+        "option_c": [
+          "Cricket"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "SPO_IMAGE_15.jpg",
+      "audioUrl": "",
+      "roundType": "image"
+    },
+    {
+      "id": "SPO_IMAGE_16",
+      "que": "This small white ball with dimples is used in which sport?",
+      "ans": {
+        "value": "Golf",
+        "correct_entity": "option_a"
+      },
+      "options": [
+        "Golf",
+        "Table Tennis",
+        "Squash"
+      ],
+      "expl": [
+        "This small white ball with dimples is used in golf. Golf ball dimples help the ball travel farther by reducing air resistance. A standard golf ball typically has between 300 and 500 dimples. Golf is believed to have originated in Scotland during the 15th century."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "Golf"
+        ],
+        "option_b": [
+          "Table Tennis"
+        ],
+        "option_c": [
+          "Squash",
+          "crash",
+          "crush",
+          "wash"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "SPO_IMAGE_16.jpg",
+      "audioUrl": "",
+      "roundType": "image"
+    },
+    {
+      "id": "SPO_IMAGE_17",
+      "que": "This mat and colorful belt system is associated with which martial art?",
+      "ans": {
+        "value": "Karate",
+        "correct_entity": "option_a"
+      },
+      "options": [
+        "Karate",
+        "Boxing",
+        "Wrestling"
+      ],
+      "expl": [
+        "This mat and colorful belt system is associated with karate. Different colored belts in martial arts represent a student's skill level and rank. Karate originated in Okinawa, Japan, blending local fighting traditions with Chinese martial arts. Karate became an official Olympic sport for the first time at the Tokyo 2020 Games."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "Karate"
+        ],
+        "option_b": [
+          "Boxing"
+        ],
+        "option_c": [
+          "Wrestling"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "SPO_IMAGE_17.jpg",
+      "audioUrl": "",
+      "roundType": "image"
+    },
+    {
+      "id": "SPO_IMAGE_18",
+      "que": "This lightweight shuttlecock made of feathers is used in which racket sport?",
+      "ans": {
+        "value": "Badminton",
+        "correct_entity": "option_a"
+      },
+      "options": [
+        "Badminton",
+        "Tennis",
+        "Squash"
+      ],
+      "expl": [
+        "This lightweight shuttlecock made of feathers is used in badminton. A badminton shuttlecock can decelerate faster than any other object in sport. Traditional shuttlecocks are made from goose or duck feathers attached to a cork base. Badminton became an official Olympic sport in 1992."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "Badminton"
+        ],
+        "option_b": [
+          "Tennis"
+        ],
+        "option_c": [
+          "Squash",
+          "crash",
+          "crush",
+          "wash"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "SPO_IMAGE_18.jpg",
+      "audioUrl": "",
+      "roundType": "image"
+    },
+    {
+      "id": "SPO_IMAGE_19",
+      "que": "This large inflatable ball used in team play over a net is featured in which sport?",
+      "ans": {
+        "value": "Volleyball",
+        "correct_entity": "option_a"
+      },
+      "options": [
+        "Volleyball",
+        "Basketball",
+        "Handball"
+      ],
+      "expl": [
+        "This large inflatable ball is used in volleyball. Volleyball was invented in 1895 as a gentler alternative to basketball. It was originally called \"mintonette\" before being renamed. A standard volleyball team has six players on the court per side. Beach volleyball became an official Olympic sport in 1996."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "Volleyball"
+        ],
+        "option_b": [
+          "Basketball"
+        ],
+        "option_c": [
+          "Handball"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "SPO_IMAGE_19.jpg",
+      "audioUrl": "",
+      "roundType": "image"
+    },
+    {
+      "id": "SPO_IMAGE_20",
+      "que": "This checkered flag is waved to signal the finish of which type of race?",
+      "ans": {
+        "value": "Car racing",
+        "correct_entity": "option_a"
+      },
+      "options": [
+        "Car racing",
+        "Horse racing",
+        "Boat racing"
+      ],
+      "expl": [
+        "The checkered flag signals the finish of a car race. The checkered flag tradition in car racing dates back to the early 1900s. Its black-and-white pattern makes it highly visible to drivers at high speed. The flag is also used in other motorsports like motorcycle racing. Its exact origin is debated, with theories ranging from bicycle races to horse racing traditions."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "Car racing",
+          "car"
+        ],
+        "option_b": [
+          "Horse racing",
+          "horse"
+        ],
+        "option_c": [
+          "Boat racing",
+          "boat"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "SPO_IMAGE_20.jpg",
+      "audioUrl": "",
+      "roundType": "image"
+    },
+    {
+      "id": "SPO_IMAGE_21",
+      "que": "Runners breaking through this ribbon marks the completion of which type of race?",
+      "ans": {
+        "value": "Marathon",
+        "correct_entity": "option_a"
+      },
+      "options": [
+        "Marathon",
+        "Relay",
+        "Hurdles race"
+      ],
+      "expl": [
+        "Runners breaking through this ribbon marks the completion of a marathon. Breaking the finish tape is largely a ceremonial tradition today, not a timing method, since electronic chips now record official times. The marathon distance of 42.195 kilometers was standardized at the 1908 London Olympics. Its name comes from the legend of a Greek messenger who ran from Marathon to Athens."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "Marathon"
+        ],
+        "option_b": [
+          "Relay"
+        ],
+        "option_c": [
+          "Hurdles race",
+          "hurdle race",
+          "hurdles"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "SPO_IMAGE_21.jpg",
+      "audioUrl": "",
+      "roundType": "image"
+    },
+    {
+      "id": "SPO_IMAGE_22",
+      "que": "This tight-fitting eyewear and cap are worn by athletes in which sport?",
+      "ans": {
+        "value": "Swimming",
+        "correct_entity": "option_a"
+      },
+      "options": [
+        "Swimming",
+        "Cycling",
+        "Diving"
+      ],
+      "expl": [
+        "This equipment belongs to swimming. Swim caps help reduce drag by keeping hair out of the water. Competitive swimmers also wear tight-fitting goggles to protect their eyes and improve visibility underwater. Swimming has been part of the modern Olympics since the first Games in 1896."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "Swimming"
+        ],
+        "option_b": [
+          "Cycling"
+        ],
+        "option_c": [
+          "Diving"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "SPO_IMAGE_22.jpg",
+      "audioUrl": "",
+      "roundType": "image"
+    },
+    {
+      "id": "SPO_IMAGE_23",
+      "que": "This four-wheeled board, popular for street tricks, is used in which sport?",
+      "ans": {
+        "value": "Skateboarding",
+        "correct_entity": "option_a"
+      },
+      "options": [
+        "Skateboarding",
+        "Rollerblading",
+        "Scootering"
+      ],
+      "expl": [
+        "This equipment belongs to skateboarding. Skateboarding became an official Olympic sport starting at the Tokyo 2020 games. The modern skateboard was developed in California in the 1950s from surfing culture. The sport includes two main Olympic disciplines: street and park."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "Skateboarding"
+        ],
+        "option_b": [
+          "Rollerblading",
+          "roller blading"
+        ],
+        "option_c": [
+          "Scootering",
+          "scooter ring"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "SPO_IMAGE_23.jpg",
+      "audioUrl": "",
+      "roundType": "image"
+    },
+    {
+      "id": "SPO_IMAGE_24",
+      "que": "This wooden bat and leather glove are essential equipment in which sport?",
+      "ans": {
+        "value": "Baseball",
+        "correct_entity": "option_a"
+      },
+      "options": [
+        "Baseball",
+        "Cricket",
+        "Softball"
+      ],
+      "expl": [
+        "This equipment belongs to baseball. A baseball glove is specially padded to help fielders catch a very hard ball safely. Baseball bats are traditionally made of ash or maple wood. The sport is often called \"America's pastime\" due to its long history in the United States."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "Baseball"
+        ],
+        "option_b": [
+          "Cricket"
+        ],
+        "option_c": [
+          "Softball"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "SPO_IMAGE_24.jpg",
+      "audioUrl": "",
+      "roundType": "image"
+    },
+    {
+      "id": "SPO_IMAGE_25",
+      "que": "These wooden stumps and bails are set up behind the batter in which sport?",
+      "ans": {
+        "value": "Cricket",
+        "correct_entity": "option_a"
+      },
+      "options": [
+        "Cricket",
+        "Baseball",
+        "Rounders"
+      ],
+      "expl": [
+        "This equipment belongs to cricket. A bowler aims to knock the bails off the stumps to dismiss the batter. There are three stumps and two bails set up at each end of the pitch. A dismissal by knocking the bails off is called being \"bowled.\""
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "Cricket"
+        ],
+        "option_b": [
+          "Baseball"
+        ],
+        "option_c": [
+          "Rounders",
+          "rounder"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "SPO_IMAGE_25.jpg",
+      "audioUrl": "",
+      "roundType": "image"
+    },
+    {
+      "id": "SPO_IMAGE_26",
+      "que": "This flaming torch is carried in a relay before the start of which global sporting event?",
+      "ans": {
+        "value": "Olympics",
+        "correct_entity": "option_a"
+      },
+      "options": [
+        "Olympics",
+        "World Cup",
+        "Commonwealth Games"
+      ],
+      "expl": [
+        "This tradition belongs to the Olympics. The Olympic torch relay tradition dates back to the 1936 Berlin Games. The flame is lit in Olympia, Greece, using the sun's rays before being carried to the host city. The flame burns continuously throughout the Games until the closing ceremony."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "Olympics"
+        ],
+        "option_b": [
+          "World Cup"
+        ],
+        "option_c": [
+          "Commonwealth Games",
+          "common wealth games",
+          "common wealth game",
+          "commonwealth game",
+          "common wealth",
+          "commonwealth"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "SPO_IMAGE_26.jpg",
+      "audioUrl": "",
+      "roundType": "image"
+    },
+    {
+      "id": "SPO_IMAGE_27",
+      "que": "This long board, ridden while standing on ocean waves, is used in which sport?",
+      "ans": {
+        "value": "Surfing",
+        "correct_entity": "option_a"
+      },
+      "options": [
+        "Surfing",
+        "Windsurfing",
+        "Bodyboarding"
+      ],
+      "expl": [
+        "This equipment belongs to surfing. Surfing became an official Olympic sport at the Tokyo 2020 games. The sport originated in ancient Polynesia and was later popularized in Hawaii. Modern surfboards are typically made from lightweight foam covered in fiberglass."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "Surfing"
+        ],
+        "option_b": [
+          "Windsurfing",
+          "wind surfing"
+        ],
+        "option_c": [
+          "Bodyboarding",
+          "body building",
+          "body boarding"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "SPO_IMAGE_27.jpg",
+      "audioUrl": "",
+      "roundType": "image"
+    }
+  ],
+  "AUDIO_QUESTIONS": [
+    {
+      "id": "SPO_AUDIO_01",
+      "que": "Which sport uses this sharp whistle sound to start and stop play?",
+      "ans": {
+        "value": "Football",
+        "correct_entity": "option_a"
+      },
+      "options": [
+        "Football",
+        "Cricket",
+        "Golf"
+      ],
+      "expl": [
+        "This sharp whistle sound used to start and stop play belongs to football (soccer). Referee whistles are designed to be heard clearly over large, noisy stadiums. Different whistle patterns can signal fouls, goals, or the end of a half. Whistles are also used in many other sports for similar signaling purposes. The pea whistle design, common in sports, was invented in the 19th century."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "Football"
+        ],
+        "option_b": [
+          "Cricket"
+        ],
+        "option_c": [
+          "Golf"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": "SPO_AUDIO_01.mp3",
+      "roundType": "audio"
+    },
+    {
+      "id": "SPO_AUDIO_02",
+      "que": "This 'thwack' sound of bat meeting ball belongs to which sport?",
+      "ans": {
+        "value": "Cricket",
+        "correct_entity": "option_a"
+      },
+      "options": [
+        "Cricket",
+        "Baseball",
+        "Golf"
+      ],
+      "expl": [
+        "This 'thwack' sound of bat meeting ball belongs to cricket. A fast cricket bowler can deliver the ball at speeds over 150 km/h. Cricket bats are traditionally made from willow wood. The sound differs based on where the ball strikes the bat's sweet spot. Cricket is one of the most popular sports in South Asia, the UK, and Australia."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "Cricket"
+        ],
+        "option_b": [
+          "Baseball",
+          "base",
+          "base ball"
+        ],
+        "option_c": [
+          "Golf"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": "SPO_AUDIO_02.mp3",
+      "roundType": "audio"
+    },
+    {
+      "id": "SPO_AUDIO_03",
+      "que": "This dribbling and net-swish sound belongs to which sport?",
+      "ans": {
+        "value": "Basketball",
+        "correct_entity": "option_c"
+      },
+      "options": [
+        "Handball",
+        "Volleyball",
+        "Basketball"
+      ],
+      "expl": [
+        "This dribbling and net-swish sound belongs to basketball. The basketball hoop was originally an actual peach basket in 1891. The dribbling sound comes from the ball bouncing rhythmically on the court. A clean \"swish\" means the ball went through the net without touching the rim. Basketball is now one of the most popular sports globally, especially in the US."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "Handball",
+          "hand ball",
+          "hand"
+        ],
+        "option_b": [
+          "Volleyball",
+          "volley",
+          "volley ball"
+        ],
+        "option_c": [
+          "Basketball",
+          "basket",
+          "basket ball"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": "SPO_AUDIO_03.mp3",
+      "roundType": "audio"
+    },
+    {
+      "id": "SPO_AUDIO_04",
+      "que": "This squeaky shoe sound is common on which type of playing surface?",
+      "ans": {
+        "value": "Basketball Court",
+        "correct_entity": "option_a"
+      },
+      "options": [
+        "Basketball Court",
+        "Football Field",
+        "Cricket Pitch"
+      ],
+      "expl": [
+        "This squeaky shoe sound is common on a basketball court. The squeak comes from rubber soles gripping and twisting on a polished wooden court. Basketball courts are typically made of hardwood like maple. Players' quick stops and pivots create the sharpest squeaking sounds. Shoe design and court cleanliness both affect how much squeak is produced."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "Basketball Court",
+          "basketball cot",
+          "basketball cort",
+          "basketball",
+          "basket ball",
+          "basket"
+        ],
+        "option_b": [
+          "Football Field",
+          "football fyled",
+          "football"
+        ],
+        "option_c": [
+          "Cricket Pitch",
+          "cricket pich",
+          "cricket bitch",
+          "cricket peach",
+          "cricket"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": "SPO_AUDIO_04.mp3",
+      "roundType": "audio"
+    },
+    {
+      "id": "SPO_AUDIO_05",
+      "que": "This 'pock' sound of racket hitting ball belongs to which sport?",
+      "ans": {
+        "value": "Tennis",
+        "correct_entity": "option_a"
+      },
+      "options": [
+        "Tennis",
+        "Badminton",
+        "Football"
+      ],
+      "expl": [
+        "This 'pock' sound of racket hitting ball belongs to tennis. Professional tennis serves can reach speeds over 200 km/h. The sound varies depending on string tension and racket material. Tennis balls are covered in felt, which affects both sound and bounce. Loud grunting from players during shots has become a notable part of modern tennis."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "Tennis"
+        ],
+        "option_b": [
+          "Badminton",
+          "batminton"
+        ],
+        "option_c": [
+          "Football"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": "SPO_AUDIO_05.mp3",
+      "roundType": "audio"
+    },
+    {
+      "id": "SPO_AUDIO_06",
+      "que": "This ringing bell sound signals the start or end of a round in which sport?",
+      "ans": {
+        "value": "Boxing",
+        "correct_entity": "option_c"
+      },
+      "options": [
+        "Fencing",
+        "Karate",
+        "Boxing"
+      ],
+      "expl": [
+        "This ringing bell sound signals the start or end of a round in boxing. A boxing round traditionally lasts three minutes with a one-minute break between rounds. The bell also signals timeouts, like when a fighter is knocked down. Boxing's bell tradition dates back to the sport's early organized rules. Referees and corner staff rely on the bell to keep matches on schedule."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "Fencing",
+          "fancing"
+        ],
+        "option_b": [
+          "Karate",
+          "wrestling",
+          "restling"
+        ],
+        "option_c": [
+          "Boxing",
+          "boksing",
+          "foxing"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": "SPO_AUDIO_06.mp3",
+      "roundType": "audio"
+    },
+    {
+      "id": "SPO_AUDIO_07",
+      "que": "This loud roaring crowd sound is typical of which large sporting event?",
+      "ans": {
+        "value": "Football Stadium",
+        "correct_entity": "option_a"
+      },
+      "options": [
+        "Football Stadium",
+        "Chess Tournament",
+        "Golf Tournament"
+      ],
+      "expl": [
+        "This loud roaring crowd sound is typical of a football stadium. Some football stadiums can hold over 100,000 fans cheering at once. Crowd noise can influence player performance and even referee decisions. Chants and songs are often unique to specific teams and fanbases. Stadium acoustics are sometimes designed to amplify and contain crowd noise."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "Football Stadium",
+          "football",
+          "stadium",
+          "futball stadium"
+        ],
+        "option_b": [
+          "Chess Tournament",
+          "chees",
+          "tournament"
+        ],
+        "option_c": [
+          "Golf Tournament",
+          "golf",
+          "tournament",
+          "golf turnament"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": "SPO_AUDIO_07.mp3",
+      "roundType": "audio"
+    },
+    {
+      "id": "SPO_AUDIO_08",
+      "que": "This sharp bang sound signals the start of which type of race?",
+      "ans": {
+        "value": "Running Race",
+        "correct_entity": "option_a"
+      },
+      "options": [
+        "Running Race",
+        "Swimming Race",
+        "Cycling Race"
+      ],
+      "expl": [
+        "This sharp bang sound signals the start of a running race. Starting pistols originally used real gunpowder blanks before switching to electronic sound. Modern races often use electronic starting systems with built-in speakers for fairness. False starts can be detected by sensors that measure reaction time to the signal. The 100m sprint is one of the most anticipated races that begins with this sound."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "Running Race",
+          "running",
+          "race"
+        ],
+        "option_b": [
+          "Swimming Race",
+          "swimming",
+          "race"
+        ],
+        "option_c": [
+          "Cycling Race",
+          "cycling",
+          "race"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": "SPO_AUDIO_08.mp3",
+      "roundType": "audio"
+    },
+    {
+      "id": "SPO_AUDIO_09",
+      "que": "This scraping-gliding sound on a frozen rink belongs to which sport?",
+      "ans": {
+        "value": "Ice Skating",
+        "correct_entity": "option_a"
+      },
+      "options": [
+        "Ice Skating",
+        "Skiing",
+        "Snowboarding"
+      ],
+      "expl": [
+        "This scraping-gliding sound on a frozen rink belongs to ice skating. Ice skate blades are thin enough to reduce friction, letting skaters glide easily across the surface. Figure skating and speed skating both use specialized blade designs suited to their disciplines. Ice skating has been practiced for centuries, with early versions dating back to ancient Scandinavia."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "Ice Skating",
+          "ice",
+          "eyes",
+          "eyes skating"
+        ],
+        "option_b": [
+          "Skiing",
+          "skin",
+          "sking",
+          "king"
+        ],
+        "option_c": [
+          "Snowboarding",
+          "snow",
+          "snow boarding",
+          "boarding"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": "SPO_AUDIO_09.mp3",
+      "roundType": "audio"
+    },
+    {
+      "id": "SPO_AUDIO_10",
+      "que": "This famous song sung by Shakira is became famous for which Sport?",
+      "ans": {
+        "value": "Football",
+        "correct_entity": "option_c"
+      },
+      "options": [
+        "Lawn Tennis",
+        "Squash",
+        "Football"
+      ],
+      "expl": [
+        "This famous song, sung by Shakira, became famous for football (soccer). \"Waka Waka (This Time for Africa)\" became immensely famous because it combined a catchy Afro-fusion rhythm, served as the official anthem for the 2010 FIFA World Cup in South Africa, and featured a globally viral dance and massive star power. The song was inspired by an existing Cameroonian military song, blending African musical traditions with pop production. Selling over 15 million downloads, it remains one of the best-selling singles of all time."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "Lawn Tennis",
+          "long tennis",
+          "lawn",
+          "long"
+        ],
+        "option_b": [
+          "Squash",
+          "crash",
+          "crush",
+          "wash"
+        ],
+        "option_c": [
+          "Football"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": "SPO_AUDIO_10.mp3",
+      "roundType": "audio"
+    },
+    {
+      "id": "SPO_AUDIO_11",
+      "que": "This splashing sound is commonly heard at which type of sporting venue?",
+      "ans": {
+        "value": "Swimming Pool",
+        "correct_entity": "option_a"
+      },
+      "options": [
+        "Swimming Pool",
+        "Skating Court",
+        "Boating Lake"
+      ],
+      "expl": [
+        "This splashing sound is commonly heard at a swimming pool. Competitive swimming pools are precisely built to regulation lengths like 50 meters for Olympic events. Pools used for diving and water polo have their own specific depth and size requirements. Splashing sounds are amplified by the echo created in large, tiled indoor swimming facilities."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "Swimming Pool",
+          "swimming",
+          "pool"
+        ],
+        "option_b": [
+          "Skating Court",
+          "skating",
+          "court",
+          "getting caught"
+        ],
+        "option_c": [
+          "Boating Lake",
+          "boating",
+          "lake",
+          "floating lake"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": "SPO_AUDIO_11.mp3",
+      "roundType": "audio"
+    },
+    {
+      "id": "SPO_AUDIO_12",
+      "que": "Which sports sideline activity features rhythmic chanting and clapping?",
+      "ans": {
+        "value": "Cheerleading",
+        "correct_entity": "option_a"
+      },
+      "options": [
+        "Cheerleading",
+        "Refereeing",
+        "Commentary"
+      ],
+      "expl": [
+        "This rhythmic chanting and clapping crowd sound is typical of cheerleading. Competitive cheerleading has grown into its own judged sport, separate from sideline cheering at games. It combines elements of dance, gymnastics, and stunt work performed in coordinated routines. Cheerleading originated in the United States in the late 19th century as a way to energize crowds at football games."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "Cheerleading",
+          "cheer leading"
+        ],
+        "option_b": [
+          "Refereeing",
+          "refer ring",
+          "referring"
+        ],
+        "option_c": [
+          "Commentary"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": "SPO_AUDIO_12.mp3",
+      "roundType": "audio"
+    },
+    {
+      "id": "SPO_AUDIO_13",
+      "que": "This rolling, rattling wheel sound on pavement belongs to which sport?",
+      "ans": {
+        "value": "Skateboarding",
+        "correct_entity": "option_a"
+      },
+      "options": [
+        "Skateboarding",
+        "Rollerblading",
+        "Cycling"
+      ],
+      "expl": [
+        "This rolling, rattling wheel sound on pavement belongs to skateboarding. Skateboard wheels are usually made from a hard type of polyurethane plastic. Wheel hardness is measured on a durometer scale, affecting grip and speed. Skateboarding tricks rely heavily on the wheels' ability to grip pavement and absorb small vibrations."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "Skateboarding"
+        ],
+        "option_b": [
+          "Rollerblading",
+          "roller",
+          "blading"
+        ],
+        "option_c": [
+          "Cycling"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": "SPO_AUDIO_13.mp3",
+      "roundType": "audio"
+    },
+    {
+      "id": "SPO_AUDIO_14",
+      "que": "This crashing sound of falling wooden pins is heard in which sport?",
+      "ans": {
+        "value": "Bowling",
+        "correct_entity": "option_a"
+      },
+      "options": [
+        "Bowling",
+        "Billiards",
+        "Curling"
+      ],
+      "expl": [
+        "This crashing sound of falling wooden pins is heard in bowling. A perfect bowling game, knocking down all pins in every frame, scores exactly 300 points. Ten pins are arranged in a triangular formation at the end of the lane. Modern bowling pins are typically made of hard maple wood coated in a durable plastic finish."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "Bowling"
+        ],
+        "option_b": [
+          "Billiards",
+          "billi yards",
+          "bilards",
+          "billard",
+          "bili yard"
+        ],
+        "option_c": [
+          "Curling"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": "SPO_AUDIO_14.mp3",
+      "roundType": "audio"
+    }
+  ]
+}

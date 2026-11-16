@@ -1,0 +1,2766 @@
+{
+  "TEXT_QUESTIONS": [
+    {
+      "id": "GK_TEXT_01",
+      "que": "How many days are there in the month of February during a normal, non-leap year?",
+      "ans": {
+        "value": "28",
+        "correct_entity": "option_a"
+      },
+      "options": [
+        "28",
+        "29",
+        "30"
+      ],
+      "expl": [
+        "There are 28 days in the month of February during a normal, non-leap year. Every four years, February gains an extra day to keep our calendar aligned with Earth's orbit. This extra day, added in leap years, keeps the calendar synced with the roughly 365.25 days it takes Earth to orbit the sun. Without leap years, our calendar would slowly drift out of alignment with the seasons."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "28",
+          "twenty eight"
+        ],
+        "option_b": [
+          "29",
+          "twenty nine"
+        ],
+        "option_c": [
+          "30",
+          "thirty"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": "",
+      "roundType": "text"
+    },
+    {
+      "id": "GK_TEXT_02",
+      "que": "What is the boiling point of water in Celsius at sea level?",
+      "ans": {
+        "value": "100 degrees",
+        "correct_entity": "option_b"
+      },
+      "options": [
+        "90 degrees",
+        "100 degrees",
+        "120 degrees"
+      ],
+      "expl": [
+        "The boiling point of water in Celsius at sea level is 100 degrees. Water boils at a lower temperature at high altitudes because of reduced air pressure. This is why food can take longer to cook properly at high elevations, like in mountain regions. Water's boiling point can also be raised by adding substances like salt, which slightly increases the pressure needed to boil."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "90 degrees",
+          "ninety degree",
+          "ninety",
+          "ninety degrees"
+        ],
+        "option_b": [
+          "100 degrees",
+          "hundred degree",
+          "one hindred degree",
+          "hundred",
+          "one hundred",
+          "hundred degree celsius",
+          "one hundred degree celsius",
+          "hundred degrees",
+          "one hundred degrees",
+          "hundred degrees celsius",
+          "one hundred degrees celsius"
+        ],
+        "option_c": [
+          "120 degrees",
+          "one twenty degree",
+          "one hundred and twenty degree",
+          "one hundred twenty degree",
+          "one twenty",
+          "one twenty degrees",
+          "one hundred and twenty degrees",
+          "one hundred twenty degrees"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": "",
+      "roundType": "text"
+    },
+    {
+      "id": "GK_TEXT_03",
+      "que": "How many sides does a hexagon have?",
+      "ans": {
+        "value": "Six",
+        "correct_entity": "option_b"
+      },
+      "options": [
+        "Five",
+        "Six",
+        "Seven"
+      ],
+      "expl": [
+        "A hexagon has six sides. Honeycomb cells built by bees are famously hexagon-shaped. This shape allows bees to store the maximum amount of honey using the least amount of wax. Hexagons are also common in nature and engineering due to their strength and efficient use of space."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "Five"
+        ],
+        "option_b": [
+          "Six"
+        ],
+        "option_c": [
+          "Seven"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": "",
+      "roundType": "text"
+    },
+    {
+      "id": "GK_TEXT_04",
+      "que": "What do you call a shape that has eight sides?",
+      "ans": {
+        "value": "Octagon",
+        "correct_entity": "option_c"
+      },
+      "options": [
+        "Heptagon",
+        "Hexagon",
+        "Octagon"
+      ],
+      "expl": [
+        "A shape with eight sides is called an octagon. Stop signs are shaped like octagons so they're recognizable even from the back. This unique shape helps drivers identify a stop sign even when its text isn't clearly visible, such as in fog or from behind. Octagons are also used in architecture and design for their distinct, easily recognizable form."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "Heptagon"
+        ],
+        "option_b": [
+          "Hexagon"
+        ],
+        "option_c": [
+          "Octagon"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": "",
+      "roundType": "text"
+    },
+    {
+      "id": "GK_TEXT_05",
+      "que": "How many letters are there in the Russian alphabet?",
+      "ans": {
+        "value": "33",
+        "correct_entity": "option_b"
+      },
+      "options": [
+        "24",
+        "33",
+        "28"
+      ],
+      "expl": [
+        "The Russian alphabet has 33 letters. It uses the Cyrillic script, which was developed over 1,000 years ago. Cyrillic was named after Saint Cyril, a missionary credited with helping create an early version of the script. Several other Slavic languages, including Ukrainian and Bulgarian, also use variations of the Cyrillic alphabet."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "24",
+          "twenty four"
+        ],
+        "option_b": [
+          "33",
+          "thirty three"
+        ],
+        "option_c": [
+          "28",
+          "twenty eight"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": "",
+      "roundType": "text"
+    },
+    {
+      "id": "GK_TEXT_06",
+      "que": "What is the official currency of Thailand called?",
+      "ans": {
+        "value": "Thai Baht",
+        "correct_entity": "option_b"
+      },
+      "options": [
+        "Won",
+        "Thai Baht",
+        "Ringgit"
+      ],
+      "expl": [
+        "The official currency of Thailand is called the Thai Baht. The word \"Baht\" originally referred to a unit of weight used for measuring silver before becoming Thailand's currency. Thai banknotes and coins commonly feature the portrait of the King of Thailand. The Baht has been the official currency of Thailand since the late 19th century."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "Won",
+          "one",
+          "want"
+        ],
+        "option_b": [
+          "Thai Baht",
+          "thai baat",
+          "thai",
+          "thai bhat",
+          "thai bath",
+          "thai bot"
+        ],
+        "option_c": [
+          "Ringgit",
+          "bring it",
+          "blink it",
+          "ring it",
+          "ringit",
+          "bringit",
+          "drink it"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": "",
+      "roundType": "text"
+    },
+    {
+      "id": "GK_TEXT_07",
+      "que": "How many minutes are there in a full 24-hour day?",
+      "ans": {
+        "value": "1,440",
+        "correct_entity": "option_b"
+      },
+      "options": [
+        "1,200",
+        "1,440",
+        "1,500"
+      ],
+      "expl": [
+        "There are 1,440 minutes in a full 24-hour day. That's the same as 60 minutes multiplied by 24 hours. Each hour is further broken down into 60 seconds per minute, totaling 86,400 seconds in a day. This consistent time system has been used for centuries to help standardize schedules worldwide."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "1,200",
+          "twelve hundred",
+          "one thousand two hundred",
+          "one thousand and two hundred"
+        ],
+        "option_b": [
+          "1,440",
+          "one thousand four hundred and forty",
+          "one thousand four hundred forty",
+          "forteen hundred and forty",
+          "fourteen hundred forty"
+        ],
+        "option_c": [
+          "1,500",
+          "fifteen hundred",
+          "one thousand five hundred"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": "",
+      "roundType": "text"
+    },
+    {
+      "id": "GK_TEXT_08",
+      "que": "What do you call a word that reads the same forwards and backwards, like 'madam'?",
+      "ans": {
+        "value": "Palindrome",
+        "correct_entity": "option_c"
+      },
+      "options": [
+        "Synonym",
+        "Acronym",
+        "Palindrome"
+      ],
+      "expl": [
+        "A word that reads the same forwards and backwards, like \"madam,\" is called a palindrome. The longest common English palindrome word is often considered to be \"racecar.\" Palindromes can also apply to phrases and numbers, not just single words. The word \"palindrome\" comes from Greek, meaning \"running back again.\" Some of the longest recognized palindromic sentences span dozens of words."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "Synonym"
+        ],
+        "option_b": [
+          "Acronym"
+        ],
+        "option_c": [
+          "Palindrome",
+          "palindorne"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": "",
+      "roundType": "text"
+    },
+    {
+      "id": "GK_TEXT_09",
+      "que": "Which continent has the most countries?",
+      "ans": {
+        "value": "Africa",
+        "correct_entity": "option_c"
+      },
+      "options": [
+        "Asia",
+        "Europe",
+        "Africa"
+      ],
+      "expl": [
+        "Earth is traditionally divided into seven continents. Some geographers combine Europe and Asia into \"Eurasia,\" counting six continents instead. Antarctica, the coldest continent, has no permanent human residents. Australia is both a continent and a single country, unique among the seven. Continental boundaries are more cultural and historical than strictly geological."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "Asia"
+        ],
+        "option_b": [
+          "Europe"
+        ],
+        "option_c": [
+          "Africa"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": "",
+      "roundType": "text"
+    },
+    {
+      "id": "GK_TEXT_10",
+      "que": "What is the capital city of Australia?",
+      "ans": {
+        "value": "Canberra",
+        "correct_entity": "option_a"
+      },
+      "options": [
+        "Canberra",
+        "Melbourne",
+        "Perth"
+      ],
+      "expl": [
+        "Canberra is the capital city of Australia. It was purpose-built as a compromise capital between rivals Sydney and Melbourne. Construction of the city began in the early 20th century, after a design competition. American architect Walter Burley Griffin designed Canberra's layout. Despite common assumption, Sydney is not Australia's capital."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "Canberra"
+        ],
+        "option_b": [
+          "Melbourne"
+        ],
+        "option_c": [
+          "Perth",
+          "birth",
+          "parth",
+          "part",
+          "parv"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": "",
+      "roundType": "text"
+    },
+    {
+      "id": "GK_TEXT_11",
+      "que": "How many colors are traditionally listed in a rainbow?",
+      "ans": {
+        "value": "Seven",
+        "correct_entity": "option_c"
+      },
+      "options": [
+        "Six",
+        "Five",
+        "Seven"
+      ],
+      "expl": [
+        "A rainbow is traditionally said to have seven colors. Isaac Newton divided the spectrum into seven colors to match a musical scale. The classic order is red, orange, yellow, green, blue, indigo, and violet. Rainbows form when light is refracted, reflected, and dispersed in water droplets. A double rainbow shows a second, fainter arc with colors in reverse order."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "Six"
+        ],
+        "option_b": [
+          "Five"
+        ],
+        "option_c": [
+          "Seven"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": "",
+      "roundType": "text"
+    },
+    {
+      "id": "GK_TEXT_13",
+      "que": "How many days are there in a leap year?",
+      "ans": {
+        "value": "366",
+        "correct_entity": "option_b"
+      },
+      "options": [
+        "365",
+        "366",
+        "367"
+      ],
+      "expl": [
+        "A leap year has 366 days instead of the usual 365. Leap years keep our calendar in sync with Earth's orbit around the sun. The extra day is added to February, making it 29 days long. Leap years occur nearly every four years, except for some century years. Without leap years, our calendar would drift out of sync with the seasons over time."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "365",
+          "three sixty five",
+          "three hundred sixty five",
+          "three hundred and sixty five"
+        ],
+        "option_b": [
+          "366",
+          "three sixty six",
+          "three hundred and sixty six",
+          "three hundred sifty six"
+        ],
+        "option_c": [
+          "367",
+          "three sixty seven",
+          "three hundred and sixty seven",
+          "three hundred sifty seven"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": "",
+      "roundType": "text"
+    },
+    {
+      "id": "GK_TEXT_14",
+      "que": "What is the freezing point of water in Celsius?",
+      "ans": {
+        "value": "0 degrees",
+        "correct_entity": "option_c"
+      },
+      "options": [
+        "32 degrees",
+        "100 degrees",
+        "0 degrees"
+      ],
+      "expl": [
+        "Water freezes at 0 degrees Celsius. In Fahrenheit, water freezes at 32 degrees instead. The Celsius scale was designed so that 100 degrees marks water's boiling point at sea level. Pure water can sometimes stay liquid below 0°C in a state called supercooling. Adding salt to water lowers its freezing point, which is why roads are salted in winter."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "32 degrees",
+          "thirty two",
+          "thirty two degree",
+          "thirty two degree celsius",
+          "thirty two degrees",
+          "thirty two degrees celsius"
+        ],
+        "option_b": [
+          "100 degrees",
+          "hundred degree",
+          "one hindred degree",
+          "hundred",
+          "one hundred",
+          "hundred degree celsius",
+          "one hundred degree celsius",
+          "hundred degrees",
+          "one hundred degrees",
+          "hundred degrees celsius",
+          "one hundred degrees celsius"
+        ],
+        "option_c": [
+          "0 degrees",
+          "zero degree",
+          "zero",
+          "zero degrees",
+          "zero degree celsius",
+          "zero degrees celsius"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": "",
+      "roundType": "text"
+    },
+    {
+      "id": "GK_TEXT_15",
+      "que": "Which language has the most native speakers worldwide?",
+      "ans": {
+        "value": "Mandarin Chinese",
+        "correct_entity": "option_b"
+      },
+      "options": [
+        "English",
+        "Mandarin Chinese",
+        "Hindi"
+      ],
+      "expl": [
+        "Mandarin Chinese has the most native speakers of any language worldwide. It has over 900 million native speakers. Mandarin is one of the official languages of the United Nations. Its writing system uses thousands of characters rather than a small alphabet. English, while not first in native speakers, is the most widely spoken as a second language."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "English"
+        ],
+        "option_b": [
+          "Mandarin Chinese",
+          "mandarin",
+          "chinese"
+        ],
+        "option_c": [
+          "Hindi"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": "",
+      "roundType": "text"
+    },
+    {
+      "id": "GK_TEXT_16",
+      "que": "How many zeros are there in the number one million?",
+      "ans": {
+        "value": "Six",
+        "correct_entity": "option_c"
+      },
+      "options": [
+        "Four",
+        "Five",
+        "Six"
+      ],
+      "expl": [
+        "There are six zeros in the number one million. One million is written as 1,000,000. In scientific notation, one million is expressed as 10^6. Larger numbers, like a billion and a trillion, add three more zeros each step up the scale."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "Four"
+        ],
+        "option_b": [
+          "Five"
+        ],
+        "option_c": [
+          "Six"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": "",
+      "roundType": "text"
+    },
+    {
+      "id": "GK_TEXT_17",
+      "que": "What is the name of the world's tallest building, located in Dubai?",
+      "ans": {
+        "value": "Burj Khalifa",
+        "correct_entity": "option_a"
+      },
+      "options": [
+        "Burj Khalifa",
+        "Shanghai Tower",
+        "One World Trade Center"
+      ],
+      "expl": [
+        "The world's tallest building, located in Dubai, is the Burj Khalifa. The Burj Khalifa stands over 828 meters tall. It held the record for the world's tallest structure upon its completion in 2010. The building includes residential, commercial, and hotel space across more than 160 floors."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "Burj Khalifa"
+        ],
+        "option_b": [
+          "Shanghai Tower",
+          "shanghai",
+          "tower"
+        ],
+        "option_c": [
+          "One World Trade Center",
+          "one world",
+          "world trade center",
+          "trade center",
+          "one world trade centre",
+          "one word trade center",
+          "one word trade centre",
+          "one word",
+          "word trade center"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": "",
+      "roundType": "text"
+    },
+    {
+      "id": "GK_TEXT_18",
+      "que": "Which basic shape has no straight sides or corners at all?",
+      "ans": {
+        "value": "circle",
+        "correct_entity": "option_b"
+      },
+      "options": [
+        "square",
+        "circle",
+        "triangle"
+      ],
+      "expl": [
+        "A circle is the basic shape with no straight sides or corners at all. A circle is defined as all points equally distant from a single center point. This constant distance from the center is called the radius. Circles appear throughout nature and engineering, from wheels to planetary orbits."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "square"
+        ],
+        "option_b": [
+          "circle"
+        ],
+        "option_c": [
+          "triangle"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": "",
+      "roundType": "text"
+    },
+    {
+      "id": "GK_TEXT_19",
+      "que": "How many total pieces does each player start with on a standard chessboard?",
+      "ans": {
+        "value": "Sixteen",
+        "correct_entity": "option_b"
+      },
+      "options": [
+        "Twelve",
+        "Sixteen",
+        "Twenty"
+      ],
+      "expl": [
+        "Each player starts a standard game of chess with sixteen pieces. This includes eight pawns, two rooks, two knights, two bishops, a queen, and a king. Each type of piece moves in its own unique way across the board. The objective of the game is to checkmate the opponent's king."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "Twelve"
+        ],
+        "option_b": [
+          "Sixteen"
+        ],
+        "option_c": [
+          "Twenty"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": "",
+      "roundType": "text"
+    },
+    {
+      "id": "GK_TEXT_20",
+      "que": "What is the term for a period of exactly one thousand years?",
+      "ans": {
+        "value": "millennium",
+        "correct_entity": "option_c"
+      },
+      "options": [
+        "century",
+        "decade",
+        "millennium"
+      ],
+      "expl": [
+        "A period of exactly one thousand years is called a millennium. The word comes from Latin, combining 'mille' (thousand) and 'annus' (year). The most recent millennium began in the year 2001, following debates over whether 2000 or 2001 marked the true start. Historians often use millennia to describe very long spans of human history."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "century"
+        ],
+        "option_b": [
+          "decade"
+        ],
+        "option_c": [
+          "millennium"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": "",
+      "roundType": "text"
+    },
+    {
+      "id": "GK_TEXT_21",
+      "que": "Which fruit is featured in the popular saying about keeping doctors away?",
+      "ans": {
+        "value": "apple",
+        "correct_entity": "option_b"
+      },
+      "options": [
+        "banana",
+        "apple",
+        "orange"
+      ],
+      "expl": [
+        "The apple is the fruit featured in the popular saying about keeping doctors away. The full saying goes, 'An apple a day keeps the doctor away.' The phrase is believed to have originated from 19th-century folk wisdom about healthy eating. Apples are indeed rich in fiber and vitamin C, supporting the saying's health-conscious message."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "banana"
+        ],
+        "option_b": [
+          "apple"
+        ],
+        "option_c": [
+          "orange"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": "",
+      "roundType": "text"
+    },
+    {
+      "id": "GK_TEXT_22",
+      "que": "How many hours are there in exactly one week?",
+      "ans": {
+        "value": "168",
+        "correct_entity": "option_c"
+      },
+      "options": [
+        "144",
+        "150",
+        "168"
+      ],
+      "expl": [
+        "There are 168 hours in exactly one week. That's calculated as 24 hours multiplied by 7 days. A week is one of the few time units not based directly on astronomical cycles, unlike days or years. The seven-day week has roots in ancient Babylonian and religious traditions."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "144",
+          "one forty four",
+          "one hundred and forty four",
+          "one hundred forty four"
+        ],
+        "option_b": [
+          "150",
+          "one fifty",
+          "one hundred and fifty",
+          "one hundred fifty"
+        ],
+        "option_c": [
+          "168",
+          "one sixty eight",
+          "one hundred and sixty eight",
+          "one hundred sixty eight"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": "",
+      "roundType": "text"
+    },
+    {
+      "id": "GK_TEXT_23",
+      "que": "What is considered the largest organ in the human body?",
+      "ans": {
+        "value": "skin",
+        "correct_entity": "option_b"
+      },
+      "options": [
+        "liver",
+        "skin",
+        "brain"
+      ],
+      "expl": [
+        "The skin is considered the largest organ in the human body. An adult's skin covers an area of about 2 square meters. It serves as a protective barrier against infection, injury, and water loss. Skin also plays a key role in regulating body temperature through sweating."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "liver"
+        ],
+        "option_b": [
+          "skin"
+        ],
+        "option_c": [
+          "brain"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": "",
+      "roundType": "text"
+    },
+    {
+      "id": "GK_TEXT_24",
+      "que": "What do we call a baby's very first set of teeth?",
+      "ans": {
+        "value": "Milk teeth",
+        "correct_entity": "option_b"
+      },
+      "options": [
+        "Wisdom teeth",
+        "Milk teeth",
+        "Molars"
+      ],
+      "expl": [
+        "A baby's very first set of teeth are called milk teeth. Most children have all 20 of their milk teeth by around age three. These teeth eventually fall out and are replaced by permanent adult teeth, usually starting around age six. Milk teeth help children chew food and develop proper speech patterns early in life."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "Wisdom teeth",
+          "wisdom",
+          "wisdoom tooth",
+          "teeth",
+          "tooth"
+        ],
+        "option_b": [
+          "Milk teeth",
+          "milk",
+          "teeth",
+          "milk tooth",
+          "tooth"
+        ],
+        "option_c": [
+          "Molars",
+          "smallers",
+          "smaller",
+          "molar",
+          "morals",
+          "moral"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": "",
+      "roundType": "text"
+    },
+    {
+      "id": "GK_TEXT_25",
+      "que": "How many zeros are there in the number one billion?",
+      "ans": {
+        "value": "Nine",
+        "correct_entity": "option_b"
+      },
+      "options": [
+        "Six",
+        "Nine",
+        "Twelve"
+      ],
+      "expl": [
+        "There are nine zeros in the number one billion. One billion is written as 1,000,000,000. In scientific notation, a billion is expressed as 10^9. A billion is a thousand times larger than a million."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "Six"
+        ],
+        "option_b": [
+          "Nine"
+        ],
+        "option_c": [
+          "Twelve"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": "",
+      "roundType": "text"
+    },
+    {
+      "id": "GK_TEXT_26",
+      "que": "What do we call a two-dimensional shape that has exactly ten sides?",
+      "ans": {
+        "value": "decagon",
+        "correct_entity": "option_c"
+      },
+      "options": [
+        "octagon",
+        "nonagon",
+        "decagon"
+      ],
+      "expl": [
+        "A two-dimensional shape with exactly ten sides is called a decagon. The word 'deca' comes from the Greek word for 'ten'. A regular decagon has all ten sides and angles equal in measure. Decagons are less common in everyday objects but appear in some coin designs and architecture."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "octagon"
+        ],
+        "option_b": [
+          "nonagon"
+        ],
+        "option_c": [
+          "decagon"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": "",
+      "roundType": "text"
+    },
+    {
+      "id": "GK_TEXT_27",
+      "que": "What is the freezing point of water in degrees Fahrenheit?",
+      "ans": {
+        "value": "32 degrees",
+        "correct_entity": "option_b"
+      },
+      "options": [
+        "0 degrees",
+        "32 degrees",
+        "100 degrees"
+      ],
+      "expl": [
+        "The freezing point of water in degrees Fahrenheit is 32 degrees. This is different from the Celsius scale, where water freezes at exactly 0 degrees. The Fahrenheit scale was developed in the early 18th century by Daniel Gabriel Fahrenheit. The United States remains one of the few countries that still primarily uses the Fahrenheit scale."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "0 degrees",
+          "zero degree",
+          "zero",
+          "zero degrees"
+        ],
+        "option_b": [
+          "32 degrees",
+          "thirty two degree",
+          "thirty two",
+          "thirty two degrees"
+        ],
+        "option_c": [
+          "100 degrees",
+          "hundred",
+          "one hundred",
+          "hundred degree",
+          "one hundred degree",
+          "hundred degrees",
+          "one hundred degrees"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": "",
+      "roundType": "text"
+    },
+    {
+      "id": "GK_TEXT_28",
+      "que": "How many degrees are there in a right angle?",
+      "ans": {
+        "value": "90 degrees",
+        "correct_entity": "option_b"
+      },
+      "options": [
+        "45 degrees",
+        "90 degrees",
+        "180 degrees"
+      ],
+      "expl": [
+        "A right angle measures exactly 90 degrees. A right angle looks exactly like the corner of a square piece of paper. It is one of the most common angles used in construction and design. Angles less than 90 degrees are called acute, while those greater are called obtuse."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "45 degrees",
+          "forty five degree",
+          "forty five",
+          "forty five degrees"
+        ],
+        "option_b": [
+          "90 degrees",
+          "ninety degree",
+          "ninety",
+          "ninety degrees"
+        ],
+        "option_c": [
+          "180 degrees",
+          "one eighty",
+          "one eighty degree",
+          "one hundred and eighty degree",
+          "one hundred eighty degree",
+          "one hundred and eighty",
+          "one hundred eighty",
+          "one eighty degrees",
+          "one hundred and eighty degrees",
+          "one hundred eighty degrees"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": "",
+      "roundType": "text"
+    },
+    {
+      "id": "GK_TEXT_29",
+      "que": "What do we call a group of islands located close together?",
+      "ans": {
+        "value": "archipelago",
+        "correct_entity": "option_b"
+      },
+      "options": [
+        "peninsula",
+        "archipelago",
+        "isthmus"
+      ],
+      "expl": [
+        "A group of islands located close together is called an archipelago. Indonesia and the Philippines are both examples of large archipelagos. Archipelagos can form through volcanic activity, coral reef growth, or shifting sea levels over time. Some archipelagos consist of thousands of individual islands."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "peninsula"
+        ],
+        "option_b": [
+          "archipelago",
+          "aapko pehlee baar"
+        ],
+        "option_c": [
+          "isthmus",
+          "christmas"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": "",
+      "roundType": "text"
+    },
+    {
+      "id": "GK_TEXT_30",
+      "que": "How many wheels does a standard bicycle have?",
+      "ans": {
+        "value": "Two",
+        "correct_entity": "option_b"
+      },
+      "options": [
+        "One",
+        "Two",
+        "Three"
+      ],
+      "expl": [
+        "A standard bicycle has two wheels. The bicycle's design has remained largely similar since it became popular in the 1800s. Bicycles are one of the most energy-efficient forms of transportation ever invented. Modern bicycles come in many styles, including road, mountain, and electric-assisted bikes."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "One"
+        ],
+        "option_b": [
+          "Two"
+        ],
+        "option_c": [
+          "Three"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": "",
+      "roundType": "text"
+    }
+  ],
+  "IMAGE_QUESTIONS": [
+    {
+      "id": "GK_IMAGE_01",
+      "que": "This icon commonly symbolizes what?",
+      "ans": {
+        "value": "idea",
+        "correct_entity": "option_b"
+      },
+      "options": [
+        "A question",
+        "idea",
+        "A memory"
+      ],
+      "expl": [
+        "This icon commonly symbolizes an idea. The lightbulb-as-idea symbol became popular in comic strips in the early 1900s. It plays on the sudden \"spark\" of inspiration people describe when a new thought strikes. Thomas Edison's popularization of the lightbulb helped cement this visual association. Today, the lightbulb icon is used worldwide in design, apps, and education materials."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "A question",
+          "question"
+        ],
+        "option_b": [
+          "idea"
+        ],
+        "option_c": [
+          "A memory",
+          "memory"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "GK_IMAGE_01.png",
+      "audioUrl": "",
+      "roundType": "image"
+    },
+    {
+      "id": "GK_IMAGE_02",
+      "que": "This symbol most commonly represents which concept?",
+      "ans": {
+        "value": "Justice",
+        "correct_entity": "option_b"
+      },
+      "options": [
+        "Balance",
+        "Justice",
+        "Chemistry"
+      ],
+      "expl": [
+        "This symbol most commonly represents justice. The scales of justice represent the weighing of evidence in legal decisions. It's often paired with a blindfolded figure symbolizing impartiality. The imagery dates back to ancient Egyptian and Greek traditions of judgment. Lady Justice statues appear outside many courthouses around the world."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "Balance"
+        ],
+        "option_b": [
+          "Justice"
+        ],
+        "option_c": [
+          "Chemistry"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "GK_IMAGE_02.png",
+      "audioUrl": "",
+      "roundType": "image"
+    },
+    {
+      "id": "GK_IMAGE_03",
+      "que": "This tool is primarily used for what purpose?",
+      "ans": {
+        "value": "Navigation",
+        "correct_entity": "option_b"
+      },
+      "options": [
+        "Timing",
+        "Navigation",
+        "Forecasting Weather"
+      ],
+      "expl": [
+        "This tool is primarily used for navigation. The magnetic compass was invented in China over 2,000 years ago. Early sailors relied on the compass to travel beyond sight of land. A compass needle aligns with Earth's magnetic field, pointing toward magnetic north. Before compasses, navigators relied on stars, currents, and landmarks."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "Timing"
+        ],
+        "option_b": [
+          "Navigation"
+        ],
+        "option_c": [
+          "Forecasting Weather",
+          "weather forcast",
+          "weather forcasting",
+          "weather",
+          "forcasting",
+          "forcast"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "GK_IMAGE_03.png",
+      "audioUrl": "",
+      "roundType": "image"
+    },
+    {
+      "id": "GK_IMAGE_04",
+      "que": "This object is traditionally used to measure what?",
+      "ans": {
+        "value": "Time",
+        "correct_entity": "option_c"
+      },
+      "options": [
+        "Sand",
+        "Patience",
+        "Time"
+      ],
+      "expl": [
+        "This object is traditionally used to measure time. Hourglasses were once used on ships before mechanical clocks existed. They work by letting sand fall at a constant rate between two glass bulbs. Hourglasses were popular for timing sermons, exams, and cooking before modern clocks. The design has remained essentially unchanged for centuries."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "Sand"
+        ],
+        "option_b": [
+          "Patience"
+        ],
+        "option_c": [
+          "Time"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "GK_IMAGE_04.png",
+      "audioUrl": "",
+      "roundType": "image"
+    },
+    {
+      "id": "GK_IMAGE_05",
+      "que": "What object is shown here?",
+      "ans": {
+        "value": "Key",
+        "correct_entity": "option_c"
+      },
+      "options": [
+        "Lock",
+        "Whistle",
+        "Key"
+      ],
+      "expl": [
+        "This object shown is a key. The oldest known lock-and-key mechanism dates back about 4,000 years. Early keys were made of wood before metal versions became common. Keys work by matching unique notches to pins inside a lock. Modern security has expanded far beyond keys, into codes, cards, and biometrics."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "Lock",
+          "alok"
+        ],
+        "option_b": [
+          "Whistle"
+        ],
+        "option_c": [
+          "Key",
+          "akil",
+          "akhil",
+          "keys",
+          "kiss"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "GK_IMAGE_05.png",
+      "audioUrl": "",
+      "roundType": "image"
+    },
+    {
+      "id": "GK_IMAGE_06",
+      "que": "This container keeps drinks hot or cold for hours using a vacuum layer. What is it called?",
+      "ans": {
+        "value": "Thermos flask",
+        "correct_entity": "option_a"
+      },
+      "options": [
+        "Thermos flask",
+        "Plastic box",
+        "Metal box"
+      ],
+      "expl": [
+        "The thermos flask is the container that keeps drinks hot or cold for hours using a vacuum layer. The vacuum-insulated thermos flask was invented in 1892 by Sir James Dewar. Its design uses a vacuum between two walls to greatly slow heat transfer. Thermos flasks are widely used for travel, camping, and keeping food or drinks at a stable temperature."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "Thermos flask",
+          "thermos",
+          "flask",
+          "thermus flask",
+          "thermus"
+        ],
+        "option_b": [
+          "Plastic box",
+          "play sickbox",
+          "plastic"
+        ],
+        "option_c": [
+          "Metal box",
+          "metal"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "GK_IMAGE_06.jpg",
+      "audioUrl": "",
+      "roundType": "image"
+    },
+    {
+      "id": "GK_IMAGE_07",
+      "que": "This icon represents which planet?",
+      "ans": {
+        "value": "Earth",
+        "correct_entity": "option_b"
+      },
+      "options": [
+        "Mars",
+        "Earth",
+        "Sun"
+      ],
+      "expl": [
+        "This icon represents Earth. Earth is the only planet not named after a Greek or Roman deity. It's the only known planet to support life. About 71% of Earth's surface is covered by water. Earth is the fifth-largest planet in our solar system."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "Mars"
+        ],
+        "option_b": [
+          "Earth"
+        ],
+        "option_c": [
+          "Sun",
+          "son"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "GK_IMAGE_07.png",
+      "audioUrl": "",
+      "roundType": "image"
+    },
+    {
+      "id": "GK_IMAGE_08",
+      "que": "Before electricity, this object was a primary source of what?",
+      "ans": {
+        "value": "Light",
+        "correct_entity": "option_a"
+      },
+      "options": [
+        "Light",
+        "Fire",
+        "Smoke"
+      ],
+      "expl": [
+        "Before electricity, candles were a primary source of light. Candles and oil lamps were once the main sources of indoor light. Early candles were often made from animal fat, known as tallow, before wax became common. Candles today are mostly used for ambiance and decoration rather than as a primary light source."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "Light",
+          "right"
+        ],
+        "option_b": [
+          "Fire"
+        ],
+        "option_c": [
+          "Smoke"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "GK_IMAGE_08.png",
+      "audioUrl": "",
+      "roundType": "image"
+    },
+    {
+      "id": "GK_IMAGE_09",
+      "que": "This logo with a bitten fruit belongs to which tech company?",
+      "ans": {
+        "value": "Apple",
+        "correct_entity": "option_a"
+      },
+      "options": [
+        "Apple",
+        "Samsung",
+        "Microsoft"
+      ],
+      "expl": [
+        "This bitten fruit logo belongs to the tech company Apple. The Apple logo originally showed Isaac Newton sitting under a tree before being simplified. The current bitten-apple design was created by designer Rob Janoff in 1977. Apple has used variations of this logo since its founding in the 1970s."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "Apple"
+        ],
+        "option_b": [
+          "Samsung"
+        ],
+        "option_c": [
+          "Microsoft"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "GK_IMAGE_09.png",
+      "audioUrl": "",
+      "roundType": "image"
+    },
+    {
+      "id": "GK_IMAGE_10",
+      "que": "This yellow arch logo belongs to which fast-food chain?",
+      "ans": {
+        "value": "McDonald's",
+        "correct_entity": "option_a"
+      },
+      "options": [
+        "McDonald's",
+        "Burger King",
+        "Wendy's"
+      ],
+      "expl": [
+        "This yellow arch logo belongs to the fast-food chain McDonald's. McDonald's golden arches are recognized in over 100 countries. The chain was founded in the United States in the 1940s before expanding globally. McDonald's golden arches are considered one of the most recognizable brand symbols in the world."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "McDonald's",
+          "mcdonald",
+          "mac d."
+        ],
+        "option_b": [
+          "Burger King",
+          "burger",
+          "king"
+        ],
+        "option_c": [
+          "Wendy's",
+          "wendies",
+          "wendys"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "GK_IMAGE_10.png",
+      "audioUrl": "",
+      "roundType": "image"
+    },
+    {
+      "id": "GK_IMAGE_11",
+      "que": "Which everyday object is shown here, used to tell time?",
+      "ans": {
+        "value": "Clock",
+        "correct_entity": "option_a"
+      },
+      "options": [
+        "Clock",
+        "Compass",
+        "Calendar"
+      ],
+      "expl": [
+        "This everyday object, used to tell time, is a clock. The oldest known clocks used shadows from the sun to track time. Mechanical clocks were developed in Europe by the 14th century, using gears and weights. Modern clocks now rely on quartz crystals or digital signals for precise timekeeping."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "Clock",
+          "watch"
+        ],
+        "option_b": [
+          "Compass"
+        ],
+        "option_c": [
+          "Calendar"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "GK_IMAGE_11.jpg",
+      "audioUrl": "",
+      "roundType": "image"
+    },
+    {
+      "id": "GK_IMAGE_12",
+      "que": "What object, used to protect from rain, is shown here?",
+      "ans": {
+        "value": "Umbrella",
+        "correct_entity": "option_a"
+      },
+      "options": [
+        "Umbrella",
+        "Raincoat",
+        "Tent"
+      ],
+      "expl": [
+        "This object, used to protect from rain, is an umbrella. Umbrellas were originally used mainly for sun protection, not rain. Ancient versions of umbrellas date back thousands of years to civilizations like Egypt and China. Waterproofing techniques were added later to adapt umbrellas for use in the rain."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "Umbrella"
+        ],
+        "option_b": [
+          "Raincoat",
+          "rain coat"
+        ],
+        "option_c": [
+          "Tent"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "GK_IMAGE_12.jpg",
+      "audioUrl": "",
+      "roundType": "image"
+    },
+    {
+      "id": "GK_IMAGE_13",
+      "que": "This device is used to make calls and browse the internet. What is it?",
+      "ans": {
+        "value": "Smartphone",
+        "correct_entity": "option_a"
+      },
+      "options": [
+        "Smartphone",
+        "Tablet",
+        "Laptop"
+      ],
+      "expl": [
+        "This device, used to make calls and browse the internet, is a smartphone. The first smartphone, IBM Simon, was released in 1994. It combined the features of a mobile phone with early computing and messaging capabilities. Modern smartphones now serve as cameras, computers, and communication devices all in one."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "Smartphone",
+          "smart phone",
+          "mobile"
+        ],
+        "option_b": [
+          "Tablet"
+        ],
+        "option_c": [
+          "Laptop"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "GK_IMAGE_13.jpg",
+      "audioUrl": "",
+      "roundType": "image"
+    },
+    {
+      "id": "GK_IMAGE_14",
+      "que": "This shape has three sides. What is it called?",
+      "ans": {
+        "value": "Triangle",
+        "correct_entity": "option_a"
+      },
+      "options": [
+        "Triangle",
+        "Square",
+        "Pentagon"
+      ],
+      "expl": [
+        "This shape has three sides and is called a triangle. A triangle is the simplest polygon and is used widely in construction for strength. Its rigid structure makes it resistant to bending under pressure, unlike shapes with more sides. Triangles are classified by their side lengths and angles, such as equilateral, isosceles, and right triangles."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "Triangle"
+        ],
+        "option_b": [
+          "Square"
+        ],
+        "option_c": [
+          "Pentagon"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "GK_IMAGE_14.png",
+      "audioUrl": "",
+      "roundType": "image"
+    },
+    {
+      "id": "GK_IMAGE_15",
+      "que": "This colorful flag-like symbol represents which global organization for peace?",
+      "ans": {
+        "value": "United Nations",
+        "correct_entity": "option_a"
+      },
+      "options": [
+        "United Nations",
+        "Red Cross",
+        "UNESCO"
+      ],
+      "expl": [
+        "This colorful flag-like symbol represents the United Nations, a global organization for peace. The UN emblem shows a world map surrounded by olive branches, a symbol of peace. It was adopted shortly after the UN's founding in 1945. The emblem's design intentionally represents unity among all nations of the world."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "United Nations",
+          "united nation"
+        ],
+        "option_b": [
+          "Red Cross",
+          "red",
+          "cross"
+        ],
+        "option_c": [
+          "UNESCO",
+          "uniscope"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "GK_IMAGE_15.png",
+      "audioUrl": "",
+      "roundType": "image"
+    },
+    {
+      "id": "GK_IMAGE_16",
+      "que": "This object with hands and numbers helps you find directions. What is it?",
+      "ans": {
+        "value": "Compass",
+        "correct_entity": "option_a"
+      },
+      "options": [
+        "Compass",
+        "Clock",
+        "Map"
+      ],
+      "expl": [
+        "This object with hands and numbers that helps you find directions is a compass. A compass needle always points toward magnetic north. It relies on Earth's natural magnetic field to indicate direction reliably. Compasses have been used by sailors and travelers for centuries before modern GPS technology existed."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "Compass"
+        ],
+        "option_b": [
+          "Clock"
+        ],
+        "option_c": [
+          "Map"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "GK_IMAGE_16.jpg",
+      "audioUrl": "",
+      "roundType": "image"
+    },
+    {
+      "id": "GK_IMAGE_17",
+      "que": "This colorful spinning toy on a string is called what?",
+      "ans": {
+        "value": "Yo-yo",
+        "correct_entity": "option_a"
+      },
+      "options": [
+        "Yo-yo",
+        "Top",
+        "Kite"
+      ],
+      "expl": [
+        "This colorful spinning toy on a string is a yo-yo. Yo-yos are considered one of the oldest toys in history, dating back over 2,000 years. Ancient depictions of yo-yos have been found in Greek pottery. The modern yo-yo craze took off commercially in the 1920s and 1930s. Skilled players can perform tricks by looping the string in different ways."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "Yo-yo",
+          "yo yo"
+        ],
+        "option_b": [
+          "Top"
+        ],
+        "option_c": [
+          "Kite"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "GK_IMAGE_17.jpg",
+      "audioUrl": "",
+      "roundType": "image"
+    },
+    {
+      "id": "GK_IMAGE_18",
+      "que": "This everyday item helps you see better if you have blurry vision. What is it?",
+      "ans": {
+        "value": "Eyeglasses",
+        "correct_entity": "option_a"
+      },
+      "options": [
+        "Eyeglasses",
+        "Binoculars",
+        "Magnifying glass"
+      ],
+      "expl": [
+        "This everyday item helps you see better if you have blurry vision: eyeglasses. Eyeglasses were invented in Italy in the late 13th century. Early versions were simple convex lenses held in a frame in front of the eyes. Modern eyeglasses now come with specialized lenses for nearsightedness, farsightedness, and other vision needs."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "Eyeglasses",
+          "eye glasses",
+          "eye glass",
+          "i glasses"
+        ],
+        "option_b": [
+          "Binoculars",
+          "binocular"
+        ],
+        "option_c": [
+          "Magnifying glass",
+          "magnifying",
+          "glass",
+          "magnifying grass"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "GK_IMAGE_18.jpg",
+      "audioUrl": "",
+      "roundType": "image"
+    },
+    {
+      "id": "GK_IMAGE_19",
+      "que": "This five-pointed shape is commonly used on flags and in geometry. What is it called?",
+      "ans": {
+        "value": "Star",
+        "correct_entity": "option_a"
+      },
+      "options": [
+        "Star",
+        "Pentagon",
+        "Diamond"
+      ],
+      "expl": [
+        "This five-pointed shape, commonly used on flags and in geometry, is called a star. A five-pointed star is one of the most common symbols on national flags worldwide. It is often used to represent guidance, unity, or aspiration in various cultural contexts. Stars appear on flags from the United States to China, each carrying its own symbolic meaning."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "Star",
+          "stars",
+          "start"
+        ],
+        "option_b": [
+          "Pentagon"
+        ],
+        "option_c": [
+          "Diamond"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "GK_IMAGE_19.png",
+      "audioUrl": "",
+      "roundType": "image"
+    },
+    {
+      "id": "GK_IMAGE_20",
+      "que": "This everyday item with a lens is used to start fires or read tiny text more clearly. What is it?",
+      "ans": {
+        "value": "Magnifying glass",
+        "correct_entity": "option_a"
+      },
+      "options": [
+        "Magnifying glass",
+        "Binoculars",
+        "Telescope"
+      ],
+      "expl": [
+        "This everyday item with a lens is used to start fires or read tiny text more clearly: a magnifying glass. A magnifying glass can focus sunlight into a single hot point strong enough to start a fire. It works by bending light rays through a curved lens to enlarge an image. Magnifying glasses have long been used by scientists, jewelers, and readers to examine small details."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "Magnifying glass",
+          "magnifying",
+          "glass",
+          "magnifying grass"
+        ],
+        "option_b": [
+          "Binoculars",
+          "binocular"
+        ],
+        "option_c": [
+          "Telescope"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "GK_IMAGE_20.jpg",
+      "audioUrl": "",
+      "roundType": "image"
+    },
+    {
+      "id": "GK_IMAGE_22",
+      "que": "This road signal with red, yellow, and green lights tells drivers when to stop and go. What is it?",
+      "ans": {
+        "value": "Traffic light",
+        "correct_entity": "option_a"
+      },
+      "options": [
+        "Traffic light",
+        "Road sign",
+        "Street lamp"
+      ],
+      "expl": [
+        "This road signal with red, yellow, and green lights that tells drivers when to stop and go is a traffic light. The world's first traffic light was installed in London back in 1868, well before cars existed. It was originally designed to help manage horse-drawn carriages and pedestrian traffic. Modern traffic lights now use standardized color sequences recognized almost everywhere in the world."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "Traffic light",
+          "traffic",
+          "light",
+          "signal light"
+        ],
+        "option_b": [
+          "Road sign",
+          "road",
+          "sign",
+          "road sight"
+        ],
+        "option_c": [
+          "Street lamp",
+          "street",
+          "lamp"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "GK_IMAGE_22.jpg",
+      "audioUrl": "",
+      "roundType": "image"
+    },
+    {
+      "id": "GK_IMAGE_23",
+      "que": "This green symbol made of three chasing arrows represents which environmental practice?",
+      "ans": {
+        "value": "Recycling",
+        "correct_entity": "option_a"
+      },
+      "options": [
+        "Recycling",
+        "Composting",
+        "Conservation"
+      ],
+      "expl": [
+        "This green symbol made of three chasing arrows represents recycling. The recycling symbol was designed by a college student in 1970 for a design contest. Each arrow in the symbol represents a step in the process: collecting, processing, and reusing materials. The symbol has since become a universally recognized call to reduce waste."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "Recycling",
+          "cycling",
+          "recycle"
+        ],
+        "option_b": [
+          "Composting",
+          "composing",
+          "somposting",
+          "compost"
+        ],
+        "option_c": [
+          "Conservation"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "GK_IMAGE_23.jpg",
+      "audioUrl": "",
+      "roundType": "image"
+    },
+    {
+      "id": "GK_IMAGE_24",
+      "que": "This icon with curved signal lines represents which type of wireless internet connection?",
+      "ans": {
+        "value": "Wi-Fi",
+        "correct_entity": "option_b"
+      },
+      "options": [
+        "Bluetooth",
+        "Wi-Fi",
+        "Satellite"
+      ],
+      "expl": [
+        "This icon with curved signal lines represents Wi-Fi, a type of wireless internet connection. The term \"Wi-Fi\" doesn't actually stand for anything official; it was chosen simply for its catchy sound. Wi-Fi allows devices to connect to the internet wirelessly using radio waves. It was first introduced commercially in the late 1990s and has since become a global standard."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "Bluetooth"
+        ],
+        "option_b": [
+          "Wi-Fi",
+          "wifi",
+          "wi fi"
+        ],
+        "option_c": [
+          "Satellite"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "GK_IMAGE_24.jpg",
+      "audioUrl": "",
+      "roundType": "image"
+    },
+    {
+      "id": "GK_IMAGE_25",
+      "que": "This rectangular icon with a lightning bolt shows the charge level of what device feature?",
+      "ans": {
+        "value": "battery",
+        "correct_entity": "option_a"
+      },
+      "options": [
+        "battery",
+        "charger",
+        "power outlet"
+      ],
+      "expl": [
+        "This rectangular icon with a lightning bolt shows the charge level of a battery. The very first practical battery was invented by Alessandro Volta in the year 1800. Batteries store chemical energy and convert it into electrical energy when needed. Modern devices commonly use rechargeable lithium-ion batteries for longer-lasting power."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "battery"
+        ],
+        "option_b": [
+          "charger"
+        ],
+        "option_c": [
+          "power outlet",
+          "power",
+          "outlet"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "GK_IMAGE_25.jpg",
+      "audioUrl": "",
+      "roundType": "image"
+    },
+    {
+      "id": "GK_IMAGE_26",
+      "que": "This small metal device with a keyhole is used to secure doors, bags, and lockers. What is it?",
+      "ans": {
+        "value": "padlock",
+        "correct_entity": "option_a"
+      },
+      "options": [
+        "padlock",
+        "latch",
+        "hinge"
+      ],
+      "expl": [
+        "This small metal device with a keyhole, used to secure doors, bags, and lockers, is a padlock. Some of the earliest padlocks date back over 2,000 years to ancient Egypt and Rome. Padlocks work by using a mechanism inside that only a matching key can unlock. Modern padlocks range from simple key-based designs to combination and digital versions."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "padlock",
+          "badlock"
+        ],
+        "option_b": [
+          "latch",
+          "lunch",
+          "batch"
+        ],
+        "option_c": [
+          "hinge",
+          "inch"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "GK_IMAGE_26.jpg",
+      "audioUrl": "",
+      "roundType": "image"
+    },
+    {
+      "id": "GK_IMAGE_27",
+      "que": "This grid of days and months helps people track dates throughout the year. What is it called?",
+      "ans": {
+        "value": "calendar",
+        "correct_entity": "option_a"
+      },
+      "options": [
+        "calendar",
+        "planner",
+        "schedule"
+      ],
+      "expl": [
+        "This grid of days and months that helps people track dates throughout the year is called a calendar. The modern calendar most countries use today is called the Gregorian calendar. It was introduced in 1582 to replace the older Julian calendar, correcting small errors in timekeeping. Calendars have existed in various forms for thousands of years across many civilizations."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "calendar"
+        ],
+        "option_b": [
+          "planner"
+        ],
+        "option_c": [
+          "schedule",
+          "scheduler"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "GK_IMAGE_27.jpg",
+      "audioUrl": "",
+      "roundType": "image"
+    },
+    {
+      "id": "GK_IMAGE_28",
+      "que": "This small container, often shaped like an animal, is used by children to save coins. What is it?",
+      "ans": {
+        "value": "piggy bank",
+        "correct_entity": "option_a"
+      },
+      "options": [
+        "piggy bank",
+        "cash box",
+        "vault"
+      ],
+      "expl": [
+        "This small container, often shaped like an animal, used by children to save coins, is a piggy bank. Piggy banks are named after 'pygg' clay, not the animal, though the shape later became a pig. The original pygg jars were simply clay containers used to store coins centuries ago. Piggy banks remain a popular way to teach children the habit of saving money."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "piggy bank",
+          "piggy",
+          "bank"
+        ],
+        "option_b": [
+          "cash box",
+          "cash",
+          "box"
+        ],
+        "option_c": [
+          "vault"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "GK_IMAGE_28.jpg",
+      "audioUrl": "",
+      "roundType": "image"
+    }
+  ],
+  "AUDIO_QUESTIONS": [
+    {
+      "id": "GK_AUDIO_01",
+      "que": "What everyday sound is this?",
+      "ans": {
+        "value": "Doorbell",
+        "correct_entity": "option_a"
+      },
+      "options": [
+        "Doorbell",
+        "Alarm clock",
+        "Phone ringtone"
+      ],
+      "expl": [
+        "This everyday sound is a doorbell. The first electric doorbell was invented in 1831. Doorbells alert homeowners to visitors without needing them to knock. Modern doorbells often include video cameras for added home security."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "Doorbell"
+        ],
+        "option_b": [
+          "Alarm clock",
+          "alarm",
+          "clock"
+        ],
+        "option_c": [
+          "Phone ringtone",
+          "phone",
+          "ringtone"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": "GK_AUDIO_01.mp3",
+      "roundType": "audio"
+    },
+    {
+      "id": "GK_AUDIO_02",
+      "que": "Can you identify this sound of which emotion?",
+      "ans": {
+        "value": "Laughing",
+        "correct_entity": "option_b"
+      },
+      "options": [
+        "Crying",
+        "Laughing",
+        "Anger"
+      ],
+      "expl": [
+        "This sound identifies the emotion laughing. Laughing for 10 to 15 minutes burns about 50 calories. Laughter also triggers the release of endorphins, which can improve mood and reduce stress. Studies suggest laughter can even provide mild cardiovascular benefits, similar to light exercise."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "Crying",
+          "frying",
+          "cry"
+        ],
+        "option_b": [
+          "Laughing",
+          "laugh"
+        ],
+        "option_c": [
+          "Anger",
+          "angry"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": "GK_AUDIO_02.mp3",
+      "roundType": "audio"
+    },
+    {
+      "id": "GK_AUDIO_03",
+      "que": "What sound is a car making here to warn others?",
+      "ans": {
+        "value": "Car horn",
+        "correct_entity": "option_b"
+      },
+      "options": [
+        "Car alarm",
+        "Car horn",
+        "Engine revving"
+      ],
+      "expl": [
+        "This sound a car makes to warn others is the car horn. In many countries, honking is required in specific traffic situations by law. Car horns were originally mechanical, hand-squeezed bulbs before electric versions appeared. Excessive or unnecessary honking is restricted or fined in many cities. Horn sounds vary by vehicle, from cars to trucks and even trains."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "Car alarm",
+          "alarm"
+        ],
+        "option_b": [
+          "Car horn",
+          "horn"
+        ],
+        "option_c": [
+          "Engine revving",
+          "engine revin",
+          "engine"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": "GK_AUDIO_03.mp3",
+      "roundType": "audio"
+    },
+    {
+      "id": "GK_AUDIO_04",
+      "que": "What household device makes this beeping sound to wake you up?",
+      "ans": {
+        "value": "Alarm clock",
+        "correct_entity": "option_a"
+      },
+      "options": [
+        "Alarm clock",
+        "Microwave",
+        "Timer"
+      ],
+      "expl": [
+        "This household device with a beeping sound is an alarm clock. The first mechanical alarm clock was invented in 1787 by Levi Hutchins. Early alarm clocks could only ring at one preset time, 4 a.m. Modern alarm clocks offer customizable times, sounds, and snooze functions. Smartphones have largely replaced standalone alarm clocks for most people today."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "Alarm clock"
+        ],
+        "option_b": [
+          "Microwave"
+        ],
+        "option_c": [
+          "Timer"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": "GK_AUDIO_04.mp3",
+      "roundType": "audio"
+    },
+    {
+      "id": "GK_AUDIO_05",
+      "que": "What sound does this device make when a photo is taken?",
+      "ans": {
+        "value": "Camera shutter",
+        "correct_entity": "option_a"
+      },
+      "options": [
+        "Camera shutter",
+        "Printer",
+        "Scanner"
+      ],
+      "expl": [
+        "This sound a device makes when a photo is taken is the camera shutter. Many smartphone cameras add an artificial shutter sound since they have no mechanical shutter. The sound mimics older film cameras' physical shutter mechanism opening and closing. Professional cameras still use real mechanical shutters that produce this sound naturally."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "Camera shutter"
+        ],
+        "option_b": [
+          "Printer"
+        ],
+        "option_c": [
+          "Scanner"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": "GK_AUDIO_05.mp3",
+      "roundType": "audio"
+    },
+    {
+      "id": "GK_AUDIO_06",
+      "que": "What snack is being made with this popping sound?",
+      "ans": {
+        "value": "Popcorn",
+        "correct_entity": "option_c"
+      },
+      "options": [
+        "Candy",
+        "Chips",
+        "Popcorn"
+      ],
+      "expl": [
+        "This snack made with a popping sound is popcorn. Popcorn pops when the water inside the kernel turns to steam and bursts the shell. Only certain corn varieties have kernels that pop this way. Popcorn has been enjoyed as a snack for thousands of years. It's one of the most popular snacks eaten at movie theaters worldwide."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "Candy"
+        ],
+        "option_b": [
+          "Chips"
+        ],
+        "option_c": [
+          "Popcorn"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": "GK_AUDIO_06.mp3",
+      "roundType": "audio"
+    },
+    {
+      "id": "GK_AUDIO_07",
+      "que": "What is this squeaky sound made by a stretched rubber object?",
+      "ans": {
+        "value": "Electic Balloon machine",
+        "correct_entity": "option_b"
+      },
+      "options": [
+        "Rubber band",
+        "Electic Balloon machine",
+        "Whistle"
+      ],
+      "expl": [
+        "This squeaky sound made by a stretched rubber object is a balloon. The first modern rubber balloons were made in London in 1824. Balloons stretch and squeak due to friction as rubber molecules slide against each other. They're commonly filled with air or helium for celebrations and decorations. Balloons can also be used in science and weather-tracking equipment."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "Rubber band"
+        ],
+        "option_b": [
+          "Electic Balloon machine",
+          "ballon",
+          "balloons",
+          "electric balloon machine"
+        ],
+        "option_c": [
+          "Whistle"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": "GK_AUDIO_07.mp3",
+      "roundType": "audio"
+    },
+    {
+      "id": "GK_AUDIO_08",
+      "que": "What device is making this rapid clicking/tapping sound?",
+      "ans": {
+        "value": "Keyboard typing",
+        "correct_entity": "option_a"
+      },
+      "options": [
+        "Keyboard typing",
+        "ATM machine",
+        "Blender"
+      ],
+      "expl": [
+        "This rapid clicking/tapping sound comes from keyboard typing. The QWERTY keyboard layout was designed in the 1870s. The clicking sound comes from keys physically striking their switches. Mechanical keyboards tend to be louder than modern quiet membrane keyboards. Typing speed is often measured in words per minute (WPM)."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "Keyboard typing"
+        ],
+        "option_b": [
+          "ATM machine",
+          "eight a.m. machine",
+          "a. t. m. machine",
+          "eight tm machine"
+        ],
+        "option_c": [
+          "Blender"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": "GK_AUDIO_08.mp3",
+      "roundType": "audio"
+    },
+    {
+      "id": "GK_AUDIO_09",
+      "que": "What sound does this shop counter machine make when completing a sale?",
+      "ans": {
+        "value": "Cash register",
+        "correct_entity": "option_b"
+      },
+      "options": [
+        "Alarm clock",
+        "Cash register",
+        "Vending machine"
+      ],
+      "expl": [
+        "This sound a shop counter machine makes when completing a sale is a cash register. Early cash registers were invented in 1879 to stop employee theft. The classic \"cha-ching\" sound became associated with a successful sale. Modern registers are often digital, integrated with computers and card payments. Early mechanical registers used a bell to alert store owners to each transaction."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "Alarm clock"
+        ],
+        "option_b": [
+          "Cash register"
+        ],
+        "option_c": [
+          "Vending machine"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": "GK_AUDIO_09.mp3",
+      "roundType": "audio"
+    },
+    {
+      "id": "GK_AUDIO_10",
+      "que": "What kitchen appliance makes this loud whirring sound?",
+      "ans": {
+        "value": "Blender",
+        "correct_entity": "option_a"
+      },
+      "options": [
+        "Blender",
+        "Microwave",
+        "Toaster"
+      ],
+      "expl": [
+        "This kitchen appliance with a loud whirring sound is a blender. The first electric blender was invented in 1922. Blenders use spinning blades to mix, puree, or crush ingredients quickly. They're commonly used for smoothies, soups, and sauces"
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "Blender"
+        ],
+        "option_b": [
+          "Microwave"
+        ],
+        "option_c": [
+          "Toaster"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": "GK_AUDIO_10.mp3",
+      "roundType": "audio"
+    },
+    {
+      "id": "GK_AUDIO_11",
+      "que": "What is this quick sound, often heard when closing a jacket or bag?",
+      "ans": {
+        "value": "zipper",
+        "correct_entity": "option_a"
+      },
+      "options": [
+        "zipper",
+        "button",
+        "Velcro"
+      ],
+      "expl": [
+        "This quick sound, often heard when closing a jacket or bag, is a zipper. Zippers were originally called 'hookless fasteners' when first introduced. They were patented in the late 19th century but took decades to become widely used in clothing. Zippers work by interlocking teeth pulled together by a sliding tab."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "zipper",
+          "sliper",
+          "slipper"
+        ],
+        "option_b": [
+          "button"
+        ],
+        "option_c": [
+          "Velcro",
+          "well grow",
+          "well crow"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": "GK_AUDIO_11.mp3",
+      "roundType": "audio"
+    },
+    {
+      "id": "GK_AUDIO_12",
+      "que": "What sound is this, made when cutting through paper?",
+      "ans": {
+        "value": "Scissors cutting",
+        "correct_entity": "option_a"
+      },
+      "options": [
+        "Scissors cutting",
+        "Tearing paper",
+        "stapler"
+      ],
+      "expl": [
+        "This sound, made when cutting through paper, is scissors cutting. Ancient versions of scissors date back over 3,000 years to ancient Egypt. Early scissors used a spring mechanism instead of the pivoted design common today. Modern scissors come in many specialized forms, from fabric shears to surgical scissors."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "Scissors cutting",
+          "scissor cutting",
+          "cutting",
+          "scissor's cutting",
+          "scissors",
+          "scissor's",
+          "scissor"
+        ],
+        "option_b": [
+          "Tearing paper",
+          "paper",
+          "tearing",
+          "caring paper",
+          "caring",
+          "paper tearing"
+        ],
+        "option_c": [
+          "stapler"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": "GK_AUDIO_12.mp3",
+      "roundType": "audio"
+    },
+    {
+      "id": "GK_AUDIO_13",
+      "que": "This small ringing sound is commonly mounted on which two-wheeled vehicle?",
+      "ans": {
+        "value": "bicycle bell",
+        "correct_entity": "option_a"
+      },
+      "options": [
+        "bicycle bell",
+        "scooter horn",
+        "Car Horn"
+      ],
+      "expl": [
+        "This small ringing sound is commonly mounted on a bicycle. Bicycle bells were required by law in many cities during the early 1900s. They provide a simple, effective way for cyclists to alert pedestrians and other road users. Modern bicycle bells range from simple mechanical dome bells to electronic versions."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "bicycle bell",
+          "bicycle",
+          "bell",
+          "cycle bell",
+          "cycle"
+        ],
+        "option_b": [
+          "scooter horn",
+          "scooter",
+          "scooty"
+        ],
+        "option_c": [
+          "Car Horn",
+          "car"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": "GK_AUDIO_13.mp3",
+      "roundType": "audio"
+    },
+    {
+      "id": "GK_AUDIO_14",
+      "que": "What steady ticking sound is this, commonly heard from an old-fashioned wall or desk clock?",
+      "ans": {
+        "value": "clock ticking",
+        "correct_entity": "option_a"
+      },
+      "options": [
+        "clock ticking",
+        "metronome",
+        "timer"
+      ],
+      "expl": [
+        "This steady ticking sound is commonly heard from an old-fashioned wall or desk clock. Mechanical clocks tick because of a gear mechanism called an escapement. This mechanism regulates the release of energy from the clock's spring or weights at a steady rate. Modern quartz clocks are often silent, relying on vibrating crystals instead of mechanical gears."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "clock ticking",
+          "clock",
+          "ticking"
+        ],
+        "option_b": [
+          "metronome",
+          "metro nom",
+          "metro",
+          "metro name"
+        ],
+        "option_c": [
+          "timer"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": "GK_AUDIO_14.mp3",
+      "roundType": "audio"
+    },
+    {
+      "id": "GK_AUDIO_15",
+      "que": "Which household object makes this sound when pressed to spray water?",
+      "ans": {
+        "value": "Spray bottle",
+        "correct_entity": "option_a"
+      },
+      "options": [
+        "Spray bottle",
+        "Water tap",
+        "Electric kettle"
+      ],
+      "expl": [
+        "This household object makes a sound when pressed to spray water: a spray bottle. Spray bottles are used for everything from gardening to cleaning and hairstyling. They work using a small pump mechanism that pressurizes liquid to release it in a fine mist. Spray bottles are a simple, reusable tool found in almost every household."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "Spray bottle",
+          "spray",
+          "bottle"
+        ],
+        "option_b": [
+          "Water tap",
+          "water",
+          "tap",
+          "tap water"
+        ],
+        "option_c": [
+          "Electric kettle",
+          "electric",
+          "kettle"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": "GK_AUDIO_15.mp3",
+      "roundType": "audio"
+    },
+    {
+      "id": "GK_AUDIO_16",
+      "que": "What clinking sound is this, heard when frozen cubes are dropped into a drink?",
+      "ans": {
+        "value": "Ice cubes in a glass",
+        "correct_entity": "option_a"
+      },
+      "options": [
+        "Ice cubes in a glass",
+        "Coins jingling",
+        "Marbles rolling"
+      ],
+      "expl": [
+        "This clinking sound is heard when frozen cubes are dropped into a drink: ice cubes in a glass. Ice floats in drinks because frozen water is actually less dense than liquid water. This is fairly unusual, since most substances become denser, not less dense, when they freeze. Ice is commonly used to chill beverages quickly without diluting them too fast."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "Ice cubes in a glass",
+          "ice cube in a class",
+          "ice cube in a glass",
+          "ice cube in glass",
+          "ice",
+          "eyes",
+          "ice cubes",
+          "eyes cubes",
+          "glass",
+          "cubes in a glass",
+          "cube in a glass"
+        ],
+        "option_b": [
+          "Coins jingling",
+          "coin",
+          "coin jingling",
+          "coins",
+          "jingling"
+        ],
+        "option_c": [
+          "Marbles rolling",
+          "marvel's rolling",
+          "marble rolling",
+          "marvel rolling",
+          "marvel's",
+          "marble",
+          "marbles",
+          "rolling"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": "GK_AUDIO_16.mp3",
+      "roundType": "audio"
+    },
+    {
+      "id": "GK_AUDIO_17",
+      "que": "What satisfying popping sound is this, often used to relieve stress?",
+      "ans": {
+        "value": "Bubble wrap popping",
+        "correct_entity": "option_a"
+      },
+      "options": [
+        "Bubble wrap popping",
+        "Balloons popping",
+        "Knuckles cracking"
+      ],
+      "expl": [
+        "This satisfying popping sound, often used to relieve stress, is bubble wrap popping. Bubble wrap was originally invented in 1957 as a textured wallpaper, not packaging. It was later repurposed as protective packaging material after the wallpaper idea failed commercially. Popping bubble wrap is now often used as a simple, satisfying stress-relief activity."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "Bubble wrap popping",
+          "bubble wrap drop in",
+          "bubble",
+          "bubble wrap"
+        ],
+        "option_b": [
+          "Balloons popping",
+          "ballon popping",
+          "balloons",
+          "balloon"
+        ],
+        "option_c": [
+          "Knuckles cracking",
+          "knuckle cracking",
+          "knuckle",
+          "knuckles",
+          "cracking"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": "GK_AUDIO_17.mp3",
+      "roundType": "audio"
+    },
+    {
+      "id": "GK_AUDIO_18",
+      "que": "What loud crackling and booming sound lights up the night sky during celebrations?",
+      "ans": {
+        "value": "Fireworks",
+        "correct_entity": "option_a"
+      },
+      "options": [
+        "Fireworks",
+        "Thunder",
+        "cannon salute"
+      ],
+      "expl": [
+        "This loud crackling and booming sound lights up the night sky during celebrations: fireworks. Fireworks were first invented in ancient China over a thousand years ago. They were originally created using gunpowder-filled bamboo tubes. Different chemical compounds are used today to produce fireworks' varied colors and effects."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "Fireworks",
+          "firework",
+          "fire works"
+        ],
+        "option_b": [
+          "Thunder",
+          "thanda"
+        ],
+        "option_c": [
+          "cannon salute",
+          "cannon",
+          "salute",
+          "canon salute",
+          "canon"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": "GK_AUDIO_18.mp3",
+      "roundType": "audio"
+    },
+    {
+      "id": "GK_AUDIO_19",
+      "que": "What short chiming sound is this, alerting you to a new message on your phone?",
+      "ans": {
+        "value": "notification ping",
+        "correct_entity": "option_a"
+      },
+      "options": [
+        "notification ping",
+        "ringtone",
+        "alarm"
+      ],
+      "expl": [
+        "This short chiming sound alerts you to a new message on your phone: a notification ping. Many smartphones let users customize this sound for different apps or contacts. Notification sounds are designed to be noticeable without being overly jarring. Some people choose to silence notifications entirely to reduce distractions throughout the day."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "notification ping",
+          "notification",
+          "ping",
+          "pink",
+          "notification pink",
+          "notification sound"
+        ],
+        "option_b": [
+          "ringtone"
+        ],
+        "option_c": [
+          "alarm"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": "GK_AUDIO_19.mp3",
+      "roundType": "audio"
+    },
+    {
+      "id": "GK_AUDIO_20",
+      "que": "What bubbling, dripping sound is this, made by a machine brewing a hot morning drink?",
+      "ans": {
+        "value": "coffee machine",
+        "correct_entity": "option_a"
+      },
+      "options": [
+        "coffee machine",
+        "Frother",
+        "water dispenser"
+      ],
+      "expl": [
+        "This bubbling, dripping sound is made by a machine brewing a hot morning drink: a coffee machine. Coffee is one of the most traded commodities in the entire world. Coffee machines work by forcing hot water through ground coffee beans to extract flavor. Different brewing methods, from drip machines to espresso makers, produce distinctly different tastes and strengths."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "coffee machine",
+          "coffee",
+          "machine",
+          "copy machine",
+          "copy"
+        ],
+        "option_b": [
+          "Frother",
+          "father",
+          "brother",
+          "mother",
+          "further"
+        ],
+        "option_c": [
+          "water dispenser",
+          "water",
+          "dispenser",
+          "what a dispenser"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": "GK_AUDIO_20.mp3",
+      "roundType": "audio"
+    }
+  ]
+}

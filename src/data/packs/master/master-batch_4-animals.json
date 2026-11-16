@@ -1,0 +1,350 @@
+{
+  "TEXT_QUESTIONS": [
+    {
+      "id": "animals_B4_01",
+      "que": "What breed of dog is Scooby-Doo?",
+      "ans": {
+        "value": "Great Dane",
+        "correct_entity": "option_b"
+      },
+      "options": [
+        "Golden Retriever",
+        "Great Dane",
+        "Border Collie"
+      ],
+      "expl": [
+        "Scooby-Doo, from the 1969 show \"Scooby-Doo, Where Are You?\", is a beloved Great Dane with human-like traits. With friends, he solves mysteries using the Mystery Machine van. Despite being fictional, his age surpasses real Great Danes' 8-10 year lifespan."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "Golden Retriever",
+          "golden",
+          "retriever"
+        ],
+        "option_b": [
+          "Great Dane",
+          "great",
+          "dane",
+          "great day"
+        ],
+        "option_c": [
+          "Border Collie",
+          "border",
+          "collie"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": ""
+    },
+    {
+      "id": "animals_B4_02",
+      "que": "The Bahamas are home to a beach inhabited by which animals?",
+      "ans": {
+        "value": "Pigs",
+        "correct_entity": "option_c"
+      },
+      "options": [
+        "Hippos",
+        "Goats",
+        "Pigs"
+      ],
+      "expl": [
+        "Pig Island, or Big Major Cay, is a stunning tropical getaway in the Bahamas' Exuma Cays. It's renowned for its extraordinary residents: a group of wild swimming pigs. Amidst turquoise waters and white beaches, visitors can enjoy a unique encounter as these sociable pigs swim out to greet them, accustomed to human interaction and treats."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "Hippos",
+          "hippo",
+          "hippopotamus",
+          "hippopo"
+        ],
+        "option_b": [
+          "Goats",
+          "goat"
+        ],
+        "option_c": [
+          "Pigs",
+          "pig"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": ""
+    },
+    {
+      "id": "animals_B4_03",
+      "que": "Which land animal has the largest teeth?",
+      "ans": {
+        "value": "Hippopotamus",
+        "correct_entity": "option_a"
+      },
+      "options": [
+        "Hippopotamus",
+        "Rhinoceros",
+        "Brown bear"
+      ],
+      "expl": [
+        "The Hippopotamus is a massive herbivore with a weight of up to 4.5 tons. Despite being plant-eaters, they possess a full set of diverse teeth, including large incisors and canines that can grow up to 1.2 to 1.5 feet in length."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "Hippopotamus",
+          "hippos",
+          "hippo",
+          "hippopo"
+        ],
+        "option_b": [
+          "Rhinoceros",
+          "rhino"
+        ],
+        "option_c": [
+          "Brown bear",
+          "brown",
+          "bear"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": ""
+    },
+    {
+      "id": "animals_B4_04",
+      "que": "A bind is a group of what type of fish?",
+      "ans": {
+        "value": "Salmon",
+        "correct_entity": "option_b"
+      },
+      "options": [
+        "Tuna",
+        "Salmon",
+        "Sardines"
+      ],
+      "expl": [
+        "A bind refers to a group of sardines. Sardines are small, oily fish that often travel in large schools. The term \"bind\" is commonly used to describe their clustered movement patterns in the water."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "Tuna"
+        ],
+        "option_b": [
+          "Salmon",
+          "salman"
+        ],
+        "option_c": [
+          "Sardines",
+          "sardine"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": ""
+    },
+    {
+      "id": "animals_B4_05",
+      "que": "What color are Dalmatian puppies when they are born?",
+      "ans": {
+        "value": "White",
+        "correct_entity": "option_c"
+      },
+      "options": [
+        "Black",
+        "Brown",
+        "White"
+      ],
+      "expl": [
+        "Dalmatian puppies are born completely white. Their distinctive black or liver spots develop as they grow older, usually within the first few weeks to months of life."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "Black"
+        ],
+        "option_b": [
+          "Brown"
+        ],
+        "option_c": [
+          "White"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": ""
+    },
+    {
+      "id": "animals_B4_06",
+      "que": "Which bird has the unique habit of turning its head upside down to feed?",
+      "ans": {
+        "value": "Flamingo",
+        "correct_entity": "option_c"
+      },
+      "options": [
+        "Hummingbird",
+        "Pelican",
+        "Flamingo"
+      ],
+      "expl": [
+        "The flamingo is well-known for its habit of eating with its head upside-down. This behavior is largely due to the structure of its mouth and the logistics of lowering its long, graceful neck into the water. This behavior allows flamingos to feed effectively in their natural habitat, but it has ramifications in other aspects of their lives."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "Hummingbird",
+          "humming bird"
+        ],
+        "option_b": [
+          "Pelican"
+        ],
+        "option_c": [
+          "Flamingo",
+          "flamingos"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": ""
+    },
+    {
+      "id": "animals_B4_07",
+      "que": "What animal produces its sun tan lotion?",
+      "ans": {
+        "value": "Hippopotamus",
+        "correct_entity": "option_c"
+      },
+      "options": [
+        "Dolphin",
+        "Elephant",
+        "Hippopotamus"
+      ],
+      "expl": [
+        "The mucus secretion on a hippo's body not only helps control their body temperature, but also acts as a potent sunscreen and antibiotic. The thick and sticky mixture is tough enough to survive the hippos' daylong soaks as it continues to protect against sunlight in both the ultraviolet and visible range."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "Dolphin",
+          "dolphins"
+        ],
+        "option_b": [
+          "Elephant",
+          "elephants"
+        ],
+        "option_c": [
+          "Hippopotamus",
+          "hippos",
+          "hippo",
+          "hippopo"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": ""
+    },
+    {
+      "id": "animals_B4_08",
+      "que": "Which organ do fish NOT have?",
+      "ans": {
+        "value": "Lungs",
+        "correct_entity": "option_c"
+      },
+      "options": [
+        "Heart",
+        "Liver",
+        "Lungs"
+      ],
+      "expl": [
+        "Fish do not possess lungs as their respiratory system. Instead, they rely on gills to extract oxygen from water. While mammals, including humans, have lungs to breathe air, fish have evolved gills to facilitate respiration underwater. This adaptation enables them to extract dissolved oxygen from water and thrive in their aquatic habitats."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "Heart"
+        ],
+        "option_b": [
+          "Liver",
+          "livers"
+        ],
+        "option_c": [
+          "Lungs",
+          "lung"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": ""
+    },
+    {
+      "id": "animals_B4_09",
+      "que": "What type of tooth is an elephant's tusk?",
+      "ans": {
+        "value": "Incisor",
+        "correct_entity": "option_c"
+      },
+      "options": [
+        "Canine",
+        "Molar",
+        "Incisor"
+      ],
+      "expl": [
+        "An elephant's tusk is a lengthened incisor tooth, used for digging, lifting, and defense. Made of dentin with enamel at the tip, tusks grow lifelong, crucial for survival and social bonds in the elephant herd."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "Canine",
+          "k. nine",
+          "canie",
+          "kanine"
+        ],
+        "option_b": [
+          "Molar",
+          "mulan"
+        ],
+        "option_c": [
+          "Incisor"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": ""
+    },
+    {
+      "id": "animals_B4_10",
+      "que": "Which bird lays distinctly blue eggs?",
+      "ans": {
+        "value": "Robin",
+        "correct_entity": "option_a"
+      },
+      "options": [
+        "Robin",
+        "Nightingale",
+        "Swallow"
+      ],
+      "expl": [
+        "The bird that lays distinctly blue eggs is the American Robin (Turdus migratorius). Its eggs are known for their beautiful turquoise color, standing out against the typical white or speckled eggs of other bird species. This unique trait helps the robin's eggs blend with the sky, providing camouflage and protection from predators."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "Robin",
+          "drop in"
+        ],
+        "option_b": [
+          "Nightingale"
+        ],
+        "option_c": [
+          "Swallow"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": ""
+    }
+  ],
+  "IMAGE_QUESTIONS": [],
+  "AUDIO_QUESTIONS": []
+}

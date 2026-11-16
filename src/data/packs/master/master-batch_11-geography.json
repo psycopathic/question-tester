@@ -1,0 +1,2712 @@
+{
+  "TEXT_QUESTIONS": [
+    {
+      "id": "GEO_TEXT_01",
+      "que": "Which is the largest ocean on Earth by surface area?",
+      "ans": {
+        "value": "Pacific Ocean",
+        "correct_entity": "option_b"
+      },
+      "options": [
+        "Atlantic Ocean",
+        "Pacific Ocean",
+        "Indian Ocean"
+      ],
+      "expl": [
+        "The Pacific Ocean is the largest and deepest ocean on Earth, covering more area than all of Earth's landmasses combined. It spans roughly 165 million square kilometers, nearly a third of the planet's surface. Its deepest point, the Mariana Trench, plunges almost 11 kilometers down."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "Atlantic Ocean",
+          "atlantic"
+        ],
+        "option_b": [
+          "Pacific Ocean",
+          "pacific",
+          "specific ocean",
+          "the specific ocean"
+        ],
+        "option_c": [
+          "Indian Ocean",
+          "indian"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": "",
+      "roundType": "text"
+    },
+    {
+      "id": "GEO_TEXT_02",
+      "que": "Which country is home to the Great Barrier Reef?",
+      "ans": {
+        "value": "Australia",
+        "correct_entity": "option_a"
+      },
+      "options": [
+        "Australia",
+        "Indonesia",
+        "Philippines"
+      ],
+      "expl": [
+        "The Great Barrier Reef is located in Australia. It is the largest living structure on Earth and is even visible from space. The reef stretches over 2,300 kilometers along Australia's northeastern coast. Rising ocean temperatures have caused repeated coral bleaching events that threaten the reef's health."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "Australia"
+        ],
+        "option_b": [
+          "Indonesia"
+        ],
+        "option_c": [
+          "Philippines",
+          "philiphines",
+          "phili pines"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": "",
+      "roundType": "text"
+    },
+    {
+      "id": "GEO_TEXT_03",
+      "que": "What is the capital city of Canada?",
+      "ans": {
+        "value": "Ottawa",
+        "correct_entity": "option_c"
+      },
+      "options": [
+        "Toronto",
+        "Vancouver",
+        "Ottawa"
+      ],
+      "expl": [
+        "Ottawa is the capital city of Canada. It was chosen as the capital partly because of its safe distance from the US border. Queen Victoria selected Ottawa as the capital in 1857, partly to compromise between rival cities Toronto and Montreal. The city sits at the junction of the Ottawa, Gatineau, and Rideau Rivers."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "Toronto",
+          "to ronto"
+        ],
+        "option_b": [
+          "Vancouver",
+          "vancover",
+          "van couver",
+          "van cover"
+        ],
+        "option_c": [
+          "Ottawa",
+          "otava",
+          "ottava"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": "",
+      "roundType": "text"
+    },
+    {
+      "id": "GEO_TEXT_04",
+      "que": "Which African country was formerly known as Abyssinia?",
+      "ans": {
+        "value": "Ethiopia",
+        "correct_entity": "option_a"
+      },
+      "options": [
+        "Ethiopia",
+        "Kenya",
+        "Sudan"
+      ],
+      "expl": [
+        "Ethiopia was formerly known as Abyssinia. It is one of the only African nations never to be colonized by a European power. Ethiopia successfully repelled an Italian invasion attempt at the Battle of Adwa in 1896. The country uses its own calendar, which runs about seven to eight years behind the Gregorian calendar."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "Ethiopia",
+          "ethi o pia"
+        ],
+        "option_b": [
+          "Kenya"
+        ],
+        "option_c": [
+          "Sudan",
+          "sweden"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": "",
+      "roundType": "text"
+    },
+    {
+      "id": "GEO_TEXT_05",
+      "que": "Which canal connects the Atlantic and Pacific Oceans?",
+      "ans": {
+        "value": "Panama Canal",
+        "correct_entity": "option_b"
+      },
+      "options": [
+        "Suez Canal",
+        "Panama Canal",
+        "Corinth Canal"
+      ],
+      "expl": [
+        "The Panama Canal connects the Atlantic and Pacific Oceans. Ships save about 8,000 nautical miles by using it instead of sailing around South America. The canal opened in 1914 after a construction effort that took over a decade. It uses a system of locks to raise and lower ships between sea level and Gatun Lake."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "Suez Canal",
+          "suzz canal",
+          "suz canal",
+          "sue canal",
+          "shoes canal",
+          "show scanner"
+        ],
+        "option_b": [
+          "Panama Canal",
+          "panamma canal"
+        ],
+        "option_c": [
+          "Corinth Canal",
+          "corent canal"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": "",
+      "roundType": "text"
+    },
+    {
+      "id": "GEO_TEXT_06",
+      "que": "Which continent is home to the largest cold desert on Earth?",
+      "ans": {
+        "value": "Antarctica",
+        "correct_entity": "option_b"
+      },
+      "options": [
+        "Asia",
+        "Antarctica",
+        "Africa"
+      ],
+      "expl": [
+        "Antarctica is home to the largest cold desert on Earth. It counts as a desert because it receives very little precipitation each year. Despite being covered in ice, some regions of Antarctica get less than 50mm of snowfall annually. It holds about 70% of the world's fresh water, locked in its ice sheets."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "Asia"
+        ],
+        "option_b": [
+          "Antarctica"
+        ],
+        "option_c": [
+          "Africa"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": "",
+      "roundType": "text"
+    },
+    {
+      "id": "GEO_TEXT_07",
+      "que": "Which famous river flows through the city of Paris?",
+      "ans": {
+        "value": "Seine",
+        "correct_entity": "option_b"
+      },
+      "options": [
+        "Rhine",
+        "Seine",
+        "Danube"
+      ],
+      "expl": [
+        "The Seine is the famous river that flows through Paris. Over 30 bridges cross the Seine within the city limits of Paris. The riverbanks were designated a UNESCO World Heritage Site in 1991. Many of Paris's most famous landmarks, including the Louvre and Notre-Dame, sit along its banks."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "Rhine",
+          "the rine",
+          "the rime",
+          "ryan",
+          "rhyme"
+        ],
+        "option_b": [
+          "Seine",
+          "the sine",
+          "the seen",
+          "sign",
+          "sine",
+          "seen",
+          "scene",
+          "same"
+        ],
+        "option_c": [
+          "Danube",
+          "the dhanube",
+          "dhanube"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": "",
+      "roundType": "text"
+    },
+    {
+      "id": "GEO_TEXT_08",
+      "que": "Which is the largest country in the world by land area?",
+      "ans": {
+        "value": "Russia",
+        "correct_entity": "option_b"
+      },
+      "options": [
+        "Canada",
+        "Russia",
+        "China"
+      ],
+      "expl": [
+        "Russia is the largest country in the world by land area, covering over 17 million square kilometers. It spans eleven time zones, more than any other nation on Earth. Russia borders 14 countries, more than any nation except China. Much of Siberia remains sparsely populated due to its harsh climate. The country stretches across two continents, Europe and Asia, divided by the Ural Mountains."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "Canada"
+        ],
+        "option_b": [
+          "Russia"
+        ],
+        "option_c": [
+          "China"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": "",
+      "roundType": "text"
+    },
+    {
+      "id": "GEO_TEXT_09",
+      "que": "Which desert is the largest hot desert in the world?",
+      "ans": {
+        "value": "Sahara",
+        "correct_entity": "option_c"
+      },
+      "options": [
+        "Gobi",
+        "Kalahari",
+        "Sahara"
+      ],
+      "expl": [
+        "The Sahara is the largest hot desert in the world, roughly the size of the entire United States. It covers most of North Africa, spanning parts of 11 countries. Only about 25% of the Sahara is covered in dunes; the rest is rocky plateau and gravel plains. Temperatures can swing from over 50°C by day to near freezing at night."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "Gobi",
+          "kobi",
+          "goby",
+          "koby",
+          "copy",
+          "coby",
+          "cobi"
+        ],
+        "option_b": [
+          "Kalahari"
+        ],
+        "option_c": [
+          "Sahara"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": "",
+      "roundType": "text"
+    },
+    {
+      "id": "GEO_TEXT_10",
+      "que": "What is the longest river in the world?",
+      "ans": {
+        "value": "Nile",
+        "correct_entity": "option_c"
+      },
+      "options": [
+        "Amazon",
+        "Kongo",
+        "Nile"
+      ],
+      "expl": [
+        "The Nile is widely considered the longest river in the world, flowing through eleven African countries. It stretches about 6,650 kilometers from its sources to the Mediterranean Sea. Ancient Egyptian civilization depended on the Nile's annual floods to fertilize farmland. Unusually for a major river, it flows northward into the Mediterranean rather than toward the equator."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "Amazon"
+        ],
+        "option_b": [
+          "Kongo"
+        ],
+        "option_c": [
+          "Nile",
+          "nine"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": "",
+      "roundType": "text"
+    },
+    {
+      "id": "GEO_TEXT_11",
+      "que": "Mount Everest sits on the border of Nepal and which other country?",
+      "ans": {
+        "value": "China",
+        "correct_entity": "option_b"
+      },
+      "options": [
+        "India",
+        "China",
+        "Bhutan"
+      ],
+      "expl": [
+        "Mount Everest sits on the border between Nepal and China (Tibet), in the Himalayas. It is called Sagarmatha in Nepali and Chomolungma in Tibetan. Its summit stands 8,849 meters above sea level, the highest point on Earth. The mountain grows a few millimeters each year due to ongoing tectonic activity. The first confirmed ascent was made by Sir Edmund Hillary and Tenzing Norgay in 1953."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "India"
+        ],
+        "option_b": [
+          "China"
+        ],
+        "option_c": [
+          "Bhutan",
+          "butan"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": "",
+      "roundType": "text"
+    },
+    {
+      "id": "GEO_TEXT_12",
+      "que": "Which country has more natural lakes than any other in the world?",
+      "ans": {
+        "value": "Canada",
+        "correct_entity": "option_c"
+      },
+      "options": [
+        "Russia",
+        "United States",
+        "Canada"
+      ],
+      "expl": [
+        "Canada has more natural lakes than any other country, holding more freshwater lakes than the rest of the world combined. It's estimated Canada contains around 2 million lakes. The Great Lakes, shared with the US, hold about 21% of the world's surface fresh water. Many of Canada's lakes were carved out by glaciers during the last Ice Age."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "Russia"
+        ],
+        "option_b": [
+          "United States",
+          "U. S. A.",
+          "united state",
+          "U.S"
+        ],
+        "option_c": [
+          "Canada"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": "",
+      "roundType": "text"
+    },
+    {
+      "id": "GEO_TEXT_13",
+      "que": "What is the smallest country in the world?",
+      "ans": {
+        "value": "Vatican City",
+        "correct_entity": "option_a"
+      },
+      "options": [
+        "Vatican City",
+        "San Marino",
+        "Monaco"
+      ],
+      "expl": [
+        "Vatican City is the smallest country in the world, covering just 0.44 square kilometers. It's also the least populous country, home to fewer than 1,000 residents. The Vatican is an independent city-state located entirely within Rome, Italy. It houses St. Peter's Basilica and the Sistine Chapel, masterpieces of Renaissance art. The Pope serves as the head of state for Vatican City."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "Vatican City"
+        ],
+        "option_b": [
+          "San Marino",
+          "san mario",
+          "san marin o.",
+          "san marin",
+          "marino"
+        ],
+        "option_c": [
+          "Monaco",
+          "monica"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": "",
+      "roundType": "text"
+    },
+    {
+      "id": "GEO_TEXT_14",
+      "que": "Which strait separates Asia from North America?",
+      "ans": {
+        "value": "Bering Strait",
+        "correct_entity": "option_c"
+      },
+      "options": [
+        "Strait of Gibraltar",
+        "Strait of Malacca",
+        "Bering Strait"
+      ],
+      "expl": [
+        "The Bering Strait separates Asia from North America, connecting the Pacific and Arctic Oceans. In winter, it can freeze enough for people to cross on foot. At its narrowest point, only about 82 kilometers separate Russia and Alaska. Scientists believe ancient humans crossed a land bridge here to first populate the Americas."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "Strait of Gibraltar",
+          "straight of gibraltar",
+          "gibraltar",
+          "strait of gibralter",
+          "straight of gibralter",
+          "gibralter",
+          "state of gibralter"
+        ],
+        "option_b": [
+          "Strait of Malacca",
+          "state of malaika",
+          "strait of malaika",
+          "rate of malaika"
+        ],
+        "option_c": [
+          "Bering Strait",
+          "bering straight",
+          "hearing strait",
+          "hearing straight"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": "",
+      "roundType": "text"
+    },
+    {
+      "id": "GEO_TEXT_15",
+      "que": "Which African peak is the tallest mountain on the continent?",
+      "ans": {
+        "value": "Mount Kilimanjaro",
+        "correct_entity": "option_b"
+      },
+      "options": [
+        "Mount Kenya",
+        "Mount Kilimanjaro",
+        "Table Mountain"
+      ],
+      "expl": [
+        "Mount Kilimanjaro is the tallest mountain in Africa. It is also the tallest free-standing mountain in the world, not part of a range. Kilimanjaro is located in Tanzania and rises to about 5,895 meters. Despite being near the equator, its summit is capped with snow and glaciers."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "Mount Kenya",
+          "mount kinya",
+          "maunt kenya"
+        ],
+        "option_b": [
+          "Mount Kilimanjaro"
+        ],
+        "option_c": [
+          "Table Mountain"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": "",
+      "roundType": "text"
+    },
+    {
+      "id": "GEO_TEXT_16",
+      "que": "Which South American country contains the majority of the Amazon Rainforest?",
+      "ans": {
+        "value": "Brazil",
+        "correct_entity": "option_c"
+      },
+      "options": [
+        "Peru",
+        "Colombia",
+        "Brazil"
+      ],
+      "expl": [
+        "Brazil contains the majority of the Amazon Rainforest. The Amazon Rainforest produces roughly 20% of the world's oxygen. It spans across nine countries but Brazil holds about 60% of its total area. The rainforest is home to an estimated 10% of all known species on Earth."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "Peru"
+        ],
+        "option_b": [
+          "Colombia"
+        ],
+        "option_c": [
+          "Brazil"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": "",
+      "roundType": "text"
+    },
+    {
+      "id": "GEO_TEXT_17",
+      "que": "Which extremely salty lake is also the lowest point on Earth's land surface?",
+      "ans": {
+        "value": "Dead Sea",
+        "correct_entity": "option_b"
+      },
+      "options": [
+        "Caspian Sea",
+        "Dead Sea",
+        "Lake Baikal"
+      ],
+      "expl": [
+        "The Dead Sea is both extremely salty and the lowest point on Earth's land surface. It is so salty that swimmers can easily float without effort. Its surface sits roughly 430 meters below sea level. The high salt concentration means almost no fish or plant life can survive in its waters."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "Caspian Sea"
+        ],
+        "option_b": [
+          "Dead Sea"
+        ],
+        "option_c": [
+          "Lake Baikal"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": "",
+      "roundType": "text"
+    },
+    {
+      "id": "GEO_TEXT_18",
+      "que": "Which US state is the largest by total land area?",
+      "ans": {
+        "value": "Alaska",
+        "correct_entity": "option_c"
+      },
+      "options": [
+        "Texas",
+        "California",
+        "Alaska"
+      ],
+      "expl": [
+        "Alaska is the largest US state by total land area. It is more than twice the size of Texas, the next largest state. Alaska was purchased from Russia in 1867 for about two cents per acre. Alaska is home to Denali, the tallest mountain peak in North America."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "Texas"
+        ],
+        "option_b": [
+          "California"
+        ],
+        "option_c": [
+          "Alaska"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": "",
+      "roundType": "text"
+    },
+    {
+      "id": "GEO_TEXT_19",
+      "que": "What is the capital city of France?",
+      "ans": {
+        "value": "Paris",
+        "correct_entity": "option_b"
+      },
+      "options": [
+        "Lyon",
+        "Paris",
+        "Marseille"
+      ],
+      "expl": [
+        "Paris is the capital city of France. It is often nicknamed \"The City of Light,\" partly due to its early adoption of street lighting. Paris became one of the first major European cities to install gas street lamps in the 19th century. The city is also home to iconic landmarks like the Eiffel Tower and the Louvre."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "Lyon",
+          "layon",
+          "lay on",
+          "lion",
+          "yon",
+          "leon"
+        ],
+        "option_b": [
+          "Paris"
+        ],
+        "option_c": [
+          "Marseille",
+          "marsil",
+          "marsail",
+          "marseli",
+          "marcel"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": "",
+      "roundType": "text"
+    },
+    {
+      "id": "GEO_TEXT_20",
+      "que": "Which country has more active volcanoes than any other in the world?",
+      "ans": {
+        "value": "Indonesia",
+        "correct_entity": "option_b"
+      },
+      "options": [
+        "Japan",
+        "Indonesia",
+        "Chile"
+      ],
+      "expl": [
+        "Indonesia has more active volcanoes than any other country in the world. It sits on the \"Ring of Fire\", a zone with intense volcanic and seismic activity. The country is home to over 130 active volcanoes. Indonesia consists of more than 17,000 islands, many of which formed through volcanic activity."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "Japan"
+        ],
+        "option_b": [
+          "Indonesia"
+        ],
+        "option_c": [
+          "Chile",
+          "chil",
+          "chill"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": "",
+      "roundType": "text"
+    },
+    {
+      "id": "GEO_TEXT_21",
+      "que": "Which narrow strait separates Europe from Africa at its closest point?",
+      "ans": {
+        "value": "Strait of Gibraltar",
+        "correct_entity": "option_a"
+      },
+      "options": [
+        "Strait of Gibraltar",
+        "Bosphorus",
+        "Strait of Hormuz"
+      ],
+      "expl": [
+        "The Strait of Gibraltar separates Europe from Africa at its closest point. At its narrowest, only about 14 kilometers of water separates Spain and Morocco here. The strait connects the Atlantic Ocean to the Mediterranean Sea. On clear days, it's possible to see across the strait from one continent to the other."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "Strait of Gibraltar",
+          "gibraltar strait",
+          "straits of gibraltar"
+        ],
+        "option_b": [
+          "Bosphorus",
+          "boss forest"
+        ],
+        "option_c": [
+          "Strait of Hormuz",
+          "starit of hormus"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": "",
+      "roundType": "text"
+    },
+    {
+      "id": "GEO_TEXT_22",
+      "que": "Which country is unique in being both a single nation and an entire continent?",
+      "ans": {
+        "value": "Australia",
+        "correct_entity": "option_b"
+      },
+      "options": [
+        "Greenland",
+        "Australia",
+        "Madagascar"
+      ],
+      "expl": [
+        "Australia is unique in being both a single nation and an entire continent. It is also the only continent governed by a single country. Australia is the sixth-largest country in the world by total area. Despite its size, much of its interior, known as the Outback, is sparsely populated."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "Greenland",
+          "green land"
+        ],
+        "option_b": [
+          "Australia"
+        ],
+        "option_c": [
+          "Madagascar",
+          "mada gascar"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": "",
+      "roundType": "text"
+    },
+    {
+      "id": "GEO_TEXT_23",
+      "que": "Which mountain range, running along South America's western edge, is the longest on land?",
+      "ans": {
+        "value": "Andes",
+        "correct_entity": "option_b"
+      },
+      "options": [
+        "Rockies",
+        "Andes",
+        "Alps"
+      ],
+      "expl": [
+        "The Andes is the longest mountain range on land, running along South America's western edge. The Andes stretch across seven different countries. The range extends for about 7,000 kilometers from Venezuela to the southern tip of Chile and Argentina. It is home to Aconcagua, the tallest peak outside of Asia."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "Rockies",
+          "cookies"
+        ],
+        "option_b": [
+          "Andes",
+          "andis",
+          "andys",
+          "andiz"
+        ],
+        "option_c": [
+          "Alps",
+          "apps"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": "",
+      "roundType": "text"
+    },
+    {
+      "id": "GEO_TEXT_24",
+      "que": "Which African river is the second-longest on the continent, flowing through the Congo Basin?",
+      "ans": {
+        "value": "Congo River",
+        "correct_entity": "option_c"
+      },
+      "options": [
+        "Niger River",
+        "Zambezi River",
+        "Congo River"
+      ],
+      "expl": [
+        "The Congo River is Africa's second-longest river, flowing through the Congo Basin. It is the deepest river in the world, reaching depths over 220 meters. The river crosses the equator twice along its course. It is also the second-largest river by discharge volume, after the Amazon."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "Niger River"
+        ],
+        "option_b": [
+          "Zambezi River",
+          "zombies river",
+          "some basic river"
+        ],
+        "option_c": [
+          "Congo River",
+          "kongo river"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": "",
+      "roundType": "text"
+    },
+    {
+      "id": "GEO_TEXT_25",
+      "que": "Which country is nicknamed the 'Land of a Thousand Lakes'?",
+      "ans": {
+        "value": "Finland",
+        "correct_entity": "option_b"
+      },
+      "options": [
+        "Sweden",
+        "Finland",
+        "Norway"
+      ],
+      "expl": [
+        "Finland is nicknamed the \"Land of a Thousand Lakes.\" Finland actually has closer to 188,000 lakes, far more than a thousand. Many of these lakes were formed by glacial activity during the last Ice Age. The country's lake district is a popular destination for outdoor recreation."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "Sweden"
+        ],
+        "option_b": [
+          "Finland"
+        ],
+        "option_c": [
+          "Norway"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": "",
+      "roundType": "text"
+    },
+    {
+      "id": "GEO_TEXT_26",
+      "que": "What is the capital city of Egypt?",
+      "ans": {
+        "value": "Cairo",
+        "correct_entity": "option_b"
+      },
+      "options": [
+        "Alexandria",
+        "Cairo",
+        "Luxor"
+      ],
+      "expl": [
+        "Cairo is the capital city of Egypt. Cairo is the largest city in Africa by population. The city sits along the banks of the Nile River. Cairo is home to the ancient pyramids of Giza, located just outside the modern city."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "Alexandria",
+          "alex"
+        ],
+        "option_b": [
+          "Cairo",
+          "kairo",
+          "cyro"
+        ],
+        "option_c": [
+          "Luxor",
+          "luzor",
+          "lusor",
+          "laksaar",
+          "lux or"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": "",
+      "roundType": "text"
+    },
+    {
+      "id": "GEO_TEXT_27",
+      "que": "Which country recently became the most populous nation in the world, surpassing China?",
+      "ans": {
+        "value": "India",
+        "correct_entity": "option_b"
+      },
+      "options": [
+        "Indonesia",
+        "India",
+        "Pakistan"
+      ],
+      "expl": [
+        "India recently became the most populous nation in the world, surpassing China. India is home to well over a billion people across dozens of different languages. The country officially recognizes 22 languages, with Hindi and English commonly used for national communication. India is also the world's largest democracy by population."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "Indonesia"
+        ],
+        "option_b": [
+          "India"
+        ],
+        "option_c": [
+          "Pakistan"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": "",
+      "roundType": "text"
+    },
+    {
+      "id": "GEO_TEXT_28",
+      "que": "Which desert, known for its red sand dunes, covers much of Botswana and Namibia?",
+      "ans": {
+        "value": "Kalahari",
+        "correct_entity": "option_b"
+      },
+      "options": [
+        "Sahara",
+        "Kalahari",
+        "Gobi"
+      ],
+      "expl": [
+        "The Kalahari Desert is known for its red sand dunes and covers much of Botswana and Namibia. Despite being called a desert, parts of the Kalahari receive enough rain to support wildlife. It is home to animals such as meerkats and gemsbok, along with the San people who have lived there for thousands of years. Unlike true deserts, its semi-arid climate supports grasses and shrubs."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "Sahara"
+        ],
+        "option_b": [
+          "Kalahari",
+          "kala hari"
+        ],
+        "option_c": [
+          "Gobi",
+          "kobi",
+          "goby",
+          "koby",
+          "copy",
+          "coby",
+          "cobi"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": "",
+      "roundType": "text"
+    }
+  ],
+  "IMAGE_QUESTIONS": [
+    {
+      "id": "GEO_IMAGE_01",
+      "que": "Which country does this flag belong to?",
+      "ans": {
+        "value": "Japan",
+        "correct_entity": "option_b"
+      },
+      "options": [
+        "South Korea",
+        "Japan",
+        "Bangladesh"
+      ],
+      "expl": [
+        "This flag belongs to Japan. Japan's flag, called the Hinomaru, means \"circle of the sun.\" The red circle represents the sun, tying into Japan's nickname as the \"Land of the Rising Sun.\" The current design was officially adopted in 1999, though it had been used unofficially for centuries. Japan's flag is one of the simplest national flags in the world."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "South Korea",
+          "korea"
+        ],
+        "option_b": [
+          "Japan"
+        ],
+        "option_c": [
+          "Bangladesh"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "GEO_IMAGE_01.png",
+      "audioUrl": "",
+      "roundType": "image"
+    },
+    {
+      "id": "GEO_IMAGE_02",
+      "que": "What country does this flag represent?",
+      "ans": {
+        "value": "Brazil",
+        "correct_entity": "option_c"
+      },
+      "options": [
+        "Portugal",
+        "Argentina",
+        "Brazil"
+      ],
+      "expl": [
+        "This flag belongs to Brazil. The stars on Brazil's flag represent the night sky over Rio on November 15, 1889, the day the country became a republic. The flag's green and yellow colors are linked to Brazil's lush forests and gold riches. Its motto, \"Ordem e Progresso\" (\"Order and Progress\"), is written across the central band."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "Portugal"
+        ],
+        "option_b": [
+          "Argentina",
+          "uargentina"
+        ],
+        "option_c": [
+          "Brazil"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "GEO_IMAGE_02.png",
+      "audioUrl": "",
+      "roundType": "image"
+    },
+    {
+      "id": "GEO_IMAGE_03",
+      "que": "Can you identify the country this flag belongs to?",
+      "ans": {
+        "value": "Canada",
+        "correct_entity": "option_b"
+      },
+      "options": [
+        "Peru",
+        "Canada",
+        "Austria"
+      ],
+      "expl": [
+        "This flag belongs to Canada. Canada's maple leaf flag was officially adopted in 1965. The maple leaf has long been a national symbol of Canada, even before the flag's design. The flag's red and white colors were officially declared Canada's national colors in 1921. Before 1965, Canada used a flag featuring the Union Jack and a Canadian shield."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "Peru"
+        ],
+        "option_b": [
+          "Canada"
+        ],
+        "option_c": [
+          "Austria"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "GEO_IMAGE_03.png",
+      "audioUrl": "",
+      "roundType": "image"
+    },
+    {
+      "id": "GEO_IMAGE_04",
+      "que": "Which country does this flag belong to?",
+      "ans": {
+        "value": "Kenya",
+        "correct_entity": "option_c"
+      },
+      "options": [
+        "Ghana",
+        "Ethiopia",
+        "Kenya"
+      ],
+      "expl": [
+        "This flag belongs to Kenya. The shield and spears on Kenya's flag symbolize the defense of freedom. Its black, red, and green stripes represent the people, the struggle for independence, and the land. Kenya adopted this flag design in 1963, upon gaining independence from Britain. The Maasai shield design is a distinctly Kenyan feature among world flags."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "Ghana"
+        ],
+        "option_b": [
+          "Ethiopia"
+        ],
+        "option_c": [
+          "Kenya",
+          "kheniya",
+          "keniya"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "GEO_IMAGE_04.png",
+      "audioUrl": "",
+      "roundType": "image"
+    },
+    {
+      "id": "GEO_IMAGE_05",
+      "que": "Which nation does this flag belong to?",
+      "ans": {
+        "value": "Switzerland",
+        "correct_entity": "option_b"
+      },
+      "options": [
+        "Denmark",
+        "Switzerland",
+        "Georgia"
+      ],
+      "expl": [
+        "This flag belongs to Switzerland. Switzerland's flag is one of only two square national flags in the world. The white cross on a red background dates back centuries in Swiss heraldry. The Red Cross humanitarian organization's logo was inspired by Switzerland's flag, with colors reversed. Switzerland has used a version of this cross design since the 14th century."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "Denmark"
+        ],
+        "option_b": [
+          "Switzerland",
+          "switzarland"
+        ],
+        "option_c": [
+          "Georgia"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "GEO_IMAGE_05.png",
+      "audioUrl": "",
+      "roundType": "image"
+    },
+    {
+      "id": "GEO_IMAGE_06",
+      "que": "Guess the country from this flag.",
+      "ans": {
+        "value": "Nepal",
+        "correct_entity": "option_c"
+      },
+      "options": [
+        "Bhutan",
+        "Sri Lanka",
+        "Nepal"
+      ],
+      "expl": [
+        "This flag belongs to Nepal. Nepal is the only country whose national flag isn't a rectangle or square, made of two overlapping pennants. The crimson red is Nepal's national color and also appears in its rhododendron flower. The sun and moon emblems symbolize hope that Nepal will endure as long as they do."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "Bhutan"
+        ],
+        "option_b": [
+          "Sri Lanka"
+        ],
+        "option_c": [
+          "Nepal"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "GEO_IMAGE_06.png",
+      "audioUrl": "",
+      "roundType": "image"
+    },
+    {
+      "id": "GEO_IMAGE_07",
+      "que": "Whose flag is this?",
+      "ans": {
+        "value": "Argentina",
+        "correct_entity": "option_c"
+      },
+      "options": [
+        "Uruguay",
+        "Guatemala",
+        "Argentina"
+      ],
+      "expl": [
+        "This flag belongs to Argentina. The sun on Argentina's flag is known as the Sun of May, commemorating the May Revolution of 1810. The flag's light blue and white stripes are said to represent the sky over Buenos Aires. It was designed by General Manuel Belgrano, who also founded the Argentine Navy."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "Uruguay"
+        ],
+        "option_b": [
+          "Guatemala",
+          "gwatmal"
+        ],
+        "option_c": [
+          "Argentina",
+          "urgentina"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "GEO_IMAGE_07.png",
+      "audioUrl": "",
+      "roundType": "image"
+    },
+    {
+      "id": "GEO_IMAGE_08",
+      "que": "Identify the country associated with this flag.",
+      "ans": {
+        "value": "Ireland",
+        "correct_entity": "option_c"
+      },
+      "options": [
+        "Italy",
+        "Mexico",
+        "Ireland"
+      ],
+      "expl": [
+        "This flag belongs to Ireland. Ireland's flag colors represent peace (white) between Catholics (green) and Protestants (orange). The tricolor was first flown publicly during the 1848 Young Irelander movement. It was officially adopted as the national flag after Irish independence in the 1920s."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "Italy"
+        ],
+        "option_b": [
+          "Mexico"
+        ],
+        "option_c": [
+          "Ireland"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "GEO_IMAGE_08.png",
+      "audioUrl": "",
+      "roundType": "image"
+    },
+    {
+      "id": "GEO_IMAGE_09",
+      "que": "What nation is represented by this flag?",
+      "ans": {
+        "value": "South Africa",
+        "correct_entity": "option_b"
+      },
+      "options": [
+        "Nigeria",
+        "South Africa",
+        "Cameroon"
+      ],
+      "expl": [
+        "This flag belongs to South Africa. South Africa's flag has six colors, making it one of the most colorful national flags in the world. It was adopted in 1994 to mark the end of apartheid and the country's first democratic elections. The converging \"Y\" shape symbolizes the convergence of diverse elements within South African society."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "Nigeria",
+          "naigeria",
+          "nigreiya",
+          "naijeriya"
+        ],
+        "option_b": [
+          "South Africa",
+          "africa"
+        ],
+        "option_c": [
+          "Cameroon",
+          "came roon"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "GEO_IMAGE_09.png",
+      "audioUrl": "",
+      "roundType": "image"
+    },
+    {
+      "id": "GEO_IMAGE_10",
+      "que": "Which famous landmark is this leaning tower?",
+      "ans": {
+        "value": "Pisa",
+        "correct_entity": "option_a"
+      },
+      "options": [
+        "Pisa",
+        "Eiffel Tower",
+        "Big Ben"
+      ],
+      "expl": [
+        "This landmark is the Leaning Tower of Pisa. The Leaning Tower of Pisa leans due to soft ground on one side settling unevenly during construction. Construction began in 1173 and took nearly 200 years to complete because of the tilt and interruptions. Engineers stabilized the tower in the 1990s to prevent it from toppling over."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "Pisa",
+          "isa",
+          "isha",
+          "pesa",
+          "pizza"
+        ],
+        "option_b": [
+          "Eiffel Tower",
+          "ifel tower",
+          "ifal tower",
+          "ifill tower"
+        ],
+        "option_c": [
+          "Big Ben",
+          "big bang"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "GEO_IMAGE_10.png",
+      "audioUrl": "",
+      "roundType": "image"
+    },
+    {
+      "id": "GEO_IMAGE_11",
+      "que": "Which country is home to this ancient wonder, the Great Pyramid?",
+      "ans": {
+        "value": "Egypt",
+        "correct_entity": "option_a"
+      },
+      "options": [
+        "Egypt",
+        "Mexico",
+        "Peru"
+      ],
+      "expl": [
+        "This wonder is located in Egypt. The Great Pyramid of Giza was the tallest man-made structure for over 3,800 years, until England's Lincoln Cathedral surpassed it. It was built around 2560 BCE as a tomb for the Pharaoh Khufu. It remains the only surviving structure among the Seven Wonders of the Ancient World."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "Egypt"
+        ],
+        "option_b": [
+          "Mexico"
+        ],
+        "option_c": [
+          "Peru"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "GEO_IMAGE_11.png",
+      "audioUrl": "",
+      "roundType": "image"
+    },
+    {
+      "id": "GEO_IMAGE_12",
+      "que": "This iconic red bridge is located in which US city?",
+      "ans": {
+        "value": "San Francisco",
+        "correct_entity": "option_a"
+      },
+      "options": [
+        "San Francisco",
+        "New York",
+        "Seattle"
+      ],
+      "expl": [
+        "This bridge is located in San Francisco. The Golden Gate Bridge's color is officially called 'International Orange'. The shade was chosen partly because it enhances the bridge's visibility in San Francisco's frequent fog. Construction was completed in 1937, and it was the longest suspension bridge span in the world at the time."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "San Francisco",
+          "send francisco"
+        ],
+        "option_b": [
+          "New York"
+        ],
+        "option_c": [
+          "Seattle",
+          "sea tel",
+          "seatle"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "GEO_IMAGE_12.png",
+      "audioUrl": "",
+      "roundType": "image"
+    },
+    {
+      "id": "GEO_IMAGE_13",
+      "que": "Which country's currency note is shown here?",
+      "ans": {
+        "value": "Japan",
+        "correct_entity": "option_a"
+      },
+      "options": [
+        "Japan",
+        "China",
+        "South Korea"
+      ],
+      "expl": [
+        "This currency belongs to Japan. The Japanese yen is one of the most traded currencies in the world, ranking among the top few alongside the US dollar and euro. The yen was introduced in 1871 as part of Japan's modernization efforts. Japanese banknotes feature prominent historical and cultural figures, such as writers and scientists."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "Japan"
+        ],
+        "option_b": [
+          "China"
+        ],
+        "option_c": [
+          "South Korea",
+          "korea"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "GEO_IMAGE_13.jpg",
+      "audioUrl": "",
+      "roundType": "image"
+    },
+    {
+      "id": "GEO_IMAGE_14",
+      "que": "This traditional clothing, the kimono, is worn in which country?",
+      "ans": {
+        "value": "Japan",
+        "correct_entity": "option_b"
+      },
+      "options": [
+        "China",
+        "Japan",
+        "Thailand"
+      ],
+      "expl": [
+        "This clothing, the kimono, is worn in Japan. A traditional kimono can take months to weave and hand-paint by skilled artisans. The word \"kimono\" literally means \"thing to wear\" in Japanese. Kimonos are typically worn with an obi, a wide sash tied around the waist."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "China"
+        ],
+        "option_b": [
+          "Japan"
+        ],
+        "option_c": [
+          "Thailand"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "GEO_IMAGE_14.jpg",
+      "audioUrl": "",
+      "roundType": "image"
+    },
+    {
+      "id": "GEO_IMAGE_15",
+      "que": "Which desert is shown in this image, famous for its sand dunes?",
+      "ans": {
+        "value": "Sahara",
+        "correct_entity": "option_a"
+      },
+      "options": [
+        "Sahara",
+        "Gobi",
+        "Kalahari"
+      ],
+      "expl": [
+        "This desert shown is the Sahara. The Sahara Desert is nearly as large as the entire United States, covering about 9 million square kilometers. It stretches across North Africa, touching parts of 11 countries. Despite its dune-covered image, much of the Sahara is actually rocky plateau rather than sand."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "Sahara"
+        ],
+        "option_b": [
+          "Gobi",
+          "kobi",
+          "goby",
+          "koby",
+          "copy",
+          "coby",
+          "cobi"
+        ],
+        "option_c": [
+          "Kalahari",
+          "kala hari",
+          "kala hare"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "GEO_IMAGE_15.jpg",
+      "audioUrl": "",
+      "roundType": "image"
+    },
+    {
+      "id": "GEO_IMAGE_16",
+      "que": "This colorful annual event covers streets in powder color - where is it celebrated?",
+      "ans": {
+        "value": "India",
+        "correct_entity": "option_a"
+      },
+      "options": [
+        "India",
+        "Brazil",
+        "Spain"
+      ],
+      "expl": [
+        "This colorful festival is Holi, celebrated mainly in India. It's known as the \"festival of colors,\" also widely celebrated in Nepal. Holi marks the arrival of spring and the triumph of good over evil. Participants throw colored powder and water at one another in joyful celebration. The festival has roots in Hindu mythology, particularly the legend of Holika."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "India"
+        ],
+        "option_b": [
+          "Brazil"
+        ],
+        "option_c": [
+          "Spain"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "GEO_IMAGE_16.jpg",
+      "audioUrl": "",
+      "roundType": "image"
+    },
+    {
+      "id": "GEO_IMAGE_17",
+      "que": "Which country's map outline is shown here shaped like a boot?",
+      "ans": {
+        "value": "Italy",
+        "correct_entity": "option_a"
+      },
+      "options": [
+        "Italy",
+        "Greece",
+        "Spain"
+      ],
+      "expl": [
+        "This country's outline is Italy. Italy's boot shape makes it one of the most recognizable country outlines in the world. The peninsula stretches into the Mediterranean Sea, separating the Adriatic and Tyrrhenian Seas. Its \"toe\" and \"heel\" regions, Calabria and Puglia, are named for their resemblance to a boot's parts."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "Italy"
+        ],
+        "option_b": [
+          "Greece"
+        ],
+        "option_c": [
+          "Spain"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "GEO_IMAGE_17.jpg",
+      "audioUrl": "",
+      "roundType": "image"
+    },
+    {
+      "id": "GEO_IMAGE_18",
+      "que": "This tall red-and-white striped tower is a famous seaside landmark. What is it usually called?",
+      "ans": {
+        "value": "Lighthouse",
+        "correct_entity": "option_a"
+      },
+      "options": [
+        "Lighthouse",
+        "Watchtower",
+        "Bell tower"
+      ],
+      "expl": [
+        "This landmark is usually called a lighthouse. Lighthouses were historically used to guide ships safely away from rocky coastlines and dangerous shoals. The Lighthouse of Alexandria, built in ancient Egypt, is considered one of the earliest known examples. Many lighthouses used rotating lenses and distinct light patterns so sailors could identify their location."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "Lighthouse",
+          "light house",
+          "light"
+        ],
+        "option_b": [
+          "Watchtower",
+          "watch tower",
+          "watch"
+        ],
+        "option_c": [
+          "Bell tower",
+          "bell"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "GEO_IMAGE_18.jpg",
+      "audioUrl": "",
+      "roundType": "image"
+    },
+    {
+      "id": "GEO_IMAGE_19",
+      "que": "Which country's iconic red double-decker buses are shown in this photo?",
+      "ans": {
+        "value": "United Kingdom",
+        "correct_entity": "option_a"
+      },
+      "options": [
+        "United Kingdom",
+        "France",
+        "Germany"
+      ],
+      "expl": [
+        "The UK's iconic red double-decker buses are shown here. London's red double-decker buses have been a city symbol since the early 1900s. The most famous model, the Routemaster, entered service in 1956. Double-decker buses were designed to carry more passengers without needing a longer vehicle. Red became London's standard bus color partly to help routes stand out clearly in traffic."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "United Kingdom",
+          "u. k."
+        ],
+        "option_b": [
+          "France"
+        ],
+        "option_c": [
+          "Germany"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "GEO_IMAGE_19.jpg",
+      "audioUrl": "",
+      "roundType": "image"
+    },
+    {
+      "id": "GEO_IMAGE_20",
+      "que": "This floating market on boats full of fruits and vegetables is a common sight in which country?",
+      "ans": {
+        "value": "Thailand",
+        "correct_entity": "option_a"
+      },
+      "options": [
+        "Thailand",
+        "Sweden",
+        "Iceland"
+      ],
+      "expl": [
+        "This floating market scene is a common sight in Thailand. Floating markets like Damnoen Saduak have been trading hubs in Thailand for over a century. Vendors sell fruits, vegetables, and street food directly from boats. These markets originally thrived because canals were once a primary mode of transport. Today they're also major tourist attractions showcasing traditional Thai commerce."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "Thailand"
+        ],
+        "option_b": [
+          "Sweden"
+        ],
+        "option_c": [
+          "Iceland"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "GEO_IMAGE_20.jpg",
+      "audioUrl": "",
+      "roundType": "image"
+    },
+    {
+      "id": "GEO_IMAGE_21",
+      "que": "Which country is this white marble mausoleum located in?",
+      "ans": {
+        "value": "India",
+        "correct_entity": "option_b"
+      },
+      "options": [
+        "Pakistan",
+        "India",
+        "Iran"
+      ],
+      "expl": [
+        "This mausoleum is located in India. The Taj Mahal took over 20 years and around 20,000 workers to complete. It was built by Mughal emperor Shah Jahan in memory of his wife, Mumtaz Mahal. It is recognized as a UNESCO World Heritage Site and one of the New Seven Wonders of the World."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "Pakistan"
+        ],
+        "option_b": [
+          "India"
+        ],
+        "option_c": [
+          "Iran"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "GEO_IMAGE_21.jpg",
+      "audioUrl": "",
+      "roundType": "image"
+    },
+    {
+      "id": "GEO_IMAGE_22",
+      "que": "This giant statue of Jesus overlooks Rio de Janeiro in which country?",
+      "ans": {
+        "value": "Brazil",
+        "correct_entity": "option_a"
+      },
+      "options": [
+        "Brazil",
+        "Argentina",
+        "Portugal"
+      ],
+      "expl": [
+        "This statue overlooks Rio de Janeiro in Brazil. Christ the Redeemer stands about 30 meters tall on top of Corcovado mountain. The statue was completed in 1931 and has become a global symbol of Brazil. It is recognized as one of the New Seven Wonders of the World."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "Brazil"
+        ],
+        "option_b": [
+          "Argentina",
+          "uargentina"
+        ],
+        "option_c": [
+          "Portugal"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "GEO_IMAGE_22.jpg",
+      "audioUrl": "",
+      "roundType": "image"
+    },
+    {
+      "id": "GEO_IMAGE_23",
+      "que": "This white, shell-shaped performance venue is a famous landmark in which country?",
+      "ans": {
+        "value": "Australia",
+        "correct_entity": "option_b"
+      },
+      "options": [
+        "New Zealand",
+        "Australia",
+        "South Africa"
+      ],
+      "expl": [
+        "This landmark is in Australia. The Sydney Opera House's roof is covered in over one million ceramic tiles. Danish architect Jørn Utzon designed the building, which took 14 years to build. It officially opened in 1973 and is now a UNESCO World Heritage Site."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "New Zealand"
+        ],
+        "option_b": [
+          "Australia"
+        ],
+        "option_c": [
+          "South Africa"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "GEO_IMAGE_23.jpg",
+      "audioUrl": "",
+      "roundType": "image"
+    },
+    {
+      "id": "GEO_IMAGE_24",
+      "que": "This massive waterfall sits on the border of Canada and which other country?",
+      "ans": {
+        "value": "The United States",
+        "correct_entity": "option_b"
+      },
+      "options": [
+        "Mexico",
+        "The United States",
+        "Cuba"
+      ],
+      "expl": [
+        "This waterfall sits on the border of Canada and the United States. Niagara Falls sees over six million cubic feet of water flow over it every minute. It is actually made up of three separate waterfalls: Horseshoe Falls, American Falls, and Bridal Veil Falls. Niagara Falls is also a major source of hydroelectric power for both countries."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "Mexico"
+        ],
+        "option_b": [
+          "The United States",
+          "u. s. a.",
+          "united states",
+          "united state",
+          "u.s"
+        ],
+        "option_c": [
+          "Cuba"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "GEO_IMAGE_24.jpg",
+      "audioUrl": "",
+      "roundType": "image"
+    },
+    {
+      "id": "GEO_IMAGE_25",
+      "que": "This iconic snow-capped mountain is a national symbol of which country?",
+      "ans": {
+        "value": "Japan",
+        "correct_entity": "option_c"
+      },
+      "options": [
+        "China",
+        "South Korea",
+        "Japan"
+      ],
+      "expl": [
+        "This mountain is a national symbol of Japan. Mount Fuji is an active volcano that last erupted in the early 1700s. Standing at 3,776 meters, it is the tallest mountain in Japan. It is a UNESCO World Heritage Site and a popular destination for climbers each summer."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "China"
+        ],
+        "option_b": [
+          "South Korea"
+        ],
+        "option_c": [
+          "Japan"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "GEO_IMAGE_25.jpg",
+      "audioUrl": "",
+      "roundType": "image"
+    },
+    {
+      "id": "GEO_IMAGE_26",
+      "que": "Which country is this massive canyon located in?",
+      "ans": {
+        "value": "United States",
+        "correct_entity": "option_b"
+      },
+      "options": [
+        "Mexico",
+        "United States",
+        "Canada"
+      ],
+      "expl": [
+        "This canyon is located in the United States. The Grand Canyon is over 1.6 kilometers deep in some places. It was carved by the Colorado River over roughly six million years. It is a UNESCO World Heritage Site and one of the most visited natural landmarks in the country."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "Mexico"
+        ],
+        "option_b": [
+          "United States"
+        ],
+        "option_c": [
+          "Canada"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "GEO_IMAGE_26.jpg",
+      "audioUrl": "",
+      "roundType": "image"
+    },
+    {
+      "id": "GEO_IMAGE_27",
+      "que": "This ancient rose-colored city, carved into rock, is located in which country?",
+      "ans": {
+        "value": "Jordan",
+        "correct_entity": "option_b"
+      },
+      "options": [
+        "Egypt",
+        "Jordan",
+        "Israel"
+      ],
+      "expl": [
+        "This ancient city is located in Jordan. Petra was carved directly into rose-colored rock cliffs over 2,000 years ago. It served as the capital of the Nabataean Kingdom and a key trading hub on ancient caravan routes. The site remained largely hidden from the Western world until it was rediscovered in 1812."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "Egypt"
+        ],
+        "option_b": [
+          "Jordan"
+        ],
+        "option_c": [
+          "Israel",
+          "isral",
+          "isreal",
+          "isrel"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "GEO_IMAGE_27.jpg",
+      "audioUrl": "",
+      "roundType": "image"
+    }
+  ],
+  "AUDIO_QUESTIONS": [
+    {
+      "id": "GEO_AUDIO_01",
+      "que": "Which language is being spoken?",
+      "ans": {
+        "value": "French",
+        "correct_entity": "option_b"
+      },
+      "options": [
+        "English",
+        "French",
+        "Hindi"
+      ],
+      "expl": [
+        "This audio clip is spoken in French. French is an official language in 29 countries across five continents. It evolved from Latin and is part of the Romance language family. French remains one of the official working languages of the United Nations."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "English"
+        ],
+        "option_b": [
+          "French"
+        ],
+        "option_c": [
+          "Hindi"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": "GEO_AUDIO_01.mp3",
+      "roundType": "audio"
+    },
+    {
+      "id": "GEO_AUDIO_02",
+      "que": "What language do you hear in this clip?",
+      "ans": {
+        "value": "Hindi",
+        "correct_entity": "option_a"
+      },
+      "options": [
+        "Hindi",
+        "Japanese",
+        "English"
+      ],
+      "expl": [
+        "This audio clip is spoken in Hindi. Hindi is written in the Devanagari script and is one of India's official languages. It is one of the most widely spoken languages in the world by number of native speakers. Hindi shares many vocabulary roots with Sanskrit, an ancient Indian language."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "Hindi"
+        ],
+        "option_b": [
+          "Japanese"
+        ],
+        "option_c": [
+          "English"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": "GEO_AUDIO_02.mp3",
+      "roundType": "audio"
+    },
+    {
+      "id": "GEO_AUDIO_03",
+      "que": "What language is being used in this audio?",
+      "ans": {
+        "value": "Japanese",
+        "correct_entity": "option_b"
+      },
+      "options": [
+        "Russian",
+        "Japanese",
+        "English"
+      ],
+      "expl": [
+        "This audio clip is spoken in Japanese. Japanese uses three writing systems together: hiragana, katakana, and kanji. Kanji characters were originally borrowed from Chinese script centuries ago. Japanese sentence structure typically places the verb at the end of the sentence."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "Russian"
+        ],
+        "option_b": [
+          "Japanese"
+        ],
+        "option_c": [
+          "English"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": "GEO_AUDIO_03.mp3",
+      "roundType": "audio"
+    },
+    {
+      "id": "GEO_AUDIO_04",
+      "que": "Can you identify the language spoken here?",
+      "ans": {
+        "value": "Arabic",
+        "correct_entity": "option_a"
+      },
+      "options": [
+        "Arabic",
+        "German",
+        "Japanese"
+      ],
+      "expl": [
+        "This audio clip is spoken in Arabic. Arabic is written and read from right to left. It is an official language in more than 20 countries across the Middle East and North Africa. It is one of the six official languages of the United Nations."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "Arabic"
+        ],
+        "option_b": [
+          "German"
+        ],
+        "option_c": [
+          "Japanese"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": "GEO_AUDIO_04.mp3",
+      "roundType": "audio"
+    },
+    {
+      "id": "GEO_AUDIO_05",
+      "que": "Listen and guess — what language is this?",
+      "ans": {
+        "value": "German",
+        "correct_entity": "option_a"
+      },
+      "options": [
+        "German",
+        "English",
+        "Hindi"
+      ],
+      "expl": [
+        "This audio clip is spoken in German. German is the most widely spoken native language in the European Union. It is the official language of Germany, Austria, and one of the official languages of Switzerland. German is closely related to English and Dutch, all part of the West Germanic language family."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "German"
+        ],
+        "option_b": [
+          "English"
+        ],
+        "option_c": [
+          "Hindi"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": "GEO_AUDIO_05.mp3",
+      "roundType": "audio"
+    },
+    {
+      "id": "GEO_AUDIO_06",
+      "que": "Which language is this speaker using?",
+      "ans": {
+        "value": "Spanish",
+        "correct_entity": "option_b"
+      },
+      "options": [
+        "Arabic",
+        "Spanish",
+        "Cantonese"
+      ],
+      "expl": [
+        "This speaker is using Spanish. Spanish is the official language in 20 countries, more than any language except English. It evolved from Latin and spread widely during Spanish colonization. Spanish is one of the most widely spoken languages by native speakers globally. It's also one of the six official languages of the United Nations."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "Arabic"
+        ],
+        "option_b": [
+          "Spanish"
+        ],
+        "option_c": [
+          "Cantonese"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": "GEO_AUDIO_06.mp3",
+      "roundType": "audio"
+    },
+    {
+      "id": "GEO_AUDIO_07",
+      "que": "Identify the language from this recording.",
+      "ans": {
+        "value": "Mandarin",
+        "correct_entity": "option_a"
+      },
+      "options": [
+        "Mandarin",
+        "Hindi",
+        "English"
+      ],
+      "expl": [
+        "This recording is in Mandarin. Mandarin Chinese has more native speakers than any other language in the world. It's a tonal language, where pitch changes can change a word's meaning entirely. Mandarin uses thousands of characters instead of a small alphabet. It's the official language of both mainland China and Taiwan."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "Mandarin",
+          "mandate",
+          "mendarin",
+          "mandarina"
+        ],
+        "option_b": [
+          "Hindi"
+        ],
+        "option_c": [
+          "English"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": "GEO_AUDIO_07.mp3",
+      "roundType": "audio"
+    },
+    {
+      "id": "GEO_AUDIO_08",
+      "que": "Which language do you think this is?",
+      "ans": {
+        "value": "Russian",
+        "correct_entity": "option_a"
+      },
+      "options": [
+        "Russian",
+        "Telgu",
+        "Arabic"
+      ],
+      "expl": [
+        "This language is Russian. Russian uses the Cyrillic alphabet, made up of 33 letters. It's one of the six official languages of the United Nations. Russian is the most widely spoken native language in Europe. Its grammar includes six cases that change word endings based on function."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "Russian"
+        ],
+        "option_b": [
+          "Telgu"
+        ],
+        "option_c": [
+          "Arabic"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": "GEO_AUDIO_08.mp3",
+      "roundType": "audio"
+    },
+    {
+      "id": "GEO_AUDIO_09",
+      "que": "This famous bell chime plays every hour in London. What is it called?",
+      "ans": {
+        "value": "Big Ben",
+        "correct_entity": "option_c"
+      },
+      "options": [
+        "Liberty Bell",
+        "Notre Dame Bell",
+        "Big Ben"
+      ],
+      "expl": [
+        "This famous bell chime that plays every hour in London is Big Ben. Big Ben is actually the name of the bell, not the clock tower itself. The tower itself is officially called the Elizabeth Tower. The bell has chimed over the Houses of Parliament since 1859. Big Ben briefly fell silent during major renovation work in recent years."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "Liberty Bell",
+          "big bang"
+        ],
+        "option_b": [
+          "Notre Dame Bell"
+        ],
+        "option_c": [
+          "Big Ben",
+          "big bang",
+          "big band",
+          "big bend"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": "GEO_AUDIO_09.mp3",
+      "roundType": "audio"
+    },
+    {
+      "id": "GEO_AUDIO_10",
+      "que": "Which festive sound is commonly heard during Rio's Carnival celebrations?",
+      "ans": {
+        "value": "Samba drums",
+        "correct_entity": "option_a"
+      },
+      "options": [
+        "Samba drums",
+        "Bagpipes",
+        "Sitar"
+      ],
+      "expl": [
+        "This festive sound commonly heard during Rio's Carnival celebrations is samba drums. Rio Carnival is considered the largest carnival celebration in the world. Samba music originated from African rhythmic traditions brought to Brazil. Carnival parades feature massive drum ensembles called \"baterias.\" The event draws millions of visitors to Rio de Janeiro each year."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "Samba drums",
+          "sambaar drums"
+        ],
+        "option_b": [
+          "Bagpipes"
+        ],
+        "option_c": [
+          "Sitar"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": "GEO_AUDIO_10.mp3",
+      "roundType": "audio"
+    },
+    {
+      "id": "GEO_AUDIO_11",
+      "que": "Which language is being spoken here?",
+      "ans": {
+        "value": "Italian",
+        "correct_entity": "option_b"
+      },
+      "options": [
+        "Japanese",
+        "Italian",
+        "Punjabi"
+      ],
+      "expl": [
+        "This audio clip is spoken in Italian. Italian is the closest living language to Latin, more so than any other Romance language. It is the official language of Italy, San Marino, and part of Switzerland. Dante Alighieri's writings helped standardize the modern Italian language in the 14th century."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "Japanese"
+        ],
+        "option_b": [
+          "Italian"
+        ],
+        "option_c": [
+          "Punjabi"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": "GEO_AUDIO_11.mp3",
+      "roundType": "audio"
+    },
+    {
+      "id": "GEO_AUDIO_12",
+      "que": "Which language do you hear being spoken in this clip?",
+      "ans": {
+        "value": "Portuguese",
+        "correct_entity": "option_c"
+      },
+      "options": [
+        "Spanish",
+        "Mandarin",
+        "Portuguese"
+      ],
+      "expl": [
+        "This audio clip is spoken in Portuguese. Portuguese is the official language of both Portugal and Brazil. It is also spoken in several African nations, including Angola and Mozambique. Brazil is home to the vast majority of the world's Portuguese speakers."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "Spanish"
+        ],
+        "option_b": [
+          "Mandarin"
+        ],
+        "option_c": [
+          "Portuguese"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": "GEO_AUDIO_12.mp3",
+      "roundType": "audio"
+    },
+    {
+      "id": "GEO_AUDIO_13",
+      "que": "Which East Asian language is being spoken here?",
+      "ans": {
+        "value": "Korean",
+        "correct_entity": "option_c"
+      },
+      "options": [
+        "Russian",
+        "Persian",
+        "Korean"
+      ],
+      "expl": [
+        "This audio clip is spoken in Korean. The Korean alphabet, Hangul, was created in the 15th century to improve literacy. It was designed under King Sejong the Great to be simple enough for common people to learn quickly. Korean is the official language of both South Korea and North Korea."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "Russian"
+        ],
+        "option_b": [
+          "Persian"
+        ],
+        "option_c": [
+          "Korean"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": "GEO_AUDIO_13.mp3",
+      "roundType": "audio"
+    },
+    {
+      "id": "GEO_AUDIO_14",
+      "que": "What language is being used here, spoken across a country bridging Europe and Asia?",
+      "ans": {
+        "value": "Turkish",
+        "correct_entity": "option_a"
+      },
+      "options": [
+        "Turkish",
+        "Arabic",
+        "Kannada"
+      ],
+      "expl": [
+        "This audio clip is spoken in Turkish, a language used across a country bridging Europe and Asia. Turkish is written using the Latin alphabet, unlike many of its neighboring languages. It switched from Arabic script to the Latin alphabet in 1928 as part of major reforms. Turkish is part of the Turkic language family, which spans much of Central Asia."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "Turkish"
+        ],
+        "option_b": [
+          "Arabic"
+        ],
+        "option_c": [
+          "Kannada"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": "GEO_AUDIO_14.mp3",
+      "roundType": "audio"
+    },
+    {
+      "id": "GEO_AUDIO_15",
+      "que": "Which Southeast Asian language is being spoken in this clip?",
+      "ans": {
+        "value": "Vietnamese",
+        "correct_entity": "option_b"
+      },
+      "options": [
+        "Hindi",
+        "Vietnamese",
+        "Filipino"
+      ],
+      "expl": [
+        "This audio clip is spoken in Vietnamese. Vietnamese uses a Latin-based alphabet with added accent marks for tones. It is a tonal language, where the same word can carry different meanings depending on pitch. Vietnamese was influenced by French colonial rule, which helped popularize its Latin script."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "Hindi"
+        ],
+        "option_b": [
+          "Vietnamese",
+          "vitnamis",
+          "vitamins",
+          "vietnamis"
+        ],
+        "option_c": [
+          "Filipino",
+          "filipina"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": "GEO_AUDIO_15.mp3",
+      "roundType": "audio"
+    },
+    {
+      "id": "GEO_AUDIO_16",
+      "que": "Which widely-spoken African language is being used here?",
+      "ans": {
+        "value": "Swahili",
+        "correct_entity": "option_a"
+      },
+      "options": [
+        "Swahili",
+        "Persian",
+        "English"
+      ],
+      "expl": [
+        "This audio clip is spoken in Swahili. Swahili is an official language in several East African countries, including Kenya and Tanzania. It developed as a trade language along the East African coast, blending Bantu roots with Arabic influences. Swahili is also one of the official languages of the African Union."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "Swahili",
+          "kiswahili",
+          "swahilli"
+        ],
+        "option_b": [
+          "Persian"
+        ],
+        "option_c": [
+          "English"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": "GEO_AUDIO_16.mp3",
+      "roundType": "audio"
+    },
+    {
+      "id": "GEO_AUDIO_17",
+      "que": "Which European language is being spoken here?",
+      "ans": {
+        "value": "Dutch",
+        "correct_entity": "option_b"
+      },
+      "options": [
+        "Turkish",
+        "Dutch",
+        "Tamil"
+      ],
+      "expl": [
+        "This audio clip is spoken in Dutch. Dutch is closely related to both German and English. It is the official language of the Netherlands and one of the official languages of Belgium. Dutch is also the basis for Afrikaans, spoken widely in South Africa."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "Turkish"
+        ],
+        "option_b": [
+          "Dutch"
+        ],
+        "option_c": [
+          "Tamil"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": "GEO_AUDIO_17.mp3",
+      "roundType": "audio"
+    },
+    {
+      "id": "GEO_AUDIO_18",
+      "que": "Which ancient European language is still spoken in Greece today?",
+      "ans": {
+        "value": "Greek",
+        "correct_entity": "option_b"
+      },
+      "options": [
+        "Latin",
+        "Greek",
+        "Albanian"
+      ],
+      "expl": [
+        "This audio clip is spoken in Greek, an ancient European language still spoken in Greece today. Greek has one of the longest documented histories of any language, spanning over 3,000 years. It uses its own unique alphabet, which also gave rise to letters used in math and science. Modern Greek evolved from ancient Greek, the language of Homer and Plato."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "Latin"
+        ],
+        "option_b": [
+          "Greek"
+        ],
+        "option_c": [
+          "Albanian",
+          "albania",
+          "allabania"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": "GEO_AUDIO_18.mp3",
+      "roundType": "audio"
+    },
+    {
+      "id": "GEO_AUDIO_19",
+      "que": "Which Southeast Asian language is being spoken here?",
+      "ans": {
+        "value": "Thai",
+        "correct_entity": "option_a"
+      },
+      "options": [
+        "Thai",
+        "Vietnamese",
+        "Khmer"
+      ],
+      "expl": [
+        "This audio clip is spoken in Thai. Thai is a tonal language, where changing pitch can completely change a word's meaning. It uses its own script, developed in the 13th century, with no spaces between words in a sentence. Thai is the official language of Thailand, spoken by around 60 million people."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "Thai"
+        ],
+        "option_b": [
+          "Vietnamese",
+          "vitnamis",
+          "vitamins",
+          "vietnamis"
+        ],
+        "option_c": [
+          "Khmer",
+          "come here"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": "GEO_AUDIO_19.mp3",
+      "roundType": "audio"
+    },
+    {
+      "id": "GEO_AUDIO_20",
+      "que": "Which Central European language is being spoken in this recording?",
+      "ans": {
+        "value": "Polish",
+        "correct_entity": "option_a"
+      },
+      "options": [
+        "Polish",
+        "Italian",
+        "Arabic"
+      ],
+      "expl": [
+        "This audio clip is spoken in Polish, a Central European language. Polish has one of the most complex consonant systems of any European language. It is written using the Latin alphabet with added diacritical marks. Polish is a Slavic language, closely related to Czech and Slovak."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "Polish"
+        ],
+        "option_b": [
+          "Italian"
+        ],
+        "option_c": [
+          "Arabic"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": "GEO_AUDIO_20.mp3",
+      "roundType": "audio"
+    },
+    {
+      "id": "GEO_AUDIO_21",
+      "que": "Which South Indian language is being spoken here?",
+      "ans": {
+        "value": "Tamil",
+        "correct_entity": "option_b"
+      },
+      "options": [
+        "English",
+        "Tamil",
+        "Hindi"
+      ],
+      "expl": [
+        "This audio clip is spoken in Tamil, a South Indian language. Tamil is one of the longest continuously used languages in the world, dating back over 2,000 years. It is an official language in the Indian state of Tamil Nadu as well as in Sri Lanka and Singapore. Ancient Tamil literature includes some of the oldest surviving poetic works in India."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "English"
+        ],
+        "option_b": [
+          "Tamil",
+          "tamizh"
+        ],
+        "option_c": [
+          "Hindi"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": "GEO_AUDIO_21.mp3",
+      "roundType": "audio"
+    },
+    {
+      "id": "GEO_AUDIO_22",
+      "que": "Which South Asian language spoken in Bangladesh and West Bengal is heard here?",
+      "ans": {
+        "value": "Bengali",
+        "correct_entity": "option_a"
+      },
+      "options": [
+        "Bengali",
+        "English",
+        "Spanish"
+      ],
+      "expl": [
+        "This audio clip is spoken in Bengali, widely spoken in Bangladesh and West Bengal. Bengali is one of the most widely spoken languages in the world by native speakers. It is the official language of Bangladesh and one of India's official languages. Bengali has a rich literary tradition, including the works of Nobel laureate Rabindranath Tagore."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "Bengali"
+        ],
+        "option_b": [
+          "English"
+        ],
+        "option_c": [
+          "Spanish"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": "GEO_AUDIO_22.mp3",
+      "roundType": "audio"
+    },
+    {
+      "id": "GEO_AUDIO_23",
+      "que": "Which Southeast Asian language, spoken in the Philippines, is being used in this clip?",
+      "ans": {
+        "value": "Tagalog",
+        "correct_entity": "option_b"
+      },
+      "options": [
+        "Malay",
+        "Tagalog",
+        "Indonesian"
+      ],
+      "expl": [
+        "This audio clip is spoken in Tagalog, used in the Philippines. Tagalog forms the basis of Filipino, the national language of the Philippines. It is spoken as a first language by millions of Filipinos, primarily in and around Manila. The Philippines is home to over 180 languages, with Tagalog-based Filipino serving as a unifying national language."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "Malay",
+          "malai",
+          "malaaee"
+        ],
+        "option_b": [
+          "Tagalog",
+          "taglog"
+        ],
+        "option_c": [
+          "Indonesian"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": "GEO_AUDIO_23.mp3",
+      "roundType": "audio"
+    },
+    {
+      "id": "GEO_AUDIO_24",
+      "que": "Which ancient Middle Eastern language, still spoken in Israel, is being used here?",
+      "ans": {
+        "value": "Hebrew",
+        "correct_entity": "option_b"
+      },
+      "options": [
+        "Spanish",
+        "Hebrew",
+        "Aramaic"
+      ],
+      "expl": [
+        "This audio clip is spoken in Hebrew, an ancient Middle Eastern language still spoken in Israel. Hebrew was revived as a modern spoken language in the late 19th and early 20th centuries. Before that revival, it had mainly survived as a liturgical and written language for centuries. Hebrew is written from right to left using its own distinct alphabet."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "Spanish"
+        ],
+        "option_b": [
+          "Hebrew",
+          "hey bro"
+        ],
+        "option_c": [
+          "Aramaic",
+          "arabic"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": "GEO_AUDIO_24.mp3",
+      "roundType": "audio"
+    }
+  ]
+}

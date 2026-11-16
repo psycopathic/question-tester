@@ -1,0 +1,975 @@
+{
+  "TEXT_QUESTIONS": [
+    {
+      "id": "Trivia_Battle_B5_4",
+      "que": "Which is the only mammal that can't jump?",
+      "ans": {
+        "value": "Elephant",
+        "correct_entity": "option_b"
+      },
+      "options": [
+        "Bear",
+        "Elephant",
+        "Cow"
+      ],
+      "expl": [
+        "The elephant is the only mammal that can't jump due to its size and weight. Their skeletal structure and heavy bodies make it difficult for them to lift all four feet off the ground at the same time."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "Bear",
+          "beer"
+        ],
+        "option_b": [
+          "Elephant"
+        ],
+        "option_c": [
+          "Cow",
+          "cows"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": ""
+    },
+    {
+      "id": "Trivia_Battle_B5_7",
+      "que": "What is the tallest dog breed in the world?",
+      "ans": {
+        "value": "Irish Wolfhound",
+        "correct_entity": "option_b"
+      },
+      "options": [
+        "Greyhound",
+        "Irish Wolfhound",
+        "Scottish Deerhound"
+      ],
+      "expl": [
+        "The Irish Wolfhound, recognized as the tallest breed of dog by the AKC, was initially bred for big-game hunting and possessed a grand and impressive appearance."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "Greyhound",
+          "greyound"
+        ],
+        "option_b": [
+          "Irish Wolfhound",
+          "irish",
+          "wolfhound"
+        ],
+        "option_c": [
+          "Scottish Deerhound",
+          "scottish",
+          "deerhound",
+          "deer hound"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": ""
+    },
+    {
+      "id": "Trivia_Battle_B5_8",
+      "que": "What is the loudest-known creature on Earth?",
+      "ans": {
+        "value": "Whale",
+        "correct_entity": "option_a"
+      },
+      "options": [
+        "Whale",
+        "Bat",
+        "Shrimp"
+      ],
+      "expl": [
+        "The loudest-known creature on Earth is the sperm whale, with clicks reaching up to 230 decibels underwater. This is loud enough to be heard from several miles away and is used for echolocation and communication."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "Whale",
+          "well"
+        ],
+        "option_b": [
+          "Bat",
+          "bats"
+        ],
+        "option_c": [
+          "Shrimp",
+          "shrimps"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": ""
+    },
+    {
+      "id": "Trivia_Battle_B5_15",
+      "que": "What animal can naturally survive being frozen solid?",
+      "ans": {
+        "value": "Wood frog",
+        "correct_entity": "option_b"
+      },
+      "options": [
+        "Prairie dog",
+        "Wood frog",
+        "Snowy owl"
+      ],
+      "expl": [
+        "Wood frogs can survive freezing solid in winter by using sugar as a natural antifreeze. As temperatures rise, their heart and brain thaw first, then their body, letting them fully recover within about 10 hours."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "Prairie dog",
+          "prairie",
+          "dog"
+        ],
+        "option_b": [
+          "Wood frog",
+          "wood",
+          "frog"
+        ],
+        "option_c": [
+          "Snowy owl",
+          "snowy",
+          "owl"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": ""
+    },
+    {
+      "id": "Trivia_Battle_B5_18",
+      "que": "Which sea creature has three hearts?",
+      "ans": {
+        "value": "Octopus",
+        "correct_entity": "option_b"
+      },
+      "options": [
+        "Crocodile",
+        "Octopus",
+        "Whale"
+      ],
+      "expl": [
+        "The giant Pacific octopus is a peculiar sea creature with three hearts, nine brains, and blue blood, making it an oddity. It has a central brain that manages its nervous system."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "Crocodile",
+          "crocodiles"
+        ],
+        "option_b": [
+          "Octopus"
+        ],
+        "option_c": [
+          "Whale",
+          "well"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": ""
+    },
+    {
+      "id": "Trivia_Battle_B5_43",
+      "que": "Which male bird produces milk for its young?",
+      "ans": {
+        "value": "Pigeon",
+        "correct_entity": "option_a"
+      },
+      "options": [
+        "Pigeon",
+        "Eagle",
+        "Vulture"
+      ],
+      "expl": [
+        "Both male and female pigeons produce “pigeon milk,” a nutrient-rich fluid from their crop cells. Like mammal lactation, it feeds their young. Only flamingos and emperor penguins share this trait."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "Pigeon",
+          "pigeons"
+        ],
+        "option_b": [
+          "Eagle",
+          "eagles"
+        ],
+        "option_c": [
+          "Vulture"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": ""
+    },
+    {
+      "id": "Trivia_Battle_B5_92",
+      "que": "What creature boasts the world's largest eyes?",
+      "ans": {
+        "value": "Colossal Squid",
+        "correct_entity": "option_c"
+      },
+      "options": [
+        "Ostrich",
+        "Bamboo Lemur",
+        "Colossal Squid"
+      ],
+      "expl": [
+        "The colossal squid has the largest eyes in the animal kingdom, about 28 cm wide. Its 3.5-inch pupils collect light in deep, dark waters, helping it detect predators like sperm whales."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "Ostrich"
+        ],
+        "option_b": [
+          "Bamboo Lemur",
+          "lemure",
+          "lemur"
+        ],
+        "option_c": [
+          "Colossal Squid",
+          "colossal",
+          "squid",
+          "squids"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": ""
+    },
+    {
+      "id": "Trivia_Battle_B5_103",
+      "que": "What is a group of frogs called?",
+      "ans": {
+        "value": "Army",
+        "correct_entity": "option_c"
+      },
+      "options": [
+        "Smack",
+        "Troop",
+        "Army"
+      ],
+      "expl": [
+        "While birds form flocks and puppies form litters, frogs gather in an “army.” The term is ironic since frogs are peaceful creatures that form strong social groups, especially during mating season."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "Smack",
+          "snack"
+        ],
+        "option_b": [
+          "Troop",
+          "trup"
+        ],
+        "option_c": [
+          "Army"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": ""
+    },
+    {
+      "id": "Trivia_Battle_B5_124",
+      "que": "What is the fastest-flying bird in the world?",
+      "ans": {
+        "value": "Peregrine Falcon",
+        "correct_entity": "option_b"
+      },
+      "options": [
+        "Eagle",
+        "Peregrine Falcon",
+        "Hummingbird"
+      ],
+      "expl": [
+        "The peregrine falcon, the world’s fastest bird, dives at 240 mph to capture prey. With blue-grey plumage and a black facial stripe, it inhabits every continent except Antarctica."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "Eagle",
+          "eagles"
+        ],
+        "option_b": [
+          "Peregrine Falcon",
+          "peregrine",
+          "falcon"
+        ],
+        "option_c": [
+          "Hummingbird",
+          "humming bird"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": ""
+    },
+    {
+      "id": "Trivia_Battle_B5_128",
+      "que": "What type of animal is a seahorse?",
+      "ans": {
+        "value": "Fish",
+        "correct_entity": "option_a"
+      },
+      "options": [
+        "Fish",
+        "Mammal",
+        "Reptile"
+      ],
+      "expl": [
+        "A seahorse is a type of fish that belongs to the family Syngnathidae. They are unique for their horse-like appearance and ability to swim vertically."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "Fish",
+          "fishes"
+        ],
+        "option_b": [
+          "Mammal",
+          "mammals"
+        ],
+        "option_c": [
+          "Reptile",
+          "reptiles"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": ""
+    },
+    {
+      "id": "Trivia_Battle_B5_159",
+      "que": "Which animal is known for its ability to change its color to blend with its surroundings?",
+      "ans": {
+        "value": "Chameleon",
+        "correct_entity": "option_a"
+      },
+      "options": [
+        "Chameleon",
+        "Koala",
+        "Gorilla"
+      ],
+      "expl": [
+        "Chameleons change color using special skin cells called chromatophores. They shift shades to match their surroundings or to signal other chameleons during communication."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "Chameleon",
+          "kameleon"
+        ],
+        "option_b": [
+          "Koala",
+          "koalas"
+        ],
+        "option_c": [
+          "Gorilla",
+          "gorillas"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": ""
+    },
+    {
+      "id": "Trivia_Battle_B5_160",
+      "que": "What is the largest species of snake?",
+      "ans": {
+        "value": "Anaconda",
+        "correct_entity": "option_a"
+      },
+      "options": [
+        "Anaconda",
+        "King Cobra",
+        "Reticulated python"
+      ],
+      "expl": [
+        "The anaconda is the world’s largest snake, growing up to 30 feet long. It’s an excellent swimmer and can hold its breath underwater for minutes, closing its nostrils while diving."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "Anaconda"
+        ],
+        "option_b": [
+          "King Cobra",
+          "king",
+          "cobra"
+        ],
+        "option_c": [
+          "Reticulated python",
+          "reticulated",
+          "python"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": ""
+    },
+    {
+      "id": "Trivia_Battle_B5_161",
+      "que": "Which big cat is renowned for its ability to swim and hunt in water?",
+      "ans": {
+        "value": "Jaguar",
+        "correct_entity": "option_c"
+      },
+      "options": [
+        "Tiger",
+        "Leopard",
+        "Jaguar"
+      ],
+      "expl": [
+        "Jaguars are strong swimmers and hunt in water, catching fish and turtles. They have the most powerful bite among big cats, able to crush bones or pierce skulls of their prey."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "Tiger",
+          "tigers"
+        ],
+        "option_b": [
+          "Leopard"
+        ],
+        "option_c": [
+          "Jaguar",
+          "jaguars"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": ""
+    },
+    {
+      "id": "Trivia_Battle_B5_162",
+      "que": "Which bird is known for its unique courtship dance, characterized by an intricate series of steps and displays?",
+      "ans": {
+        "value": "Flamingo",
+        "correct_entity": "option_b"
+      },
+      "options": [
+        "Peacock",
+        "Flamingo",
+        "Emu"
+      ],
+      "expl": [
+        "Flamingos perform group courtship dances to attract mates. These displays feature synchronized moves, wing flaps, and calls that help strengthen pair bonds in the flock."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "Peacock",
+          "peacocks",
+          "pee cock"
+        ],
+        "option_b": [
+          "Flamingo",
+          "flamingoes",
+          "Flamingos"
+        ],
+        "option_c": [
+          "Emu",
+          "emus"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": ""
+    },
+    {
+      "id": "Trivia_Battle_B5_202",
+      "que": "What is a dog's permanent tooth count?",
+      "ans": {
+        "value": "42",
+        "correct_entity": "option_c"
+      },
+      "options": [
+        "24",
+        "30",
+        "42"
+      ],
+      "expl": [
+        "A dog has 42 adult teeth: incisors, canines, premolars, and molars. While breeds differ slightly, most dogs develop all their teeth by adulthood for chewing and biting."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "24",
+          "two four",
+          "twenty four"
+        ],
+        "option_b": [
+          "30",
+          "thirty",
+          "three zero"
+        ],
+        "option_c": [
+          "42",
+          "four two",
+          "forty two"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": ""
+    },
+    {
+      "id": "Trivia_Battle_B5_203",
+      "que": "What species of fish is Nemo?",
+      "ans": {
+        "value": "Clownfish",
+        "correct_entity": "option_a"
+      },
+      "options": [
+        "Clownfish",
+        "Angelfish",
+        "Pufferfish"
+      ],
+      "expl": [
+        "Nemo from “Finding Nemo” is a clownfish, a bright orange fish living among sea anemones. Known for their symbiotic bond, clownfish became icons of marine life."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "Clownfish",
+          "clown fish"
+        ],
+        "option_b": [
+          "Angelfish",
+          "angel fish"
+        ],
+        "option_c": [
+          "Pufferfish",
+          "puffer fish",
+          "puferfish",
+          "pufer fish"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": ""
+    },
+    {
+      "id": "Trivia_Battle_B5_204",
+      "que": "What animal has the biggest eyes?",
+      "ans": {
+        "value": "Colossal Squid",
+        "correct_entity": "option_c"
+      },
+      "options": [
+        "Chameleon",
+        "Ostrich",
+        "Colossal Squid"
+      ],
+      "expl": [
+        "The Colossal Squid has the largest eyes in the animal kingdom, up to 11 inches wide. These massive eyes help detect prey and light in the ocean’s dark depths."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "Chameleon",
+          "kameleon"
+        ],
+        "option_b": [
+          "Ostrich"
+        ],
+        "option_c": [
+          "Colossal Squid",
+          "colossal",
+          "squid",
+          "squids"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": ""
+    },
+    {
+      "id": "Trivia_Battle_B5_205",
+      "que": "What animal breathes through its butt?",
+      "ans": {
+        "value": "Sea Cucumber",
+        "correct_entity": "option_c"
+      },
+      "options": [
+        "Turtle",
+        "Frog",
+        "Sea Cucumber"
+      ],
+      "expl": [
+        "The Sea Cucumber breathes through its anus via cloacal respiration, drawing in oxygenated water. This adaptation helps it survive in low-oxygen ocean habitats."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "Turtle",
+          "turtles"
+        ],
+        "option_b": [
+          "Frog"
+        ],
+        "option_c": [
+          "Sea Cucumber",
+          "sea",
+          "cucumber",
+          "see cucumber",
+          "see",
+          "c. cucumber"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": ""
+    },
+    {
+      "id": "Trivia_Battle_B5_226",
+      "que": "What kind of animal is a woolly bear?",
+      "ans": {
+        "value": "Insect",
+        "correct_entity": "option_b"
+      },
+      "options": [
+        "Birds",
+        "Insect",
+        "Mammal"
+      ],
+      "expl": [
+        "The woolly bear is the caterpillar of the Pyrrharctia isabella moth, found in North America, known for its black and reddish-brown bands."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "Birds",
+          "bird"
+        ],
+        "option_b": [
+          "Insect",
+          "insects"
+        ],
+        "option_c": [
+          "Mammal",
+          "mammals"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": ""
+    },
+    {
+      "id": "Trivia_Battle_B5_228",
+      "que": "What is the collective noun for a group of pandas?",
+      "ans": {
+        "value": "An embarrassment",
+        "correct_entity": "option_c"
+      },
+      "options": [
+        "pack",
+        "cluster",
+        "An embarrassment"
+      ],
+      "expl": [
+        "A group of pandas is called an embarrassment—a 19th-century term fitting their shy, clumsy, and endearing behavior."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "pack",
+          "packs",
+          "back"
+        ],
+        "option_b": [
+          "cluster",
+          "clusters"
+        ],
+        "option_c": [
+          "An embarrassment"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": ""
+    },
+    {
+      "id": "Trivia_Battle_B5_230",
+      "que": "What animal's name comes from a Greek word meaning water horse?",
+      "ans": {
+        "value": "Seahorse",
+        "correct_entity": "option_c"
+      },
+      "options": [
+        "Dolphin",
+        "Hippopotamus",
+        "Seahorse"
+      ],
+      "expl": [
+        "The seahorse name comes from Greek “hippos” (horse) and “kampos” (sea monster), describing its horse-like head and ocean habitat."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "Dolphin",
+          "dolphins"
+        ],
+        "option_b": [
+          "Hippopotamus"
+        ],
+        "option_c": [
+          "Seahorse",
+          "see horse",
+          "sea horse"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": ""
+    },
+    {
+      "id": "Trivia_Battle_B5_242",
+      "que": "What land animal has the highest blood pressure?",
+      "ans": {
+        "value": "Giraffe",
+        "correct_entity": "option_b"
+      },
+      "options": [
+        "African Elephant",
+        "Giraffe",
+        "Arctic Wolf"
+      ],
+      "expl": [
+        "Giraffes have the highest blood pressure among land animals—about 280/180 mmHg—to pump blood to their brains through long necks, preventing fainting and ensuring steady circulation."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "African Elephant",
+          "african",
+          "elephant"
+        ],
+        "option_b": [
+          "Giraffe",
+          "giraffes"
+        ],
+        "option_c": [
+          "Arctic Wolf",
+          "arctic",
+          "wolf"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": ""
+    },
+    {
+      "id": "Trivia_Battle_B5_250",
+      "que": "What is a group of rats called?",
+      "ans": {
+        "value": "Mischief",
+        "correct_entity": "option_c"
+      },
+      "options": [
+        "Pack",
+        "Swarm",
+        "Mischief"
+      ],
+      "expl": [
+        "A group of rats is called a mischief, reflecting their clever and sneaky behavior. They often stick together, exploring and causing playful chaos wherever they go."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "Pack",
+          "packs"
+        ],
+        "option_b": [
+          "Swarm"
+        ],
+        "option_c": [
+          "Mischief",
+          "mystery"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": ""
+    },
+    {
+      "id": "Trivia_Battle_B5_256",
+      "que": "Cynophobia is the fear of what animal?",
+      "ans": {
+        "value": "Dogs",
+        "correct_entity": "option_c"
+      },
+      "options": [
+        "Cats",
+        "Birds",
+        "Dogs"
+      ],
+      "expl": [
+        "Cynophobia is an intense fear of dogs, often from trauma or cultural factors. It leads to anxiety and avoidance, but support and exposure therapy can help people manage it."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "Cats",
+          "cat",
+          "catch"
+        ],
+        "option_b": [
+          "Birds",
+          "bird"
+        ],
+        "option_c": [
+          "Dogs",
+          "dog"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": ""
+    },
+    {
+      "id": "Trivia_Battle_B5_270",
+      "que": "What is the only bird that can fly backwards?",
+      "ans": {
+        "value": "Hummingbird",
+        "correct_entity": "option_b"
+      },
+      "options": [
+        "Eagle",
+        "Hummingbird",
+        "Owl"
+      ],
+      "expl": [
+        "Hummingbirds are the only birds that can fly backward. Their wings beat rapidly, letting them hover, reverse, and move in any direction with incredible agility."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "Eagle",
+          "eagles"
+        ],
+        "option_b": [
+          "Hummingbird",
+          "humming bird"
+        ],
+        "option_c": [
+          "Owl",
+          "owls"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": ""
+    },
+    {
+      "id": "Trivia_Battle_B5_281",
+      "que": "How many legs does a butterfly have?",
+      "ans": {
+        "value": "Six",
+        "correct_entity": "option_b"
+      },
+      "options": [
+        "Ten",
+        "Six",
+        "Eight"
+      ],
+      "expl": [
+        "Butterflies have six legs—short front legs and longer middle and hind legs for movement. They also use their proboscis to help balance, making them unique among insects in how they walk and stand."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "Ten"
+        ],
+        "option_b": [
+          "Six",
+          "6"
+        ],
+        "option_c": [
+          "Eight",
+          "8"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": ""
+    },
+    {
+      "id": "Trivia_Battle_B5_282",
+      "que": "What is the fastest fish in the ocean?",
+      "ans": {
+        "value": "Sailfish",
+        "correct_entity": "option_b"
+      },
+      "options": [
+        "Marlin",
+        "Sailfish",
+        "Tuna"
+      ],
+      "expl": [
+        "The sailfish is the fastest fish, reaching 68 mph. Its sleek body and large dorsal fin give it incredible speed and agility, making it the ocean’s top sprinter, outpacing marlins and tunas."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "Marlin"
+        ],
+        "option_b": [
+          "Sailfish",
+          "cell fish",
+          "sell fish",
+          "sail fish",
+          "sale fish",
+          "selfish",
+          "selfie"
+        ],
+        "option_c": [
+          "Tuna"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": ""
+    },
+    {
+      "id": "Trivia_Battle_B5_295",
+      "que": "All official \"Seeing Eye\" dogs are trained in which state?",
+      "ans": {
+        "value": "New Jersey",
+        "correct_entity": "option_c"
+      },
+      "options": [
+        "Wyoming",
+        "Vermont",
+        "New Jersey"
+      ],
+      "expl": [
+        "Founded in 1929, The Seeing Eye in New Jersey trains guide dogs for the blind. Only dogs trained at its Morristown center are official Seeing Eye dogs. It became New Jersey’s state dog in 2020."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "Wyoming"
+        ],
+        "option_b": [
+          "Vermont"
+        ],
+        "option_c": [
+          "New Jersey"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": ""
+    }
+  ],
+  "IMAGE_QUESTIONS": [],
+  "AUDIO_QUESTIONS": []
+}

@@ -1,0 +1,639 @@
+{
+  "TEXT_QUESTIONS": [
+    {
+      "id": "sport_B2_1",
+      "que": "Who holds the record for the most career touchdown passes in NFL history?",
+      "ans": {
+        "value": "Tom Brady",
+        "correct_entity": "option_a"
+      },
+      "options": [
+        "Tom Brady",
+        "Peyton Manning",
+        "Brett Favre"
+      ],
+      "expl": [
+        "Tom Brady holds the record for the most career touchdown passes in NFL history. Tom Brady is the only quarterback in NFL history to win seven Super Bowl titles, solidifying his status as one of the greatest players in the sport."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "Tom Brady",
+          "tom",
+          "brady"
+        ],
+        "option_b": [
+          "Peyton Manning",
+          "peyton",
+          "manning",
+          "meaning",
+          "peyton meaning"
+        ],
+        "option_c": [
+          "Brett Favre",
+          "brett",
+          "favre",
+          "bret"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": ""
+    },
+    {
+      "id": "sport_B2_2",
+      "que": "Which team has won the most World Series titles in Major League Baseball history?",
+      "ans": {
+        "value": "New York Yankees",
+        "correct_entity": "option_a"
+      },
+      "options": [
+        "New York Yankees",
+        "St. Louis Cardinals",
+        "Los Angeles Dodgers"
+      ],
+      "expl": [
+        "The New York Yankees have won the most World Series titles in Major League Baseball history, with a remarkable 27 championships. Yankees have a rich history and have been a dominant force in baseball, with legendary players like Babe Ruth, Lou Gehrig, Joe DiMaggio, Mickey Mantle, and Derek Jeter representing the team over the years."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "New York Yankees",
+          "new",
+          "york",
+          "yankees",
+          "new york yankee",
+          "n. y. yankees",
+          "n. y. yankee"
+        ],
+        "option_b": [
+          "St. Louis Cardinals",
+          "saint",
+          "louis",
+          "cardinals",
+          "st. louis",
+          "louis cardinals",
+          "louis cardinal",
+          "saint louis"
+        ],
+        "option_c": [
+          "Los Angeles Dodgers",
+          "los",
+          "angeles",
+          "dodgers",
+          "l. a. dodger",
+          "l. a. dodgers",
+          "los angeles dodger"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": ""
+    },
+    {
+      "id": "sport_B2_3",
+      "que": "Who holds the record for the most career hits in Major League Baseball?",
+      "ans": {
+        "value": "Pete Rose",
+        "correct_entity": "option_a"
+      },
+      "options": [
+        "Pete Rose",
+        "Ty Cobb",
+        "Derek Jeter"
+      ],
+      "expl": [
+        "Pete Rose holds the record for the most career hits in Major League Baseball, establishing himself as one of the game's greatest hitters. Pete Rose, known as \"Charlie Hustle,\" was not only a prolific hitter but also a player known for his intense competitiveness and relentless style of play."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "Pete Rose",
+          "pete",
+          "rose"
+        ],
+        "option_b": [
+          "Ty Cobb",
+          "ty",
+          "cobb",
+          "thai cobb",
+          "t. y. cobb",
+          "tie cobb",
+          "ty cob",
+          "t. y. cob",
+          "tie cob",
+          "tycoon"
+        ],
+        "option_c": [
+          "Derek Jeter",
+          "derek",
+          "jeter"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": ""
+    },
+    {
+      "id": "sport_B2_4",
+      "que": "Who is the most decorated Olympian of all time?",
+      "ans": {
+        "value": "Michael Phelps",
+        "correct_entity": "option_a"
+      },
+      "options": [
+        "Michael Phelps",
+        "Usain Bolt",
+        "Simone Biles"
+      ],
+      "expl": [
+        "Michael Phelps, the American swimmer, is the most decorated Olympian of all time, with a staggering total of 28 Olympic medals. Michael Phelps' incredible Olympic career spanned from 2000 to 2016, during which he won a record 23 gold medals, solidifying his status as one of the greatest athletes in Olympic history."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "Michael Phelps",
+          "michael",
+          "phelps"
+        ],
+        "option_b": [
+          "Usain Bolt",
+          "usain",
+          "bolt"
+        ],
+        "option_c": [
+          "Simone Biles",
+          "simone",
+          "biles",
+          "Simone Bile",
+          "simon"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": ""
+    },
+    {
+      "id": "sport_B2_5",
+      "que": "Which country hosted the first modern Olympic Games in 1896?",
+      "ans": {
+        "value": "Greece",
+        "correct_entity": "option_a"
+      },
+      "options": [
+        "Greece",
+        "France",
+        "United States"
+      ],
+      "expl": [
+        "Greece, the birthplace of the ancient Olympic Games, hosted the first modern Olympic Games in Athens in 1896. The first modern Olympics featured athletes from 14 countries participating in nine different sports. The Games aimed to revive the spirit of the ancient Olympics and promote international peace and understanding through sports."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "Greece"
+        ],
+        "option_b": [
+          "France"
+        ],
+        "option_c": [
+          "United States",
+          "united",
+          "states",
+          "u. s.",
+          "u. s. a."
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": ""
+    },
+    {
+      "id": "sport_B2_6",
+      "que": "Who is the most decorated female swimmer in Olympic history?",
+      "ans": {
+        "value": "Jenny Thompson",
+        "correct_entity": "option_c"
+      },
+      "options": [
+        "Katie Ledecky",
+        "Missy Franklin",
+        "Jenny Thompson"
+      ],
+      "expl": [
+        "Jenny Thompson, an American swimmer, is the most decorated female swimmer in Olympic history, winning 12 Olympic medals. She was known for her exceptional speed and versatility in multiple swimming events. Her Olympic career spanned from 1992 to 2004, during which she won a remarkable eight gold medals."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "Katie Ledecky",
+          "katie",
+          "ledecky",
+          "katy ledeki",
+          "katy ladaki",
+          "katie ladkee",
+          "k. t."
+        ],
+        "option_b": [
+          "Missy Franklin",
+          "missy",
+          "franklin",
+          "misy"
+        ],
+        "option_c": [
+          "Jenny Thompson",
+          "jenny",
+          "thompson",
+          "jenny thomson"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": ""
+    },
+    {
+      "id": "sport_B2_7",
+      "que": "Which team has won the most Stanley Cup championships in NHL history?",
+      "ans": {
+        "value": "Montreal Canadiens",
+        "correct_entity": "option_a"
+      },
+      "options": [
+        "Montreal Canadiens",
+        "Toronto Maple Leafs",
+        "Detroit Red Wings"
+      ],
+      "expl": [
+        "The Montreal Canadiens have the most Stanley Cup championships in NHL history, with 24 titles. They're one of the most successful teams in sports, known for their long-standing tradition. Their early dominance helped shape their incredible history."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "Montreal Canadiens",
+          "montreal",
+          "canadiens",
+          "canadian",
+          "montreal canadian"
+        ],
+        "option_b": [
+          "Toronto Maple Leafs",
+          "toronto",
+          "maple",
+          "leafs"
+        ],
+        "option_c": [
+          "Detroit Red Wings",
+          "detroit",
+          "red",
+          "wings"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": ""
+    },
+    {
+      "id": "sport_B2_8",
+      "que": "What type of race is the Tour de France?",
+      "ans": {
+        "value": "Cycling",
+        "correct_entity": "option_b"
+      },
+      "options": [
+        "Marathon",
+        "Cycling",
+        "Swimming"
+      ],
+      "expl": [
+        "The Tour de France is a famous cycling race. It is a multi-stage race held annually in France and neighboring countries. Cyclists from around the world participate in this prestigious event, enduring challenging terrains and covering thousands of kilometers over a period of several weeks."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "Marathon"
+        ],
+        "option_b": [
+          "Cycling"
+        ],
+        "option_c": [
+          "Swimming"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": ""
+    },
+    {
+      "id": "sport_B2_9",
+      "que": "Which is the only American Football team to go a whole season undefeated, including the Super Bowl?",
+      "ans": {
+        "value": "Miami Dolphins",
+        "correct_entity": "option_b"
+      },
+      "options": [
+        "New England Patriots",
+        "Miami Dolphins",
+        "Pittsburgh Steelers"
+      ],
+      "expl": [
+        "The only American Football team to go a whole season undefeated, including the Super Bowl, is the Miami Dolphins. In the 1972 season, the Dolphins achieved a perfect 17-0 record, culminating in a Super Bowl victory. Their undefeated season remains a remarkable feat in NFL history."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "New England Patriots",
+          "new",
+          "england",
+          "patriots"
+        ],
+        "option_b": [
+          "Miami Dolphins",
+          "miami",
+          "dolphins",
+          "dolphin",
+          "miami dolphin"
+        ],
+        "option_c": [
+          "Pittsburgh Steelers",
+          "pittsburgh",
+          "steelers"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": ""
+    },
+    {
+      "id": "sport_B2_10",
+      "que": "Raging Bull, the classic 1980 movie, is about which real-life boxer?",
+      "ans": {
+        "value": "Jake LaMotta",
+        "correct_entity": "option_c"
+      },
+      "options": [
+        "Muhammad Ali",
+        "Rocky Marciano",
+        "Jake LaMotta"
+      ],
+      "expl": [
+        "Raging Bull, directed by Martin Scorsese, is a biographical film about the life of Jake LaMotta. LaMotta was a renowned middleweight boxer known for his turbulent personal life and rivalry with other boxers. The film portrays his struggles both inside and outside the boxing ring."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "Muhammad Ali",
+          "muhammad",
+          "ali",
+          "mohammad",
+          "mohammad ali",
+          "mohammed ali"
+        ],
+        "option_b": [
+          "Rocky Marciano",
+          "rocky",
+          "marciano"
+        ],
+        "option_c": [
+          "Jake LaMotta",
+          "jake",
+          "lamotta",
+          "jack lamotta",
+          "jake la mota"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": ""
+    },
+    {
+      "id": "sport_B2_11",
+      "que": "At the 1976 Montreal Olympics, Nadia Comaneci became the first gymnast to achieve a perfect 10. Which country was she representing?",
+      "ans": {
+        "value": "Romania",
+        "correct_entity": "option_b"
+      },
+      "options": [
+        "United States",
+        "Romania",
+        "Soviet Union"
+      ],
+      "expl": [
+        "Nadia Comaneci, the Romanian gymnast, made history at the 1976 Olympic Games in Montreal by becoming the first gymnast to score a perfect 10. Her flawless performances and extraordinary skills captivated the world, and she remains one of the most iconic figures in the history of gymnastics."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "United States",
+          "united",
+          "states",
+          "u. s.",
+          "u. s. a."
+        ],
+        "option_b": [
+          "Romania",
+          "roman"
+        ],
+        "option_c": [
+          "Soviet Union",
+          "soviet",
+          "union"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": ""
+    },
+    {
+      "id": "sport_B2_12",
+      "que": "Which country has produced the most Formula One World Championship winning drivers?",
+      "ans": {
+        "value": "United Kingdom",
+        "correct_entity": "option_c"
+      },
+      "options": [
+        "United States",
+        "Germany",
+        "United Kingdom"
+      ],
+      "expl": [
+        "The United Kingdom has produced the most Formula One World Championship winning drivers. Many legendary British drivers, such as Lewis Hamilton, Jackie Stewart, and Nigel Mansell, have achieved great success in Formula One, contributing to the UK's rich motorsport heritage."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "United States",
+          "united",
+          "states",
+          "u. s.",
+          "u. s. a."
+        ],
+        "option_b": [
+          "Germany"
+        ],
+        "option_c": [
+          "United Kingdom",
+          "united",
+          "kingdom",
+          "u. k."
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": ""
+    },
+    {
+      "id": "sport_B2_13",
+      "que": "How long is an Olympic-size swimming pool in meters?",
+      "ans": {
+        "value": "60",
+        "correct_entity": "option_b"
+      },
+      "options": [
+        "25",
+        "60",
+        "100"
+      ],
+      "expl": [
+        "An Olympic-size swimming pool is 50 meters in length. It is the standard size used in Olympic Games and major international swimming competitions. The length allows for fair and consistent competition, and world records are often set in these pools due to their optimal dimensions."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "25",
+          "two five",
+          "twenty five"
+        ],
+        "option_b": [
+          "60",
+          "sixty",
+          "six zero"
+        ],
+        "option_c": [
+          "100",
+          "hundred",
+          "one hundred",
+          "one zero zero"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": ""
+    },
+    {
+      "id": "sport_B2_14",
+      "que": "In which sport would you compete for the Swaythling Cup?",
+      "ans": {
+        "value": "Table Tennis",
+        "correct_entity": "option_b"
+      },
+      "options": [
+        "Soccer",
+        "Table Tennis",
+        "Rugby"
+      ],
+      "expl": [
+        "The Swaythling Cup is a prestigious international table tennis trophy awarded to the best men's team in the World Table Tennis Championships. It was first presented in 1926 and is named after Sir George Swaythling, the founding president of the International Table Tennis Federation."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "Soccer"
+        ],
+        "option_b": [
+          "Table Tennis",
+          "table",
+          "tennis"
+        ],
+        "option_c": [
+          "Rugby",
+          "rugbee"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": ""
+    },
+    {
+      "id": "sport_B2_15",
+      "que": "What is the length of a bowling alley lane in feet?",
+      "ans": {
+        "value": "60",
+        "correct_entity": "option_b"
+      },
+      "options": [
+        "41",
+        "60",
+        "82"
+      ],
+      "expl": [
+        "The length of a standard bowling alley lane is approximately 60 feet. This distance is measured from the foul line, where the bowler stands, to the head pin at the end of the lane. The 60-foot length allows for proper bowling technique and provides a fair and consistent playing field for bowlers of all skill levels."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "41",
+          "forty one",
+          "four one"
+        ],
+        "option_b": [
+          "60",
+          "sixty",
+          "six zero"
+        ],
+        "option_c": [
+          "82",
+          "eight two",
+          "eighty two"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": ""
+    },
+    {
+      "id": "sport_B2_16",
+      "que": "Which team won the first-ever Super Bowl?",
+      "ans": {
+        "value": "Green Bay Packers",
+        "correct_entity": "option_a"
+      },
+      "options": [
+        "Green Bay Packers",
+        "Kansas City Chiefs",
+        "New England Patriots"
+      ],
+      "expl": [
+        "The Green Bay Packers won the first Super Bowl on January 15, 1967. They beat the Kansas City Chiefs 35-10. With coach Vince Lombardi and quarterback Bart Starr leading the way, the Packers showed they were the best and became the first-ever champions of this important football game."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "Green Bay Packers",
+          "green",
+          "bay",
+          "packers",
+          "Green Bay Packer"
+        ],
+        "option_b": [
+          "Kansas City Chiefs",
+          "kansas",
+          "city",
+          "chiefs",
+          "kansas city chief"
+        ],
+        "option_c": [
+          "New England Patriots",
+          "new",
+          "england",
+          "patriots",
+          "New England Patriot"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": ""
+    }
+  ],
+  "IMAGE_QUESTIONS": [],
+  "AUDIO_QUESTIONS": []
+}

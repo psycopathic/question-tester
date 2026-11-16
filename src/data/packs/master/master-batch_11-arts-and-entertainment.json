@@ -1,0 +1,2705 @@
+{
+  "TEXT_QUESTIONS": [
+    {
+      "id": "ART_TEXT_01",
+      "que": "Which musical instrument has six strings and is usually played by strumming or plucking?",
+      "ans": {
+        "value": "Guitar",
+        "correct_entity": "option_b"
+      },
+      "options": [
+        "Piano",
+        "Guitar",
+        "Accordion"
+      ],
+      "expl": [
+        "This musical instrument, with six strings usually played by strumming or plucking, is a guitar. A guitar can produce hundreds of different notes and chords using just six strings and your fingertips. Acoustic guitars produce sound naturally through their hollow body, while electric guitars rely on amplification. The modern guitar evolved from earlier stringed instruments like the lute and vihuela."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "Piano"
+        ],
+        "option_b": [
+          "Guitar"
+        ],
+        "option_c": [
+          "Accordion"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": "",
+      "roundType": "text"
+    },
+    {
+      "id": "ART_TEXT_02",
+      "que": "Which Dutch painter is famous for creating 'The Starry Night'?",
+      "ans": {
+        "value": "Vincent van Gogh",
+        "correct_entity": "option_c"
+      },
+      "options": [
+        "Rembrandt",
+        "Claude Monet",
+        "Vincent van Gogh"
+      ],
+      "expl": [
+        "The Dutch painter famous for creating \"The Starry Night\" is Vincent van Gogh. Van Gogh painted \"The Starry Night\" while staying at a mental asylum in France. The swirling sky is considered one of the most recognizable images in Western art. Van Gogh painted the piece from memory, depicting the view from his asylum window at night."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "Rembrandt"
+        ],
+        "option_b": [
+          "Claude Monet"
+        ],
+        "option_c": [
+          "Vincent van Gogh"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": "",
+      "roundType": "text"
+    },
+    {
+      "id": "ART_TEXT_03",
+      "que": "In which country did the classical dance form Ballet first originate?",
+      "ans": {
+        "value": "Italy",
+        "correct_entity": "option_b"
+      },
+      "options": [
+        "France",
+        "Italy",
+        "Russia"
+      ],
+      "expl": [
+        "The classical dance form Ballet first originated in Italy. Ballet began in the Italian Renaissance courts before becoming popular in France. It later flourished under the patronage of French and Russian royal courts. Ballet technique today still uses many French terms due to its development in the French royal court."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "France"
+        ],
+        "option_b": [
+          "Italy"
+        ],
+        "option_c": [
+          "Russia"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": "",
+      "roundType": "text"
+    },
+    {
+      "id": "ART_TEXT_04",
+      "que": "Which Shakespeare play features a prince of Denmark seeking revenge for his father's murder?",
+      "ans": {
+        "value": "Hamlet",
+        "correct_entity": "option_c"
+      },
+      "options": [
+        "Macbeth",
+        "Othello",
+        "Hamlet"
+      ],
+      "expl": [
+        "The Shakespeare play featuring a prince of Denmark seeking revenge for his father's murder is Hamlet. Hamlet's famous line \"To be or not to be\" comes from this very play. It is considered one of Shakespeare's longest and most complex tragedies. Hamlet has been adapted into countless films, operas, and stage productions worldwide."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "Macbeth"
+        ],
+        "option_b": [
+          "Othello"
+        ],
+        "option_c": [
+          "Hamlet"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": "",
+      "roundType": "text"
+    },
+    {
+      "id": "ART_TEXT_05",
+      "que": "Which art movement, co-founded by Pablo Picasso, shows objects from multiple angles at once?",
+      "ans": {
+        "value": "Cubism",
+        "correct_entity": "option_b"
+      },
+      "options": [
+        "Impressionism",
+        "Cubism",
+        "Surrealism"
+      ],
+      "expl": [
+        "The art movement co-founded by Pablo Picasso that shows objects from multiple angles at once is Cubism. Cubism broke objects apart and reassembled them in an abstract, geometric form. It was developed alongside French artist Georges Braque in the early 20th century. Cubism heavily influenced later modern art movements, including Futurism and Constructivism."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "Impressionism"
+        ],
+        "option_b": [
+          "Cubism"
+        ],
+        "option_c": [
+          "Surrealism"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": "",
+      "roundType": "text"
+    },
+    {
+      "id": "ART_TEXT_06",
+      "que": "In music notation, what does the Italian term 'forte' instruct a musician to do?",
+      "ans": {
+        "value": "Play loudly",
+        "correct_entity": "option_b"
+      },
+      "options": [
+        "Play softly",
+        "Play loudly",
+        "Play quickly"
+      ],
+      "expl": [
+        "In music notation, the Italian term \"forte\" instructs a musician to play loudly. Musical dynamics like \"forte\" and \"piano\" are almost always written in Italian. \"Forte\" is often abbreviated with the letter \"f\" on a musical score. Additional terms, like \"fortissimo,\" indicate even greater volume."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "Play softly"
+        ],
+        "option_b": [
+          "Play loudly"
+        ],
+        "option_c": [
+          "Play quickly"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": "",
+      "roundType": "text"
+    },
+    {
+      "id": "ART_TEXT_07",
+      "que": "What object does an orchestra conductor typically hold while leading musicians?",
+      "ans": {
+        "value": "baton",
+        "correct_entity": "option_b"
+      },
+      "options": [
+        "microphone",
+        "baton",
+        "flag"
+      ],
+      "expl": [
+        "An orchestra conductor typically holds a baton while leading musicians. Some conductors choose to lead an orchestra using only their bare hands, without a baton. The baton helps performers see clear, precise timing cues, especially in large ensembles. Batons are traditionally made of lightweight wood or fiberglass with a cork handle."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "microphone"
+        ],
+        "option_b": [
+          "baton"
+        ],
+        "option_c": [
+          "flag"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": "",
+      "roundType": "text"
+    },
+    {
+      "id": "ART_TEXT_08",
+      "que": "Which Italian artist painted the ceiling of the Sistine Chapel?",
+      "ans": {
+        "value": "Michelangelo",
+        "correct_entity": "option_c"
+      },
+      "options": [
+        "Leonardo da Vinci",
+        "Raphael",
+        "Michelangelo"
+      ],
+      "expl": [
+        "Michelangelo painted the ceiling of the Sistine Chapel in Vatican City. It took him roughly four years to complete, working largely on his back atop scaffolding. The most famous scene, \"The Creation of Adam,\" depicts God's hand reaching toward Adam's. Michelangelo initially resisted the commission, considering himself more a sculptor than a painter. He later returned to paint \"The Last Judgment\" on the chapel's altar wall."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "Leonardo da Vinci"
+        ],
+        "option_b": [
+          "Raphael",
+          "rafael",
+          "rafel"
+        ],
+        "option_c": [
+          "Michelangelo",
+          "michael angelo",
+          "michael",
+          "angelo"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": "",
+      "roundType": "text"
+    },
+    {
+      "id": "ART_TEXT_09",
+      "que": "How many strings does a standard classical guitar have?",
+      "ans": {
+        "value": "Six",
+        "correct_entity": "option_b"
+      },
+      "options": [
+        "Four",
+        "Six",
+        "Twelve"
+      ],
+      "expl": [
+        "A standard classical guitar has six strings. Classical guitars use nylon strings, unlike the steel strings on acoustic guitars. The instrument descends from earlier designs like the vihuela and lute. Its strings are typically tuned E-A-D-G-B-E from lowest to highest. Classical guitar technique emphasizes fingerstyle playing rather than a pick."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "Four",
+          "for"
+        ],
+        "option_b": [
+          "Six"
+        ],
+        "option_c": [
+          "Twelve"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": "",
+      "roundType": "text"
+    },
+    {
+      "id": "ART_TEXT_10",
+      "que": "Which composer kept writing music even after going completely deaf?",
+      "ans": {
+        "value": "Beethoven",
+        "correct_entity": "option_a"
+      },
+      "options": [
+        "Beethoven",
+        "Bach",
+        "Chopin"
+      ],
+      "expl": [
+        "Beethoven kept composing even after going completely deaf. He wrote his famous Ninth Symphony after losing nearly all his hearing. Beethoven reportedly sawed the legs off his piano to feel vibrations through the floor. He is considered a bridge between the Classical and Romantic musical eras. Despite his deafness, he conducted the premiere of the Ninth Symphony in 1824."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "Beethoven",
+          "beeth oven",
+          "by the way",
+          "between"
+        ],
+        "option_b": [
+          "Bach",
+          "back",
+          "pack",
+          "paak",
+          "baak",
+          "bark",
+          "park"
+        ],
+        "option_c": [
+          "Chopin",
+          "show pin",
+          "show pen",
+          "chop in"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": "",
+      "roundType": "text"
+    },
+    {
+      "id": "ART_TEXT_11",
+      "que": "Salvador Dali is most associated with which art movement?",
+      "ans": {
+        "value": "Surrealism",
+        "correct_entity": "option_b"
+      },
+      "options": [
+        "Cubism",
+        "Surrealism",
+        "Baroque"
+      ],
+      "expl": [
+        "Salvador Dalí is most associated with the Surrealist art movement. He's famous for his melting-clock painting, \"The Persistence of Memory.\" Dalí often explored dream imagery and the subconscious mind in his work. His flamboyant mustache became almost as iconic as his art. Surrealism emerged in the 1920s, inspired partly by Freud's theories of dreams."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "Cubism",
+          "give me some",
+          "cube"
+        ],
+        "option_b": [
+          "Surrealism",
+          "surely listen",
+          "shaurya listen",
+          "serialism"
+        ],
+        "option_c": [
+          "Baroque",
+          "broke"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": "",
+      "roundType": "text"
+    },
+    {
+      "id": "ART_TEXT_12",
+      "que": "The world famous Louvre Museum is located in which city?",
+      "ans": {
+        "value": "Paris",
+        "correct_entity": "option_a"
+      },
+      "options": [
+        "Paris",
+        "London",
+        "Madrid"
+      ],
+      "expl": [
+        "The Louvre Museum is located in Paris, France. It's the world's most visited museum, drawing millions of visitors yearly. The Louvre was once a royal palace before becoming a museum in 1793. It houses the Mona Lisa, one of the most famous paintings in history. The glass pyramid entrance, added in 1989, was designed by architect I. M. Pei."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "Paris",
+          "aries",
+          "arise"
+        ],
+        "option_b": [
+          "London"
+        ],
+        "option_c": [
+          "Madrid"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": "",
+      "roundType": "text"
+    },
+    {
+      "id": "ART_TEXT_13",
+      "que": "What term describes an early movie made without spoken dialogue?",
+      "ans": {
+        "value": "Silent film",
+        "correct_entity": "option_b"
+      },
+      "options": [
+        "Mime film",
+        "Silent film",
+        "Quiet film"
+      ],
+      "expl": [
+        "An early movie made without spoken dialogue is called a silent film. Silent films were often accompanied by live music in the theater. Actors relied on exaggerated expressions and title cards to convey dialogue. The silent era largely ended in the late 1920s with the arrival of \"talkies.\" Charlie Chaplin became one of the biggest stars of the silent film era."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "Mime film",
+          "my film",
+          "mine film",
+          "mim film",
+          "my friend"
+        ],
+        "option_b": [
+          "Silent film",
+          "silent thing"
+        ],
+        "option_c": [
+          "Quiet film",
+          "quick film",
+          "quit film"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": "",
+      "roundType": "text"
+    },
+    {
+      "id": "ART_TEXT_14",
+      "que": "Which dance style originated in Argentina in the late 1800s?",
+      "ans": {
+        "value": "Tango",
+        "correct_entity": "option_a"
+      },
+      "options": [
+        "Tango",
+        "Flamenco",
+        "Samba"
+      ],
+      "expl": [
+        "Tango is a dance style that originated in Argentina in the late 1800s. It began in the working-class neighborhoods of Buenos Aires. The dance blends influences from African, European, and native Argentine traditions. Tango is traditionally danced in close embrace, with intricate footwork. UNESCO recognized tango as part of humanity's Intangible Cultural Heritage in 2009."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "Tango",
+          "mango",
+          "tingo",
+          "tengo tongo"
+        ],
+        "option_b": [
+          "Flamenco",
+          "flamingo"
+        ],
+        "option_c": [
+          "Samba"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": "",
+      "roundType": "text"
+    },
+    {
+      "id": "ART_TEXT_15",
+      "que": "Which 1937 painting by Pablo Picasso depicts the horrors of a Spanish bombing raid?",
+      "ans": {
+        "value": "Guernica",
+        "correct_entity": "option_a"
+      },
+      "options": [
+        "Guernica",
+        "The Weeping Woman",
+        "Les Demoiselles"
+      ],
+      "expl": [
+        "The 1937 painting by Pablo Picasso depicting the horrors of a Spanish bombing raid is Guernica. Guernica is painted almost entirely in black, white, and grey tones. It was created in response to the bombing of the Basque town of Guernica during the Spanish Civil War. The painting is now housed at the Museo Reina Sofía in Madrid."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "Guernica"
+        ],
+        "option_b": [
+          "The Weeping Woman"
+        ],
+        "option_c": [
+          "Les Demoiselles"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": "",
+      "roundType": "text"
+    },
+    {
+      "id": "ART_TEXT_16",
+      "que": "Which Baroque composer wrote the famous violin concertos known as 'The Four Seasons'?",
+      "ans": {
+        "value": "Antonio Vivaldi",
+        "correct_entity": "option_b"
+      },
+      "options": [
+        "Johann Bach",
+        "Antonio Vivaldi",
+        "Franz Schubert"
+      ],
+      "expl": [
+        "The Baroque composer who wrote the famous violin concertos known as \"The Four Seasons\" is Antonio Vivaldi. Vivaldi wrote over 500 concertos during his lifetime. He worked for many years at an orphanage for girls in Venice, composing music for its resident orchestra. \"The Four Seasons\" remains one of the most frequently performed pieces of Baroque music today."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "Johann Bach"
+        ],
+        "option_b": [
+          "Antonio Vivaldi",
+          "vivaldi"
+        ],
+        "option_c": [
+          "Franz Schubert"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": "",
+      "roundType": "text"
+    },
+    {
+      "id": "ART_TEXT_17",
+      "que": "Which hit Broadway musical retells the story of a US Founding Father through hip-hop and rap?",
+      "ans": {
+        "value": "Hamilton",
+        "correct_entity": "option_a"
+      },
+      "options": [
+        "Hamilton",
+        "Wicked",
+        "Chicago"
+      ],
+      "expl": [
+        "The hit Broadway musical that retells the story of a US Founding Father through hip-hop and rap is Hamilton. The musical is based on a biography of Alexander Hamilton by historian Ron Chernow. It was created by Lin-Manuel Miranda, who also originated the title role. Hamilton won numerous Tony Awards and a Pulitzer Prize for Drama after its 2015 debut."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "Hamilton"
+        ],
+        "option_b": [
+          "Wicked"
+        ],
+        "option_c": [
+          "Chicago"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": "",
+      "roundType": "text"
+    },
+    {
+      "id": "ART_TEXT_18",
+      "que": "In which country did the traditional art of paper folding known as origami originate?",
+      "ans": {
+        "value": "Japan",
+        "correct_entity": "option_b"
+      },
+      "options": [
+        "China",
+        "Japan",
+        "Korea"
+      ],
+      "expl": [
+        "The traditional art of paper folding known as origami originated in Japan. The word \"origami\" comes from Japanese words meaning \"folding\" and \"paper.\" Traditional origami uses a single sheet of paper without cutting or gluing. The art form has influenced fields well beyond crafts, including engineering and space technology."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "China"
+        ],
+        "option_b": [
+          "Japan"
+        ],
+        "option_c": [
+          "Korea"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": "",
+      "roundType": "text"
+    },
+    {
+      "id": "ART_TEXT_19",
+      "que": "Which anonymous street artist is famous for stencil-based graffiti art often carrying social messages?",
+      "ans": {
+        "value": "Banksy",
+        "correct_entity": "option_a"
+      },
+      "options": [
+        "Banksy",
+        "Basquiat",
+        "Warhol"
+      ],
+      "expl": [
+        "The anonymous street artist famous for stencil-based graffiti art often carrying social messages is Banksy. Banksy's true identity has never been officially confirmed. His works often appear unannounced on public walls and address political or social themes. One of his paintings famously self-shredded moments after being sold at auction in 2018."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "Banksy"
+        ],
+        "option_b": [
+          "Basquiat"
+        ],
+        "option_c": [
+          "Warhol"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": "",
+      "roundType": "text"
+    },
+    {
+      "id": "ART_TEXT_20",
+      "que": "In theatre, what term describes an actor's on-stage movements and entrances written into a script?",
+      "ans": {
+        "value": "Stage directions",
+        "correct_entity": "option_a"
+      },
+      "options": [
+        "Stage directions",
+        "Script notes",
+        "Cue cards"
+      ],
+      "expl": [
+        "In theatre, the term for an actor's on-stage movements and entrances written into a script is \"stage directions.\" Stage directions are usually written in italics to separate them from spoken dialogue. They guide actors on movement, tone, and staging beyond just the spoken lines. Playwrights use stage directions to help directors visualize how a scene should unfold."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "Stage directions"
+        ],
+        "option_b": [
+          "Script notes"
+        ],
+        "option_c": [
+          "Cue cards"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": "",
+      "roundType": "text"
+    },
+    {
+      "id": "ART_TEXT_21",
+      "que": "Which music genre known for improvisation and swing rhythms originated in New Orleans?",
+      "ans": {
+        "value": "Jazz",
+        "correct_entity": "option_b"
+      },
+      "options": [
+        "Blues",
+        "Jazz",
+        "Reggae"
+      ],
+      "expl": [
+        "The music genre known for improvisation and swing rhythms that originated in New Orleans is jazz. Early jazz blended African rhythms with European harmonies in the early 1900s. It grew out of communities in New Orleans, drawing on blues, ragtime, and brass band traditions. Jazz later spread throughout the United States and influenced countless other music genres."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "Blues"
+        ],
+        "option_b": [
+          "Jazz"
+        ],
+        "option_c": [
+          "Reggae"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": "",
+      "roundType": "text"
+    },
+    {
+      "id": "ART_TEXT_22",
+      "que": "Which famous ballet tells the story of a young girl and her magical wooden nutcracker prince?",
+      "ans": {
+        "value": "Nutcracker",
+        "correct_entity": "option_b"
+      },
+      "options": [
+        "Swan Lake",
+        "Nutcracker",
+        "Giselle"
+      ],
+      "expl": [
+        "The famous ballet that tells the story of a young girl and her magical wooden nutcracker prince is The Nutcracker. The Nutcracker ballet is set to music composed by Pyotr Tchaikovsky. It premiered in 1892 and is now a beloved holiday tradition performed worldwide each December. The ballet is based on a story by E.T.A. Hoffmann."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "Swan Lake"
+        ],
+        "option_b": [
+          "Nutcracker"
+        ],
+        "option_c": [
+          "Giselle"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": "",
+      "roundType": "text"
+    },
+    {
+      "id": "ART_TEXT_23",
+      "que": "Which country is considered the birthplace of the passionate Flamenco style of music and dance?",
+      "ans": {
+        "value": "Spain",
+        "correct_entity": "option_b"
+      },
+      "options": [
+        "Portugal",
+        "Spain",
+        "Italy"
+      ],
+      "expl": [
+        "The country considered the birthplace of the passionate Flamenco style of music and dance is Spain. Flamenco developed in the Andalusia region of southern Spain. It blends influences from Romani, Moorish, and Andalusian cultures. Flamenco performances typically combine guitar, singing, hand clapping, and expressive dance."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "Portugal"
+        ],
+        "option_b": [
+          "Spain"
+        ],
+        "option_c": [
+          "Italy"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": "",
+      "roundType": "text"
+    },
+    {
+      "id": "ART_TEXT_24",
+      "que": "What do we call a musical performance given by a single performer, without accompaniment?",
+      "ans": {
+        "value": "solo",
+        "correct_entity": "option_b"
+      },
+      "options": [
+        "duet",
+        "solo",
+        "ensemble"
+      ],
+      "expl": [
+        "A musical performance given by a single performer, without accompaniment, is called a solo. The word \"solo\" comes from the Italian word meaning \"alone.\" Solos allow a performer to showcase individual skill and interpretation without support from other musicians. The term is used across many genres, from classical concertos to jazz improvisation."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "duet"
+        ],
+        "option_b": [
+          "solo",
+          "slow"
+        ],
+        "option_c": [
+          "ensemble"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": "",
+      "roundType": "text"
+    },
+    {
+      "id": "ART_TEXT_25",
+      "que": "Which classic painting medium uses pigment mixed with a slow-drying oil, often linseed oil?",
+      "ans": {
+        "value": "Oil paint",
+        "correct_entity": "option_b"
+      },
+      "options": [
+        "Watercolor",
+        "Oil paint",
+        "Acrylic"
+      ],
+      "expl": [
+        "The classic painting medium that uses pigment mixed with a slow-drying oil, often linseed oil, is oil paint. Oil paintings can take weeks or even months to fully dry. This slow drying time allows artists to blend colors and rework details over extended periods. Oil paint became the dominant painting medium in Europe starting in the 15th century."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "Watercolor"
+        ],
+        "option_b": [
+          "Oil paint"
+        ],
+        "option_c": [
+          "Acrylic"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": "",
+      "roundType": "text"
+    },
+    {
+      "id": "ART_TEXT_26",
+      "que": "What nickname, combining a city name and 'Hollywood', is given to India's Hindi-language film industry?",
+      "ans": {
+        "value": "Bollywood",
+        "correct_entity": "option_b"
+      },
+      "options": [
+        "Tollywood",
+        "Bollywood",
+        "Kollywood"
+      ],
+      "expl": [
+        "Bollywood is the nickname for India's Hindi-language film industry, based in Mumbai. Bollywood produces more films per year than Hollywood does. The name blends \"Bombay\" (Mumbai's former name) with \"Hollywood.\" Bollywood films are known for blending drama, music, and elaborate dance sequences."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "Tollywood"
+        ],
+        "option_b": [
+          "Bollywood"
+        ],
+        "option_c": [
+          "Kollywood"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": "",
+      "roundType": "text"
+    },
+    {
+      "id": "ART_TEXT_27",
+      "que": "Which comedian, famous in silent films, was known for his bowler hat, cane, and toothbrush mustache?",
+      "ans": {
+        "value": "Charlie Chaplin",
+        "correct_entity": "option_b"
+      },
+      "options": [
+        "Buster Keaton",
+        "Charlie Chaplin",
+        "Harold Lloyd"
+      ],
+      "expl": [
+        "Charlie Chaplin was the silent film comedian known for his bowler hat, cane, and toothbrush mustache. Chaplin's character was known simply as \"The Tramp.\" He wrote, directed, and starred in many of his own films during the silent era. Chaplin's work remains hugely influential on physical comedy and filmmaking techniques."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "Buster Keaton"
+        ],
+        "option_b": [
+          "Charlie Chaplin"
+        ],
+        "option_c": [
+          "Harold Lloyd"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": "",
+      "roundType": "text"
+    },
+    {
+      "id": "ART_TEXT_28",
+      "que": "In Greek theatre tradition, which two masks are commonly used to symbolize drama as an art form?",
+      "ans": {
+        "value": "Comedy and Tragedy",
+        "correct_entity": "option_a"
+      },
+      "options": [
+        "Comedy and Tragedy",
+        "Joy and Sorrow",
+        "Hero and Villain"
+      ],
+      "expl": [
+        "In Greek theatre tradition, Comedy and Tragedy are the two masks commonly used to symbolize drama as an art form. These two masks remain a widely recognized symbol of the performing arts today. The comedic mask typically has an upturned smile, while the tragic mask has a downturned frown. Ancient Greek actors wore actual masks on stage to project emotion and identify characters to large audiences."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "Comedy and Tragedy",
+          "comedian tragedy"
+        ],
+        "option_b": [
+          "Joy and Sorrow"
+        ],
+        "option_c": [
+          "Hero and Villain"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": "",
+      "roundType": "text"
+    }
+  ],
+  "IMAGE_QUESTIONS": [
+    {
+      "id": "ART_IMAGE_01",
+      "que": "Which instrument does this image show?",
+      "ans": {
+        "value": "Violin",
+        "correct_entity": "option_a"
+      },
+      "options": [
+        "Violin",
+        "Cello",
+        "Guitar"
+      ],
+      "expl": [
+        "This instrument is a violin. A violin typically has four strings tuned in perfect fifths. It's the smallest and highest-pitched member of the string instrument family. Fine violins, like those made by Stradivari, can be worth millions of dollars today. The violin has been central to Western classical music since the 16th century."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "Violin"
+        ],
+        "option_b": [
+          "Cello",
+          "hello",
+          "chalo"
+        ],
+        "option_c": [
+          "Guitar"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "ART_IMAGE_01.png",
+      "audioUrl": "",
+      "roundType": "image"
+    },
+    {
+      "id": "ART_IMAGE_02",
+      "que": "Which instrument is pictured here?",
+      "ans": {
+        "value": "Trumpet",
+        "correct_entity": "option_b"
+      },
+      "options": [
+        "Trombone",
+        "Trumpet",
+        "Saxophone"
+      ],
+      "expl": [
+        "This instrument is a trumpet. The trumpet is one of the oldest instruments, dating back over 3,000 years. Early trumpets were made from animal horns or hollowed wood before metal versions appeared. Modern trumpets typically have three valves to change pitch. Trumpets are prominent in classical, jazz, and military music alike."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "Trombone"
+        ],
+        "option_b": [
+          "Trumpet"
+        ],
+        "option_c": [
+          "Saxophone"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "ART_IMAGE_02.png",
+      "audioUrl": "",
+      "roundType": "image"
+    },
+    {
+      "id": "ART_IMAGE_03",
+      "que": "Guess the instrument shown in this image.",
+      "ans": {
+        "value": "Drum",
+        "correct_entity": "option_c"
+      },
+      "options": [
+        "Tambourine",
+        "Bongo",
+        "Drum"
+      ],
+      "expl": [
+        "This instrument is a drum. Drums are among the oldest known musical instruments in human history. They've been used for communication, ceremony, and celebration across cultures. Drums come in countless forms, from hand drums to full orchestral kits. Drumming patterns often form the rhythmic backbone of music across genres."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "Tambourine"
+        ],
+        "option_b": [
+          "Bongo",
+          "mongo"
+        ],
+        "option_c": [
+          "Drum"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "ART_IMAGE_03.png",
+      "audioUrl": "",
+      "roundType": "image"
+    },
+    {
+      "id": "ART_IMAGE_04",
+      "que": "Can you identify the instrument shown here?",
+      "ans": {
+        "value": "Saxophone",
+        "correct_entity": "option_b"
+      },
+      "options": [
+        "Clarinet",
+        "Saxophone",
+        "Flute"
+      ],
+      "expl": [
+        "This instrument is a saxophone. The saxophone was invented by Belgian instrument maker Adolphe Sax in 1846. Despite being made of brass, it's classified as a woodwind instrument. It became especially popular in jazz music during the 20th century. Saxophones come in several sizes, including soprano, alto, tenor, and baritone."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "Clarinet"
+        ],
+        "option_b": [
+          "Saxophone"
+        ],
+        "option_c": [
+          "Flute"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "ART_IMAGE_04.png",
+      "audioUrl": "",
+      "roundType": "image"
+    },
+    {
+      "id": "ART_IMAGE_05",
+      "que": "This Image represents which art form?",
+      "ans": {
+        "value": "Theatre",
+        "correct_entity": "option_a"
+      },
+      "options": [
+        "Theatre",
+        "Ballet",
+        "Circus"
+      ],
+      "expl": [
+        "This image represents the art form of theatre. Theatre is where imagination comes alive, and every performance tells a story that connects hearts. It combines acting, scriptwriting, staging, and lighting to bring stories to life in front of a live audience. Theatre traditions trace back thousands of years to ancient Greek drama festivals."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "Theatre",
+          "theater"
+        ],
+        "option_b": [
+          "Ballet",
+          "wallet",
+          "bullet"
+        ],
+        "option_c": [
+          "Circus"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "ART_IMAGE_05.png",
+      "audioUrl": "",
+      "roundType": "image"
+    },
+    {
+      "id": "ART_IMAGE_06",
+      "que": "Can you name this instrument?",
+      "ans": {
+        "value": "Banjo",
+        "correct_entity": "option_b"
+      },
+      "options": [
+        "Ukulele",
+        "Banjo",
+        "Guitar"
+      ],
+      "expl": [
+        "This instrument is a banjo. The banjo's origins trace back to instruments brought by enslaved Africans to the Americas. It typically has four or five strings stretched over a circular drum-like body. The banjo became a staple of American folk, bluegrass, and country music. Early banjos were often handmade using gourds as resonating bodies."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "Ukulele"
+        ],
+        "option_b": [
+          "Banjo"
+        ],
+        "option_c": [
+          "Guitar"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "ART_IMAGE_06.png",
+      "audioUrl": "",
+      "roundType": "image"
+    },
+    {
+      "id": "ART_IMAGE_07",
+      "que": "Identify the musical instrument in this picture.",
+      "ans": {
+        "value": "Piano",
+        "correct_entity": "option_a"
+      },
+      "options": [
+        "Piano",
+        "Accordion",
+        "Keyboard"
+      ],
+      "expl": [
+        "This instrument shown is a piano. A standard piano has 88 keys: 52 white and 36 black. The modern piano was invented in Italy around 1700 by Bartolomeo Cristofori. Pianos produce sound when hammers inside strike strings after a key is pressed."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "Piano"
+        ],
+        "option_b": [
+          "Accordion"
+        ],
+        "option_c": [
+          "Keyboard"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "ART_IMAGE_07.png",
+      "audioUrl": "",
+      "roundType": "image"
+    },
+    {
+      "id": "ART_IMAGE_08",
+      "que": "This famous painting shows a woman with a mysterious smile. What is it called?",
+      "ans": {
+        "value": "Mona Lisa",
+        "correct_entity": "option_b"
+      },
+      "options": [
+        "The Starry Night",
+        "Mona Lisa",
+        "The Scream"
+      ],
+      "expl": [
+        "This famous painting is called the Mona Lisa. The Mona Lisa was painted by Leonardo da Vinci and hangs in the Louvre. It is believed to depict Lisa Gherardini, an Italian noblewoman. The painting's subtle smile and use of sfumato shading technique have fascinated viewers for centuries."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "The Starry Night",
+          "the stary night",
+          "starry night",
+          "stary night"
+        ],
+        "option_b": [
+          "Mona Lisa"
+        ],
+        "option_c": [
+          "The Scream",
+          "cream",
+          "the cream"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "ART_IMAGE_08.jpg",
+      "audioUrl": "",
+      "roundType": "image"
+    },
+    {
+      "id": "ART_IMAGE_09",
+      "que": "Which classic video game character is this?",
+      "ans": {
+        "value": "Pac-Man",
+        "correct_entity": "option_c"
+      },
+      "options": [
+        "Sonic",
+        "Mario",
+        "Pac-Man"
+      ],
+      "expl": [
+        "This classic video game character is Pac-Man. Pac-Man was originally called \"Puck Man\" in Japan. The name was changed for the American market to avoid easy vandalism of the arcade cabinet's lettering. Pac-Man was released by Namco in 1980 and became one of the most iconic arcade games of all time."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "Sonic"
+        ],
+        "option_b": [
+          "Mario"
+        ],
+        "option_c": [
+          "Pac-Man",
+          "pac man",
+          "pacman",
+          "batman"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "ART_IMAGE_09.png",
+      "audioUrl": "",
+      "roundType": "image"
+    },
+    {
+      "id": "ART_IMAGE_10",
+      "que": "This silhouette is the logo of which entertainment company?",
+      "ans": {
+        "value": "Netflix",
+        "correct_entity": "option_b"
+      },
+      "options": [
+        "Universal",
+        "Netflix",
+        "Warner Bros"
+      ],
+      "expl": [
+        "This silhouette is the logo of the entertainment company Netflix. Netflix started in 1997 as a DVD-by-mail rental service. It transitioned to online streaming in 2007, transforming how people watch television and film. Netflix has since become one of the world's largest producers of original film and television content."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "Universal"
+        ],
+        "option_b": [
+          "Netflix"
+        ],
+        "option_c": [
+          "Warner Bros",
+          "warner pros",
+          "warners brothers"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "ART_IMAGE_10.png",
+      "audioUrl": "",
+      "roundType": "image"
+    },
+    {
+      "id": "ART_IMAGE_11",
+      "que": "Which dance form does this costume belong to?",
+      "ans": {
+        "value": "Bharatanatyam",
+        "correct_entity": "option_b"
+      },
+      "options": [
+        "Ballet",
+        "Bharatanatyam",
+        "Salsa"
+      ],
+      "expl": [
+        "This costume belongs to the dance form Bharatanatyam. Bharatanatyam is one of the oldest classical dance forms of India. It originated in the temples of Tamil Nadu and combines expressive gestures, facial expressions, and precise footwork. The dance form traditionally tells stories from Hindu mythology and scripture."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "Ballet"
+        ],
+        "option_b": [
+          "Bharatanatyam",
+          "bharat natyam",
+          "barathanaattiyam"
+        ],
+        "option_c": [
+          "Salsa"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "ART_IMAGE_11.jpg",
+      "audioUrl": "",
+      "roundType": "image"
+    },
+    {
+      "id": "ART_IMAGE_12",
+      "que": "This mask style is associated with which country's theatre tradition?",
+      "ans": {
+        "value": "Italy",
+        "correct_entity": "option_b"
+      },
+      "options": [
+        "China",
+        "Italy",
+        "Japan"
+      ],
+      "expl": [
+        "This mask style is associated with Italy's theatre tradition. Venetian masks were originally worn to hide identity during carnival season. They have roots in Italy's Commedia dell'arte theatre tradition from the 16th century. Venetian masks are often elaborately decorated with feathers, gold leaf, and hand-painted designs."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "China"
+        ],
+        "option_b": [
+          "Italy"
+        ],
+        "option_c": [
+          "Japan"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "ART_IMAGE_12.jpg",
+      "audioUrl": "",
+      "roundType": "image"
+    },
+    {
+      "id": "ART_IMAGE_13",
+      "que": "Which classic board game board is shown here?",
+      "ans": {
+        "value": "Chess",
+        "correct_entity": "option_a"
+      },
+      "options": [
+        "Chess",
+        "Checkers",
+        "Ludo"
+      ],
+      "expl": [
+        "This classic board game shown is chess. The longest possible chess game could theoretically last over 5,000 moves. Chess is believed to have originated in India around the 6th century before spreading through Persia and Europe. Each player begins with 16 pieces, including one king that must be protected from checkmate."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "Chess"
+        ],
+        "option_b": [
+          "Checkers"
+        ],
+        "option_c": [
+          "Ludo"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "ART_IMAGE_13.jpg",
+      "audioUrl": "",
+      "roundType": "image"
+    },
+    {
+      "id": "ART_IMAGE_14",
+      "que": "These musical instrument family belongs to which instruments",
+      "ans": {
+        "value": "Percussion",
+        "correct_entity": "option_c"
+      },
+      "options": [
+        "Strings",
+        "Brass",
+        "Percussion"
+      ],
+      "expl": [
+        "This musical instrument family is percussion. Percussion instruments are among the oldest instrument types, some over 5,000 years old. They produce sound by being struck, shaken, or scraped. The family includes a huge range of instruments, from drums and xylophones to cymbals and tambourines."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "Strings",
+          "string",
+          "drink",
+          "drinks"
+        ],
+        "option_b": [
+          "Brass",
+          "grass",
+          "glass"
+        ],
+        "option_c": [
+          "Percussion",
+          "percusion",
+          "precaution"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "ART_IMAGE_14.png",
+      "audioUrl": "",
+      "roundType": "image"
+    },
+    {
+      "id": "ART_IMAGE_15",
+      "que": "Which iconic movie prop is this - a colorful brick-building toy?",
+      "ans": {
+        "value": "Lego",
+        "correct_entity": "option_a"
+      },
+      "options": [
+        "Lego",
+        "Jenga",
+        "Rubik's Cube"
+      ],
+      "expl": [
+        "This iconic brick-building toy is Lego. Enough LEGO bricks have been produced to circle the Earth several times. The company was founded in Denmark in 1932 by Ole Kirk Christiansen. The name \"Lego\" comes from the Danish phrase \"leg godt,\" meaning \"play well.\" LEGO bricks made today are still compatible with pieces from the 1950s."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "Lego"
+        ],
+        "option_b": [
+          "Jenga",
+          "jinga"
+        ],
+        "option_c": [
+          "Rubik's Cube",
+          "rubik cube",
+          "rubiks cube",
+          "rubis cube"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "ART_IMAGE_15.jpg",
+      "audioUrl": "",
+      "roundType": "image"
+    },
+    {
+      "id": "ART_IMAGE_16",
+      "que": "This colorful puzzle cube is called what?",
+      "ans": {
+        "value": "Rubik's Cube",
+        "correct_entity": "option_a"
+      },
+      "options": [
+        "Rubik's Cube",
+        "Tangram",
+        "Puzzle Box"
+      ],
+      "expl": [
+        "This colorful puzzle cube is called the Rubik's Cube. The Rubik's Cube has over 43 quintillion possible combinations. It was invented in 1974 by Hungarian architect Ernő Rubik. Despite the vast number of combinations, a correctly executed algorithm can solve any scrambled cube in 20 moves or fewer."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "Rubik's Cube",
+          "rubik cube",
+          "rubiks cube",
+          "rubis cube"
+        ],
+        "option_b": [
+          "Tangram",
+          "ten gram"
+        ],
+        "option_c": [
+          "Puzzle Box",
+          "puzzle"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "ART_IMAGE_16.jpg",
+      "audioUrl": "",
+      "roundType": "image"
+    },
+    {
+      "id": "ART_IMAGE_17",
+      "que": "This grand curtain-and-stage setting belongs to which art form?",
+      "ans": {
+        "value": "Opera",
+        "correct_entity": "option_a"
+      },
+      "options": [
+        "Opera",
+        "Circus",
+        "Cinema"
+      ],
+      "expl": [
+        "This grand curtain-and-stage setting belongs to opera. The word \"opera\" means \"work\" in Italian. Opera combines singing, orchestral music, and drama to tell a story, often performed entirely in song. It originated in Italy in the late 16th century."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "Opera",
+          "okra"
+        ],
+        "option_b": [
+          "Circus"
+        ],
+        "option_c": [
+          "Cinema"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "ART_IMAGE_17.jpg",
+      "audioUrl": "",
+      "roundType": "image"
+    },
+    {
+      "id": "ART_IMAGE_18",
+      "que": "This iconic red-and-white spotted mushroom house is often seen in which classic video game?",
+      "ans": {
+        "value": "Super Mario",
+        "correct_entity": "option_a"
+      },
+      "options": [
+        "Super Mario",
+        "Sonic",
+        "Pac-Man"
+      ],
+      "expl": [
+        "This mushroom house appears in the Super Mario video game series. Mario was originally called \"Jumpman\" when he first appeared in Donkey Kong. The Super Mario franchise debuted in 1985 with Super Mario Bros. Mario is one of the best-selling video game franchises of all time. The character was inspired partly by the landlord of Nintendo's American office warehouse."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "Super Mario",
+          "mario",
+          "super"
+        ],
+        "option_b": [
+          "Sonic"
+        ],
+        "option_c": [
+          "Pac-Man",
+          "pac man",
+          "pacman"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "ART_IMAGE_18.png",
+      "audioUrl": "",
+      "roundType": "image"
+    },
+    {
+      "id": "ART_IMAGE_19",
+      "que": "This grand curved seating and stage layout is typical of which performance venue?",
+      "ans": {
+        "value": "Amphitheatre",
+        "correct_entity": "option_a"
+      },
+      "options": [
+        "Amphitheatre",
+        "Cinema hall",
+        "Art gallery"
+      ],
+      "expl": [
+        "This grand curved seating and stage layout is typical of an amphitheatre. Ancient Greek amphitheatres were designed so sound would carry to every seat without microphones. Their curved, tiered seating could hold thousands of spectators for dramas and public events. Many ancient amphitheatres, like those in Greece and Rome, are still standing and used for performances today."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "Amphitheatre",
+          "amphi theartre",
+          "amphitheater"
+        ],
+        "option_b": [
+          "Cinema hall"
+        ],
+        "option_c": [
+          "Art gallery",
+          "hall gallery",
+          "heart gallery",
+          "hut gallery"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "ART_IMAGE_19.jpg",
+      "audioUrl": "",
+      "roundType": "image"
+    },
+    {
+      "id": "ART_IMAGE_20",
+      "que": "What entertainment format uses this clapperboard at the start of filming?",
+      "ans": {
+        "value": "movie scene",
+        "correct_entity": "option_a"
+      },
+      "options": [
+        "movie scene",
+        "stage play",
+        "music video"
+      ],
+      "expl": [
+        "This clapperboard is used at the start of filming a movie scene. It helps sync sound and picture during film editing. The clap sound creates a sharp audio spike that editors can match to the visual clap. Clapperboards also display scene and take numbers for organization. Digital versions today often include timecodes for even more precise syncing."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "movie scene",
+          "movie"
+        ],
+        "option_b": [
+          "stage play",
+          "stage"
+        ],
+        "option_c": [
+          "music video",
+          "music",
+          "video"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "ART_IMAGE_20.jpg",
+      "audioUrl": "",
+      "roundType": "image"
+    },
+    {
+      "id": "ART_IMAGE_21",
+      "que": "This large stringed instrument is played upright and plucked or strummed with the hands. What is it?",
+      "ans": {
+        "value": "Harp",
+        "correct_entity": "option_a"
+      },
+      "options": [
+        "Harp",
+        "Cello",
+        "Double Bass"
+      ],
+      "expl": [
+        "This large stringed instrument, played upright and plucked or strummed with the hands, is a harp. A concert harp can have up to 47 strings and 7 foot pedals. The pedals allow harpists to change the pitch of each string while playing. Harps are among the oldest known string instruments, with depictions dating back thousands of years."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "Harp",
+          "her",
+          "herb",
+          "hi"
+        ],
+        "option_b": [
+          "Cello",
+          "chalo",
+          "hello",
+          "chelo"
+        ],
+        "option_c": [
+          "Double Bass",
+          "double",
+          "bass",
+          "double base"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "ART_IMAGE_21.jpg",
+      "audioUrl": "",
+      "roundType": "image"
+    },
+    {
+      "id": "ART_IMAGE_22",
+      "que": "What is this large wooden string instrument played with a bow while seated called?",
+      "ans": {
+        "value": "Cello",
+        "correct_entity": "option_b"
+      },
+      "options": [
+        "Violin",
+        "Cello",
+        "Viola"
+      ],
+      "expl": [
+        "This large wooden string instrument, played with a bow while seated and resting between the knees, is a cello. A cello's deep, rich tone is often compared to the range of the human voice. It is larger than a violin or viola but smaller than a double bass. The cello is a key member of the string section in orchestras and string quartets."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "Violin"
+        ],
+        "option_b": [
+          "Cello",
+          "chalo",
+          "hello",
+          "chelo"
+        ],
+        "option_c": [
+          "Viola"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "ART_IMAGE_22.jpg",
+      "audioUrl": "",
+      "roundType": "image"
+    },
+    {
+      "id": "ART_IMAGE_23",
+      "que": "This wooden percussion instrument has bars of different lengths that are struck with mallets. What is it?",
+      "ans": {
+        "value": "Xylophone",
+        "correct_entity": "option_a"
+      },
+      "options": [
+        "Xylophone",
+        "Marimba",
+        "Glockenspiel"
+      ],
+      "expl": [
+        "This wooden percussion instrument with bars of different lengths struck with mallets is a xylophone. Xylophone bars are arranged shortest to longest, similar to a piano keyboard. Shorter bars produce higher pitches, while longer bars produce lower pitches. The instrument's name comes from Greek words meaning \"wood\" and \"sound.\""
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "Xylophone"
+        ],
+        "option_b": [
+          "Marimba"
+        ],
+        "option_c": [
+          "Glockenspiel",
+          "clock and spy"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "ART_IMAGE_23.jpg",
+      "audioUrl": "",
+      "roundType": "image"
+    },
+    {
+      "id": "ART_IMAGE_24",
+      "que": "This spool of thin film was used to store and play movies before digital formats. What is it?",
+      "ans": {
+        "value": "Film reel",
+        "correct_entity": "option_a"
+      },
+      "options": [
+        "Film reel",
+        "Cassette tape",
+        "Vinyl record"
+      ],
+      "expl": [
+        "This spool of thin film, used to store and play movies before digital formats, is a film reel. Before digital cinema, a single feature film could require several large reels. Projectionists had to manually switch reels during a screening to keep the film playing continuously. Film reels have largely been replaced by digital projection systems in modern cinemas."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "Film reel",
+          "film",
+          "reel",
+          "film real"
+        ],
+        "option_b": [
+          "Cassette tape"
+        ],
+        "option_c": [
+          "Vinyl record",
+          "final record",
+          "vinyl"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "ART_IMAGE_24.jpg",
+      "audioUrl": "",
+      "roundType": "image"
+    },
+    {
+      "id": "ART_IMAGE_25",
+      "que": "This handheld device is used by singers and speakers to amplify their voice. What is it?",
+      "ans": {
+        "value": "Microphone",
+        "correct_entity": "option_a"
+      },
+      "options": [
+        "Microphone",
+        "Speaker",
+        "Amplifier"
+      ],
+      "expl": [
+        "This handheld device, used by singers and speakers to amplify their voice, is a microphone. Microphones work by converting sound waves into electrical signals that can be amplified or recorded. The first practical microphone was developed in the late 19th century alongside early telephone technology. Modern microphones come in several types, including dynamic and condenser designs, each suited to different recording needs."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "Microphone"
+        ],
+        "option_b": [
+          "Speaker"
+        ],
+        "option_c": [
+          "Amplifier"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "ART_IMAGE_25.jpg",
+      "audioUrl": "",
+      "roundType": "image"
+    },
+    {
+      "id": "ART_IMAGE_26",
+      "que": "What is this golden, gramophone-shaped trophy awarded for achievement in music called?",
+      "ans": {
+        "value": "Grammy Award",
+        "correct_entity": "option_a"
+      },
+      "options": [
+        "Grammy Award",
+        "Oscar",
+        "Emmy Award"
+      ],
+      "expl": [
+        "This golden gramophone-shaped trophy, awarded for achievement in the music industry, is the Grammy Award. The Grammy Awards have been held annually since 1959. They are presented by the Recording Academy in the United States. The trophy's gramophone design honors an early sound-recording device."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "Grammy Award",
+          "grammy",
+          "granny",
+          "granny award"
+        ],
+        "option_b": [
+          "Oscar"
+        ],
+        "option_c": [
+          "Emmy Award",
+          "emmy"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "ART_IMAGE_26.jpg",
+      "audioUrl": "",
+      "roundType": "image"
+    },
+    {
+      "id": "ART_IMAGE_27",
+      "que": "This round, grooved disc was a popular way to play music before CDs and streaming. What is it?",
+      "ans": {
+        "value": "Vinyl record",
+        "correct_entity": "option_a"
+      },
+      "options": [
+        "Vinyl record",
+        "Cassette tape",
+        "Film reel"
+      ],
+      "expl": [
+        "This round, grooved disc, a popular way to play music before CDs and streaming, is a vinyl record. Vinyl records have seen a strong comeback in popularity over the last decade. Sound is stored as tiny grooves that a needle reads as it spins on a turntable. Standard vinyl records commonly come in 7-inch, 10-inch, and 12-inch sizes."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "Vinyl record",
+          "final record",
+          "vinyl"
+        ],
+        "option_b": [
+          "Cassette tape"
+        ],
+        "option_c": [
+          "Film reel",
+          "film",
+          "reel",
+          "film real"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "ART_IMAGE_27.jpg",
+      "audioUrl": "",
+      "roundType": "image"
+    }
+  ],
+  "AUDIO_QUESTIONS": [
+    {
+      "id": "ART_AUDIO_01",
+      "que": "Which musical instrument is playing?",
+      "ans": {
+        "value": "Guitar",
+        "correct_entity": "option_b"
+      },
+      "options": [
+        "Tabla",
+        "Guitar",
+        "Paino"
+      ],
+      "expl": [
+        "This musical instrument playing is a guitar. The modern acoustic guitar has six strings and originated in Spain. Guitars can be played with fingers or a pick, producing different tones. The instrument's body shape helps amplify and resonate its sound. Guitars are central to countless music genres, from classical to rock."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "Tabla",
+          "tablaa"
+        ],
+        "option_b": [
+          "Guitar"
+        ],
+        "option_c": [
+          "Paino"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": "ART_AUDIO_01.mp3",
+      "roundType": "audio"
+    },
+    {
+      "id": "ART_AUDIO_02",
+      "que": "Which musical instrument do you hear in this clip?",
+      "ans": {
+        "value": "Violin",
+        "correct_entity": "option_b"
+      },
+      "options": [
+        "Cello",
+        "Violin",
+        "Drums"
+      ],
+      "expl": [
+        "This musical instrument in the clip is a violin. A violin has only four strings but can produce an incredible range of emotion. It's typically played with a bow made of horsehair. The violin is the smallest and highest-pitched instrument in the string family. Famous violin makers like Stradivari are still revered centuries later."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "Cello",
+          "chalo",
+          "hello",
+          "chelo"
+        ],
+        "option_b": [
+          "Violin"
+        ],
+        "option_c": [
+          "Drums",
+          "drum"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": "ART_AUDIO_02.mp3",
+      "roundType": "audio"
+    },
+    {
+      "id": "ART_AUDIO_03",
+      "que": "Which musical instrument is playing?",
+      "ans": {
+        "value": "Piano",
+        "correct_entity": "option_b"
+      },
+      "options": [
+        "Harmonium",
+        "Piano",
+        "Violin"
+      ],
+      "expl": [
+        "This musical instrument playing is a piano. A standard piano has 88 keys — 52 white and 36 black. It produces sound when hammers inside strike strings after a key is pressed. The piano was invented in Italy in the early 1700s. It remains one of the most versatile instruments across musical genres."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "Harmonium"
+        ],
+        "option_b": [
+          "Piano"
+        ],
+        "option_c": [
+          "Violin"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": "ART_AUDIO_03.mp3",
+      "roundType": "audio"
+    },
+    {
+      "id": "ART_AUDIO_04",
+      "que": "Which Indian classical instrument is playing?",
+      "ans": {
+        "value": "Sitar",
+        "correct_entity": "option_a"
+      },
+      "options": [
+        "Sitar",
+        "Tabla",
+        "Harmonium"
+      ],
+      "expl": [
+        "This Indian classical instrument playing is a sitar. The sitar was made famous worldwide by musician Ravi Shankar. It typically has many sympathetic strings that vibrate along with the played notes. The sitar is closely associated with Hindustani classical music traditions. Its long neck and gourd resonator give it a distinctive, resonant sound."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "Sitar",
+          "sitaar",
+          "sita",
+          "sitter"
+        ],
+        "option_b": [
+          "Tabla",
+          "tablaa"
+        ],
+        "option_c": [
+          "Harmonium"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": "ART_AUDIO_04.mp3",
+      "roundType": "audio"
+    },
+    {
+      "id": "ART_AUDIO_05",
+      "que": "Which percussion instrument pair is playing?",
+      "ans": {
+        "value": "Tabla",
+        "correct_entity": "option_b"
+      },
+      "options": [
+        "Dholak",
+        "Tabla",
+        "Bongo"
+      ],
+      "expl": [
+        "The tabla is the Indian percussion instrument played as a pair of drums. The tabla is actually a pair of two drums played together with the hands. The smaller drum, called the \"dayan,\" produces higher-pitched tones, while the larger \"bayan\" produces bass sounds. The tabla is a central instrument in Hindustani classical music."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "Dholak",
+          "dhokla"
+        ],
+        "option_b": [
+          "Tabla",
+          "tablaa"
+        ],
+        "option_c": [
+          "Bongo",
+          "mongo"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": "ART_AUDIO_05.mp3",
+      "roundType": "audio"
+    },
+    {
+      "id": "ART_AUDIO_06",
+      "que": "Listen closely — which instrument is this?",
+      "ans": {
+        "value": "Drums",
+        "correct_entity": "option_a"
+      },
+      "options": [
+        "Drums",
+        "Xylophone",
+        "Flute"
+      ],
+      "expl": [
+        "This instrument is drums. A standard drum kit combines drums and cymbals from many musical traditions. Drummers use both hands and feet to play different parts of the kit. Drum kits as we know them today developed in the early 20th century. They provide the rhythmic foundation for most modern popular music."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "Drums",
+          "drum"
+        ],
+        "option_b": [
+          "Xylophone"
+        ],
+        "option_c": [
+          "Flute"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": "ART_AUDIO_06.mp3",
+      "roundType": "audio"
+    },
+    {
+      "id": "ART_AUDIO_07",
+      "que": "Which wind instrument is playing?",
+      "ans": {
+        "value": "Flute",
+        "correct_entity": "option_b"
+      },
+      "options": [
+        "Clarinet",
+        "Flute",
+        "Saxophone"
+      ],
+      "expl": [
+        "The flute is the wind instrument playing in this clip. The flute is one of the oldest known musical instruments, dating back over 40,000 years. Ancient flutes were carved from bone or ivory, long before modern metal designs. Today's concert flutes are typically made of silver, gold, or other metals."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "Clarinet"
+        ],
+        "option_b": [
+          "Flute"
+        ],
+        "option_c": [
+          "Saxophone"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": "ART_AUDIO_07.mp3",
+      "roundType": "audio"
+    },
+    {
+      "id": "ART_AUDIO_08",
+      "que": "Guess the instrument from this audio.",
+      "ans": {
+        "value": "Trumpet",
+        "correct_entity": "option_a"
+      },
+      "options": [
+        "Trumpet",
+        "Trombone",
+        "Flute"
+      ],
+      "expl": [
+        "The trumpet is the brass instrument heard in this audio. Trumpets are the highest-pitched instruments in the brass family. They produce sound through the buzzing of the player's lips against a small mouthpiece. Trumpets are widely used in orchestras, jazz bands, and military ceremonies."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "Trumpet"
+        ],
+        "option_b": [
+          "Trombone"
+        ],
+        "option_c": [
+          "Flute"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": "ART_AUDIO_08.mp3",
+      "roundType": "audio"
+    },
+    {
+      "id": "ART_AUDIO_09",
+      "que": "Which instrument is producing this sound?",
+      "ans": {
+        "value": "Accordion",
+        "correct_entity": "option_a"
+      },
+      "options": [
+        "Accordion",
+        "Harmonica",
+        "Bagpipes"
+      ],
+      "expl": [
+        "This instrument producing the sound is an accordion. The accordion is sometimes nicknamed the \"squeeze box.\" It produces sound by forcing air through reeds using a bellows. Accordions are popular in folk music traditions worldwide, from polka to tango. Buttons or keys on either side let players control melody and chords simultaneously."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "Accordion",
+          "acordian",
+          "cordian"
+        ],
+        "option_b": [
+          "Harmonica"
+        ],
+        "option_c": [
+          "Bagpipes"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": "ART_AUDIO_09.mp3",
+      "roundType": "audio"
+    },
+    {
+      "id": "ART_AUDIO_10",
+      "que": "Identify the instrument in this recording.",
+      "ans": {
+        "value": "Saxophone",
+        "correct_entity": "option_a"
+      },
+      "options": [
+        "Saxophone",
+        "Clarinet",
+        "Bagpipes"
+      ],
+      "expl": [
+        "The saxophone is the instrument identified in this recording. The saxophone was invented in the 1840s by Adolphe Sax and is common in jazz. It is technically a woodwind instrument, despite being made of brass. Saxophones come in several sizes, including soprano, alto, tenor, and baritone."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "Saxophone"
+        ],
+        "option_b": [
+          "Clarinet"
+        ],
+        "option_c": [
+          "Bagpipes"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": "ART_AUDIO_10.mp3",
+      "roundType": "audio"
+    },
+    {
+      "id": "ART_AUDIO_11",
+      "que": "Which large stringed instrument, plucked with the fingers, is playing here?",
+      "ans": {
+        "value": "Harp",
+        "correct_entity": "option_a"
+      },
+      "options": [
+        "Harp",
+        "Guitar",
+        "Sitar"
+      ],
+      "expl": [
+        "The harp is the large stringed instrument, plucked with the fingers, playing here. Harps have been played since ancient Egyptian and Mesopotamian times. A modern concert harp can have dozens of strings and several foot pedals to change pitch. Harps appear in orchestras, folk music, and religious traditions around the world."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "Harp",
+          "her",
+          "herb",
+          "hi"
+        ],
+        "option_b": [
+          "Guitar"
+        ],
+        "option_c": [
+          "Sitar"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": "ART_AUDIO_11.mp3",
+      "roundType": "audio"
+    },
+    {
+      "id": "ART_AUDIO_12",
+      "que": "Which deep-toned bowed string instrument is playing this piece?",
+      "ans": {
+        "value": "Cello",
+        "correct_entity": "option_c"
+      },
+      "options": [
+        "Violin",
+        "Guitar",
+        "Cello"
+      ],
+      "expl": [
+        "The cello is the deep-toned bowed string instrument playing this piece. A cello is roughly four times larger than a violin. It is played while seated, resting between the performer's knees. The cello's rich, warm tone makes it popular for both orchestral and solo performances."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "Violin"
+        ],
+        "option_b": [
+          "Guitar"
+        ],
+        "option_c": [
+          "Cello",
+          "hello",
+          "chalo"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": "ART_AUDIO_12.mp3",
+      "roundType": "audio"
+    },
+    {
+      "id": "ART_AUDIO_13",
+      "que": "Which wooden mallet percussion instrument is playing this bright, bouncy tune?",
+      "ans": {
+        "value": "Xylophone",
+        "correct_entity": "option_a"
+      },
+      "options": [
+        "Xylophone",
+        "Drum kit",
+        "Marimba"
+      ],
+      "expl": [
+        "The xylophone is the wooden mallet percussion instrument playing this bright, bouncy tune. Xylophone comes from Greek words meaning 'wood sound'. Its wooden bars are struck with mallets and arranged by pitch, similar to a piano keyboard. The xylophone is a staple instrument in school music education worldwide."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "Xylophone"
+        ],
+        "option_b": [
+          "Drum kit",
+          "drum kids",
+          "drum kits",
+          "drum",
+          "kits",
+          "kids",
+          "drunk kit",
+          "drunk it",
+          "drunk kids"
+        ],
+        "option_c": [
+          "Marimba"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": "ART_AUDIO_13.mp3",
+      "roundType": "audio"
+    },
+    {
+      "id": "ART_AUDIO_14",
+      "que": "Which Scottish wind instrument, played with an air bag, is making this droning sound?",
+      "ans": {
+        "value": "Bagpipes",
+        "correct_entity": "option_b"
+      },
+      "options": [
+        "Accordion",
+        "Bagpipes",
+        "Harmonica"
+      ],
+      "expl": [
+        "Bagpipes are the Scottish wind instrument, played with an air bag, making this droning sound. Bagpipes have been used in Scottish military and ceremonial traditions for centuries. Air is squeezed from a bag under the player's arm through reed pipes to produce continuous sound. Bagpipes are also found in musical traditions across Ireland and parts of continental Europe."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "Accordion",
+          "acordian",
+          "cordian"
+        ],
+        "option_b": [
+          "Bagpipes"
+        ],
+        "option_c": [
+          "Harmonica"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": "ART_AUDIO_14.mp3",
+      "roundType": "audio"
+    },
+    {
+      "id": "ART_AUDIO_15",
+      "que": "Which small four-stringed Hawaiian instrument is playing this cheerful tune?",
+      "ans": {
+        "value": "Ukulele",
+        "correct_entity": "option_a"
+      },
+      "options": [
+        "Ukulele",
+        "Banjo",
+        "Mandolin"
+      ],
+      "expl": [
+        "The ukulele is the small four-stringed Hawaiian instrument playing this cheerful tune. The ukulele was actually adapted from small guitars brought to Hawaii by Portuguese settlers. It became a symbol of Hawaiian culture in the early 20th century. Ukuleles are prized for their light weight, easy playability, and warm tone."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "Ukulele"
+        ],
+        "option_b": [
+          "Banjo"
+        ],
+        "option_c": [
+          "Mandolin",
+          "mendoline"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": "ART_AUDIO_15.mp3",
+      "roundType": "audio"
+    },
+    {
+      "id": "ART_AUDIO_16",
+      "que": "What is this small wind instrument played by blowing and drawing breath through reeds called?",
+      "ans": {
+        "value": "Harmonica",
+        "correct_entity": "option_a"
+      },
+      "options": [
+        "Harmonica",
+        "Flute",
+        "Recorder"
+      ],
+      "expl": [
+        "The harmonica is the small handheld wind instrument, played by blowing and drawing breath through reeds, playing here. Harmonicas are also known as mouth organs in some parts of the world. They are widely used in blues, folk, and country music. A harmonica produces different notes depending on whether the player blows or draws air."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "Harmonica"
+        ],
+        "option_b": [
+          "Flute"
+        ],
+        "option_c": [
+          "Recorder"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": "ART_AUDIO_16.mp3",
+      "roundType": "audio"
+    },
+    {
+      "id": "ART_AUDIO_17",
+      "que": "Which box-shaped percussion instrument, played by sitting and slapping its front face, is playing here?",
+      "ans": {
+        "value": "Cajon",
+        "correct_entity": "option_b"
+      },
+      "options": [
+        "Flute",
+        "Cajon",
+        "Cello"
+      ],
+      "expl": [
+        "The cajon is the box-shaped percussion instrument, played by sitting and slapping its front face, playing here. The cajon originated in Peru and was originally made from wooden shipping crates. Players sit atop the instrument and strike its front face to produce different tones. The cajon has become popular in flamenco and acoustic pop music worldwide."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "Flute"
+        ],
+        "option_b": [
+          "Cajon",
+          "cajón",
+          "kahon",
+          "kahan"
+        ],
+        "option_c": [
+          "Cello",
+          "hello",
+          "chalo"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": "ART_AUDIO_17.mp3",
+      "roundType": "audio"
+    },
+    {
+      "id": "ART_AUDIO_18",
+      "que": "What is this box-shaped percussion instrument played by sitting and slapping its front face called?",
+      "ans": {
+        "value": "Didgeridoo",
+        "correct_entity": "option_c"
+      },
+      "options": [
+        "Cajon",
+        "Cello",
+        "Didgeridoo"
+      ],
+      "expl": [
+        "The didgeridoo is the long wooden wind instrument from Australia producing this deep, droning sound. The didgeridoo is considered one of the world's oldest wind instruments, used by Indigenous Australians. It is traditionally made from a hollowed-out eucalyptus branch. Players use a technique called circular breathing to sustain its continuous drone."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "Cajon",
+          "cajón",
+          "kahon",
+          "kahan"
+        ],
+        "option_b": [
+          "Cello",
+          "hello",
+          "chalo"
+        ],
+        "option_c": [
+          "Didgeridoo",
+          "didjeridu",
+          "digeridoo"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": "ART_AUDIO_18.mp3",
+      "roundType": "audio"
+    },
+    {
+      "id": "ART_AUDIO_19",
+      "que": "Which handheld percussion instrument, shaken to make a rattling sound, is playing here?",
+      "ans": {
+        "value": "Maracas",
+        "correct_entity": "option_a"
+      },
+      "options": [
+        "Maracas",
+        "Tambourine",
+        "Castanets"
+      ],
+      "expl": [
+        "Maracas are the handheld percussion instrument, shaken to make a rattling sound, playing here. Maracas are traditionally made from dried gourds filled with seeds or beads. They are commonly used in Latin American music, especially salsa and merengue. Maracas are usually played in pairs, one in each hand."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "Maracas"
+        ],
+        "option_b": [
+          "Tambourine"
+        ],
+        "option_c": [
+          "Castanets"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": "ART_AUDIO_19.mp3",
+      "roundType": "audio"
+    },
+    {
+      "id": "ART_AUDIO_20",
+      "que": "Which round percussion instrument with jingling metal discs is playing here?",
+      "ans": {
+        "value": "Tambourine",
+        "correct_entity": "option_c"
+      },
+      "options": [
+        "Triangle",
+        "Maracas",
+        "Tambourine"
+      ],
+      "expl": [
+        "The tambourine is the round percussion instrument with jingling metal discs playing here. A tambourine can be played by shaking, striking, or brushing its head with your hand. The metal discs, called jingles or zils, produce its signature shimmering sound. Tambourines appear in many musical traditions, from folk to pop and gospel."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "Triangle"
+        ],
+        "option_b": [
+          "Maracas"
+        ],
+        "option_c": [
+          "Tambourine"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": "ART_AUDIO_20.mp3",
+      "roundType": "audio"
+    },
+    {
+      "id": "ART_AUDIO_21",
+      "que": "Which small novelty wind instrument makes this buzzing, comical sound when you hum into it?",
+      "ans": {
+        "value": "Kazoo",
+        "correct_entity": "option_a"
+      },
+      "options": [
+        "Kazoo",
+        "Whistle",
+        "Recorder"
+      ],
+      "expl": [
+        "The kazoo is the small novelty wind instrument making this buzzing, comical sound when you hum into it. A kazoo doesn't actually require any musical skill; it works by humming, not blowing. Its buzzing sound is created by a vibrating membrane inside the instrument. Kazoos are often used for playful or comedic musical effects."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "Kazoo",
+          "kaajoo",
+          "kajoo",
+          "kasu",
+          "cause who"
+        ],
+        "option_b": [
+          "Whistle"
+        ],
+        "option_c": [
+          "Recorder"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": "ART_AUDIO_21.mp3",
+      "roundType": "audio"
+    },
+    {
+      "id": "ART_AUDIO_22",
+      "que": "Which instrument, plugged into an amplifier, is playing this rock-style riff?",
+      "ans": {
+        "value": "Electric guitar",
+        "correct_entity": "option_a"
+      },
+      "options": [
+        "Electric guitar",
+        "Violin",
+        "Sitar"
+      ],
+      "expl": [
+        "The electric guitar is the instrument, plugged into an amplifier, playing this rock-style riff. The electric guitar became widely popular in the 1950s with the rise of rock and roll. It uses magnetic pickups to convert string vibrations into an electrical signal. Effects pedals can further shape its tone, from clean sounds to heavy distortion."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "Electric guitar",
+          "guitar"
+        ],
+        "option_b": [
+          "Violin"
+        ],
+        "option_c": [
+          "Sitar"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": "ART_AUDIO_22.mp3",
+      "roundType": "audio"
+    },
+    {
+      "id": "ART_AUDIO_23",
+      "que": "Which large, low-pitched string instrument, played standing up, is producing this deep tone?",
+      "ans": {
+        "value": "Double bass",
+        "correct_entity": "option_b"
+      },
+      "options": [
+        "Guitar",
+        "Double bass",
+        "Viola"
+      ],
+      "expl": [
+        "The double bass is the large, low-pitched string instrument, played standing up, producing this deep tone. The double bass is the largest and lowest-pitched instrument in the string family. It can be played with a bow, like a cello, or plucked, as in jazz. The double bass provides the low-end foundation in orchestras, jazz ensembles, and bluegrass bands."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "Guitar"
+        ],
+        "option_b": [
+          "Double bass",
+          "double base",
+          "base",
+          "double"
+        ],
+        "option_c": [
+          "Viola"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": "ART_AUDIO_23.mp3",
+      "roundType": "audio"
+    },
+    {
+      "id": "ART_AUDIO_24",
+      "que": "Which Caribbean percussion instrument, made from a metal oil drum, is playing this melody?",
+      "ans": {
+        "value": "Steel drum",
+        "correct_entity": "option_a"
+      },
+      "options": [
+        "Steel drum",
+        "Bongo",
+        "Conga"
+      ],
+      "expl": [
+        "The steel drum is the Caribbean percussion instrument, made from a metal oil drum, playing this melody. Steel drums, or 'pans', originated in Trinidad and Tobago in the 1930s and 40s. They are carefully hammered to create different pitched sections on a single drum surface. Steel drum bands, called \"steel pan orchestras,\" are central to Caribbean carnival music."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "Steel drum",
+          "steel",
+          "drum"
+        ],
+        "option_b": [
+          "Bongo",
+          "mongo"
+        ],
+        "option_c": [
+          "Conga"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": "ART_AUDIO_24.mp3",
+      "roundType": "audio"
+    }
+  ]
+}

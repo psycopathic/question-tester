@@ -1,0 +1,1646 @@
+{
+  "TEXT_QUESTIONS": [
+    {
+      "id": "animals_B7_1",
+      "que": "What type of animal is a Komodo dragon?",
+      "ans": {
+        "value": "Reptile",
+        "correct_entity": "option_b"
+      },
+      "options": [
+        "Mammal",
+        "Reptile",
+        "Bird"
+      ],
+      "expl": [
+        "The Komodo dragon is a reptile and the largest living lizard on Earth. It can grow over 10 feet long and has venomous saliva. These predators live mainly on Indonesian islands."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "Mammal",
+          "Mammals"
+        ],
+        "option_b": [
+          "Reptile",
+          "reptiles"
+        ],
+        "option_c": [
+          "Bird",
+          "birds"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": ""
+    },
+    {
+      "id": "animals_B7_2",
+      "que": "Which animal is the largest mammal?",
+      "ans": {
+        "value": "Blue Whale",
+        "correct_entity": "option_b"
+      },
+      "options": [
+        "Elephant",
+        "Blue Whale",
+        "Giraffe"
+      ],
+      "expl": [
+        "The blue whale is the largest mammal — and the largest animal — to ever live on Earth. It can grow over 100 feet long and weigh as much as 200 tons. Its heart alone is the size of a small car."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "Elephant",
+          "Elephants"
+        ],
+        "option_b": [
+          "Blue Whale",
+          "Blue",
+          "Whale",
+          "blue well",
+          "well"
+        ],
+        "option_c": [
+          "Giraffe",
+          "giraffes"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": ""
+    },
+    {
+      "id": "animals_B7_3",
+      "que": "Which bird can mimic human speech?",
+      "ans": {
+        "value": "Parrot",
+        "correct_entity": "option_a"
+      },
+      "options": [
+        "Parrot",
+        "Owl",
+        "Sparrow"
+      ],
+      "expl": [
+        "Parrots are well-known for their ability to mimic human speech and sounds. Some species can learn hundreds of words and even form simple sentences. Their intelligence is similar to that of a young child."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "Parrot",
+          "parrots"
+        ],
+        "option_b": [
+          "Owl"
+        ],
+        "option_c": [
+          "Sparrow"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": ""
+    },
+    {
+      "id": "animals_B7_4",
+      "que": "Which sea creature has eight arms?",
+      "ans": {
+        "value": "Octopus",
+        "correct_entity": "option_a"
+      },
+      "options": [
+        "Octopus",
+        "Crab",
+        "Jellyfish"
+      ],
+      "expl": [
+        "The octopus is a sea animal with eight arms and remarkable intelligence. It can solve puzzles, escape tanks, and even camouflage itself. Some species can detach an arm to distract predators and regrow it later."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "Octopus"
+        ],
+        "option_b": [
+          "Crab",
+          "Crabs"
+        ],
+        "option_c": [
+          "Jellyfish",
+          "Jelly",
+          "fish"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": ""
+    },
+    {
+      "id": "animals_B7_5",
+      "que": "What do pandas mostly eat?",
+      "ans": {
+        "value": "Bamboo",
+        "correct_entity": "option_a"
+      },
+      "options": [
+        "Bamboo",
+        "Grass",
+        "Leaves"
+      ],
+      "expl": [
+        "Giant pandas mainly eat bamboo, even though they are technically classified as carnivores. They spend up to 12 hours a day eating. Bamboo makes up about 99% of their diet."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "Bamboo"
+        ],
+        "option_b": [
+          "Grass"
+        ],
+        "option_c": [
+          "Leaves",
+          "leave"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": ""
+    },
+    {
+      "id": "animals_B7_6",
+      "que": "Which animal embryo was revived in 2025?",
+      "ans": {
+        "value": "Thylacine",
+        "correct_entity": "option_c"
+      },
+      "options": [
+        "Dodo",
+        "Mammoth",
+        "Thylacine"
+      ],
+      "expl": [
+        "In 2025, researchers successfully revived a thylacine (Tasmanian tiger) embryo, reaching mid-gestation for the first time. The species went extinct in 1936, making this a huge step in de-extinction science. If successful, the thylacine could become the first extinct mammal brought back to life."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "Dodo"
+        ],
+        "option_b": [
+          "Mammoth"
+        ],
+        "option_c": [
+          "Thylacine",
+          "thylacin",
+          "thallasine",
+          "tyler sine"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": ""
+    },
+    {
+      "id": "animals_B7_7",
+      "que": "What is the fastest land animal?",
+      "ans": {
+        "value": "Cheetah",
+        "correct_entity": "option_a"
+      },
+      "options": [
+        "Cheetah",
+        "Leopard",
+        "Tiger"
+      ],
+      "expl": [
+        "The cheetah is the fastest land animal, able to reach speeds of 70 mph (113 km/h) in short bursts. It can accelerate faster than most sports cars. However, its sprint only lasts about 20–30 seconds before exhaustion."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "Cheetah",
+          "cheetahs"
+        ],
+        "option_b": [
+          "Leopard"
+        ],
+        "option_c": [
+          "Tiger"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": ""
+    },
+    {
+      "id": "animals_B7_8",
+      "que": "Which animal is known for its memory?",
+      "ans": {
+        "value": "Elephant",
+        "correct_entity": "option_b"
+      },
+      "options": [
+        "Dog",
+        "Elephant",
+        "Cat"
+      ],
+      "expl": [
+        "Elephants are famous for their strong long-term memory and emotional intelligence. They remember watering holes, migration routes, and even individual humans. Their brains can weigh over 10 pounds — the largest of any land animal."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "Dog",
+          "dogs"
+        ],
+        "option_b": [
+          "Elephant"
+        ],
+        "option_c": [
+          "Cat"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": ""
+    },
+    {
+      "id": "animals_B7_9",
+      "que": "What do koalas eat?",
+      "ans": {
+        "value": "Eucalyptus",
+        "correct_entity": "option_b"
+      },
+      "options": [
+        "Grass",
+        "Eucalyptus",
+        "Bamboo"
+      ],
+      "expl": [
+        "Koalas feed almost exclusively on eucalyptus leaves, which are low in nutrients and mildly toxic. To save energy, they sleep up to 20 hours a day. They can eat over a pound of leaves daily despite their slow metabolism."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "Grass"
+        ],
+        "option_b": [
+          "Eucalyptus",
+          "e. u. capitals",
+          "e. u. characters"
+        ],
+        "option_c": [
+          "Bamboo"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": ""
+    },
+    {
+      "id": "animals_B7_10",
+      "que": "Which animal is the tallest?",
+      "ans": {
+        "value": "Giraffe",
+        "correct_entity": "option_b"
+      },
+      "options": [
+        "Elephant",
+        "Giraffe",
+        "Horse"
+      ],
+      "expl": [
+        "The giraffe is the tallest land animal, with adults reaching up to 18 feet (5.5 meters). Its long neck helps it reach high tree branches in African savannas. A giraffe’s heart must pump blood upward with enormous force."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "Elephant",
+          "elephants"
+        ],
+        "option_b": [
+          "Giraffe"
+        ],
+        "option_c": [
+          "Horse"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": ""
+    },
+    {
+      "id": "animals_B7_11",
+      "que": "Which ocean animal is a mammal?",
+      "ans": {
+        "value": "Whale",
+        "correct_entity": "option_b"
+      },
+      "options": [
+        "Shark",
+        "Whale",
+        "Octopus"
+      ],
+      "expl": [
+        "Whales are marine mammals, meaning they breathe air, nurse their young, and maintain warm blood. Unlike fish, they must surface to breathe through blowholes. The blue whale is the largest animal to ever live on Earth."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "Shark",
+          "sharks"
+        ],
+        "option_b": [
+          "Whale",
+          "whales",
+          "wells",
+          "wales",
+          "walls"
+        ],
+        "option_c": [
+          "Octopus"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": ""
+    },
+    {
+      "id": "animals_B7_12",
+      "que": "Which mammal can't jump?",
+      "ans": {
+        "value": "Elephant",
+        "correct_entity": "option_b"
+      },
+      "options": [
+        "Rhino",
+        "Elephant",
+        "Hippopotamus"
+      ],
+      "expl": [
+        "Elephants are the only mammals that can't jump because their legs aren’t built for lifting all four feet off the ground. Their huge body weight and stiff ankle joints prevent upward thrust. Even rhinos and hippos can make small jumps, but elephants never do."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "Rhino",
+          "rhinos"
+        ],
+        "option_b": [
+          "Elephant",
+          "Elephants"
+        ],
+        "option_c": [
+          "Hippopotamus",
+          "hippo"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": ""
+    },
+    {
+      "id": "animals_B7_13",
+      "que": "Which animal sleeps the most each day?",
+      "ans": {
+        "value": "Koala",
+        "correct_entity": "option_b"
+      },
+      "options": [
+        "Cat",
+        "Koala",
+        "Bat"
+      ],
+      "expl": [
+        "Koalas sleep around 20–22 hours a day, making them one of the sleepiest animals on Earth. Their low-energy eucalyptus diet forces them to conserve energy. They are awake for only a couple of hours daily, mostly to eat."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "Cat",
+          "cats"
+        ],
+        "option_b": [
+          "Koala"
+        ],
+        "option_c": [
+          "Bat",
+          "bats"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": ""
+    },
+    {
+      "id": "animals_B7_14",
+      "que": "Which animal is known as the King of the Jungle?",
+      "ans": {
+        "value": "Lion",
+        "correct_entity": "option_c"
+      },
+      "options": [
+        "Tiger",
+        "Elephant",
+        "Lion"
+      ],
+      "expl": [
+        "The lion is called the King of the Jungle, even though it actually lives in grasslands and savannas, not jungles. Its roar can be heard up to 5 miles away. Lions live in groups called prides, led by dominant females."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "Tiger",
+          "tigers"
+        ],
+        "option_b": [
+          "Elephant",
+          "Elephants"
+        ],
+        "option_c": [
+          "Lion",
+          "lions"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": ""
+    },
+    {
+      "id": "animals_B7_15",
+      "que": "What's the largest land animal?",
+      "ans": {
+        "value": "African Elephant",
+        "correct_entity": "option_b"
+      },
+      "options": [
+        "Giraffe",
+        "African Elephant",
+        "Hippo"
+      ],
+      "expl": [
+        "The African elephant is the largest land animal on Earth, weighing up to 6,000 kg (13,000 lbs). Its tusks are enlarged teeth that can grow over 2 meters long. Unlike Asian elephants, both male and female African elephants can have tusks."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "Giraffe",
+          "Giraffes"
+        ],
+        "option_b": [
+          "African Elephant",
+          "african",
+          "elephant",
+          "african elephants",
+          "elephants"
+        ],
+        "option_c": [
+          "Hippo",
+          "hippopotamus"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": ""
+    },
+    {
+      "id": "animals_B7_16",
+      "que": "Which bird mimics sounds and has colorful feathers?",
+      "ans": {
+        "value": "Parrot",
+        "correct_entity": "option_a"
+      },
+      "options": [
+        "Parrot",
+        "Crow",
+        "Peacock"
+      ],
+      "expl": [
+        "Parrots are known for their bright feathers and ability to mimic human speech and sounds. Some species can learn hundreds of words. The African Grey parrot is considered the most intelligent of them all."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "Parrot",
+          "Parrots"
+        ],
+        "option_b": [
+          "Crow",
+          "crows"
+        ],
+        "option_c": [
+          "Peacock",
+          "p. cock"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": ""
+    },
+    {
+      "id": "animals_B7_17",
+      "que": "What animal can be seen on the Porsche logo?",
+      "ans": {
+        "value": "Horse",
+        "correct_entity": "option_b"
+      },
+      "options": [
+        "Lion",
+        "Horse",
+        "Eagle"
+      ],
+      "expl": [
+        "The horse on the Porsche logo represents the German city of Stuttgart, where the company was founded. Stuttgart’s name comes from “stud farm,” which explains the horse symbol."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "Lion",
+          "lions"
+        ],
+        "option_b": [
+          "Horse",
+          "Horses"
+        ],
+        "option_c": [
+          "Eagle",
+          "Eagles"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": ""
+    },
+    {
+      "id": "animals_B7_18",
+      "que": "Which small mammal is famous for playing dead when threatened?",
+      "ans": {
+        "value": "Opossum",
+        "correct_entity": "option_a"
+      },
+      "options": [
+        "Opossum",
+        "Skunk",
+        "Armadillo"
+      ],
+      "expl": [
+        "Opossums pretend to be dead — a behavior called “playing possum.” Their body goes limp, their tongue hangs out, and they even release a bad smell. It’s all instinct, not acting."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "Opossum"
+        ],
+        "option_b": [
+          "Skunk",
+          "stuck",
+          "stunk"
+        ],
+        "option_c": [
+          "Armadillo"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": ""
+    },
+    {
+      "id": "animals_B7_19",
+      "que": "What animal is Shrek's best friend?",
+      "ans": {
+        "value": "Donkey",
+        "correct_entity": "option_b"
+      },
+      "options": [
+        "Horse",
+        "Donkey",
+        "Pig"
+      ],
+      "expl": [
+        "Donkey is Shrek’s chatty, loyal sidekick voiced by Eddie Murphy. He first appeared in the 2001 film and later became the hero of several spinoff shorts."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "Horse",
+          "Horses"
+        ],
+        "option_b": [
+          "Donkey"
+        ],
+        "option_c": [
+          "Pig",
+          "Pigs"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": ""
+    },
+    {
+      "id": "animals_B7_20",
+      "que": "What's the name of the largest living species of turtle?",
+      "ans": {
+        "value": "Leatherback",
+        "correct_entity": "option_b"
+      },
+      "options": [
+        "Pacific green",
+        "Leatherback",
+        "Loggerhead"
+      ],
+      "expl": [
+        "The Leatherback Sea Turtle is the largest turtle species on Earth, sometimes growing over 7 feet long. Unlike most turtles, it has a soft, rubbery shell. It can dive deeper than whales — over 4,000 feet."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "Pacific green",
+          "Green",
+          "pacific"
+        ],
+        "option_b": [
+          "Leatherback",
+          "Leather back",
+          "leather bag"
+        ],
+        "option_c": [
+          "Loggerhead",
+          "Logger head"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": ""
+    },
+    {
+      "id": "animals_B7_21",
+      "que": "What is the national animal of Canada?",
+      "ans": {
+        "value": "Beaver",
+        "correct_entity": "option_b"
+      },
+      "options": [
+        "Moose",
+        "Beaver",
+        "Caribou"
+      ],
+      "expl": [
+        "The beaver became Canada’s national animal in 1975, symbolizing hard work and resilience. It played a huge role in the early fur trade, which helped build the Canadian economy. Yes — it's literally on Canadian coins."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "Moose"
+        ],
+        "option_b": [
+          "Beaver"
+        ],
+        "option_c": [
+          "Caribou"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": ""
+    },
+    {
+      "id": "animals_B7_22",
+      "que": "What food is made by bees from nectar?",
+      "ans": {
+        "value": "Honey",
+        "correct_entity": "option_a"
+      },
+      "options": [
+        "Honey",
+        "Syrup",
+        "Molasses"
+      ],
+      "expl": [
+        "Honey is made by bees from flower nectar, which they break down with enzymes and store in honeycombs. It never spoils, making it one of the longest-lasting foods on Earth."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "Honey"
+        ],
+        "option_b": [
+          "Syrup"
+        ],
+        "option_c": [
+          "Molasses"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": ""
+    },
+    {
+      "id": "animals_B7_23",
+      "que": "Rocko from 'Rocko's Modern Life' is a what?",
+      "ans": {
+        "value": "Wallaby",
+        "correct_entity": "option_a"
+      },
+      "options": [
+        "Wallaby",
+        "Kangaroo",
+        "Mouse"
+      ],
+      "expl": [
+        "Rocko from Rocko’s Modern Life is a wallaby, a smaller relative of the kangaroo. The animated series aired on Nickelodeon in the 1990s."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "Wallaby"
+        ],
+        "option_b": [
+          "Kangaroo",
+          "Kangaroos"
+        ],
+        "option_c": [
+          "Mouse"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": ""
+    },
+    {
+      "id": "animals_B7_24",
+      "que": "When turtles lay eggs in cold temperatures, what gender are they?",
+      "ans": {
+        "value": "All male",
+        "correct_entity": "option_a"
+      },
+      "options": [
+        "All male",
+        "All female",
+        "Mixed"
+      ],
+      "expl": [
+        "When turtles lay eggs in colder temperatures, the hatchlings are all male. Warmer temperatures produce females, a process called temperature-dependent sex determination."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "All male",
+          "All",
+          "male"
+        ],
+        "option_b": [
+          "All female",
+          "All",
+          "female"
+        ],
+        "option_c": [
+          "Mixed",
+          "mix"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": ""
+    },
+    {
+      "id": "animals_B7_25",
+      "que": "What was the name of the first cloned animal?",
+      "ans": {
+        "value": "Dolly",
+        "correct_entity": "option_b"
+      },
+      "options": [
+        "Daisy",
+        "Dolly",
+        "Bella"
+      ],
+      "expl": [
+        "Dolly the sheep was the first mammal successfully cloned from an adult cell in 1996. Her birth marked a major breakthrough in genetic science."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "Daisy"
+        ],
+        "option_b": [
+          "Dolly"
+        ],
+        "option_c": [
+          "Bella"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": ""
+    },
+    {
+      "id": "animals_B7_26",
+      "que": "Which animal did Darwin study in the Galápagos?",
+      "ans": {
+        "value": "Finches",
+        "correct_entity": "option_b"
+      },
+      "options": [
+        "Turtles",
+        "Finches",
+        "Iguanas"
+      ],
+      "expl": [
+        "Finches on the Galápagos Islands helped Charles Darwin develop his theory of evolution. Their varied beak shapes showed how species adapt to their environments."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "Turtles",
+          "turtle"
+        ],
+        "option_b": [
+          "Finches"
+        ],
+        "option_c": [
+          "Iguanas",
+          "gwana's",
+          "gwanas"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": ""
+    },
+    {
+      "id": "animals_B7_27",
+      "que": "What is a baby horse called?",
+      "ans": {
+        "value": "Foal",
+        "correct_entity": "option_a"
+      },
+      "options": [
+        "Foal",
+        "Colt",
+        "Pony"
+      ],
+      "expl": [
+        "A baby horse is called a foal, regardless of whether it's male or female. As it grows, a male becomes a colt and a female becomes a filly."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "Foal",
+          "fall",
+          "phone"
+        ],
+        "option_b": [
+          "Colt",
+          "cold",
+          "call"
+        ],
+        "option_c": [
+          "Pony"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": ""
+    },
+    {
+      "id": "animals_B7_28",
+      "que": "What dog breed did Queen Elizabeth favor?",
+      "ans": {
+        "value": "Corgi",
+        "correct_entity": "option_c"
+      },
+      "options": [
+        "Poodle",
+        "Beagle",
+        "Corgi"
+      ],
+      "expl": [
+        "Queen Elizabeth II was famously devoted to Corgis, especially the Pembroke Welsh Corgi breed. She owned more than 30 of them over her lifetime."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "Poodle"
+        ],
+        "option_b": [
+          "Beagle",
+          "eagle",
+          "beagles"
+        ],
+        "option_c": [
+          "Corgi"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": ""
+    },
+    {
+      "id": "animals_B7_29",
+      "que": "What color is a polar bear's skin?",
+      "ans": {
+        "value": "Black",
+        "correct_entity": "option_c"
+      },
+      "options": [
+        "White",
+        "Pink",
+        "Black"
+      ],
+      "expl": [
+        "Polar bears have black skin under their thick white fur. The dark color helps them absorb and retain heat from the sun."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "White"
+        ],
+        "option_b": [
+          "Pink"
+        ],
+        "option_c": [
+          "Black"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": ""
+    },
+    {
+      "id": "animals_B7_30",
+      "que": "What is the fastest long-distance land animal?",
+      "ans": {
+        "value": "Pronghorn",
+        "correct_entity": "option_b"
+      },
+      "options": [
+        "Cheetah",
+        "Pronghorn",
+        "Horse"
+      ],
+      "expl": [
+        "The pronghorn is the fastest long-distance land animal, capable of maintaining high speeds for miles. It lives in North America."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "Cheetah"
+        ],
+        "option_b": [
+          "Pronghorn"
+        ],
+        "option_c": [
+          "Horse"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": ""
+    },
+    {
+      "id": "animals_B7_31",
+      "que": "What is a group of flamingos called?",
+      "ans": {
+        "value": "Flamboyance",
+        "correct_entity": "option_b"
+      },
+      "options": [
+        "Flock",
+        "Flamboyance",
+        "Cluster"
+      ],
+      "expl": [
+        "A group of flamingos is called a flamboyance, fitting their bright pink feathers and dramatic poses."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "Flock",
+          "lock"
+        ],
+        "option_b": [
+          "Flamboyance",
+          "flame boyance"
+        ],
+        "option_c": [
+          "Cluster",
+          "clusters"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": ""
+    },
+    {
+      "id": "animals_B7_32",
+      "que": "How many hearts does an octopus have?",
+      "ans": {
+        "value": "Three",
+        "correct_entity": "option_c"
+      },
+      "options": [
+        "One",
+        "Two",
+        "Three"
+      ],
+      "expl": [
+        "An octopus has three hearts—two pump blood to the gills, and one pumps it to the rest of the body."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "One",
+          "1"
+        ],
+        "option_b": [
+          "Two",
+          "2"
+        ],
+        "option_c": [
+          "Three",
+          "3"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": ""
+    },
+    {
+      "id": "animals_B7_33",
+      "que": "What animal is Feathers McGraw in 'Wallace and Gromit'?",
+      "ans": {
+        "value": "Penguin",
+        "correct_entity": "option_a"
+      },
+      "options": [
+        "Penguin",
+        "Duck",
+        "Chicken"
+      ],
+      "expl": [
+        "Feathers McGraw is a silent criminal penguin in Wallace and Gromit. He disguises himself as a chicken using a red rubber glove."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "Penguin",
+          "Penguins"
+        ],
+        "option_b": [
+          "Duck",
+          "ducks"
+        ],
+        "option_c": [
+          "Chicken",
+          "chickens"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": ""
+    },
+    {
+      "id": "animals_B7_34",
+      "que": "Which mammal is capable of true flight?",
+      "ans": {
+        "value": "Bat",
+        "correct_entity": "option_b"
+      },
+      "options": [
+        "Flying squirrel",
+        "Bat",
+        "Glider"
+      ],
+      "expl": [
+        "Bats are the only mammals capable of true, sustained flight. Their wings are made from thin skin stretched over elongated finger bones."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "Flying squirrel",
+          "Flying",
+          "squirrel"
+        ],
+        "option_b": [
+          "Bat",
+          "bats"
+        ],
+        "option_c": [
+          "Glider"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": ""
+    },
+    {
+      "id": "animals_B7_35",
+      "que": "What is the largest species of shark?",
+      "ans": {
+        "value": "Whale Shark",
+        "correct_entity": "option_b"
+      },
+      "options": [
+        "Great White",
+        "Whale Shark",
+        "Hammerhead"
+      ],
+      "expl": [
+        "The whale shark is the largest shark species, growing up to 40 feet or more in length. Despite its size, it feeds mostly on plankton through filter feeding."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "Great White",
+          "Great",
+          "White"
+        ],
+        "option_b": [
+          "Whale Shark",
+          "Whale",
+          "Shark"
+        ],
+        "option_c": [
+          "Hammerhead",
+          "hammer head"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": ""
+    },
+    {
+      "id": "animals_B7_36",
+      "que": "What is a group of lions called?",
+      "ans": {
+        "value": "Pride",
+        "correct_entity": "option_a"
+      },
+      "options": [
+        "Pride",
+        "Pack",
+        "Flock"
+      ],
+      "expl": [
+        "A pride is the name for a group of lions, usually consisting of related females, their cubs, and a few adult males. They cooperate in hunting and defending territory."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "Pride"
+        ],
+        "option_b": [
+          "Pack",
+          "packs"
+        ],
+        "option_c": [
+          "Flock",
+          "lock"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": ""
+    },
+    {
+      "id": "animals_B7_37",
+      "que": "What is a caterpillar's cocoon called?",
+      "ans": {
+        "value": "Chrysalis",
+        "correct_entity": "option_a"
+      },
+      "options": [
+        "Chrysalis",
+        "Nest",
+        "Burrow"
+      ],
+      "expl": [
+        "A chrysalis is the protective casing a caterpillar forms during metamorphosis. Inside it, the insect transforms into a butterfly or moth."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "Chrysalis"
+        ],
+        "option_b": [
+          "Nest"
+        ],
+        "option_c": [
+          "Burrow"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": ""
+    },
+    {
+      "id": "animals_B7_38",
+      "que": "What is the largest bird?",
+      "ans": {
+        "value": "Ostrich",
+        "correct_entity": "option_a"
+      },
+      "options": [
+        "Ostrich",
+        "Emu",
+        "Condor"
+      ],
+      "expl": [
+        "The ostrich is the largest living bird, capable of growing over 9 feet tall and weighing more than 300 pounds. It cannot fly but runs at incredible speeds."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "Ostrich",
+          "Ostriches"
+        ],
+        "option_b": [
+          "Emu"
+        ],
+        "option_c": [
+          "Condor"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": ""
+    },
+    {
+      "id": "animals_B7_39",
+      "que": "Fugu is which type of fish?",
+      "ans": {
+        "value": "Pufferfish",
+        "correct_entity": "option_a"
+      },
+      "options": [
+        "Pufferfish",
+        "Catfish",
+        "Swordfish"
+      ],
+      "expl": [
+        "Fugu is a Japanese dish made from pufferfish, which contains a deadly toxin if not prepared properly. Only licensed chefs are allowed to serve it."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "Pufferfish",
+          "puffer fish"
+        ],
+        "option_b": [
+          "Catfish",
+          "Cat"
+        ],
+        "option_c": [
+          "Swordfish",
+          "sword"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": ""
+    },
+    {
+      "id": "animals_B7_40",
+      "que": "What is a baby kangaroo called?",
+      "ans": {
+        "value": "Joey",
+        "correct_entity": "option_a"
+      },
+      "options": [
+        "Joey",
+        "Cub",
+        "Pup"
+      ],
+      "expl": [
+        "A baby kangaroo is called a joey. It stays in its mother’s pouch for several months after birth. Even after leaving the pouch, it continues to nurse and stay close."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "Joey",
+          "joy",
+          "joe"
+        ],
+        "option_b": [
+          "Cub",
+          "Cubs",
+          "cup"
+        ],
+        "option_c": [
+          "Pup"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": ""
+    },
+    {
+      "id": "animals_B7_41",
+      "que": "Which invasive fish has venomous spines?",
+      "ans": {
+        "value": "Lionfish",
+        "correct_entity": "option_a"
+      },
+      "options": [
+        "Lionfish",
+        "Piranha",
+        "Barracuda"
+      ],
+      "expl": [
+        "The lionfish is an invasive species in the Atlantic, especially around Florida. It has long, venomous spines that can deliver a painful sting. Despite its beauty, it disrupts local ecosystems."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "Lionfish",
+          "lion",
+          "fish",
+          "lion fish"
+        ],
+        "option_b": [
+          "Piranha"
+        ],
+        "option_c": [
+          "Barracuda"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": ""
+    },
+    {
+      "id": "animals_B7_42",
+      "que": "What's a baby goat called?",
+      "ans": {
+        "value": "Kid",
+        "correct_entity": "option_a"
+      },
+      "options": [
+        "Kid",
+        "Lamb",
+        "Cub"
+      ],
+      "expl": [
+        "A baby goat is called a kid. The term is used whether the goat is male or female. Kids are usually playful and energetic."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "Kid",
+          "Kids"
+        ],
+        "option_b": [
+          "Lamb"
+        ],
+        "option_c": [
+          "Cub"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": ""
+    },
+    {
+      "id": "animals_B7_43",
+      "que": "What is the smallest mammal by body length?",
+      "ans": {
+        "value": "Bumblebee bat",
+        "correct_entity": "option_a"
+      },
+      "options": [
+        "Bumblebee bat",
+        "Pygmy shrew",
+        "Sugar glider"
+      ],
+      "expl": [
+        "The bumblebee bat is the smallest mammal in the world by body length. It is found in Thailand and Myanmar. Despite its tiny size, it can still fly and echolocate."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "Bumblebee bat",
+          "Bumblebee",
+          "bat"
+        ],
+        "option_b": [
+          "Pygmy shrew",
+          "Pygmy",
+          "shrew"
+        ],
+        "option_c": [
+          "Sugar glider",
+          "Sugar",
+          "glider"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": ""
+    },
+    {
+      "id": "animals_B7_44",
+      "que": "How many lives is a cat said to have?",
+      "ans": {
+        "value": "Nine",
+        "correct_entity": "option_a"
+      },
+      "options": [
+        "Nine",
+        "Seven",
+        "Eleven"
+      ],
+      "expl": [
+        "Cats are said to have nine lives due to their agility and survival skills. The myth comes from their ability to escape dangerous situations. Different cultures list different numbers of lives."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "Nine",
+          "9"
+        ],
+        "option_b": [
+          "Seven",
+          "7"
+        ],
+        "option_c": [
+          "Eleven",
+          "11"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": ""
+    },
+    {
+      "id": "animals_B7_45",
+      "que": "What is the largest bird of prey?",
+      "ans": {
+        "value": "Andean condor",
+        "correct_entity": "option_a"
+      },
+      "options": [
+        "Andean condor",
+        "Bald eagle",
+        "Golden eagle"
+      ],
+      "expl": [
+        "The Andean condor is the largest bird of prey by wingspan. It can reach up to 10 feet across. The bird soars over South American mountains and cliffs."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "Andean condor",
+          "Andean",
+          "condor",
+          "Indian condor"
+        ],
+        "option_b": [
+          "Bald eagle",
+          "Bald",
+          "eagle"
+        ],
+        "option_c": [
+          "Golden eagle",
+          "Golden",
+          "eagle"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": ""
+    },
+    {
+      "id": "animals_B7_46",
+      "que": "Which long-legged bird is mythically associated with delivering babies?",
+      "ans": {
+        "value": "Stork",
+        "correct_entity": "option_a"
+      },
+      "options": [
+        "Stork",
+        "Swan",
+        "Pelican"
+      ],
+      "expl": [
+        "Storks are traditionally said to deliver babies in folklore and fairy tales. This myth has existed in many cultures for centuries. It’s often used in a playful way to explain where babies come from."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "Stork",
+          "stroke"
+        ],
+        "option_b": [
+          "Swan"
+        ],
+        "option_c": [
+          "Pelican"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": ""
+    },
+    {
+      "id": "animals_B7_47",
+      "que": "What is the smallest dog breed?",
+      "ans": {
+        "value": "Chihuahua",
+        "correct_entity": "option_a"
+      },
+      "options": [
+        "Chihuahua",
+        "Pomeranian",
+        "Yorkie"
+      ],
+      "expl": [
+        "The Chihuahua is the smallest recognized dog breed in the world. Despite their size, they are known for big personalities and confidence. They are popular as companion pets."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "Chihuahua"
+        ],
+        "option_b": [
+          "Pomeranian"
+        ],
+        "option_c": [
+          "Yorkie"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": ""
+    },
+    {
+      "id": "animals_B7_48",
+      "que": "From which young animal does veal piccata come?",
+      "ans": {
+        "value": "Veal",
+        "correct_entity": "option_a"
+      },
+      "options": [
+        "Veal",
+        "Chicken",
+        "Pork"
+      ],
+      "expl": [
+        "Veal piccata is made from the meat of a young calf. The cutlets are usually thin and tender. They are cooked in a lemon, butter, and caper sauce."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "Veal",
+          "p. l"
+        ],
+        "option_b": [
+          "Chicken"
+        ],
+        "option_c": [
+          "Pork",
+          "fork"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": ""
+    },
+    {
+      "id": "animals_B7_49",
+      "que": "What is the collective noun for a group of owls?",
+      "ans": {
+        "value": "Parliament",
+        "correct_entity": "option_a"
+      },
+      "options": [
+        "Parliament",
+        "Flock",
+        "Hoot"
+      ],
+      "expl": [
+        "A group of owls is called a parliament. The term comes from old folklore and literature. It reflects the owl’s reputation for wisdom."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "Parliament"
+        ],
+        "option_b": [
+          "Flock"
+        ],
+        "option_c": [
+          "Hoot"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": ""
+    }
+  ],
+  "IMAGE_QUESTIONS": [],
+  "AUDIO_QUESTIONS": []
+}

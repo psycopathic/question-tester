@@ -1,0 +1,870 @@
+{
+  "TEXT_QUESTIONS": [
+    {
+      "id": "general-knowledge_B10_1",
+      "que": "What is the main ingredient in traditional Japanese miso soup?",
+      "ans": {
+        "value": "Miso paste",
+        "correct_entity": "option_b"
+      },
+      "options": [
+        "Soy sauce",
+        "Miso paste",
+        "Rice vinegar"
+      ],
+      "expl": [
+        "Miso paste is the main ingredient in Japanese miso soup. It is made from fermented soybeans mixed with salt and a fermenting agent called koji. Miso soup is a staple of Japanese cuisine and is often served alongside rice. There are many varieties of miso including white, yellow, and red."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "Soy sauce",
+          "soya sauce",
+          "soy",
+          "soyasauce"
+        ],
+        "option_b": [
+          "Miso paste",
+          "miso",
+          "fermented soy",
+          "miso soup base"
+        ],
+        "option_c": [
+          "Rice vinegar",
+          "vinegar",
+          "rice wine vinegar"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": ""
+    },
+    {
+      "id": "general-knowledge_B10_2",
+      "que": "What does the 'www' in a web address stand for?",
+      "ans": {
+        "value": "World Wide Web",
+        "correct_entity": "option_a"
+      },
+      "options": [
+        "World Wide Web",
+        "World Web Works",
+        "Wide World Web"
+      ],
+      "expl": [
+        "WWW stands for World Wide Web. It was invented by British computer scientist Tim Berners-Lee in 1989 while working at CERN. The World Wide Web is a system of interlinked hypertext documents accessed via the internet. It transformed how information is shared and accessed globally."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "World Wide Web",
+          "www",
+          "web"
+        ],
+        "option_b": [
+          "World Web Works",
+          "web works"
+        ],
+        "option_c": [
+          "Wide World Web",
+          "wide web"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": ""
+    },
+    {
+      "id": "general-knowledge_B10_3",
+      "que": "Which fast-food chain is famous for its golden arches?",
+      "ans": {
+        "value": "McDonald's",
+        "correct_entity": "option_b"
+      },
+      "options": [
+        "Burger King",
+        "McDonald's",
+        "Wendy's"
+      ],
+      "expl": [
+        "McDonald's is famous for its golden arches, which form the shape of the letter M in the company's logo. Founded in 1940 in San Bernardino, California, McDonald's is one of the largest fast-food chains in the world and is best known for the Big Mac and Happy Meal."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "Burger King",
+          "bk",
+          "burgerking",
+          "burger queen",
+          "buger king"
+        ],
+        "option_b": [
+          "McDonald's",
+          "mcdonalds",
+          "mc donalds",
+          "mc donald s",
+          "mcd",
+          "macdonalds",
+          "mcdonnalds",
+          "mackdonalds"
+        ],
+        "option_c": [
+          "Wendy's",
+          "wendys",
+          "wendy s",
+          "vendys"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": ""
+    },
+    {
+      "id": "general-knowledge_B10_4",
+      "que": "Which day of the week comes right after Monday?",
+      "ans": {
+        "value": "Tuesday",
+        "correct_entity": "option_b"
+      },
+      "options": [
+        "Sunday",
+        "Tuesday",
+        "Wednesday"
+      ],
+      "expl": [
+        "Tuesday comes right after Monday in the week. There are seven days in a week: Sunday, Monday, Tuesday, Wednesday, Thursday, Friday, and Saturday. The names of the days come from old English, Roman, and Norse origins."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "Sunday",
+          "sun day",
+          "sonday"
+        ],
+        "option_b": [
+          "Tuesday",
+          "tues day",
+          "twosday"
+        ],
+        "option_c": [
+          "Wednesday",
+          "wednes day",
+          "wensday"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": ""
+    },
+    {
+      "id": "general-knowledge_B10_5",
+      "que": "How many chambers are in a typical combination lock?",
+      "ans": {
+        "value": "Three",
+        "correct_entity": "option_c"
+      },
+      "options": [
+        "Two",
+        "Four",
+        "Three"
+      ],
+      "expl": [
+        "A standard combination lock typically has three dials or chambers, each displaying numbers 0–9 or 0–39 depending on the design. The correct sequence of three numbers must be entered to open the lock. Some high-security locks can have four or more numbers in the combination."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "Two",
+          "2",
+          "too",
+          "tu"
+        ],
+        "option_b": [
+          "Four",
+          "4",
+          "for",
+          "fore"
+        ],
+        "option_c": [
+          "Three",
+          "3",
+          "tree",
+          "free"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": ""
+    },
+    {
+      "id": "general-knowledge_B10_6",
+      "que": "What is the name of the longest river in the United States?",
+      "ans": {
+        "value": "Missouri River",
+        "correct_entity": "option_c"
+      },
+      "options": [
+        "Colorado River",
+        "Ohio River",
+        "Missouri River"
+      ],
+      "expl": [
+        "The Missouri River is the longest river in the United States at approximately 3,767 kilometres. It originates in Montana and flows east and south before joining the Mississippi River near St. Louis, Missouri. The Missouri River basin drains about one-sixth of the continental US."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "Colorado River",
+          "colorado",
+          "kolorado river",
+          "kolorado"
+        ],
+        "option_b": [
+          "Ohio River",
+          "ohio",
+          "ohiyo river",
+          "ohioo"
+        ],
+        "option_c": [
+          "Missouri River",
+          "missouri",
+          "misouri river",
+          "mizuri"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": ""
+    },
+    {
+      "id": "general-knowledge_B10_7",
+      "que": "What is the most common blood type in humans?",
+      "ans": {
+        "value": "O positive",
+        "correct_entity": "option_c"
+      },
+      "options": [
+        "AB positive",
+        "B positive",
+        "O positive"
+      ],
+      "expl": [
+        "O positive (O+) is the most common blood type in humans, found in about 37-40% of the global population. People with O positive blood can donate to anyone with a positive blood type. Type AB negative is the rarest blood type, found in less than 1% of the population."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "AB positive",
+          "ab plus",
+          "ab+",
+          "a b positive"
+        ],
+        "option_b": [
+          "B positive",
+          "b plus",
+          "b+",
+          "bee positive"
+        ],
+        "option_c": [
+          "O positive",
+          "o plus",
+          "o+",
+          "oh positive"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": ""
+    },
+    {
+      "id": "general-knowledge_B10_8",
+      "que": "On the Richter scale, what is the minimum magnitude considered a major earthquake?",
+      "ans": {
+        "value": "7",
+        "correct_entity": "option_c"
+      },
+      "options": [
+        "5",
+        "6",
+        "7"
+      ],
+      "expl": [
+        "On the Richter scale, an earthquake with a magnitude of 7.0 or greater is classified as a major earthquake. Such earthquakes can cause serious damage over large areas. The scale was developed by Charles Richter in 1935. Today, the Moment Magnitude Scale (Mw) is more commonly used by seismologists."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "5",
+          "five",
+          "five point zero",
+          "5 point 0",
+          "5.0",
+          "fiv"
+        ],
+        "option_b": [
+          "6",
+          "six",
+          "six point zero",
+          "6 point 0",
+          "6.0",
+          "sिक्स"
+        ],
+        "option_c": [
+          "7",
+          "seven",
+          "seven point zero",
+          "7 point 0",
+          "7.0",
+          "sevn"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": ""
+    },
+    {
+      "id": "general-knowledge_B10_9",
+      "que": "What is the smallest unit of matter?",
+      "ans": {
+        "value": "Atom",
+        "correct_entity": "option_b"
+      },
+      "options": [
+        "Molecule",
+        "Atom",
+        "Cell"
+      ],
+      "expl": [
+        "An atom is the smallest unit of ordinary matter that makes up a chemical element. Every solid, liquid, gas, and plasma is composed of neutral or ionized atoms. Atoms are made up of even smaller particles — protons, neutrons, and electrons. The word 'atom' comes from the Greek 'atomos' meaning indivisible."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "Molecule",
+          "molecules",
+          "molecular structure",
+          "molicule"
+        ],
+        "option_b": [
+          "Atom",
+          "atoms",
+          "atomic particle",
+          "atam"
+        ],
+        "option_c": [
+          "Cell",
+          "cells",
+          "biological cell",
+          "sel"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": ""
+    },
+    {
+      "id": "general-knowledge_B10_10",
+      "que": "What is the speed of sound in air at room temperature?",
+      "ans": {
+        "value": "About 343 m/s",
+        "correct_entity": "option_b"
+      },
+      "options": [
+        "About 243 m/s",
+        "About 343 m/s",
+        "About 443 m/s"
+      ],
+      "expl": [
+        "The speed of sound in air at room temperature (approximately 20°C) is about 343 metres per second, or roughly 1,235 kilometres per hour. This speed varies with temperature; sound travels faster in warmer air. The speed of sound in water is much faster, about 1,480 metres per second."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "About 243 m/s",
+          "two forty three metres per second",
+          "243 ms",
+          "243 meters per second",
+          "two four three meters per second"
+        ],
+        "option_b": [
+          "About 343 m/s",
+          "three forty three metres per second",
+          "343 ms",
+          "speed of sound",
+          "343 meters per second",
+          "three four three meters per second"
+        ],
+        "option_c": [
+          "About 443 m/s",
+          "four forty three metres per second",
+          "443 ms",
+          "443 meters per second",
+          "four four three meters per second"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": ""
+    },
+    {
+      "id": "general-knowledge_B10_11",
+      "que": "What is the standard number of keys on a piano?",
+      "ans": {
+        "value": "88",
+        "correct_entity": "option_b"
+      },
+      "options": [
+        "76",
+        "88",
+        "100"
+      ],
+      "expl": [
+        "A standard piano has 88 keys — 52 white keys and 36 black keys. This range covers over seven octaves and includes all the notes from A0 to C8. Steinway & Sons standardized this to 88 keys in 1880. Smaller pianos and keyboards may have fewer keys, such as 61 or 76."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "76",
+          "seventy six",
+          "seventysix",
+          "seven six"
+        ],
+        "option_b": [
+          "88",
+          "eighty eight",
+          "eightyeight",
+          "double eight"
+        ],
+        "option_c": [
+          "100",
+          "one hundred",
+          "hundred",
+          "one zero zero"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": ""
+    },
+    {
+      "id": "general-knowledge_B10_12",
+      "que": "In computing, how many bits are in a byte?",
+      "ans": {
+        "value": "8",
+        "correct_entity": "option_c"
+      },
+      "options": [
+        "4",
+        "16",
+        "8"
+      ],
+      "expl": [
+        "A byte consists of 8 bits. A bit is the most basic unit of data in computing, representing either a 0 or a 1. A byte can represent 256 different values (2^8). Common computer storage units include kilobytes (1,024 bytes), megabytes, gigabytes, and terabytes."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "4",
+          "four",
+          "for",
+          "fore"
+        ],
+        "option_b": [
+          "16",
+          "sixteen",
+          "sixten"
+        ],
+        "option_c": [
+          "8",
+          "eight",
+          "ate",
+          "eit"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": ""
+    },
+    {
+      "id": "general-knowledge_B10_13",
+      "que": "What is the national flower of India?",
+      "ans": {
+        "value": "Lotus",
+        "correct_entity": "option_c"
+      },
+      "options": [
+        "Rose",
+        "Marigold",
+        "Lotus"
+      ],
+      "expl": [
+        "The Lotus (Nelumbo nucifera) is the national flower of India. Revered in Indian culture and religion, the lotus symbolizes divinity, purity, beauty, and grace. It grows in muddy water yet remains untouched by impurity, symbolizing spiritual development. It is significant in both Hinduism and Buddhism."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "Rose",
+          "roses",
+          "gulaab"
+        ],
+        "option_b": [
+          "Marigold",
+          "genda",
+          "marigolds"
+        ],
+        "option_c": [
+          "Lotus",
+          "lotus flower",
+          "kamal",
+          "water lily"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": ""
+    },
+    {
+      "id": "general-knowledge_B10_14",
+      "que": "How many seconds are in one hour?",
+      "ans": {
+        "value": "3600",
+        "correct_entity": "option_b"
+      },
+      "options": [
+        "360",
+        "3600",
+        "36000"
+      ],
+      "expl": [
+        "There are 3,600 seconds in one hour. This is calculated as 60 seconds per minute multiplied by 60 minutes per hour. Therefore, 24 hours contain 86,400 seconds. This mathematical relationship is fundamental to timekeeping and many scientific calculations."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "360",
+          "three hundred sixty",
+          "three sixty"
+        ],
+        "option_b": [
+          "3600",
+          "three thousand six hundred",
+          "thirty six hundred"
+        ],
+        "option_c": [
+          "36000",
+          "thirty six thousand",
+          "thirty six zero zero zero"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": ""
+    },
+    {
+      "id": "general-knowledge_B10_15",
+      "que": "Which holiday do American children dress in costumes and go trick-or-treating?",
+      "ans": {
+        "value": "Halloween",
+        "correct_entity": "option_b"
+      },
+      "options": [
+        "Thanksgiving",
+        "Halloween",
+        "Easter"
+      ],
+      "expl": [
+        "Halloween is celebrated on October 31 each year in the United States. Children dress up in costumes and go trick-or-treating, knocking on doors to collect candy. People also carve pumpkins into jack-o-lanterns and decorate their homes in spooky themes."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "Thanksgiving",
+          "thanks giving",
+          "turkey day"
+        ],
+        "option_b": [
+          "Halloween",
+          "hallowe en",
+          "hallo ween"
+        ],
+        "option_c": [
+          "Easter",
+          "easter sunday",
+          "ester"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": ""
+    },
+    {
+      "id": "general-knowledge_B10_16",
+      "que": "What is the name of the longest bone in the human ear?",
+      "ans": {
+        "value": "Malleus",
+        "correct_entity": "option_c"
+      },
+      "options": [
+        "Incus",
+        "Stapes",
+        "Malleus"
+      ],
+      "expl": [
+        "The malleus, also called the hammer, is the largest of the three tiny bones in the middle ear. The three bones (malleus, incus, and stapes) together are called the ossicles. They transmit sound vibrations from the eardrum to the inner ear. The stapes is actually the smallest bone in the human body."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "Incus",
+          "anvil",
+          "incus bone"
+        ],
+        "option_b": [
+          "Stapes",
+          "stirrup",
+          "stapes bone"
+        ],
+        "option_c": [
+          "Malleus",
+          "hammer",
+          "mallet bone",
+          "malleus bone"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": ""
+    },
+    {
+      "id": "general-knowledge_B10_17",
+      "que": "Who is the Greek goddess of wisdom?",
+      "ans": {
+        "value": "Athena",
+        "correct_entity": "option_b"
+      },
+      "options": [
+        "Aphrodite",
+        "Athena",
+        "Hera"
+      ],
+      "expl": [
+        "Athena is the Greek goddess of wisdom, warfare, and craft. She is one of the twelve Olympians and a daughter of Zeus. The city of Athens is named after her. She is often depicted wearing a helmet and carrying a shield. Her Roman equivalent is Minerva. The Parthenon in Athens was built in her honor."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "Aphrodite",
+          "venus",
+          "goddess aphrodite"
+        ],
+        "option_b": [
+          "Athena",
+          "minerva",
+          "goddess athena"
+        ],
+        "option_c": [
+          "Hera",
+          "juno",
+          "queen of gods"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": ""
+    },
+    {
+      "id": "general-knowledge_B10_18",
+      "que": "Which American company makes the iPhone?",
+      "ans": {
+        "value": "Apple",
+        "correct_entity": "option_b"
+      },
+      "options": [
+        "Microsoft",
+        "Apple",
+        "Samsung"
+      ],
+      "expl": [
+        "Apple, the American technology company founded in 1976 by Steve Jobs, Steve Wozniak, and Ronald Wayne, makes the iPhone. The first iPhone was released in 2007 and changed the way people use mobile phones. Apple is headquartered in Cupertino, California."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "Microsoft",
+          "ms",
+          "micro soft"
+        ],
+        "option_b": [
+          "Apple",
+          "apple inc",
+          "apple company"
+        ],
+        "option_c": [
+          "Samsung",
+          "samsung electronics",
+          "sam sung"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": ""
+    },
+    {
+      "id": "general-knowledge_B10_19",
+      "que": "Which symbol is used on a keyboard to make a hashtag?",
+      "ans": {
+        "value": "Number sign #",
+        "correct_entity": "option_a"
+      },
+      "options": [
+        "Number sign #",
+        "At symbol @",
+        "Dollar sign $"
+      ],
+      "expl": [
+        "The number sign # is used to make a hashtag on a keyboard. On social media, putting it in front of a word turns the word into a clickable tag that groups posts about the same topic. The symbol is also called a pound sign or a hash mark."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "Number sign #",
+          "number sign",
+          "hashtag",
+          "pound sign",
+          "hash",
+          "sharp sign"
+        ],
+        "option_b": [
+          "At symbol @",
+          "at symbol",
+          "at sign",
+          "@ symbol"
+        ],
+        "option_c": [
+          "Dollar sign $",
+          "dollar sign",
+          "dollar",
+          "money sign"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": ""
+    },
+    {
+      "id": "general-knowledge_B10_20",
+      "que": "Which famous American holiday meal usually features roast turkey and pumpkin pie?",
+      "ans": {
+        "value": "Thanksgiving",
+        "correct_entity": "option_b"
+      },
+      "options": [
+        "Fourth of July",
+        "Thanksgiving",
+        "Memorial Day"
+      ],
+      "expl": [
+        "Thanksgiving is celebrated on the fourth Thursday of November in the United States and usually features roast turkey, mashed potatoes, stuffing, and pumpkin pie. The first Thanksgiving was a 1621 harvest meal shared by the Pilgrims and the Wampanoag people."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "Fourth of July",
+          "july fourth",
+          "4th of july",
+          "independence day"
+        ],
+        "option_b": [
+          "Thanksgiving",
+          "thanks",
+          "giving",
+          "turkey day"
+        ],
+        "option_c": [
+          "Memorial Day",
+          "remembrance day"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": ""
+    },
+    {
+      "id": "general-knowledge_B10_21",
+      "que": "Which famous Disney character is a mouse with round black ears?",
+      "ans": {
+        "value": "Mickey Mouse",
+        "correct_entity": "option_b"
+      },
+      "options": [
+        "Donald Duck",
+        "Mickey Mouse",
+        "Goofy"
+      ],
+      "expl": [
+        "Mickey Mouse is the famous Disney character who is a cheerful mouse with big round black ears. He first appeared in the 1928 cartoon Steamboat Willie and quickly became the official mascot of The Walt Disney Company. He is recognized all over the world."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "Donald Duck",
+          "donald",
+          "duck donald"
+        ],
+        "option_b": [
+          "Mickey Mouse",
+          "mickey",
+          "mouse",
+          "micky mouse"
+        ],
+        "option_c": [
+          "Goofy",
+          "goofie"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": ""
+    },
+    {
+      "id": "general-knowledge_B10_22",
+      "que": "Which famous American building is the home of the U.S. President?",
+      "ans": {
+        "value": "The White House",
+        "correct_entity": "option_b"
+      },
+      "options": [
+        "The Capitol",
+        "The White House",
+        "The Pentagon"
+      ],
+      "expl": [
+        "The White House is the official home and workplace of the President of the United States. Located at 1600 Pennsylvania Avenue in Washington, D.C., it has 132 rooms and has been the residence of every U.S. President since John Adams in 1800."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "The Capitol",
+          "capitol building",
+          "us capitol"
+        ],
+        "option_b": [
+          "The White House",
+          "white house",
+          "white",
+          "presidential house"
+        ],
+        "option_c": [
+          "The Pentagon",
+          "pentagon",
+          "pentagan"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": ""
+    }
+  ],
+  "IMAGE_QUESTIONS": [],
+  "AUDIO_QUESTIONS": []
+}

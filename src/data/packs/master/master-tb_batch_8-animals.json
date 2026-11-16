@@ -1,0 +1,1625 @@
+{
+  "TEXT_QUESTIONS": [
+    {
+      "id": "animal_B8_1",
+      "que": "Which bird is the national symbol of the United States?",
+      "ans": {
+        "value": "Bald Eagle",
+        "correct_entity": "option_a"
+      },
+      "options": [
+        "Bald Eagle",
+        "Wild Turkey",
+        "Mockingbird"
+      ],
+      "expl": [
+        "The bald eagle has been the national symbol of the United States since 1782. It appears on the Great Seal of the United States and on many official documents. Despite its name, the bald eagle is not actually bald; the word 'bald' comes from an older word meaning white-headed."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "Bald Eagle",
+          "american bald eagle",
+          "eagle",
+          "bald egle",
+          "bold eagle"
+        ],
+        "option_b": [
+          "Wild Turkey",
+          "turkey",
+          "wild turky"
+        ],
+        "option_c": [
+          "Mockingbird",
+          "mocking bird"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": ""
+    },
+    {
+      "id": "animal_B8_2",
+      "que": "Which farm animal is famous for saying 'oink'?",
+      "ans": {
+        "value": "Pig",
+        "correct_entity": "option_b"
+      },
+      "options": [
+        "Cow",
+        "Pig",
+        "Sheep"
+      ],
+      "expl": [
+        "Pigs are the farm animals famous for the sound 'oink' in American English. They are smart animals and can be trained like dogs. Baby pigs are called piglets, and a group of pigs is called a herd or a drove."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "Cow",
+          "cows",
+          "gau"
+        ],
+        "option_b": [
+          "Pig",
+          "piggy",
+          "pigs"
+        ],
+        "option_c": [
+          "Sheep",
+          "sheeps",
+          "lamb",
+          "ship",
+          "ships"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": ""
+    },
+    {
+      "id": "animal_B8_3",
+      "que": "Which animal lives in a pond and says 'ribbit'?",
+      "ans": {
+        "value": "Frog",
+        "correct_entity": "option_a"
+      },
+      "options": [
+        "Frog",
+        "Turtle",
+        "Duck"
+      ],
+      "expl": [
+        "Frogs live in and near ponds, and many species are known for the 'ribbit' sound, especially Pacific tree frogs. Frogs start their lives as tadpoles in the water and grow legs as they become adults, a process called metamorphosis."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "Frog",
+          "frogs",
+          "froggy"
+        ],
+        "option_b": [
+          "Turtle",
+          "turtles",
+          "tortoise"
+        ],
+        "option_c": [
+          "Duck",
+          "ducks",
+          "ducky"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": ""
+    },
+    {
+      "id": "animal_B8_4",
+      "que": "Which animal is known as the 'king of the jungle'?",
+      "ans": {
+        "value": "Lion",
+        "correct_entity": "option_c"
+      },
+      "options": [
+        "Tiger",
+        "Elephant",
+        "Lion"
+      ],
+      "expl": [
+        "The lion is often called the 'king of the jungle' because of its strength, large size, and loud roar. Male lions are known for their thick golden manes. Lions actually live mostly in the grasslands and savannas of Africa, not in jungles, and they live together in groups called prides."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "Tiger",
+          "tigers",
+          "royal bengal tiger"
+        ],
+        "option_b": [
+          "Elephant",
+          "elephants",
+          "elefant"
+        ],
+        "option_c": [
+          "Lion",
+          "lions",
+          "king of jungle"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": ""
+    },
+    {
+      "id": "animal_B8_5",
+      "que": "Which insect is famous for making honey?",
+      "ans": {
+        "value": "Bee",
+        "correct_entity": "option_b"
+      },
+      "options": [
+        "Ant",
+        "Bee",
+        "Butterfly"
+      ],
+      "expl": [
+        "Honey bees are famous for making honey by collecting nectar from flowers and storing it in their hives. Bees live in colonies led by a queen, and worker bees do most of the gathering. Honey bees are also important pollinators that help fruits, vegetables, and flowers grow."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "Ant",
+          "ants",
+          "anty"
+        ],
+        "option_b": [
+          "Bee",
+          "bees",
+          "honey bee",
+          "honeybee",
+          "bumblebee",
+          "b.",
+          "honey b."
+        ],
+        "option_c": [
+          "Butterfly",
+          "butterflies",
+          "butter fly"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": ""
+    },
+    {
+      "id": "animal_B8_6",
+      "que": "What is the gestation period of an elephant?",
+      "ans": {
+        "value": "22 months",
+        "correct_entity": "option_c"
+      },
+      "options": [
+        "12 months",
+        "18 months",
+        "22 months"
+      ],
+      "expl": [
+        "Elephants have the longest gestation period of any land animal — approximately 22 months (nearly two years). African elephants typically have slightly longer pregnancies than Asian elephants. Elephant calves are born well-developed and can walk within a few hours of birth."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "12 months",
+          "twelve months",
+          "one year",
+          "twelve month",
+          "1 year"
+        ],
+        "option_b": [
+          "18 months",
+          "eighteen months",
+          "eighteen month"
+        ],
+        "option_c": [
+          "22 months",
+          "twenty two months",
+          "twenty two month"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": ""
+    },
+    {
+      "id": "animal_B8_7",
+      "que": "Which bird is known for having the longest migration?",
+      "ans": {
+        "value": "Arctic tern",
+        "correct_entity": "option_b"
+      },
+      "options": [
+        "Canada goose",
+        "Arctic tern",
+        "Bar-tailed godwit"
+      ],
+      "expl": [
+        "The Arctic tern has the longest migration of any animal, traveling about 70,000 to 90,000 kilometres each year. It breeds in the Arctic and sub-Arctic regions in summer, then migrates to the Antarctic region for the Southern Hemisphere summer, essentially following summer from pole to pole."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "Canada goose",
+          "canadian goose",
+          "goose",
+          "canada goos"
+        ],
+        "option_b": [
+          "Arctic tern",
+          "tern",
+          "arctic bird",
+          "hardington",
+          "artic turn",
+          "arctic turn",
+          "artic tern"
+        ],
+        "option_c": [
+          "Bar-tailed godwit",
+          "bar tailed godwit",
+          "godwit",
+          "bartailed godwit"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": ""
+    },
+    {
+      "id": "animal_B8_8",
+      "que": "What do you call a young kangaroo?",
+      "ans": {
+        "value": "Joey",
+        "correct_entity": "option_c"
+      },
+      "options": [
+        "Cub",
+        "Pup",
+        "Joey"
+      ],
+      "expl": [
+        "A young kangaroo is called a joey. Baby kangaroos are born very small (about the size of a jellybean) after a short gestation of about 33 days. They then crawl into their mother's pouch and continue developing for about 6 to 8 months, attaching to a nipple for nourishment."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "Cub",
+          "cubs",
+          "baby bear"
+        ],
+        "option_b": [
+          "Pup",
+          "pups",
+          "puppy"
+        ],
+        "option_c": [
+          "Joey",
+          "joeys",
+          "baby kangaroo"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": ""
+    },
+    {
+      "id": "animal_B8_9",
+      "que": "What is the name of the world's largest fish?",
+      "ans": {
+        "value": "Whale shark",
+        "correct_entity": "option_b"
+      },
+      "options": [
+        "Great white shark",
+        "Whale shark",
+        "Oarfish"
+      ],
+      "expl": [
+        "The whale shark is the world's largest fish, reaching lengths of up to 12 metres and weights of up to 21.5 tonnes. Despite its massive size, it is not a predator — it filter-feeds on plankton and small fish. Whale sharks are found in warm, tropical ocean waters around the world."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "Great white shark",
+          "great white",
+          "white shark",
+          "white shork"
+        ],
+        "option_b": [
+          "Whale shark",
+          "whales hark",
+          "whale fish"
+        ],
+        "option_c": [
+          "Oarfish",
+          "oar fish",
+          "giant oarfish",
+          "or fish"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": ""
+    },
+    {
+      "id": "animal_B8_10",
+      "que": "What is the term for a group of fish?",
+      "ans": {
+        "value": "Shoal or school",
+        "correct_entity": "option_b"
+      },
+      "options": [
+        "Pod",
+        "Shoal or school",
+        "Flock"
+      ],
+      "expl": [
+        "A group of fish is called a shoal or a school. Technically, a shoal refers to fish swimming loosely together, while a school is a more organized, coordinated group moving in the same direction. Both terms are widely used. Some specific fish have their own group names — a group of herring is called an army."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "Pod",
+          "a pod",
+          "whale pod"
+        ],
+        "option_b": [
+          "Shoal or school",
+          "shoal",
+          "school",
+          "school of fish",
+          "fish school"
+        ],
+        "option_c": [
+          "Flock",
+          "a flock",
+          "bird flock"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": ""
+    },
+    {
+      "id": "animal_B8_11",
+      "que": "What is the venom of a king cobra primarily made of?",
+      "ans": {
+        "value": "Neurotoxins",
+        "correct_entity": "option_c"
+      },
+      "options": [
+        "Hemotoxins",
+        "Cytotoxins",
+        "Neurotoxins"
+      ],
+      "expl": [
+        "King cobra venom primarily consists of neurotoxins, which attack the nervous system. A single bite can deliver enough venom to kill an elephant. The king cobra is the world's longest venomous snake, reaching lengths of up to 5.5 metres. Despite its fearsome reputation, it generally avoids confrontation with humans."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "Hemotoxins",
+          "hemotoxin",
+          "blood toxin",
+          "hemo toxin"
+        ],
+        "option_b": [
+          "Cytotoxins",
+          "cytotoxin",
+          "cell toxin",
+          "cyto toxin"
+        ],
+        "option_c": [
+          "Neurotoxins",
+          "neurotoxin",
+          "nerve toxin",
+          "neuro toxin"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": ""
+    },
+    {
+      "id": "animal_B8_12",
+      "que": "Which animal sleeps the most hours per day on average?",
+      "ans": {
+        "value": "Koala",
+        "correct_entity": "option_b"
+      },
+      "options": [
+        "Sloth",
+        "Koala",
+        "Cat"
+      ],
+      "expl": [
+        "Koalas sleep the most of any mammal, spending up to 22 hours per day sleeping. This is because their diet of eucalyptus leaves is low in nutrition and high in toxins, requiring enormous amounts of energy to digest. Sleep conserves energy and allows their digestive system to process the toxic leaves."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "Sloth",
+          "sloths",
+          "three toed sloth",
+          "slow animal"
+        ],
+        "option_b": [
+          "Koala",
+          "koalas",
+          "koala bear",
+          "koალა"
+        ],
+        "option_c": [
+          "Cat",
+          "cats",
+          "domestic cat",
+          "feline"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": ""
+    },
+    {
+      "id": "animal_B8_13",
+      "que": "What is the tallest living animal in the world?",
+      "ans": {
+        "value": "Giraffe",
+        "correct_entity": "option_b"
+      },
+      "options": [
+        "Elephant",
+        "Giraffe",
+        "Ostrich"
+      ],
+      "expl": [
+        "The giraffe is the tallest living animal in the world, with males reaching heights of up to 5.8 metres (19 feet). Their long necks account for up to 1.8 metres of their height. Despite having such long necks, giraffes have the same number of vertebrae as humans — just seven."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "Elephant",
+          "elephants",
+          "elefant"
+        ],
+        "option_b": [
+          "Giraffe",
+          "giraffes",
+          "jiraf"
+        ],
+        "option_c": [
+          "Ostrich",
+          "ostriches",
+          "ostric"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": ""
+    },
+    {
+      "id": "animal_B8_14",
+      "que": "What is a young horse called?",
+      "ans": {
+        "value": "Foal",
+        "correct_entity": "option_b"
+      },
+      "options": [
+        "Colt or filly",
+        "Foal",
+        "Pony"
+      ],
+      "expl": [
+        "A young horse is called a foal, regardless of gender. A male foal is called a colt and a female foal is called a filly. Foals are typically considered 'young' until they reach one year of age. After one year, a male becomes a yearling colt and a female a yearling filly."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "Colt or filly",
+          "colt",
+          "filly",
+          "baby horse"
+        ],
+        "option_b": [
+          "Foal",
+          "foals",
+          "young horse"
+        ],
+        "option_c": [
+          "Pony",
+          "ponies",
+          "small horse"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": ""
+    },
+    {
+      "id": "animal_B8_15",
+      "que": "How many arms does a starfish typically have?",
+      "ans": {
+        "value": "Five",
+        "correct_entity": "option_b"
+      },
+      "options": [
+        "Four",
+        "Five",
+        "Six"
+      ],
+      "expl": [
+        "A starfish (or sea star) typically has five arms, though some species can have 10, 20, or even 40 arms. Starfish can regenerate lost arms. They are not actually fish — they are echinoderms, more closely related to sea urchins and sea cucumbers. There are about 2,000 known species of starfish."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "Four",
+          "4",
+          "for"
+        ],
+        "option_b": [
+          "Five",
+          "5",
+          "fiv"
+        ],
+        "option_c": [
+          "Six",
+          "6"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": ""
+    },
+    {
+      "id": "animal_B8_16",
+      "que": "What is the largest bird in the world by weight?",
+      "ans": {
+        "value": "Ostrich",
+        "correct_entity": "option_b"
+      },
+      "options": [
+        "Emu",
+        "Ostrich",
+        "Albatross"
+      ],
+      "expl": [
+        "The ostrich is the largest bird in the world by both height and weight. Male ostriches can reach heights of up to 2.8 metres and weigh up to 160 kilograms. Ostriches cannot fly but are the fastest running birds, reaching speeds of up to 70 km/h. They also lay the largest eggs of any living bird."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "Emu",
+          "emus",
+          "australian emu"
+        ],
+        "option_b": [
+          "Ostrich",
+          "ostriches",
+          "ostric"
+        ],
+        "option_c": [
+          "Albatross",
+          "albatrosses",
+          "sea bird",
+          "albert toss"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": ""
+    },
+    {
+      "id": "animal_B8_17",
+      "que": "What is the collective name for a group of lions?",
+      "ans": {
+        "value": "Pride",
+        "correct_entity": "option_c"
+      },
+      "options": [
+        "Pack",
+        "Herd",
+        "Pride"
+      ],
+      "expl": [
+        "A group of lions is called a pride. A pride typically consists of related females, their cubs, and a small number of adult males. Female lions (lionesses) do most of the hunting. Lions are the only truly social wild cats. A pride can consist of 3 to 40 individuals."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "Pack",
+          "wolf pack",
+          "pack of wolves"
+        ],
+        "option_b": [
+          "Herd",
+          "animal herd",
+          "herd of animals"
+        ],
+        "option_c": [
+          "Pride",
+          "lion pride",
+          "pride of lions"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": ""
+    },
+    {
+      "id": "animal_B8_18",
+      "que": "Which animal is known to have the best sense of smell in the animal kingdom?",
+      "ans": {
+        "value": "Bear",
+        "correct_entity": "option_b"
+      },
+      "options": [
+        "Dog",
+        "Bear",
+        "Elephant"
+      ],
+      "expl": [
+        "Bears, particularly grizzly bears and polar bears, are known to have the best sense of smell in the animal kingdom. A bear's sense of smell is estimated to be 7 times better than a bloodhound's and 2,100 times better than a human's. They can detect smells from over 30 kilometres away."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "Dog",
+          "dogs",
+          "canine"
+        ],
+        "option_b": [
+          "Bear",
+          "bears",
+          "grizzly",
+          "beer"
+        ],
+        "option_c": [
+          "Elephant",
+          "elephants",
+          "elefant"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": ""
+    },
+    {
+      "id": "animal_B8_19",
+      "que": "What is the name of a female fox?",
+      "ans": {
+        "value": "Vixen",
+        "correct_entity": "option_b"
+      },
+      "options": [
+        "Doe",
+        "Vixen",
+        "Hind"
+      ],
+      "expl": [
+        "A female fox is called a vixen. A male fox is called a tod or reynard. A young fox is called a kit, cub, or pup. The word 'vixen' has also entered common usage as a term for an attractive woman. Foxes are found on every continent except Antarctica."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "Doe",
+          "a doe",
+          "female deer"
+        ],
+        "option_b": [
+          "Vixen",
+          "a vixen",
+          "female fox",
+          "mixing"
+        ],
+        "option_c": [
+          "Hind",
+          "a hind",
+          "female deer"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": ""
+    },
+    {
+      "id": "animal_B8_20",
+      "que": "Which ocean creature has three hearts?",
+      "ans": {
+        "value": "Octopus",
+        "correct_entity": "option_b"
+      },
+      "options": [
+        "Clownfish",
+        "Octopus",
+        "Jellyfish"
+      ],
+      "expl": [
+        "An octopus has three hearts. Two branchial hearts pump blood through each of the two gills, while the third (systemic heart) pumps blood through the body. Octopuses also have blue blood due to copper-based hemocyanin, rather than the iron-based hemoglobin found in human blood."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "Clownfish",
+          "nemo fish",
+          "clown fish",
+          "nemo"
+        ],
+        "option_b": [
+          "Octopus",
+          "octopi",
+          "octopuses",
+          "octapus"
+        ],
+        "option_c": [
+          "Jellyfish",
+          "jelly fish",
+          "sea jelly"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": ""
+    },
+    {
+      "id": "animal_B8_21",
+      "que": "What is the name for a baby goat?",
+      "ans": {
+        "value": "Kid",
+        "correct_entity": "option_c"
+      },
+      "options": [
+        "Lamb",
+        "Calf",
+        "Kid"
+      ],
+      "expl": [
+        "A baby goat is called a kid. Female goats are called does (or nannies) and male goats are called bucks (or billies). A group of goats is called a herd or a tribe. Goats were among the first animals to be domesticated by humans, around 10,000 years ago."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "Lamb",
+          "lambs",
+          "baby sheep"
+        ],
+        "option_b": [
+          "Calf",
+          "calves",
+          "baby cow"
+        ],
+        "option_c": [
+          "Kid",
+          "kids",
+          "baby goat"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": ""
+    },
+    {
+      "id": "animal_B8_22",
+      "que": "Which animal has the thickest skin of any animal on Earth?",
+      "ans": {
+        "value": "Hippo",
+        "correct_entity": "option_a"
+      },
+      "options": [
+        "Hippo",
+        "Elephant",
+        "Whale"
+      ],
+      "expl": [
+        "The hippopotamus has the thickest skin of any land animal, with skin up to 5 centimetres thick. Despite this, hippos are very sensitive to sunburn. Their skin secretes a natural sunscreen called 'blood sweat,' which is neither blood nor sweat but a red-orange oily substance that also has antibiotic properties."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "Hippo",
+          "hippopotamus",
+          "hippos"
+        ],
+        "option_b": [
+          "Elephant",
+          "elephants",
+          "elefant"
+        ],
+        "option_c": [
+          "Whale",
+          "whales",
+          "blue whale"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": ""
+    },
+    {
+      "id": "animal_B8_23",
+      "que": "What is a group of crows called?",
+      "ans": {
+        "value": "Murder",
+        "correct_entity": "option_a"
+      },
+      "options": [
+        "Murder",
+        "Flock",
+        "Gaggle"
+      ],
+      "expl": [
+        "A group of crows is called a murder. The exact origin of this term is unknown but may relate to folk tales about crows gathering to 'murder' one of their members who has violated community rules. Crows are highly intelligent birds known for their problem-solving abilities, tool use, and memory."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "Murder",
+          "a murder",
+          "murder of crows"
+        ],
+        "option_b": [
+          "Flock",
+          "a flock",
+          "flock of birds"
+        ],
+        "option_c": [
+          "Gaggle",
+          "a gaggle",
+          "gagle",
+          "aggle",
+          "eggle"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": ""
+    },
+    {
+      "id": "animal_B8_24",
+      "que": "Which animal can change its color to blend in with its surroundings?",
+      "ans": {
+        "value": "Chameleon",
+        "correct_entity": "option_c"
+      },
+      "options": [
+        "Salamander",
+        "Gecko",
+        "Chameleon"
+      ],
+      "expl": [
+        "Chameleons are famous for their ability to change color. This is controlled by layers of special cells called chromatophores and iridophores under their skin. Contrary to popular belief, color change is mainly used for communication and thermoregulation rather than camouflage. Some species can show a wide range of colors."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "Salamander",
+          "salamanders",
+          "salamandar"
+        ],
+        "option_b": [
+          "Gecko",
+          "geckos",
+          "gekko",
+          "geeko",
+          "gisko"
+        ],
+        "option_c": [
+          "Chameleon",
+          "chameleons",
+          "cameleon"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": ""
+    },
+    {
+      "id": "animal_B8_25",
+      "que": "Which baby farm animal is called a 'calf'?",
+      "ans": {
+        "value": "Cow",
+        "correct_entity": "option_b"
+      },
+      "options": [
+        "Sheep",
+        "Cow",
+        "Chicken"
+      ],
+      "expl": [
+        "A baby cow is called a calf. Female cows are called heifers before they have their first calf, and they are called cows after that. Male cattle are called bulls. Cows are common on dairy and beef farms across the United States."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "Sheep",
+          "lamb animal",
+          "wool animal"
+        ],
+        "option_b": [
+          "Cow",
+          "cattle",
+          "cows"
+        ],
+        "option_c": [
+          "Chicken",
+          "chicken bird",
+          "hen",
+          "chiken"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": ""
+    },
+    {
+      "id": "animal_B8_26",
+      "que": "What is the name of the largest species of bear?",
+      "ans": {
+        "value": "Polar bear",
+        "correct_entity": "option_c"
+      },
+      "options": [
+        "Grizzly bear",
+        "Kodiak bear",
+        "Polar bear"
+      ],
+      "expl": [
+        "The polar bear is generally considered the largest bear species in the world, with males weighing between 350 and 700 kilograms. However, Kodiak bears from the Kodiak Archipelago in Alaska are very similar in size and can occasionally exceed polar bears. Polar bears are native to the Arctic region."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "Grizzly bear",
+          "grizzly",
+          "grizly bear",
+          "grisly bear"
+        ],
+        "option_b": [
+          "Kodiak bear",
+          "kodiak",
+          "kodiak brown bear"
+        ],
+        "option_c": [
+          "Polar bear",
+          "polar bears",
+          "white bear"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": ""
+    },
+    {
+      "id": "animal_B8_27",
+      "que": "What is a group of bees called?",
+      "ans": {
+        "value": "Swarm",
+        "correct_entity": "option_a"
+      },
+      "options": [
+        "Swarm",
+        "Colony",
+        "Hive"
+      ],
+      "expl": [
+        "A group of bees is called a swarm. A swarm refers specifically to the mass of bees that leaves an overcrowded hive to establish a new colony. The bees in a hive are called a colony. A swarm can consist of thousands to tens of thousands of bees following their queen."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "Swarm",
+          "a swarm",
+          "bee swarm",
+          "swarm of bees",
+          "swan",
+          "swam"
+        ],
+        "option_b": [
+          "Colony",
+          "a colony",
+          "bee colony",
+          "ant colony"
+        ],
+        "option_c": [
+          "Hive",
+          "a hive",
+          "bee hive",
+          "beehive"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": ""
+    },
+    {
+      "id": "animal_B8_28",
+      "que": "What are the only two countries in the world where tigers live in the wild?",
+      "ans": {
+        "value": "India and Nepal",
+        "correct_entity": "option_a"
+      },
+      "options": [
+        "India and Nepal",
+        "India and Russia",
+        "China and India"
+      ],
+      "expl": [
+        "Wild tigers are found across multiple countries in Asia, not just two. The largest populations are in India (home to about 70% of all wild tigers), Russia, Bangladesh, Nepal, Bhutan, and a few others. The global wild tiger population is estimated at around 4,500 individuals."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "India and Nepal",
+          "india nepal",
+          "nepal india",
+          "bharat nepal"
+        ],
+        "option_b": [
+          "India and Russia",
+          "india russia",
+          "russia india",
+          "bharat russia"
+        ],
+        "option_c": [
+          "China and India",
+          "china india",
+          "india china",
+          "zhongguo india"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": ""
+    },
+    {
+      "id": "animal_B8_29",
+      "que": "What is the scientific study of insects called?",
+      "ans": {
+        "value": "Entomology",
+        "correct_entity": "option_c"
+      },
+      "options": [
+        "Herpetology",
+        "Ornithology",
+        "Entomology"
+      ],
+      "expl": [
+        "Entomology is the scientific study of insects. There are more than a million described species of insects, making them the most diverse group of animals on Earth. Insects play crucial roles in ecosystems as pollinators, decomposers, and as a food source for other animals."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "Herpetology",
+          "reptile study"
+        ],
+        "option_b": [
+          "Ornithology",
+          "bird study"
+        ],
+        "option_c": [
+          "Entomology",
+          "insect study"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": ""
+    },
+    {
+      "id": "animal_B8_30",
+      "que": "What is the name of a baby swan?",
+      "ans": {
+        "value": "Cygnet",
+        "correct_entity": "option_a"
+      },
+      "options": [
+        "Cygnet",
+        "Chick",
+        "Gosling"
+      ],
+      "expl": [
+        "A baby swan is called a cygnet. Young cygnets are typically covered in grey or white fluffy down. Swans are known for being lifelong mates and for their graceful appearance. The name 'cygnet' comes from the Latin word 'cygnus' meaning swan. Hans Christian Andersen's story The Ugly Duckling features a cygnet."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "Cygnet",
+          "cygnets",
+          "baby swan",
+          "ckninght",
+          "k.night"
+        ],
+        "option_b": [
+          "Chick",
+          "chicks",
+          "duckling",
+          "baby bird"
+        ],
+        "option_c": [
+          "Gosling",
+          "goslings",
+          "baby goose"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": ""
+    },
+    {
+      "id": "animal_B8_31",
+      "que": "Which insect is responsible for pollinating the most plants in the world?",
+      "ans": {
+        "value": "Bees",
+        "correct_entity": "option_b"
+      },
+      "options": [
+        "Butterflies",
+        "Bees",
+        "Beetles"
+      ],
+      "expl": [
+        "Bees are the most important pollinating insects in the world. They collect nectar and pollen for food, and in doing so transfer pollen between flowers. Honeybees and wild bees are responsible for pollinating about one-third of all the food that humans eat, including fruits, vegetables, and nuts."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "Butterflies",
+          "butterfly",
+          "butter fly"
+        ],
+        "option_b": [
+          "Bees",
+          "bee",
+          "honey bee",
+          "honeybee",
+          "b.",
+          "bis"
+        ],
+        "option_c": [
+          "Beetles",
+          "beetle",
+          "beetel"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": ""
+    },
+    {
+      "id": "animal_B8_32",
+      "que": "Which bird is famous for saying 'who, who'?",
+      "ans": {
+        "value": "Owl",
+        "correct_entity": "option_a"
+      },
+      "options": [
+        "Owl",
+        "Robin",
+        "Eagle"
+      ],
+      "expl": [
+        "Owls are famous for making a hooting 'who, who' sound. They are nocturnal birds, which means they are active at night. Owls have large eyes and special feathers that let them fly almost silently as they hunt small animals like mice."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "Owl",
+          "owls",
+          "hoot owl",
+          "ullu"
+        ],
+        "option_b": [
+          "Robin",
+          "robin bird"
+        ],
+        "option_c": [
+          "Eagle",
+          "bald eagle",
+          "egle",
+          "agle",
+          "egel"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": ""
+    },
+    {
+      "id": "animal_B8_33",
+      "que": "How do sharks sense the electrical fields of other creatures?",
+      "ans": {
+        "value": "Through their ampullae of Lorenzini",
+        "correct_entity": "option_b"
+      },
+      "options": [
+        "Through their lateral line",
+        "Through their ampullae of Lorenzini",
+        "Through their skin pores"
+      ],
+      "expl": [
+        "Sharks detect electrical fields using organs called the ampullae of Lorenzini, a network of electroreceptors located mainly on the snout. These jelly-filled canals open through pores in the skin and can detect the minute electrical fields produced by the muscle contractions of other animals, helping sharks locate prey."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "Through their lateral line",
+          "lateral line",
+          "lateral lines",
+          "fish lateral line"
+        ],
+        "option_b": [
+          "Through their ampullae of Lorenzini",
+          "ampullae of lorenzini",
+          "ampullae",
+          "electroreceptors",
+          "shark electroreceptors"
+        ],
+        "option_c": [
+          "Through their skin pores",
+          "skin pores",
+          "pores",
+          "body pores"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": ""
+    },
+    {
+      "id": "animal_B8_34",
+      "que": "What is the name for a group of whales?",
+      "ans": {
+        "value": "Pod",
+        "correct_entity": "option_a"
+      },
+      "options": [
+        "Pod",
+        "School",
+        "Pack"
+      ],
+      "expl": [
+        "A group of whales is called a pod. Pods are usually composed of related whales who hunt, travel, and communicate together. Pods can range from a few individuals to dozens. Killer whales (orcas) are known for having particularly complex social structures within their pods, with matriarchs leading multigenerational families."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "Pod",
+          "a pod",
+          "whale pod",
+          "dolphin pod",
+          "pot",
+          "fart"
+        ],
+        "option_b": [
+          "School",
+          "a school",
+          "fish school",
+          "school of fish"
+        ],
+        "option_c": [
+          "Pack",
+          "a pack",
+          "wolf pack"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": ""
+    },
+    {
+      "id": "animal_B8_35",
+      "que": "Which snake is the longest in the world?",
+      "ans": {
+        "value": "Reticulated python",
+        "correct_entity": "option_c"
+      },
+      "options": [
+        "Anaconda",
+        "King cobra",
+        "Reticulated python"
+      ],
+      "expl": [
+        "The reticulated python is the longest snake in the world, capable of exceeding 6 metres in length, with the longest recorded specimen measuring 7.67 metres. They are found in South and Southeast Asia. The green anaconda, while shorter, is the heaviest snake. Reticulated pythons are constrictors, not venomous."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "Anaconda",
+          "green anaconda",
+          "giant anaconda"
+        ],
+        "option_b": [
+          "King cobra",
+          "cobra",
+          "cobra snake"
+        ],
+        "option_c": [
+          "Reticulated python",
+          "reticulated",
+          "python",
+          "retic python"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": ""
+    },
+    {
+      "id": "animal_B8_36",
+      "que": "Which small pet rodent loves running on a wheel in its cage?",
+      "ans": {
+        "value": "Hamster",
+        "correct_entity": "option_a"
+      },
+      "options": [
+        "Hamster",
+        "Goldfish",
+        "Parrot"
+      ],
+      "expl": [
+        "Hamsters are small pet rodents that love running on exercise wheels inside their cages. They are mostly active at night, store food in pouches in their cheeks, and are popular first pets for many American kids because they are easy to care for."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "Hamster",
+          "hamsters",
+          "pet hamster"
+        ],
+        "option_b": [
+          "Goldfish",
+          "gold fish",
+          "pet fish"
+        ],
+        "option_c": [
+          "Parrot",
+          "parrots",
+          "talking bird"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": ""
+    },
+    {
+      "id": "animal_B8_37",
+      "que": "Which fish is known for its ability to walk on land and breathe air?",
+      "ans": {
+        "value": "Mudskipper",
+        "correct_entity": "option_b"
+      },
+      "options": [
+        "Flying fish",
+        "Mudskipper",
+        "Lungfish"
+      ],
+      "expl": [
+        "The mudskipper is a remarkable fish that can walk on land using its pectoral fins and breathe air through its moist skin and lining of its mouth and throat. Mudskippers are found in intertidal zones across the Indo-Pacific region and can spend days out of water, foraging and even climbing trees."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "Flying fish",
+          "gliding fish"
+        ],
+        "option_b": [
+          "Mudskipper",
+          "mudskippers",
+          "mud skipper",
+          "mercedes"
+        ],
+        "option_c": [
+          "Lungfish",
+          "lung fish"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": ""
+    },
+    {
+      "id": "animal_B8_38",
+      "que": "What is the name for the sound a frog makes?",
+      "ans": {
+        "value": "Croak",
+        "correct_entity": "option_a"
+      },
+      "options": [
+        "Croak",
+        "Chirp",
+        "Bark"
+      ],
+      "expl": [
+        "The sound a frog makes is generally called a croak, though the specific sound varies by species. The 'ribbit' sound commonly associated with frogs in popular culture actually comes from a specific species — the Pacific tree frog — which is native to the western United States. Many frogs make very different sounds."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "Croak",
+          "croaking",
+          "ribbit",
+          "frog sound",
+          "croc",
+          "crocs",
+          "crock"
+        ],
+        "option_b": [
+          "Chirp",
+          "chirping",
+          "tweet sound"
+        ],
+        "option_c": [
+          "Bark",
+          "barking",
+          "woof"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": ""
+    },
+    {
+      "id": "animal_B8_39",
+      "que": "What animal appears on the flag of Australia?",
+      "ans": {
+        "value": "Kangaroo and emu",
+        "correct_entity": "option_a"
+      },
+      "options": [
+        "Kangaroo and emu",
+        "Koala and wombat",
+        "Kangaroo and koala"
+      ],
+      "expl": [
+        "The Australian Coat of Arms, which appears on Australia's official seal (not the flag itself), features a kangaroo and an emu. These animals were chosen because neither can walk backwards, symbolizing Australia always moving forward. The flag itself features the Union Jack, the Southern Cross, and the Commonwealth Star."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "Kangaroo and emu",
+          "kangaroo emu",
+          "emu and kangaroo",
+          "kangaroo with emu"
+        ],
+        "option_b": [
+          "Koala and wombat",
+          "koala wombat",
+          "wombat koala"
+        ],
+        "option_c": [
+          "Kangaroo and koala",
+          "kangaroo koala",
+          "koala kangaroo"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": ""
+    },
+    {
+      "id": "animal_B8_40",
+      "que": "What is the name of the world's most poisonous frog?",
+      "ans": {
+        "value": "Golden poison dart frog",
+        "correct_entity": "option_b"
+      },
+      "options": [
+        "Tree frog",
+        "Golden poison dart frog",
+        "Tomato frog"
+      ],
+      "expl": [
+        "The golden poison dart frog (Phyllobates terribilis) is considered the world's most toxic frog and one of the most poisonous animals on Earth. Native to the Pacific coast of Colombia, a single frog contains enough poison to kill 10 adult humans. Indigenous peoples used its poison on blowgun darts."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "Tree frog",
+          "tree frogs",
+          "arboreal frog"
+        ],
+        "option_b": [
+          "Golden poison dart frog",
+          "golden poison frog",
+          "golden dart frog",
+          "poison dart frog",
+          "poison frog"
+        ],
+        "option_c": [
+          "Tomato frog",
+          "tomato frogs",
+          "red frog"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": ""
+    },
+    {
+      "id": "animal_B8_41",
+      "que": "Which animal is famous for living in a pouch on its mother's belly?",
+      "ans": {
+        "value": "Kangaroo",
+        "correct_entity": "option_b"
+      },
+      "options": [
+        "Penguin",
+        "Kangaroo",
+        "Polar bear"
+      ],
+      "expl": [
+        "A baby kangaroo, called a joey, lives in a pouch on its mother's belly. Kangaroos are marsupials, native to Australia, and the joey stays in the pouch for several months while it grows. Kangaroos can hop at speeds of up to 35 miles per hour."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "Penguin",
+          "penguins",
+          "pengwin"
+        ],
+        "option_b": [
+          "Kangaroo",
+          "kangaroos",
+          "roo"
+        ],
+        "option_c": [
+          "Polar bear",
+          "polar bears",
+          "white bear"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": ""
+    },
+    {
+      "id": "animal_B8_42",
+      "que": "Which animal is Snoopy in the famous Peanuts comic strip?",
+      "ans": {
+        "value": "Dog",
+        "correct_entity": "option_b"
+      },
+      "options": [
+        "Cat",
+        "Dog",
+        "Rabbit"
+      ],
+      "expl": [
+        "Snoopy is a beagle, a kind of dog, in the famous Peanuts comic strip created by Charles M. Schulz. He is Charlie Brown's pet and is known for sleeping on top of his red doghouse and pretending to be a World War I flying ace."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "Cat",
+          "kitten",
+          "kitty"
+        ],
+        "option_b": [
+          "Dog",
+          "beagle",
+          "puppy",
+          "canine"
+        ],
+        "option_c": [
+          "Rabbit",
+          "bunny",
+          "rabit"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": ""
+    }
+  ],
+  "IMAGE_QUESTIONS": [],
+  "AUDIO_QUESTIONS": []
+}

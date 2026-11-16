@@ -1,0 +1,1632 @@
+[
+  {
+    "id": "1",
+    "que": "Better ingredients. Better Pizza. Is a tagline of which Pizza brand?",
+    "ans": {
+      "value": "Papa John's",
+      "correct_entity": "option_a"
+    },
+    "options": [
+      "Papa John's",
+      "Papa Murphy's",
+      "California Pizza Kitchen"
+    ],
+    "expl": [
+      "Papa John's uses “Better Ingredients. Better Pizza.” to highlight its focus on quality and flavor."
+    ],
+    "imageUrl": "",
+    "audioUrl": "",
+    "dynamic_entities": {
+      "option_a": [
+        "papa john's",
+        "papa",
+        "john's",
+        "papa john",
+        "john"
+      ],
+      "option_b": [
+        "papa murphy's",
+        "papa",
+        "murphy's",
+        "murphy"
+      ],
+      "option_c": [
+        "california pizza kitchen",
+        "california",
+        "pizza",
+        "kitchen",
+        "pizza kitchen",
+        "california pizza",
+        "california kitchen"
+      ]
+    },
+    "isActive": true
+  },
+  {
+    "id": "2",
+    "que": "Challenge everything. Which gaming company does this tagline refer to?",
+    "ans": {
+      "value": "EA Games",
+      "correct_entity": "option_a"
+    },
+    "options": [
+      "EA Games",
+      "Square Enix",
+      "Nintendo"
+    ],
+    "expl": [
+      "EA Games adopted “Challenge Everything” in the early 2000s to show its bold approach to game development."
+    ],
+    "imageUrl": "",
+    "audioUrl": "",
+    "dynamic_entities": {
+      "option_a": [
+        "ea games",
+        "ea",
+        "games",
+        "ea game",
+        "game"
+      ],
+      "option_b": [
+        "square enix",
+        "square",
+        "enix"
+      ],
+      "option_c": [
+        "nintendo",
+        "nitendo"
+      ]
+    },
+    "isActive": true
+  },
+  {
+    "id": "3",
+    "que": "Melts in your mouth, not your hand. Which chocolate brand does this tagline belongs to?",
+    "ans": {
+    "value": "M and M",
+      "correct_entity": "option_b"
+    },
+    "options": [
+      "Cadbury",
+      "M and M",
+      "Ferrero Rocher"
+    ],
+    "expl": [
+      "M&M’s slogan “Melts in your mouth, not in your hand” refers to its candy shell that prevents hand melting."
+    ],
+    "imageUrl": "",
+    "audioUrl": "",
+    "dynamic_entities": {
+      "option_a": [
+        "cadbury"
+      ],
+      "option_b": [
+        "M and M",
+        "m and m",
+        "m. and m.",
+        "m. n. m.",
+        "m. end m."
+      ],
+      "option_c": [
+        "ferrero rocher",
+        "ferrero",
+        "rocher",
+        "ferroro"
+      ]
+    },
+    "isActive": true
+  },
+  {
+    "id": "4",
+    "que": "Think Big. Is the tagline of which of the following brand?",
+    "ans": {
+      "value": "IMAX",
+      "correct_entity": "option_a"
+    },
+    "options": [
+      "IMAX",
+      "Insignia",
+      "Sharp"
+    ],
+    "expl": [
+      "IMAX uses “Think Big” to promote its large-format, immersive movie-viewing experience."
+    ],
+    "imageUrl": "",
+    "audioUrl": "",
+    "dynamic_entities": {
+      "option_a": [
+        "imax"
+      ],
+      "option_b": [
+        "insignia"
+      ],
+      "option_c": [
+        "sharp"
+      ]
+    },
+    "isActive": true
+  },
+  {
+    "id": "5",
+    "que": "The breakfast of champions. Which cereal brand does this tagline refer to?",
+    "ans": {
+      "value": "Wheaties",
+      "correct_entity": "option_c"
+    },
+    "options": [
+      "Honey Nut Cheerios",
+      "Cinnamon toast crunch",
+      "Wheaties"
+    ],
+    "expl": [
+      "Wheaties’ “The Breakfast of Champions” links the cereal with sports greatness and athletes."
+    ],
+    "imageUrl": "",
+    "audioUrl": "",
+    "dynamic_entities": {
+      "option_a": [
+        "honey nut cheerios",
+        "honey",
+        "nut",
+        "cheerios",
+        "honey nut",
+        "nut cheerios"
+      ],
+      "option_b": [
+        "cinnamon toast crunch",
+        "cinnamon",
+        "toast",
+        "crunch",
+        "cinnamon toast",
+        "toast crunch"
+      ],
+      "option_c": [
+        "wheaties",
+        "wheat"
+      ]
+    },
+    "isActive": true
+  },
+  {
+    "id": "6",
+    "que": "Because you're worth it. Refers to the tagline of which makeup brand?",
+    "ans": {
+      "value": "L'Oreal",
+      "correct_entity": "option_b"
+    },
+    "options": [
+      "NYX",
+      "L'Oreal",
+      "Mac"
+    ],
+    "expl": [
+      "L'Oréal's “Because you’re worth it” empowers consumers and has been their slogan since 1973."
+    ],
+    "imageUrl": "",
+    "audioUrl": "",
+    "dynamic_entities": {
+      "option_a": [
+        "nyx",
+        "n. y. x."
+      ],
+      "option_b": [
+        "l'oreal",
+        "loreal"
+      ],
+      "option_c": [
+        "mac"
+      ]
+    },
+    "isActive": true
+  },
+  {
+    "id": "7",
+    "que": "Taste the rainbow. Which brand of chocolate does this tagline refer to?",
+    "ans": {
+      "value": "Skittles",
+      "correct_entity": "option_a"
+    },
+    "options": [
+      "Skittles",
+      "Mars",
+      "Nestle"
+    ],
+    "expl": [
+      "Skittles' “Taste the Rainbow” refers to its colorful candies and fruity flavors."
+    ],
+    "imageUrl": "",
+    "audioUrl": "",
+    "dynamic_entities": {
+      "option_a": [
+        "skittles",
+        "skittle"
+      ],
+      "option_b": [
+        "mars"
+      ],
+      "option_c": [
+        "nestle"
+      ]
+    },
+    "isActive": true
+  },
+  {
+    "id": "8",
+    "que": "Save money. Live better. Which retail outlet brand does the tagline refer to?",
+    "ans": {
+      "value": "Walmart",
+      "correct_entity": "option_b"
+    },
+    "options": [
+      "Macy's",
+      "Walmart",
+      "Ikea"
+    ],
+    "expl": [
+      "Walmart’s “Save Money. Live Better.” reflects its mission of affordable prices and better living."
+    ],
+    "imageUrl": "",
+    "audioUrl": "",
+    "dynamic_entities": {
+      "option_a": [
+        "macy's",
+        "macy"
+      ],
+      "option_b": [
+        "walmart"
+      ],
+      "option_c": [
+        "ikea"
+      ]
+    },
+    "isActive": true
+  },
+  {
+    "id": "9",
+    "que": "Jump in. Is the tagline of which video game console brand?",
+    "ans": {
+      "value": "Xbox 360",
+      "correct_entity": "option_c"
+    },
+    "options": [
+      "PS 4",
+      "Nintendo Switch",
+      "Xbox 360"
+    ],
+    "expl": [
+      "Xbox 360 launched with the slogan “Jump In” to invite users into immersive gameplay."
+    ],
+    "imageUrl": "",
+    "audioUrl": "",
+    "dynamic_entities": {
+      "option_a": [
+        "ps 4",
+        "ps",
+        "4",
+        "ps four"
+      ],
+      "option_b": [
+        "nintendo switch",
+        "nintendo",
+        "switch"
+      ],
+      "option_c": [
+        "xbox 360",
+        "xbox",
+        "360",
+        "x. box three sixty"
+      ]
+    },
+    "isActive": true
+  },
+  {
+    "id": "10",
+    "que": "Broadcast Yourself. Is the tagline of which of the following video sharing website?",
+    "ans": {
+      "value": "YouTube",
+      "correct_entity": "option_a"
+    },
+    "options": [
+      "YouTube",
+      "Vimeo",
+      "Dailymotion"
+    ],
+    "expl": [
+      "YouTube used “Broadcast Yourself” to encourage users to upload and share personal videos."
+    ],
+    "imageUrl": "",
+    "audioUrl": "",
+    "dynamic_entities": {
+      "option_a": [
+        "youtube"
+      ],
+      "option_b": [
+        "vimeo"
+      ],
+      "option_c": [
+        "dailymotion",
+        "daily",
+        "motion"
+      ]
+    },
+    "isActive": true
+  },
+  {
+    "id": "11",
+    "que": "The daily diary of the American dream. Which daily newspaper has this tagline?",
+    "ans": {
+      "value": "Wall street journal",
+      "correct_entity": "option_a"
+    },
+    "options": [
+      "Wall street journal",
+      "New York Post",
+      "Chicago Tribune"
+    ],
+    "expl": [
+      "The Wall Street Journal’s tagline “The daily diary of the American dream” shows its business focus."
+    ],
+    "imageUrl": "",
+    "audioUrl": "",
+    "dynamic_entities": {
+      "option_a": [
+        "wall street journal",
+        "wall",
+        "street",
+        "journal"
+      ],
+      "option_b": [
+        "new york post",
+        "new",
+        "york",
+        "post",
+        "n. y. post",
+        "n. y."
+      ],
+      "option_c": [
+        "chicago tribune",
+        "chicago",
+        "tribune"
+      ]
+    },
+    "isActive": true
+  },
+  {
+    "id": "12",
+    "que": "Its everywhere you want to be. Which of the following brand does this tagline refer to?",
+    "ans": {
+      "value": "VISA",
+      "correct_entity": "option_c"
+    },
+    "options": [
+      "CITI group",
+      "E Trade",
+      "VISA"
+    ],
+    "expl": [
+      "VISA’s “It’s everywhere you want to be” highlights the card's global usability."
+    ],
+    "imageUrl": "",
+    "audioUrl": "",
+    "dynamic_entities": {
+      "option_a": [
+        "citi group",
+        "citi",
+        "group"
+      ],
+      "option_b": [
+        "e trade",
+        "e",
+        "trade"
+      ],
+      "option_c": [
+        "visa"
+      ]
+    },
+    "isActive": true
+  },
+  {
+    "id": "13",
+    "que": "Live in your world. Play in ours. Is the tagline of which gaming brand?",
+    "ans": {
+      "value": "Play station",
+      "correct_entity": "option_a"
+    },
+    "options": [
+      "Play station",
+      "HP Omen",
+      "Alienware 13"
+    ],
+    "expl": [
+      "PlayStation used “Live in your world. Play in ours.” to promote its distinct gaming universe."
+    ],
+    "imageUrl": "",
+    "audioUrl": "",
+    "dynamic_entities": {
+      "option_a": [
+        "play station",
+        "play",
+        "station",
+        "playstation"
+      ],
+      "option_b": [
+        "hp omen",
+        "hp",
+        "omen",
+        "h.p. omen",
+        "h.p."
+      ],
+      "option_c": [
+        "alienware 13",
+        "alienware",
+        "13",
+        "alienware thirteen",
+        "alienware one three",
+        "alieanwhere",
+        "alien"
+      ]
+    },
+    "isActive": true
+  },
+  {
+    "id": "14",
+    "que": "The greatest tragedy is indifference. Which organization uses this tagline?",
+    "ans": {
+      "value": "Red Cross",
+      "correct_entity": "option_c"
+    },
+    "options": [
+      "PETA",
+      "Orbis International",
+      "Red Cross"
+    ],
+    "expl": [
+      "The Red Cross uses “The greatest tragedy is indifference” in humanitarian appeals."
+    ],
+    "imageUrl": "",
+    "audioUrl": "",
+    "dynamic_entities": {
+      "option_a": [
+        "peta",
+        "pita"
+      ],
+      "option_b": [
+        "orbis international",
+        "orbis",
+        "international"
+      ],
+      "option_c": [
+        "red cross",
+        "red",
+        "cross"
+      ]
+    },
+    "isActive": true
+  },
+  {
+    "id": "15",
+    "que": "All the news that's fit to print. Which newspaper does this tagline refer to?",
+    "ans": {
+      "value": "The New York Times",
+      "correct_entity": "option_a"
+    },
+    "options": [
+      "The New York Times",
+      "The Washington Post",
+      "The Times"
+    ],
+    "expl": [
+      "The New York Times' “All the News That's Fit to Print” appears on every front page."
+    ],
+    "imageUrl": "",
+    "audioUrl": "",
+    "dynamic_entities": {
+      "option_a": [
+        "the new york times",
+        "the",
+        "new",
+        "york",
+        "times",
+        "new york times",
+        "new york time"
+      ],
+      "option_b": [
+        "the washington post",
+        "the",
+        "washington",
+        "post",
+        "washington post"
+      ],
+      "option_c": [
+        "the times",
+        "the",
+        "times"
+      ]
+    },
+    "isActive": true
+  },
+  {
+    "id": "16",
+    "que": "Beauty outside. Beast inside. Is the tagline of which of the following brand?",
+    "ans": {
+      "value": "Mac Pro",
+      "correct_entity": "option_a"
+    },
+    "options": [
+      "Mac Pro",
+      "Harley Davidson",
+      "Honda"
+    ],
+    "expl": [
+      "Apple described Mac Pro with “Beauty outside. Beast inside.” to contrast design and power."
+    ],
+    "imageUrl": "",
+    "audioUrl": "",
+    "dynamic_entities": {
+      "option_a": [
+        "mac pro",
+        "mac",
+        "pro"
+      ],
+      "option_b": [
+        "harley davidson",
+        "harley",
+        "davidson"
+      ],
+      "option_c": [
+        "honda"
+      ]
+    },
+    "isActive": true
+  },
+  {
+    "id": "17",
+    "que": "Where do you want to go today. Which brand does this tagline refer to?",
+    "ans": {
+      "value": "Microsoft",
+      "correct_entity": "option_b"
+    },
+    "options": [
+      "Virgin Australia",
+      "Microsoft",
+      "Etihad Airways"
+    ],
+    "expl": [
+      "Microsoft used “Where do you want to go today?” in 1990s ads to promote tech accessibility."
+    ],
+    "imageUrl": "",
+    "audioUrl": "",
+    "dynamic_entities": {
+      "option_a": [
+        "virgin australia",
+        "virgin",
+        "australia",
+        "virigin"
+      ],
+      "option_b": [
+        "microsoft"
+      ],
+      "option_c": [
+        "etihad airways",
+        "etihad",
+        "airways",
+        "airway",
+        "etihad airway"
+      ]
+    },
+    "isActive": true
+  },
+  {
+    "id": "18",
+    "que": "A body for everybody. Is the tagline of which lingerie brand?",
+    "ans": {
+      "value": "Victoria's Secret",
+      "correct_entity": "option_a"
+    },
+    "options": [
+      "Victoria's Secret",
+      "Zivame",
+      "Amante"
+    ],
+    "expl": [
+      "Victoria’s Secret promoted inclusivity with “A body for everybody.”"
+    ],
+    "imageUrl": "",
+    "audioUrl": "",
+    "dynamic_entities": {
+      "option_a": [
+        "victoria's secret",
+        "victoria's",
+        "secret",
+        "victoria secret",
+        "victoria"
+      ],
+      "option_b": [
+        "zivame"
+      ],
+      "option_c": [
+        "amante"
+      ]
+    },
+    "isActive": true
+  },
+  {
+    "id": "19",
+    "que": "The world's local bank. Which bank does this tagline refer to?",
+    "ans": {
+      "value": "HSBC",
+      "correct_entity": "option_a"
+    },
+    "options": [
+      "HSBC",
+      "JP Morgan",
+      "Bank of America"
+    ],
+    "expl": [
+      "HSBC used “The world’s local bank” to reflect its global presence with localized service"
+    ],
+    "imageUrl": "",
+    "audioUrl": "",
+    "dynamic_entities": {
+      "option_a": [
+        "hsbc",
+        "h. s. b. c."
+      ],
+      "option_b": [
+        "jp morgan",
+        "jp",
+        "morgan",
+        "j. p. morgan",
+        "j.p."
+      ],
+      "option_c": [
+        "bank of america",
+        "bank",
+        "of",
+        "america",
+        "america bank",
+        "bank america"
+      ]
+    },
+    "isActive": true
+  },
+  {
+    "id": "20",
+    "que": "American by birth. Rebel by choice. Which brand does this tagline refer to?",
+    "ans": {
+      "value": "Harley Davidson",
+      "correct_entity": "option_b"
+    },
+    "options": [
+      "Old Navy",
+      "Harley Davidson",
+      "Coach"
+    ],
+    "expl": [
+      "Harley-Davidson’s “American by birth. Rebel by choice.” captures its bold brand identity"
+    ],
+    "imageUrl": "",
+    "audioUrl": "",
+    "dynamic_entities": {
+      "option_a": [
+        "old navy",
+        "old",
+        "navy"
+      ],
+      "option_b": [
+        "harley davidson",
+        "harley",
+        "davidson"
+      ],
+      "option_c": [
+        "coach"
+      ]
+    },
+    "isActive": true
+  },
+  {
+    "id": "21",
+    "que": "For the men in charge of change. Is the tagline of which business magazine?",
+    "ans": {
+      "value": "Fortune",
+      "correct_entity": "option_c"
+    },
+    "options": [
+      "Bloomsberg Businessweek",
+      "Inc.",
+      "Fortune"
+    ],
+    "expl": [
+      "Fortune Magazine used “For the men in charge of change” to target business leaders."
+    ],
+    "imageUrl": "",
+    "audioUrl": "",
+    "dynamic_entities": {
+      "option_a": [
+        "bloomsberg businessweek",
+        "bloomsberg",
+        "businessweek"
+      ],
+      "option_b": [
+        "inc.",
+        "inc"
+      ],
+      "option_c": [
+        "fortune"
+      ]
+    },
+    "isActive": true
+  },
+  {
+    "id": "22",
+    "que": "Don't be evil. Which brand does this tagline refer to?",
+    "ans": {
+      "value": "Google",
+      "correct_entity": "option_a"
+    },
+    "options": [
+      "Google",
+      "Playskool",
+      "Lego"
+    ],
+    "expl": [
+      "Google’s early motto “Don’t be evil” reflected its commitment to ethical tech practices."
+    ],
+    "imageUrl": "",
+    "audioUrl": "",
+    "dynamic_entities": {
+      "option_a": [
+        "google"
+      ],
+      "option_b": [
+        "playskool",
+        "play",
+        "school"
+      ],
+      "option_c": [
+        "lego"
+      ]
+    },
+    "isActive": true
+  },
+  {
+    "id": "23",
+    "que": "Pleasure is the path to joy. Is the tagline of which Ice Cream brand?",
+    "ans": {
+      "value": "Haagen Dazs",
+      "correct_entity": "option_b"
+    },
+    "options": [
+      "Ben and Jerry's",
+      "Haagen Dazs",
+      "Baskin Robbins"
+    ],
+    "expl": [
+      "Häagen-Dazs used “Pleasure is the path to joy” to emphasize indulgent luxury in ice cream."
+    ],
+    "imageUrl": "",
+    "audioUrl": "",
+    "dynamic_entities": {
+      "option_a": [
+        "ben and jerry's",
+        "ben",
+        "and",
+        "jerry's",
+        "ben and jerry"
+      ],
+      "option_b": [
+        "haagen dazs",
+        "haagen",
+        "dazs",
+        "dazj"
+      ],
+      "option_c": [
+        "baskin robbins",
+        "baskin",
+        "robbins",
+        "robbin"
+      ]
+    },
+    "isActive": true
+  },
+  {
+    "id": "24",
+    "que": "When there is no tomorrow. Which delivery service brand does this tagline refer to?",
+    "ans": {
+      "value": "FedEx",
+      "correct_entity": "option_a"
+    },
+    "options": [
+      "FedEx",
+      "Royal Mail",
+      "DTDC"
+    ],
+    "expl": [
+      "FedEx’s “When there is no tomorrow” promotes its overnight and urgent delivery reliability."
+    ],
+    "imageUrl": "",
+    "audioUrl": "",
+    "dynamic_entities": {
+      "option_a": [
+        "fedex"
+      ],
+      "option_b": [
+        "royal mail",
+        "royal",
+        "mail"
+      ],
+      "option_c": [
+        "dtdc"
+      ]
+    },
+    "isActive": true
+  },
+  {
+    "id": "25",
+    "que": "We move the world. Is the tagline of which courier service brand?",
+    "ans": {
+      "value": "DHL",
+      "correct_entity": "option_a"
+    },
+    "options": [
+      "DHL",
+      "DTDC",
+      "FedEx"
+    ],
+    "expl": [
+      "DHL uses “We move the world” to highlight its global logistics leadership."
+    ],
+    "imageUrl": "",
+    "audioUrl": "",
+    "dynamic_entities": {
+      "option_a": [
+        "dhl"
+      ],
+      "option_b": [
+        "dtdc",
+        "d. t. d. c."
+      ],
+      "option_c": [
+        "fedex",
+        "fed ex"
+      ]
+    },
+    "isActive": true
+  },
+  {
+    "id": "26",
+    "que": "Welcome to the human network. Which brand does this tagline refer to?",
+    "ans": {
+      "value": "Cisco Systems",
+      "correct_entity": "option_a"
+    },
+    "options": [
+      "Cisco Systems",
+      "IBM",
+      "HP"
+    ],
+    "expl": [
+      "Cisco’s “Welcome to the human network” links its tech to real-world human connections."
+    ],
+    "imageUrl": "",
+    "audioUrl": "",
+    "dynamic_entities": {
+      "option_a": [
+        "cisco systems",
+        "cisco",
+        "systems",
+        "system"
+      ],
+      "option_b": [
+        "ibm",
+        "i. b. m."
+      ],
+      "option_c": [
+        "hp",
+        "h. p."
+      ]
+    },
+    "isActive": true
+  },
+  {
+    "id": "27",
+    "que": "A glass and a half in every half pound. Is the tagline of which chocolate brand?",
+    "ans": {
+      "value": "Dairy Milk",
+      "correct_entity": "option_b"
+    },
+    "options": [
+      "Toblerone",
+      "Dairy Milk",
+      "Lindt"
+    ],
+    "expl": [
+      "Dairy Milk’s “A glass and a half in every half pound” promotes its creamy milk-rich chocolate."
+    ],
+    "imageUrl": "",
+    "audioUrl": "",
+    "dynamic_entities": {
+      "option_a": [
+        "toblerone"
+      ],
+      "option_b": [
+        "dairy milk",
+        "dairy",
+        "milk"
+      ],
+      "option_c": [
+        "lindt",
+        "lindet"
+      ]
+    },
+    "isActive": true
+  },
+  {
+    "id": "28",
+    "que": "Once you pop, you cant stop. Is the tagline of which of the following brand?",
+    "ans": {
+      "value": "Pringles",
+      "correct_entity": "option_a"
+    },
+    "options": [
+      "Pringles",
+      "M and M",
+      "Lays"
+    ],
+    "expl": [
+      "Pringles’ “Once you pop, you can’t stop” emphasizes how addictive the stacked chips are."
+    ],
+    "imageUrl": "",
+    "audioUrl": "",
+    "dynamic_entities": {
+      "option_a": [
+        "pringles",
+        "pringle"
+      ],
+      "option_b": [
+        "m and m",
+        "m",
+        "and",
+        "m&m",
+        "m & m",
+        "m. and m."
+      ],
+      "option_c": [
+        "lays"
+      ]
+    },
+    "isActive": true
+  },
+  {
+    "id": "29",
+    "que": "Snap. Crackle. Pop. Which brand is being referred to by this tagline?",
+    "ans": {
+      "value": "Kellog's Rice Crispies",
+      "correct_entity": "option_b"
+    },
+    "options": [
+      "Quaker Oats",
+      "Kellog's Rice Crispies",
+      "Cheerios"
+    ],
+    "expl": [
+      "Rice Krispies’ “Snap. Crackle. Pop.” mimics the sound the cereal makes in milk."
+    ],
+    "imageUrl": "",
+    "audioUrl": "",
+    "dynamic_entities": {
+      "option_a": [
+        "quaker oats",
+        "quaker",
+        "oats",
+        "oat"
+      ],
+      "option_b": [
+        "kellog's rice crispies",
+        "kellog's",
+        "rice",
+        "crispies",
+        "kellogs rice crispies",
+        "kellogs rice crispy",
+        "rice crispies",
+        "kellogs rice",
+        "rice crispy"
+      ],
+      "option_c": [
+        "cheerios",
+        "chery",
+        "cherry os"
+      ]
+    },
+    "isActive": true
+  },
+  {
+    "id": "30",
+    "que": "The king of beers. Is the tagline of which of the following beer brand?",
+    "ans": {
+      "value": "Budweiser",
+      "correct_entity": "option_b"
+    },
+    "options": [
+      "Heineken",
+      "Budweiser",
+      "Corona"
+    ],
+    "expl": [
+      "Budweiser calls itself “The King of Beers” to claim leadership in the beer market."
+    ],
+    "imageUrl": "",
+    "audioUrl": "",
+    "dynamic_entities": {
+      "option_a": [
+        "heineken"
+      ],
+      "option_b": [
+        "budweiser"
+      ],
+      "option_c": [
+        "corona"
+      ]
+    },
+    "isActive": true
+  },
+  {
+    "id": "31",
+    "que": "Make believe. Which brand uses this tagline?",
+    "ans": {
+      "value": "Sony",
+      "correct_entity": "option_c"
+    },
+    "options": [
+      "Cisco Systems",
+      "Intel",
+      "Sony"
+    ],
+    "expl": [
+      "Sony used “Make Believe” to highlight imagination and innovation in its electronics and media."
+    ],
+    "imageUrl": "",
+    "audioUrl": "",
+    "dynamic_entities": {
+      "option_a": [
+        "cisco systems",
+        "cisco",
+        "systems",
+        "system"
+      ],
+      "option_b": [
+        "intel"
+      ],
+      "option_c": [
+        "sony"
+      ]
+    },
+    "isActive": true
+  },
+  {
+    "id": "32",
+    "que": "Think different. Which brand does this tagline refer to?",
+    "ans": {
+      "value": "Apple",
+      "correct_entity": "option_b"
+    },
+    "options": [
+      "IBM",
+      "Apple",
+      "Microsoft"
+    ],
+    "expl": [
+      "Apple’s “Think Different” celebrated creativity and non-conformity in its branding."
+    ],
+    "imageUrl": "",
+    "audioUrl": "",
+    "dynamic_entities": {
+      "option_a": [
+        "ibm"
+      ],
+      "option_b": [
+        "apple"
+      ],
+      "option_c": [
+        "microsoft"
+      ]
+    },
+    "isActive": true
+  },
+  {
+    "id": "33",
+    "que": "The world's online marketplace. Is the tagline of which online store?",
+    "ans": {
+      "value": "Ebay",
+      "correct_entity": "option_a"
+    },
+    "options": [
+      "Ebay",
+      "Meesho",
+      "Flipkart"
+    ],
+    "expl": [
+      "eBay’s tagline “The world’s online marketplace” reflects its massive global buying and selling platform."
+    ],
+    "imageUrl": "",
+    "audioUrl": "",
+    "dynamic_entities": {
+      "option_a": [
+        "ebay"
+      ],
+      "option_b": [
+        "meesho"
+      ],
+      "option_c": [
+        "flipkart"
+      ]
+    },
+    "isActive": true
+  },
+  {
+    "id": "34",
+    "que": "Solutions for a small planet. Is the tagline of which of the following brand?",
+    "ans": {
+      "value": "IBM",
+      "correct_entity": "option_b"
+    },
+    "options": [
+      "Microsoft",
+      "IBM",
+      "Google"
+    ],
+    "expl": [
+      "IBM used “Solutions for a small planet” to emphasize its smart, global tech solutions."
+    ],
+    "imageUrl": "",
+    "audioUrl": "",
+    "dynamic_entities": {
+      "option_a": [
+        "microsoft"
+      ],
+      "option_b": [
+        "ibm"
+      ],
+      "option_c": [
+        "google"
+      ]
+    },
+    "isActive": true
+  },
+  {
+    "id": "35",
+    "que": "Let your fingers do the walking. Which brand does this tagline refer to?",
+    "ans": {
+      "value": "Yellow Pages",
+      "correct_entity": "option_a"
+    },
+    "options": [
+      "Yellow Pages",
+      "Telegram",
+      "TextNow"
+    ],
+    "expl": [
+      "Yellow Pages' “Let your fingers do the walking” promoted finding services via phone book."
+    ],
+    "imageUrl": "",
+    "audioUrl": "",
+    "dynamic_entities": {
+      "option_a": [
+        "yellow pages",
+        "yellow",
+        "pages",
+        "yellow page"
+      ],
+      "option_b": [
+        "telegram"
+      ],
+      "option_c": [
+        "textnow",
+        "text",
+        "now"
+      ]
+    },
+    "isActive": true
+  },
+  {
+    "id": "36",
+    "que": "Don't dream it, drive it. Is the tagline of which brand of car?",
+    "ans": {
+      "value": "Jaguar",
+      "correct_entity": "option_b"
+    },
+    "options": [
+      "Mercedes",
+      "Jaguar",
+      "Ford"
+    ],
+    "expl": [
+      "Jaguar’s “Don’t dream it, drive it” inspires consumers to experience luxury performance."
+    ],
+    "imageUrl": "",
+    "audioUrl": "",
+    "dynamic_entities": {
+      "option_a": [
+        "mercedes"
+      ],
+      "option_b": [
+        "jaguar"
+      ],
+      "option_c": [
+        "ford"
+      ]
+    },
+    "isActive": true
+  },
+  {
+    "id": "37",
+    "que": "The ultimate driving machine. Which car brand does this tagline refer to?",
+    "ans": {
+      "value": "BMW",
+      "correct_entity": "option_a"
+    },
+    "options": [
+      "BMW",
+      "Mercedes",
+      "Ferrari"
+    ],
+    "expl": [
+      "BMW uses “The Ultimate Driving Machine” to promote its high-performance vehicles."
+    ],
+    "imageUrl": "",
+    "audioUrl": "",
+    "dynamic_entities": {
+      "option_a": [
+        "bmw"
+      ],
+      "option_b": [
+        "mercedes",
+        "mercedez"
+      ],
+      "option_c": [
+        "ferrari"
+      ]
+    },
+    "isActive": true
+  },
+  {
+    "id": "38",
+    "que": "Get your own box. Is the tagline of which of the following brand?",
+    "ans": {
+      "value": "Cheez It",
+      "correct_entity": "option_a"
+    },
+    "options": [
+      "Cheez It",
+      "Combos",
+      "Ritz bits"
+    ],
+    "expl": [
+      "Cheez-It’s “Get your own box” suggests the snack is too tasty to share."
+    ],
+    "imageUrl": "",
+    "audioUrl": "",
+    "dynamic_entities": {
+      "option_a": [
+        "cheez it",
+        "cheez",
+        "it",
+        "cheese it",
+        "cheese"
+      ],
+      "option_b": [
+        "combos",
+        "combo"
+      ],
+      "option_c": [
+        "ritz bits",
+        "ritz",
+        "bits",
+        "rit bit"
+      ]
+    },
+    "isActive": true
+  },
+  {
+    "id": "39",
+    "que": "Does she or doesn't she. Is the tagline of which brand of hair color?",
+    "ans": {
+      "value": "Clairol",
+      "correct_entity": "option_c"
+    },
+    "options": [
+      "Garnier",
+      "Manic Panic",
+      "Clairol"
+    ],
+    "expl": [
+      "Clairol’s “Does she or doesn’t she?” highlights how natural their hair color products look."
+    ],
+    "imageUrl": "",
+    "audioUrl": "",
+    "dynamic_entities": {
+      "option_a": [
+        "garnier"
+      ],
+      "option_b": [
+        "manic panic",
+        "manic",
+        "panic"
+      ],
+      "option_c": [
+        "clairol"
+      ]
+    },
+    "isActive": true
+  },
+  {
+    "id": "40",
+    "que": "Play. Laugh. Grow. Which brand of toys does this tagline refer to?",
+    "ans": {
+      "value": "Fisher Price",
+      "correct_entity": "option_c"
+    },
+    "options": [
+      "Playskool",
+      "Lego",
+      "Fisher Price"
+    ],
+    "expl": [
+      "Fisher Price uses “Play. Laugh. Grow.” to emphasize early childhood development through fun."
+    ],
+    "imageUrl": "",
+    "audioUrl": "",
+    "dynamic_entities": {
+      "option_a": [
+        "playskool",
+        "play",
+        "school"
+      ],
+      "option_b": [
+        "lego"
+      ],
+      "option_c": [
+        "fisher price",
+        "fisher",
+        "price",
+        "prize"
+      ]
+    },
+    "isActive": true
+  },
+  {
+    "id": "41",
+    "que": "The happiest place on earth. Which destination has this tagline?",
+    "ans": {
+      "value": "Disney World",
+      "correct_entity": "option_a"
+    },
+    "options": [
+      "Disney World",
+      "Universal Studios",
+      "Cine Mark"
+    ],
+    "expl": [
+      "Disney World’s tagline “The Happiest Place on Earth” highlights its magical, joyful experience."
+    ],
+    "imageUrl": "",
+    "audioUrl": "",
+    "dynamic_entities": {
+      "option_a": [
+        "disney world",
+        "disney",
+        "world"
+      ],
+      "option_b": [
+        "universal studios",
+        "universal",
+        "studios",
+        "studio",
+        "universal studio"
+      ],
+      "option_c": [
+        "cine mark",
+        "cine",
+        "mark"
+      ]
+    },
+    "isActive": true
+  },
+  {
+    "id": "42",
+    "que": "Life's Messy, Clean It Up. Which of the following brand does this tagline refer to?",
+    "ans": {
+      "value": "Bissell",
+      "correct_entity": "option_c"
+    },
+    "options": [
+      "Tubo",
+      "Betco",
+      "Bissell"
+    ],
+    "expl": [
+      "Bissell’s “Life’s Messy, Clean It Up” promotes its vacuum and carpet cleaning solutions for everyday messes."
+    ],
+    "imageUrl": "",
+    "audioUrl": "",
+    "dynamic_entities": {
+      "option_a": [
+        "tubo"
+      ],
+      "option_b": [
+        "betco"
+      ],
+      "option_c": [
+        "bissell",
+        "bysell",
+        "bisel"
+      ]
+    },
+    "isActive": true
+  },
+  {
+    "id": "43",
+    "que": "Impossible is nothing. Is the tagline of which brand of shoe?",
+    "ans": {
+      "value": "Adidas",
+      "correct_entity": "option_c"
+    },
+    "options": [
+      "Nike",
+      "Puma",
+      "Adidas"
+    ],
+    "expl": [
+      "Adidas popularized “Impossible is Nothing” to inspire athletic performance and challenge limits."
+    ],
+    "imageUrl": "",
+    "audioUrl": "",
+    "dynamic_entities": {
+      "option_a": [
+        "nike"
+      ],
+      "option_b": [
+        "puma"
+      ],
+      "option_c": [
+        "adidas"
+      ]
+    },
+    "isActive": true
+  },
+  {
+    "id": "44",
+    "que": "Obey your thirst. Which brand uses this tagline?",
+    "ans": {
+      "value": "Sprite",
+      "correct_entity": "option_b"
+    },
+    "options": [
+      "Coca cola",
+      "Sprite",
+      "Pepsi"
+    ],
+    "expl": [
+      "Sprite’s “Obey Your Thirst” encourages individuality and authenticity, especially in youth culture."
+    ],
+    "imageUrl": "",
+    "audioUrl": "",
+    "dynamic_entities": {
+      "option_a": [
+        "coca cola",
+        "coca",
+        "cola",
+        "coco"
+      ],
+      "option_b": [
+        "sprite"
+      ],
+      "option_c": [
+        "pepsi"
+      ]
+    },
+    "isActive": true
+  },
+  {
+    "id": "45",
+    "que": "Share moments, share Life. Which brand uses this tagline?",
+    "ans": {
+      "value": "Kodak",
+      "correct_entity": "option_a"
+    },
+    "options": [
+      "Kodak",
+      "Nikon",
+      "Canon"
+    ],
+    "expl": [
+      "Kodak’s “Share moments, share life.” reflects its focus on capturing and preserving memories through photography."
+    ],
+    "imageUrl": "",
+    "audioUrl": "",
+    "dynamic_entities": {
+      "option_a": [
+        "kodak"
+      ],
+      "option_b": [
+        "nikon",
+        "nicon"
+      ],
+      "option_c": [
+        "canon"
+      ]
+    },
+    "isActive": true
+  },
+  {
+    "id": "46",
+    "que": "Make it happen. Which brand does this tagline refer to?",
+    "ans": {
+      "value": "Maybelline",
+      "correct_entity": "option_b"
+    },
+    "options": [
+      "Revlon",
+      "Maybelline",
+      "L'Oreal"
+    ],
+    "expl": [
+      "Maybelline used “Make it happen” to empower users with beauty that builds confidence."
+    ],
+    "imageUrl": "",
+    "audioUrl": "",
+    "dynamic_entities": {
+      "option_a": [
+        "revlon"
+      ],
+      "option_b": [
+        "maybelline",
+        "maybeline"
+      ],
+      "option_c": [
+        "l'oreal"
+      ]
+    },
+    "isActive": true
+  },
+  {
+    "id": "47",
+    "que": "A diamond is forever. Which brand does this tagline refer to?",
+    "ans": {
+      "value": "De Beers",
+      "correct_entity": "option_a"
+    },
+    "options": [
+      "De Beers",
+      "Cartier",
+      "Zale"
+    ],
+    "expl": [
+      "De Beers coined “A diamond is forever” in 1947, cementing diamonds as the symbol of eternal love."
+    ],
+    "imageUrl": "",
+    "audioUrl": "",
+    "dynamic_entities": {
+      "option_a": [
+        "de beers",
+        "de",
+        "beers",
+        "the beers",
+        "bears",
+        "beer",
+        "de beer"
+      ],
+      "option_b": [
+        "cartier",
+        "carter"
+      ],
+      "option_c": [
+        "zale",
+        "jail",
+        "gel",
+        "zal"
+      ]
+    },
+    "isActive": true
+  }
+]

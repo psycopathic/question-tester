@@ -1,0 +1,247 @@
+{
+  "TEXT_QUESTIONS": [
+    {
+      "id": "animals_B3_1",
+      "que": "How many months does an elephant pregnancy last?",
+      "ans": {
+        "value": "22",
+        "correct_entity": "option_c"
+      },
+      "options": [
+        "9",
+        "12",
+        "22"
+      ],
+      "expl": [
+        "Elephant pregnancies are among the longest in the animal kingdom, lasting approximately 22 months. This extended gestation period allows for the development of the highly intelligent and large-bodied offspring of these majestic creatures."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "9",
+          "nine"
+        ],
+        "option_b": [
+          "12",
+          "one two",
+          "twelve"
+        ],
+        "option_c": [
+          "22",
+          "twenty two",
+          "two two",
+          "double two"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": ""
+    },
+    {
+      "id": "animals_B3_2",
+      "que": "Which mammal is thought to be at greatest risk of extinction from global warming?",
+      "ans": {
+        "value": "Polar bear",
+        "correct_entity": "option_a"
+      },
+      "options": [
+        "Polar bear",
+        "Elephant",
+        "Orangutan"
+      ],
+      "expl": [
+        "Polar bears heavily depend on sea ice for hunting seals, their primary food source. With the ongoing loss of Arctic sea ice due to global warming, polar bears face habitat loss, reduced access to food, and increased mortality, putting them at significant risk of extinction."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "Polar bear",
+          "bear",
+          "polar"
+        ],
+        "option_b": [
+          "Elephant",
+          "elephants"
+        ],
+        "option_c": [
+          "Orangutan",
+          "orangtun"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": ""
+    },
+    {
+      "id": "animals_B3_3",
+      "que": "Which animal can survive without sleeping for months at a time?",
+      "ans": {
+        "value": "Bullfrog",
+        "correct_entity": "option_c"
+      },
+      "options": [
+        "Koala",
+        "Owl",
+        "Bullfrog"
+      ],
+      "expl": [
+        "Scientists believe that nearly all animals require sleep, but bullfrogs are an exception. They can go for months without sleeping, although they rest and remain alert. Even during rest, they can respond to pain and show changes in respiration. However, bullfrogs do experience deep sleep during winter hibernation."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "Koala"
+        ],
+        "option_b": [
+          "Owl"
+        ],
+        "option_c": [
+          "Bullfrog",
+          "bull frog"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": ""
+    },
+    {
+      "id": "animals_B3_4",
+      "que": "Which animal features in the novel 'Black Beauty'?",
+      "ans": {
+        "value": "Horse",
+        "correct_entity": "option_c"
+      },
+      "options": [
+        "Dog",
+        "Cat",
+        "Horse"
+      ],
+      "expl": [
+        "The novel 'Black Beauty' features horses as the central animal. It tells the story of a horse named Black Beauty and highlights the mistreatment of horses in Victorian England."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "Dog",
+          "dogs"
+        ],
+        "option_b": [
+          "Cat",
+          "cats"
+        ],
+        "option_c": [
+          "Horse",
+          "horses"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": ""
+    },
+    {
+      "id": "animals_B3_5",
+      "que": "A pod is a group of which sea creatures?",
+      "ans": {
+        "value": "Dolphins",
+        "correct_entity": "option_a"
+      },
+      "options": [
+        "Dolphins",
+        "Sharks",
+        "Whales"
+      ],
+      "expl": [
+        "Dolphins form pods, social groups that help them thrive in their marine habitats. Pods provide protection, communication, and cooperation during travel, hunting, and finding food, thanks to the strong social bonds among dolphins."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "Dolphins",
+          "dolphin"
+        ],
+        "option_b": [
+          "Sharks",
+          "shark"
+        ],
+        "option_c": [
+          "Whales",
+          "whale",
+          "well",
+          "wells"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": ""
+    },
+    {
+      "id": "animals_B3_6",
+      "que": "Which animals build nests called a drey?",
+      "ans": {
+        "value": "Squirrels",
+        "correct_entity": "option_a"
+      },
+      "options": [
+        "Squirrels",
+        "Birds",
+        "Beavers"
+      ],
+      "expl": [
+        "Squirrels build nests called dreys. Dreys are typically made of twigs, leaves, and other materials, providing shelter for squirrels and their young."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "Squirrels",
+          "squirrel"
+        ],
+        "option_b": [
+          "Birds",
+          "bird"
+        ],
+        "option_c": [
+          "Beavers",
+          "beaver"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": ""
+    },
+    {
+      "id": "animals_B3_7",
+      "que": "What does a camel store in its hump?",
+      "ans": {
+        "value": "Fat",
+        "correct_entity": "option_b"
+      },
+      "options": [
+        "Water",
+        "Fat",
+        "Food"
+      ],
+      "expl": [
+        "As commonly believed, a camel stores fat in its hump, not water. The hump provides a reserve of energy-rich fat that the camel can utilize when food and water are scarce."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "Water"
+        ],
+        "option_b": [
+          "Fat",
+          "fats"
+        ],
+        "option_c": [
+          "Food",
+          "foods"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": ""
+    }
+  ],
+  "IMAGE_QUESTIONS": [],
+  "AUDIO_QUESTIONS": []
+}

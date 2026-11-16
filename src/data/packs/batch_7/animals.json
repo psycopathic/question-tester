@@ -1,0 +1,1412 @@
+{
+  "TEXT_QUESTIONS": [
+    {
+      "id": "animals_B7_1",
+      "que": "What type of animal is a Komodo dragon?",
+      "ans": {
+        "value": "Reptile",
+        "correct_entity": "option_b"
+      },
+      "options": [
+        "Mammal",
+        "Reptile",
+        "Bird"
+      ],
+      "expl": [
+        "The Komodo dragon is the largest living lizard and a reptile."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "mammals"
+        ],
+        "option_b": [
+          "reptiles"
+        ],
+        "option_c": [
+          "birds"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": ""
+    },
+    {
+      "id": "animals_B7_2",
+      "que": "Which animal is the largest mammal?",
+      "ans": {
+        "value": "Blue Whale",
+        "correct_entity": "option_b"
+      },
+      "options": [
+        "Elephant",
+        "Blue Whale",
+        "Giraffe"
+      ],
+      "expl": [
+        "The blue whale is the largest mammal on Earth."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "elephants"
+        ],
+        "option_b": [
+          "blue",
+          "whale",
+          "blue well",
+          "well"
+        ],
+        "option_c": [
+          "giraffes"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": ""
+    },
+    {
+      "id": "animals_B7_3",
+      "que": "Which bird can mimic human speech?",
+      "ans": {
+        "value": "Parrot",
+        "correct_entity": "option_a"
+      },
+      "options": [
+        "Parrot",
+        "Owl",
+        "Sparrow"
+      ],
+      "expl": [
+        "Parrots are known for their ability to mimic human speech."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "parrots"
+        ],
+        "option_b": [],
+        "option_c": []
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": ""
+    },
+    {
+      "id": "animals_B7_4",
+      "que": "Which sea creature has eight arms?",
+      "ans": {
+        "value": "Octopus",
+        "correct_entity": "option_a"
+      },
+      "options": [
+        "Octopus",
+        "Crab",
+        "Jellyfish"
+      ],
+      "expl": [
+        "An octopus has eight arms and high intelligence."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [],
+        "option_b": [
+          "crabs"
+        ],
+        "option_c": [
+          "jelly",
+          "fish"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": ""
+    },
+    {
+      "id": "animals_B7_5",
+      "que": "What do pandas mostly eat?",
+      "ans": {
+        "value": "Bamboo",
+        "correct_entity": "option_a"
+      },
+      "options": [
+        "Bamboo",
+        "Grass",
+        "Leaves"
+      ],
+      "expl": [
+        "Giant pandas mainly eat bamboo."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [],
+        "option_b": [],
+        "option_c": [
+          "leave"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": ""
+    },
+    {
+      "id": "animals_B7_6",
+      "que": "Which animal embryo was revived in 2025?",
+      "ans": {
+        "value": "Thylacine",
+        "correct_entity": "option_c"
+      },
+      "options": [
+        "Dodo",
+        "Mammoth",
+        "Thylacine"
+      ],
+      "expl": [
+        "A thylacine embryo reached mid-gestation in 2025, advancing de-extinction research."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [],
+        "option_b": [],
+        "option_c": [
+          "thylacin"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": ""
+    },
+    {
+      "id": "animals_B7_7",
+      "que": "What is the fastest land animal?",
+      "ans": {
+        "value": "Cheetah",
+        "correct_entity": "option_a"
+      },
+      "options": [
+        "Cheetah",
+        "Leopard",
+        "Tiger"
+      ],
+      "expl": [
+        "The cheetah is the fastest land animal, capable of speeds up to 70 mph."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "cheetahs"
+        ],
+        "option_b": [],
+        "option_c": []
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": ""
+    },
+    {
+      "id": "animals_B7_8",
+      "que": "Which animal is known for its memory?",
+      "ans": {
+        "value": "Elephant",
+        "correct_entity": "option_b"
+      },
+      "options": [
+        "Dog",
+        "Elephant",
+        "Cat"
+      ],
+      "expl": [
+        "Elephants are known for having excellent memory and intelligence."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "dogs"
+        ],
+        "option_b": [],
+        "option_c": []
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": ""
+    },
+    {
+      "id": "animals_B7_9",
+      "que": "What do koalas eat?",
+      "ans": {
+        "value": "Eucalyptus",
+        "correct_entity": "option_b"
+      },
+      "options": [
+        "Grass",
+        "Eucalyptus",
+        "Bamboo"
+      ],
+      "expl": [
+        "Koalas primarily eat eucalyptus leaves."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [],
+        "option_b": [],
+        "option_c": []
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": ""
+    },
+    {
+      "id": "animals_B7_10",
+      "que": "Which animal is the tallest?",
+      "ans": {
+        "value": "Giraffe",
+        "correct_entity": "option_b"
+      },
+      "options": [
+        "Elephant",
+        "Giraffe",
+        "Horse"
+      ],
+      "expl": [
+        "The giraffe is the tallest land animal."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "elephants"
+        ],
+        "option_b": [
+          "giraffe"
+        ],
+        "option_c": []
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": ""
+    },
+    {
+      "id": "animals_B7_11",
+      "que": "Which ocean animal is a mammal?",
+      "ans": {
+        "value": "Whale",
+        "correct_entity": "option_b"
+      },
+      "options": [
+        "Shark",
+        "Whale",
+        "Octopus"
+      ],
+      "expl": [
+        "Whales are mammals that live in the ocean."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [],
+        "option_b": [
+          "whale"
+        ],
+        "option_c": []
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": ""
+    },
+    {
+      "id": "animals_B7_12",
+      "que": "Which animal can't jump?",
+      "ans": {
+        "value": "Elephant",
+        "correct_entity": "option_b"
+      },
+      "options": [
+        "Rhino",
+        "Elephant",
+        "Hippopotamus"
+      ],
+      "expl": [
+        "Elephants are the only mammals that cannot jump."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "rhinos"
+        ],
+        "option_b": [
+          "elephants"
+        ],
+        "option_c": [
+          "hippo"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": ""
+    },
+    {
+      "id": "animals_B7_13",
+      "que": "Which animal sleeps the most each day?",
+      "ans": {
+        "value": "Koala",
+        "correct_entity": "option_b"
+      },
+      "options": [
+        "Cat",
+        "Koala",
+        "Bat"
+      ],
+      "expl": [
+        "Koalas sleep up to 22 hours a day, making them one of the sleepiest animals."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "cats"
+        ],
+        "option_b": [],
+        "option_c": []
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": ""
+    },
+    {
+      "id": "animals_B7_14",
+      "que": "Which animal is known as the King of the Jungle?",
+      "ans": {
+        "value": "Lion",
+        "correct_entity": "option_c"
+      },
+      "options": [
+        "Tiger",
+        "Elephant",
+        "Lion"
+      ],
+      "expl": [
+        "The lion is often called the King of the Jungle due to its strength and dominance."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "tigers"
+        ],
+        "option_b": [
+          "elephants"
+        ],
+        "option_c": [
+          "lions"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": ""
+    },
+    {
+      "id": "animals_B7_15",
+      "que": "What's the largest land animal?",
+      "ans": {
+        "value": "African Elephant",
+        "correct_entity": "option_b"
+      },
+      "options": [
+        "Giraffe",
+        "African Elephant",
+        "Hippo"
+      ],
+      "expl": [
+        "The African elephant is the largest land animal, known for its massive size and tusks."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "giraffes"
+        ],
+        "option_b": [
+          "african",
+          "elephant",
+          "african elephants",
+          "elephants"
+        ],
+        "option_c": [
+          "hippopotamus"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": ""
+    },
+    {
+      "id": "animals_B7_16",
+      "que": "Which bird mimics sounds and has colorful feathers?",
+      "ans": {
+        "value": "Parrot",
+        "correct_entity": "option_a"
+      },
+      "options": [
+        "Parrot",
+        "Crow",
+        "Peacock"
+      ],
+      "expl": [
+        "Parrots are colorful birds known for mimicking human sounds and speech."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "parrots"
+        ],
+        "option_b": [
+          "crows"
+        ],
+        "option_c": [
+          "p. cock"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": ""
+    },
+    {
+      "id": "animals_B7_17",
+      "que": "What animal can be seen on the Porsche logo?",
+      "ans": {
+        "value": "Horse",
+        "correct_entity": "option_b"
+      },
+      "options": [
+        "Lion",
+        "Horse",
+        "Eagle"
+      ],
+      "expl": [
+        "The Porsche logo features a horse, symbolizing strength and Stuttgart's coat of arms."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "lions"
+        ],
+        "option_b": [
+          "horses"
+        ],
+        "option_c": [
+          "eagles"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": ""
+    },
+    {
+      "id": "animals_B7_18",
+      "que": "Which small mammal is famous for playing dead when threatened?",
+      "ans": {
+        "value": "Opossum",
+        "correct_entity": "option_a"
+      },
+      "options": [
+        "Opossum",
+        "Skunk",
+        "Armadillo"
+      ],
+      "expl": [
+        "Opossums are known to 'play dead' as a defense mechanism."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [],
+        "option_b": [],
+        "option_c": []
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": ""
+    },
+    {
+      "id": "animals_B7_19",
+      "que": "What animal is Shrek's best friend?",
+      "ans": {
+        "value": "Donkey",
+        "correct_entity": "option_b"
+      },
+      "options": [
+        "Horse",
+        "Donkey",
+        "Pig"
+      ],
+      "expl": [
+        "Donkey is Shrek's talkative and loyal sidekick in the Shrek films."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "horses"
+        ],
+        "option_b": [],
+        "option_c": [
+          "pigs"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": ""
+    },
+    {
+      "id": "animals_B7_20",
+      "que": "What's the name of the largest living species of turtle?",
+      "ans": {
+        "value": "Leatherback Sea Turtle",
+        "correct_entity": "option_b"
+      },
+      "options": [
+        "Green Sea Turtle",
+        "Leatherback Sea Turtle",
+        "Loggerhead Turtle"
+      ],
+      "expl": [
+        "The Leatherback Sea Turtle is the largest living turtle species."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "green",
+          "sea",
+          "turtle"
+        ],
+        "option_b": [
+          "leatherback",
+          "sea",
+          "turtle"
+        ],
+        "option_c": [
+          "loggerhead",
+          "turtle"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": ""
+    },
+    {
+      "id": "animals_B7_21",
+      "que": "What is the national animal of Canada?",
+      "ans": {
+        "value": "Beaver",
+        "correct_entity": "option_b"
+      },
+      "options": [
+        "Moose",
+        "Beaver",
+        "Caribou"
+      ],
+      "expl": [
+        "The beaver is Canada's national animal, symbolizing hard work and determination."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [],
+        "option_b": [],
+        "option_c": []
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": ""
+    },
+    {
+      "id": "animals_B7_22",
+      "que": "What food is made by bees from nectar?",
+      "ans": {
+        "value": "Honey",
+        "correct_entity": "option_a"
+      },
+      "options": [
+        "Honey",
+        "Syrup",
+        "Molasses"
+      ],
+      "expl": [
+        "Bees produce honey by converting flower nectar using enzymes in their hives."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [],
+        "option_b": [],
+        "option_c": []
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": ""
+    },
+    {
+      "id": "animals_B7_23",
+      "que": "Rocko from 'Rocko's Modern Life' is a what?",
+      "ans": {
+        "value": "Wallaby",
+        "correct_entity": "option_a"
+      },
+      "options": [
+        "Wallaby",
+        "Kangaroo",
+        "Mouse"
+      ],
+      "expl": [
+        "Rocko is a wallaby in the animated TV series 'Rocko's Modern Life'."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [],
+        "option_b": [
+          "kangaroos"
+        ],
+        "option_c": []
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": ""
+    },
+    {
+      "id": "animals_B7_24",
+      "que": "When turtles lay eggs in cold temperatures, what gender are they?",
+      "ans": {
+        "value": "All male",
+        "correct_entity": "option_a"
+      },
+      "options": [
+        "All male",
+        "All female",
+        "Mixed"
+      ],
+      "expl": [
+        "Colder sand temperatures produce male turtles, while warmer produces females."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "all",
+          "male"
+        ],
+        "option_b": [
+          "all",
+          "female"
+        ],
+        "option_c": [
+          "mix"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": ""
+    },
+    {
+      "id": "animals_B7_25",
+      "que": "What was the name of the first cloned animal?",
+      "ans": {
+        "value": "Dolly",
+        "correct_entity": "option_b"
+      },
+      "options": [
+        "Daisy",
+        "Dolly",
+        "Bella"
+      ],
+      "expl": [
+        "Dolly the sheep was the first mammal cloned from an adult somatic cell in 1996."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [],
+        "option_b": [],
+        "option_c": []
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": ""
+    },
+    {
+      "id": "animals_B7_26",
+      "que": "Which animal did Darwin study in the Galápagos?",
+      "ans": {
+        "value": "Finches",
+        "correct_entity": "option_b"
+      },
+      "options": [
+        "Turtles",
+        "Finches",
+        "Iguanas"
+      ],
+      "expl": [
+        "Charles Darwin observed finches, which helped form his theory of evolution."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "turtle"
+        ],
+        "option_b": [],
+        "option_c": []
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": ""
+    },
+    {
+      "id": "animals_B7_27",
+      "que": "What is a baby horse called?",
+      "ans": {
+        "value": "Foal",
+        "correct_entity": "option_a"
+      },
+      "options": [
+        "Foal",
+        "Colt",
+        "Pony"
+      ],
+      "expl": [
+        "A baby horse is called a foal, whether male or female."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "fall",
+          "phone"
+        ],
+        "option_b": [
+          "cold",
+          "call"
+        ],
+        "option_c": []
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": ""
+    },
+    {
+      "id": "animals_B7_28",
+      "que": "What dog breed did Queen Elizabeth favor?",
+      "ans": {
+        "value": "Corgi",
+        "correct_entity": "option_c"
+      },
+      "options": [
+        "Poodle",
+        "Beagle",
+        "Corgi"
+      ],
+      "expl": [
+        "Queen Elizabeth II was well known for her love of Pembroke Welsh Corgis."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [],
+        "option_b": [],
+        "option_c": []
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": ""
+    },
+    {
+      "id": "animals_B7_29",
+      "que": "What color is a polar bear's skin?",
+      "ans": {
+        "value": "Black",
+        "correct_entity": "option_c"
+      },
+      "options": [
+        "White",
+        "Pink",
+        "Black"
+      ],
+      "expl": [
+        "Polar bears have black skin underneath their thick, white fur."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [],
+        "option_b": [],
+        "option_c": []
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": ""
+    },
+    {
+      "id": "animals_B7_30",
+      "que": "What is the fastest long-distance land animal?",
+      "ans": {
+        "value": "Pronghorn",
+        "correct_entity": "option_b"
+      },
+      "options": [
+        "Cheetah",
+        "Pronghorn",
+        "Horse"
+      ],
+      "expl": [
+        "The pronghorn antelope is the fastest land animal over long distances in North America."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [],
+        "option_b": [],
+        "option_c": []
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": ""
+    },
+    {
+      "id": "animals_B7_31",
+      "que": "What is a group of flamingos called?",
+      "ans": {
+        "value": "Flamboyance",
+        "correct_entity": "option_b"
+      },
+      "options": [
+        "Flock",
+        "Flamboyance",
+        "Cluster"
+      ],
+      "expl": [
+        "A group of flamingos is called a flamboyance, reflecting their bright pink color and style."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "lock"
+        ],
+        "option_b": [
+          "flame boyance"
+        ],
+        "option_c": [
+          "clusters",
+          "cluster"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": ""
+    },
+    {
+      "id": "animals_B7_32",
+      "que": "How many hearts does an octopus have?",
+      "ans": {
+        "value": "Three",
+        "correct_entity": "option_c"
+      },
+      "options": [
+        "One",
+        "Two",
+        "Three"
+      ],
+      "expl": [
+        "Octopuses have three hearts: two pump blood to the gills, and one to the body."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "1"
+        ],
+        "option_b": [
+          "2"
+        ],
+        "option_c": [
+          "3"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": ""
+    },
+    {
+      "id": "animals_B7_33",
+      "que": "What animal is Feathers McGraw in 'Wallace and Gromit'?",
+      "ans": {
+        "value": "Penguin",
+        "correct_entity": "option_a"
+      },
+      "options": [
+        "Penguin",
+        "Duck",
+        "Chicken"
+      ],
+      "expl": [
+        "Feathers McGraw is a criminal penguin disguised as a chicken in the show."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "penguins"
+        ],
+        "option_b": [
+          "ducks"
+        ],
+        "option_c": [
+          "chickens"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": ""
+    },
+    {
+      "id": "animals_B7_34",
+      "que": "Which mammal is capable of true flight?",
+      "ans": {
+        "value": "Bat",
+        "correct_entity": "option_b"
+      },
+      "options": [
+        "Flying squirrel",
+        "Bat",
+        "Glider"
+      ],
+      "expl": [
+        "Bats are the only mammals capable of sustained flight."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "flying",
+          "squirrel"
+        ],
+        "option_b": [
+          "bats"
+        ],
+        "option_c": []
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": ""
+    },
+    {
+      "id": "animals_B7_35",
+      "que": "What is the largest species of shark?",
+      "ans": {
+        "value": "Whale Shark",
+        "correct_entity": "option_b"
+      },
+      "options": [
+        "Great White",
+        "Whale Shark",
+        "Hammerhead"
+      ],
+      "expl": [
+        "The whale shark is the largest known species of shark and can grow over 40 feet long."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "great",
+          "white"
+        ],
+        "option_b": [
+          "whale",
+          "shark"
+        ],
+        "option_c": [
+          "hammer head"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": ""
+    },
+    {
+      "id": "animals_B7_36",
+      "que": "What is a group of lions called?",
+      "ans": {
+        "value": "Pride",
+        "correct_entity": "option_a"
+      },
+      "options": [
+        "Pride",
+        "Pack",
+        "Flock"
+      ],
+      "expl": [
+        "A pride is the term for a group of lions, typically with related females."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [],
+        "option_b": [
+          "packs",
+          "pack"
+        ],
+        "option_c": [
+          "lock"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": ""
+    },
+    {
+      "id": "animals_B7_37",
+      "que": "What is a caterpillar's cocoon called?",
+      "ans": {
+        "value": "Chrysalis",
+        "correct_entity": "option_a"
+      },
+      "options": [
+        "Chrysalis",
+        "Nest",
+        "Burrow"
+      ],
+      "expl": [
+        "A chrysalis is the stage where a caterpillar transforms into a butterfly."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [],
+        "option_b": [],
+        "option_c": []
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": ""
+    },
+    {
+      "id": "animals_B7_38",
+      "que": "What is the largest bird?",
+      "ans": {
+        "value": "Ostrich",
+        "correct_entity": "option_a"
+      },
+      "options": [
+        "Ostrich",
+        "Emu",
+        "Condor"
+      ],
+      "expl": [
+        "The ostrich is the largest living bird and can weigh over 300 pounds."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "ostriches"
+        ],
+        "option_b": [],
+        "option_c": []
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": ""
+    },
+    {
+      "id": "animals_B7_39",
+      "que": "Fugu is which type of fish?",
+      "ans": {
+        "value": "Pufferfish",
+        "correct_entity": "option_a"
+      },
+      "options": [
+        "Pufferfish",
+        "Catfish",
+        "Swordfish"
+      ],
+      "expl": [
+        "Fugu is a Japanese delicacy made from pufferfish, known for its toxins."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "puffer fish"
+        ],
+        "option_b": [
+          "cat"
+        ],
+        "option_c": [
+          "sword"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": ""
+    },
+    {
+      "id": "animals_B7_40",
+      "que": "What is a baby kangaroo called?",
+      "ans": {
+        "value": "Joey",
+        "correct_entity": "option_a"
+      },
+      "options": [
+        "Joey",
+        "Cub",
+        "Pup"
+      ],
+      "expl": [
+        "A baby kangaroo is known as a joey."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [],
+        "option_b": [],
+        "option_c": []
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": ""
+    },
+    {
+      "id": "animals_B7_41",
+      "que": "Which invasive fish has venomous spines?",
+      "ans": {
+        "value": "Lionfish",
+        "correct_entity": "option_a"
+      },
+      "options": [
+        "Lionfish",
+        "Piranha",
+        "Barracuda"
+      ],
+      "expl": [
+        "Lionfish are invasive in Florida and have venomous spines."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "lion",
+          "fish",
+          "lion fish"
+        ],
+        "option_b": [],
+        "option_c": []
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": ""
+    },
+    {
+      "id": "animals_B7_42",
+      "que": "What's a baby goat called?",
+      "ans": {
+        "value": "Kid",
+        "correct_entity": "option_a"
+      },
+      "options": [
+        "Kid",
+        "Lamb",
+        "Cub"
+      ],
+      "expl": [
+        "A young goat is called a kid."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "kids"
+        ],
+        "option_b": [],
+        "option_c": []
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": ""
+    },
+    {
+      "id": "animals_B7_43",
+      "que": "What is the smallest mammal by body length?",
+      "ans": {
+        "value": "Bumblebee bat",
+        "correct_entity": "option_a"
+      },
+      "options": [
+        "Bumblebee bat",
+        "Pygmy shrew",
+        "Sugar glider"
+      ],
+      "expl": [
+        "The bumblebee bat is the world's smallest mammal by body length."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "bumblebee",
+          "bat"
+        ],
+        "option_b": [
+          "pygmy",
+          "shrew"
+        ],
+        "option_c": [
+          "sugar",
+          "glider"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": ""
+    },
+    {
+      "id": "animals_B7_44",
+      "que": "How many lives is a cat said to have?",
+      "ans": {
+        "value": "Nine",
+        "correct_entity": "option_a"
+      },
+      "options": [
+        "Nine",
+        "Seven",
+        "Eleven"
+      ],
+      "expl": [
+        "Cats are famously said to have nine lives due to their agility."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "9"
+        ],
+        "option_b": [
+          "7"
+        ],
+        "option_c": [
+          "11"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": ""
+    },
+    {
+      "id": "animals_B7_45",
+      "que": "What is the largest bird of prey?",
+      "ans": {
+        "value": "Andean condor",
+        "correct_entity": "option_a"
+      },
+      "options": [
+        "Andean condor",
+        "Bald eagle",
+        "Golden eagle"
+      ],
+      "expl": [
+        "The Andean condor has the largest wingspan of any land bird of prey."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "andean",
+          "condor"
+        ],
+        "option_b": [
+          "bald",
+          "eagle"
+        ],
+        "option_c": [
+          "golden",
+          "eagle"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": ""
+    },
+    {
+      "id": "animals_B7_46",
+      "que": "Which long-legged bird is mythically associated with delivering babies?",
+      "ans": {
+        "value": "Stork",
+        "correct_entity": "option_a"
+      },
+      "options": [
+        "Stork",
+        "Swan",
+        "Pelican"
+      ],
+      "expl": [
+        "Storks are featured in folklore as the birds that deliver babies."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "stroke"
+        ],
+        "option_b": [],
+        "option_c": []
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": ""
+    },
+    {
+      "id": "animals_B7_47",
+      "que": "What is the smallest dog breed?",
+      "ans": {
+        "value": "Chihuahua",
+        "correct_entity": "option_a"
+      },
+      "options": [
+        "Chihuahua",
+        "Pomeranian",
+        "Yorkie"
+      ],
+      "expl": [
+        "The Chihuahua is the smallest recognized dog breed in the world."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [],
+        "option_b": [],
+        "option_c": []
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": ""
+    },
+    {
+      "id": "animals_B7_48",
+      "que": "From which young animal does veal piccata come?",
+      "ans": {
+        "value": "Veal",
+        "correct_entity": "option_a"
+      },
+      "options": [
+        "Veal",
+        "Chicken",
+        "Pork"
+      ],
+      "expl": [
+        "Piccata is traditionally made using veal cutlets sautéed in lemon-butter sauce."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [],
+        "option_b": [],
+        "option_c": []
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": ""
+    },
+    {
+      "id": "animals_B7_49",
+      "que": "What is the collective noun for a group of owls?",
+      "ans": {
+        "value": "Parliament",
+        "correct_entity": "option_a"
+      },
+      "options": [
+        "Parliament",
+        "Flock",
+        "Hoot"
+      ],
+      "expl": [
+        "A group of owls is poetically referred to as a parliament."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [],
+        "option_b": [],
+        "option_c": []
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": ""
+    }
+  ],
+  "IMAGE_QUESTIONS": [],
+  "AUDIO_QUESTIONS": []
+}

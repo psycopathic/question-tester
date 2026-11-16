@@ -1,0 +1,3060 @@
+{
+  "TEXT_QUESTIONS": [
+    {
+      "id": "Trivia_Battle_B5_2",
+      "que": "What is the last letter of the Greek alphabet?",
+      "ans": {
+        "value": "Omega",
+        "correct_entity": "option_b"
+      },
+      "options": [
+        "Alpha",
+        "Omega",
+        "Epsilon"
+      ],
+      "expl": [
+        "In the Greek alphabet, Alpha is the first letter, and Omega is the last letter. This is different from the Latin alphabet, where a and z are the first and last letters, respectively."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "Alpha",
+          "alfa"
+        ],
+        "option_b": [
+          "Omega",
+          "omeg"
+        ],
+        "option_c": [
+          "Epsilon",
+          "ipsilon"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": ""
+    },
+    {
+      "id": "Trivia_Battle_B5_3",
+      "que": "What flowers appear in one of Vincent Van Goghs most famous paintings?",
+      "ans": {
+        "value": "Sunflowers",
+        "correct_entity": "option_b"
+      },
+      "options": [
+        "Tulips",
+        "Sunflowers",
+        "Daisies"
+      ],
+      "expl": [
+        "Vincent Van Gogh’s iconic painting “Sunflowers” depicts a vase filled with twelve radiant sunflowers. Renowned worldwide, it’s admired for its vivid yellows, rich texture, and expressive brushstrokes."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "Tulips",
+          "tulip"
+        ],
+        "option_b": [
+          "Sunflowers",
+          "sunflower",
+          "sun flower"
+        ],
+        "option_c": [
+          "Daisies",
+          "daisy",
+          "disease"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": ""
+    },
+    {
+      "id": "Trivia_Battle_B5_9",
+      "que": "What amusement park was home to America's first roller coaster?",
+      "ans": {
+        "value": "Coney Island",
+        "correct_entity": "option_a"
+      },
+      "options": [
+        "Coney Island",
+        "Cedar Point",
+        "Disney World"
+      ],
+      "expl": [
+        "America’s first roller coaster, the Switchback Railway, opened in 1884 at Coney Island, costing a nickel and reaching 6 mph. It inspired future coasters like the Cyclone, built in 1927, which reaches 60 mph."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "Coney Island",
+          "coney",
+          "island"
+        ],
+        "option_b": [
+          "Cedar Point",
+          "cedar",
+          "point"
+        ],
+        "option_c": [
+          "Disney World",
+          "disney",
+          "world"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": ""
+    },
+    {
+      "id": "Trivia_Battle_B5_16",
+      "que": "The Halloween treat \"Candy Corn\" was originally sold under which name?",
+      "ans": {
+        "value": "Chicken Feed",
+        "correct_entity": "option_b"
+      },
+      "options": [
+        "Turkey Teeth",
+        "Chicken Feed",
+        "Candy Ears"
+      ],
+      "expl": [
+        "Candy corn, now a Halloween favorite, was once called “Chicken Feed.” Created by Goelitz Confectionery, it mimicked real chicken feed and featured a rooster logo with the slogan “Something worth crowing for.”"
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "Turkey Teeth",
+          "turkey",
+          "teeth",
+          "tooth"
+        ],
+        "option_b": [
+          "Chicken Feed",
+          "chicken",
+          "feed"
+        ],
+        "option_c": [
+          "Candy Ears",
+          "candy ear",
+          "candy",
+          "ear",
+          "ears"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": ""
+    },
+    {
+      "id": "Trivia_Battle_B5_20",
+      "que": "In The Jungle Book, what kind of animal is Baloo?",
+      "ans": {
+        "value": "Bear",
+        "correct_entity": "option_a"
+      },
+      "options": [
+        "Bear",
+        "Lion",
+        "Monkey"
+      ],
+      "expl": [
+        "Rudyard Kipling’s 1894 classic The Jungle Book tells the adventures of Mowgli and his animal friends. Baloo, the kind and sleepy brown bear, teaches Mowgli the ways of the jungle with warmth and generosity."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "Bear",
+          "beer"
+        ],
+        "option_b": [
+          "Lion",
+          "lions"
+        ],
+        "option_c": [
+          "Monkey"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": ""
+    },
+    {
+      "id": "Trivia_Battle_B5_26",
+      "que": "If you add the opposite sides of a dice, what number do you get?",
+      "ans": {
+        "value": "Seven",
+        "correct_entity": "option_c"
+      },
+      "options": [
+        "Six",
+        "Eight",
+        "Seven"
+      ],
+      "expl": [
+        "If you add the opposite sides of a standard 6-sided dice, you will get 7. For example, adding 1 and 6, 2 and 5, or 3 and 4 will all give you 7."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "Six",
+          "6"
+        ],
+        "option_b": [
+          "Eight",
+          "8"
+        ],
+        "option_c": [
+          "Seven",
+          "7"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": ""
+    },
+    {
+      "id": "Trivia_Battle_B5_28",
+      "que": "Which actor was originally cast as Indiana Jones?",
+      "ans": {
+        "value": "Tom Selleck",
+        "correct_entity": "option_a"
+      },
+      "options": [
+        "Tom Selleck",
+        "Mel Gibson",
+        "Kevin Costner"
+      ],
+      "expl": [
+        "Tom Selleck lost the Indiana Jones role due to his Magnum P.I. contract, which later earned him an Emmy. The part went to Harrison Ford, whose performance made the franchise a massive hit."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "Tom Selleck",
+          "tom",
+          "selleck",
+          "sale",
+          "sell",
+          "tom sale"
+        ],
+        "option_b": [
+          "Mel Gibson",
+          "mel",
+          "gibson"
+        ],
+        "option_c": [
+          "Kevin Costner",
+          "kevin",
+          "costner"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": ""
+    },
+    {
+      "id": "Trivia_Battle_B5_29",
+      "que": "Which Las Vegas hotel features a replica of the Rialto Bridge?",
+      "ans": {
+        "value": "The Venetian",
+        "correct_entity": "option_c"
+      },
+      "options": [
+        "Luxor",
+        "Bellagio",
+        "The Venetian"
+      ],
+      "expl": [
+        "The Venetian Las Vegas, inspired by Venice, Italy, features replicas of famous landmarks like the Rialto Bridge—the oldest bridge over Venice’s Grand Canal and a major tourist attraction."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "Luxor",
+          "luxar",
+          "lux",
+          "luz"
+        ],
+        "option_b": [
+          "Bellagio",
+          "bella",
+          "bellagiyo",
+          "bella jio"
+        ],
+        "option_c": [
+          "The Venetian",
+          "venetian",
+          "venetan",
+          "venetians",
+          "beneton"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": ""
+    },
+    {
+      "id": "Trivia_Battle_B5_30",
+      "que": "Who was Jay Leno's first and last guest on \"The Tonight Show\"?",
+      "ans": {
+        "value": "Billy Crystal",
+        "correct_entity": "option_a"
+      },
+      "options": [
+        "Billy Crystal",
+        "Jerry Seinfeld",
+        "Bette Midler"
+      ],
+      "expl": [
+        "Billy Crystal was Jay Leno’s first Tonight Show guest in 1992 and returned for his final episode in 2014, keeping Leno’s promise. The show ended with Johnny Carson’s iconic farewell line."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "Billy Crystal",
+          "billy",
+          "crystal",
+          "bill"
+        ],
+        "option_b": [
+          "Jerry Seinfeld",
+          "jerry",
+          "seinfeld",
+          "jery",
+          "seenfeild"
+        ],
+        "option_c": [
+          "Bette Midler",
+          "bette",
+          "midler",
+          "bet",
+          "betie"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": ""
+    },
+    {
+      "id": "Trivia_Battle_B5_31",
+      "que": "What was the original name of Pac-Man?",
+      "ans": {
+        "value": "Puck-Man",
+        "correct_entity": "option_b"
+      },
+      "options": [
+        "Pizza Man",
+        "Puck-Man",
+        "Ghost Gobbler"
+      ],
+      "expl": [
+        "Originally called Puck-Man in Japan (“paku” means “chomp”), it was renamed Pac-Man to prevent vandalism. Now, 94% of Americans recognize Pac-Man, making him gaming’s most famous character."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "Pizza Man",
+          "pizza",
+          "pidza"
+        ],
+        "option_b": [
+          "Puck-Man",
+          "puck man",
+          "fuck man",
+          "puc-man",
+          "puc man",
+          "pac man"
+        ],
+        "option_c": [
+          "Ghost Gobbler",
+          "ghost",
+          "gobble",
+          "gobbler"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": ""
+    },
+    {
+      "id": "Trivia_Battle_B5_33",
+      "que": "Which holiday is described in Chicago's hit song \"Saturday in the Park\"?",
+      "ans": {
+        "value": "Fourth of July",
+        "correct_entity": "option_a"
+      },
+      "options": [
+        "Fourth of July",
+        "Memorial Day",
+        "Thanksgiving"
+      ],
+      "expl": [
+        "Chicago’s 1972 album Chicago V features “Saturday in the Park,” inspired by a July 4, 1970 walk in Central Park. Robert Lamm wrote it, borrowing the melody from The Beatles’ “You Won’t See Me.”"
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "Fourth of July",
+          "july fourth",
+          "fourth july"
+        ],
+        "option_b": [
+          "Memorial Day",
+          "memorial"
+        ],
+        "option_c": [
+          "Thanksgiving",
+          "thanks giving",
+          "thank giving"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": ""
+    },
+    {
+      "id": "Trivia_Battle_B5_34",
+      "que": "Which character's balloon holds the record for the most appearances in Macy's Thanksgiving Day Parade?",
+      "ans": {
+        "value": "Snoopy",
+        "correct_entity": "option_b"
+      },
+      "options": [
+        "Mickey Mouse",
+        "Snoopy",
+        "Ronald McDonald"
+      ],
+      "expl": [
+        "Since his debut in 1968, Snoopy has become a favorite in the Macy's Thanksgiving Day Parade and has appeared a record 43 times. Snoopy has flown over New York City on and off since his parade debut."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "Mickey Mouse",
+          "mickey",
+          "mouse"
+        ],
+        "option_b": [
+          "Snoopy",
+          "snopy"
+        ],
+        "option_c": [
+          "Ronald McDonald",
+          "ronald",
+          "mcdonald",
+          "macdonald",
+          "ronald macdonald",
+          "macdonalds"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": ""
+    },
+    {
+      "id": "Trivia_Battle_B5_35",
+      "que": "What action hero was a champion cha-cha dancer?",
+      "ans": {
+        "value": "Bruce Lee",
+        "correct_entity": "option_b"
+      },
+      "options": [
+        "Jackie Chan",
+        "Bruce Lee",
+        "Steven Seagal"
+      ],
+      "expl": [
+        "Bruce Lee was also a skilled dancer, winning Hong Kong’s Cha-Cha Championship four times and recording 108 dance steps. After moving to San Francisco with $100, he taught dance before popularizing martial arts films."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "Jackie Chan",
+          "jackie",
+          "chan"
+        ],
+        "option_b": [
+          "Bruce Lee",
+          "bruce",
+          "lee"
+        ],
+        "option_c": [
+          "Steven Seagal",
+          "steven",
+          "seagal",
+          "sea girl"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": ""
+    },
+    {
+      "id": "Trivia_Battle_B5_37",
+      "que": "What is the longest-running show on television?",
+      "ans": {
+        "value": "Meet the Press",
+        "correct_entity": "option_c"
+      },
+      "options": [
+        "The Simpsons",
+        "As the World Turns",
+        "Meet the Press"
+      ],
+      "expl": [
+        "Meet the Press, America’s longest-running TV show, debuted in 1947. Featuring leader interviews and expert panels, it’s had 12 moderators and owes its longevity to launching early in network TV history."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "The Simpsons",
+          "simpson",
+          "the simpson"
+        ],
+        "option_b": [
+          "As the World Turns",
+          "as the",
+          "world turns",
+          "turns",
+          "the world",
+          "the world turns",
+          "world turn"
+        ],
+        "option_c": [
+          "Meet the Press",
+          "meet the",
+          "press",
+          "meet press",
+          "the press",
+          "meet",
+          "met"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": ""
+    },
+    {
+      "id": "Trivia_Battle_B5_40",
+      "que": "Who is the only singer to ever fill all top 10 spots on the Billboard Hot 100 in the same week?",
+      "ans": {
+        "value": "Taylor Swift",
+        "correct_entity": "option_a"
+      },
+      "options": [
+        "Taylor Swift",
+        "Ed Sheeran",
+        "Harry Styles"
+      ],
+      "expl": [
+        "Taylor Swift’s Midnights made history, claiming all top 10 Billboard Hot 100 spots with “Anti-Hero” at No. 1. She now holds 40 top 10s, surpassing Madonna’s 38, and earned her 11th No. 1 album."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "Taylor Swift",
+          "taylor",
+          "swift"
+        ],
+        "option_b": [
+          "Ed Sheeran",
+          "ed",
+          "sheeran"
+        ],
+        "option_c": [
+          "Harry Styles",
+          "harry style",
+          "harry",
+          "style",
+          "styles",
+          "hary styles"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": ""
+    },
+    {
+      "id": "Trivia_Battle_B5_51",
+      "que": "Which artist was a major figure in the abstract expressionist movement?",
+      "ans": {
+        "value": "Jackson Pollock",
+        "correct_entity": "option_b"
+      },
+      "options": [
+        "Andy Warhol",
+        "Jackson Pollock",
+        "Salvador Dali"
+      ],
+      "expl": [
+        "Jackson Pollock pioneered abstract expressionism with his “drip technique,” pouring paint across canvases. His 2016-sold Number 17A fetched $200 million, reflecting his lasting influence."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "Andy Warhol",
+          "andy",
+          "warhol",
+          "war hol"
+        ],
+        "option_b": [
+          "Jackson Pollock",
+          "jacson",
+          "jackson",
+          "pollock"
+        ],
+        "option_c": [
+          "Salvador Dali",
+          "salvadoor",
+          "dali",
+          "salvador dalí"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": ""
+    },
+    {
+      "id": "Trivia_Battle_B5_52",
+      "que": "The 2001 film \"Glitter\" was a notable bomb starring which pop star?",
+      "ans": {
+        "value": "Mariah Carey",
+        "correct_entity": "option_a"
+      },
+      "options": [
+        "Mariah Carey",
+        "Britney Spears",
+        "Madonna"
+      ],
+      "expl": [
+        "Mariah Carey’s 2001 film Glitter flopped with critics and audiences, earning her a Razzie Award. Released soon after 9/11, it’s still remembered as one of Hollywood’s biggest failures."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "Mariah Carey",
+          "mariah",
+          "carey",
+          "maria carey"
+        ],
+        "option_b": [
+          "Britney Spears",
+          "britney",
+          "spears",
+          "britney spear"
+        ],
+        "option_c": [
+          "Madonna",
+          "madona"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": ""
+    },
+    {
+      "id": "Trivia_Battle_B5_55",
+      "que": "What Charleton Heston movie won 11 Oscars in 1960?",
+      "ans": {
+        "value": "Ben-Hur",
+        "correct_entity": "option_c"
+      },
+      "options": [
+        "Julius Caesar",
+        "Planet of the Apes",
+        "Ben-Hur"
+      ],
+      "expl": [
+        "William Wyler’s 1959 epic Ben-Hur starred Charlton Heston as a prince seeking revenge after Roman enslavement. It won 11 Oscars and is famed for its chariot race and Miklós Rózsa’s score."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "Julius Caesar",
+          "cezer",
+          "julius cezer",
+          "caezar"
+        ],
+        "option_b": [
+          "Planet of the Apes",
+          "planet of apes",
+          "apes",
+          "planet",
+          "of the apes",
+          "the apes",
+          "ape"
+        ],
+        "option_c": [
+          "Ben-Hur",
+          "ben hur",
+          "ben",
+          "hur",
+          "her",
+          "ben her"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": ""
+    },
+    {
+      "id": "Trivia_Battle_B5_56",
+      "que": "Which actor starred in the 1981 film \"Arthur\"?",
+      "ans": {
+        "value": "Dudley Moore",
+        "correct_entity": "option_c"
+      },
+      "options": [
+        "Danny DeVito",
+        "Gene Wilder",
+        "Dudley Moore"
+      ],
+      "expl": [
+        "The 1981 comedy Arthur stars Dudley Moore as a rich New Yorker who falls for a waitress. Its theme song and John Gielgud’s butler role both earned Academy Awards."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "Danny DeVito",
+          "danny",
+          "devito"
+        ],
+        "option_b": [
+          "Gene Wilder",
+          "gene",
+          "wilder",
+          "jane wilder"
+        ],
+        "option_c": [
+          "Dudley Moore",
+          "dudli",
+          "more",
+          "moorey",
+          "deadly mood",
+          "dudley",
+          "moore",
+          "deadly moore",
+          "doodle more"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": ""
+    },
+    {
+      "id": "Trivia_Battle_B5_59",
+      "que": "Which website began as a \"list of actors with beautiful eyes\"?",
+      "ans": {
+        "value": "IMDb",
+        "correct_entity": "option_a"
+      },
+      "options": [
+        "IMDb",
+        "Reddit",
+        "Pinterest"
+      ],
+      "expl": [
+        "Founded in 1990 as a list of “actresses with beautiful eyes,” IMDb became a top movie database. Renamed in 1996, it was bought by Jeff Bezos in 1998 for $55M to boost Amazon’s video sales."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "IMDb",
+          "i. m. d. b."
+        ],
+        "option_b": [
+          "Reddit",
+          "red",
+          "dit",
+          "redit"
+        ],
+        "option_c": [
+          "Pinterest",
+          "pin",
+          "interest"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": ""
+    },
+    {
+      "id": "Trivia_Battle_B5_61",
+      "que": "The 2014 Oscar-winning documentary \"Citizenfour\" is about which controversial person?",
+      "ans": {
+        "value": "Edward Snowden",
+        "correct_entity": "option_c"
+      },
+      "options": [
+        "Sarah Palin",
+        "Julian Assange",
+        "Edward Snowden"
+      ],
+      "expl": [
+        "The 2014 documentary Citizenfour follows Edward Snowden exposing the NSA’s illegal surveillance. Filmmakers captured his story using classified files. It won Best Documentary at the Oscars."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "Sarah Palin",
+          "sarah",
+          "palin",
+          "sara",
+          "sara pali"
+        ],
+        "option_b": [
+          "Julian Assange",
+          "julian",
+          "assam",
+          "assange",
+          "assany"
+        ],
+        "option_c": [
+          "Edward Snowden",
+          "edward",
+          "snowden",
+          "snow den",
+          "den"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": ""
+    },
+    {
+      "id": "Trivia_Battle_B5_67",
+      "que": "What is the best-selling DVD of all time?",
+      "ans": {
+        "value": "Finding Nemo",
+        "correct_entity": "option_c"
+      },
+      "options": [
+        "The Lion King",
+        "Frozen",
+        "Finding Nemo"
+      ],
+      "expl": [
+        "Finding Nemo broke records with 8 million DVDs sold on release day and 38 million worldwide, making it the best-selling DVD ever—a record likely to stand as disc sales decline."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "The Lion King",
+          "lion king",
+          "lion",
+          "king",
+          "the lion"
+        ],
+        "option_b": [
+          "Frozen",
+          "frozens"
+        ],
+        "option_c": [
+          "Finding Nemo",
+          "finding",
+          "nemo"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": ""
+    },
+    {
+      "id": "Trivia_Battle_B5_68",
+      "que": "What celebrity was arrested in 2001 for shoplifting from the Saks Fifth Avenue in Beverly Hills?",
+      "ans": {
+        "value": "Winona Ryder",
+        "correct_entity": "option_a"
+      },
+      "options": [
+        "Winona Ryder",
+        "Paris Hilton",
+        "Lindsay Lohan"
+      ],
+      "expl": [
+        "Winona Ryder was arrested in 2001 for shoplifting $5,500 in designer goods from a Beverly Hills store. Convicted of theft but not burglary, she received probation and community service."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "Winona Ryder",
+          "winona",
+          "ryder",
+          "winona rider",
+          "rider",
+          "vinona"
+        ],
+        "option_b": [
+          "Paris Hilton",
+          "paris",
+          "hilton"
+        ],
+        "option_c": [
+          "Lindsay Lohan",
+          "lindsay",
+          "lohan",
+          "rohan"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": ""
+    },
+    {
+      "id": "Trivia_Battle_B5_70",
+      "que": "Who is the only actor to play both Batman and Superman in two different films?",
+      "ans": {
+        "value": "Ben Affleck",
+        "correct_entity": "option_b"
+      },
+      "options": [
+        "Adam West",
+        "Ben Affleck",
+        "Robert Lowery"
+      ],
+      "expl": [
+        "Ben Affleck played Batman in DC films and, in Hollywoodland (2006), portrayed George Reeves—the actor who played Superman—linking him to both iconic heroes."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "Adam West",
+          "adam",
+          "west",
+          "adams",
+          "adams west"
+        ],
+        "option_b": [
+          "Ben Affleck",
+          "afluek"
+        ],
+        "option_c": [
+          "Robert Lowery",
+          "robert",
+          "lowery",
+          "lori",
+          "low",
+          "robert lori",
+          "robert laurie",
+          "laurie"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": ""
+    },
+    {
+      "id": "Trivia_Battle_B5_75",
+      "que": "The concert films \"Delirious\" and \"Raw\" feature stand-up comedy routines by whom?",
+      "ans": {
+        "value": "Eddie Murphy",
+        "correct_entity": "option_c"
+      },
+      "options": [
+        "Robin Williams",
+        "Richard Pryor",
+        "Eddie Murphy"
+      ],
+      "expl": [
+        "Eddie Murphy’s Delirious (1983) was his first HBO stand-up special, followed by Raw in 1987. It won a Grammy for Best Comedy Album and remains the highest-grossing stand-up film ever made."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "Robin Williams",
+          "robin",
+          "williams",
+          "william"
+        ],
+        "option_b": [
+          "Richard Pryor",
+          "richard prior",
+          "richard",
+          "prior",
+          "pryor"
+        ],
+        "option_c": [
+          "Eddie Murphy",
+          "eddie",
+          "murphy",
+          "edit",
+          "edie",
+          "murfy",
+          "murfie"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": ""
+    },
+    {
+      "id": "Trivia_Battle_B5_76",
+      "que": "Which film tells the story of a character named Bud Fox?",
+      "ans": {
+        "value": "Wall Street",
+        "correct_entity": "option_a"
+      },
+      "options": [
+        "Wall Street",
+        "Raging Bull",
+        "Platoon"
+      ],
+      "expl": [
+        "Oliver Stone’s Wall Street stars Michael Douglas and Charlie Sheen as ruthless traders. Inspired by Stone’s father, it defined ’80s finance culture. Tom Cruise was considered for Sheen’s role."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "Wall Street",
+          "wall",
+          "street"
+        ],
+        "option_b": [
+          "Raging Bull",
+          "bull",
+          "raging",
+          "rageing"
+        ],
+        "option_c": [
+          "Platoon",
+          "platoons",
+          "play tool",
+          "playton"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": ""
+    },
+    {
+      "id": "Trivia_Battle_B5_78",
+      "que": "Which jazz legend performed the classic hit, \"What A Wonderful World\"?",
+      "ans": {
+        "value": "Louis Armstrong",
+        "correct_entity": "option_b"
+      },
+      "options": [
+        "Duke Ellington",
+        "Louis Armstrong",
+        "Miles Davis"
+      ],
+      "expl": [
+        "Louis Armstrong’s 1967 hit What a Wonderful World topped the U.K. charts but flopped in the U.S. until 1988, when Good Morning, Vietnam revived it, turning it into a timeless classic."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "Duke Ellington",
+          "duke",
+          "ellington"
+        ],
+        "option_b": [
+          "Louis Armstrong",
+          "louis arm strong",
+          "louis arm",
+          "strong",
+          "louis",
+          "armstrong",
+          "arm strong"
+        ],
+        "option_c": [
+          "Miles Davis",
+          "miles",
+          "davis"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": ""
+    },
+    {
+      "id": "Trivia_Battle_B5_79",
+      "que": "Who was the original host of The Late Show, the first late-night talk show on Fox?",
+      "ans": {
+        "value": "Joan Rivers",
+        "correct_entity": "option_c"
+      },
+      "options": [
+        "Chevy Chase",
+        "Magic Johnson",
+        "Joan Rivers"
+      ],
+      "expl": [
+        "Joan Rivers hosted The Late Show, Fox’s first program, debuting in 1986. She became the first woman to host a late-night talk show before being fired with her husband in 1987."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "Chevy Chase",
+          "chevy",
+          "chase",
+          "chewwy",
+          "chewy"
+        ],
+        "option_b": [
+          "Magic Johnson",
+          "magic",
+          "johnson",
+          "john",
+          "son"
+        ],
+        "option_c": [
+          "Joan Rivers",
+          "joan river",
+          "john rivers",
+          "rivers",
+          "john",
+          "joan",
+          "river",
+          "john reverse"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": ""
+    },
+    {
+      "id": "Trivia_Battle_B5_82",
+      "que": "Which Oscar Award-winning actor has portrayed both Walt Disney and Mr. Rogers?",
+      "ans": {
+        "value": "Tom Hanks",
+        "correct_entity": "option_a"
+      },
+      "options": [
+        "Tom Hanks",
+        "Kevin Spacey",
+        "Sean Penn"
+      ],
+      "expl": [
+        "Tom Hanks has portrayed real-life icons like Fred Rogers, Walt Disney, and Captain Sullenberger. His knack for realism made him one of Hollywood’s most respected biographical actors."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "Tom Hanks",
+          "tom hank",
+          "tom",
+          "hank",
+          "hanks"
+        ],
+        "option_b": [
+          "Kevin Spacey",
+          "kevin",
+          "spacey",
+          "space",
+          "cevin"
+        ],
+        "option_c": [
+          "Sean Penn",
+          "sean pen",
+          "sean",
+          "pen",
+          "seen pen",
+          "seen pain"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": ""
+    },
+    {
+      "id": "Trivia_Battle_B5_84",
+      "que": "Who is famous for popularizing the term \"Rock and Roll\"?",
+      "ans": {
+        "value": "Alan Freed",
+        "correct_entity": "option_c"
+      },
+      "options": [
+        "Elvis Presley",
+        "Casey Kasem",
+        "Alan Freed"
+      ],
+      "expl": [
+        "DJ Alan Freed coined “rock and roll” in 1951 on Cleveland’s WJW radio and hosted the first rock concert. His career collapsed in the payola scandal, but his legacy shaped music history."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "Elvis Presley",
+          "elvis",
+          "presley"
+        ],
+        "option_b": [
+          "Casey Kasem",
+          "casey",
+          "kasem",
+          "casey castle"
+        ],
+        "option_c": [
+          "Alan Freed",
+          "alan",
+          "freed",
+          "alan fried",
+          "alan fry"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": ""
+    },
+    {
+      "id": "Trivia_Battle_B5_89",
+      "que": "What Shakespeare character says, \"Something is rotten in the state of Denmark\"?",
+      "ans": {
+        "value": "Marcellus",
+        "correct_entity": "option_b"
+      },
+      "options": [
+        "Hamlet",
+        "Marcellus",
+        "Horatio"
+      ],
+      "expl": [
+        "In Shakespeare’s Hamlet, Marcellus says, “Something is rotten in the state of Denmark.” The line, in Act 1, Scene 4, foreshadows corruption and decay within the Danish royal court."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "Hamlet",
+          "hamlate"
+        ],
+        "option_b": [
+          "Marcellus",
+          "mars sell us",
+          "marcelo's",
+          "marcella's",
+          "mercedes"
+        ],
+        "option_c": [
+          "Horatio",
+          "horachio",
+          "hora",
+          "horizon"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": ""
+    },
+    {
+      "id": "Trivia_Battle_B5_96",
+      "que": "What was Bugs Bunny's original name?",
+      "ans": {
+        "value": "Happy Rabbit",
+        "correct_entity": "option_b"
+      },
+      "options": [
+        "Honey Bunny",
+        "Happy Rabbit",
+        "Harry Hare"
+      ],
+      "expl": [
+        "Bugs Bunny began as “Happy Rabbit” in 1938 before being redesigned two years later. Mel Blanc, who voiced him, named the character after animator Bugs Hardaway and reused the voice for Woody Woodpecker."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "Honey Bunny",
+          "honey",
+          "bunny"
+        ],
+        "option_b": [
+          "Happy Rabbit",
+          "happy",
+          "rabbit"
+        ],
+        "option_c": [
+          "Harry Hare",
+          "harry",
+          "hare",
+          "hear"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": ""
+    },
+    {
+      "id": "Trivia_Battle_B5_104",
+      "que": "Michelle Pfeiffer, Halle Berry, and Anne Hathaway have all portrayed which superhero on film?",
+      "ans": {
+        "value": "Catwoman",
+        "correct_entity": "option_b"
+      },
+      "options": [
+        "Wonder Woman",
+        "Catwoman",
+        "Supergirl"
+      ],
+      "expl": [
+        "Catwoman, created by Bob Kane and Bill Finger, is a D.C. Comics antihero often seen with Batman. She has been portrayed on film by Lee Meriwether, Michelle Pfeiffer, Halle Berry, Anne Hathaway, and Zoë Kravitz."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "Wonder Woman",
+          "wonder",
+          "woman"
+        ],
+        "option_b": [
+          "Catwoman",
+          "cat woman",
+          "cat",
+          "woman"
+        ],
+        "option_c": [
+          "Supergirl",
+          "super girl",
+          "supergirls",
+          "super girls"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": ""
+    },
+    {
+      "id": "Trivia_Battle_B5_105",
+      "que": "Which member of The Beatles was born in India?",
+      "ans": {
+        "value": "Pete Best",
+        "correct_entity": "option_a"
+      },
+      "options": [
+        "Pete Best",
+        "John Lennon",
+        "Ringo Starr"
+      ],
+      "expl": [
+        "Pete Best, the Beatles’ original drummer, was replaced by Ringo Starr before the band’s global success. Born in India and raised in Liverpool, he joined the group in 1960 at age 15 after Paul McCartney invited him."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "Pete Best",
+          "pete",
+          "best"
+        ],
+        "option_b": [
+          "John Lennon",
+          "john",
+          "lennon",
+          "linen"
+        ],
+        "option_c": [
+          "Ringo Starr",
+          "ring",
+          "star",
+          "ringo",
+          "ringo star",
+          "starr"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": ""
+    },
+    {
+      "id": "Trivia_Battle_B5_112",
+      "que": "Which actress won the most Oscars?",
+      "ans": {
+        "value": "Katharine Hepburn",
+        "correct_entity": "option_c"
+      },
+      "options": [
+        "Meryl Streep",
+        "Sandra Bullock",
+        "Katharine Hepburn"
+      ],
+      "expl": [
+        "Katharine Hepburn won four Oscars for Best Actress. Known for “The Philadelphia Story,” “Bringing Up Baby,” and “The African Queen,” she was a bold, talented icon and one of Hollywood’s greatest stars."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "Meryl Streep",
+          "meryl",
+          "streep"
+        ],
+        "option_b": [
+          "Sandra Bullock",
+          "bullock",
+          "bull",
+          "sandra",
+          "bull lock"
+        ],
+        "option_c": [
+          "Katharine Hepburn",
+          "katharine hepbun",
+          "catherine hepburn",
+          "hepburn",
+          "catherine",
+          "katharine"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": ""
+    },
+    {
+      "id": "Trivia_Battle_B5_113",
+      "que": "In the children's book series, where is Paddington the bear originally from?",
+      "ans": {
+        "value": "Peru",
+        "correct_entity": "option_a"
+      },
+      "options": [
+        "Peru",
+        "Canada",
+        "Iceland"
+      ],
+      "expl": [
+        "Paddington Bear, now living in London, was originally from Peru. Raised by Aunt Lucy after an earthquake, he was sent to England for a better life, found at Paddington Station, and adopted by the Brown family."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "Peru"
+        ],
+        "option_b": [
+          "Canada"
+        ],
+        "option_c": [
+          "Iceland",
+          "ice land",
+          "ice",
+          "land"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": ""
+    },
+    {
+      "id": "Trivia_Battle_B5_115",
+      "que": "What were the seven dwarfs' jobs in the movie?",
+      "ans": {
+        "value": "Miners",
+        "correct_entity": "option_c"
+      },
+      "options": [
+        "Lumberjacks",
+        "Farmers",
+        "Miners"
+      ],
+      "expl": [
+        "In Snow White and the Seven Dwarfs, the dwarfs mined for “jewels,” not diamonds. These included gems like rubies, sapphires, and emeralds, reflecting their dedication and hard work in the mines."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "Lumberjacks",
+          "lumber jacks",
+          "lumberjack",
+          "lumber",
+          "jack"
+        ],
+        "option_b": [
+          "Farmers",
+          "farmer"
+        ],
+        "option_c": [
+          "Miners",
+          "miner",
+          "minor",
+          "mineral",
+          "minors"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": ""
+    },
+    {
+      "id": "Trivia_Battle_B5_163",
+      "que": "Which musician holds the record for the most Grammy Awards won by a female artist?",
+      "ans": {
+        "value": "Beyonce",
+        "correct_entity": "option_a"
+      },
+      "options": [
+        "Beyonce",
+        "Taylor Swift",
+        "Adele"
+      ],
+      "expl": [
+        "Beyoncé has won 28 Grammy Awards, the most by any female artist. Her groundbreaking music, performances, and cultural influence have earned her lasting global recognition."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "Beyonce",
+          "beyoncé",
+          "beyonsai",
+          "beyonse"
+        ],
+        "option_b": [
+          "Taylor Swift",
+          "taylor",
+          "swift"
+        ],
+        "option_c": [
+          "Adele"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": ""
+    },
+    {
+      "id": "Trivia_Battle_B5_164",
+      "que": "Who is the first African American woman to win an Academy Award for Best Actress?",
+      "ans": {
+        "value": "Halle Berry",
+        "correct_entity": "option_a"
+      },
+      "options": [
+        "Halle Berry",
+        "Viola Davis",
+        "Octavia Spencer"
+      ],
+      "expl": [
+        "Halle Berry became the first African American woman to win an Oscar for Best Actress in 2002 for “Monster’s Ball.” Earlier, she was Miss USA runner-up and a pageant titleholder."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "Halle Berry",
+          "halle",
+          "berry",
+          "hell berry",
+          "hell"
+        ],
+        "option_b": [
+          "Viola Davis",
+          "viola",
+          "davis"
+        ],
+        "option_c": [
+          "Octavia Spencer",
+          "octavia",
+          "spencer"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": ""
+    },
+    {
+      "id": "Trivia_Battle_B5_165",
+      "que": "Which actor has portrayed the iconic character James Bond in most films?",
+      "ans": {
+        "value": "Sean Connery",
+        "correct_entity": "option_b"
+      },
+      "options": [
+        "Daniel Craig",
+        "Sean Connery",
+        "Roger Moore"
+      ],
+      "expl": [
+        "Sean Connery, best known as James Bond, starred in seven films starting with “Dr. No” in 1962. Before acting fame, he worked as a milkman, truck driver, and served in the Royal Navy."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "Daniel Craig",
+          "daniel",
+          "craig",
+          "kraig"
+        ],
+        "option_b": [
+          "Sean Connery",
+          "sean",
+          "connery"
+        ],
+        "option_c": [
+          "Roger Moore",
+          "roger",
+          "moore",
+          "more",
+          "roger more"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": ""
+    },
+    {
+      "id": "Trivia_Battle_B5_166",
+      "que": "Who is the youngest person to ever win an Academy Award for Best Actor?",
+      "ans": {
+        "value": "Adrien Brody",
+        "correct_entity": "option_b"
+      },
+      "options": [
+        "Timothee Chalamet",
+        "Adrien Brody",
+        "Marlon Brando"
+      ],
+      "expl": [
+        "Adrien Brody is the youngest person to win an Academy Award for Best Actor. He won the prestigious award at the age of 29 for his remarkable performance in the film \"The Pianist\" in 2003."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "Timothee Chalamet",
+          "timothée",
+          "chalamet",
+          "timothée chalamet",
+          "timoti",
+          "timotee",
+          "timotee chalamet",
+          "timothy"
+        ],
+        "option_b": [
+          "Adrien Brody",
+          "adrien",
+          "brody"
+        ],
+        "option_c": [
+          "Marlon Brando",
+          "marlon",
+          "brando"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": ""
+    },
+    {
+      "id": "Trivia_Battle_B5_167",
+      "que": "Which actor portrayed the character Tony Stark, also known as Iron Man, in the Marvel Cinematic Universe?",
+      "ans": {
+        "value": "Robert Downey Jr.",
+        "correct_entity": "option_a"
+      },
+      "options": [
+        "Robert Downey Jr.",
+        "Chris Evans",
+        "Mark Ruffalo"
+      ],
+      "expl": [
+        "Robert Downey Jr. played the character Tony Stark, also known as Iron Man, in the Marvel Cinematic Universe, gaining immense popularity for his charismatic portrayal."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "Robert Downey Jr.",
+          "robert",
+          "downey",
+          "jr.",
+          "robert downey junior",
+          "downey junior"
+        ],
+        "option_b": [
+          "Chris Evans",
+          "chris",
+          "evans"
+        ],
+        "option_c": [
+          "Mark Ruffalo",
+          "mark",
+          "ruffalo"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": ""
+    },
+    {
+      "id": "Trivia_Battle_B5_168",
+      "que": "Who became the youngest self-made billionaire, according to Forbes?",
+      "ans": {
+        "value": "Kylie Jenner",
+        "correct_entity": "option_a"
+      },
+      "options": [
+        "Kylie Jenner",
+        "Mark Zuckerberg",
+        "Elon Musk"
+      ],
+      "expl": [
+        "According to Forbes, Kylie Jenner became the youngest self-made billionaire, primarily through her cosmetics company, Kylie Cosmetics."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "Kylie Jenner",
+          "kylie",
+          "jenner"
+        ],
+        "option_b": [
+          "Mark Zuckerberg",
+          "mark",
+          "zuckerberg"
+        ],
+        "option_c": [
+          "Elon Musk",
+          "elon",
+          "musk"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": ""
+    },
+    {
+      "id": "Trivia_Battle_B5_169",
+      "que": "Which actress won an Academy Award for her portrayal of the character Clarice Starling in the film \"The Silence of the Lambs\"?",
+      "ans": {
+        "value": "Jodie Foster",
+        "correct_entity": "option_a"
+      },
+      "options": [
+        "Jodie Foster",
+        "Meryl Streep",
+        "Julia Roberts"
+      ],
+      "expl": [
+        "Jodie Foster won an Oscar for Best Actress for playing Clarice Starling in “The Silence of the Lambs.” She began acting young, starring in “Taxi Driver” and “The Accused,” earning another Academy Award."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "Jodie Foster",
+          "jodie",
+          "foster"
+        ],
+        "option_b": [
+          "Meryl Streep",
+          "meryl",
+          "streep"
+        ],
+        "option_c": [
+          "Julia Roberts",
+          "julia",
+          "roberts",
+          "julia robert"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": ""
+    },
+    {
+      "id": "Trivia_Battle_B5_170",
+      "que": "Which British actor portrayed the character of Sherlock Holmes in the BBC television series \"Sherlock\"?",
+      "ans": {
+        "value": "Benedict Cumberbatch",
+        "correct_entity": "option_a"
+      },
+      "options": [
+        "Benedict Cumberbatch",
+        "Tom Hiddleston",
+        "Daniel Radcliffe"
+      ],
+      "expl": [
+        "Benedict Cumberbatch gained widespread acclaim for portraying the brilliant detective Sherlock Holmes in the BBC television series \"Sherlock.\""
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "Benedict Cumberbatch",
+          "benedict",
+          "cumberbatch",
+          "benedict cumber batch",
+          "cumber batch"
+        ],
+        "option_b": [
+          "Tom Hiddleston",
+          "tom",
+          "hiddleston",
+          "hiddelstone"
+        ],
+        "option_c": [
+          "Daniel Radcliffe",
+          "daniel",
+          "radcliffe"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": ""
+    },
+    {
+      "id": "Trivia_Battle_B5_171",
+      "que": "Who is the bestselling music artist of all time?",
+      "ans": {
+        "value": "Elvis Presley",
+        "correct_entity": "option_b"
+      },
+      "options": [
+        "Michael Jackson",
+        "Elvis Presley",
+        "Madonna"
+      ],
+      "expl": [
+        "Elvis Presley, the bestselling artist ever, sold over a billion records worldwide. Known as the “King of Rock and Roll,” he also starred in 30+ films, proving his talent in both music and acting."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "Michael Jackson",
+          "michael",
+          "jackson"
+        ],
+        "option_b": [
+          "Elvis Presley",
+          "elvis",
+          "presley"
+        ],
+        "option_c": [
+          "Madonna",
+          "madona"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": ""
+    },
+    {
+      "id": "Trivia_Battle_B5_188",
+      "que": "What film won Steven Spielberg his first Academy Award for Best Director?",
+      "ans": {
+        "value": "Schindlers List",
+        "correct_entity": "option_c"
+      },
+      "options": [
+        "Jurassic Park",
+        "Jaws",
+        "Schindlers List"
+      ],
+      "expl": [
+        "“Schindler’s List,” directed by Steven Spielberg, won Best Director in 1994. The film tells Oskar Schindler’s true story of saving over a thousand Jews during the Holocaust."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "Jurassic Park",
+          "jurassic",
+          "park"
+        ],
+        "option_b": [
+          "Jaws",
+          "jaw"
+        ],
+        "option_c": [
+          "Schindlers List",
+          "schindlers",
+          "list",
+          "schindler list",
+          "schindler",
+          "schindler's list"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": ""
+    },
+    {
+      "id": "Trivia_Battle_B5_189",
+      "que": "Which horror author penned the apocalyptic novel \"The Stand\"?",
+      "ans": {
+        "value": "Stephen King",
+        "correct_entity": "option_a"
+      },
+      "options": [
+        "Stephen King",
+        "Dean Koontz",
+        "H. P. Lovecraft"
+      ],
+      "expl": [
+        "Stephen King’s “The Stand” (1978) is a post-apocalyptic tale about a deadly pandemic wiping out most of humanity. It’s one of King’s most acclaimed and influential works."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "Stephen King",
+          "stephen",
+          "king"
+        ],
+        "option_b": [
+          "Dean Koontz",
+          "dean",
+          "koontz"
+        ],
+        "option_c": [
+          "H. P. Lovecraft",
+          "h. b. lovecraft",
+          "h. p. love craft",
+          "h. p.",
+          "lovecraft",
+          "love craft"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": ""
+    },
+    {
+      "id": "Trivia_Battle_B5_190",
+      "que": "What popular young adult book series sends \"tributes\" to participate in a televised competition in which they fight to the death?",
+      "ans": {
+        "value": "The Hunger Games",
+        "correct_entity": "option_a"
+      },
+      "options": [
+        "The Hunger Games",
+        "Divergent",
+        "Twilight"
+      ],
+      "expl": [
+        "“The Hunger Games” by Suzanne Collins follows Katniss Everdeen, who fights for survival in a televised death match. The dystopian series became a global phenomenon."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "The Hunger Games",
+          "hunger",
+          "games",
+          "hunger game",
+          "hunger games",
+          "the hunger game"
+        ],
+        "option_b": [
+          "Divergent",
+          "diverge"
+        ],
+        "option_c": [
+          "Twilight",
+          "two light"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": ""
+    },
+    {
+      "id": "Trivia_Battle_B5_191",
+      "que": "What singer was called the \"Empress of the Blues\"?",
+      "ans": {
+        "value": "Bessie Smith",
+        "correct_entity": "option_c"
+      },
+      "options": [
+        "Billie Holiday",
+        "Ella Fitzgerald",
+        "Bessie Smith"
+      ],
+      "expl": [
+        "Bessie Smith, the “Empress of the Blues,” was a top 1920s–30s singer. Her powerful voice and emotion made her one of the most influential blues artists in history."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "Billie Holiday",
+          "billie",
+          "holiday",
+          "billy"
+        ],
+        "option_b": [
+          "Ella Fitzgerald",
+          "ella",
+          "fitzgerald",
+          "ila",
+          "ila fitzgerald"
+        ],
+        "option_c": [
+          "Bessie Smith",
+          "bessie",
+          "smith"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": ""
+    },
+    {
+      "id": "Trivia_Battle_B5_192",
+      "que": "How many Billboard #1 hits did Elvis have?",
+      "ans": {
+        "value": "18",
+        "correct_entity": "option_a"
+      },
+      "options": [
+        "18",
+        "32",
+        "27"
+      ],
+      "expl": [
+        "Elvis Presley, the “King of Rock and Roll,” had 22 Billboard #1 hits like “Hound Dog” and “Suspicious Minds,” cementing his legacy as one of music’s greatest icons."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "18"
+        ],
+        "option_b": [
+          "32",
+          "thirty two",
+          "three two"
+        ],
+        "option_c": [
+          "27",
+          "two seven",
+          "twenty seven"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": ""
+    },
+    {
+      "id": "Trivia_Battle_B5_193",
+      "que": "Who was the first \"American Idol\" winner?",
+      "ans": {
+        "value": "Kelly Clarkson",
+        "correct_entity": "option_a"
+      },
+      "options": [
+        "Kelly Clarkson",
+        "Carrie Underwood",
+        "Ruben Studdard"
+      ],
+      "expl": [
+        "Kelly Clarkson won the first “American Idol” in 2002. Her powerful vocals launched her to stardom, leading to a long, successful career as a chart-topping artist."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "Kelly Clarkson",
+          "kelly",
+          "clarkson"
+        ],
+        "option_b": [
+          "Carrie Underwood",
+          "carrie",
+          "underwood",
+          "carrie under wood",
+          "carry under wood",
+          "carry underwood"
+        ],
+        "option_c": [
+          "Ruben Studdard",
+          "ruben",
+          "studdard"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": ""
+    },
+    {
+      "id": "Trivia_Battle_B5_194",
+      "que": "What country does \"The Jungle Book\" take place in?",
+      "ans": {
+        "value": "India",
+        "correct_entity": "option_a"
+      },
+      "options": [
+        "India",
+        "Kenya",
+        "Brazil"
+      ],
+      "expl": [
+        "“The Jungle Book” by Rudyard Kipling follows Mowgli, a boy raised by wolves in India’s jungles, as he faces danger and learns life lessons from animal companions."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "India"
+        ],
+        "option_b": [
+          "Kenya"
+        ],
+        "option_c": [
+          "Brazil"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": ""
+    },
+    {
+      "id": "Trivia_Battle_B5_195",
+      "que": "How many Academy Awards did \"Titanic\" win?",
+      "ans": {
+        "value": "11",
+        "correct_entity": "option_b"
+      },
+      "options": [
+        "8",
+        "11",
+        "14"
+      ],
+      "expl": [
+        "“Titanic,” directed by James Cameron, won 11 Oscars in 1998. The romantic disaster film about the doomed ship captivated audiences with its story and visual effects."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "8",
+          "eight"
+        ],
+        "option_b": [
+          "11",
+          "eleven",
+          "one one"
+        ],
+        "option_c": [
+          "14",
+          "forteen",
+          "fourteen",
+          "one four"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": ""
+    },
+    {
+      "id": "Trivia_Battle_B5_196",
+      "que": "What TV series included the phrase \"Go where no man has gone before\" in its title sequence?",
+      "ans": {
+        "value": "Star Trek",
+        "correct_entity": "option_a"
+      },
+      "options": [
+        "Star Trek",
+        "Battlestar Galactica",
+        "The X-Files"
+      ],
+      "expl": [
+        "“Star Trek: The Next Generation” featured the phrase “Go where no man has gone before.” Set in the 24th century, the crew explores space aboard the Starship Enterprise."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "Star Trek",
+          "star",
+          "trek",
+          "stars treks"
+        ],
+        "option_b": [
+          "Battlestar Galactica",
+          "battlestar",
+          "galactica",
+          "battle star",
+          "battle star galactica"
+        ],
+        "option_c": [
+          "The X-Files",
+          "x. file",
+          "x files",
+          "x file",
+          "x-file",
+          "the x. files"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": ""
+    },
+    {
+      "id": "Trivia_Battle_B5_197",
+      "que": "Who wrote the 1891 novel \"The Picture of Dorian Gray\"?",
+      "ans": {
+        "value": "Oscar Wilde",
+        "correct_entity": "option_a"
+      },
+      "options": [
+        "Oscar Wilde",
+        "F. Scott Fitzgerald",
+        "Ernest Hemingway"
+      ],
+      "expl": [
+        "“The Picture of Dorian Gray” by Oscar Wilde tells of a man who stays young while his portrait ages. The story examines vanity, morality, and the cost of eternal beauty."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "Oscar Wilde",
+          "oscar",
+          "wilde",
+          "wild",
+          "oscar wild"
+        ],
+        "option_b": [
+          "F. Scott Fitzgerald",
+          "f.",
+          "scott",
+          "fitzgerald",
+          "f scott fitzgerald",
+          "scott fitzgerald"
+        ],
+        "option_c": [
+          "Ernest Hemingway",
+          "ernest",
+          "hemingway",
+          "heming way"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": ""
+    },
+    {
+      "id": "Trivia_Battle_B5_198",
+      "que": "Adam Levine is the lead singer of which pop rock band?",
+      "ans": {
+        "value": "Maroon 5",
+        "correct_entity": "option_a"
+      },
+      "options": [
+        "Maroon 5",
+        "Coldplay",
+        "Imagine Dragons"
+      ],
+      "expl": [
+        "Adam Levine, lead singer of Maroon 5, is known for hits like “Moves Like Jagger” and “Sugar.” His dynamic vocals and charisma made the band a global pop success."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "Maroon 5",
+          "maroon",
+          "five",
+          "maroon five"
+        ],
+        "option_b": [
+          "Coldplay",
+          "cold",
+          "play",
+          "cold play"
+        ],
+        "option_c": [
+          "Imagine Dragons",
+          "imagine",
+          "dragons",
+          "imagine dragon"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": ""
+    },
+    {
+      "id": "Trivia_Battle_B5_199",
+      "que": "What film won the Academy Award for Best Picture in 2019?",
+      "ans": {
+        "value": "Parasite",
+        "correct_entity": "option_a"
+      },
+      "options": [
+        "Parasite",
+        "1917",
+        "Joker"
+      ],
+      "expl": [
+        "“Parasite,” directed by Bong Joon Ho, won the 2019 Best Picture Oscar. It was the first non-English film to do so, praised for its sharp social commentary and direction."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "Parasite",
+          "parasites"
+        ],
+        "option_b": [
+          "1917",
+          "one nine one seven",
+          "nineteen seventeen",
+          "one thousand nine hundred and seventeen",
+          "one thousand nine hundred seventeen"
+        ],
+        "option_c": [
+          "Joker",
+          "jokers"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": ""
+    },
+    {
+      "id": "Trivia_Battle_B5_200",
+      "que": "Who is the lead vocalist of the rock band Queen?",
+      "ans": {
+        "value": "Freddie Mercury",
+        "correct_entity": "option_a"
+      },
+      "options": [
+        "Freddie Mercury",
+        "Mick Jagger",
+        "Robert Plant"
+      ],
+      "expl": [
+        "Freddie Mercury, lead singer of Queen, was famed for his powerful voice and flamboyant style. His performances and songs like “Bohemian Rhapsody” shaped rock music."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "Freddie Mercury",
+          "freddie",
+          "mercury"
+        ],
+        "option_b": [
+          "Mick Jagger",
+          "mick",
+          "jagger",
+          "make jagger"
+        ],
+        "option_c": [
+          "Robert Plant",
+          "robert",
+          "plant"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": ""
+    },
+    {
+      "id": "Trivia_Battle_B5_201",
+      "que": "Who painted the famous artwork \"The Starry Night\"?",
+      "ans": {
+        "value": "Vincent van Gogh",
+        "correct_entity": "option_a"
+      },
+      "options": [
+        "Vincent van Gogh",
+        "Leonardo da Vinci",
+        "Pablo Picasso"
+      ],
+      "expl": [
+        "Vincent van Gogh’s “The Starry Night” (1889) depicts a swirling sky above a village. Its vivid colors and bold brushwork make it one of the world’s most iconic paintings."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "Vincent van Gogh",
+          "vincent",
+          "van",
+          "gogh",
+          "vincent van",
+          "van gogh",
+          "gog"
+        ],
+        "option_b": [
+          "Leonardo da Vinci",
+          "leonardo",
+          "da",
+          "vinci"
+        ],
+        "option_c": [
+          "Pablo Picasso",
+          "pablo",
+          "picasso"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": ""
+    },
+    {
+      "id": "Trivia_Battle_B5_221",
+      "que": "Adam Levine is the lead singer of which pop rock band?",
+      "ans": {
+        "value": "Maroon 5",
+        "correct_entity": "option_a"
+      },
+      "options": [
+        "Maroon 5",
+        "Imagine Dragons",
+        "Coldplay"
+      ],
+      "expl": [
+        "Adam Levine is the lead singer of Maroon 5, known for hits like “Sugar” and “Moves Like Jagger,” defining pop rock with his unique voice."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "Maroon 5",
+          "maroon",
+          "five",
+          "maroon five"
+        ],
+        "option_b": [
+          "Imagine Dragons",
+          "imagine",
+          "dragons",
+          "imagine dragon"
+        ],
+        "option_c": [
+          "Coldplay",
+          "cold",
+          "play",
+          "cold play"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": ""
+    },
+    {
+      "id": "Trivia_Battle_B5_224",
+      "que": "Which was the first James Bond novel?",
+      "ans": {
+        "value": "Casino Royale",
+        "correct_entity": "option_a"
+      },
+      "options": [
+        "Casino Royale",
+        "Live and Let Die",
+        "Goldfinger"
+      ],
+      "expl": [
+        "Ian Fleming’s first James Bond novel, Casino Royale (1953), introduced Agent 007 battling Le Chiffre in a tense, high-stakes card game."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "Casino Royale",
+          "casino",
+          "royale",
+          "royal"
+        ],
+        "option_b": [
+          "Live and Let Die",
+          "live",
+          "let",
+          "die",
+          "live and let"
+        ],
+        "option_c": [
+          "Goldfinger",
+          "gold finger"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": ""
+    },
+    {
+      "id": "Trivia_Battle_B5_225",
+      "que": "Which country music singer was known as The Man in Black?",
+      "ans": {
+        "value": "Johnny Cash",
+        "correct_entity": "option_b"
+      },
+      "options": [
+        "Willie Nelson",
+        "Johnny Cash",
+        "Merle Haggard"
+      ],
+      "expl": [
+        "Johnny Cash, known as the “Man in Black,” was a legendary country singer famed for hits like “Ring of Fire” and “Folsom Prison Blues.”"
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "Willie Nelson",
+          "willie",
+          "nelson",
+          "willi nelson",
+          "willi",
+          "villi"
+        ],
+        "option_b": [
+          "Johnny Cash",
+          "johnny",
+          "cash"
+        ],
+        "option_c": [
+          "Merle Haggard",
+          "merle",
+          "haggard",
+          "marley",
+          "merley",
+          "merley haggard"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": ""
+    },
+    {
+      "id": "Trivia_Battle_B5_227",
+      "que": "Whose autobiography was titled Moonwalk?",
+      "ans": {
+        "value": "Michael Jackson",
+        "correct_entity": "option_b"
+      },
+      "options": [
+        "Neil Armstrong",
+        "Michael Jackson",
+        "Buzz Aldrin"
+      ],
+      "expl": [
+        "Michael Jackson’s autobiography, Moonwalk, explores his career and life. Its title comes from his iconic dance move, the Moonwalk."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "Neil Armstrong",
+          "neil",
+          "armstrong",
+          "nil",
+          "nil armstrong"
+        ],
+        "option_b": [
+          "Michael Jackson",
+          "michael",
+          "jackson"
+        ],
+        "option_c": [
+          "Buzz Aldrin",
+          "buzz",
+          "aldrin"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": ""
+    },
+    {
+      "id": "Trivia_Battle_B5_240",
+      "que": "What was the name of the dog in Tom and Jerry?",
+      "ans": {
+        "value": "Spike",
+        "correct_entity": "option_a"
+      },
+      "options": [
+        "Spike",
+        "Butch",
+        "Rover"
+      ],
+      "expl": [
+        "Spike, the bulldog in Tom and Jerry, protects his son Tyke and often clashes with Tom. Tough yet funny, Spike adds humor and heart to the classic cartoon’s chaotic adventures."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "Spike",
+          "spikes",
+          "spy"
+        ],
+        "option_b": [
+          "Butch"
+        ],
+        "option_c": [
+          "Rover"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": ""
+    },
+    {
+      "id": "Trivia_Battle_B5_245",
+      "que": "What is Captain Marvel's magic word?",
+      "ans": {
+        "value": "Shazam",
+        "correct_entity": "option_a"
+      },
+      "options": [
+        "Shazam",
+        "Avengers",
+        "Kree"
+      ],
+      "expl": [
+        "Captain Marvel transforms by saying “Shazam,” gaining powers like flight, strength, and energy projection. The word uniquely triggers her superhero identity and abilities."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "Shazam",
+          "shajam",
+          "shazaam"
+        ],
+        "option_b": [
+          "Avengers",
+          "avenger"
+        ],
+        "option_c": [
+          "Kree",
+          "three",
+          "kri",
+          "ree",
+          "cream"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": ""
+    },
+    {
+      "id": "Trivia_Battle_B5_257",
+      "que": "What kind of animal is Yoshi in the Nintendo video games?",
+      "ans": {
+        "value": "Dinosaur",
+        "correct_entity": "option_a"
+      },
+      "options": [
+        "Dinosaur",
+        "Monkey",
+        "Bird"
+      ],
+      "expl": [
+        "Yoshi, the beloved green dinosaur from Nintendo’s Mario series, debuted in Super Mario World. Known for his long tongue and cute style, he’s a fan-favorite companion."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "Dinosaur",
+          "dinosaurs"
+        ],
+        "option_b": [
+          "Monkey"
+        ],
+        "option_c": [
+          "Bird",
+          "birds"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": ""
+    },
+    {
+      "id": "Trivia_Battle_B5_258",
+      "que": "Which French composer wrote the music for the opera Carmen?",
+      "ans": {
+        "value": "Georges Bizet",
+        "correct_entity": "option_c"
+      },
+      "options": [
+        "Claude Debussy",
+        "Maurice Ravel",
+        "Georges Bizet"
+      ],
+      "expl": [
+        "Georges Bizet composed Carmen in 1875. This passionate French opera became one of the world’s most performed works, celebrated for its fiery music and dramatic storytelling."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "Claude Debussy",
+          "claude",
+          "debussy"
+        ],
+        "option_b": [
+          "Maurice Ravel",
+          "maurice",
+          "ravel",
+          "maverick's",
+          "morris travel",
+          "morris reven",
+          "morris ravel"
+        ],
+        "option_c": [
+          "Georges Bizet",
+          "georges",
+          "bizet",
+          "george's",
+          "george bijet",
+          "george widget",
+          "bridget",
+          "george bizet"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": ""
+    },
+    {
+      "id": "Trivia_Battle_B5_259",
+      "que": "Who sang the theme tune to the Bond movie No Time to Die?",
+      "ans": {
+        "value": "Billie Eilish",
+        "correct_entity": "option_b"
+      },
+      "options": [
+        "Adele",
+        "Billie Eilish",
+        "Sam Smith"
+      ],
+      "expl": [
+        "Billie Eilish performed No Time to Die for the Bond film of the same name. Her haunting voice and emotional lyrics perfectly matched the movie’s dark, tense mood."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "Adele"
+        ],
+        "option_b": [
+          "Billie Eilish",
+          "billie",
+          "eilish",
+          "billy"
+        ],
+        "option_c": [
+          "Sam Smith",
+          "sam",
+          "smith"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": ""
+    },
+    {
+      "id": "Trivia_Battle_B5_260",
+      "que": "Which novelist created the character James Bond?",
+      "ans": {
+        "value": "Ian Fleming",
+        "correct_entity": "option_b"
+      },
+      "options": [
+        "Agatha Christie",
+        "Ian Fleming",
+        "J. K. Rowling"
+      ],
+      "expl": [
+        "Ian Fleming created James Bond, debuting the spy in his 1953 novel Casino Royale. The suave British agent became a lasting pop-culture icon across books and films."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "Agatha Christie",
+          "agatha",
+          "christie"
+        ],
+        "option_b": [
+          "Ian Fleming",
+          "ian",
+          "fleming"
+        ],
+        "option_c": [
+          "J. K. Rowling",
+          "j. k.",
+          "rowling"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": ""
+    },
+    {
+      "id": "Trivia_Battle_B5_261",
+      "que": "What was the first video game to be played in space?",
+      "ans": {
+        "value": "Tetris",
+        "correct_entity": "option_b"
+      },
+      "options": [
+        "Pong",
+        "Tetris",
+        "Space Invaders"
+      ],
+      "expl": [
+        "Tetris was the first video game played in space. In 1993, Russian cosmonaut Aleksandr Serebrov played it aboard a mission, making the classic puzzle game truly universal."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "Pong"
+        ],
+        "option_b": [
+          "Tetris"
+        ],
+        "option_c": [
+          "Space Invaders",
+          "space",
+          "invaders",
+          "space invader"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": ""
+    },
+    {
+      "id": "Trivia_Battle_B5_262",
+      "que": "Who was the first animated character to receive a star on the Hollywood Walk of Fame?",
+      "ans": {
+        "value": "Mickey Mouse",
+        "correct_entity": "option_a"
+      },
+      "options": [
+        "Mickey Mouse",
+        "Jumbo",
+        "Snow White"
+      ],
+      "expl": [
+        "Mickey Mouse, created by Walt Disney, was the first cartoon character to earn a Hollywood Walk of Fame star in 1978, cementing his legacy in animation history."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "Mickey Mouse",
+          "mickey",
+          "mouse"
+        ],
+        "option_b": [
+          "Jumbo"
+        ],
+        "option_c": [
+          "Snow White",
+          "snow",
+          "white"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": ""
+    },
+    {
+      "id": "Trivia_Battle_B5_268",
+      "que": "What was the very first Pixar movie?",
+      "ans": {
+        "value": "Toy Story",
+        "correct_entity": "option_a"
+      },
+      "options": [
+        "Toy Story",
+        "Finding Nemo",
+        "Monsters, Inc."
+      ],
+      "expl": [
+        "Pixar’s first feature film, Toy Story (1995), was the first fully computer-animated movie. It became a massive success and established Pixar as an animation pioneer."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "Toy Story",
+          "toy",
+          "story"
+        ],
+        "option_b": [
+          "Finding Nemo",
+          "finding",
+          "nemo"
+        ],
+        "option_c": [
+          "Monsters, Inc.",
+          "monster incorporated",
+          "monsters incorporated",
+          "monster",
+          "incorporated",
+          "monster incorporate"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": ""
+    },
+    {
+      "id": "Trivia_Battle_B5_271",
+      "que": "Who holds the record for the most Academy Awards in history?",
+      "ans": {
+        "value": "Walt Disney",
+        "correct_entity": "option_b"
+      },
+      "options": [
+        "Meryl Streep",
+        "Walt Disney",
+        "Steven Spielberg"
+      ],
+      "expl": [
+        "Walt Disney won a record 22 Academy Awards, mostly for animated short films. His creative genius transformed animation and earned him unmatched Oscar recognition."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "Meryl Streep",
+          "meryl",
+          "streep"
+        ],
+        "option_b": [
+          "Walt Disney",
+          "walt",
+          "disney"
+        ],
+        "option_c": [
+          "Steven Spielberg",
+          "steven",
+          "spielberg",
+          "spellberg"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": ""
+    },
+    {
+      "id": "Trivia_Battle_B5_274",
+      "que": "What kind of animal is Bowser from Super Mario?",
+      "ans": {
+        "value": "Turtle",
+        "correct_entity": "option_a"
+      },
+      "options": [
+        "Turtle",
+        "Gorilla",
+        "Dragon"
+      ],
+      "expl": [
+        "Bowser, also known as King Koopa, is the main villain in the Super Mario series. This spiked, fire-breathing turtle is infamous for kidnapping Princess Peach and causing chaos in the Mushroom Kingdom."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "Turtle",
+          "turtles"
+        ],
+        "option_b": [
+          "Gorilla",
+          "gorillas"
+        ],
+        "option_c": [
+          "Dragon",
+          "dragons"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": ""
+    },
+    {
+      "id": "Trivia_Battle_B5_287",
+      "que": "What celebrity was married a whopping nine times?",
+      "ans": {
+        "value": "Zsa Zsa Gabor",
+        "correct_entity": "option_b"
+      },
+      "options": [
+        "Larry King",
+        "Zsa Zsa Gabor",
+        "Elizabeth Taylor"
+      ],
+      "expl": [
+        "Zsa Zsa Gabor, the glamorous actress and socialite, was known for her charm, luxury lifestyle, and nine marriages, including to Conrad Hilton and George Sanders. She died in 2016, aged 99."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "Larry King",
+          "larry",
+          "king",
+          "lary",
+          "lazy"
+        ],
+        "option_b": [
+          "Zsa Zsa Gabor",
+          "jha jha gabur",
+          "za za zaboor"
+        ],
+        "option_c": [
+          "Elizabeth Taylor",
+          "tailor",
+          "elizabeth",
+          "elizabeth tailor"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": ""
+    },
+    {
+      "id": "Trivia_Battle_B5_294",
+      "que": "What year was the first Barbie doll released?",
+      "ans": {
+        "value": "1959",
+        "correct_entity": "option_a"
+      },
+      "options": [
+        "1959",
+        "1964",
+        "1972"
+      ],
+      "expl": [
+        "Barbie debuted in 1959, created by Ruth Handler for Mattel. She became a global icon of fashion and imagination, inspiring countless variations, accessories, and films across generations."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "1959",
+          "one nine five nine",
+          "nineteen fifty nine",
+          "one thousand nine hundred and fifty nine",
+          "one thousand nine hundred fifty nine"
+        ],
+        "option_b": [
+          "1964",
+          "one nine six four",
+          "nineteen sixty four",
+          "one thousand nine hundred and sixty four",
+          "one thousand nine hundred sixty four"
+        ],
+        "option_c": [
+          "1972",
+          "one nine seven two",
+          "nineteen seventy two",
+          "one thousand nine hundred and seventy two",
+          "one thousand nine hundred seventy two"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": ""
+    },
+    {
+      "id": "Trivia_Battle_B5_297",
+      "que": "Which Broadway show announced it would close in 2023 after a 35-year run?",
+      "ans": {
+        "value": "Phantom of the Opera",
+        "correct_entity": "option_b"
+      },
+      "options": [
+        "Les Miserables",
+        "Phantom of the Opera",
+        "A Chorus Line"
+      ],
+      "expl": [
+        "Andrew Lloyd Webber’s The Phantom of the Opera, based on Gaston Leroux’s novel, opened in 1988 and ran 35 years on Broadway. It won 7 Tony Awards before closing in April 2023."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "Les Miserables",
+          "les",
+          "misérables",
+          "les misérables",
+          "miserables",
+          "less miserables"
+        ],
+        "option_b": [
+          "Phantom of the Opera",
+          "opera",
+          "phantom"
+        ],
+        "option_c": [
+          "A Chorus Line",
+          "uhhh chorus line",
+          "chorus",
+          "line",
+          "ahh chorus line",
+          "yay chorus line"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": ""
+    }
+  ],
+  "IMAGE_QUESTIONS": [],
+  "AUDIO_QUESTIONS": []
+}

@@ -1,0 +1,703 @@
+{
+  "TEXT_QUESTIONS": [
+    {
+      "id": "batch_1_row_3 (side table)",
+      "que": "On the periodic table, what is the only real element that is named after a U.S. state?",
+      "ans": {
+        "value": "Californium",
+        "correct_entity": "option_b"
+      },
+      "options": [
+        "Floridium",
+        "Californium",
+        "Michiganese"
+      ],
+      "expl": [
+        "Californium, a radioactive element symbolized by Cf, was created in 1950 by bombarding curium with alpha particles at UC Berkeley. It is a potent neutron emitter utilized in metal detectors, identifying water/oil layers in wells, gold/silver ores, and detecting metal fatigue and stress in airplanes. It is toxic and lacks a biological function."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "Floridium"
+        ],
+        "option_b": [
+          "Californium"
+        ],
+        "option_c": [
+          "Michiganese"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": ""
+    },
+    {
+      "id": "science_B1_1",
+      "que": "How long is your short-term memory?",
+      "ans": {
+        "value": "30 seconds",
+        "correct_entity": "option_a"
+      },
+      "options": [
+        "30 seconds",
+        "5 hours",
+        "10 minutes"
+      ],
+      "expl": [
+        "Short-term memory stores information briefly, from 15 to 30 seconds, and is used for various purposes like remembering a recipe or a sentence. It plays a vital role in everyday activities like conversations, taking orders, and following a process. Hence, short-term memory is an essential cognitive function."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "30 seconds",
+          "three zero seconds",
+          "thirty seconds",
+          "thirty second",
+          "three zero second",
+          "thirty"
+        ],
+        "option_b": [
+          "5 hours",
+          "five hours",
+          "five hour",
+          "five"
+        ],
+        "option_c": [
+          "10 minutes",
+          "ten minutes",
+          "ten minute",
+          "ten",
+          "one zero minute",
+          "one zero minutes",
+          "tens",
+          "one zero",
+          "one zeros"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": ""
+    },
+    {
+      "id": "science_B1_2",
+      "que": "What is the main component of the sun?",
+      "ans": {
+        "value": "Gas",
+        "correct_entity": "option_b"
+      },
+      "options": [
+        "Liquid lava",
+        "Gas",
+        "Rock"
+      ],
+      "expl": [
+        "The center of the Sun produces energy via nuclear fusion by converting hydrogen to helium. The Sun is predominantly composed of hydrogen (92%) and helium (8%), with a small amount of other elements found on Earth."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "Liquid lava",
+          "Liquid",
+          "lava"
+        ],
+        "option_b": [
+          "Gas"
+        ],
+        "option_c": [
+          "Rock",
+          "rocks",
+          "rocking"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": ""
+    },
+    {
+      "id": "science_B1_3",
+      "que": "What planet is known as the red planet?",
+      "ans": {
+        "value": "Mars",
+        "correct_entity": "option_c"
+      },
+      "options": [
+        "Saturn",
+        "Uranus",
+        "Mars"
+      ],
+      "expl": [
+        "The fourth planet from the Sun, Mars, known as the Red Planet, has a year of 687 Earth days and two small moons. It is about half the size of Earth, and its red color comes from rusty iron in the soil.\""
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "Saturn"
+        ],
+        "option_b": [
+          "Uranus"
+        ],
+        "option_c": [
+          "Mars"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": ""
+    },
+    {
+      "id": "science_B1_4",
+      "que": "Which of the following digits on your hand has its own pulse?",
+      "ans": {
+        "value": "Thumb",
+        "correct_entity": "option_a"
+      },
+      "options": [
+        "Thumb",
+        "Index finger",
+        "Ring finger"
+      ],
+      "expl": [
+        "When checking your pulse on your neck's carotid artery, you'll notice that doctors use their index and middle fingers instead of their thumbs, which have their own artery and can't accurately detect the pulse.\""
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "Thumb"
+        ],
+        "option_b": [
+          "Index finger",
+          "index"
+        ],
+        "option_c": [
+          "Ring finger",
+          "ring"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": ""
+    },
+    {
+      "id": "science_B1_5",
+      "que": "What is the medical term for the opposite side of the elbow?",
+      "ans": {
+        "value": "Cubital fossa",
+        "correct_entity": "option_c"
+      },
+      "options": [
+        "Pollex",
+        "Distal phalanx",
+        "Cubital fossa"
+      ],
+      "expl": [
+        "The cubital fossa, or \"elbow pit,\" is the area opposite the elbow joint. Its name comes from the Latin word for small pit or ditch. It is a common spot for medical procedures, with veins for blood draws, the radial nerve, biceps tendon, and brachial artery all located there."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "Pollex",
+          "poll x.",
+          "pollen"
+        ],
+        "option_b": [
+          "Distal phalanx",
+          "Distal",
+          "phalanx",
+          "phalnex"
+        ],
+        "option_c": [
+          "Cubital fossa",
+          "Cubital",
+          "fossa",
+          "cube",
+          "foss",
+          "fusa",
+          "cubetal fossa"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": ""
+    },
+    {
+      "id": "science_B1_6",
+      "que": "All astronauts who visit the International Space Station must learn what language?",
+      "ans": {
+        "value": "Russian",
+        "correct_entity": "option_a"
+      },
+      "options": [
+        "Russian",
+        "Mandarin",
+        "Sign language"
+      ],
+      "expl": [
+        "Although English is the official language of the International Space Station, astronauts must also learn to speak Russian as the Soyuz spacecraft, the only means of transportation since 2011, has all its controls in Russian. Achieving fluency requires extensive training."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "Russian",
+          "Russia"
+        ],
+        "option_b": [
+          "Mandarin"
+        ],
+        "option_c": [
+          "Sign language",
+          "Sign",
+          "language"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": ""
+    },
+    {
+      "id": "science_B1_7",
+      "que": "What is the smallest organ in the human body?",
+      "ans": {
+        "value": "Pineal gland",
+        "correct_entity": "option_a"
+      },
+      "options": [
+        "Pineal gland",
+        "Eyeball",
+        "Pharynx"
+      ],
+      "expl": [
+        "The tiny pineal gland, ranging from 5 to 8 millimeters, is located deep in the brain near the brain stem. It secretes melatonin, regulating sleep and wake cycles and responding to light. Its pinecone shape gave it its name, pronounced \"pin-ee-uhl.\""
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "Pineal gland",
+          "pineal",
+          "gland",
+          "pinyel"
+        ],
+        "option_b": [
+          "Eyeball",
+          "eyeballs",
+          "eye balls",
+          "eye ball",
+          "ball",
+          "balls",
+          "eye",
+          "eyes"
+        ],
+        "option_c": [
+          "Pharynx",
+          "fairings",
+          "fairlinks",
+          "pharnax",
+          "farnax"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": ""
+    },
+    {
+      "id": "science_B1_8",
+      "que": "What gives blood its red color?",
+      "ans": {
+        "value": "Hemoglobin",
+        "correct_entity": "option_a"
+      },
+      "options": [
+        "Hemoglobin",
+        "Platelets",
+        "Plasma"
+      ],
+      "expl": [
+        "Hemoglobin, a complex protein with iron, is present in red blood cells and gives blood its red color. It carries oxygen to body tissues and exchanges it with carbon dioxide, which it then transports back to the lungs."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "Hemoglobin",
+          "hemo",
+          "globin",
+          "hemeogloabin"
+        ],
+        "option_b": [
+          "Platelets",
+          "platelate",
+          "palate",
+          "plate",
+          "plates",
+          "plate let",
+          "plate late"
+        ],
+        "option_c": [
+          "Plasma"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": ""
+    },
+    {
+      "id": "science_B1_9",
+      "que": "The wind on which planet can blow up to 1,500 miles per hour?",
+      "ans": {
+        "value": "Neptune",
+        "correct_entity": "option_a"
+      },
+      "options": [
+        "Neptune",
+        "Saturn",
+        "Jupiter"
+      ],
+      "expl": [
+        "Neptune, the farthest planet from the Sun, has freezing temperatures of -218°C and violent weather with winds clocked at 1,500 mph. Its orbit takes almost 165 Earth years, completing its first orbit since discovery in 1846 in 2011."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "Neptune"
+        ],
+        "option_b": [
+          "Saturn"
+        ],
+        "option_c": [
+          "Jupiter",
+          "jupiters"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": ""
+    },
+    {
+      "id": "science_B1_10",
+      "que": "Which planet has the longest day?",
+      "ans": {
+        "value": "Venus",
+        "correct_entity": "option_a"
+      },
+      "options": [
+        "Venus",
+        "Mars",
+        "Jupiter"
+      ],
+      "expl": [
+        "Venus has a unique rotation where a day on Venus is longer than a year on Venus. Venus spins in the opposite direction of all other planets in our solar system except Uranus. This means the Sun rises in the west and sets in the east if you were standing on Venus."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "Venus"
+        ],
+        "option_b": [
+          "Mars",
+          "mar",
+          "red planet"
+        ],
+        "option_c": [
+          "Jupiter",
+          "jupiters"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": ""
+    },
+    {
+      "id": "science_B1_11",
+      "que": "What vegetable grows fast enough that you can actually hear it?",
+      "ans": {
+        "value": "Rhubarb",
+        "correct_entity": "option_b"
+      },
+      "options": [
+        "Radishes",
+        "Rhubarb",
+        "Parsnips"
+      ],
+      "expl": [
+        "Forced rhubarb, grown in the dark, grows at an incredible rate of up to an inch per day, resulting in stalks brushing against each other to create audible sounds such as squeaks, crackles, and pops."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "Radishes",
+          "radish",
+          "radishies"
+        ],
+        "option_b": [
+          "Rhubarb",
+          "rhubab"
+        ],
+        "option_c": [
+          "Parsnips",
+          "Parnips",
+          "parsnip",
+          "parnip"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": ""
+    },
+    {
+      "id": "science_B1_12",
+      "que": "Which planet has the most moons?",
+      "ans": {
+        "value": "Jupiter",
+        "correct_entity": "option_a"
+      },
+      "options": [
+        "Jupiter",
+        "Venus",
+        "Neptune"
+      ],
+      "expl": [
+        "Jupiter Reclaims Title of Planet With the Most Moons. Jupiter had a total of 79 known moons as of 2021. Astronomers discovered 12 additional moons of Jupiter, raising its total number of known natural satellites to 92."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "Jupiter"
+        ],
+        "option_b": [
+          "Venus",
+          "2nd planet"
+        ],
+        "option_c": [
+          "Neptune"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": ""
+    },
+    {
+      "id": "science_B1_13",
+      "que": "Where is the smallest bone in the body?",
+      "ans": {
+        "value": "Ear",
+        "correct_entity": "option_b"
+      },
+      "options": [
+        "Nose",
+        "Ear",
+        "Finger"
+      ],
+      "expl": [
+        "The smallest bone in the human body is called the stapes or stirrup bone, and it is located in the middle ear. The stapes bone is only about 3 millimeters long in adults and is shaped like a stirrup, hence its nickname."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "Nose"
+        ],
+        "option_b": [
+          "Ear",
+          "ears",
+          "year",
+          "years",
+          "yours"
+        ],
+        "option_c": [
+          "Finger",
+          "fingers"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": ""
+    },
+    {
+      "id": "science_B1_14",
+      "que": "Which organ has the same size during birth and death?",
+      "ans": {
+        "value": "Eyes",
+        "correct_entity": "option_c"
+      },
+      "options": [
+        "Ears",
+        "Nose",
+        "Eyes"
+      ],
+      "expl": [
+        "The size of the human eyeball remains relatively constant throughout a person's life, from birth to death. The eyeball of a newborn baby is about two-thirds the size of an adult eyeball and grows very little during the course of a person's lifetime."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "Ears",
+          "ear",
+          "year",
+          "years",
+          "yours"
+        ],
+        "option_b": [
+          "Nose"
+        ],
+        "option_c": [
+          "Eyes",
+          "Eye",
+          "ice",
+          "axe"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": ""
+    },
+    {
+      "id": "science_B1_15",
+      "que": "Which planet rotates in a clockwise direction?",
+      "ans": {
+        "value": "Venus",
+        "correct_entity": "option_b"
+      },
+      "options": [
+        "Saturn",
+        "Venus",
+        "Mars"
+      ],
+      "expl": [
+        "Venus is the only planet in our solar system that rotates in a clockwise direction. This means that if you could observe Venus from above its North Pole, it would appear to be rotating in the opposite direction to the other planets."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "Saturn",
+          "satur"
+        ],
+        "option_b": [
+          "Venus",
+          "2nd planet"
+        ],
+        "option_c": [
+          "Mars",
+          "mar",
+          "red planet"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": ""
+    },
+    {
+      "id": "science_B1_16",
+      "que": "What is the largest internal organ in the body?",
+      "ans": {
+        "value": "Liver",
+        "correct_entity": "option_b"
+      },
+      "options": [
+        "Small intestine",
+        "Liver",
+        "Heart"
+      ],
+      "expl": [
+        "The largest internal organ in the human body is the liver, located on the right side beneath the diaphragm. It detoxifies blood, produces bile, stores glucose, and makes proteins. Remarkably it can regenerate itself if damaged or partially removed."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "Small intestine",
+          "Small",
+          "intestine"
+        ],
+        "option_b": [
+          "Liver",
+          "livers"
+        ],
+        "option_c": [
+          "Heart",
+          "hurt",
+          "heartbeat"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": ""
+    },
+    {
+      "id": "science_B1_17",
+      "que": "What is the smallest unit of life?",
+      "ans": {
+        "value": "Cell",
+        "correct_entity": "option_c"
+      },
+      "options": [
+        "Molecule",
+        "Atom",
+        "Cell"
+      ],
+      "expl": [
+        "The smallest unit of life is the cell, which is the basic structural and functional unit of all living organisms. Cells can be unicellular or form multicellular organisms, and they carry out all the processes necessary for life."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "Molecule",
+          "Molecules"
+        ],
+        "option_b": [
+          "Atom",
+          "atoms"
+        ],
+        "option_c": [
+          "Cell",
+          "sell",
+          "sale"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": ""
+    },
+    {
+      "id": "science_B1_18",
+      "que": "What is the most abundant gas in the Earth's atmosphere?",
+      "ans": {
+        "value": "Nitrogen",
+        "correct_entity": "option_b"
+      },
+      "options": [
+        "Oxygen",
+        "Nitrogen",
+        "Carbon dioxide"
+      ],
+      "expl": [
+        "The most abundant gas in Earth's atmosphere is nitrogen (N2), which makes up about 78% of the air we breathe. Oxygen (O2) is the second most abundant gas, making up around 21% of the atmosphere, while the remaining 1% is made up of trace gases like argon, carbon dioxide, neon, and helium."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "Oxygen",
+          "o. 2",
+          "o2",
+          "o. two",
+          "o. too"
+        ],
+        "option_b": [
+          "Nitrogen",
+          "nitro",
+          "N2"
+        ],
+        "option_c": [
+          "Carbon dioxide",
+          "c. o. two",
+          "c. o. too",
+          "carbon",
+          "dioxide",
+          "di oxide",
+          "oxide",
+          "co2"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": ""
+    }
+  ],
+  "IMAGE_QUESTIONS": [],
+  "AUDIO_QUESTIONS": []
+}

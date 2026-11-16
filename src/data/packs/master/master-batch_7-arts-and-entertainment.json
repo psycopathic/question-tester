@@ -1,0 +1,7200 @@
+{
+  "TEXT_QUESTIONS": [
+    {
+      "id": "arts-and-entertainment_B7_1",
+      "que": "Which 2023 movie won the Oscar for Best Picture?",
+      "ans": {
+        "value": "Everything Everywhere",
+        "correct_entity": "option_b"
+      },
+      "options": [
+        "Top Gun",
+        "Everything Everywhere",
+        "Avatar 2"
+      ],
+      "expl": [
+        "“Everything Everywhere All at Once” won Best Picture at the 2023 Oscars. The film blends sci-fi, action, comedy, and emotion through a multiverse storyline. It surprised many by dominating the awards with seven total wins."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "Top Gun",
+          "Top",
+          "Gun"
+        ],
+        "option_b": [
+          "Everything Everywhere",
+          "Everything",
+          "Everywhere"
+        ],
+        "option_c": [
+          "Avatar 2",
+          "Avatar",
+          "2",
+          "avatar two"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": ""
+    },
+    {
+      "id": "arts-and-entertainment_B7_2",
+      "que": "Which 2022 film shattered global box office records?",
+      "ans": {
+        "value": "Top Gun",
+        "correct_entity": "option_b"
+      },
+      "options": [
+        "Avatar 2",
+        "Top Gun",
+        "Jurassic World"
+      ],
+      "expl": [
+        "“Top Gun: Maverick” dominated the box office in 2022, earning over $1.4 billion worldwide. The sequel brought Tom Cruise back as fighter pilot Maverick after 36 years. It revived interest in big-screen cinema after the pandemic."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "Avatar 2",
+          "Avatar",
+          "2",
+          "avatar two",
+          "two"
+        ],
+        "option_b": [
+          "Top Gun",
+          "Top",
+          "Gun"
+        ],
+        "option_c": [
+          "Jurassic World",
+          "Jurassic",
+          "World"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": ""
+    },
+    {
+      "id": "arts-and-entertainment_B7_3",
+      "que": "Who hosted the Oscars in 2024?",
+      "ans": {
+        "value": "Jimmy Kimmel",
+        "correct_entity": "option_a"
+      },
+      "options": [
+        "Jimmy Kimmel",
+        "Trevor Noah",
+        "Chris Rock"
+      ],
+      "expl": [
+        "Jimmy Kimmel hosted the 2024 Oscars, continuing his recurring role as the show’s host. He is known for mixing humor with light roasting of celebrities. 2024 marked his fourth time hosting the ceremony."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "Jimmy Kimmel",
+          "Jimmy",
+          "Kimmel"
+        ],
+        "option_b": [
+          "Trevor Noah",
+          "trevor",
+          "noah"
+        ],
+        "option_c": [
+          "Chris Rock",
+          "Chris",
+          "Rock"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": ""
+    },
+    {
+      "id": "arts-and-entertainment_B7_4",
+      "que": "Who won Miss Universe 2023?",
+      "ans": {
+        "value": "Nicaragua",
+        "correct_entity": "option_c"
+      },
+      "options": [
+        "USA",
+        "India",
+        "Nicaragua"
+      ],
+      "expl": [
+        "Sheynnis Palacios of Nicaragua won the Miss Universe 2023 crown. She became the first woman from Nicaragua to take the title. Her victory was celebrated with national pride and global recognition."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "USA",
+          "United State",
+          "u. s.",
+          "us",
+          "u. s. a.",
+          "united states of america"
+        ],
+        "option_b": [
+          "India"
+        ],
+        "option_c": [
+          "Nicaragua"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": ""
+    },
+    {
+      "id": "arts-and-entertainment_B7_5",
+      "que": "Who directed the film 'Oppenheimer'?",
+      "ans": {
+        "value": "Nolan",
+        "correct_entity": "option_a"
+      },
+      "options": [
+        "Nolan",
+        "Spielberg",
+        "Villeneuve"
+      ],
+      "expl": [
+        "Christopher Nolan directed the 2023 film “Oppenheimer,” based on the father of the atomic bomb. The movie used practical effects instead of CGI to recreate nuclear tests. It became one of Nolan’s most critically praised films."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "Nolan"
+        ],
+        "option_b": [
+          "Spielberg",
+          "spill burg"
+        ],
+        "option_c": [
+          "Villeneuve",
+          "millennial",
+          "millennium"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": ""
+    },
+    {
+      "id": "arts-and-entertainment_B7_6",
+      "que": "Which movie won the Academy Award for Best Animated Feature in 2023?",
+      "ans": {
+        "value": "Guillermo's Pinocchio",
+        "correct_entity": "option_b"
+      },
+      "options": [
+        "Turning Red",
+        "Guillermo's Pinocchio",
+        "Puss in Boots"
+      ],
+      "expl": [
+        "Guillermo del Toro’s “Pinocchio” won Best Animated Feature at the 2023 Oscars. It used hand-crafted stop-motion animation instead of CGI. The film was praised for its darker storytelling and artistic style."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "Turning Red",
+          "Turning",
+          "Red",
+          "turn"
+        ],
+        "option_b": [
+          "Guillermo's Pinocchio",
+          "Guillermo's",
+          "Pinocchio"
+        ],
+        "option_c": [
+          "Puss in Boots",
+          "Puss",
+          "in",
+          "Boots",
+          "pause in boots"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": ""
+    },
+    {
+      "id": "arts-and-entertainment_B7_7",
+      "que": "What is the name of Harry Potter's owl?",
+      "ans": {
+        "value": "Hedwig",
+        "correct_entity": "option_a"
+      },
+      "options": [
+        "Hedwig",
+        "Errol",
+        "Crookshanks"
+      ],
+      "expl": [
+        "Harry Potter’s owl is named Hedwig, a snowy owl given to him on his 11th birthday. She delivers letters and becomes one of his closest companions. Hedwig is often seen as a symbol of loyalty in the series."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "Hedwig",
+          "hed wick"
+        ],
+        "option_b": [
+          "Errol",
+          "error",
+          "iran"
+        ],
+        "option_c": [
+          "Crookshanks",
+          "crook shank"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": ""
+    },
+    {
+      "id": "arts-and-entertainment_B7_8",
+      "que": "Who created Sherlock Holmes?",
+      "ans": {
+        "value": "Arthur Conan Doyle",
+        "correct_entity": "option_c"
+      },
+      "options": [
+        "Agatha Christie",
+        "J. K. Rowling",
+        "Arthur Conan Doyle"
+      ],
+      "expl": [
+        "Sherlock Holmes was created by British author Sir Arthur Conan Doyle in 1887. The character became one of the most famous detectives in literature. Holmes has appeared in books, films, TV shows, and even video games."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "Agatha Christie",
+          "christie",
+          "agatha"
+        ],
+        "option_b": [
+          "J. K. Rowling",
+          "J.",
+          "K.",
+          "Rowling"
+        ],
+        "option_c": [
+          "Arthur Conan Doyle",
+          "Arthur",
+          "Conan",
+          "Doyle"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": ""
+    },
+    {
+      "id": "arts-and-entertainment_B7_9",
+      "que": "What genre is 'The Hobbit'?",
+      "ans": {
+        "value": "Fantasy",
+        "correct_entity": "option_a"
+      },
+      "options": [
+        "Fantasy",
+        "Mystery",
+        "Romance"
+      ],
+      "expl": [
+        "The Hobbit by J.R.R. Tolkien is a fantasy novel first published in 1937. It follows Bilbo Baggins on an unexpected adventure filled with dwarves, dragons, and magical creatures. The book later set the stage for The Lord of the Rings trilogy."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "Fantasy"
+        ],
+        "option_b": [
+          "Mystery"
+        ],
+        "option_c": [
+          "Romance"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": ""
+    },
+    {
+      "id": "arts-and-entertainment_B7_10",
+      "que": "Which artist sang 'Blinding Lights'?",
+      "ans": {
+        "value": "The Weeknd",
+        "correct_entity": "option_a"
+      },
+      "options": [
+        "The Weeknd",
+        "Drake",
+        "Bruno Mars"
+      ],
+      "expl": [
+        "The Weeknd released Blinding Lights in 2019, and it became one of the biggest hits of the 2020s. The song broke Billboard chart records for most weeks in the Top 10. It also went viral on TikTok thanks to its signature dance challenge."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "The Weeknd",
+          "the weekend",
+          "week end",
+          "weekend",
+          "week",
+          "end"
+        ],
+        "option_b": [
+          "Drake"
+        ],
+        "option_c": [
+          "Bruno Mars",
+          "Bruno",
+          "Mars"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": ""
+    },
+    {
+      "id": "arts-and-entertainment_B7_11",
+      "que": "Which superhero wields a magical hammer?",
+      "ans": {
+        "value": "Thor",
+        "correct_entity": "option_b"
+      },
+      "options": [
+        "Iron Man",
+        "Thor",
+        "Hulk"
+      ],
+      "expl": [
+        "Thor is the superhero who wields the magical hammer Mjölnir. He comes from Norse mythology and appears in Marvel comics and movies. Only the “worthy” can lift his hammer — a running joke in the Marvel films."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "Iron Man",
+          "Iron",
+          "man"
+        ],
+        "option_b": [
+          "Thor",
+          "thar"
+        ],
+        "option_c": [
+          "Hulk"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": ""
+    },
+    {
+      "id": "arts-and-entertainment_B7_12",
+      "que": "Which movie features Elsa and Anna?",
+      "ans": {
+        "value": "Frozen",
+        "correct_entity": "option_b"
+      },
+      "options": [
+        "Moana",
+        "Frozen",
+        "Tangled"
+      ],
+      "expl": [
+        "Frozen is the Disney movie featuring sisters Elsa and Anna, released in 2013. The film became famous for the song “Let It Go,” which won an Oscar. It later inspired a sequel, a Broadway musical, and endless Halloween costumes."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "Moana"
+        ],
+        "option_b": [
+          "Frozen"
+        ],
+        "option_c": [
+          "Tangled",
+          "tangle"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": ""
+    },
+    {
+      "id": "arts-and-entertainment_B7_13",
+      "que": "Who is the singer of 'Shake It Off'?",
+      "ans": {
+        "value": "Taylor Swift",
+        "correct_entity": "option_c"
+      },
+      "options": [
+        "Selena Gomez",
+        "Ariana Grande",
+        "Taylor Swift"
+      ],
+      "expl": [
+        "Taylor Swift released Shake It Off in 2014 as part of her album 1989. The song marked her full transition from country to pop music. It became one of her biggest hits and an anthem about ignoring critics."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "Selena Gomez",
+          "Selena",
+          "Gomez",
+          "gomes"
+        ],
+        "option_b": [
+          "Ariana Grande",
+          "Ariana",
+          "Grande"
+        ],
+        "option_c": [
+          "Taylor Swift",
+          "taylor",
+          "swift"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": ""
+    },
+    {
+      "id": "arts-and-entertainment_B7_14",
+      "que": "Which movie features the character Iron Man?",
+      "ans": {
+        "value": "Avengers",
+        "correct_entity": "option_b"
+      },
+      "options": [
+        "Spider-Man",
+        "Avengers",
+        "Black Panther"
+      ],
+      "expl": [
+        "Iron Man is a key character in The Avengers movie series, part of the Marvel Cinematic Universe. Played by Robert Downey Jr., he helped launch the MCU in 2008. His character arc ends in Avengers: Endgame (2019)."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "Spider-Man",
+          "Spider Man",
+          "spider",
+          "man"
+        ],
+        "option_b": [
+          "Avengers",
+          "Avenger"
+        ],
+        "option_c": [
+          "Black Panther",
+          "Black",
+          "Panther"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": ""
+    },
+    {
+      "id": "arts-and-entertainment_B7_15",
+      "que": "Who wrote 'Romeo and Juliet'?",
+      "ans": {
+        "value": "Shakespeare",
+        "correct_entity": "option_a"
+      },
+      "options": [
+        "Shakespeare",
+        "Dickens",
+        "Twain"
+      ],
+      "expl": [
+        "William Shakespeare wrote Romeo and Juliet in the late 1500s. It is one of the most famous tragedies ever written, telling the story of two young lovers from rival families. The play has been adapted into films, ballets, and even modern musicals."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "Shakespeare",
+          "shakespear"
+        ],
+        "option_b": [
+          "Dickens",
+          "Dicken"
+        ],
+        "option_c": [
+          "Twain",
+          "twin"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": ""
+    },
+    {
+      "id": "arts-and-entertainment_B7_16",
+      "que": "Which band featured guitarist Bernard Butler?",
+      "ans": {
+        "value": "Suede",
+        "correct_entity": "option_b"
+      },
+      "options": [
+        "Blur",
+        "Suede",
+        "Oasis"
+      ],
+      "expl": [
+        "Bernard Butler was the celebrated lead guitarist for the British band Suede, part of the 1990s Britpop movement. His distinctive playing helped shape their early sound, especially on hits like “Animal Nitrate.” He later worked with artists like Duffy and The Libertines."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "Blur"
+        ],
+        "option_b": [
+          "Suede"
+        ],
+        "option_c": [
+          "Oasis"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": ""
+    },
+    {
+      "id": "arts-and-entertainment_B7_17",
+      "que": "Which artist invented the color 'Olo'?",
+      "ans": {
+        "value": "Semple",
+        "correct_entity": "option_a"
+      },
+      "options": [
+        "Semple",
+        "Banksy",
+        "Koons"
+      ],
+      "expl": [
+        "In 2024, artist Stuart Semple released “Olo,” a super-bright, highly saturated paint color that quickly went viral online. Semple is known for making colors “for everyone,” including the world’s pinkest pink. The color was partly a playful jab at exclusive art materials."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "Semple",
+          "sampel",
+          "sample",
+          "simple",
+          "simpel"
+        ],
+        "option_b": [
+          "Banksy",
+          "bank"
+        ],
+        "option_c": [
+          "Koons",
+          "cones"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": ""
+    },
+    {
+      "id": "arts-and-entertainment_B7_18",
+      "que": "Which movie won Best Picture in 2024?",
+      "ans": {
+        "value": "Oppenheimer",
+        "correct_entity": "option_a"
+      },
+      "options": [
+        "Oppenheimer",
+        "Barbie",
+        "Killers of the Flower Moon"
+      ],
+      "expl": [
+        "Oppenheimer won the Academy Award for Best Picture at the 2024 Oscars. Directed by Christopher Nolan, the film explores the life of J. Robert Oppenheimer and the creation of the atomic bomb. It also won multiple technical awards."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "Oppenheimer",
+          "open hymer",
+          "open himer",
+          "open",
+          "heimer",
+          "open heimer"
+        ],
+        "option_b": [
+          "Barbie"
+        ],
+        "option_c": [
+          "Killers of the Flower Moon",
+          "Killers",
+          "Flower",
+          "Moon"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": ""
+    },
+    {
+      "id": "arts-and-entertainment_B7_19",
+      "que": "Who won Best Actor at the 2024 Oscars?",
+      "ans": {
+        "value": "Cillian Murphy",
+        "correct_entity": "option_a"
+      },
+      "options": [
+        "Cillian Murphy",
+        "Brad Pitt",
+        "Paul Giamatti"
+      ],
+      "expl": [
+        "Cillian Murphy won Best Actor for his portrayal of J. Robert Oppenheimer in “Oppenheimer.” It was his first Oscar win after decades in film. His performance was widely praised for its intensity and emotional weight."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "Cillian Murphy",
+          "Cillian",
+          "Murphy"
+        ],
+        "option_b": [
+          "Brad Pitt",
+          "Brad",
+          "Pitt"
+        ],
+        "option_c": [
+          "Paul Giamatti",
+          "Paul",
+          "Giamatti"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": ""
+    },
+    {
+      "id": "arts-and-entertainment_B7_20",
+      "que": "Who played Ken in 'Barbie' (2023)?",
+      "ans": {
+        "value": "Ryan Gosling",
+        "correct_entity": "option_a"
+      },
+      "options": [
+        "Ryan Gosling",
+        "Chris Evans",
+        "Tom Holland"
+      ],
+      "expl": [
+        "Ryan Gosling played Ken in the 2023 movie “Barbie,” opposite Margot Robbie. His performance became a pop-culture favorite, even earning him an Oscar nomination. The soundtrack song “I’m Just Ken” also went viral."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "Ryan Gosling",
+          "Ryan",
+          "Gosling",
+          "ghostling",
+          "rian",
+          "rian ghostling",
+          "ryan ghostling"
+        ],
+        "option_b": [
+          "Chris Evans",
+          "chris",
+          "evans",
+          "chris evan"
+        ],
+        "option_c": [
+          "Tom Holland",
+          "Tom",
+          "Holland"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": ""
+    },
+    {
+      "id": "arts-and-entertainment_B7_21",
+      "que": "Which 2023 film centers on the first atomic-bomb test?",
+      "ans": {
+        "value": "Oppenheimer",
+        "correct_entity": "option_a"
+      },
+      "options": [
+        "Oppenheimer",
+        "Dune",
+        "Tenet"
+      ],
+      "expl": [
+        "The 2023 film Oppenheimer follows the development of the first atomic bomb during World War II. It focuses on physicist J. Robert Oppenheimer and the 1945 Trinity test in New Mexico. The movie was shot using IMAX cameras for historical realism."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "Oppenheimer",
+          "open hymer",
+          "open himer",
+          "open",
+          "heimer",
+          "open heimer"
+        ],
+        "option_b": [
+          "Dune"
+        ],
+        "option_c": [
+          "Tenet"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": ""
+    },
+    {
+      "id": "arts-and-entertainment_B7_22",
+      "que": "Which movie won Best Animated Film 2024?",
+      "ans": {
+        "value": "Spider-Verse 2",
+        "correct_entity": "option_c"
+      },
+      "options": [
+        "Elemental",
+        "Nimona",
+        "Spider-Verse 2"
+      ],
+      "expl": [
+        "Spider-Man: Across the Spider-Verse won Best Animated Film in 2024. The sequel expanded the multiverse story with new Spider-heroes and groundbreaking animation styles. It became one of the highest-rated animated films ever made."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "Elemental",
+          "element"
+        ],
+        "option_b": [
+          "Nimona"
+        ],
+        "option_c": [
+          "Spider-Verse 2",
+          "Spider-Verse",
+          "2",
+          "spider verse",
+          "spider",
+          "verse",
+          "spider verse two"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": ""
+    },
+    {
+      "id": "arts-and-entertainment_B7_23",
+      "que": "Which filmmaker directed the 2023 'Barbie' movie?",
+      "ans": {
+        "value": "Greta Gerwig",
+        "correct_entity": "option_a"
+      },
+      "options": [
+        "Greta Gerwig",
+        "Chloe Zhao",
+        "Sofia Coppola"
+      ],
+      "expl": [
+        "Greta Gerwig directed the 2023 blockbuster “Barbie,” which became the highest-grossing film ever by a female director. The movie mixed satire, comedy, and feminist themes. It crossed $1 billion at the global box office."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "Greta Gerwig",
+          "Greta",
+          "Gerwig"
+        ],
+        "option_b": [
+          "Chloe Zhao",
+          "Chloé",
+          "Zhao",
+          "Chloé Zhao",
+          "slow down"
+        ],
+        "option_c": [
+          "Sofia Coppola",
+          "Sofia",
+          "Coppola",
+          "sofia chopra"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": ""
+    },
+    {
+      "id": "arts-and-entertainment_B7_24",
+      "que": "Who voiced Mario in the 2023 film 'The Super Mario Bros. Movie'?",
+      "ans": {
+        "value": "Chris Pratt",
+        "correct_entity": "option_a"
+      },
+      "options": [
+        "Chris Pratt",
+        "Tom Holland",
+        "John Mulaney"
+      ],
+      "expl": [
+        "Chris Pratt voiced Mario in the 2023 animated “Super Mario Bros. Movie.” The film became a massive box-office hit, earning over $1 billion worldwide. It also featured Jack Black as Bowser and Anya Taylor-Joy as Princess Peach."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "Chris Pratt",
+          "Chris",
+          "Pratt"
+        ],
+        "option_b": [
+          "Tom Holland",
+          "Tom",
+          "Holland"
+        ],
+        "option_c": [
+          "John Mulaney",
+          "John",
+          "Mulaney",
+          "joan"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": ""
+    },
+    {
+      "id": "arts-and-entertainment_B7_25",
+      "que": "Which movie stars Florence Pugh and Cillian Murphy?",
+      "ans": {
+        "value": "Oppenheimer",
+        "correct_entity": "option_b"
+      },
+      "options": [
+        "Dune 2",
+        "Oppenheimer",
+        "The Marvels"
+      ],
+      "expl": [
+        "Oppenheimer features both Florence Pugh and Cillian Murphy in key roles. Pugh plays psychiatrist Jean Tatlock, while Murphy stars as Oppenheimer himself. Their on-screen dynamic added emotional depth to the story."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "Dune 2",
+          "Dune",
+          "2",
+          "dune two"
+        ],
+        "option_b": [
+          "Oppenheimer",
+          "open hymer",
+          "open himer",
+          "open",
+          "heimer",
+          "open heimer"
+        ],
+        "option_c": [
+          "The Marvels",
+          "Marvels",
+          "Marvel"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": ""
+    },
+    {
+      "id": "arts-and-entertainment_B7_26",
+      "que": "Which 2024 film was based on a Roald Dahl story?",
+      "ans": {
+        "value": "Wonka",
+        "correct_entity": "option_a"
+      },
+      "options": [
+        "Wonka",
+        "The Witches",
+        "Matilda"
+      ],
+      "expl": [
+        "Wonka (2024) is based on the early life of Willy Wonka, the fictional chocolatier created by Roald Dahl. The film stars Timothée Chalamet and serves as a prequel to “Charlie and the Chocolate Factory.” It explores how Wonka built his magical candy empire."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "Wonka",
+          "vonka"
+        ],
+        "option_b": [
+          "The Witches",
+          "Witches"
+        ],
+        "option_c": [
+          "Matilda"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": ""
+    },
+    {
+      "id": "arts-and-entertainment_B7_27",
+      "que": "Which 2024 release is a sequel to 'Dune'?",
+      "ans": {
+        "value": "Dune 2",
+        "correct_entity": "option_a"
+      },
+      "options": [
+        "Dune 2",
+        "Dune Messiah",
+        "Arrakis"
+      ],
+      "expl": [
+        "Dune: Part Two (2024) continues the story from the 2021 adaptation of Frank Herbert’s sci-fi novel. It follows Paul Atreides as he embraces the Fremen and rises against House Harkonnen. The film was praised for its massive scale and visuals."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "Dune 2",
+          "Dune",
+          "2",
+          "dune two",
+          "dhoom two"
+        ],
+        "option_b": [
+          "Dune Messiah",
+          "Dune",
+          "Messiah",
+          "don't mess"
+        ],
+        "option_c": [
+          "Arrakis"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": ""
+    },
+    {
+      "id": "arts-and-entertainment_B7_28",
+      "que": "Who painted the Mona Lisa?",
+      "ans": {
+        "value": "Leonardo da Vinci",
+        "correct_entity": "option_c"
+      },
+      "options": [
+        "Pablo Picasso",
+        "Vincent van Gogh",
+        "Leonardo da Vinci"
+      ],
+      "expl": [
+        "Leonardo da Vinci painted the Mona Lisa between 1503 and 1506, and it’s now displayed in the Louvre Museum in Paris. The portrait is known for its mysterious smile and detailed realism. It’s the most visited artwork in the world."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "Pablo Picasso",
+          "Pablo",
+          "Picasso"
+        ],
+        "option_b": [
+          "Vincent van Gogh",
+          "vincent",
+          "van",
+          "gogh",
+          "gog",
+          "van gogh",
+          "vincent van",
+          "vincent gogh"
+        ],
+        "option_c": [
+          "Leonardo da Vinci",
+          "leonardo",
+          "vinci"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": ""
+    },
+    {
+      "id": "arts-and-entertainment_B7_29",
+      "que": "What's the name of the fairy in Peter Pan?",
+      "ans": {
+        "value": "Tinker Bell",
+        "correct_entity": "option_b"
+      },
+      "options": [
+        "Wendy",
+        "Tinker Bell",
+        "Pixie"
+      ],
+      "expl": [
+        "The fairy in Peter Pan is Tinker Bell, first introduced in 1904 by J.M. Barrie. She’s famous for her pixie dust, jealousy, and loyalty to Peter. Disney later turned her into one of its biggest icons."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "Wendy",
+          "when d.",
+          "vendy"
+        ],
+        "option_b": [
+          "Tinker Bell",
+          "Tinker",
+          "Bell",
+          "bel"
+        ],
+        "option_c": [
+          "Pixie"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": ""
+    },
+    {
+      "id": "arts-and-entertainment_B7_30",
+      "que": "Who painted 'The Starry Night'?",
+      "ans": {
+        "value": "Vincent van Gogh",
+        "correct_entity": "option_b"
+      },
+      "options": [
+        "Claude Monet",
+        "Vincent van Gogh",
+        "salvadoor dali"
+      ],
+      "expl": [
+        "Vincent van Gogh painted The Starry Night in 1889 while staying in a mental asylum in France. The swirling sky and bright stars became one of the most recognizable paintings ever. He completed it just one year before his death."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "Claude Monet",
+          "Claude",
+          "Monet",
+          "cloud monet"
+        ],
+        "option_b": [
+          "Vincent van Gogh",
+          "vincent",
+          "van",
+          "gogh"
+        ],
+        "option_c": [
+          "salvadoor dali",
+          "salvadoor",
+          "dali",
+          "Salvador Dalí",
+          "salvador dali"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": ""
+    },
+    {
+      "id": "arts-and-entertainment_B7_31",
+      "que": "Who wrote the play, Romeo and Juliet?",
+      "ans": {
+        "value": "William Shakespeare",
+        "correct_entity": "option_b"
+      },
+      "options": [
+        "Charles Dickens",
+        "William Shakespeare",
+        "George Orwell"
+      ],
+      "expl": [
+        "William Shakespeare wrote Romeo and Juliet in the late 1500s, and it remains one of the most famous love tragedies in history. The play is set in Verona, Italy, and follows two young lovers from rival families. It coined phrases still used today like “star-crossed lovers.”"
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "Charles Dickens",
+          "Charles",
+          "Dickens",
+          "chickens"
+        ],
+        "option_b": [
+          "William Shakespeare",
+          "William",
+          "Shakespeare"
+        ],
+        "option_c": [
+          "George Orwell",
+          "George",
+          "Orwell"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": ""
+    },
+    {
+      "id": "arts-and-entertainment_B7_32",
+      "que": "What's the name of the wizarding school in Harry Potter?",
+      "ans": {
+        "value": "Hogwarts",
+        "correct_entity": "option_a"
+      },
+      "options": [
+        "Hogwarts",
+        "Durmstrang",
+        "Beauxbatons"
+      ],
+      "expl": [
+        "The magical school in the Harry Potter series is called Hogwarts School of Witchcraft and Wizardry. It was founded over 1,000 years ago by four legendary wizards. Students are sorted into houses like Gryffindor, Slytherin, Ravenclaw, and Hufflepuff."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "Hogwarts",
+          "Hogwart"
+        ],
+        "option_b": [
+          "Durmstrang",
+          "derm strong",
+          "derm",
+          "derm strang"
+        ],
+        "option_c": [
+          "Beauxbatons",
+          "babatunden",
+          "babatons",
+          "bowbatons",
+          "bobbattens"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": ""
+    },
+    {
+      "id": "arts-and-entertainment_B7_33",
+      "que": "What is the longest-running Broadway show in history?",
+      "ans": {
+        "value": "The Phantom of the Opera",
+        "correct_entity": "option_a"
+      },
+      "options": [
+        "The Phantom of the Opera",
+        "Cats",
+        "Chicago"
+      ],
+      "expl": [
+        "The Phantom of the Opera is the longest-running Broadway show, opening in 1988 and closing in 2023 after 13,981 performances. The musical was composed by Andrew Lloyd Webber. It ran for over 35 years."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "The Phantom of the Opera",
+          "Phantom",
+          "of",
+          "Opera",
+          "the opera",
+          "phantom of opera",
+          "the phantom of opera"
+        ],
+        "option_b": [
+          "Cats",
+          "cat"
+        ],
+        "option_c": [
+          "Chicago"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": ""
+    },
+    {
+      "id": "arts-and-entertainment_B7_34",
+      "que": "What is the name of Mickey Mouse's dog?",
+      "ans": {
+        "value": "Pluto",
+        "correct_entity": "option_a"
+      },
+      "options": [
+        "Pluto",
+        "Goofy",
+        "Max"
+      ],
+      "expl": [
+        "Mickey Mouse’s loyal dog is named Pluto, introduced in 1930. Unlike Goofy, Pluto acts like a real dog and doesn’t talk. He became a star in Disney cartoons and comics."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "Pluto"
+        ],
+        "option_b": [
+          "Goofy"
+        ],
+        "option_c": [
+          "Max",
+          "maths"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": ""
+    },
+    {
+      "id": "arts-and-entertainment_B7_35",
+      "que": "What is the longest-running video game franchise of all time?",
+      "ans": {
+        "value": "Mario",
+        "correct_entity": "option_a"
+      },
+      "options": [
+        "Mario",
+        "Sonic",
+        "Zelda"
+      ],
+      "expl": [
+        "Mario (Nintendo) has been running since 1981, making it the longest and one of the most successful game franchises ever. Mario has appeared in over 200 games. He originally debuted in Donkey Kong."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "Mario"
+        ],
+        "option_b": [
+          "Sonic"
+        ],
+        "option_c": [
+          "Zelda"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": ""
+    },
+    {
+      "id": "arts-and-entertainment_B7_36",
+      "que": "What is the name of the fairy in Pinocchio?",
+      "ans": {
+        "value": "The Blue Fairy",
+        "correct_entity": "option_c"
+      },
+      "options": [
+        "Tooth Fairy",
+        "Tinker Bell",
+        "The Blue Fairy"
+      ],
+      "expl": [
+        "The magical character in Pinocchio is called The Blue Fairy, and she brings the wooden puppet to life. She first appeared in Carlo Collodi’s 1883 book. In Disney’s version, she’s the one who says “A boy who won’t be good might as well be made of wood.”"
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "Tooth Fairy",
+          "Tooth",
+          "Fairy"
+        ],
+        "option_b": [
+          "Tinker Bell",
+          "Tinker",
+          "Bell"
+        ],
+        "option_c": [
+          "The Blue Fairy",
+          "Blue",
+          "Fairy",
+          "blue fairy"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": ""
+    },
+    {
+      "id": "arts-and-entertainment_B7_37",
+      "que": "What is the name of the town in Stranger Things?",
+      "ans": {
+        "value": "Hawkins",
+        "correct_entity": "option_b"
+      },
+      "options": [
+        "Hawthorne",
+        "Hawkins",
+        "Harmony"
+      ],
+      "expl": [
+        "Hawkins, Indiana is the fictional town where Stranger Things takes place. It’s known for secret labs, Demogorgons, and mysterious portals. The show is set in the 1980s."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "Hawthorne",
+          "thorn",
+          "haw",
+          "thorne"
+        ],
+        "option_b": [
+          "Hawkins",
+          "Hawkin"
+        ],
+        "option_c": [
+          "Harmony"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": ""
+    },
+    {
+      "id": "arts-and-entertainment_B7_38",
+      "que": "Which video-game franchise stars two plumber brothers, Mario and Luigi?",
+      "ans": {
+        "value": "Super Mario Bros.",
+        "correct_entity": "option_c"
+      },
+      "options": [
+        "Sonic",
+        "Minecraft",
+        "Super Mario Bros."
+      ],
+      "expl": [
+        "Super Mario Bros. stars Mario and his younger brother Luigi, created by Nintendo in 1985. The brothers travel through the Mushroom Kingdom to save Princess Peach. It’s one of the best-selling game series ever."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "Sonic"
+        ],
+        "option_b": [
+          "Minecraft",
+          "mine craft"
+        ],
+        "option_c": [
+          "Super Mario Bros.",
+          "Super",
+          "Mario",
+          "Bros.",
+          "super mario",
+          "mario bros",
+          "Super Mario Bros",
+          "super mario brothers",
+          "super mario brother"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": ""
+    },
+    {
+      "id": "arts-and-entertainment_B7_39",
+      "que": "What is the name of the dog in The Simpsons?",
+      "ans": {
+        "value": "Santa's Little Helper",
+        "correct_entity": "option_b"
+      },
+      "options": [
+        "Pluto",
+        "Santa's Little Helper",
+        "Snoopy"
+      ],
+      "expl": [
+        "The Simpsons’ pet greyhound is named Santa’s Little Helper, first introduced in Season 1 (1989). Homer adopted him after he lost a dog race. He has appeared in over 100 episodes."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "Pluto"
+        ],
+        "option_b": [
+          "Santa's Little Helper",
+          "Santa's",
+          "Little",
+          "Helper",
+          "santa",
+          "santa little",
+          "little helper"
+        ],
+        "option_c": [
+          "Snoopy"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": ""
+    },
+    {
+      "id": "arts-and-entertainment_B7_40",
+      "que": "What movie features a toy cowboy named Woody?",
+      "ans": {
+        "value": "Toy Story",
+        "correct_entity": "option_b"
+      },
+      "options": [
+        "Shrek",
+        "Toy Story",
+        "Frozen"
+      ],
+      "expl": [
+        "Toy Story (1995) features Woody, a loyal cowboy doll voiced by Tom Hanks. It was Pixar’s first full-length film and the first entirely computer-animated movie ever made."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "Shrek"
+        ],
+        "option_b": [
+          "Toy Story",
+          "toy",
+          "story"
+        ],
+        "option_c": [
+          "Frozen"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": ""
+    },
+    {
+      "id": "arts-and-entertainment_B7_41",
+      "que": "Which board game involves buying properties?",
+      "ans": {
+        "value": "Monopoly",
+        "correct_entity": "option_b"
+      },
+      "options": [
+        "Scrabble",
+        "Monopoly",
+        "Clue"
+      ],
+      "expl": [
+        "Monopoly is the classic game where players buy, trade, and develop properties to bankrupt opponents. It was patented in 1935, and the longest recorded Monopoly game lasted 70 days."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "Scrabble",
+          "scrabbles"
+        ],
+        "option_b": [
+          "Monopoly"
+        ],
+        "option_c": [
+          "Clue"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": ""
+    },
+    {
+      "id": "arts-and-entertainment_B7_42",
+      "que": "Which bear loves honey in Winnie the Pooh?",
+      "ans": {
+        "value": "Winnie the Pooh",
+        "correct_entity": "option_a"
+      },
+      "options": [
+        "Winnie the Pooh",
+        "Paddington",
+        "Baloo"
+      ],
+      "expl": [
+        "Winnie the Pooh is obsessed with honey (which he calls “hunny”). The character first appeared in 1926 and was based on a real bear from the London Zoo."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "Winnie the Pooh",
+          "Winnie",
+          "Pooh",
+          "winie",
+          "vinie"
+        ],
+        "option_b": [
+          "Paddington"
+        ],
+        "option_c": [
+          "Baloo",
+          "bhaloo",
+          "balu",
+          "balloon"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": ""
+    },
+    {
+      "id": "arts-and-entertainment_B7_43",
+      "que": "Which Disney princess has a pet tiger?",
+      "ans": {
+        "value": "Jasmine",
+        "correct_entity": "option_a"
+      },
+      "options": [
+        "Jasmine",
+        "Ariel",
+        "Belle"
+      ],
+      "expl": [
+        "Princess Jasmine from Disney’s Aladdin has a loyal tiger named Rajah. The movie was released in 1992 and was the first Disney film set in the Middle East."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "Jasmine"
+        ],
+        "option_b": [
+          "Ariel"
+        ],
+        "option_c": [
+          "Belle",
+          "bell",
+          "ballet",
+          "belt",
+          "bail"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": ""
+    },
+    {
+      "id": "arts-and-entertainment_B7_44",
+      "que": "Who is the main wizard who attends Hogwarts?",
+      "ans": {
+        "value": "Harry Potter",
+        "correct_entity": "option_c"
+      },
+      "options": [
+        "Merlin",
+        "Gandalf",
+        "Harry Potter"
+      ],
+      "expl": [
+        "Harry Potter is the central character of the Hogwarts School of Witchcraft and Wizardry. The first book was released in 1997 and became a global phenomenon."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "Merlin",
+          "marlin"
+        ],
+        "option_b": [
+          "Gandalf",
+          "get off"
+        ],
+        "option_c": [
+          "Harry Potter",
+          "potter",
+          "harry"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": ""
+    },
+    {
+      "id": "arts-and-entertainment_B7_45",
+      "que": "What is the cat's name in Garfield?",
+      "ans": {
+        "value": "Garfield",
+        "correct_entity": "option_a"
+      },
+      "options": [
+        "Garfield",
+        "Tom",
+        "Felix"
+      ],
+      "expl": [
+        "The orange cartoon cat Garfield debuted in 1978 and is famous for loving lasagna and hating Mondays. He holds the Guinness World Record for the most widely syndicated comic strip."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "Garfield",
+          "gar",
+          "field"
+        ],
+        "option_b": [
+          "Tom"
+        ],
+        "option_c": [
+          "Felix",
+          "fail",
+          "fell x."
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": ""
+    },
+    {
+      "id": "arts-and-entertainment_B7_46",
+      "que": "Which musical instrument has 88 keys?",
+      "ans": {
+        "value": "Piano",
+        "correct_entity": "option_a"
+      },
+      "options": [
+        "Piano",
+        "Keyboard",
+        "Organ"
+      ],
+      "expl": [
+        "A standard piano has 88 keys — 52 white and 36 black. This setup has been the standard since the late 1800s. Some custom pianos even have more keys for extra deep notes."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "Piano"
+        ],
+        "option_b": [
+          "Keyboard",
+          "key board"
+        ],
+        "option_c": [
+          "Organ"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": ""
+    },
+    {
+      "id": "arts-and-entertainment_B7_47",
+      "que": "What is the highest-grossing film of all time?",
+      "ans": {
+        "value": "Avatar",
+        "correct_entity": "option_b"
+      },
+      "options": [
+        "Avengers Endgame",
+        "Avatar",
+        "Titanic"
+      ],
+      "expl": [
+        "Avatar (2009), directed by James Cameron, is still the highest-grossing movie worldwide. It earned over $2.9 billion globally and was re-released several times. Its success led to multiple sequels, the first released in 2022."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "Avengers Endgame",
+          "Avengers",
+          "Endgame",
+          "avenger endgame",
+          "avenger end game",
+          "avengers end game"
+        ],
+        "option_b": [
+          "Avatar"
+        ],
+        "option_c": [
+          "Titanic"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": ""
+    },
+    {
+      "id": "arts-and-entertainment_B7_48",
+      "que": "Who played Jack Dawson in Titanic?",
+      "ans": {
+        "value": "Leonardo DiCaprio",
+        "correct_entity": "option_a"
+      },
+      "options": [
+        "Leonardo DiCaprio",
+        "Brad Pitt",
+        "Tom Cruise"
+      ],
+      "expl": [
+        "Leonardo DiCaprio played Jack Dawson in the 1997 blockbuster Titanic. The film became one of the highest-grossing movies of all time and won 11 Oscars. The \"I'm the king of the world!\" scene is still iconic today."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "Leonardo DiCaprio",
+          "Leonardo",
+          "DiCaprio",
+          "di caprio",
+          "de caprio",
+          "leonardo caprio"
+        ],
+        "option_b": [
+          "Brad Pitt",
+          "Brad",
+          "Pitt"
+        ],
+        "option_c": [
+          "Tom Cruise",
+          "tom",
+          "cruise"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": ""
+    },
+    {
+      "id": "arts-and-entertainment_B7_49",
+      "que": "What movie features the song 'Let It Go'?",
+      "ans": {
+        "value": "Frozen",
+        "correct_entity": "option_b"
+      },
+      "options": [
+        "Moana",
+        "Frozen",
+        "Tangled"
+      ],
+      "expl": [
+        "The song \"Let It Go\" comes from Disney’s 2013 animated film Frozen. It won an Oscar for Best Original Song and became a global hit. Kids (and parents) everywhere could not escape it for years."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "Moana"
+        ],
+        "option_b": [
+          "Frozen"
+        ],
+        "option_c": [
+          "Tangled"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": ""
+    },
+    {
+      "id": "arts-and-entertainment_B7_50",
+      "que": "Who played Tony Stark in the MCU?",
+      "ans": {
+        "value": "Robert Downey Jr.",
+        "correct_entity": "option_b"
+      },
+      "options": [
+        "Chris Evans",
+        "Robert Downey Jr.",
+        "Mark Ruffalo"
+      ],
+      "expl": [
+        "Robert Downey Jr. played Tony Stark, also known as Iron Man, in the Marvel Cinematic Universe. His 2008 film Iron Man helped launch the entire MCU. Fans say the role revived his career and defined modern superhero movies."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "Chris Evans",
+          "chris",
+          "evans"
+        ],
+        "option_b": [
+          "Robert Downey Jr.",
+          "Robert",
+          "Downey",
+          "Jr.",
+          "robert downey junior"
+        ],
+        "option_c": [
+          "Mark Ruffalo",
+          "ruffalo"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": ""
+    },
+    {
+      "id": "arts-and-entertainment_B7_51",
+      "que": "Who voiced Darth Vader in Star Wars?",
+      "ans": {
+        "value": "James Earl Jones",
+        "correct_entity": "option_a"
+      },
+      "options": [
+        "James Earl Jones",
+        "Morgan Freeman",
+        "Samuel L. Jackson"
+      ],
+      "expl": [
+        "James Earl Jones provided the deep, powerful voice of Darth Vader in the Star Wars films. His voice became one of the most recognizable in movie history. Fun fact: the man in the suit and the voice actor were two different people."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "James Earl Jones",
+          "James",
+          "Earl",
+          "Jones",
+          "james ear jones",
+          "jonnes",
+          "james all"
+        ],
+        "option_b": [
+          "Morgan Freeman",
+          "Morgan",
+          "Freeman"
+        ],
+        "option_c": [
+          "Samuel L. Jackson",
+          "Samuel",
+          "L.",
+          "Jackson"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": ""
+    },
+    {
+      "id": "arts-and-entertainment_B7_52",
+      "que": "What is the band in 'This Is Spinal Tap'?",
+      "ans": {
+        "value": "Spinal Tap",
+        "correct_entity": "option_b"
+      },
+      "options": [
+        "The Tap",
+        "Spinal Tap",
+        "Black Sabbath"
+      ],
+      "expl": [
+        "Spinal Tap is the fictional rock band featured in the 1984 mockumentary This Is Spinal Tap. The movie humorously follows their \"comeback tour\" and is known for the joke “This amp goes to 11.” The band later"
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "The Tap",
+          "Tap"
+        ],
+        "option_b": [
+          "Spinal Tap",
+          "Spinal",
+          "Tap"
+        ],
+        "option_c": [
+          "Black Sabbath",
+          "Black",
+          "Sabbath"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": ""
+    },
+    {
+      "id": "arts-and-entertainment_B7_53",
+      "que": "Which series is set in Hawkins, Indiana?",
+      "ans": {
+        "value": "Stranger Things",
+        "correct_entity": "option_b"
+      },
+      "options": [
+        "The X-Files",
+        "Stranger Things",
+        "Riverdale"
+      ],
+      "expl": [
+        "Stranger Things takes place in the fictional town of Hawkins, Indiana during the 1980s. The show mixes supernatural mystery with nostalgic pop-culture references. Fun fact: Hawkins was inspired by real-life secret science experiments in the U.S."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "The X-Files",
+          "X-Files",
+          "x. files",
+          "x file",
+          "x. file",
+          "x files"
+        ],
+        "option_b": [
+          "Stranger Things",
+          "Stranger",
+          "Things"
+        ],
+        "option_c": [
+          "Riverdale"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": ""
+    },
+    {
+      "id": "arts-and-entertainment_B7_54",
+      "que": "Who played Hermione Granger in Harry Potter?",
+      "ans": {
+        "value": "Emma Watson",
+        "correct_entity": "option_a"
+      },
+      "options": [
+        "Emma Watson",
+        "Emma Stone",
+        "Natalie Portman"
+      ],
+      "expl": [
+        "Emma Watson played Hermione in all eight Harry Potter films, starting at age 11. She later became a UN Women Goodwill Ambassador. The trio grew up on screen for 10+ years."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "Emma Watson",
+          "Watson",
+          "what son",
+          "ima",
+          "ema"
+        ],
+        "option_b": [
+          "Emma Stone",
+          "Stone"
+        ],
+        "option_c": [
+          "Natalie Portman",
+          "Natalie",
+          "Portman"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": ""
+    },
+    {
+      "id": "arts-and-entertainment_B7_55",
+      "que": "Which animated movie has a fish named Nemo?",
+      "ans": {
+        "value": "Finding Nemo",
+        "correct_entity": "option_b"
+      },
+      "options": [
+        "Shark Tale",
+        "Finding Nemo",
+        "The Little Mermaid"
+      ],
+      "expl": [
+        "Finding Nemo follows a clownfish dad searching for his lost son, Nemo. The movie won the Oscar for Best Animated Feature. It also boosted real-world clownfish pet sales."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "Shark Tale",
+          "Shark",
+          "Tale",
+          "tell"
+        ],
+        "option_b": [
+          "Finding Nemo",
+          "finding",
+          "nemo"
+        ],
+        "option_c": [
+          "The Little Mermaid",
+          "Little",
+          "Mermaid",
+          "little mermaid"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": ""
+    },
+    {
+      "id": "arts-and-entertainment_B7_56",
+      "que": "Who created The Simpsons?",
+      "ans": {
+        "value": "Matt Groening",
+        "correct_entity": "option_a"
+      },
+      "options": [
+        "Matt Groening",
+        "Seth MacFarlane",
+        "Trey Parker"
+      ],
+      "expl": [
+        "Matt Groening created The Simpsons in 1989, making it the longest-running scripted TV show in history. He also created Futurama. The characters were first sketches on a napkin."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "Matt Groening",
+          "Matt",
+          "Groening",
+          "gowning"
+        ],
+        "option_b": [
+          "Seth MacFarlane",
+          "Seth",
+          "MacFarlane"
+        ],
+        "option_c": [
+          "Trey Parker",
+          "Trey",
+          "Parker",
+          "tray parker"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": ""
+    },
+    {
+      "id": "arts-and-entertainment_B7_57",
+      "que": "Which sitcom popularized the catchphrase 'How you doin''?",
+      "ans": {
+        "value": "Friends",
+        "correct_entity": "option_a"
+      },
+      "options": [
+        "Friends",
+        "Seinfeld",
+        "The Office"
+      ],
+      "expl": [
+        "The phrase comes from Joey Tribbiani in Friends, which aired from 1994–2004. It became one of the most quoted sitcom lines ever. Joey used it as his go-to flirt move."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "Friends",
+          "Friend"
+        ],
+        "option_b": [
+          "Seinfeld",
+          "shinfeld"
+        ],
+        "option_c": [
+          "The Office",
+          "Office"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": ""
+    },
+    {
+      "id": "arts-and-entertainment_B7_58",
+      "que": "What musical has 'Do-Re-Mi'?",
+      "ans": {
+        "value": "The Sound of Music",
+        "correct_entity": "option_b"
+      },
+      "options": [
+        "Mary Poppins",
+        "The Sound of Music",
+        "Annie"
+      ],
+      "expl": [
+        "The Sound of Music (1965) features classics like “Do-Re-Mi” and “My Favorite Things.” It was based on the real von Trapp family. The film won 5 Oscars including Best Picture."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "Mary Poppins",
+          "Mary",
+          "Poppins",
+          "marry poppins",
+          "marry poppin",
+          "mary poppin",
+          "marry pop in",
+          "popin",
+          "popins"
+        ],
+        "option_b": [
+          "The Sound of Music",
+          "Sound",
+          "Music"
+        ],
+        "option_c": [
+          "Annie",
+          "any"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": ""
+    },
+    {
+      "id": "arts-and-entertainment_B7_59",
+      "que": "Which movie has the quote 'I'll be back'?",
+      "ans": {
+        "value": "The Terminator",
+        "correct_entity": "option_c"
+      },
+      "options": [
+        "Predator",
+        "RoboCop",
+        "The Terminator"
+      ],
+      "expl": [
+        "The line is spoken by Arnold Schwarzenegger in The Terminator (1984). It became one of the most iconic movie quotes in history. Schwarzenegger only had 58 lines in the whole film."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "Predator"
+        ],
+        "option_b": [
+          "RoboCop"
+        ],
+        "option_c": [
+          "The Terminator",
+          "Terminator"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": ""
+    },
+    {
+      "id": "arts-and-entertainment_B7_60",
+      "que": "Who was the first woman to win solo Grammy Album of the Year?",
+      "ans": {
+        "value": "Billie Holiday",
+        "correct_entity": "option_a"
+      },
+      "options": [
+        "Billie Holiday",
+        "Taylor Swift",
+        "Adele"
+      ],
+      "expl": [
+        "Billie Holiday became the first solo female winner for Album of the Year. It happened at the very first Grammys in 1959. She paved the way for future artists like Taylor Swift and Adele."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "Billie Holiday",
+          "Billie",
+          "Holiday",
+          "billi"
+        ],
+        "option_b": [
+          "Taylor Swift",
+          "taylor",
+          "swift"
+        ],
+        "option_c": [
+          "Adele"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": ""
+    },
+    {
+      "id": "arts-and-entertainment_B7_61",
+      "que": "Which 1980s film is set during a Saturday detention day?",
+      "ans": {
+        "value": "The Breakfast Club",
+        "correct_entity": "option_b"
+      },
+      "options": [
+        "Sixteen Candles",
+        "The Breakfast Club",
+        "Ferris Bueller"
+      ],
+      "expl": [
+        "The Breakfast Club is about five teens from different cliques stuck in detention together. It became a defining teen film of the 80s. The entire movie takes place in one school building."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "Sixteen Candles",
+          "Sixteen",
+          "Candles",
+          "candle",
+          "sixteen candle"
+        ],
+        "option_b": [
+          "The Breakfast Club",
+          "breakfast club",
+          "club",
+          "break fast",
+          "break fast club"
+        ],
+        "option_c": [
+          "Ferris Bueller",
+          "Ferris",
+          "Bueller"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": ""
+    },
+    {
+      "id": "arts-and-entertainment_B7_62",
+      "que": "Which show had Ross, Rachel, Joey, etc.?",
+      "ans": {
+        "value": "Friends",
+        "correct_entity": "option_a"
+      },
+      "options": [
+        "Friends",
+        "How I Met Your Mother",
+        "New Girl"
+      ],
+      "expl": [
+        "Friends features six friends living in New York: Ross, Rachel, Monica, Chandler, Joey, and Phoebe. It ran 10 seasons and still streams in 100+ countries. The cast reportedly earned $1M per episode in the final season."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "Friends"
+        ],
+        "option_b": [
+          "How I Met Your Mother",
+          "How",
+          "Met",
+          "Your",
+          "Mother",
+          "how i met",
+          "met your",
+          "met your mother",
+          "how i met you mother"
+        ],
+        "option_c": [
+          "New Girl",
+          "New",
+          "Girl"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": ""
+    },
+    {
+      "id": "arts-and-entertainment_B7_63",
+      "que": "What is the band in 'School of Rock'?",
+      "ans": {
+        "value": "The School of Rock",
+        "correct_entity": "option_b"
+      },
+      "options": [
+        "Rockers",
+        "The School of Rock",
+        "No Vacancy"
+      ],
+      "expl": [
+        "The kids’ band in School of Rock is called “The School of Rock.” Jack Black turned real students into musicians in the story. The film later became a Broadway musical."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "Rockers",
+          "rocker"
+        ],
+        "option_b": [
+          "The School of Rock",
+          "School",
+          "Rock"
+        ],
+        "option_c": [
+          "No Vacancy",
+          "No",
+          "Vacancy"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": ""
+    },
+    {
+      "id": "arts-and-entertainment_B7_64",
+      "que": "Who was the first actress to win an Academy Award for Best Actress?",
+      "ans": {
+        "value": "Janet Gaynor",
+        "correct_entity": "option_b"
+      },
+      "options": [
+        "Audrey Hepburn",
+        "Janet Gaynor",
+        "Vivien Leigh"
+      ],
+      "expl": [
+        "Janet Gaynor won the first Academy Award for Best Actress in 1929. She actually won for three films at once — a rule later changed. It was the very first Oscars ceremony ever."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "Audrey Hepburn",
+          "Audrey",
+          "Hepburn"
+        ],
+        "option_b": [
+          "Janet Gaynor",
+          "Janet",
+          "Gaynor"
+        ],
+        "option_c": [
+          "Vivien Leigh",
+          "Vivien",
+          "Leigh",
+          "vivian league",
+          "vivian",
+          "league"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": ""
+    },
+    {
+      "id": "arts-and-entertainment_B7_65",
+      "que": "Which celebrity famously said, “I don't do fashion, I am fashion”?",
+      "ans": {
+        "value": "Coco Chanel",
+        "correct_entity": "option_b"
+      },
+      "options": [
+        "Rihanna",
+        "Coco Chanel",
+        "Lady Gaga"
+      ],
+      "expl": [
+        "Coco Chanel, the legendary French designer, made this famous statement. She changed women’s fashion with simple, elegant styles. She also created the iconic Chanel No. 5 perfume."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "Rihanna"
+        ],
+        "option_b": [
+          "Coco Chanel",
+          "Coco",
+          "Chanel"
+        ],
+        "option_c": [
+          "Lady Gaga",
+          "gaga",
+          "lady"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": ""
+    },
+    {
+      "id": "arts-and-entertainment_B7_66",
+      "que": "Who won the 2021 Academy Award for Best Actor?",
+      "ans": {
+        "value": "Anthony Hopkins",
+        "correct_entity": "option_a"
+      },
+      "options": [
+        "Anthony Hopkins",
+        "Gary Oldman",
+        "Chadwick Boseman"
+      ],
+      "expl": [
+        "Anthony Hopkins won for his role in The Father, becoming the oldest acting winner at age 83. He wasn’t even at the ceremony when he won. It was his second career Oscar."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "Anthony Hopkins",
+          "Anthony",
+          "Hopkins"
+        ],
+        "option_b": [
+          "Gary Oldman",
+          "Gary",
+          "Oldman",
+          "gary old man"
+        ],
+        "option_c": [
+          "Chadwick Boseman",
+          "Chadwick",
+          "Boseman"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": ""
+    },
+    {
+      "id": "arts-and-entertainment_B7_67",
+      "que": "Which famous actor is known for playing Wolverine in the X-Men series?",
+      "ans": {
+        "value": "Hugh Jackman",
+        "correct_entity": "option_b"
+      },
+      "options": [
+        "Ryan Reynolds",
+        "Hugh Jackman",
+        "Chris Hemsworth"
+      ],
+      "expl": [
+        "Hugh Jackman played Wolverine for 17+ years in the X-Men movies. He holds a Guinness World Record for longest-running Marvel hero role. He almost turned it down because he was doing Oklahoma! on stage."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "Ryan Reynolds",
+          "Ryan",
+          "Reynolds"
+        ],
+        "option_b": [
+          "Hugh Jackman",
+          "Hugh",
+          "Jackman",
+          "hug",
+          "hug jackman",
+          "hug jack man",
+          "huge jackman",
+          "hugh jack man"
+        ],
+        "option_c": [
+          "Chris Hemsworth",
+          "Chris",
+          "Hemsworth"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": ""
+    },
+    {
+      "id": "arts-and-entertainment_B7_68",
+      "que": "Who was married to Brad Pitt before he married Angelina Jolie?",
+      "ans": {
+        "value": "Jennifer Aniston",
+        "correct_entity": "option_b"
+      },
+      "options": [
+        "Courteney Cox",
+        "Jennifer Aniston",
+        "Gwyneth Paltrow"
+      ],
+      "expl": [
+        "Brad Pitt was married to Jennifer Aniston from 2000–2005. Their breakup was one of the most publicized in Hollywood history. He later married Angelina Jolie in 2014."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "Courteney Cox",
+          "Courteney",
+          "Cox"
+        ],
+        "option_b": [
+          "Jennifer Aniston",
+          "Jennifer",
+          "Aniston"
+        ],
+        "option_c": [
+          "Gwyneth Paltrow",
+          "Gwyneth",
+          "Paltrow"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": ""
+    },
+    {
+      "id": "arts-and-entertainment_B7_69",
+      "que": "Who is the highest-paid actress in the world as of 2021?",
+      "ans": {
+        "value": "Scarlett Johansson",
+        "correct_entity": "option_b"
+      },
+      "options": [
+        "Jennifer Lawrence",
+        "Scarlett Johansson",
+        "Emma Stone"
+      ],
+      "expl": [
+        "Scarlett Johansson topped the list, largely thanks to Black Widow and Marvel earnings. She also worked as a producer. She once earned more than the entire rest of the Avengers cast combined."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "Jennifer Lawrence",
+          "Jennifer",
+          "Lawrence"
+        ],
+        "option_b": [
+          "Scarlett Johansson",
+          "Scarlett",
+          "Johansson"
+        ],
+        "option_c": [
+          "Emma Stone",
+          "Emma",
+          "Stone"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": ""
+    },
+    {
+      "id": "arts-and-entertainment_B7_70",
+      "que": "What famous actor is known for Pirates of the Caribbean?",
+      "ans": {
+        "value": "Johnny Depp",
+        "correct_entity": "option_b"
+      },
+      "options": [
+        "Robert Downey Jr.",
+        "Johnny Depp",
+        "Orlando Bloom"
+      ],
+      "expl": [
+        "Johnny Depp became iconic as Captain Jack Sparrow, a role inspired by rock star Keith Richards. The film turned a theme park ride into a billion-dollar franchise. Depp also starred in Edward Scissorhands."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "Robert Downey Jr.",
+          "Robert",
+          "Downey",
+          "Jr.",
+          "robert downey junior",
+          "junior robert downey",
+          "junior"
+        ],
+        "option_b": [
+          "Johnny Depp",
+          "johnny",
+          "depp",
+          "jonny",
+          "deep",
+          "johny deep",
+          "johny"
+        ],
+        "option_c": [
+          "Orlando Bloom",
+          "Orlando",
+          "Bloom"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": ""
+    },
+    {
+      "id": "arts-and-entertainment_B7_71",
+      "que": "Which celebrity hosted the 2021 Met Gala?",
+      "ans": {
+        "value": "Billie Eilish",
+        "correct_entity": "option_b"
+      },
+      "options": [
+        "Zendaya",
+        "Billie Eilish",
+        "Gigi Hadid"
+      ],
+      "expl": [
+        "Billie Eilish was one of the co-hosts of the 2021 Met Gala, themed \"In America: A Lexicon of Fashion.\" She became the youngest host in Met Gala history at just 19."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "Zendaya",
+          "jendaya"
+        ],
+        "option_b": [
+          "Billie Eilish",
+          "eilish",
+          "billie"
+        ],
+        "option_c": [
+          "Gigi Hadid",
+          "Gigi",
+          "Hadid"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": ""
+    },
+    {
+      "id": "arts-and-entertainment_B7_72",
+      "que": "Which actor starred as the lead in the Matrix trilogy?",
+      "ans": {
+        "value": "Keanu Reeves",
+        "correct_entity": "option_c"
+      },
+      "options": [
+        "Brad Pitt",
+        "Tom Cruise",
+        "Keanu Reeves"
+      ],
+      "expl": [
+        "Keanu Reeves played Neo, the main character in The Matrix trilogy. The role turned him into a sci-fi icon and revived his career worldwide."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "Brad Pitt",
+          "Brad",
+          "Pitt"
+        ],
+        "option_b": [
+          "Tom Cruise",
+          "tom",
+          "cruise"
+        ],
+        "option_c": [
+          "Keanu Reeves",
+          "Keanu",
+          "Reeves"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": ""
+    },
+    {
+      "id": "arts-and-entertainment_B7_73",
+      "que": "What pop singer is known for 'Bad Romance' and 'Poker Face'?",
+      "ans": {
+        "value": "Lady Gaga",
+        "correct_entity": "option_a"
+      },
+      "options": [
+        "Lady Gaga",
+        "Dua Lipa",
+        "Taylor Swift"
+      ],
+      "expl": [
+        "Lady Gaga became a global star with hits like “Bad Romance” and “Poker Face.” Her bold fashion and theatrical performances made her a pop culture icon."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "Lady Gaga",
+          "Lady",
+          "Gaga"
+        ],
+        "option_b": [
+          "Dua Lipa",
+          "Dua",
+          "Lipa"
+        ],
+        "option_c": [
+          "Taylor Swift",
+          "taylor",
+          "swift"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": ""
+    },
+    {
+      "id": "arts-and-entertainment_B7_74",
+      "que": "Who played Forrest Gump in the movie?",
+      "ans": {
+        "value": "Tom Hanks",
+        "correct_entity": "option_a"
+      },
+      "options": [
+        "Tom Hanks",
+        "Robin Williams",
+        "Matt Damon"
+      ],
+      "expl": [
+        "Tom Hanks starred as Forrest Gump, winning an Oscar for the role. The film became famous for lines like “Life is like a box of chocolates.”"
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "Tom Hanks",
+          "Tom",
+          "Hanks"
+        ],
+        "option_b": [
+          "Robin Williams",
+          "Robin",
+          "Williams"
+        ],
+        "option_c": [
+          "Matt Damon",
+          "Matt",
+          "Damon",
+          "mad diamond",
+          "mad damon"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": ""
+    },
+    {
+      "id": "arts-and-entertainment_B7_75",
+      "que": "What actress starred in The Hunger Games as Katniss?",
+      "ans": {
+        "value": "Jennifer Lawrence",
+        "correct_entity": "option_b"
+      },
+      "options": [
+        "Emma Watson",
+        "Jennifer Lawrence",
+        "Natalie Portman"
+      ],
+      "expl": [
+        "Jennifer Lawrence played Katniss Everdeen and became one of Hollywood’s highest-paid actresses. The role made her a household name at age 21."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "Emma Watson",
+          "Emma",
+          "Watson"
+        ],
+        "option_b": [
+          "Jennifer Lawrence",
+          "Jennifer",
+          "Lawrence"
+        ],
+        "option_c": [
+          "Natalie Portman",
+          "Natalie",
+          "Portman"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": ""
+    },
+    {
+      "id": "arts-and-entertainment_B7_76",
+      "que": "Which celebrity starred in Keeping Up with the Kardashians?",
+      "ans": {
+        "value": "Kim Kardashian",
+        "correct_entity": "option_c"
+      },
+      "options": [
+        "Khloe Kardashian",
+        "Kylie Jenner",
+        "Kim Kardashian"
+      ],
+      "expl": [
+        "Kim Kardashian was the central figure of Keeping Up with the Kardashians, which ran for 14 years. The show helped launch a billion-dollar family brand."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "Khloe Kardashian",
+          "Khloé",
+          "Kardashian",
+          "cloe",
+          "Khloé Kardashian",
+          "kohli kardashian",
+          "kholi kardashian",
+          "kholi",
+          "kohli"
+        ],
+        "option_b": [
+          "Kylie Jenner",
+          "kylie",
+          "jenner"
+        ],
+        "option_c": [
+          "Kim Kardashian",
+          "Kim",
+          "Kardashian"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": ""
+    },
+    {
+      "id": "arts-and-entertainment_B7_77",
+      "que": "Who is the famous 'King of Rock and Roll'?",
+      "ans": {
+        "value": "Elvis Presley",
+        "correct_entity": "option_a"
+      },
+      "options": [
+        "Elvis Presley",
+        "Chuck Berry",
+        "Michael Jackson"
+      ],
+      "expl": [
+        "Elvis Presley earned the title “King of Rock and Roll” for transforming 1950s music. His live shows, style, and voice shaped modern pop culture."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "Elvis Presley",
+          "Elvis",
+          "Presley"
+        ],
+        "option_b": [
+          "Chuck Berry",
+          "Chuck",
+          "Berry",
+          "Chunck Berry",
+          "Chunck"
+        ],
+        "option_c": [
+          "Michael Jackson",
+          "Michael",
+          "Jackson"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": ""
+    },
+    {
+      "id": "arts-and-entertainment_B7_78",
+      "que": "Who was the first African-American woman to win Best Actress Oscar?",
+      "ans": {
+        "value": "Halle Berry",
+        "correct_entity": "option_b"
+      },
+      "options": [
+        "Viola Davis",
+        "Halle Berry",
+        "Whoopi Goldberg"
+      ],
+      "expl": [
+        "Halle Berry won the Oscar in 2002 for Monster’s Ball, making history. She remains the only Black woman to win that category so far."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "Viola Davis",
+          "Viola",
+          "Davis"
+        ],
+        "option_b": [
+          "Halle Berry",
+          "halle",
+          "berry",
+          "hall e. berry"
+        ],
+        "option_c": [
+          "Whoopi Goldberg",
+          "Whoopi",
+          "Goldberg",
+          "woopy",
+          "whoopy"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": ""
+    },
+    {
+      "id": "arts-and-entertainment_B7_79",
+      "que": "Who hosted The Daily Show before Trevor Noah?",
+      "ans": {
+        "value": "Jon Stewart",
+        "correct_entity": "option_b"
+      },
+      "options": [
+        "Stephen Colbert",
+        "Jon Stewart",
+        "Jimmy Fallon"
+      ],
+      "expl": [
+        "Jon Stewart hosted The Daily Show from 1999 to 2015. He turned it into one of the most influential satire programs in U.S. television."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "Stephen Colbert",
+          "Stephen",
+          "Colbert"
+        ],
+        "option_b": [
+          "Jon Stewart",
+          "Joan Stewart",
+          "John Stewart"
+        ],
+        "option_c": [
+          "Jimmy Fallon",
+          "Jimmy",
+          "Fallon"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": ""
+    },
+    {
+      "id": "arts-and-entertainment_B7_80",
+      "que": "Which actor won Best Actor in 2016 for The Revenant?",
+      "ans": {
+        "value": "Leonardo DiCaprio",
+        "correct_entity": "option_a"
+      },
+      "options": [
+        "Leonardo DiCaprio",
+        "Matt Damon",
+        "Christian Bale"
+      ],
+      "expl": [
+        "Leonardo DiCaprio finally won his first Oscar for The Revenant after years of nominations. The role required filming in freezing real-world conditions."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "Leonardo DiCaprio",
+          "Leonardo",
+          "DiCaprio",
+          "di caprio",
+          "de caprio",
+          "leonardo caprio"
+        ],
+        "option_b": [
+          "Matt Damon",
+          "matt",
+          "damon"
+        ],
+        "option_c": [
+          "Christian Bale",
+          "Christian",
+          "Bale",
+          "kristen bell"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": ""
+    },
+    {
+      "id": "arts-and-entertainment_B7_81",
+      "que": "Who is known as the 'King of Pop'?",
+      "ans": {
+        "value": "Michael Jackson",
+        "correct_entity": "option_b"
+      },
+      "options": [
+        "Prince",
+        "Michael Jackson",
+        "Elvis Presley"
+      ],
+      "expl": [
+        "Michael Jackson earned the title “King of Pop” through massive hits, iconic dance moves, and record-breaking sales. His album Thriller remains the best-selling of all time."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "Prince"
+        ],
+        "option_b": [
+          "Michael Jackson",
+          "Michael",
+          "Jackson"
+        ],
+        "option_c": [
+          "Elvis Presley",
+          "presley",
+          "elvis"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": ""
+    },
+    {
+      "id": "arts-and-entertainment_B7_82",
+      "que": "Which artist released the album 'Thriller' in 1982?",
+      "ans": {
+        "value": "Michael Jackson",
+        "correct_entity": "option_b"
+      },
+      "options": [
+        "Prince",
+        "Michael Jackson",
+        "Madonna"
+      ],
+      "expl": [
+        "Michael Jackson released Thriller in 1982 and it became the world’s best-selling album. The music video for the title track also changed MTV forever."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "Prince"
+        ],
+        "option_b": [
+          "Michael Jackson",
+          "Michael",
+          "Jackson"
+        ],
+        "option_c": [
+          "Madonna"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": ""
+    },
+    {
+      "id": "arts-and-entertainment_B7_83",
+      "que": "Who is the lead singer of the band U2?",
+      "ans": {
+        "value": "Bono",
+        "correct_entity": "option_a"
+      },
+      "options": [
+        "Bono",
+        "Sting",
+        "Chris Martin"
+      ],
+      "expl": [
+        "Bono is the frontman of U2 and known for both music and global activism. He has led the band since the 1970s."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "Bono",
+          "bona",
+          "oh no"
+        ],
+        "option_b": [
+          "Sting",
+          "stink"
+        ],
+        "option_c": [
+          "Chris Martin",
+          "martin",
+          "chris"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": ""
+    },
+    {
+      "id": "arts-and-entertainment_B7_84",
+      "que": "What genre is Taylor Swift best known for?",
+      "ans": {
+        "value": "Both",
+        "correct_entity": "option_c"
+      },
+      "options": [
+        "Country",
+        "Pop",
+        "Both"
+      ],
+      "expl": [
+        "Taylor Swift started in country music before fully shifting to pop. She is now one of the few artists with major success in multiple genres."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "Country"
+        ],
+        "option_b": [
+          "Pop"
+        ],
+        "option_c": [
+          "Both"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": ""
+    },
+    {
+      "id": "arts-and-entertainment_B7_85",
+      "que": "Which composer became deaf but still composed?",
+      "ans": {
+        "value": "Beethoven",
+        "correct_entity": "option_c"
+      },
+      "options": [
+        "Mozart",
+        "Bach",
+        "Beethoven"
+      ],
+      "expl": [
+        "Ludwig van Beethoven continued composing masterpieces even after losing his hearing. His Ninth Symphony was written when he was almost completely deaf."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "Mozart"
+        ],
+        "option_b": [
+          "Bach",
+          "butch",
+          "batch"
+        ],
+        "option_c": [
+          "Beethoven",
+          "Beeth oven"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": ""
+    },
+    {
+      "id": "arts-and-entertainment_B7_86",
+      "que": "Which band was first called 'The Quarrymen'?",
+      "ans": {
+        "value": "The Beatles",
+        "correct_entity": "option_a"
+      },
+      "options": [
+        "The Beatles",
+        "The Rolling Stones",
+        "The Who"
+      ],
+      "expl": [
+        "The Beatles began as The Quarrymen, formed by John Lennon in 1957. They later became the most influential band in music history."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "The Beatles",
+          "Beatles",
+          "beatless",
+          "bit less"
+        ],
+        "option_b": [
+          "The Rolling Stones",
+          "Rolling",
+          "Stones",
+          "the rolling stone"
+        ],
+        "option_c": [
+          "The Who",
+          "Who"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": ""
+    },
+    {
+      "id": "arts-and-entertainment_B7_87",
+      "que": "Who sang the 1990 hit 'Vogue'?",
+      "ans": {
+        "value": "Madonna",
+        "correct_entity": "option_a"
+      },
+      "options": [
+        "Madonna",
+        "Whitney Houston",
+        "Janet Jackson"
+      ],
+      "expl": [
+        "Madonna released “Vogue” in 1990, inspired by the underground ballroom culture. The song and music video made “vogueing” a mainstream dance style."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "Madonna"
+        ],
+        "option_b": [
+          "Whitney Houston",
+          "Whitney",
+          "Houston"
+        ],
+        "option_c": [
+          "Janet Jackson",
+          "Janet",
+          "Jackson"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": ""
+    },
+    {
+      "id": "arts-and-entertainment_B7_88",
+      "que": "Name the famous music festival in Indio, California.",
+      "ans": {
+        "value": "Coachella",
+        "correct_entity": "option_b"
+      },
+      "options": [
+        "Bonnaroo",
+        "Coachella",
+        "Lollapalooza"
+      ],
+      "expl": [
+        "Coachella is the massive annual music and arts festival held in Indio, California. It’s known for iconic performances and celebrity-filled fashion moments."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "Bonnaroo",
+          "bonaaru",
+          "bonru"
+        ],
+        "option_b": [
+          "Coachella"
+        ],
+        "option_c": [
+          "Lollapalooza"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": ""
+    },
+    {
+      "id": "arts-and-entertainment_B7_89",
+      "que": "Who is known for 'Like a Prayer' and 'Holiday'?",
+      "ans": {
+        "value": "Madonna",
+        "correct_entity": "option_b"
+      },
+      "options": [
+        "Whitney Houston",
+        "Madonna",
+        "Mariah Carey"
+      ],
+      "expl": [
+        "Madonna released both “Like a Prayer” and “Holiday,” two of her biggest career-defining hits. She is still one of the best-selling female artists ever."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "Whitney Houston",
+          "Whitney",
+          "Houston"
+        ],
+        "option_b": [
+          "Madonna"
+        ],
+        "option_c": [
+          "Mariah Carey",
+          "Mariah",
+          "Carey",
+          "marry curry"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": ""
+    },
+    {
+      "id": "arts-and-entertainment_B7_90",
+      "que": "Which band performed 'Bohemian Rhapsody'?",
+      "ans": {
+        "value": "Queen",
+        "correct_entity": "option_a"
+      },
+      "options": [
+        "Queen",
+        "The Beatles",
+        "Pink Floyd"
+      ],
+      "expl": [
+        "Queen recorded “Bohemian Rhapsody” in 1975, a song with no traditional chorus and six musical sections. It later inspired a hit biopic about Freddie Mercury."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "Queen"
+        ],
+        "option_b": [
+          "The Beatles",
+          "Beatles",
+          "beat less",
+          "bit less"
+        ],
+        "option_c": [
+          "Pink Floyd",
+          "Pink",
+          "Floyd"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": ""
+    },
+    {
+      "id": "arts-and-entertainment_B7_91",
+      "que": "Who sang 'Rolling in the Deep' ?",
+      "ans": {
+        "value": "Adele",
+        "correct_entity": "option_a"
+      },
+      "options": [
+        "Adele",
+        "Beyonce",
+        "Sia"
+      ],
+      "expl": [
+        "Adele’s “Rolling in the Deep” became a global hit and earned multiple Grammys. It helped her album 21 become one of the best-selling albums of the 21st century."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "Adele"
+        ],
+        "option_b": [
+          "Beyonce",
+          "Beyoncé"
+        ],
+        "option_c": [
+          "Sia",
+          "siya"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": ""
+    },
+    {
+      "id": "arts-and-entertainment_B7_92",
+      "que": "Who is Queen's lead singer?",
+      "ans": {
+        "value": "Freddie Mercury",
+        "correct_entity": "option_a"
+      },
+      "options": [
+        "Freddie Mercury",
+        "Brian May",
+        "Roger Taylor"
+      ],
+      "expl": [
+        "Freddie Mercury was the powerhouse vocalist of Queen, known for his wide vocal range and theatrical stage presence. He is still considered one of the greatest rock singers ever."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "Freddie Mercury",
+          "Freddie",
+          "Mercury"
+        ],
+        "option_b": [
+          "Brian May",
+          "Brian",
+          "May"
+        ],
+        "option_c": [
+          "Roger Taylor",
+          "Roger",
+          "Taylor",
+          "robert taylor"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": ""
+    },
+    {
+      "id": "arts-and-entertainment_B7_93",
+      "que": "Which band sang 'Sweet Child O' Mine'?",
+      "ans": {
+        "value": "Guns N' Roses",
+        "correct_entity": "option_b"
+      },
+      "options": [
+        "Aerosmith",
+        "Guns N' Roses",
+        "Bon Jovi"
+      ],
+      "expl": [
+        "Guns N’ Roses released “Sweet Child O’ Mine” in 1987, and it became their first No.1 single. The guitar riff is one of the most recognizable in rock history."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "Aerosmith",
+          "aero",
+          "smith"
+        ],
+        "option_b": [
+          "Guns N' Roses",
+          "Guns",
+          "Roses",
+          "guns n. roses",
+          "guns and roses",
+          "gun and roses",
+          "gun n. roses",
+          "guns and rose",
+          "guns n. rose",
+          "gun and rose",
+          "gun n. rose"
+        ],
+        "option_c": [
+          "Bon Jovi",
+          "Bon",
+          "Jovi"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": ""
+    },
+    {
+      "id": "arts-and-entertainment_B7_94",
+      "que": "Who wrote 'The Magic Flute'?",
+      "ans": {
+        "value": "Mozart",
+        "correct_entity": "option_a"
+      },
+      "options": [
+        "Mozart",
+        "Beethoven",
+        "Bach"
+      ],
+      "expl": [
+        "Mozart composed The Magic Flute in 1791, one of his final works. It blends opera with fairy-tale storytelling and symbolism."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "Mozart"
+        ],
+        "option_b": [
+          "Beethoven"
+        ],
+        "option_c": [
+          "Bach",
+          "back",
+          "batch"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": ""
+    },
+    {
+      "id": "arts-and-entertainment_B7_95",
+      "que": "Who released '1989' in 2014?",
+      "ans": {
+        "value": "Taylor Swift",
+        "correct_entity": "option_b"
+      },
+      "options": [
+        "Selena Gomez",
+        "Taylor Swift",
+        "Katy Perry"
+      ],
+      "expl": [
+        "Taylor Swift released 1989 as her first full pop album, winning Album of the Year at the Grammys. It includes hits like “Shake It Off” and “Blank Space.”"
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "Selena Gomez",
+          "Selena",
+          "Gomez",
+          "gomes"
+        ],
+        "option_b": [
+          "Taylor Swift",
+          "taylor",
+          "swift"
+        ],
+        "option_c": [
+          "Katy Perry",
+          "Katy",
+          "Perry"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": ""
+    },
+    {
+      "id": "arts-and-entertainment_B7_96",
+      "que": "Who sang 'Wrecking Ball'?",
+      "ans": {
+        "value": "Miley Cyrus",
+        "correct_entity": "option_b"
+      },
+      "options": [
+        "Katy Perry",
+        "Miley Cyrus",
+        "Demi Lovato"
+      ],
+      "expl": [
+        "Miley Cyrus released \"Wrecking Ball\" in 2013, and its music video broke YouTube’s record for fastest to 100 million views. It also won Video of the Year at the VMAs."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "Katy Perry",
+          "Katy",
+          "Perry"
+        ],
+        "option_b": [
+          "Miley Cyrus",
+          "cyrus",
+          "miley"
+        ],
+        "option_c": [
+          "Demi Lovato",
+          "Demi",
+          "Lovato"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": ""
+    },
+    {
+      "id": "arts-and-entertainment_B7_97",
+      "que": "What is the best-selling album of all time?",
+      "ans": {
+        "value": "Thriller",
+        "correct_entity": "option_a"
+      },
+      "options": [
+        "Thriller",
+        "Back in Black",
+        "The Dark Side of the Moon"
+      ],
+      "expl": [
+        "Michael Jackson’s Thriller has sold over 70 million copies worldwide. It also earned a record-breaking 8 Grammys in one night."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "Thriller"
+        ],
+        "option_b": [
+          "Back in Black",
+          "Back",
+          "in",
+          "Black"
+        ],
+        "option_c": [
+          "The Dark Side of the Moon",
+          "Dark",
+          "Side",
+          "Moon",
+          "dark side",
+          "side of the moon",
+          "ther dark side",
+          "dark side of moon"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": ""
+    },
+    {
+      "id": "arts-and-entertainment_B7_98",
+      "que": "Which singer owns a NYC restaurant?",
+      "ans": {
+        "value": "Lady Gaga",
+        "correct_entity": "option_a"
+      },
+      "options": [
+        "Lady Gaga",
+        "Taylor Swift",
+        "Beyonce"
+      ],
+      "expl": [
+        "Lady Gaga co-owns a New York City Italian restaurant called Joanne Trattoria. It’s named after her late aunt and run by her family."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "Lady Gaga",
+          "Lady",
+          "Gaga"
+        ],
+        "option_b": [
+          "Taylor Swift",
+          "taylor",
+          "swift"
+        ],
+        "option_c": [
+          "Beyonce",
+          "Beyoncé"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": ""
+    },
+    {
+      "id": "arts-and-entertainment_B7_99",
+      "que": "In which movie does the quote 'Nobody puts Baby in a corner' appear?",
+      "ans": {
+        "value": "Dirty Dancing",
+        "correct_entity": "option_a"
+      },
+      "options": [
+        "Dirty Dancing",
+        "Grease",
+        "Footloose"
+      ],
+      "expl": [
+        "The quote “Nobody puts Baby in a corner” is from the 1987 film Dirty Dancing. Patrick Swayze says the line before the famous final dance scene."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "Dirty Dancing",
+          "Dirty",
+          "Dancing"
+        ],
+        "option_b": [
+          "Grease",
+          "greece"
+        ],
+        "option_c": [
+          "Footloose",
+          "foot loose"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": ""
+    },
+    {
+      "id": "arts-and-entertainment_B7_100",
+      "que": "Which '90s animated movie featured the song 'A Whole New World'?",
+      "ans": {
+        "value": "Aladdin",
+        "correct_entity": "option_a"
+      },
+      "options": [
+        "Aladdin",
+        "Mulan",
+        "The Lion King"
+      ],
+      "expl": [
+        "The song “A Whole New World” appears in Disney’s 1992 animated film Aladdin. It won the Academy Award for Best Original Song."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "Aladdin"
+        ],
+        "option_b": [
+          "Mulan"
+        ],
+        "option_c": [
+          "The Lion King",
+          "lion king"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": ""
+    },
+    {
+      "id": "arts-and-entertainment_B7_101",
+      "que": "What art movement is Salvador Dalí associated with?",
+      "ans": {
+        "value": "Surrealism",
+        "correct_entity": "option_b"
+      },
+      "options": [
+        "Cubism",
+        "Surrealism",
+        "Impressionism"
+      ],
+      "expl": [
+        "Surrealism is the art movement Salvador Dalí is most associated with. His work features dream-like scenes, melting clocks, and strange symbolism meant to tap into the subconscious."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "Cubism"
+        ],
+        "option_b": [
+          "Surrealism"
+        ],
+        "option_c": [
+          "Impressionism"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": ""
+    },
+    {
+      "id": "arts-and-entertainment_B7_102",
+      "que": "What is the law firm in 'The Good Wife'?",
+      "ans": {
+        "value": "Lockhart Gardner",
+        "correct_entity": "option_a"
+      },
+      "options": [
+        "Lockhart Gardner",
+        "Pearson Hardman",
+        "Reddick Boseman"
+      ],
+      "expl": [
+        "Lockhart Gardner is the fictional law firm in the TV drama The Good Wife. It serves as the central workplace throughout the early seasons of the show."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "Lockhart Gardner",
+          "Lockhart",
+          "Gardner",
+          "lock heart",
+          "lock heart gardener",
+          "lock hard gardener"
+        ],
+        "option_b": [
+          "Pearson Hardman",
+          "Pearson",
+          "Hardman",
+          "pear son",
+          "hard man",
+          "pearson hard man"
+        ],
+        "option_c": [
+          "Reddick Boseman",
+          "Reddick",
+          "Boseman"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": ""
+    },
+    {
+      "id": "arts-and-entertainment_B7_103",
+      "que": "Who appeared with Britney Spears in a denim outfit?",
+      "ans": {
+        "value": "Justin Timberlake",
+        "correct_entity": "option_a"
+      },
+      "options": [
+        "Justin Timberlake",
+        "Nick Carter",
+        "JC Chasez"
+      ],
+      "expl": [
+        "Justin Timberlake appeared with Britney Spears in matching denim outfits at the 2001 American Music Awards. The look has since become one of pop culture’s most memorable red-carpet moments."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "Justin Timberlake",
+          "Justin",
+          "Timberlake"
+        ],
+        "option_b": [
+          "Nick Carter",
+          "Nick",
+          "Carter"
+        ],
+        "option_c": [
+          "JC Chasez",
+          "JC",
+          "Chasez",
+          "j. c.",
+          "j. c. chases"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": ""
+    },
+    {
+      "id": "arts-and-entertainment_B7_104",
+      "que": "Who wrote 'The Handmaid's Tale'?",
+      "ans": {
+        "value": "Margaret Atwood",
+        "correct_entity": "option_a"
+      },
+      "options": [
+        "Margaret Atwood",
+        "Suzanne Collins",
+        "Atwood Morrison"
+      ],
+      "expl": [
+        "The Handmaid's Tale was written by Margaret Atwood, a Canadian author known for her dystopian themes. The novel explores a future society where women lose their rights."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "Margaret Atwood",
+          "Margaret",
+          "Atwood"
+        ],
+        "option_b": [
+          "Suzanne Collins",
+          "Suzanne",
+          "Collins"
+        ],
+        "option_c": [
+          "Atwood Morrison",
+          "Atwood",
+          "Morrison"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": ""
+    },
+    {
+      "id": "arts-and-entertainment_B7_105",
+      "que": "Who does Han Solo shoot in the Mos Eisley Cantina?",
+      "ans": {
+        "value": "Greedo",
+        "correct_entity": "option_a"
+      },
+      "options": [
+        "Greedo",
+        "Jabba",
+        "Boba Fett"
+      ],
+      "expl": [
+        "In the original Star Wars, Han Solo shoots Greedo in the Mos Eisley Cantina. The moment sparked years of debate over “who shot first.”"
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "Greedo"
+        ],
+        "option_b": [
+          "Jabba"
+        ],
+        "option_c": [
+          "Boba Fett",
+          "Boba",
+          "Fett"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": ""
+    },
+    {
+      "id": "arts-and-entertainment_B7_106",
+      "que": "Which Jonas Brother did Miley Cyrus date?",
+      "ans": {
+        "value": "Nick",
+        "correct_entity": "option_a"
+      },
+      "options": [
+        "Nick",
+        "Joe",
+        "Kevin"
+      ],
+      "expl": [
+        "Nick Jonas dated Miley Cyrus during their early Disney Channel years. Their teen romance was widely covered in pop culture at the time."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "Nick"
+        ],
+        "option_b": [
+          "Joe",
+          "john"
+        ],
+        "option_c": [
+          "Kevin"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": ""
+    },
+    {
+      "id": "arts-and-entertainment_B7_107",
+      "que": "What is Finn's weapon in 'Sharknado'?",
+      "ans": {
+        "value": "Chainsaw",
+        "correct_entity": "option_b"
+      },
+      "options": [
+        "Axe",
+        "Chainsaw",
+        "Gun"
+      ],
+      "expl": [
+        "In Sharknado, Finn’s signature weapon is a chainsaw. It becomes iconic after he uses it to fight flying sharks."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "Axe",
+          "x."
+        ],
+        "option_b": [
+          "Chainsaw",
+          "chain saw"
+        ],
+        "option_c": [
+          "Gun"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": ""
+    },
+    {
+      "id": "arts-and-entertainment_B7_108",
+      "que": "Where does Curious George live?",
+      "ans": {
+        "value": "New York City",
+        "correct_entity": "option_a"
+      },
+      "options": [
+        "New York City",
+        "Chicago",
+        "Boston"
+      ],
+      "expl": [
+        "Curious George lives in New York City with the Man with the Yellow Hat. The city is the setting for many of his adventures in books and TV episodes."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "New York City",
+          "new york",
+          "n. y.",
+          "n. y. city"
+        ],
+        "option_b": [
+          "Chicago"
+        ],
+        "option_c": [
+          "Boston"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": ""
+    },
+    {
+      "id": "arts-and-entertainment_B7_109",
+      "que": "Who sang the theme song to 'The Big Bang Theory'?",
+      "ans": {
+        "value": "Barenaked Ladies",
+        "correct_entity": "option_a"
+      },
+      "options": [
+        "Barenaked Ladies",
+        "They Might Be Giants",
+        "R.E.M."
+      ],
+      "expl": [
+        "The theme song for The Big Bang Theory was performed by the band Barenaked Ladies. The song quickly became recognizable thanks to its fast-paced lyrics about the history of the universe."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "Barenaked Ladies",
+          "Barenaked",
+          "Ladies",
+          "bare necked ladies"
+        ],
+        "option_b": [
+          "They Might Be Giants",
+          "They",
+          "Might",
+          "Be",
+          "Giants"
+        ],
+        "option_c": [
+          "R.E.M.",
+          "R. E. M."
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": ""
+    },
+    {
+      "id": "arts-and-entertainment_B7_110",
+      "que": "Which award has Lady Gaga not been nominated for in an EGOT?",
+      "ans": {
+        "value": "Tony",
+        "correct_entity": "option_a"
+      },
+      "options": [
+        "Tony",
+        "Emmy",
+        "Grammy"
+      ],
+      "expl": [
+        "Lady Gaga has never been nominated for a Tony Award, the “T” in EGOT. She has nominations or wins in the other three: Emmy, Grammy, and Oscar."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "Tony"
+        ],
+        "option_b": [
+          "Emmy",
+          "amy"
+        ],
+        "option_c": [
+          "Grammy",
+          "granny"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": ""
+    },
+    {
+      "id": "arts-and-entertainment_B7_111",
+      "que": "What is Hello Kitty's pet cat's name?",
+      "ans": {
+        "value": "Charmmy",
+        "correct_entity": "option_a"
+      },
+      "options": [
+        "Charmmy",
+        "Mimi",
+        "Whiskers"
+      ],
+      "expl": [
+        "Hello Kitty’s pet cat is named Charmmy Kitty, a fluffy white Persian. She often wears a key around her neck given by Hello Kitty’s father."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "Charmmy",
+          "charmy"
+        ],
+        "option_b": [
+          "Mimi",
+          "mini",
+          "me me"
+        ],
+        "option_c": [
+          "Whiskers",
+          "Whisker"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": ""
+    },
+    {
+      "id": "arts-and-entertainment_B7_112",
+      "que": "Who had the Billboard Song of the Year in 2002 with 'Hot in Herre'?",
+      "ans": {
+        "value": "Nelly",
+        "correct_entity": "option_b"
+      },
+      "options": [
+        "Eminem",
+        "Nelly",
+        "Ja Rule"
+      ],
+      "expl": [
+        "Nelly had the Billboard Song of the Year in 2002 with “Hot in Herre.” The track became a huge summer anthem."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "Eminem"
+        ],
+        "option_b": [
+          "Nelly"
+        ],
+        "option_c": [
+          "Ja Rule",
+          "Ja",
+          "Rule"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": ""
+    },
+    {
+      "id": "arts-and-entertainment_B7_113",
+      "que": "What is the kingdom in The Legend of Zelda?",
+      "ans": {
+        "value": "Hyrule",
+        "correct_entity": "option_a"
+      },
+      "options": [
+        "Hyrule",
+        "Mordor",
+        "Asgard"
+      ],
+      "expl": [
+        "Hyrule is the main kingdom in The Legend of Zelda video game series. It appears in most of the franchise's games as the central world."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "Hyrule",
+          "hirule",
+          "hierule",
+          "high rule"
+        ],
+        "option_b": [
+          "Mordor",
+          "murder"
+        ],
+        "option_c": [
+          "Asgard",
+          "ass guard"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": ""
+    },
+    {
+      "id": "arts-and-entertainment_B7_114",
+      "que": "Which Barbie did Emerald Fennel play in the 'Barbie' movie?",
+      "ans": {
+        "value": "Midge",
+        "correct_entity": "option_b"
+      },
+      "options": [
+        "Skipper",
+        "Midge",
+        "Barbie Doctor"
+      ],
+      "expl": [
+        "Emerald Fennell played Midge, the pregnant Barbie, in the 2023 Barbie movie. The character is based on an actual discontinued Barbie doll."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "Skipper",
+          "skip"
+        ],
+        "option_b": [
+          "Midge",
+          "mitch"
+        ],
+        "option_c": [
+          "Barbie Doctor",
+          "Barbie",
+          "Doctor"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": ""
+    },
+    {
+      "id": "arts-and-entertainment_B7_115",
+      "que": "Who was Nirvana's lead singer?",
+      "ans": {
+        "value": "Kurt Cobain",
+        "correct_entity": "option_c"
+      },
+      "options": [
+        "Eddie Vedder",
+        "Chris Cornell",
+        "Kurt Cobain"
+      ],
+      "expl": [
+        "Kurt Cobain was the lead singer and guitarist of Nirvana, one of the most influential grunge bands of the 1990s. He wrote many of their biggest hits, including “Smells Like Teen Spirit.”"
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "Eddie Vedder",
+          "Eddie",
+          "Vedder"
+        ],
+        "option_b": [
+          "Chris Cornell",
+          "Chris",
+          "Cornell"
+        ],
+        "option_c": [
+          "Kurt Cobain",
+          "Kurt",
+          "Cobain"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": ""
+    },
+    {
+      "id": "arts-and-entertainment_B7_116",
+      "que": "Which musical features the song 'Memory'?",
+      "ans": {
+        "value": "Cats",
+        "correct_entity": "option_a"
+      },
+      "options": [
+        "Cats",
+        "Les Miserables",
+        "Phantom"
+      ],
+      "expl": [
+        "The song “Memory” comes from the musical Cats, composed by Andrew Lloyd Webber. It's the show's most famous and most often-covered song."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "Cats",
+          "cat"
+        ],
+        "option_b": [
+          "Les Miserables",
+          "Les",
+          "Misérables",
+          "Les Misérables",
+          "miserables",
+          "less miserables",
+          "les miserable"
+        ],
+        "option_c": [
+          "Phantom"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": ""
+    },
+    {
+      "id": "arts-and-entertainment_B7_117",
+      "que": "Where do Sam and Annie meet in 'Sleepless in Seattle'?",
+      "ans": {
+        "value": "Empire State Building",
+        "correct_entity": "option_a"
+      },
+      "options": [
+        "Empire State Building",
+        "Central Park",
+        "Golden Gate"
+      ],
+      "expl": [
+        "In Sleepless in Seattle, Sam and Annie finally meet at the top of the Empire State Building. The scene is a tribute to the classic film An Affair to Remember."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "Empire State Building",
+          "Empire",
+          "State",
+          "Building",
+          "empire state",
+          "empire building"
+        ],
+        "option_b": [
+          "Central Park"
+        ],
+        "option_c": [
+          "Golden Gate",
+          "Golden",
+          "Gate",
+          "golden get"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": ""
+    },
+    {
+      "id": "arts-and-entertainment_B7_118",
+      "que": "Who played Agent Dana Scully in The X-Files?",
+      "ans": {
+        "value": "Gillian Anderson",
+        "correct_entity": "option_a"
+      },
+      "options": [
+        "Gillian Anderson",
+        "Jodie Foster",
+        "Sarah Paulson"
+      ],
+      "expl": [
+        "Gillian Anderson played Agent Dana Scully in The X-Files, opposite David Duchovny’s Fox Mulder. Her character helped popularize smart, skeptical female leads in sci-fi."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "Gillian Anderson",
+          "Gillian",
+          "Anderson"
+        ],
+        "option_b": [
+          "Jodie Foster",
+          "jodie",
+          "foster"
+        ],
+        "option_c": [
+          "Sarah Paulson",
+          "Sarah",
+          "Paulson"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": ""
+    },
+    {
+      "id": "arts-and-entertainment_B7_119",
+      "que": "Who wrote 'I'm Glad My Mom Died'?",
+      "ans": {
+        "value": "Jennette McCurdy",
+        "correct_entity": "option_b"
+      },
+      "options": [
+        "Demi Lovato",
+        "Jennette McCurdy",
+        "Amanda Bynes"
+      ],
+      "expl": [
+        "Jennette McCurdy wrote the bestselling memoir I’m Glad My Mom Died in 2022. The book details her childhood acting career and difficult family life."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "Demi Lovato",
+          "Demi",
+          "Lovato"
+        ],
+        "option_b": [
+          "Jennette McCurdy",
+          "Jennette",
+          "McCurdy",
+          "janet mccartney",
+          "janet McCurdy"
+        ],
+        "option_c": [
+          "Amanda Bynes",
+          "Amanda",
+          "Bynes"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": ""
+    },
+    {
+      "id": "arts-and-entertainment_B7_120",
+      "que": "Where was William Shakespeare born?",
+      "ans": {
+        "value": "Stratford-upon-Avon",
+        "correct_entity": "option_b"
+      },
+      "options": [
+        "London",
+        "Stratford-upon-Avon",
+        "Bath"
+      ],
+      "expl": [
+        "William Shakespeare was born in Stratford-upon-Avon, England, in 1564. The town is now a major tourist destination for literature fans."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "London"
+        ],
+        "option_b": [
+          "Stratford-upon-Avon",
+          "stratford upon avon"
+        ],
+        "option_c": [
+          "Bath"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": ""
+    },
+    {
+      "id": "arts-and-entertainment_B7_121",
+      "que": "Which Banksy painting shredded itself after being sold?",
+      "ans": {
+        "value": "Love is in the Bin",
+        "correct_entity": "option_b"
+      },
+      "options": [
+        "Girl with Balloon",
+        "Love is in the Bin",
+        "Hope"
+      ],
+      "expl": [
+        "Banksy’s painting “Love is in the Bin” famously shredded itself right after being sold at auction in 2018. The stunt was part of the artwork's intended concept."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "Girl with Balloon",
+          "Girl",
+          "with",
+          "Balloon"
+        ],
+        "option_b": [
+          "Love is in the Bin",
+          "Love",
+          "is",
+          "in",
+          "Bin",
+          "love is in bin",
+          "love is an bean"
+        ],
+        "option_c": [
+          "Hope"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": ""
+    },
+    {
+      "id": "arts-and-entertainment_B7_122",
+      "que": "Where do Mel and Josh go in Schmigadoon Season 2?",
+      "ans": {
+        "value": "Schmicago",
+        "correct_entity": "option_a"
+      },
+      "options": [
+        "Schmicago",
+        "Shmollywood",
+        "Schmorleans"
+      ],
+      "expl": [
+        "In Season 2 of Schmigadoon!, the characters travel to Schmicago, a darker, more dramatic musical world. It parodies gritty Broadway shows like Chicago and Cabaret."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "Schmicago"
+        ],
+        "option_b": [
+          "Shmollywood",
+          "smallly wood",
+          "smallywood"
+        ],
+        "option_c": [
+          "Schmorleans"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": ""
+    },
+    {
+      "id": "arts-and-entertainment_B7_123",
+      "que": "Who was nicknamed 'Satchmo'?",
+      "ans": {
+        "value": "Louis Armstrong",
+        "correct_entity": "option_a"
+      },
+      "options": [
+        "Louis Armstrong",
+        "Miles Davis",
+        "Duke Ellington"
+      ],
+      "expl": [
+        "Jazz legend Louis Armstrong was famously nicknamed “Satchmo,” short for “satchel mouth,” referring to his wide grin and booming voice. He became one of the most influential figures in jazz history."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "Louis Armstrong",
+          "Louis",
+          "Armstrong"
+        ],
+        "option_b": [
+          "Miles Davis",
+          "Miles",
+          "Davis"
+        ],
+        "option_c": [
+          "Duke Ellington",
+          "Duke",
+          "Ellington"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": ""
+    },
+    {
+      "id": "arts-and-entertainment_B7_124",
+      "que": "Which musical scale moves in half steps?",
+      "ans": {
+        "value": "Chromatic",
+        "correct_entity": "option_c"
+      },
+      "options": [
+        "Pentatonic",
+        "Major",
+        "Chromatic"
+      ],
+      "expl": [
+        "The chromatic scale moves entirely in half steps, containing all twelve notes in Western music. It’s often used for dramatic or colorful musical passages."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "Pentatonic"
+        ],
+        "option_b": [
+          "Major"
+        ],
+        "option_c": [
+          "Chromatic"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": ""
+    },
+    {
+      "id": "arts-and-entertainment_B7_125",
+      "que": "Which singer was married to Nick Lachey?",
+      "ans": {
+        "value": "Jessica Simpson",
+        "correct_entity": "option_b"
+      },
+      "options": [
+        "Mandy Moore",
+        "Jessica Simpson",
+        "Ashlee Simpson"
+      ],
+      "expl": [
+        "Jessica Simpson was married to Nick Lachey from 2002 to 2006. Their relationship was widely known thanks to their reality show Newlyweds."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "Mandy Moore",
+          "Mandy",
+          "Moore"
+        ],
+        "option_b": [
+          "Jessica Simpson",
+          "Jessica"
+        ],
+        "option_c": [
+          "Ashlee Simpson",
+          "Ashlee"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": ""
+    },
+    {
+      "id": "arts-and-entertainment_B7_126",
+      "que": "La Boheme' was composed by whom?",
+      "ans": {
+        "value": "Puccini",
+        "correct_entity": "option_a"
+      },
+      "options": [
+        "Puccini",
+        "Bernstein",
+        "Mozart"
+      ],
+      "expl": [
+        "Giacomo Puccini composed the opera La Bohème in the 1890s. It remains one of the most performed operas in the world."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "Puccini"
+        ],
+        "option_b": [
+          "Bernstein"
+        ],
+        "option_c": [
+          "Mozart"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": ""
+    },
+    {
+      "id": "arts-and-entertainment_B7_127",
+      "que": "Who are Polin in Bridgerton?",
+      "ans": {
+        "value": "Penelope and Colin",
+        "correct_entity": "option_a"
+      },
+      "options": [
+        "Penelope and Colin",
+        "Phoebe and Linus",
+        "Portia and Leo"
+      ],
+      "expl": [
+        "“Polin” is the fan nickname for Penelope Featherington and Colin Bridgerton from the Netflix series Bridgerton. Their friends-to-lovers arc is one of the show’s most popular storylines."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "Penelope and Colin",
+          "Penelope",
+          "Colin"
+        ],
+        "option_b": [
+          "Phoebe and Linus",
+          "Phoebe",
+          "Linus",
+          "phobia and linus",
+          "phobi",
+          "phobia"
+        ],
+        "option_c": [
+          "Portia and Leo",
+          "Portia",
+          "Leo"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": ""
+    },
+    {
+      "id": "arts-and-entertainment_B7_128",
+      "que": "Which song did Weird Al parody in 'The Saga Begins'?",
+      "ans": {
+        "value": "American Pie",
+        "correct_entity": "option_a"
+      },
+      "options": [
+        "American Pie",
+        "Bohemian Rhapsody",
+        "Beat It"
+      ],
+      "expl": [
+        "Weird Al’s parody “The Saga Begins” uses the melody of Don McLean’s “American Pie.” The lyrics retell Star Wars: Episode I from Obi-Wan Kenobi’s point of view."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "American Pie",
+          "American",
+          "Pie"
+        ],
+        "option_b": [
+          "Bohemian Rhapsody",
+          "Bohemian",
+          "Rhapsody"
+        ],
+        "option_c": [
+          "Beat It",
+          "Beat",
+          "It"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": ""
+    },
+    {
+      "id": "arts-and-entertainment_B7_129",
+      "que": "Desdemona is a character in which play?",
+      "ans": {
+        "value": "Othello",
+        "correct_entity": "option_a"
+      },
+      "options": [
+        "Othello",
+        "Hamlet",
+        "Macbeth"
+      ],
+      "expl": [
+        "Desdemona is a major character in Shakespeare’s tragedy Othello. Her tragic fate is central to the play’s themes of jealousy and betrayal."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "Othello"
+        ],
+        "option_b": [
+          "Hamlet"
+        ],
+        "option_c": [
+          "Macbeth",
+          "mac bed"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": ""
+    },
+    {
+      "id": "arts-and-entertainment_B7_130",
+      "que": "Who voices Elsa in 'Frozen'?",
+      "ans": {
+        "value": "Idina Menzel",
+        "correct_entity": "option_b"
+      },
+      "options": [
+        "Kristen Bell",
+        "Idina Menzel",
+        "Adele Dazeem"
+      ],
+      "expl": [
+        "Idina Menzel voices Elsa in Disney’s Frozen and is known for performing “Let It Go.” She is also a celebrated Broadway star."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "Kristen Bell",
+          "Kristen",
+          "Bell"
+        ],
+        "option_b": [
+          "Idina Menzel",
+          "Idina",
+          "Menzel",
+          "irina menzel"
+        ],
+        "option_c": [
+          "Adele Dazeem",
+          "Adele",
+          "Dazeem",
+          "adele dazzin",
+          "adele daisy"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": ""
+    },
+    {
+      "id": "arts-and-entertainment_B7_131",
+      "que": "Which 2019 song beat 'Despacito' on Billboard?",
+      "ans": {
+        "value": "Old Town Road",
+        "correct_entity": "option_a"
+      },
+      "options": [
+        "Old Town Road",
+        "Bad Guy",
+        "Senorita"
+      ],
+      "expl": [
+        "Old Town Road by Lil Nas X broke records on the Billboard charts, surpassing the long-running success of “Despacito.” It blended rap and country in a viral hit."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "Old Town Road",
+          "Old",
+          "Town",
+          "Road"
+        ],
+        "option_b": [
+          "Bad Guy",
+          "Bad",
+          "Guy"
+        ],
+        "option_c": [
+          "Senorita"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": ""
+    },
+    {
+      "id": "arts-and-entertainment_B7_132",
+      "que": "Marian the Librarian appears in which musical?",
+      "ans": {
+        "value": "The Music Man",
+        "correct_entity": "option_a"
+      },
+      "options": [
+        "The Music Man",
+        "Oklahoma!",
+        "Hello, Dolly!"
+      ],
+      "expl": [
+        "Marian the Librarian is a lead character in the musical The Music Man. She becomes the love interest of con man Harold Hill."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "The Music Man",
+          "Music",
+          "Man",
+          "music man"
+        ],
+        "option_b": [
+          "Oklahoma!",
+          "Oklahoma"
+        ],
+        "option_c": [
+          "Hello, Dolly!",
+          "Hello",
+          "Dolly",
+          "hello dolly",
+          "hello doll"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": ""
+    },
+    {
+      "id": "arts-and-entertainment_B7_133",
+      "que": "Who painted 'The Girl with a Pearl Earring'?",
+      "ans": {
+        "value": "Vermeer",
+        "correct_entity": "option_b"
+      },
+      "options": [
+        "Rembrandt",
+        "Vermeer",
+        "Michelangelo"
+      ],
+      "expl": [
+        "Johannes Vermeer painted Girl with a Pearl Earring in the 17th century. The mysterious subject and soft light make it one of his most famous works."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "Rembrandt"
+        ],
+        "option_b": [
+          "Vermeer"
+        ],
+        "option_c": [
+          "Michelangelo"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": ""
+    },
+    {
+      "id": "arts-and-entertainment_B7_134",
+      "que": "Which former American Idol contestant tours with Queen?",
+      "ans": {
+        "value": "Adam Lambert",
+        "correct_entity": "option_a"
+      },
+      "options": [
+        "Adam Lambert",
+        "David Cook",
+        "Clay Aiken"
+      ],
+      "expl": [
+        "Adam Lambert tours as the lead vocalist with the rock band Queen. He performs in place of Freddie Mercury but keeps Mercury’s legacy central to the show."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "Adam Lambert",
+          "Adam",
+          "Lambert"
+        ],
+        "option_b": [
+          "David Cook",
+          "David",
+          "Cook"
+        ],
+        "option_c": [
+          "Clay Aiken",
+          "Clay",
+          "Aiken",
+          "play again",
+          "play aiken",
+          "play akon"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": ""
+    },
+    {
+      "id": "arts-and-entertainment_B7_135",
+      "que": "What does the Itsy Bitsy Spider climb up?",
+      "ans": {
+        "value": "Water spout",
+        "correct_entity": "option_c"
+      },
+      "options": [
+        "Tree",
+        "Drainpipe",
+        "Water spout"
+      ],
+      "expl": [
+        "In the nursery rhyme, the Itsy Bitsy Spider climbs up the water spout. Rain washes it down, but it climbs again once the sun dries the spout."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "Tree"
+        ],
+        "option_b": [
+          "Drainpipe",
+          "drain pipe"
+        ],
+        "option_c": [
+          "Water spout",
+          "Water",
+          "spout",
+          "waterspout"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": ""
+    },
+    {
+      "id": "arts-and-entertainment_B7_136",
+      "que": "What color is Wario's hat?",
+      "ans": {
+        "value": "Yellow",
+        "correct_entity": "option_b"
+      },
+      "options": [
+        "Red",
+        "Yellow",
+        "Purple"
+      ],
+      "expl": [
+        "Wario’s hat is bright yellow with a blue “W” on the front. It matches the rest of his mischievous, upside-down Mario style."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "Red"
+        ],
+        "option_b": [
+          "Yellow"
+        ],
+        "option_c": [
+          "Purple"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": ""
+    },
+    {
+      "id": "arts-and-entertainment_B7_137",
+      "que": "How many strings does a violin have?",
+      "ans": {
+        "value": "4",
+        "correct_entity": "option_a"
+      },
+      "options": [
+        "4",
+        "5",
+        "6"
+      ],
+      "expl": [
+        "A standard violin has four strings: G, D, A, and E. They are tuned in perfect fifths and played with a bow."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "4",
+          "four"
+        ],
+        "option_b": [
+          "5",
+          "five"
+        ],
+        "option_c": [
+          "6",
+          "six"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": ""
+    },
+    {
+      "id": "arts-and-entertainment_B7_138",
+      "que": "What vegetable is Larry in VeggieTales?",
+      "ans": {
+        "value": "Cucumber",
+        "correct_entity": "option_b"
+      },
+      "options": [
+        "Carrot",
+        "Cucumber",
+        "Zucchini"
+      ],
+      "expl": [
+        "Larry the Cucumber is a main character in the animated series VeggieTales. He’s known for being goofy, friendly, and often clueless."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "Carrot",
+          "carrots"
+        ],
+        "option_b": [
+          "Cucumber",
+          "cucumbers"
+        ],
+        "option_c": [
+          "Zucchini"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": ""
+    },
+    {
+      "id": "arts-and-entertainment_B7_139",
+      "que": "What is Bulbasaur's final evolution?",
+      "ans": {
+        "value": "Venusaur",
+        "correct_entity": "option_a"
+      },
+      "options": [
+        "Venusaur",
+        "Ivysaur",
+        "Charmander"
+      ],
+      "expl": [
+        "Bulbasaur evolves into Ivysaur, then finally into Venusaur, its strongest form. Venusaur is a dual-type Grass/Poison Pokémon."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "Venusaur",
+          "venusour"
+        ],
+        "option_b": [
+          "Ivysaur",
+          "ivy sore",
+          "ivy song"
+        ],
+        "option_c": [
+          "Charmander"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": ""
+    },
+    {
+      "id": "arts-and-entertainment_B7_140",
+      "que": "What was Marilyn Monroe's real name?",
+      "ans": {
+        "value": "Norma Jean Baker",
+        "correct_entity": "option_a"
+      },
+      "options": [
+        "Norma Jean Baker",
+        "Marilyn Goldwyn",
+        "Jean Monroe"
+      ],
+      "expl": [
+        "Marilyn Monroe was born Norma Jean Baker in 1926. She adopted her famous stage name when she began modeling and acting."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "Norma Jean Baker",
+          "Norma",
+          "Jean",
+          "Baker"
+        ],
+        "option_b": [
+          "Marilyn Goldwyn",
+          "Marilyn",
+          "Goldwyn"
+        ],
+        "option_c": [
+          "Jean Monroe",
+          "Jean",
+          "Monroe",
+          "monrow"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": ""
+    },
+    {
+      "id": "arts-and-entertainment_B7_141",
+      "que": "Which musical shares a name with a Gloria Estefan song?",
+      "ans": {
+        "value": "On Your Feet",
+        "correct_entity": "option_a"
+      },
+      "options": [
+        "On Your Feet",
+        "Come on Over",
+        "Get Loud"
+      ],
+      "expl": [
+        "On Your Feet! is a jukebox musical based on the life and music of Gloria Estefan. The title comes from one of her hit songs."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "On Your Feet",
+          "Your",
+          "Feet"
+        ],
+        "option_b": [
+          "Come on Over",
+          "Come",
+          "Over"
+        ],
+        "option_c": [
+          "Get Loud",
+          "Get",
+          "Loud"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": ""
+    },
+    {
+      "id": "arts-and-entertainment_B7_142",
+      "que": "What did Heidi Klum dress as for Halloween 2022?",
+      "ans": {
+        "value": "Worm",
+        "correct_entity": "option_a"
+      },
+      "options": [
+        "Worm",
+        "Spider",
+        "Octopus"
+      ],
+      "expl": [
+        "In 2022, Heidi Klum made headlines by dressing as a giant earthworm for Halloween. The costume was so realistic she could barely move."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "Worm"
+        ],
+        "option_b": [
+          "Spider",
+          "Spiders"
+        ],
+        "option_c": [
+          "Octopus"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": ""
+    },
+    {
+      "id": "arts-and-entertainment_B7_143",
+      "que": "What was the name of Lady Gaga's Las Vegas residency?",
+      "ans": {
+        "value": "Enigma",
+        "correct_entity": "option_b"
+      },
+      "options": [
+        "Monster Ball",
+        "Enigma",
+        "Born This Way"
+      ],
+      "expl": [
+        "Lady Gaga’s Las Vegas residency was titled Enigma. It featured high-tech visuals and many of her biggest hits."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "Monster Ball",
+          "Monster",
+          "Ball"
+        ],
+        "option_b": [
+          "Enigma"
+        ],
+        "option_c": [
+          "Born This Way",
+          "Born",
+          "This",
+          "Way"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": ""
+    },
+    {
+      "id": "arts-and-entertainment_B7_144",
+      "que": "How many daughters does Tevye have in 'Fiddler on the Roof'?",
+      "ans": {
+        "value": "Five",
+        "correct_entity": "option_b"
+      },
+      "options": [
+        "Three",
+        "Five",
+        "Seven"
+      ],
+      "expl": [
+        "Tevye, the main character in Fiddler on the Roof, has five daughters. Much of the story revolves around their marriages and changing traditions."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "Three",
+          "3"
+        ],
+        "option_b": [
+          "Five",
+          "5"
+        ],
+        "option_c": [
+          "Seven",
+          "7"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": ""
+    },
+    {
+      "id": "arts-and-entertainment_B7_145",
+      "que": "How many times did Ross get divorced on Friends?",
+      "ans": {
+        "value": "Three",
+        "correct_entity": "option_b"
+      },
+      "options": [
+        "Two",
+        "Three",
+        "Four"
+      ],
+      "expl": [
+        "On Friends, Ross gets divorced three times—from Carol, Emily, and Rachel. It's a running joke throughout the series."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "Two",
+          "2"
+        ],
+        "option_b": [
+          "Three",
+          "3"
+        ],
+        "option_c": [
+          "Four",
+          "4"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": ""
+    },
+    {
+      "id": "arts-and-entertainment_B7_146",
+      "que": "Which musical features 'My Girlfriend Who Lives in Canada'?",
+      "ans": {
+        "value": "Avenue Q",
+        "correct_entity": "option_a"
+      },
+      "options": [
+        "Avenue Q",
+        "Dear Evan Hansen",
+        "Spring Awakening"
+      ],
+      "expl": [
+        "The comedic song \"My Girlfriend Who Lives in Canada\" appears in the puppet musical Avenue Q. It’s sung by the character Rod."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "Avenue Q",
+          "Avenue",
+          "Q",
+          "Avenue Q.",
+          "when you queue"
+        ],
+        "option_b": [
+          "Dear Evan Hansen",
+          "Dear",
+          "Evan",
+          "Hansen"
+        ],
+        "option_c": [
+          "Spring Awakening",
+          "Spring",
+          "Awakening"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": ""
+    },
+    {
+      "id": "arts-and-entertainment_B7_147",
+      "que": "How many times is 'fun' said in the chorus of 'Friday'?",
+      "ans": {
+        "value": "Four",
+        "correct_entity": "option_a"
+      },
+      "options": [
+        "Four",
+        "Two",
+        "Five"
+      ],
+      "expl": [
+        "In Rebecca Black’s song “Friday,” the word “fun” is sung four times in the chorus. The song became a viral internet hit in 2011."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "Four",
+          "4"
+        ],
+        "option_b": [
+          "Two",
+          "2"
+        ],
+        "option_c": [
+          "Five",
+          "5"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": ""
+    },
+    {
+      "id": "arts-and-entertainment_B7_148",
+      "que": "What is the longest-running film franchise?",
+      "ans": {
+        "value": "Godzilla",
+        "correct_entity": "option_a"
+      },
+      "options": [
+        "Godzilla",
+        "James Bond",
+        "Star Wars"
+      ],
+      "expl": [
+        "The Godzilla franchise began in 1954 and continues today, making it the longest-running film series in history."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "Godzilla"
+        ],
+        "option_b": [
+          "James Bond",
+          "James",
+          "Bond"
+        ],
+        "option_c": [
+          "Star Wars",
+          "Star",
+          "Wars",
+          "star war"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": ""
+    },
+    {
+      "id": "arts-and-entertainment_B7_149",
+      "que": "Who painted 'The Birth of Venus'?",
+      "ans": {
+        "value": "Sandro Botticelli",
+        "correct_entity": "option_b"
+      },
+      "options": [
+        "Michelangelo",
+        "Sandro Botticelli",
+        "Raphael"
+      ],
+      "expl": [
+        "Sandro Botticelli painted The Birth of Venus around 1485. The work depicts the goddess Venus emerging from the sea on a shell."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "Michelangelo"
+        ],
+        "option_b": [
+          "Sandro Botticelli",
+          "Sandro",
+          "Botticelli"
+        ],
+        "option_c": [
+          "Raphael"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": ""
+    },
+    {
+      "id": "arts-and-entertainment_B7_150",
+      "que": "What is the name of the dragon in The Hobbit?",
+      "ans": {
+        "value": "Smaug",
+        "correct_entity": "option_a"
+      },
+      "options": [
+        "Smaug",
+        "Drogon",
+        "Toothless"
+      ],
+      "expl": [
+        "Smaug is the treasure-hoarding dragon in J.R.R. Tolkien’s The Hobbit. Bilbo Baggins is sent to help steal from him."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "Smaug",
+          "smog"
+        ],
+        "option_b": [
+          "Drogon"
+        ],
+        "option_c": [
+          "Toothless",
+          "tooth less"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": ""
+    },
+    {
+      "id": "arts-and-entertainment_B7_151",
+      "que": "Which musical is based on 'Pygmalion'?",
+      "ans": {
+        "value": "My Fair Lady",
+        "correct_entity": "option_a"
+      },
+      "options": [
+        "My Fair Lady",
+        "Les Miserables",
+        "The Sound of Music"
+      ],
+      "expl": [
+        "The musical My Fair Lady is based on George Bernard Shaw’s play Pygmalion. It tells the story of transforming a flower seller into a refined lady."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "My Fair Lady",
+          "My",
+          "Fair",
+          "Lady",
+          "fair lady",
+          "my fair"
+        ],
+        "option_b": [
+          "Les Miserables",
+          "Les Misérables"
+        ],
+        "option_c": [
+          "The Sound of Music",
+          "sound of music",
+          "sounds of music"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": ""
+    },
+    {
+      "id": "arts-and-entertainment_B7_152",
+      "que": "How many kingdoms are in Westeros?",
+      "ans": {
+        "value": "Seven",
+        "correct_entity": "option_b"
+      },
+      "options": [
+        "Five",
+        "Seven",
+        "Nine"
+      ],
+      "expl": [
+        "In Game of Thrones, Westeros is divided into seven kingdoms—though by the time the story begins, they’re all under one ruler."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "Five",
+          "5"
+        ],
+        "option_b": [
+          "Seven",
+          "7"
+        ],
+        "option_c": [
+          "Nine",
+          "9"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": ""
+    },
+    {
+      "id": "arts-and-entertainment_B7_153",
+      "que": "Who directed the horror film 'Us'?",
+      "ans": {
+        "value": "Jordan Peele",
+        "correct_entity": "option_a"
+      },
+      "options": [
+        "Jordan Peele",
+        "James Wan",
+        "John Carpenter"
+      ],
+      "expl": [
+        "Us is a 2019 psychological horror film written and directed by Jordan Peele. It follows a family who are terrorized by their own doppelgängers."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "Jordan Peele",
+          "Jordan",
+          "Peele"
+        ],
+        "option_b": [
+          "James Wan",
+          "James",
+          "Wan"
+        ],
+        "option_c": [
+          "John Carpenter",
+          "John",
+          "Carpenter",
+          "jon"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": ""
+    },
+    {
+      "id": "arts-and-entertainment_B7_154",
+      "que": "What is the spaceship's name in Alien?",
+      "ans": {
+        "value": "Nostromo",
+        "correct_entity": "option_a"
+      },
+      "options": [
+        "Nostromo",
+        "Serenity",
+        "Discovery"
+      ],
+      "expl": [
+        "The spaceship in the movie Alien is called the Nostromo. It is a commercial towing vessel transporting mineral ore through space."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "Nostromo"
+        ],
+        "option_b": [
+          "Serenity"
+        ],
+        "option_c": [
+          "Discovery"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": ""
+    },
+    {
+      "id": "arts-and-entertainment_B7_155",
+      "que": "Who wrote 'Pride and Prejudice'?",
+      "ans": {
+        "value": "Jane Austen",
+        "correct_entity": "option_a"
+      },
+      "options": [
+        "Jane Austen",
+        "Emily Bronte",
+        "Louisa May Alcott"
+      ],
+      "expl": [
+        "Jane Austen wrote Pride and Prejudice, published in 1813. The novel explores romance, class, and society in 19th-century England."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "Jane Austen",
+          "jane",
+          "austen"
+        ],
+        "option_b": [
+          "Emily Bronte",
+          "Emily",
+          "Brontë",
+          "Emily Brontë"
+        ],
+        "option_c": [
+          "Louisa May Alcott",
+          "Louisa",
+          "May",
+          "Alcott"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": ""
+    },
+    {
+      "id": "arts-and-entertainment_B7_156",
+      "que": "What toy became real after 'Home Alone 2'?",
+      "ans": {
+        "value": "TalkBoy",
+        "correct_entity": "option_a"
+      },
+      "options": [
+        "TalkBoy",
+        "Game Boy",
+        "Tamagotchi"
+      ],
+      "expl": [
+        "The TalkBoy was a fictional gadget in Home Alone 2, but it became a real toy after fans showed interest. It worked as a handheld voice recorder and playback device."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "TalkBoy",
+          "talk boy",
+          "talk"
+        ],
+        "option_b": [
+          "Game Boy",
+          "Game",
+          "Boy"
+        ],
+        "option_c": [
+          "Tamagotchi"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": ""
+    },
+    {
+      "id": "arts-and-entertainment_B7_157",
+      "que": "What language is 'Pan's Labyrinth' in?",
+      "ans": {
+        "value": "Spanish",
+        "correct_entity": "option_b"
+      },
+      "options": [
+        "French",
+        "Spanish",
+        "Portuguese"
+      ],
+      "expl": [
+        "Pan’s Labyrinth is a Spanish-language dark fantasy film directed by Guillermo del Toro. It blends real history with myth, set in post-Civil War Spain."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "French"
+        ],
+        "option_b": [
+          "Spanish"
+        ],
+        "option_c": [
+          "Portuguese"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": ""
+    },
+    {
+      "id": "arts-and-entertainment_B7_158",
+      "que": "Who wrote 'The Great Gatsby'?",
+      "ans": {
+        "value": "F. Scott Fitzgerald",
+        "correct_entity": "option_b"
+      },
+      "options": [
+        "Ernest Hemingway",
+        "F. Scott Fitzgerald",
+        "Mark Twain"
+      ],
+      "expl": [
+        "F. Scott Fitzgerald wrote The Great Gatsby, published in 1925. The novel explores themes of wealth, obsession, and the American Dream during the Jazz Age."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "Ernest Hemingway",
+          "ernest",
+          "hemingway"
+        ],
+        "option_b": [
+          "F. Scott Fitzgerald",
+          "f scott fitzgerald",
+          "scott"
+        ],
+        "option_c": [
+          "Mark Twain",
+          "Mark",
+          "Twain"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": ""
+    },
+    {
+      "id": "arts-and-entertainment_B7_159",
+      "que": "Which band sang Who Let the Dogs Out?",
+      "ans": {
+        "value": "Baha Men",
+        "correct_entity": "option_b"
+      },
+      "options": [
+        "Backstreet Boys",
+        "Baha Men",
+        "NSYNC"
+      ],
+      "expl": [
+        "The Baha Men released Who Let the Dogs Out in 2000, and it became a worldwide hit. The song later won a Grammy Award for Best Dance Recording."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "Backstreet Boys",
+          "Backstreet",
+          "Boys",
+          "back street boys",
+          "back street",
+          "boy"
+        ],
+        "option_b": [
+          "Baha Men",
+          "Baha",
+          "Men"
+        ],
+        "option_c": [
+          "NSYNC",
+          "in sync",
+          "N. S. Y. N. C.",
+          "n. sync"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": ""
+    },
+    {
+      "id": "arts-and-entertainment_B7_160",
+      "que": "What art period is the Mona Lisa from?",
+      "ans": {
+        "value": "Renaissance",
+        "correct_entity": "option_a"
+      },
+      "options": [
+        "Renaissance",
+        "Baroque",
+        "Modern"
+      ],
+      "expl": [
+        "The Mona Lisa was painted during the Renaissance, a period of renewed interest in art and learning in Europe. Leonardo da Vinci created it in the early 1500s."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "Renaissance"
+        ],
+        "option_b": [
+          "Baroque"
+        ],
+        "option_c": [
+          "Modern"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": ""
+    },
+    {
+      "id": "arts-and-entertainment_B7_161",
+      "que": "What is the nickname for the accordion?",
+      "ans": {
+        "value": "Squeezebox",
+        "correct_entity": "option_a"
+      },
+      "options": [
+        "Squeezebox",
+        "Windbox",
+        "Bellowhorn"
+      ],
+      "expl": [
+        "The accordion is often called a squeezebox because a player squeezes the bellows to make sound. It’s popular in folk and polka music."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "Squeezebox",
+          "Squeeze box"
+        ],
+        "option_b": [
+          "Windbox",
+          "Wind",
+          "wind box"
+        ],
+        "option_c": [
+          "Bellowhorn",
+          "Below horn"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": ""
+    },
+    {
+      "id": "arts-and-entertainment_B7_162",
+      "que": "Finish the lyrics: 'Picture yourself in a boat on a river with _____ trees.",
+      "ans": {
+        "value": "Tangerine",
+        "correct_entity": "option_a"
+      },
+      "options": [
+        "Tangerine",
+        "Blue",
+        "Golden"
+      ],
+      "expl": [
+        "“Picture yourself in a boat on a river with tangerine trees” is a lyric from The Beatles’ song Lucy in the Sky with Diamonds. It’s known for its vivid, dreamy imagery."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "Tangerine"
+        ],
+        "option_b": [
+          "Blue"
+        ],
+        "option_c": [
+          "Golden"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": ""
+    },
+    {
+      "id": "arts-and-entertainment_B7_163",
+      "que": "Which play features 'To be or not to be'?",
+      "ans": {
+        "value": "Hamlet",
+        "correct_entity": "option_a"
+      },
+      "options": [
+        "Hamlet",
+        "Othello",
+        "Macbeth"
+      ],
+      "expl": [
+        "The line “To be or not to be” comes from Shakespeare’s play Hamlet. It is part of a famous soliloquy about life and death."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "Hamlet"
+        ],
+        "option_b": [
+          "Othello"
+        ],
+        "option_c": [
+          "Macbeth",
+          "mac bet"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": ""
+    },
+    {
+      "id": "arts-and-entertainment_B7_164",
+      "que": "Who starred as Arnold's twin in Twins?",
+      "ans": {
+        "value": "Danny DeVito",
+        "correct_entity": "option_a"
+      },
+      "options": [
+        "Danny DeVito",
+        "Tom Hanks",
+        "Robin Williams"
+      ],
+      "expl": [
+        "Danny DeVito played Arnold Schwarzenegger’s twin brother in the comedy film Twins. The humor comes from their complete physical contrast."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "Danny DeVito",
+          "Danny",
+          "DeVito"
+        ],
+        "option_b": [
+          "Tom Hanks",
+          "tom hank",
+          "tom",
+          "hanks"
+        ],
+        "option_c": [
+          "Robin Williams",
+          "Robin",
+          "Williams",
+          "robin william"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": ""
+    },
+    {
+      "id": "arts-and-entertainment_B7_165",
+      "que": "Who does Lindsay Lohan swap bodies with in Freaky Friday?",
+      "ans": {
+        "value": "Jamie Lee Curtis",
+        "correct_entity": "option_a"
+      },
+      "options": [
+        "Jamie Lee Curtis",
+        "Hilary Duff",
+        "Reese Witherspoon"
+      ],
+      "expl": [
+        "In the 2003 remake of Freaky Friday, Lindsay Lohan switches bodies with her on-screen mom, played by Jamie Lee Curtis. The swap leads to chaos as they are forced to live each other’s lives. They must work together to undo the spell."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "Jamie Lee Curtis",
+          "Jamie",
+          "Lee",
+          "Curtis",
+          "lee curtis",
+          "jamie curtis",
+          "jamy"
+        ],
+        "option_b": [
+          "Hilary Duff",
+          "Hilary",
+          "Duff"
+        ],
+        "option_c": [
+          "Reese Witherspoon",
+          "Reese",
+          "Witherspoon"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": ""
+    },
+    {
+      "id": "arts-and-entertainment_B7_166",
+      "que": "Which character does Jason Bateman play in Arrested Development?",
+      "ans": {
+        "value": "Michael",
+        "correct_entity": "option_a"
+      },
+      "options": [
+        "Michael",
+        "George",
+        "Gob"
+      ],
+      "expl": [
+        "Jason Bateman plays Michael Bluth in Arrested Development. He is the responsible son trying to keep his dysfunctional family and business together. His character often acts as the show's straight man."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "Michael"
+        ],
+        "option_b": [
+          "George"
+        ],
+        "option_c": [
+          "Gob",
+          "job"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": ""
+    },
+    {
+      "id": "arts-and-entertainment_B7_167",
+      "que": "Which Looney Tunes character says 'I say, I say'?",
+      "ans": {
+        "value": "Foghorn Leghorn",
+        "correct_entity": "option_a"
+      },
+      "options": [
+        "Foghorn Leghorn",
+        "Elmer Fudd",
+        "Bugs Bunny"
+      ],
+      "expl": [
+        "Foghorn Leghorn is the Looney Tunes character famous for saying “I say, I say boy!”. He’s a loud, overconfident rooster with a Southern accent. His catchphrases and slapstick humor make him memorable."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "Foghorn Leghorn",
+          "Foghorn",
+          "Leghorn"
+        ],
+        "option_b": [
+          "Elmer Fudd",
+          "Elmer",
+          "Fudd"
+        ],
+        "option_c": [
+          "Bugs Bunny",
+          "Bugs",
+          "Bunny",
+          "bug bunny"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": ""
+    },
+    {
+      "id": "arts-and-entertainment_B7_168",
+      "que": "Who is featured in the remix of 'Levitating'?",
+      "ans": {
+        "value": "Doja Cat",
+        "correct_entity": "option_a"
+      },
+      "options": [
+        "Doja Cat",
+        "Nicki Minaj",
+        "Cardi B"
+      ],
+      "expl": [
+        "Doja Cat is featured on the remix of Dua Lipa’s hit song “Levitating.” The remix gave the track a fresh sound and new popularity. It became widely used on social media and radio."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "Doja Cat",
+          "Doja",
+          "Cat"
+        ],
+        "option_b": [
+          "Nicki Minaj",
+          "Nicki",
+          "Minaj",
+          "nick minaj"
+        ],
+        "option_c": [
+          "Cardi B",
+          "Cardi",
+          "B",
+          "cardi b."
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": ""
+    },
+    {
+      "id": "arts-and-entertainment_B7_169",
+      "que": "What color shirt does Winnie the Pooh wear?",
+      "ans": {
+        "value": "Red",
+        "correct_entity": "option_a"
+      },
+      "options": [
+        "Red",
+        "Blue",
+        "Green"
+      ],
+      "expl": [
+        "Winnie the Pooh is instantly recognizable in his red shirt. He doesn’t wear pants, which is part of his classic look. The character has appeared in books, cartoons, and films."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "Red"
+        ],
+        "option_b": [
+          "Blue"
+        ],
+        "option_c": [
+          "Green"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": ""
+    },
+    {
+      "id": "arts-and-entertainment_B7_170",
+      "que": "Matthew McConaughey represents which car brand?",
+      "ans": {
+        "value": "Lincoln",
+        "correct_entity": "option_a"
+      },
+      "options": [
+        "Lincoln",
+        "Cadillac",
+        "Lexus"
+      ],
+      "expl": [
+        "Matthew McConaughey is the spokesperson for the Lincoln car brand. His calm, philosophical commercials became widely talked about. The campaign helped modernize Lincoln’s image."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "Lincoln",
+          "link in"
+        ],
+        "option_b": [
+          "Cadillac"
+        ],
+        "option_c": [
+          "Lexus"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": ""
+    },
+    {
+      "id": "arts-and-entertainment_B7_171",
+      "que": "What's Clarissa's BFF's name in 'Clarissa Explains It All'?",
+      "ans": {
+        "value": "Sam",
+        "correct_entity": "option_a"
+      },
+      "options": [
+        "Sam",
+        "Matt",
+        "Zack"
+      ],
+      "expl": [
+        "In Clarissa Explains It All, Clarissa’s best friend is named Sam. He often climbs through her bedroom window using a ladder. Their friendship is one of the show’s main dynamics."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "Sam"
+        ],
+        "option_b": [
+          "Matt",
+          "mat",
+          "map"
+        ],
+        "option_c": [
+          "Zack",
+          "zach"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": ""
+    },
+    {
+      "id": "arts-and-entertainment_B7_172",
+      "que": "Who hosted 'Who Wants to Be a Millionaire' after Regis?",
+      "ans": {
+        "value": "Meredith Vieira",
+        "correct_entity": "option_a"
+      },
+      "options": [
+        "Meredith Vieira",
+        "Steve Harvey",
+        "Jimmy Kimmel"
+      ],
+      "expl": [
+        "Meredith Vieira hosted the syndicated version of Who Wants to Be a Millionaire after Regis Philbin. She held the role for more than a decade. Her hosting helped keep the show popular on daytime TV."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "Meredith Vieira",
+          "Meredith",
+          "Vieira"
+        ],
+        "option_b": [
+          "Steve Harvey",
+          "Steve",
+          "Harvey"
+        ],
+        "option_c": [
+          "Jimmy Kimmel",
+          "Jimmy",
+          "Kimmel"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": ""
+    },
+    {
+      "id": "arts-and-entertainment_B7_173",
+      "que": "Who wrote the Sherlock Holmes books?",
+      "ans": {
+        "value": "Sir Arthur Conan Doyle",
+        "correct_entity": "option_a"
+      },
+      "options": [
+        "Sir Arthur Conan Doyle",
+        "Agatha Christie",
+        "Edgar Allan Poe"
+      ],
+      "expl": [
+        "Sir Arthur Conan Doyle wrote the Sherlock Holmes books. His detective stories first appeared in the late 1800s. Holmes became one of the most famous fictional characters in literature."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "Sir Arthur Conan Doyle",
+          "Sir",
+          "Arthur",
+          "Conan",
+          "Doyle"
+        ],
+        "option_b": [
+          "Agatha Christie",
+          "christie",
+          "agatha"
+        ],
+        "option_c": [
+          "Edgar Allan Poe",
+          "Edgar",
+          "Allan",
+          "Poe"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": ""
+    },
+    {
+      "id": "arts-and-entertainment_B7_174",
+      "que": "What happens to the money in Ocean's 11?",
+      "ans": {
+        "value": "burned",
+        "correct_entity": "option_a"
+      },
+      "options": [
+        "burned",
+        "stolen",
+        "donated"
+      ],
+      "expl": [
+        "In the original Ocean’s 11 (1960), the stolen money is burned. The crew hides it in a coffin, but it is incinerated during cremation. The heist ultimately fails."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "burned",
+          "burn",
+          "burnt"
+        ],
+        "option_b": [
+          "stolen"
+        ],
+        "option_c": [
+          "donated",
+          "donate"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": ""
+    },
+    {
+      "id": "arts-and-entertainment_B7_175",
+      "que": "Who created 'Peanuts'?",
+      "ans": {
+        "value": "Charles Schulz",
+        "correct_entity": "option_a"
+      },
+      "options": [
+        "Charles Schulz",
+        "Bill Watterson",
+        "Jim Davis"
+      ],
+      "expl": [
+        "Charles Schulz created the Peanuts comic strip. His characters include Charlie Brown, Snoopy, and Lucy. The strip ran for 50 years and became a cultural classic."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "Charles Schulz",
+          "Charles",
+          "Schulz"
+        ],
+        "option_b": [
+          "Bill Watterson",
+          "Bill",
+          "Watterson",
+          "bill waterson"
+        ],
+        "option_c": [
+          "Jim Davis",
+          "Jim",
+          "Davis"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": ""
+    },
+    {
+      "id": "arts-and-entertainment_B7_176",
+      "que": "What was Lady Gaga's 2010 meat dress made of?",
+      "ans": {
+        "value": "Meat",
+        "correct_entity": "option_a"
+      },
+      "options": [
+        "Meat",
+        "Plastic",
+        "Rubber"
+      ],
+      "expl": [
+        "Lady Gaga’s 2010 meat dress was made entirely of raw beef. She wore it to the MTV Video Music Awards as a statement about self-expression. The outfit sparked worldwide controversy and attention."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "Meat",
+          "meet",
+          "mit"
+        ],
+        "option_b": [
+          "Plastic"
+        ],
+        "option_c": [
+          "Rubber"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": ""
+    },
+    {
+      "id": "arts-and-entertainment_B7_177",
+      "que": "Where is 'The Wire' set?",
+      "ans": {
+        "value": "Baltimore",
+        "correct_entity": "option_a"
+      },
+      "options": [
+        "Baltimore",
+        "Chicago",
+        "Detroit"
+      ],
+      "expl": [
+        "The Wire is set in Baltimore, Maryland. The show explores crime, politics, education, and media in the city. It’s praised for its realistic storytelling."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "Baltimore"
+        ],
+        "option_b": [
+          "Chicago"
+        ],
+        "option_c": [
+          "Detroit"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": ""
+    },
+    {
+      "id": "arts-and-entertainment_B7_178",
+      "que": "What do Lady and the Tramp eat on their date?",
+      "ans": {
+        "value": "Spaghetti",
+        "correct_entity": "option_a"
+      },
+      "options": [
+        "Spaghetti",
+        "Pizza",
+        "Sausage"
+      ],
+      "expl": [
+        "In Lady and the Tramp, the famous date scene features a shared plate of spaghetti. The two dogs accidentally kiss while eating the same noodle. It’s one of Disney’s most iconic romantic moments."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "Spaghetti"
+        ],
+        "option_b": [
+          "Pizza"
+        ],
+        "option_c": [
+          "Sausage",
+          "sauces"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": ""
+    },
+    {
+      "id": "arts-and-entertainment_B7_179",
+      "que": "What was Olivia Rodrigo's second album?",
+      "ans": {
+        "value": "GUTS",
+        "correct_entity": "option_a"
+      },
+      "options": [
+        "GUTS",
+        "SOUR",
+        "VIBE"
+      ],
+      "expl": [
+        "GUTS is Olivia Rodrigo’s second studio album, released in 2023. It followed the massive success of her debut album SOUR. The album features themes of growing up and self-discovery."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "GUTS",
+          "gut"
+        ],
+        "option_b": [
+          "SOUR"
+        ],
+        "option_c": [
+          "VIBE",
+          "why"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": ""
+    },
+    {
+      "id": "arts-and-entertainment_B7_180",
+      "que": "Where did grunge music originate?",
+      "ans": {
+        "value": "Seattle",
+        "correct_entity": "option_a"
+      },
+      "options": [
+        "Seattle",
+        "Portland",
+        "Austin"
+      ],
+      "expl": [
+        "Grunge music originated in Seattle, Washington. Bands like Nirvana, Pearl Jam, and Soundgarden helped define the sound. It blended punk, metal, and alternative rock."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "Seattle",
+          "sittle"
+        ],
+        "option_b": [
+          "Portland"
+        ],
+        "option_c": [
+          "Austin"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": ""
+    },
+    {
+      "id": "arts-and-entertainment_B7_181",
+      "que": "Winston's cat on New Girl?",
+      "ans": {
+        "value": "Ferguson",
+        "correct_entity": "option_a"
+      },
+      "options": [
+        "Ferguson",
+        "Mittens",
+        "Whiskers"
+      ],
+      "expl": [
+        "Ferguson is Winston’s beloved cat in New Girl. Winston treats him like his child and often talks to him. The cat becomes a running joke in the series."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "Ferguson"
+        ],
+        "option_b": [
+          "Mittens",
+          "Mitten"
+        ],
+        "option_c": [
+          "Whiskers",
+          "Whisker",
+          "Whisper",
+          "Whispers"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": ""
+    },
+    {
+      "id": "arts-and-entertainment_B7_182",
+      "que": "Where was Frida Kahlo born?",
+      "ans": {
+        "value": "Mexico",
+        "correct_entity": "option_a"
+      },
+      "options": [
+        "Mexico",
+        "Spain",
+        "Argentina"
+      ],
+      "expl": [
+        "Frida Kahlo was born in Coyoacán, Mexico in 1907. Her childhood home, “La Casa Azul,” is now a museum. She became one of the most important artists of the 20th century."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "Mexico"
+        ],
+        "option_b": [
+          "Spain"
+        ],
+        "option_c": [
+          "Argentina"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": ""
+    },
+    {
+      "id": "arts-and-entertainment_B7_183",
+      "que": "Which movie script did Affleck and Damon write?",
+      "ans": {
+        "value": "Good Will Hunting",
+        "correct_entity": "option_a"
+      },
+      "options": [
+        "Good Will Hunting",
+        "The Town",
+        "Argo"
+      ],
+      "expl": [
+        "Ben Affleck and Matt Damon co-wrote Good Will Hunting. The film earned them the Oscar for Best Original Screenplay. It also launched their Hollywood careers."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "Good Will Hunting",
+          "Good",
+          "Will",
+          "Hunting"
+        ],
+        "option_b": [
+          "The Town"
+        ],
+        "option_c": [
+          "Argo"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": ""
+    },
+    {
+      "id": "arts-and-entertainment_B7_184",
+      "que": "Tom Cruise lip-syncs what song in Risky Business?",
+      "ans": {
+        "value": "Old Time Rock and Roll",
+        "correct_entity": "option_a"
+      },
+      "options": [
+        "Old Time Rock and Roll",
+        "Born to Run",
+        "Jailhouse Rock"
+      ],
+      "expl": [
+        "Tom Cruise famously lip-syncs to “Old Time Rock and Roll” in Risky Business. The scene features him dancing in a shirt, socks, and underwear. It became one of the most iconic movie moments of the 1980s."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "Old Time Rock and Roll",
+          "Old",
+          "Time",
+          "Rock",
+          "Roll",
+          "rock and roll",
+          "old time rock",
+          "old time",
+          "time rock"
+        ],
+        "option_b": [
+          "Born to Run"
+        ],
+        "option_c": [
+          "Jailhouse Rock",
+          "Jailhouse",
+          "Rock"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": ""
+    },
+    {
+      "id": "arts-and-entertainment_B7_185",
+      "que": "Which game show ends with 'Fast Money'?",
+      "ans": {
+        "value": "Family Feud",
+        "correct_entity": "option_a"
+      },
+      "options": [
+        "Family Feud",
+        "Jeopardy!",
+        "Wheel of Fortune"
+      ],
+      "expl": [
+        "The game show Family Feud ends with the round called “Fast Money.” Two players try to score 200 points combined. Winning the round earns the family the grand prize."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "Family Feud",
+          "Family",
+          "Feud"
+        ],
+        "option_b": [
+          "Jeopardy!",
+          "Jeopardy"
+        ],
+        "option_c": [
+          "Wheel of Fortune",
+          "Wheel",
+          "Fortune"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": ""
+    },
+    {
+      "id": "arts-and-entertainment_B7_186",
+      "que": "Which Adele album featured 'Rolling in the Deep'?",
+      "ans": {
+        "value": "21",
+        "correct_entity": "option_a"
+      },
+      "options": [
+        "21",
+        "19",
+        "25"
+      ],
+      "expl": [
+        "“Rolling in the Deep” was the lead single from Adele’s album 21. The album became a global hit and won multiple Grammys. It cemented her status as a powerhouse vocalist."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "21",
+          "twenty one",
+          "two one"
+        ],
+        "option_b": [
+          "19",
+          "nineteen",
+          "one nine"
+        ],
+        "option_c": [
+          "25",
+          "twenty five",
+          "two five"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": ""
+    },
+    {
+      "id": "arts-and-entertainment_B7_187",
+      "que": "How many days long was Kim Kardashian married to Kris Humphries?",
+      "ans": {
+        "value": "72",
+        "correct_entity": "option_a"
+      },
+      "options": [
+        "72",
+        "100",
+        "30"
+      ],
+      "expl": [
+        "Kim Kardashian’s marriage to Kris Humphries lasted 72 days. The wedding was televised and widely publicized. The quick divorce became a major pop-culture headline."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "72",
+          "seventy two"
+        ],
+        "option_b": [
+          "100",
+          "hundred",
+          "one hundred"
+        ],
+        "option_c": [
+          "30",
+          "thirty"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": ""
+    },
+    {
+      "id": "arts-and-entertainment_B7_188",
+      "que": "What color bow tie does Donald Duck wear?",
+      "ans": {
+        "value": "Red",
+        "correct_entity": "option_a"
+      },
+      "options": [
+        "Red",
+        "Blue",
+        "Green"
+      ],
+      "expl": [
+        "Donald Duck is usually shown wearing a red bow tie. He also wears a blue sailor shirt and hat. His outfit is one of the most recognizable in animation."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "Red"
+        ],
+        "option_b": [
+          "Blue"
+        ],
+        "option_c": [
+          "Green"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": ""
+    },
+    {
+      "id": "arts-and-entertainment_B7_189",
+      "que": "What instrument is used in the iPhone's default ringtone?",
+      "ans": {
+        "value": "Marimba",
+        "correct_entity": "option_a"
+      },
+      "options": [
+        "Marimba",
+        "Piano",
+        "Synth"
+      ],
+      "expl": [
+        "The classic iPhone ringtone uses a marimba sound. It became instantly recognizable worldwide. The tone is called “Marimba” in the settings."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "Marimba"
+        ],
+        "option_b": [
+          "Piano"
+        ],
+        "option_c": [
+          "Synth"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": ""
+    },
+    {
+      "id": "arts-and-entertainment_B7_190",
+      "que": "What color is Telly Monster on Sesame Street?",
+      "ans": {
+        "value": "Purple",
+        "correct_entity": "option_a"
+      },
+      "options": [
+        "Purple",
+        "Red",
+        "Green"
+      ],
+      "expl": [
+        "Telly Monster is a purple Muppet on Sesame Street. He's known for being anxious and often worried about things. His character brings a lot of emotion and humor to the show."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "Purple"
+        ],
+        "option_b": [
+          "Red"
+        ],
+        "option_c": [
+          "Green"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": ""
+    },
+    {
+      "id": "arts-and-entertainment_B7_191",
+      "que": "How many keys are on a standard piano?",
+      "ans": {
+        "value": "88",
+        "correct_entity": "option_a"
+      },
+      "options": [
+        "88",
+        "76",
+        "100"
+      ],
+      "expl": [
+        "A standard piano has 88 keys, made up of 52 white keys and 36 black keys. This layout became the universal standard in the late 1800s. It allows pianists to play a wide range of notes and dynamics."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "88",
+          "eighty eight",
+          "double eight"
+        ],
+        "option_b": [
+          "76",
+          "seventy six"
+        ],
+        "option_c": [
+          "100",
+          "hundred",
+          "one hundred"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": ""
+    },
+    {
+      "id": "arts-and-entertainment_B7_192",
+      "que": "What was Netflix's first original series?",
+      "ans": {
+        "value": "House of Cards",
+        "correct_entity": "option_a"
+      },
+      "options": [
+        "House of Cards",
+        "Orange is the New Black",
+        "Stranger Things"
+      ],
+      "expl": [
+        "House of Cards was Netflix’s first original series, released in 2013. Its success helped launch Netflix into the world of original streaming content. It set the tone for many future streaming shows."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "House of Cards",
+          "House",
+          "Cards"
+        ],
+        "option_b": [
+          "Orange is the New Black",
+          "Orange",
+          "New",
+          "Black",
+          "new black",
+          "orange is new"
+        ],
+        "option_c": [
+          "Stranger Things",
+          "Stranger",
+          "Things",
+          "stranger thing"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": ""
+    },
+    {
+      "id": "arts-and-entertainment_B7_193",
+      "que": "Which novel starts with 'Call me Ishmael'?",
+      "ans": {
+        "value": "Moby Dick",
+        "correct_entity": "option_a"
+      },
+      "options": [
+        "Moby Dick",
+        "Heart of Darkness",
+        "Great Expectations"
+      ],
+      "expl": [
+        "“Call me Ishmael” is the famous opening line of Herman Melville’s novel Moby Dick. It introduces the narrator who tells the story of Captain Ahab’s obsession with the white whale. The line is one of the most recognizable in literature."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "Moby Dick",
+          "Moby",
+          "Dick"
+        ],
+        "option_b": [
+          "Heart of Darkness",
+          "Heart",
+          "Darkness"
+        ],
+        "option_c": [
+          "Great Expectations",
+          "Great",
+          "Expectations",
+          "great expectation"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": ""
+    },
+    {
+      "id": "arts-and-entertainment_B7_194",
+      "que": "Which rock star is referenced in 'Tik Tok' by Kesha?",
+      "ans": {
+        "value": "Mick Jagger",
+        "correct_entity": "option_a"
+      },
+      "options": [
+        "Mick Jagger",
+        "Steven Tyler",
+        "Freddie Mercury"
+      ],
+      "expl": [
+        "Kesha mentions Mick Jagger in the lyrics of her song “Tik Tok.” The line compares dancing and swagger to the rock star’s style. The reference adds a fun pop culture element to the song."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "Mick Jagger",
+          "mick",
+          "jagger"
+        ],
+        "option_b": [
+          "Steven Tyler",
+          "Steven",
+          "Tyler"
+        ],
+        "option_c": [
+          "Freddie Mercury",
+          "freddie",
+          "mercury"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": ""
+    },
+    {
+      "id": "arts-and-entertainment_B7_195",
+      "que": "Which European country is Mia Thermopolis from in The Princess Diaries?",
+      "ans": {
+        "value": "Genovia",
+        "correct_entity": "option_a"
+      },
+      "options": [
+        "Genovia",
+        "Narnia",
+        "Avalor"
+      ],
+      "expl": [
+        "Mia Thermopolis in The Princess Diaries is the princess of Genovia. Genovia is a fictional European country created for the story. The kingdom is often portrayed as charming and peaceful."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "Genovia"
+        ],
+        "option_b": [
+          "Narnia"
+        ],
+        "option_c": [
+          "Avalor"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": ""
+    },
+    {
+      "id": "arts-and-entertainment_B7_196",
+      "que": "Which Broadway musical appears in Marvel's Hawkeye series?",
+      "ans": {
+        "value": "Rogers: The Musical",
+        "correct_entity": "option_a"
+      },
+      "options": [
+        "Rogers: The Musical",
+        "Avengers: On Stage",
+        "Superhero Shuffle"
+      ],
+      "expl": [
+        "In the Hawkeye series, the characters attend “Rogers: The Musical.” The show is a fictional Broadway production about Captain America. It appears as a humorous part of the Marvel universe."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "Rogers: The Musical",
+          "Rogers",
+          "Musical"
+        ],
+        "option_b": [
+          "Avengers: On Stage",
+          "Avengers",
+          "On",
+          "Stage"
+        ],
+        "option_c": [
+          "Superhero Shuffle",
+          "Superhero",
+          "Shuffle"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": ""
+    },
+    {
+      "id": "arts-and-entertainment_B7_197",
+      "que": "In which state is To Kill a Mockingbird set?",
+      "ans": {
+        "value": "Maycomb, Alabama",
+        "correct_entity": "option_a"
+      },
+      "options": [
+        "Maycomb, Alabama",
+        "Monroeville",
+        "Mobile"
+      ],
+      "expl": [
+        "To Kill a Mockingbird is set in the fictional town of Maycomb, Alabama. The story reflects life in the American South during the 1930s. Themes include racism, justice, and childhood innocence."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "Maycomb, Alabama",
+          "Maycomb",
+          "Alabama",
+          "mescom alabama",
+          "maycomb albama",
+          "mekong alabama",
+          "mekong",
+          "maycomb alabama"
+        ],
+        "option_b": [
+          "Monroeville",
+          "monrovia",
+          "morroville"
+        ],
+        "option_c": [
+          "Mobile"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": ""
+    },
+    {
+      "id": "arts-and-entertainment_B7_198",
+      "que": "Which Avenger suggests eating shawarma in the post-credits scene?",
+      "ans": {
+        "value": "Tony Stark",
+        "correct_entity": "option_a"
+      },
+      "options": [
+        "Tony Stark",
+        "Bruce Banner",
+        "Steve Rogers"
+      ],
+      "expl": [
+        "Tony Stark suggests trying shawarma in the post-credits scene of The Avengers. The joke comes after the big battle in New York. The team is later shown silently eating together in a shawarma shop."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "Tony Stark",
+          "Tony",
+          "Stark"
+        ],
+        "option_b": [
+          "Bruce Banner",
+          "Bruce",
+          "Banner"
+        ],
+        "option_c": [
+          "Steve Rogers",
+          "Steve",
+          "Rogers"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": ""
+    },
+    {
+      "id": "arts-and-entertainment_B7_199",
+      "que": "Which blonde actress starred opposite James Stewart in Vertigo?",
+      "ans": {
+        "value": "Kim Novak",
+        "correct_entity": "option_a"
+      },
+      "options": [
+        "Kim Novak",
+        "Grace Kelly",
+        "Audrey Hepburn"
+      ],
+      "expl": [
+        "Kim Novak starred opposite James Stewart in Alfred Hitchcock’s Vertigo. She played the mysterious Madeleine Elster. The film is considered one of Hitchcock’s greatest works."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "Kim Novak",
+          "Kim",
+          "Novak"
+        ],
+        "option_b": [
+          "Grace Kelly",
+          "Grace",
+          "Kelly"
+        ],
+        "option_c": [
+          "Audrey Hepburn",
+          "Audrey",
+          "Hepburn",
+          "hip burn",
+          "headburn"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": ""
+    }
+  ],
+  "IMAGE_QUESTIONS": [],
+  "AUDIO_QUESTIONS": []
+}

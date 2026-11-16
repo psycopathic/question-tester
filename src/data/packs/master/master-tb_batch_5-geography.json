@@ -1,0 +1,1089 @@
+{
+  "TEXT_QUESTIONS": [
+    {
+      "id": "Trivia_Battle_B5_1",
+      "que": "Which ocean is the largest ocean in the world?",
+      "ans": {
+        "value": "Pacific",
+        "correct_entity": "option_c"
+      },
+      "options": [
+        "Atlantic",
+        "Indian",
+        "Pacific"
+      ],
+      "expl": [
+        "The Pacific Ocean is the largest ocean in the world, covering an area of approximately 63.8 million square miles and accounting for about 46% of the world's ocean surface area."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "Atlantic"
+        ],
+        "option_b": [
+          "Indian"
+        ],
+        "option_c": [
+          "Pacific"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": ""
+    },
+    {
+      "id": "Trivia_Battle_B5_6",
+      "que": "The famous U.S. Route 66 ran from which city to Los Angeles?",
+      "ans": {
+        "value": "Chicago",
+        "correct_entity": "option_b"
+      },
+      "options": [
+        "Detroit",
+        "Chicago",
+        "Boston"
+      ],
+      "expl": [
+        "U.S. Route 66 ran from Chicago to Los Angeles. It was one of the original highways in the U.S. highway system, spanning a total of 2,448 miles and passing through eight states."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "Detroit",
+          "detrur",
+          "bolours",
+          "bolors"
+        ],
+        "option_b": [
+          "Chicago"
+        ],
+        "option_c": [
+          "Boston"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": ""
+    },
+    {
+      "id": "Trivia_Battle_B5_14",
+      "que": "Which country has the most time zones?",
+      "ans": {
+        "value": "France",
+        "correct_entity": "option_c"
+      },
+      "options": [
+        "China",
+        "Russia",
+        "France"
+      ],
+      "expl": [
+        "France spans 12 time zones due to its overseas territories like Saint-Barthélemy, Saint-Martin, Saint-Pierre and Miquelon, Wallis and Futuna, and French Polynesia, giving it the most time zones worldwide."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "China"
+        ],
+        "option_b": [
+          "Russia"
+        ],
+        "option_c": [
+          "France"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": ""
+    },
+    {
+      "id": "Trivia_Battle_B5_17",
+      "que": "Where would you find the world's most ancient forest?",
+      "ans": {
+        "value": "Australia",
+        "correct_entity": "option_a"
+      },
+      "options": [
+        "Australia",
+        "Africa",
+        "New Zealand"
+      ],
+      "expl": [
+        "Australia’s Daintree Rainforest in Queensland is the world’s oldest forest, estimated at 180 million years old. It’s home to countless unique plants and animals found nowhere else on Earth."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "Australia"
+        ],
+        "option_b": [
+          "Africa"
+        ],
+        "option_c": [
+          "New Zealand"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": ""
+    },
+    {
+      "id": "Trivia_Battle_B5_19",
+      "que": "What is Happy Valley Hong Kong famous for?",
+      "ans": {
+        "value": "Horse racing",
+        "correct_entity": "option_b"
+      },
+      "options": [
+        "Water Sports",
+        "Horse racing",
+        "Flower display"
+      ],
+      "expl": [
+        "Happy Valley Racecourse, alongside Sha Tin Racecourse, is used by the Hong Kong Jockey Club for horse racing meets. Races at Happy Valley are on Wednesdays, open to the public and Club members."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "Water Sports",
+          "water sport",
+          "water",
+          "sport",
+          "sports"
+        ],
+        "option_b": [
+          "Horse racing",
+          "horse",
+          "racing"
+        ],
+        "option_c": [
+          "Flower display",
+          "flower",
+          "display"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": ""
+    },
+    {
+      "id": "Trivia_Battle_B5_22",
+      "que": "The Headquarters of the United Nations is situated at?",
+      "ans": {
+        "value": "United States",
+        "correct_entity": "option_a"
+      },
+      "options": [
+        "United States",
+        "Geneva",
+        "Paris"
+      ],
+      "expl": [
+        "The United Nations headquarters, located in New York City’s Turtle Bay, was designed by Oscar Niemeyer and built by Harrison and Abramovitz. Completed in 1952, it spans 17 acres overlooking the East River."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "United States",
+          "united",
+          "states",
+          "u. s.",
+          "u. s. a."
+        ],
+        "option_b": [
+          "Geneva"
+        ],
+        "option_c": [
+          "Paris"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": ""
+    },
+    {
+      "id": "Trivia_Battle_B5_23",
+      "que": "Which skyscraper features the world's highest observation deck?",
+      "ans": {
+        "value": "Burj Khalifa",
+        "correct_entity": "option_a"
+      },
+      "options": [
+        "Burj Khalifa",
+        "Shanghai Tower",
+        "Empire State"
+      ],
+      "expl": [
+        "Dubai’s Burj Khalifa stands 828 meters tall, making it the world’s tallest building. It features observation decks on floors 124, 125, and 148—the highest level open to the public."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "Burj Khalifa",
+          "burj",
+          "khalifa"
+        ],
+        "option_b": [
+          "Shanghai Tower",
+          "shanghai",
+          "tower"
+        ],
+        "option_c": [
+          "Empire State",
+          "empire states",
+          "empire",
+          "state",
+          "states"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": ""
+    },
+    {
+      "id": "Trivia_Battle_B5_87",
+      "que": "If you are at zero degrees latitude and zero degrees longitude, what ocean are you in?",
+      "ans": {
+        "value": "Atlantic",
+        "correct_entity": "option_c"
+      },
+      "options": [
+        "Artic",
+        "Indian",
+        "Atlantic"
+      ],
+      "expl": [
+        "The Earth’s grid uses latitude and longitude. The Equator divides north and south, while the Prime Meridian splits east and west, intersecting near Ghana in the Atlantic Ocean."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "Artic",
+          "arctic"
+        ],
+        "option_b": [
+          "Indian"
+        ],
+        "option_c": [
+          "Atlantic"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": ""
+    },
+    {
+      "id": "Trivia_Battle_B5_88",
+      "que": "What percentage of Earth is permanently covered in snow and ice?",
+      "ans": {
+        "value": "12",
+        "correct_entity": "option_a"
+      },
+      "options": [
+        "12",
+        "21",
+        "6"
+      ],
+      "expl": [
+        "Seasonal snow covers up to 33% of Earth’s surface in winter, but only 12% remains permanent. Melting ice from global warming threatens rising seas and shifts in global climate."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "12",
+          "one two",
+          "twelve"
+        ],
+        "option_b": [
+          "21",
+          "twenty one",
+          "two one"
+        ],
+        "option_c": [
+          "6",
+          "six"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": ""
+    },
+    {
+      "id": "Trivia_Battle_B5_107",
+      "que": "Which country has the highest waterfall in the world?",
+      "ans": {
+        "value": "Venezuela",
+        "correct_entity": "option_b"
+      },
+      "options": [
+        "Canada",
+        "Venezuela",
+        "United States"
+      ],
+      "expl": [
+        "Angel Falls in Venezuela is the world’s tallest waterfall at about 3,212 feet. Named after aviator Jimmy Angel, who discovered it in 1933, it lies deep in Canaima National Park and is reachable only by air or trek."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "Canada"
+        ],
+        "option_b": [
+          "Venezuela"
+        ],
+        "option_c": [
+          "United States",
+          "united",
+          "states",
+          "u. s.",
+          "u. s. a."
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": ""
+    },
+    {
+      "id": "Trivia_Battle_B5_108",
+      "que": "Which continent has the most countries?",
+      "ans": {
+        "value": "Africa",
+        "correct_entity": "option_c"
+      },
+      "options": [
+        "Europe",
+        "Asia",
+        "Africa"
+      ],
+      "expl": [
+        "The continent with the most countries is Africa, with a total of 54 recognized sovereign states. Africa is the second-largest continent in terms of land area and is home to diverse cultures, languages, and histories."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "Europe",
+          "euro"
+        ],
+        "option_b": [
+          "Asia"
+        ],
+        "option_c": [
+          "Africa"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": ""
+    },
+    {
+      "id": "Trivia_Battle_B5_116",
+      "que": "What is the largest freshwater lake in the world?",
+      "ans": {
+        "value": "Baikal",
+        "correct_entity": "option_c"
+      },
+      "options": [
+        "Superior",
+        "Huron",
+        "Baikal"
+      ],
+      "expl": [
+        "Lake Baikal in Siberia is the world’s largest freshwater lake by volume, holding 20% of Earth’s unfrozen freshwater. Around 25 million years old, it hosts unique plant and animal species found nowhere else."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "Superior"
+        ],
+        "option_b": [
+          "Huron",
+          "huran"
+        ],
+        "option_c": [
+          "Baikal"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": ""
+    },
+    {
+      "id": "Trivia_Battle_B5_118",
+      "que": "What is Brazil named after?",
+      "ans": {
+        "value": "Trees",
+        "correct_entity": "option_a"
+      },
+      "options": [
+        "Trees",
+        "River",
+        "Grass"
+      ],
+      "expl": [
+        "Brazil was named after the Brazilwood tree, once a prized colonial export. Native to South America’s Atlantic coast, its wood produced “brazilin,” a bright red dye highly valued in Europe."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "Trees",
+          "tree",
+          "three"
+        ],
+        "option_b": [
+          "River",
+          "rivers"
+        ],
+        "option_c": [
+          "Grass"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": ""
+    },
+    {
+      "id": "Trivia_Battle_B5_122",
+      "que": "Which continent is divided into two halves by the equator?",
+      "ans": {
+        "value": "Africa",
+        "correct_entity": "option_a"
+      },
+      "options": [
+        "Africa",
+        "Asia",
+        "Europe"
+      ],
+      "expl": [
+        "The Equator divides Africa into two halves, crossing 13 nations including Gabon, Congo, Uganda, Kenya, and Somalia. This imaginary 0° latitude line separates the Northern and Southern Hemispheres."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "Africa"
+        ],
+        "option_b": [
+          "Asia"
+        ],
+        "option_c": [
+          "Europe",
+          "euro"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": ""
+    },
+    {
+      "id": "Trivia_Battle_B5_123",
+      "que": "The unicorn is the national animal of which country?",
+      "ans": {
+        "value": "Scotland",
+        "correct_entity": "option_b"
+      },
+      "options": [
+        "Netherlands",
+        "Scotland",
+        "Ireland"
+      ],
+      "expl": [
+        "Scotland’s national animal is the unicorn, a symbol of purity and strength. This mythical creature has been revered by cultures since ancient times, including the Babylonians and Indus civilization."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "Netherlands",
+          "netherland"
+        ],
+        "option_b": [
+          "Scotland",
+          "scotish",
+          "scot",
+          "land"
+        ],
+        "option_c": [
+          "Ireland",
+          "ire"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": ""
+    },
+    {
+      "id": "Trivia_Battle_B5_125",
+      "que": "What country is called the Land of the Rising Sun?",
+      "ans": {
+        "value": "Japan",
+        "correct_entity": "option_b"
+      },
+      "options": [
+        "Jamaica",
+        "Japan",
+        "Jordan"
+      ],
+      "expl": [
+        "Japan is called the “Land of the Rising Sun” because it sits east of Asia, where sunrise first touches the region. The poetic nickname has represented Japan for centuries."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "Jamaica"
+        ],
+        "option_b": [
+          "Japan"
+        ],
+        "option_c": [
+          "Jordan"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": ""
+    },
+    {
+      "id": "Trivia_Battle_B5_126",
+      "que": "Where is the lowest point on Earth?",
+      "ans": {
+        "value": "Dead Sea",
+        "correct_entity": "option_b"
+      },
+      "options": [
+        "Grand Canyon",
+        "Dead Sea",
+        "Sahara Desert"
+      ],
+      "expl": [
+        "The Dead Sea, at 420 meters below sea level, is Earth’s lowest land point. Located between Israel, Jordan, and the West Bank, it lies on a tectonic fault causing it to sink about one meter yearly."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "Grand Canyon",
+          "grand",
+          "canyon"
+        ],
+        "option_b": [
+          "Dead Sea",
+          "dead",
+          "sea"
+        ],
+        "option_c": [
+          "Sahara Desert",
+          "sahara",
+          "desert"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": ""
+    },
+    {
+      "id": "Trivia_Battle_B5_136",
+      "que": "Which country has the longest coastline in the world?",
+      "ans": {
+        "value": "Canada",
+        "correct_entity": "option_a"
+      },
+      "options": [
+        "Canada",
+        "Australia",
+        "Russia"
+      ],
+      "expl": [
+        "Canada has the longest coastline in the world, stretching over 202,080 kilometers along the Pacific, Arctic, and Atlantic oceans. It has more coastline than any other country in the world."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "Canada"
+        ],
+        "option_b": [
+          "Australia"
+        ],
+        "option_c": [
+          "Russia"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": ""
+    },
+    {
+      "id": "Trivia_Battle_B5_148",
+      "que": "Which country is home to Mount Everest, the world's highest peak?",
+      "ans": {
+        "value": "Nepal",
+        "correct_entity": "option_c"
+      },
+      "options": [
+        "China",
+        "India",
+        "Nepal"
+      ],
+      "expl": [
+        "Mount Everest, the world’s tallest peak at 8,848 meters, is in Nepal’s Himalayas. It draws climbers from across the globe and stands as a symbol of nature’s power and human endurance."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "China"
+        ],
+        "option_b": [
+          "India"
+        ],
+        "option_c": [
+          "Nepal"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": ""
+    },
+    {
+      "id": "Trivia_Battle_B5_149",
+      "que": "Which of the following countries is landlocked?",
+      "ans": {
+        "value": "Switzerland",
+        "correct_entity": "option_b"
+      },
+      "options": [
+        "Japan",
+        "Switzerland",
+        "Australia"
+      ],
+      "expl": [
+        "Switzerland, in Central Europe, is a landlocked nation surrounded by several countries but has no coastline. It’s famed for neutrality, mountains, and scenic natural beauty."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "Japan"
+        ],
+        "option_b": [
+          "Switzerland"
+        ],
+        "option_c": [
+          "Australia"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": ""
+    },
+    {
+      "id": "Trivia_Battle_B5_150",
+      "que": "Which mountain range is located between Spain and France?",
+      "ans": {
+        "value": "Pyrenees",
+        "correct_entity": "option_c"
+      },
+      "options": [
+        "Alps",
+        "Himalayas",
+        "Pyrenees"
+      ],
+      "expl": [
+        "The Pyrenees Mountains form a natural border between France and Spain. Known for breathtaking views, they offer rich biodiversity and popular hiking and skiing destinations."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "Alps",
+          "a. l. p. s."
+        ],
+        "option_b": [
+          "Himalayas",
+          "himalaya"
+        ],
+        "option_c": [
+          "Pyrenees",
+          "pyrenee"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": ""
+    },
+    {
+      "id": "Trivia_Battle_B5_151",
+      "que": "Which country is the smallest in the world by land area?",
+      "ans": {
+        "value": "Vatican City",
+        "correct_entity": "option_b"
+      },
+      "options": [
+        "Monaco",
+        "Vatican City",
+        "Maldives"
+      ],
+      "expl": [
+        "Vatican City, inside Rome, is the world’s smallest country, covering just 44 hectares. It’s the spiritual and administrative center of the Roman Catholic Church and the Pope’s home."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "Monaco"
+        ],
+        "option_b": [
+          "Vatican City",
+          "vatican",
+          "city",
+          "vaticane"
+        ],
+        "option_c": [
+          "Maldives",
+          "maldive"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": ""
+    },
+    {
+      "id": "Trivia_Battle_B5_223",
+      "que": "In which country is the Great Victoria Desert?",
+      "ans": {
+        "value": "Australia",
+        "correct_entity": "option_a"
+      },
+      "options": [
+        "Australia",
+        "Canada",
+        "Brazil"
+      ],
+      "expl": [
+        "The Great Victoria Desert, Australia’s largest, spans over 348,000 square km across Western and South Australia, rich in unique flora and fauna."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "Australia"
+        ],
+        "option_b": [
+          "Canada"
+        ],
+        "option_c": [
+          "Brazil"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": ""
+    },
+    {
+      "id": "Trivia_Battle_B5_229",
+      "que": "Mount Etna is a volcano on which island?",
+      "ans": {
+        "value": "Sicily",
+        "correct_entity": "option_a"
+      },
+      "options": [
+        "Sicily",
+        "Crete",
+        "Bali"
+      ],
+      "expl": [
+        "Mount Etna, an active volcano in Sicily, Italy, is famous for frequent eruptions and scenic beauty, shaping the island’s geography."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "Sicily",
+          "sisily",
+          "sissy",
+          "silly"
+        ],
+        "option_b": [
+          "Crete",
+          "crate",
+          "create"
+        ],
+        "option_c": [
+          "Bali"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": ""
+    },
+    {
+      "id": "Trivia_Battle_B5_233",
+      "que": "Which is the deepest lake in the world?",
+      "ans": {
+        "value": "Baikal",
+        "correct_entity": "option_a"
+      },
+      "options": [
+        "Baikal",
+        "Superior",
+        "Tanganyika"
+      ],
+      "expl": [
+        "Lake Baikal is the deepest lake in the world, reaching a maximum depth of approximately 1,642 meters (5,387 feet). Located in Siberia, Russia, it holds about 20% of the world's unfrozen freshwater."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "Baikal",
+          "buy kal"
+        ],
+        "option_b": [
+          "Superior"
+        ],
+        "option_c": [
+          "Tanganyika",
+          "tangika",
+          "tenkaika"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": ""
+    },
+    {
+      "id": "Trivia_Battle_B5_239",
+      "que": "Which is the only country that has 3 capital cities?",
+      "ans": {
+        "value": "South Africa",
+        "correct_entity": "option_b"
+      },
+      "options": [
+        "United States",
+        "South Africa",
+        "Bolivia"
+      ],
+      "expl": [
+        "South Africa uniquely has three capitals: Pretoria (administrative), Cape Town (legislative), and Bloemfontein (judicial), distributing government functions across regions."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "United States",
+          "united",
+          "states",
+          "u. s.",
+          "u. s. a."
+        ],
+        "option_b": [
+          "South Africa",
+          "south",
+          "africa"
+        ],
+        "option_c": [
+          "Bolivia"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": ""
+    },
+    {
+      "id": "Trivia_Battle_B5_278",
+      "que": "What continent is the South Pole on?",
+      "ans": {
+        "value": "Antarctica",
+        "correct_entity": "option_b"
+      },
+      "options": [
+        "Africa",
+        "Antarctica",
+        "South America"
+      ],
+      "expl": [
+        "The South Pole lies in Antarctica, surrounded by the Southern Ocean. Covered in ice, it’s the coldest and harshest place on Earth—unlike continents like Africa or South America, it’s purely icy wilderness."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "Africa"
+        ],
+        "option_b": [
+          "Antarctica"
+        ],
+        "option_c": [
+          "South America",
+          "south",
+          "america"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": ""
+    },
+    {
+      "id": "Trivia_Battle_B5_283",
+      "que": "What is the capital city of Ukraine?",
+      "ans": {
+        "value": "Kyiv",
+        "correct_entity": "option_a"
+      },
+      "options": [
+        "Kyiv",
+        "Minsk",
+        "Pristina"
+      ],
+      "expl": [
+        "Kyiv, Ukraine’s capital, has around 3 million residents. Located on the Dnipro River, it’s known for its deep history, beautiful architecture, and role as the nation’s cultural and political center."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "Kyiv",
+          "keiv",
+          "kiv",
+          "keep",
+          "kiev"
+        ],
+        "option_b": [
+          "Minsk",
+          "mins"
+        ],
+        "option_c": [
+          "Pristina",
+          "pristine",
+          "christina"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": ""
+    },
+    {
+      "id": "Trivia_Battle_B5_285",
+      "que": "What is the name of the river that flows through Egypt?",
+      "ans": {
+        "value": "Nile",
+        "correct_entity": "option_b"
+      },
+      "options": [
+        "Amazon",
+        "Nile",
+        "Mississippi"
+      ],
+      "expl": [
+        "The Nile River, about 4,135 miles long, is the world’s longest river. In Egypt, it sustains most of the population by supplying irrigation and water, forming the backbone of the nation’s economy."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "Amazon"
+        ],
+        "option_b": [
+          "Nile"
+        ],
+        "option_c": [
+          "Mississippi"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": ""
+    },
+    {
+      "id": "Trivia_Battle_B5_286",
+      "que": "A reference to its famous monument, \"Great Faces. Great Places,\" appears on the license plate of which U.S. state?",
+      "ans": {
+        "value": "South Dakota",
+        "correct_entity": "option_c"
+      },
+      "options": [
+        "Montana",
+        "North Dakota",
+        "South Dakota"
+      ],
+      "expl": [
+        "South Dakota’s slogan, “Great Faces. Great Places.” (since 1990), honors the iconic Mount Rushmore sculptures by Gutzon and Lincoln Borglum, showcasing the state’s history and scenic pride."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "Montana"
+        ],
+        "option_b": [
+          "North Dakota"
+        ],
+        "option_c": [
+          "South Dakota"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": ""
+    },
+    {
+      "id": "Trivia_Battle_B5_289",
+      "que": "Which airport is named after a former U.S. Secretary of State?",
+      "ans": {
+        "value": "Dulles",
+        "correct_entity": "option_c"
+      },
+      "options": [
+        "Laguardia",
+        "O'Hare",
+        "Dulles"
+      ],
+      "expl": [
+        "Dulles International Airport, 26 miles from Washington D.C., honors John Foster Dulles, Secretary of State under President Eisenhower. It’s one of the major U.S. international airports."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "Laguardia",
+          "lagardiya",
+          "laguardiya"
+        ],
+        "option_b": [
+          "O'Hare",
+          "ohare",
+          "o. hare",
+          "o hare",
+          "oh here"
+        ],
+        "option_c": [
+          "Dulles",
+          "dual",
+          "duels",
+          "dallas"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": ""
+    },
+    {
+      "id": "Trivia_Battle_B5_296",
+      "que": "Where is the only place on Earth where alligators and crocodiles coexist?",
+      "ans": {
+        "value": "Florida",
+        "correct_entity": "option_b"
+      },
+      "options": [
+        "Costa Rica",
+        "Florida",
+        "Brazil"
+      ],
+      "expl": [
+        "Crocodiles and alligators coexist only in South Florida’s Everglades. Alligators have dark U-shaped snouts, while crocodiles are lighter with pointed snouts—both thrive in swampy wetlands."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "Costa Rica",
+          "costa",
+          "rica"
+        ],
+        "option_b": [
+          "Florida"
+        ],
+        "option_c": [
+          "Brazil"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": ""
+    }
+  ],
+  "IMAGE_QUESTIONS": [],
+  "AUDIO_QUESTIONS": []
+}

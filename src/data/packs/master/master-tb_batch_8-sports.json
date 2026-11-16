@@ -1,0 +1,1677 @@
+{
+  "TEXT_QUESTIONS": [
+    {
+      "id": "sport_B8_1",
+      "que": "How many players are on a basketball team on the court at one time?",
+      "ans": {
+        "value": "Five",
+        "correct_entity": "option_c"
+      },
+      "options": [
+        "Six",
+        "Seven",
+        "Five"
+      ],
+      "expl": [
+        "A basketball team has five players on the court at one time. The five positions are point guard, shooting guard, small forward, power forward, and center. With five players on each side, ten players are on the court simultaneously during play."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "Six",
+          "6"
+        ],
+        "option_b": [
+          "Seven",
+          "7",
+          "sevn"
+        ],
+        "option_c": [
+          "Five",
+          "5",
+          "fiv"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": ""
+    },
+    {
+      "id": "sport_B8_2",
+      "que": "Which American baseball event is called the 'Fall Classic'?",
+      "ans": {
+        "value": "The World Series",
+        "correct_entity": "option_a"
+      },
+      "options": [
+        "The World Series",
+        "The Super Bowl",
+        "The Stanley Cup"
+      ],
+      "expl": [
+        "The World Series is called the 'Fall Classic' because it is played in late October between the champions of the American League and the National League. It is the championship of Major League Baseball and has been played almost every year since 1903."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "The World Series",
+          "world series",
+          "fall classic",
+          "baseball championship"
+        ],
+        "option_b": [
+          "The Super Bowl",
+          "super bowl",
+          "superbowl",
+          "nfl championship"
+        ],
+        "option_c": [
+          "The Stanley Cup",
+          "stanley cup",
+          "hockey championship"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": ""
+    },
+    {
+      "id": "sport_B8_3",
+      "que": "What is the maximum score in a single game of ten-pin bowling?",
+      "ans": {
+        "value": "300",
+        "correct_entity": "option_b"
+      },
+      "options": [
+        "200",
+        "300",
+        "250"
+      ],
+      "expl": [
+        "The maximum score in a single game of ten-pin bowling is 300, called a perfect game. Achieving a perfect game requires bowling 12 consecutive strikes (all 10 pins knocked down on the first ball) in a single game. It is considered one of the greatest achievements in the sport."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "200",
+          "two hundred",
+          "two zero zero"
+        ],
+        "option_b": [
+          "300",
+          "three hundred",
+          "three zero zero"
+        ],
+        "option_c": [
+          "250",
+          "two hundred fifty",
+          "two fifty",
+          "two hundred and fifty"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": ""
+    },
+    {
+      "id": "sport_B8_4",
+      "que": "How long is a marathon race?",
+      "ans": {
+        "value": "26.2 miles",
+        "correct_entity": "option_a"
+      },
+      "options": [
+        "26.2 miles",
+        "24.2 miles",
+        "28.2 miles"
+      ],
+      "expl": [
+        "A marathon is 26.2 miles, or 42.195 kilometres. The distance was standardized in 1921. The marathon is named after the legend of Pheidippides, a Greek soldier who ran from Marathon to Athens to announce a military victory before dying. It is one of the original Olympic sports."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "26.2 miles",
+          "twenty six point two miles",
+          "marathon distance"
+        ],
+        "option_b": [
+          "24.2 miles",
+          "twenty four point two miles"
+        ],
+        "option_c": [
+          "28.2 miles",
+          "twenty eight point two miles"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": ""
+    },
+    {
+      "id": "sport_B8_5",
+      "que": "In tennis, what is the term for a score of zero?",
+      "ans": {
+        "value": "Love",
+        "correct_entity": "option_b"
+      },
+      "options": [
+        "Nil",
+        "Love",
+        "Deuce"
+      ],
+      "expl": [
+        "In tennis, zero points is called 'love.' The origin of the term is disputed; one theory is it comes from the French word 'l'oeuf' meaning 'the egg,' as an egg resembles a zero. The scoring in tennis goes love, 15, 30, 40, then game."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "Nil",
+          "zero",
+          "naught",
+          "nothing"
+        ],
+        "option_b": [
+          "Love",
+          "luv"
+        ],
+        "option_c": [
+          "Deuce",
+          "tied forty",
+          "forty all"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": ""
+    },
+    {
+      "id": "sport_B8_6",
+      "que": "Which country hosted the 2016 Summer Olympics?",
+      "ans": {
+        "value": "Brazil",
+        "correct_entity": "option_b"
+      },
+      "options": [
+        "China",
+        "Brazil",
+        "United Kingdom"
+      ],
+      "expl": [
+        "The 2016 Summer Olympics were held in Rio de Janeiro, Brazil, from August 5 to 21, 2016. It was the first time the Olympics had been held in South America. The games featured 306 events in 28 sports. The United States topped the medal count with 121 medals."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "China",
+          "chinese",
+          "beijing",
+          "zhongguo"
+        ],
+        "option_b": [
+          "Brazil",
+          "brazilian",
+          "rio",
+          "brasil"
+        ],
+        "option_c": [
+          "United Kingdom",
+          "uk",
+          "britain",
+          "london",
+          "england"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": ""
+    },
+    {
+      "id": "sport_B8_7",
+      "que": "How many holes are there in a standard round of golf?",
+      "ans": {
+        "value": "18",
+        "correct_entity": "option_b"
+      },
+      "options": [
+        "9",
+        "18",
+        "27"
+      ],
+      "expl": [
+        "A standard round of golf consists of 18 holes. Most golf courses are designed around 18 holes, which became the norm when the Royal and Ancient Golf Club of St Andrews in Scotland (the sport's governing body) standardized its course to 18 holes in 1858."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "9",
+          "nine",
+          "nain"
+        ],
+        "option_b": [
+          "18",
+          "eighteen",
+          "eightteen"
+        ],
+        "option_c": [
+          "27",
+          "twenty seven",
+          "twentyseven"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": ""
+    },
+    {
+      "id": "sport_B8_8",
+      "que": "In which sport do players use a puck?",
+      "ans": {
+        "value": "Ice hockey",
+        "correct_entity": "option_b"
+      },
+      "options": [
+        "Field hockey",
+        "Ice hockey",
+        "Lacrosse"
+      ],
+      "expl": [
+        "A puck is used in ice hockey. It is a vulcanized rubber disc, 1 inch thick and 3 inches in diameter, weighing between 5.5 and 6 ounces. Players use sticks to hit the puck along the ice into the opposing team's goal. Pucks are frozen before use to reduce bouncing."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "Field hockey",
+          "grass hockey"
+        ],
+        "option_b": [
+          "Ice hockey",
+          "hockey",
+          "nhl",
+          "icehockey",
+          "eyes hockey"
+        ],
+        "option_c": [
+          "Lacrosse",
+          "lax"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": ""
+    },
+    {
+      "id": "sport_B8_9",
+      "que": "Who holds the record for the most Grand Slam tennis titles among male players?",
+      "ans": {
+        "value": "Novak Djokovic",
+        "correct_entity": "option_b"
+      },
+      "options": [
+        "Rafael Nadal",
+        "Novak Djokovic",
+        "Roger Federer"
+      ],
+      "expl": [
+        "Novak Djokovic holds the record for the most Grand Slam singles titles among male players, with 24 titles as of 2023. He surpassed Rafael Nadal's previous record of 22. Djokovic has won all four Grand Slam tournaments at least three times."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "Rafael Nadal",
+          "nadal",
+          "rafa",
+          "rafa nadal"
+        ],
+        "option_b": [
+          "Novak Djokovic",
+          "djokovic",
+          "novak",
+          "jokovic"
+        ],
+        "option_c": [
+          "Roger Federer",
+          "federer",
+          "roger"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": ""
+    },
+    {
+      "id": "sport_B8_10",
+      "que": "What does MLB stand for?",
+      "ans": {
+        "value": "Major League Baseball",
+        "correct_entity": "option_b"
+      },
+      "options": [
+        "Major League Basketball",
+        "Major League Baseball",
+        "Modern League Baseball"
+      ],
+      "expl": [
+        "MLB stands for Major League Baseball. It is the professional baseball organization in North America and consists of 30 teams: 29 from the United States and 1 from Canada (the Toronto Blue Jays). MLB is considered the highest level of professional baseball in the world."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "Major League Basketball",
+          "mlb basketball"
+        ],
+        "option_b": [
+          "Major League Baseball",
+          "mlb",
+          "baseball league"
+        ],
+        "option_c": [
+          "Modern League Baseball",
+          "modern baseball league"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": ""
+    },
+    {
+      "id": "sport_B8_11",
+      "que": "How many gold medals did Michael Phelps win in his Olympic career?",
+      "ans": {
+        "value": "23",
+        "correct_entity": "option_b"
+      },
+      "options": [
+        "18",
+        "23",
+        "28"
+      ],
+      "expl": [
+        "Michael Phelps won 23 Olympic gold medals over his career, competing in four Olympic Games from 2000 to 2016. He has the most Olympic gold medals of any athlete in history. In total, Phelps won 28 Olympic medals, also a record. He competed primarily in butterfly and individual medley events."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "18",
+          "eighteen",
+          "eightteen"
+        ],
+        "option_b": [
+          "23",
+          "twenty three",
+          "twentythree"
+        ],
+        "option_c": [
+          "28",
+          "twenty eight",
+          "twentyeight"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": ""
+    },
+    {
+      "id": "sport_B8_12",
+      "que": "In which sport is the 'breaststroke' used?",
+      "ans": {
+        "value": "Swimming",
+        "correct_entity": "option_b"
+      },
+      "options": [
+        "Rowing",
+        "Swimming",
+        "Water polo"
+      ],
+      "expl": [
+        "The breaststroke is one of the four competitive swimming strokes, along with freestyle (front crawl), backstroke, and butterfly. It is the slowest competitive swimming stroke. Swimmers extend their arms forward, pull them back in a circular motion, while doing a frog kick with their legs."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "Rowing",
+          "crew",
+          "boat rowing"
+        ],
+        "option_b": [
+          "Swimming",
+          "swim",
+          "swimmer sport"
+        ],
+        "option_c": [
+          "Water polo",
+          "waterpolo"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": ""
+    },
+    {
+      "id": "sport_B8_13",
+      "que": "What sport is played at Wimbledon?",
+      "ans": {
+        "value": "Tennis",
+        "correct_entity": "option_c"
+      },
+      "options": [
+        "Squash",
+        "Cricket",
+        "Tennis"
+      ],
+      "expl": [
+        "Wimbledon is the world's oldest and most prestigious tennis tournament. It is held at the All England Lawn Tennis and Croquet Club in Wimbledon, London, and has been played since 1877. Players must wear predominantly white clothing, and matches are played on grass courts."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "Squash",
+          "squash game",
+          "ash"
+        ],
+        "option_b": [
+          "Cricket",
+          "cricket sport"
+        ],
+        "option_c": [
+          "Tennis",
+          "lawn tennis",
+          "tenis"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": ""
+    },
+    {
+      "id": "sport_B8_14",
+      "que": "In American football, how many points is a field goal worth?",
+      "ans": {
+        "value": "Three",
+        "correct_entity": "option_b"
+      },
+      "options": [
+        "Two",
+        "Three",
+        "Six"
+      ],
+      "expl": [
+        "In American football, a field goal is worth three points. To score one, the kicker must kick the ball through the goalposts. Field goals are typically attempted on fourth down when a team is close enough but unsure they can score a touchdown."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "Two",
+          "2",
+          "too",
+          "tu"
+        ],
+        "option_b": [
+          "Three",
+          "3",
+          "tree",
+          "free"
+        ],
+        "option_c": [
+          "Six",
+          "6",
+          "ixs"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": ""
+    },
+    {
+      "id": "sport_B8_15",
+      "que": "What is the diameter of a regulation basketball hoop in inches?",
+      "ans": {
+        "value": "18 inches",
+        "correct_entity": "option_c"
+      },
+      "options": [
+        "14 inches",
+        "16 inches",
+        "18 inches"
+      ],
+      "expl": [
+        "A regulation basketball hoop has an inside diameter of 18 inches (45.72 cm). This is exactly twice the diameter of a regulation basketball (9.4 inches). The rim is made of orange-painted steel and is mounted 10 feet (3.05 metres) above the floor."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "14 inches",
+          "fourteen inches",
+          "14 inch",
+          "fourteen inch"
+        ],
+        "option_b": [
+          "16 inches",
+          "sixteen inches",
+          "16 inch",
+          "sixteen inch"
+        ],
+        "option_c": [
+          "18 inches",
+          "eighteen inches",
+          "18 inch",
+          "eighteen inch"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": ""
+    },
+    {
+      "id": "sport_B8_16",
+      "que": "In cricket, how many balls are in a standard over?",
+      "ans": {
+        "value": "6",
+        "correct_entity": "option_b"
+      },
+      "options": [
+        "4",
+        "6",
+        "8"
+      ],
+      "expl": [
+        "In cricket, an over consists of 6 balls bowled by the same bowler consecutively from one end of the pitch. After each over, a different bowler must bowl from the opposite end. If a bowler bowls a no-ball or wide, an extra ball must be bowled."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "4",
+          "four",
+          "for"
+        ],
+        "option_b": [
+          "6",
+          "six",
+          "ixs"
+        ],
+        "option_c": [
+          "8",
+          "eight",
+          "ate",
+          "eit"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": ""
+    },
+    {
+      "id": "sport_B8_17",
+      "que": "Who was the first athlete to run a sub-4-minute mile?",
+      "ans": {
+        "value": "Roger Bannister",
+        "correct_entity": "option_b"
+      },
+      "options": [
+        "Jim Ryun",
+        "Roger Bannister",
+        "Sebastian Coe"
+      ],
+      "expl": [
+        "Roger Bannister became the first person to run a mile in under four minutes on May 6, 1954, at Oxford's Iffley Road track. He clocked a time of 3 minutes 59.4 seconds. This was considered a major athletic barrier previously thought to be physically impossible."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "Jim Ryun",
+          "ryun",
+          "jim ryan"
+        ],
+        "option_b": [
+          "Roger Bannister",
+          "bannister",
+          "roger banister"
+        ],
+        "option_c": [
+          "Sebastian Coe",
+          "coe",
+          "seb coe"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": ""
+    },
+    {
+      "id": "sport_B8_18",
+      "que": "Which American sports league has teams called the Lakers, Celtics, and Warriors?",
+      "ans": {
+        "value": "NBA",
+        "correct_entity": "option_c"
+      },
+      "options": [
+        "MLB",
+        "NHL",
+        "NBA"
+      ],
+      "expl": [
+        "The NBA, or National Basketball Association, has teams called the Los Angeles Lakers, the Boston Celtics, and the Golden State Warriors. The NBA championship has been awarded since 1947 and the Lakers and Celtics have the most titles in league history."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "MLB",
+          "major league baseball",
+          "baseball league",
+          "m. l. b."
+        ],
+        "option_b": [
+          "NHL",
+          "national hockey league",
+          "hockey league",
+          "n. h. l."
+        ],
+        "option_c": [
+          "NBA",
+          "national basketball association",
+          "basketball league",
+          "n. b. a."
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": ""
+    },
+    {
+      "id": "sport_B8_19",
+      "que": "In which sport would you find a 'deuce' score?",
+      "ans": {
+        "value": "Tennis",
+        "correct_entity": "option_c"
+      },
+      "options": [
+        "Badminton",
+        "Squash",
+        "Tennis"
+      ],
+      "expl": [
+        "In tennis, 'deuce' occurs when both players are tied at 40-40 (three points each). When deuce is reached, a player must win two consecutive points to win the game. The first point after deuce is called 'advantage.' Deuce can occur multiple times in a single game."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "Badminton",
+          "badminton game"
+        ],
+        "option_b": [
+          "Squash",
+          "squash game"
+        ],
+        "option_c": [
+          "Tennis",
+          "table tennis",
+          "tenis"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": ""
+    },
+    {
+      "id": "sport_B8_20",
+      "que": "Which country won the first Cricket World Cup in 1975?",
+      "ans": {
+        "value": "West Indies",
+        "correct_entity": "option_c"
+      },
+      "options": [
+        "Australia",
+        "India",
+        "West Indies"
+      ],
+      "expl": [
+        "The West Indies won the first ICC Cricket World Cup in 1975, held in England. They defeated Australia in the final at Lord's Cricket Ground in London. Clive Lloyd captained the West Indies team and scored a memorable 102 runs in the final. West Indies also won the 1979 World Cup."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "Australia",
+          "australian",
+          "aussie"
+        ],
+        "option_b": [
+          "India",
+          "indian",
+          "bharat"
+        ],
+        "option_c": [
+          "West Indies",
+          "caribbean",
+          "windies",
+          "westindies",
+          "w indies",
+          "w. indies"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": ""
+    },
+    {
+      "id": "sport_B8_21",
+      "que": "In baseball, how many strikes does a batter get before they are out?",
+      "ans": {
+        "value": "Three",
+        "correct_entity": "option_b"
+      },
+      "options": [
+        "Two",
+        "Three",
+        "Four"
+      ],
+      "expl": [
+        "In baseball, a batter is out after three strikes. This is where the phrase 'three strikes and you're out' comes from. A strike happens when the batter swings and misses, or when the umpire calls a pitch in the strike zone that the batter does not swing at."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "Two",
+          "2",
+          "too",
+          "tu"
+        ],
+        "option_b": [
+          "Three",
+          "3",
+          "tree",
+          "free"
+        ],
+        "option_c": [
+          "Four",
+          "4",
+          "or",
+          "for"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": ""
+    },
+    {
+      "id": "sport_B8_22",
+      "que": "Which sport is played by NFL teams in the United States?",
+      "ans": {
+        "value": "American football",
+        "correct_entity": "option_b"
+      },
+      "options": [
+        "Soccer",
+        "American football",
+        "Cricket"
+      ],
+      "expl": [
+        "American football is played by teams in the National Football League, or NFL. The season ends each February with the Super Bowl, one of the most-watched sporting events in the country. The NFL has 32 teams split into two conferences."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "Soccer",
+          "football european",
+          "soker",
+          "european football"
+        ],
+        "option_b": [
+          "American football",
+          "football",
+          "nfl football",
+          "america",
+          "american rugby"
+        ],
+        "option_c": [
+          "Cricket",
+          "kriket",
+          "cricket sport"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": ""
+    },
+    {
+      "id": "sport_B8_23",
+      "que": "Which team has won the most Super Bowls?",
+      "ans": {
+        "value": "New England Patriots",
+        "correct_entity": "option_c"
+      },
+      "options": [
+        "Dallas Cowboys",
+        "Pittsburgh Steelers",
+        "New England Patriots"
+      ],
+      "expl": [
+        "The New England Patriots and the Kansas City Chiefs are tied for the most Super Bowl wins with 6 each as of 2023. The New England Patriots won their victories in 2002, 2004, 2005, 2015, 2017, and 2019, with Bill Belichick coaching and Tom Brady at quarterback for five of the victories."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "Dallas Cowboys",
+          "cowboys",
+          "dallas"
+        ],
+        "option_b": [
+          "Pittsburgh Steelers",
+          "steelers",
+          "pittsburgh"
+        ],
+        "option_c": [
+          "New England Patriots",
+          "patriots",
+          "new england"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": ""
+    },
+    {
+      "id": "sport_B8_24",
+      "que": "In Olympic swimming, what is the shortest race distance?",
+      "ans": {
+        "value": "50 metres",
+        "correct_entity": "option_a"
+      },
+      "options": [
+        "50 metres",
+        "100 metres",
+        "200 metres"
+      ],
+      "expl": [
+        "The 50 metre freestyle is the shortest event in Olympic swimming. It is often called 'the sprint' and is completed in about 21 seconds by elite swimmers. The event was not added to the Olympics until 1988. Both men and women compete in this event."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "50 metres",
+          "fifty metres",
+          "50m",
+          "50 meters",
+          "fifty metre",
+          "fifty meter",
+          "fifty meters",
+          "50 metre"
+        ],
+        "option_b": [
+          "100 metres",
+          "one hundred metres",
+          "100m",
+          "hundred metres",
+          "100 meters"
+        ],
+        "option_c": [
+          "200 metres",
+          "two hundred metres",
+          "200m",
+          "two hundred meters",
+          "200 meters"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": ""
+    },
+    {
+      "id": "sport_B8_25",
+      "que": "What sport uses a 'birdie' and an 'eagle'?",
+      "ans": {
+        "value": "Golf",
+        "correct_entity": "option_b"
+      },
+      "options": [
+        "Badminton",
+        "Golf",
+        "Tennis"
+      ],
+      "expl": [
+        "Golf uses the terms birdie and eagle. A birdie is one stroke under par for a hole, while an eagle is two strokes under par. Other golf scoring terms include bogey (one over par) and albatross or double eagle (three under par). These bird names reflect the challenge and rarity of each score."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "Badminton",
+          "badminton game",
+          "batminton"
+        ],
+        "option_b": [
+          "Golf",
+          "golfing"
+        ],
+        "option_c": [
+          "Tennis",
+          "lawn tennis",
+          "tenis"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": ""
+    },
+    {
+      "id": "sport_B8_26",
+      "que": "Which sport uses a small white ball, a tee, and clubs to hit the ball into holes?",
+      "ans": {
+        "value": "Golf",
+        "correct_entity": "option_a"
+      },
+      "options": [
+        "Golf",
+        "Bowling",
+        "Cricket"
+      ],
+      "expl": [
+        "Golf is a sport in which players use different clubs to hit a small ball into a series of holes on a large outdoor course, using as few swings as possible. A standard round of golf has 18 holes. The famous Masters Tournament is held every April in Augusta, Georgia."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "Golf",
+          "golfing"
+        ],
+        "option_b": [
+          "Bowling",
+          "bowl game"
+        ],
+        "option_c": [
+          "Cricket",
+          "cricket sport",
+          "kriket"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": ""
+    },
+    {
+      "id": "sport_B8_27",
+      "que": "How many sets are in a standard men's Grand Slam tennis match?",
+      "ans": {
+        "value": "Best of 5",
+        "correct_entity": "option_b"
+      },
+      "options": [
+        "Best of 3",
+        "Best of 5",
+        "Best of 7"
+      ],
+      "expl": [
+        "Men's Grand Slam tennis matches (Australian Open, French Open, Wimbledon, US Open) are played as best of five sets. Women's Grand Slam matches are best of three sets. In major tournaments, tiebreaks are used in most sets if the score reaches 6-6, with a final-set tiebreak format varying by tournament."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "Best of 3",
+          "best of three",
+          "three sets",
+          "3 sets"
+        ],
+        "option_b": [
+          "Best of 5",
+          "best of five",
+          "five sets",
+          "5 sets"
+        ],
+        "option_c": [
+          "Best of 7",
+          "best of seven",
+          "seven sets",
+          "7 sets"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": ""
+    },
+    {
+      "id": "sport_B8_28",
+      "que": "In Formula 1, how many points does the winner of a race receive?",
+      "ans": {
+        "value": "25 points",
+        "correct_entity": "option_b"
+      },
+      "options": [
+        "20 points",
+        "25 points",
+        "30 points"
+      ],
+      "expl": [
+        "In Formula 1, the winner of a race receives 25 points. The points are distributed from 1st to 10th place: 25, 18, 15, 12, 10, 8, 6, 4, 2, 1. Additionally, one point is awarded for the fastest lap if the driver finishes in the top 10. This scoring system was introduced in 2010."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "20 points",
+          "twenty points",
+          "twenty point"
+        ],
+        "option_b": [
+          "25 points",
+          "twenty five points",
+          "twenty five point"
+        ],
+        "option_c": [
+          "30 points",
+          "thirty points",
+          "thirty point"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": ""
+    },
+    {
+      "id": "sport_B8_29",
+      "que": "Which American sport uses bases called first, second, third, and home plate?",
+      "ans": {
+        "value": "Baseball",
+        "correct_entity": "option_c"
+      },
+      "options": [
+        "Football",
+        "Basketball",
+        "Baseball"
+      ],
+      "expl": [
+        "Baseball uses a diamond-shaped field with four bases: first, second, third, and home plate. A batter must touch all four bases in order to score a run. Baseball has been called America's pastime and is played in Major League Baseball during the spring, summer, and fall."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "Football",
+          "american football",
+          "nfl football"
+        ],
+        "option_b": [
+          "Basketball",
+          "basket ball"
+        ],
+        "option_c": [
+          "Baseball",
+          "base ball"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": ""
+    },
+    {
+      "id": "sport_B8_30",
+      "que": "In soccer, what is the length of a standard penalty shootout kick?",
+      "ans": {
+        "value": "12 yards",
+        "correct_entity": "option_b"
+      },
+      "options": [
+        "10 yards",
+        "12 yards",
+        "15 yards"
+      ],
+      "expl": [
+        "In soccer (football), a penalty kick is taken from the penalty spot, which is 12 yards (approximately 11 metres) from the goal line. The goalkeeper must remain on the goal line until the ball is kicked. Penalty shootouts are used to decide matches that are tied after extra time."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "10 yards",
+          "ten yards",
+          "ten yard"
+        ],
+        "option_b": [
+          "12 yards",
+          "twelve yards",
+          "twelve yard"
+        ],
+        "option_c": [
+          "15 yards",
+          "fifteen yards",
+          "fifteen yard"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": ""
+    },
+    {
+      "id": "sport_B8_31",
+      "que": "Which golfer is nicknamed 'The Golden Bear'?",
+      "ans": {
+        "value": "Jack Nicklaus",
+        "correct_entity": "option_c"
+      },
+      "options": [
+        "Arnold Palmer",
+        "Tiger Woods",
+        "Jack Nicklaus"
+      ],
+      "expl": [
+        "Jack Nicklaus is nicknamed 'The Golden Bear.' He is widely considered one of the greatest golfers of all time, having won 18 major championships during his career. The nickname came from his blond hair and stocky build. He won his first Masters in 1963 and his last major in 1986."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "Arnold Palmer",
+          "palmer",
+          "arnie palmer"
+        ],
+        "option_b": [
+          "Tiger Woods",
+          "tiger",
+          "eldrick woods"
+        ],
+        "option_c": [
+          "Jack Nicklaus",
+          "nicklaus",
+          "jack",
+          "golden bear",
+          "jack nichols",
+          "jack necklace"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": ""
+    },
+    {
+      "id": "sport_B8_32",
+      "que": "What is the term for three consecutive strikes in bowling?",
+      "ans": {
+        "value": "Turkey",
+        "correct_entity": "option_a"
+      },
+      "options": [
+        "Turkey",
+        "Hat trick",
+        "Triple"
+      ],
+      "expl": [
+        "In bowling, three consecutive strikes is called a 'turkey.' The term originated in the late 1800s when a turkey was sometimes given as a prize for bowling three strikes in a row. In modern bowling, a turkey earns 30 pins for those three frames if each strike follows consecutively."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "Turkey",
+          "bowling turkey",
+          "three strikes"
+        ],
+        "option_b": [
+          "Hat trick",
+          "hattrick",
+          "three goals"
+        ],
+        "option_c": [
+          "Triple",
+          "three in a row",
+          "tripple"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": ""
+    },
+    {
+      "id": "sport_B8_33",
+      "que": "Which American football championship game is watched by millions every February?",
+      "ans": {
+        "value": "Super Bowl",
+        "correct_entity": "option_b"
+      },
+      "options": [
+        "World Series",
+        "Super Bowl",
+        "NBA Finals"
+      ],
+      "expl": [
+        "The Super Bowl is the American football championship game, played each February between the winners of the NFC and AFC. It is one of the most-watched television events in the United States every year, famous for its halftime show and creative commercials."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "World Series",
+          "baseball finals",
+          "the world series"
+        ],
+        "option_b": [
+          "Super Bowl",
+          "superbowl"
+        ],
+        "option_c": [
+          "NBA Finals",
+          "the finals",
+          "basketball finals",
+          "n. b. a. finals"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": ""
+    },
+    {
+      "id": "sport_B8_34",
+      "que": "In basketball, how many points is a shot made from beyond the three-point line worth?",
+      "ans": {
+        "value": "Three points",
+        "correct_entity": "option_b"
+      },
+      "options": [
+        "Two points",
+        "Three points",
+        "Four points"
+      ],
+      "expl": [
+        "A basket made from beyond the three-point line in basketball is worth three points. Shots taken closer to the hoop are worth two points, and free throws are worth one point. The three-point line was added to the NBA in 1979 and has become a huge part of the modern game."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "Two points",
+          "2",
+          "two",
+          "2 points",
+          "two point"
+        ],
+        "option_b": [
+          "Three points",
+          "3",
+          "three",
+          "3 points",
+          "three point"
+        ],
+        "option_c": [
+          "Four points",
+          "4",
+          "four",
+          "4 points",
+          "four point"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": ""
+    },
+    {
+      "id": "sport_B8_35",
+      "que": "Which sport uses the term 'love all' at the start?",
+      "ans": {
+        "value": "Tennis",
+        "correct_entity": "option_c"
+      },
+      "options": [
+        "Squash",
+        "Badminton",
+        "Tennis"
+      ],
+      "expl": [
+        "In tennis, 'love all' indicates a score of 0-0 at the start of a game. The word 'love' in tennis means zero, and 'all' means both players have the same score. So 'love all' means both players have zero points. The term is also used for 30-all and 40-all (deuce)."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "Squash",
+          "squash game"
+        ],
+        "option_b": [
+          "Badminton",
+          "badminton game",
+          "batminton"
+        ],
+        "option_c": [
+          "Tennis",
+          "lawn tennis",
+          "tenis"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": ""
+    },
+    {
+      "id": "sport_B8_36",
+      "que": "In American football, how many points is a touchdown worth?",
+      "ans": {
+        "value": "Six",
+        "correct_entity": "option_b"
+      },
+      "options": [
+        "Three",
+        "Six",
+        "Seven"
+      ],
+      "expl": [
+        "A touchdown in American football is worth six points. After scoring a touchdown, the team can try for an extra point by kicking the ball through the goalposts, or for two extra points by running or passing it into the end zone again. A field goal is worth three points."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "Three",
+          "3",
+          "tree"
+        ],
+        "option_b": [
+          "Six",
+          "6"
+        ],
+        "option_c": [
+          "Seven",
+          "7",
+          "sevn"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": ""
+    },
+    {
+      "id": "sport_B8_37",
+      "que": "In which sport does a player use a cue stick?",
+      "ans": {
+        "value": "Snooker",
+        "correct_entity": "option_b"
+      },
+      "options": [
+        "Darts",
+        "Snooker",
+        "Croquet"
+      ],
+      "expl": [
+        "A cue stick is used in snooker, pool, and billiards. In snooker, players use a cue to strike a white cue ball to pot coloured balls in a specific order. Snooker is played on a large green baize table and originated in India among British Army officers in the 1870s."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "Darts",
+          "dart",
+          "dart game"
+        ],
+        "option_b": [
+          "Snooker",
+          "billiards",
+          "pool",
+          "snuker"
+        ],
+        "option_c": [
+          "Croquet",
+          "krokay"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": ""
+    },
+    {
+      "id": "sport_B8_38",
+      "que": "The Ashes cricket series is contested between which two countries?",
+      "ans": {
+        "value": "England and Australia",
+        "correct_entity": "option_b"
+      },
+      "options": [
+        "England and South Africa",
+        "England and Australia",
+        "Australia and India"
+      ],
+      "expl": [
+        "The Ashes is a cricket Test series between England and Australia. The term 'The Ashes' originated from a satirical obituary in 1882 that stated English cricket had died and 'the body will be cremated and the ashes taken to Australia.' The teams have competed for the urn ever since."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "England and South Africa",
+          "england south africa",
+          "south africa england",
+          "ingland south africa"
+        ],
+        "option_b": [
+          "England and Australia",
+          "england australia",
+          "australia england",
+          "ingland australia"
+        ],
+        "option_c": [
+          "Australia and India",
+          "australia india",
+          "india australia",
+          "aussie india"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": ""
+    },
+    {
+      "id": "sport_B8_39",
+      "que": "How many metres are in a standard Olympic swimming pool?",
+      "ans": {
+        "value": "50 metres",
+        "correct_entity": "option_b"
+      },
+      "options": [
+        "25 metres",
+        "50 metres",
+        "100 metres"
+      ],
+      "expl": [
+        "An Olympic swimming pool is 50 metres long and 25 metres wide, with 10 lanes. This is called a 'long-course' pool. A 'short-course' pool is 25 metres long and is used in some international competitions. Olympic records are only set in long-course pools."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "25 metres",
+          "twenty five metres",
+          "25m",
+          "twenty five meters"
+        ],
+        "option_b": [
+          "50 metres",
+          "fifty metres",
+          "50m",
+          "fifty meters"
+        ],
+        "option_c": [
+          "100 metres",
+          "one hundred metres",
+          "100m",
+          "hundred metres"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": ""
+    },
+    {
+      "id": "sport_B8_40",
+      "que": "Which country did Brazilian football legend Pele play for internationally?",
+      "ans": {
+        "value": "Brazil",
+        "correct_entity": "option_c"
+      },
+      "options": [
+        "Argentina",
+        "Portugal",
+        "Brazil"
+      ],
+      "expl": [
+        "Pelé played for Brazil's national football team and is widely considered the greatest footballer of all time. He represented Brazil in four FIFA World Cup tournaments and won three of them in 1958, 1962, and 1970. He scored 77 goals in 92 international appearances for Brazil."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "Argentina",
+          "argentinian",
+          "argentino"
+        ],
+        "option_b": [
+          "Portugal",
+          "portuguese",
+          "portugul"
+        ],
+        "option_c": [
+          "Brazil",
+          "brazilian",
+          "brasil",
+          "brazill"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": ""
+    },
+    {
+      "id": "sport_B8_41",
+      "que": "What is the largest sport stadium in the world by seating capacity?",
+      "ans": {
+        "value": "Rungrado 1st of May Stadium",
+        "correct_entity": "option_c"
+      },
+      "options": [
+        "Camp Nou, Barcelona",
+        "Melbourne Cricket Ground",
+        "Rungrado 1st of May Stadium"
+      ],
+      "expl": [
+        "The Rungrado 1st of May Stadium in Pyongyang, North Korea, is the largest stadium in the world by seating capacity, holding approximately 114,000 spectators. It is used for football matches, athletic events, and North Korea's Mass Games. It was opened in 1989 and is named after Rungrado island."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "Camp Nou, Barcelona",
+          "camp nou",
+          "barcelona stadium",
+          "camp nou stadium",
+          "fc barcelona stadium"
+        ],
+        "option_b": [
+          "Melbourne Cricket Ground",
+          "mcg",
+          "melbourne stadium"
+        ],
+        "option_c": [
+          "Rungrado 1st of May Stadium",
+          "rungrado",
+          "may day stadium",
+          "north korea stadium",
+          "rungrado stadium"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": ""
+    },
+    {
+      "id": "sport_B8_42",
+      "que": "Which sport is played on a court with a net and uses a shuttlecock instead of a ball?",
+      "ans": {
+        "value": "Badminton",
+        "correct_entity": "option_b"
+      },
+      "options": [
+        "Tennis",
+        "Badminton",
+        "Volleyball"
+      ],
+      "expl": [
+        "Badminton is the sport played with a shuttlecock, sometimes called a 'birdie', instead of a ball. Players use rackets to hit the shuttlecock back and forth over a high net on a rectangular court. Badminton is an Olympic sport and is one of the fastest racket sports in the world."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "Tennis",
+          "lawn tennis",
+          "tenis"
+        ],
+        "option_b": [
+          "Badminton",
+          "badminton game",
+          "batminton"
+        ],
+        "option_c": [
+          "Volleyball",
+          "volley ball"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": ""
+    },
+    {
+      "id": "sport_B8_43",
+      "que": "Which American sports trophy is awarded to the winner of the NHL playoffs?",
+      "ans": {
+        "value": "Stanley Cup",
+        "correct_entity": "option_a"
+      },
+      "options": [
+        "Stanley Cup",
+        "Lombardi Trophy",
+        "Commissioner's Trophy"
+      ],
+      "expl": [
+        "The Stanley Cup is awarded each year to the champion of the National Hockey League playoffs. First given out in 1893, it is the oldest professional sports trophy in North America. Every player on the winning team gets to take it home for a day."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "Stanley Cup",
+          "the stanley cup",
+          "cup",
+          "hockey trophy"
+        ],
+        "option_b": [
+          "Lombardi Trophy",
+          "vince lombardi trophy",
+          "super bowl trophy"
+        ],
+        "option_c": [
+          "Commissioner's Trophy",
+          "commissioner s trophy",
+          "commissioners trophy",
+          "baseball trophy"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": ""
+    },
+    {
+      "id": "sport_B8_44",
+      "que": "In American football, what is it called when the ball is carried into the end zone for six points?",
+      "ans": {
+        "value": "Touchdown",
+        "correct_entity": "option_b"
+      },
+      "options": [
+        "Field goal",
+        "Touchdown",
+        "Safety"
+      ],
+      "expl": [
+        "A touchdown is scored when a player carries or catches the ball in the opponent's end zone in American football. It is worth six points. After scoring, the team gets a chance to add one more point with a kick or two more with another play from the two-yard line."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "Field goal",
+          "fg",
+          "goal kick"
+        ],
+        "option_b": [
+          "Touchdown",
+          "td",
+          "touch down"
+        ],
+        "option_c": [
+          "Safety",
+          "defensive safety"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": ""
+    }
+  ],
+  "IMAGE_QUESTIONS": [],
+  "AUDIO_QUESTIONS": []
+}

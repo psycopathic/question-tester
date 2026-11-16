@@ -1,0 +1,2991 @@
+{
+  "TEXT_QUESTIONS": [
+    {
+      "id": "general-knowledge_B3_12",
+      "que": "Maple syrup most commonly comes from the sap of which tree?",
+      "ans": {
+        "value": "Maple",
+        "correct_entity": "option_a"
+      },
+      "options": [
+        "Maple",
+        "Pine",
+        "Oak"
+      ],
+      "expl": [],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "Maple",
+          "maple tree"
+        ],
+        "option_b": [
+          "Pine",
+          "pine tree"
+        ],
+        "option_c": [
+          "Oak",
+          "oak tree"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": ""
+    },
+    {
+      "id": "general-knowledge_B3_77",
+      "que": "Which Caribbean island is famous for reggae music and was the home of Bob Marley?",
+      "ans": {
+        "value": "Jamaica",
+        "correct_entity": "option_a"
+      },
+      "options": [
+        "Jamaica",
+        "Cuba",
+        "Puerto Rico"
+      ],
+      "expl": [],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "Jamaica"
+        ],
+        "option_b": [
+          "Cuba"
+        ],
+        "option_c": [
+          "Puerto Rico"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": ""
+    },
+    {
+      "id": "general-knowledge_B3_1",
+      "que": "Who was the first woman to win a Nobel Prize?",
+      "ans": {
+        "value": "Marie Curie",
+        "correct_entity": "option_a"
+      },
+      "options": [
+        "Marie Curie",
+        "Amelia Earhart",
+        "Rosa Parks"
+      ],
+      "expl": [
+        "Marie Curie was the first woman to win a Nobel Prize in 1903. She won the Nobel Prize in Physics for her groundbreaking research on radioactivity. She later won another Nobel Prize in Chemistry in 1911."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "Marie Curie",
+          "curie",
+          "marie"
+        ],
+        "option_b": [
+          "Amelia Earhart",
+          "ear heart",
+          "earhart",
+          "amelia",
+          "amelia earheart"
+        ],
+        "option_c": [
+          "Rosa Parks",
+          "rosa park",
+          "rosa",
+          "parks"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": ""
+    },
+    {
+      "id": "general-knowledge_B3_2",
+      "que": "The Sage of Omaha' is a nickname for which entrepreneur?",
+      "ans": {
+        "value": "Warren Buffett",
+        "correct_entity": "option_c"
+      },
+      "options": [
+        "Jeff Bezos",
+        "Bill Gates",
+        "Warren Buffett"
+      ],
+      "expl": [
+        "The Sage of Omaha' is a nickname for Warren Buffett. He is one of the most successful investors in the world and the chairman and CEO of Berkshire Hathaway, known for his value investing approach and philanthropy."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "Jeff Bezos",
+          "jeff",
+          "bezos"
+        ],
+        "option_b": [
+          "Bill Gates",
+          "bill",
+          "gates"
+        ],
+        "option_c": [
+          "Warren Buffett",
+          "warren",
+          "buffett"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": ""
+    },
+    {
+      "id": "general-knowledge_B3_3",
+      "que": "Which country was named the world's happiest for the sixth year in a row?",
+      "ans": {
+        "value": "Finland",
+        "correct_entity": "option_b"
+      },
+      "options": [
+        "Iceland",
+        "Finland",
+        "Sweden"
+      ],
+      "expl": [
+        "According to the annual World Happiness Report, Finland remains the world's happiest country for the sixth year in a row. The ranking is based on data from the Gallup World Poll, considering factors like social support, income, health, freedom, generosity, and absence of corruption. Europe dominates the top rankings with eight of the ten happiest nations, including Denmark, Iceland, Israel, and the Netherlands."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "Iceland"
+        ],
+        "option_b": [
+          "Finland",
+          "fin land"
+        ],
+        "option_c": [
+          "Sweden"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": ""
+    },
+    {
+      "id": "general-knowledge_B3_4",
+      "que": "Which unusual ingredient is served on New Haven pizza?",
+      "ans": {
+        "value": "Clams",
+        "correct_entity": "option_b"
+      },
+      "options": [
+        "Fries",
+        "Clams",
+        "Peas"
+      ],
+      "expl": [
+        "New Haven-style pizza, or \"apizza,\" hails from Connecticut. It boasts a thin crust, olive oil, and a topping of fresh clams. Frank Pepe of Frank Pepe Pizzeria Napoletana pioneered clam apizza in the 1960s. His creation showcased shucked clams on a sauceless white pizza enhanced with Romano cheese, olive oil, and oregano."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "Fries",
+          "fry is"
+        ],
+        "option_b": [
+          "Clams",
+          "clam"
+        ],
+        "option_c": [
+          "Peas",
+          "pea",
+          "peace",
+          "pees",
+          "p.",
+          "pee",
+          "p. s.",
+          "please"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": ""
+    },
+    {
+      "id": "general-knowledge_B3_5",
+      "que": "What type of animal is sacred in Thailand?",
+      "ans": {
+        "value": "Elephant",
+        "correct_entity": "option_a"
+      },
+      "options": [
+        "Elephant",
+        "Tiger",
+        "Monkey"
+      ],
+      "expl": [
+        "Elephants are revered in Thailand as sacred animals, symbolizing royalty, power, and good luck. They have a long history in Thai culture, playing a vital role in traditions, ceremonies, and Buddhism. Elephants are cherished for their wisdom and gentle demeanor and hold great significance in Thai tourism."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "Elephant",
+          "elephants"
+        ],
+        "option_b": [
+          "Tiger",
+          "tigers"
+        ],
+        "option_c": [
+          "Monkey",
+          "monkeys"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": ""
+    },
+    {
+      "id": "general-knowledge_B3_6",
+      "que": "As of 2022, how many Presidents has America had?",
+      "ans": {
+        "value": "46",
+        "correct_entity": "option_b"
+      },
+      "options": [
+        "38",
+        "46",
+        "50"
+      ],
+      "expl": [
+        "By the numbers, there have been 46 presidencies (including the current president, Joe Biden, whose term began in 2021), and 45 people have served as president. Grover Cleveland was elected to two non-consecutive terms and is considered the 22nd and 24th president of the United States."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "38",
+          "thirty eight",
+          "three eight"
+        ],
+        "option_b": [
+          "46",
+          "four six",
+          "forty six"
+        ],
+        "option_c": [
+          "50",
+          "fifty",
+          "five one"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": ""
+    },
+    {
+      "id": "general-knowledge_B3_7",
+      "que": "Which billionaire entrepreneur launched a new space exploration company called Blue Origin?",
+      "ans": {
+        "value": "Jeff Bezos",
+        "correct_entity": "option_a"
+      },
+      "options": [
+        "Jeff Bezos",
+        "Elon Musk",
+        "Richard Branson"
+      ],
+      "expl": [
+        "Jeff Bezos, the founder of Amazon, launched the space exploration company Blue Origin to develop technologies for space travel and colonization."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "Jeff Bezos",
+          "jeff",
+          "bezos"
+        ],
+        "option_b": [
+          "Elon Musk",
+          "musk",
+          "elon"
+        ],
+        "option_c": [
+          "Richard Branson",
+          "branson",
+          "richard",
+          "richard brandson",
+          "brandson"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": ""
+    },
+    {
+      "id": "general-knowledge_B3_8",
+      "que": "BackRub was the original name of which famous technology brand?",
+      "ans": {
+        "value": "Google",
+        "correct_entity": "option_a"
+      },
+      "options": [
+        "Google",
+        "Apple",
+        "Microsoft"
+      ],
+      "expl": [
+        "BackRub was the original name of the famous technology brand Google. Initially developed as a research project by Larry Page and Sergey Brin, the company eventually adopted the name \"Google,\" which is now synonymous with internet search and a wide range of digital services."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "Google"
+        ],
+        "option_b": [
+          "Apple"
+        ],
+        "option_c": [
+          "Microsoft"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": ""
+    },
+    {
+      "id": "general-knowledge_B3_9",
+      "que": "Despite its name, where was Mongolian barbecue invented?",
+      "ans": {
+        "value": "Taiwan",
+        "correct_entity": "option_a"
+      },
+      "options": [
+        "Taiwan",
+        "Canada",
+        "Portugal"
+      ],
+      "expl": [
+        "The Taiwanese dish, Mongolian barbecue, has no link to Mongolia or traditional barbecue. Comedian Wu Zhaonan, a Beijing native, invented it in 1951. Initially called \"Beijing barbecue,\" the politically sensitive status of the city prompted the adoption of the name \"Mongolian barbecue\" despite its lack of Mongolian roots."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "Taiwan"
+        ],
+        "option_b": [
+          "Canada"
+        ],
+        "option_c": [
+          "Portugal"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": ""
+    },
+    {
+      "id": "general-knowledge_B3_10",
+      "que": "Signifying its departure and arrival cities, the letters \"NYP\" appear on which historic vehicle?",
+      "ans": {
+        "value": "Spirit of St. Louis",
+        "correct_entity": "option_c"
+      },
+      "options": [
+        "Hindenburg",
+        "Spruce Goose",
+        "Spirit of St. Louis"
+      ],
+      "expl": [
+        "The Spirit of St. Louis, an iconic aircraft, gained fame for Charles Lindbergh's historic achievement. In 1927, he flew solo from N.Y. to Paris, covering 3,600 miles. As a tribute to his sponsor, the St. Louis Chamber of Commerce, Lindbergh named the plane \"N.Y.P.,\" which stood for \"New York-Paris,\" symbolizing the flight's objective."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "Hindenburg",
+          "hinden burg"
+        ],
+        "option_b": [
+          "Spruce Goose",
+          "spruce",
+          "goose"
+        ],
+        "option_c": [
+          "Spirit of St. Louis",
+          "st. louis",
+          "louis",
+          "spirit",
+          "spirit of saint louis",
+          "spirit of",
+          "saint louis"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": ""
+    },
+    {
+      "id": "general-knowledge_B3_11",
+      "que": "The word geology originates from which language?",
+      "ans": {
+        "value": "Greek",
+        "correct_entity": "option_b"
+      },
+      "options": [
+        "Latin",
+        "Greek",
+        "Arabic"
+      ],
+      "expl": [
+        "The word \"geology\" originates from the Greek language. It comes from the combination of \"geo\" (meaning \"Earth\") and \"logia\" (meaning \"study\" or \"discourse\"). Geology is the scientific study of the Earth's solid materials, including rocks, minerals, and the processes that shape the Earth's structure."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "Latin"
+        ],
+        "option_b": [
+          "Greek"
+        ],
+        "option_c": [
+          "Arabic"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": ""
+    },
+    {
+      "id": "general-knowledge_B3_13",
+      "que": "The luxury fabric called cashmere is from which animal?",
+      "ans": {
+        "value": "Goat",
+        "correct_entity": "option_b"
+      },
+      "options": [
+        "Sheep",
+        "Goat",
+        "Alpaca"
+      ],
+      "expl": [
+        "Cashmere is obtained from the soft undercoat of goats, specifically the Kashmir goat. The fibers are prized for their warmth, softness, and lightweight nature, making cashmere a highly sought-after material for clothing and accessories."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "Sheep",
+          "ship"
+        ],
+        "option_b": [
+          "Goat",
+          "got"
+        ],
+        "option_c": [
+          "Alpaca",
+          "alpasa",
+          "alpaka"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": ""
+    },
+    {
+      "id": "general-knowledge_B3_14",
+      "que": "Which watch company has a pointed crown as its logo?",
+      "ans": {
+        "value": "Rolex",
+        "correct_entity": "option_a"
+      },
+      "options": [
+        "Rolex",
+        "Omega",
+        "Patek Philippe"
+      ],
+      "expl": [
+        "Rolex is a watch company that has a pointed crown as its logo. The crown symbolizes their precision and luxury timepieces."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "Rolex"
+        ],
+        "option_b": [
+          "Omega"
+        ],
+        "option_c": [
+          "Patek Philippe",
+          "patek",
+          "philippe"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": ""
+    },
+    {
+      "id": "general-knowledge_B3_15",
+      "que": "The love apple is the original name for what?",
+      "ans": {
+        "value": "Tomato",
+        "correct_entity": "option_a"
+      },
+      "options": [
+        "Tomato",
+        "Peach",
+        "Cherry"
+      ],
+      "expl": [
+        "The love apple is the original name for the tomato. The term \"love apple\" was commonly used in the 18th century to refer to the fruit. The name originated from the belief that tomatoes had aphrodisiac properties, leading to the association with love and passion. Over time, the name \"tomato\" became more widely adopted, and the term \"love apple\" fell out of common usage."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "Tomato",
+          "tomatoes"
+        ],
+        "option_b": [
+          "Peach",
+          "pitch"
+        ],
+        "option_c": [
+          "Cherry",
+          "chair is"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": ""
+    },
+    {
+      "id": "general-knowledge_B3_16",
+      "que": "What is the dominant religion in Malaysia?",
+      "ans": {
+        "value": "Islam",
+        "correct_entity": "option_c"
+      },
+      "options": [
+        "Hinduism",
+        "Buddhism",
+        "Islam"
+      ],
+      "expl": [
+        "Islam is the dominant religion in Malaysia. The country has a Muslim majority, with approximately 60% of the population practicing Islam. Malaysia recognizes Islam as the official religion and plays a significant role in the nation's cultural, social, and legal systems."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "Hinduism",
+          "hindu"
+        ],
+        "option_b": [
+          "Buddhism",
+          "buddha"
+        ],
+        "option_c": [
+          "Islam"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": ""
+    },
+    {
+      "id": "general-knowledge_B3_17",
+      "que": "What popular athletic brand is named for a type of antelope?",
+      "ans": {
+        "value": "Reebok",
+        "correct_entity": "option_a"
+      },
+      "options": [
+        "Reebok",
+        "Puma",
+        "Adidas"
+      ],
+      "expl": [
+        "Originally a division of J.W. Foster and Sons, a British company established in 1895, Reebok was founded in 1958 by Jeff and Joe Foster, grandsons of the founder. While searching for a name, they encountered the rhebok, an agile African antelope, in a South African dictionary, inadvertently adopting the Afrikaans spelling, hence \"Reebok\" instead of \"Rhebok.\""
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "Reebok"
+        ],
+        "option_b": [
+          "Puma"
+        ],
+        "option_c": [
+          "Adidas",
+          "a. d. das"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": ""
+    },
+    {
+      "id": "general-knowledge_B3_18",
+      "que": "Which soft drink brand was named after a slang term for \"moonshine\"?",
+      "ans": {
+        "value": "Mountain Dew",
+        "correct_entity": "option_c"
+      },
+      "options": [
+        "Crush",
+        "Sprite",
+        "Mountain Dew"
+      ],
+      "expl": [
+        "In the 1940s, two brothers from Tennessee invented Mountain Dew as a drink mixer. The early bottles featured Willie the Hillbilly, a cartoon country boy, on the label. In 1964, PepsiCo acquired Mountain Dew and altered the logo to attract a younger, more adventurous audience."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "Crush"
+        ],
+        "option_b": [
+          "Sprite"
+        ],
+        "option_c": [
+          "Mountain Dew",
+          "Mountain",
+          "Dew"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": ""
+    },
+    {
+      "id": "general-knowledge_B3_19",
+      "que": "Which country emits the most carbon dioxide?",
+      "ans": {
+        "value": "China",
+        "correct_entity": "option_b"
+      },
+      "options": [
+        "United States",
+        "China",
+        "India"
+      ],
+      "expl": [
+        "China is currently the world's largest emitter of carbon dioxide, contributing significantly to global greenhouse gas emissions. Its rapid industrialization and large population have produced substantial carbon emissions from various sectors."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "United States",
+          "u. s. a.",
+          "united states of america",
+          "u. s."
+        ],
+        "option_b": [
+          "China"
+        ],
+        "option_c": [
+          "India"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": ""
+    },
+    {
+      "id": "general-knowledge_B3_20",
+      "que": "What is the name of the President's official guest house?",
+      "ans": {
+        "value": "Blair House",
+        "correct_entity": "option_b"
+      },
+      "options": [
+        "The Hermitage",
+        "Blair House",
+        "Westland Mansion"
+      ],
+      "expl": [
+        "If invited to Washington by the president, you may stay at Blair House, the esteemed guest residence at 1651 Pennsylvania Avenue. It hosts visiting heads of state, offering 109 rooms, including 15 guest rooms, three dining rooms, a beauty salon, and in-house laundry. Dubbed as \"the world's most exclusive hotel,\" it guarantees a luxurious stay."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "The Hermitage",
+          "hermitage"
+        ],
+        "option_b": [
+          "Blair House",
+          "house",
+          "blair"
+        ],
+        "option_c": [
+          "Westland Mansion",
+          "mansion",
+          "westland",
+          "west land mansion"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": ""
+    },
+    {
+      "id": "general-knowledge_B3_21",
+      "que": "Which candy shares its name with a South American Mountain range?",
+      "ans": {
+        "value": "Andes",
+        "correct_entity": "option_c"
+      },
+      "options": [
+        "Pez",
+        "Toblerone",
+        "Andes"
+      ],
+      "expl": [
+        "Andes Chocolate Mints are small rectangular chocolates with a mint-green layer between two cocoa-based layers. They come in green foil with a snow-capped mountain design. They're popular as after-dinner mints, often found at restaurants like Olive Garden. It is named after the Andes Mountains, the longest mountain range in the world in South America."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "Pez"
+        ],
+        "option_b": [
+          "Toblerone"
+        ],
+        "option_c": [
+          "Andes",
+          "andy's",
+          "andy is"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": ""
+    },
+    {
+      "id": "general-knowledge_B3_22",
+      "que": "Which country uses the dong as currency?",
+      "ans": {
+        "value": "Vietnam",
+        "correct_entity": "option_b"
+      },
+      "options": [
+        "China",
+        "Vietnam",
+        "South Korea"
+      ],
+      "expl": [
+        "The dong is the official currency of Vietnam. It has been in circulation since 1978 and is commonly used for daily transactions within the country."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "China"
+        ],
+        "option_b": [
+          "Vietnam"
+        ],
+        "option_c": [
+          "South Korea",
+          "south",
+          "korea"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": ""
+    },
+    {
+      "id": "general-knowledge_B3_23",
+      "que": "Bugatti is a car brand from which European country?",
+      "ans": {
+        "value": "France",
+        "correct_entity": "option_c"
+      },
+      "options": [
+        "Italy",
+        "Germany",
+        "France"
+      ],
+      "expl": [
+        "Bugatti is a luxury car brand that originated in France and is known for producing high-performance sports cars."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "Italy"
+        ],
+        "option_b": [
+          "Germany"
+        ],
+        "option_c": [
+          "France"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": ""
+    },
+    {
+      "id": "general-knowledge_B3_24",
+      "que": "Which country uses a currency called shekels?",
+      "ans": {
+        "value": "Israel",
+        "correct_entity": "option_b"
+      },
+      "options": [
+        "Egypt",
+        "Israel",
+        "Saudi Arabia"
+      ],
+      "expl": [
+        "The shekel is the official currency of Israel. It is subdivided into 100 agorot and is used for various financial transactions within the country."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "Egypt"
+        ],
+        "option_b": [
+          "Israel"
+        ],
+        "option_c": [
+          "Saudi Arabia",
+          "arabia"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": ""
+    },
+    {
+      "id": "general-knowledge_B3_25",
+      "que": "What was the first toy to be advertised on television?",
+      "ans": {
+        "value": "Mr. Potato Head",
+        "correct_entity": "option_a"
+      },
+      "options": [
+        "Mr. Potato Head",
+        "Barbie",
+        "Slinky"
+      ],
+      "expl": [
+        "On April 30, 1952, Mr. Potato Head became the first toy advertised on television. The campaign was also the first to be aimed directly at children; before this, commercials were only targeted at adults, including toy advertisements. The commercial revolutionized marketing and caused an industrial boom."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "Mr. Potato Head",
+          "mr potato head",
+          "potato head",
+          "mister potato head",
+          "head",
+          "potato",
+          "mister potato",
+          "mr. potato"
+        ],
+        "option_b": [
+          "Barbie"
+        ],
+        "option_c": [
+          "Slinky"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": ""
+    },
+    {
+      "id": "general-knowledge_B3_26",
+      "que": "Which country is the birthplace and the manufacturing hub of Kia cars?",
+      "ans": {
+        "value": "South Korea",
+        "correct_entity": "option_c"
+      },
+      "options": [
+        "Japan",
+        "Germany",
+        "South Korea"
+      ],
+      "expl": [
+        "Kia Motors is a South Korean automobile manufacturer. The company produces a wide range of vehicles, including cars, SUVs, and electric vehicles, manufactured in various locations within South Korea."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "Japan"
+        ],
+        "option_b": [
+          "Germany"
+        ],
+        "option_c": [
+          "South Korea",
+          "korea",
+          "south"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": ""
+    },
+    {
+      "id": "general-knowledge_B3_27",
+      "que": "Which of these women is considered to be the very first computer programmer?",
+      "ans": {
+        "value": "Ada Lovelace",
+        "correct_entity": "option_a"
+      },
+      "options": [
+        "Ada Lovelace",
+        "Clara Barton",
+        "Marie Curie"
+      ],
+      "expl": [
+        "Ada Lovelace, a brilliant mathematician, is recognized as the originator of the initial computer program in the 1800s. Despite her significant contributions to computer science, it wasn't until the 1950s that her achievements came to light. Ada has been honored for her work posthumously, and in 1980, the U.S. Department of Defense named a computer language \"Ada\" in her honor."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "Ada Lovelace",
+          "ada love lace",
+          "love lace"
+        ],
+        "option_b": [
+          "Clara Barton",
+          "clara",
+          "barton"
+        ],
+        "option_c": [
+          "Marie Curie",
+          "curie",
+          "marie",
+          "marry"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": ""
+    },
+    {
+      "id": "general-knowledge_B3_28",
+      "que": "What is the common name for dried plums?",
+      "ans": {
+        "value": "Prunes",
+        "correct_entity": "option_a"
+      },
+      "options": [
+        "Prunes",
+        "Raisins",
+        "Figs"
+      ],
+      "expl": [
+        "The common name for dried plums is \"prunes.\" Prunes are known for their sweet taste and wrinkled appearance. They are a popular dried fruit and are often consumed for their high fiber content and potential digestive benefits."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "Prunes"
+        ],
+        "option_b": [
+          "Raisins",
+          "raisin",
+          "resume"
+        ],
+        "option_c": [
+          "Figs",
+          "fig"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": ""
+    },
+    {
+      "id": "general-knowledge_B3_29",
+      "que": "Which country is nicknamed 'the Pearl of Africa'?",
+      "ans": {
+        "value": "Uganda",
+        "correct_entity": "option_a"
+      },
+      "options": [
+        "Uganda",
+        "Kenya",
+        "Tanzania"
+      ],
+      "expl": [
+        "Uganda is nicknamed 'the Pearl of Africa' due to its stunning natural beauty, diverse landscapes, wildlife, and lakes. The country is known for its rich biodiversity and popular tourist destination."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "Uganda"
+        ],
+        "option_b": [
+          "Kenya"
+        ],
+        "option_c": [
+          "Tanzania"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": ""
+    },
+    {
+      "id": "general-knowledge_B3_30",
+      "que": "What is the primary ingredient in Risotto, a delicious and creamy Italian dish?",
+      "ans": {
+        "value": "Rice",
+        "correct_entity": "option_a"
+      },
+      "options": [
+        "Rice",
+        "Pasta",
+        "Potatoes"
+      ],
+      "expl": [
+        "The main ingredient of risotto is rice. Risotto is an Italian dish simmered with a special kind of short-grain rice, such as Arborio, Carnaroli, or Vialone Nano, which gives it its characteristic creamy texture."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "Rice"
+        ],
+        "option_b": [
+          "Pasta"
+        ],
+        "option_c": [
+          "Potatoes"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": ""
+    },
+    {
+      "id": "general-knowledge_B3_31",
+      "que": "Which of these countries produces the most copper?",
+      "ans": {
+        "value": "Chile",
+        "correct_entity": "option_a"
+      },
+      "options": [
+        "Chile",
+        "China",
+        "Australia"
+      ],
+      "expl": [
+        "Chile is the largest producer of copper in the world. Its rich copper deposits, particularly in the Atacama Desert, have made the country a global leader in copper production. The mining industry in Chile plays a significant role in the country's economy, accounting for a substantial portion of the world's total copper supply."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "Chile"
+        ],
+        "option_b": [
+          "China"
+        ],
+        "option_c": [
+          "Australia"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": ""
+    },
+    {
+      "id": "general-knowledge_B3_32",
+      "que": "How many miles long is Central Park in New York City?",
+      "ans": {
+        "value": "2.5",
+        "correct_entity": "option_c"
+      },
+      "options": [
+        "6",
+        "4",
+        "2.5"
+      ],
+      "expl": [
+        "Central Park, situated in Manhattan, New York City, spans 2 1/2 miles in length from 59th Street to 110th Street and is a half-mile wide between Fifth Avenue and Central Park West. It covers a vast area of 843 acres, surpassing the sizes of Vatican City and Monaco. Renowned as a symbol of NYC, Central Park is the most famous urban park in the United States, attracting numerous visitors."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "6",
+          "six"
+        ],
+        "option_b": [
+          "4",
+          "four"
+        ],
+        "option_c": [
+          "2.5",
+          "two point five",
+          "two and a half",
+          "two dot five"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": ""
+    },
+    {
+      "id": "general-knowledge_B3_33",
+      "que": "Which of these food companies at one time operated a video games division?",
+      "ans": {
+        "value": "Quaker",
+        "correct_entity": "option_b"
+      },
+      "options": [
+        "Tyson Foods",
+        "Quaker",
+        "Kellogg's"
+      ],
+      "expl": [
+        "Quaker Oats dabbled in video games in 1982, acquiring U.S. Games, an Atari 2600 cartridge maker. However, their 14 games flopped, closing the division in just 11 months. Quaker blamed low demand and market saturation. Spokesperson Ronald Bottrell explained, \"With no successful games, we chose to end the venture instead of further investment.\""
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "Tyson Foods",
+          "tyson",
+          "foods"
+        ],
+        "option_b": [
+          "Quaker",
+          "quarter",
+          "cracker",
+          "quackers",
+          "quacker",
+          "quakers"
+        ],
+        "option_c": [
+          "Kellogg's",
+          "kellogg"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": ""
+    },
+    {
+      "id": "general-knowledge_B3_34",
+      "que": "Lebanon is associated with which tree?",
+      "ans": {
+        "value": "Cedar",
+        "correct_entity": "option_c"
+      },
+      "options": [
+        "Pine",
+        "Olive",
+        "Cedar"
+      ],
+      "expl": [
+        "Lebanon is closely associated with the cedar tree, specifically the Lebanon cedar. The cedar tree has historical and cultural significance in Lebanon, representing strength, longevity, and national identity."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "Pine",
+          "fine"
+        ],
+        "option_b": [
+          "Olive"
+        ],
+        "option_c": [
+          "Cedar",
+          "seeder",
+          "sider"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": ""
+    },
+    {
+      "id": "general-knowledge_B3_35",
+      "que": "Tech firm Samsung is based in which country?",
+      "ans": {
+        "value": "South Korea",
+        "correct_entity": "option_b"
+      },
+      "options": [
+        "China",
+        "South Korea",
+        "Japan"
+      ],
+      "expl": [
+        "Samsung is a multinational technology company headquartered in South Korea. It is known for its wide range of consumer electronics, including smartphones, televisions, and appliances."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "China"
+        ],
+        "option_b": [
+          "South Korea",
+          "korea",
+          "south"
+        ],
+        "option_c": [
+          "Japan"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": ""
+    },
+    {
+      "id": "general-knowledge_B3_36",
+      "que": "What is the proper way to fold the American flag?",
+      "ans": {
+        "value": "Triangle",
+        "correct_entity": "option_c"
+      },
+      "options": [
+        "In a roll",
+        "Rectangle",
+        "Triangle"
+      ],
+      "expl": [
+        "The American flag is folded into a triangle shape, known as the \"flag folding ceremony.\" It involves precise folds, creating a triangular shape resembling a hat. This method handles and stores the flag correctly, especially during ceremonies or when retiring an old flag."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "In a roll",
+          "roll"
+        ],
+        "option_b": [
+          "Rectangle"
+        ],
+        "option_c": [
+          "Triangle"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": ""
+    },
+    {
+      "id": "general-knowledge_B3_37",
+      "que": "Which country is renowned as the original home of pecan nuts?",
+      "ans": {
+        "value": "United States",
+        "correct_entity": "option_a"
+      },
+      "options": [
+        "United States",
+        "Brazil",
+        "Mexico"
+      ],
+      "expl": [
+        "Pecan nuts are native to the United States, particularly the southern states. They are commonly used in various dishes and desserts, such as pecan pie, and have become a symbol of Southern cuisine."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "United States",
+          "u. s. a.",
+          "united states of america",
+          "u. s."
+        ],
+        "option_b": [
+          "Brazil"
+        ],
+        "option_c": [
+          "Mexico"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": ""
+    },
+    {
+      "id": "general-knowledge_B3_38",
+      "que": "Which city that holds the record for having the highest number of skyscrapers in the world?",
+      "ans": {
+        "value": "Hong Kong",
+        "correct_entity": "option_a"
+      },
+      "options": [
+        "Hong Kong",
+        "New York City",
+        "Dubai"
+      ],
+      "expl": [
+        "Hong Kong boasts the world's highest number of skyscrapers, a staggering 316. Its densely populated landscape, limited land, and thriving financial sector have led to the construction of numerous impressive high-rise buildings. The iconic skyline, with landmarks like the International Commerce Centre and Bank of China Tower, highlights Hong Kong's global prominence in commerce and modern architecture."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "Hong Kong",
+          "Hong",
+          "Kong"
+        ],
+        "option_b": [
+          "New York City",
+          "new york",
+          "n. y.",
+          "n. y. city",
+          "n. y. c."
+        ],
+        "option_c": [
+          "Dubai"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": ""
+    },
+    {
+      "id": "general-knowledge_B3_39",
+      "que": "Which classic Mexican dish means 'little donkey' in English?",
+      "ans": {
+        "value": "Burrito",
+        "correct_entity": "option_a"
+      },
+      "options": [
+        "Burrito",
+        "Tacos",
+        "Enchiladas"
+      ],
+      "expl": [
+        "The word \"burrito\" translates to 'little donkey' in English. It is a traditional Mexican dish with a tortilla wrapped around various fillings, such as meat, beans, rice, and vegetables."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "Burrito"
+        ],
+        "option_b": [
+          "Tacos",
+          "taco"
+        ],
+        "option_c": [
+          "Enchiladas"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": ""
+    },
+    {
+      "id": "general-knowledge_B3_40",
+      "que": "Which U.S. Army post changed its name this week to Fort Cavazos?",
+      "ans": {
+        "value": "Fort Hood",
+        "correct_entity": "option_b"
+      },
+      "options": [
+        "Fort Campbell",
+        "Fort Hood",
+        "Fort Bragg"
+      ],
+      "expl": [
+        "Fort Hood, the United States' third-largest military base, underwent a name change on Tuesday. It was renamed Fort Cavazos in tribute to General Richard Edward Cavazos, the first Hispanic-American four-star Army general. General Cavazos, who served in the Korean and Vietnam wars, earned prestigious awards for his bravery in both conflicts."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "Fort Campbell",
+          "camp bell",
+          "campbell"
+        ],
+        "option_b": [
+          "Fort Hood",
+          "hood"
+        ],
+        "option_c": [
+          "Fort Bragg",
+          "bragg"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": ""
+    },
+    {
+      "id": "general-knowledge_B3_41",
+      "que": "What color is the bottom stripe on the US flag?",
+      "ans": {
+        "value": "Red",
+        "correct_entity": "option_a"
+      },
+      "options": [
+        "Red",
+        "White",
+        "Blue"
+      ],
+      "expl": [
+        "The bottom stripe on the U.S. flag is red. The American flag consists of 13 horizontal stripes alternating between red and white, with the red stripe at the bottom. The flag's design represents the original thirteen colonies that declared independence from Great Britain."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "Red"
+        ],
+        "option_b": [
+          "White"
+        ],
+        "option_c": [
+          "Blue"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": ""
+    },
+    {
+      "id": "general-knowledge_B3_42",
+      "que": "What is the name of the oldest national park, which was founded in 1872?",
+      "ans": {
+        "value": "Yellowstone",
+        "correct_entity": "option_a"
+      },
+      "options": [
+        "Yellowstone",
+        "Yosemite",
+        "Grand Canyon"
+      ],
+      "expl": [
+        "The answer is Yellowstone National Park. It was the first US national park, established on March 1, 1872. Spanning Wyoming, Montana, and Idaho, it's famous for geothermal features like Old Faithful geysers, wildlife, and beautiful landscapes."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "Yellowstone",
+          "yellow stone",
+          "yellow",
+          "stone"
+        ],
+        "option_b": [
+          "Yosemite"
+        ],
+        "option_c": [
+          "Grand Canyon",
+          "canyon",
+          "grand"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": ""
+    },
+    {
+      "id": "general-knowledge_B3_43",
+      "que": "Jack Dorsey made his fortune from which tech site?",
+      "ans": {
+        "value": "Twitter",
+        "correct_entity": "option_b"
+      },
+      "options": [
+        "Facebook",
+        "Twitter",
+        "Instagram"
+      ],
+      "expl": [
+        "Jack Dorsey co-founded Twitter, a widely used social media platform that allows users to share and interact through short messages known as tweets."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "Facebook"
+        ],
+        "option_b": [
+          "Twitter"
+        ],
+        "option_c": [
+          "Instagram"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": ""
+    },
+    {
+      "id": "general-knowledge_B3_44",
+      "que": "Who is widely credited for the creation of the Ford Mustang?",
+      "ans": {
+        "value": "Lee Iacocca",
+        "correct_entity": "option_a"
+      },
+      "options": [
+        "Lee Iacocca",
+        "Enzo Ferrari",
+        "Ferdinand Porsche"
+      ],
+      "expl": [
+        "In the early 1960s, Ford's Lee Iacocca conceived a groundbreaking sports car targeting younger buyers. The 1965 Mustang was swiftly developed on a tight budget and debuted at the 1964 World's Fair. Despite expecting 100,000 sales in the first year, dealers sold 22,000 on the first day. The Mustang launched the pony car genre, and Iacocca was honored as its progenitor."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "Lee Iacocca",
+          "iacocca",
+          "lee",
+          "lee koka",
+          "lee coca",
+          "lee a coca"
+        ],
+        "option_b": [
+          "Enzo Ferrari",
+          "ferrari",
+          "enzo"
+        ],
+        "option_c": [
+          "Ferdinand Porsche",
+          "ferdinand",
+          "porsche"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": ""
+    },
+    {
+      "id": "general-knowledge_B3_45",
+      "que": "Which of these countries is not part of the Benelux Union?",
+      "ans": {
+        "value": "France",
+        "correct_entity": "option_a"
+      },
+      "options": [
+        "France",
+        "Netherlands",
+        "Belgium"
+      ],
+      "expl": [
+        "The Benelux Union is a politico-economic union formed by three neighboring countries in Western Europe: Belgium, the Netherlands, and Luxembourg. These three nations are often referred to collectively as the Benelux countries. Therefore, any country, not Belgium, the Netherlands, or Luxembourg would not be part of the Benelux Union."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "France"
+        ],
+        "option_b": [
+          "Netherlands",
+          "netherland",
+          "nether land"
+        ],
+        "option_c": [
+          "Belgium"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": ""
+    },
+    {
+      "id": "general-knowledge_B3_46",
+      "que": "In which year was the New York Yankees founded?",
+      "ans": {
+        "value": "1901",
+        "correct_entity": "option_a"
+      },
+      "options": [
+        "1901",
+        "1913",
+        "1923"
+      ],
+      "expl": [
+        "The New York Yankees, a professional baseball team founded in 1901 as the Baltimore Orioles. They later moved to New York in 1903 and became the New York Highlanders, eventually adopting the name \"New York Yankees\" in 1913."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "1901",
+          "nineteen hundred zero one",
+          "nineteen zero one"
+        ],
+        "option_b": [
+          "1913",
+          "nineteen thirteen",
+          "nineteen one three",
+          "one nine one three",
+          "one thousand nine hundred thirteen",
+          "one thousand nine hundred and thirteen"
+        ],
+        "option_c": [
+          "1923",
+          "nineteen hundred and twenty three",
+          "one thousand nine hundred twenty three",
+          "nineteen twenty three",
+          "one nine two three"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": ""
+    },
+    {
+      "id": "general-knowledge_B3_47",
+      "que": "Which advertising mascot wears epaulets?",
+      "ans": {
+        "value": "Captain Crunch",
+        "correct_entity": "option_a"
+      },
+      "options": [
+        "Captain Crunch",
+        "Chef Boyardee",
+        "Mr. Peanut"
+      ],
+      "expl": [
+        "Captain Horatio Magellan Crunch is the mascot of Captain's Crunch cereal. He is an elderly naval captain from the late 18th century, characterized by white eyebrows and a mustache. He wears a blue coat with gold bars and a Napoleon-style hat speculated as French. The character was created by Allan Burns, known for co-creating The Munster's and The Mary Tyler Moore Show."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "Captain Crunch",
+          "cap'n",
+          "cap'n crunch",
+          "captain",
+          "crunch"
+        ],
+        "option_b": [
+          "Chef Boyardee",
+          "boyardee",
+          "chef"
+        ],
+        "option_c": [
+          "Mr. Peanut",
+          "peanut",
+          "mister peanut",
+          "mister pee nut"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": ""
+    },
+    {
+      "id": "general-knowledge_B3_48",
+      "que": "There is an eagle and a snake on which national flag?",
+      "ans": {
+        "value": "Mexico",
+        "correct_entity": "option_b"
+      },
+      "options": [
+        "United States",
+        "Mexico",
+        "Russia"
+      ],
+      "expl": [
+        "The national flag of Mexico features an eagle standing on a cactus plant and devouring a snake. This iconic image is based on an ancient Aztec legend and holds significant cultural and historical symbolism for the country."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "United States",
+          "u. s. a.",
+          "united states of america",
+          "u. s."
+        ],
+        "option_b": [
+          "Mexico"
+        ],
+        "option_c": [
+          "Russia"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": ""
+    },
+    {
+      "id": "general-knowledge_B3_49",
+      "que": "The failure of which crop caused Ireland's Great Famine in the 19th century?",
+      "ans": {
+        "value": "Potato",
+        "correct_entity": "option_c"
+      },
+      "options": [
+        "Wheat",
+        "Barley",
+        "Potato"
+      ],
+      "expl": [
+        "The Irish Potato Famine in the 19th century was caused by the failure of the potato crop, leading to widespread starvation, disease, and mass emigration from Ireland. The dependence on potatoes as a staple crop and the outbreak of potato blight resulted in a devastating impact on the population."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "Wheat"
+        ],
+        "option_b": [
+          "Barley"
+        ],
+        "option_c": [
+          "Potato",
+          "potatoes"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": ""
+    },
+    {
+      "id": "general-knowledge_B3_50",
+      "que": "A dog named Spuds MacKenzie served as the mascot for which brand?",
+      "ans": {
+        "value": "Bud Light",
+        "correct_entity": "option_a"
+      },
+      "options": [
+        "Bud Light",
+        "Target",
+        "Pepsi"
+      ],
+      "expl": [
+        "Spuds Mackenzie, a white bull terrier, gained overnight fame as a Bud Light ad campaign star in the late 1980s. The campaign was a massive success, boosting sales by 20%. However, it was later revealed that Spuds was a female bull terrier. Due to the character's image overshadowing the beverage, Anheuser-Busch retired Spuds in 1989."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "Bud Light",
+          "light",
+          "bud"
+        ],
+        "option_b": [
+          "Target"
+        ],
+        "option_c": [
+          "Pepsi"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": ""
+    },
+    {
+      "id": "general-knowledge_B3_51",
+      "que": "Which restaurant chain's signature product is the Whopper?",
+      "ans": {
+        "value": "Burger King",
+        "correct_entity": "option_b"
+      },
+      "options": [
+        "McDonald's",
+        "Burger King",
+        "Wendy's"
+      ],
+      "expl": [
+        "The Whopper is a signature burger offered by Burger King, a famous international fast-food restaurant chain."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "McDonald's",
+          "mcdonalds",
+          "mcdonald",
+          "mc d.",
+          "mac d.",
+          "mac d",
+          "mc d"
+        ],
+        "option_b": [
+          "Burger King",
+          "burger"
+        ],
+        "option_c": [
+          "Wendy's",
+          "wendys",
+          "wendy"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": ""
+    },
+    {
+      "id": "general-knowledge_B3_52",
+      "que": "Which country recently became the first to achieve a historic landing of a spacecraft on an asteroid?",
+      "ans": {
+        "value": "Japan",
+        "correct_entity": "option_b"
+      },
+      "options": [
+        "China",
+        "Japan",
+        "United States"
+      ],
+      "expl": [
+        "In 2020, Japan's Hayabusa2 spacecraft successfully landed on the asteroid Ryugu, collecting samples to bring back to Earth."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "China"
+        ],
+        "option_b": [
+          "Japan"
+        ],
+        "option_c": [
+          "United States",
+          "u. s. a.",
+          "united states of america",
+          "u. s."
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": ""
+    },
+    {
+      "id": "general-knowledge_B3_53",
+      "que": "Which country became the first to launch a digital currency backed by a central bank in 2022?",
+      "ans": {
+        "value": "China",
+        "correct_entity": "option_c"
+      },
+      "options": [
+        "Sweden",
+        "United States",
+        "China"
+      ],
+      "expl": [
+        "In 2022, China launched the Digital Currency Electronic Payment (DCEP), becoming the first country to introduce a digital currency backed by a central bank."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "Sweden"
+        ],
+        "option_b": [
+          "United States",
+          "u. s. a.",
+          "united states of america",
+          "u. s."
+        ],
+        "option_c": [
+          "China"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": ""
+    },
+    {
+      "id": "general-knowledge_B3_54",
+      "que": "What social network started everyone off with a friend named Tom?",
+      "ans": {
+        "value": "MySpace",
+        "correct_entity": "option_c"
+      },
+      "options": [
+        "Instagram",
+        "Six Degrees",
+        "MySpace"
+      ],
+      "expl": [
+        "MySpace was a popular social network, a predecessor to Instagram and Facebook. Upon signing up, users were automatically connected with Tom, a default friend and co-founder of MySpace. Tom's friendly profile picture became iconic. After his retirement, new users were greeted by a profile called \"T.O.M\" (Today On MySpace) instead of Tom Anderson himself."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "Instagram"
+        ],
+        "option_b": [
+          "Six Degrees",
+          "six degree",
+          "degrees"
+        ],
+        "option_c": [
+          "MySpace",
+          "my space",
+          "my pace"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": ""
+    },
+    {
+      "id": "general-knowledge_B3_55",
+      "que": "\"Life's Good\" is the slogan of which tech company?",
+      "ans": {
+        "value": "LG",
+        "correct_entity": "option_b"
+      },
+      "options": [
+        "Samsung",
+        "LG",
+        "Sony"
+      ],
+      "expl": [
+        "LG is a South Korean multinational company known for its consumer electronics. Their products include TVs, smartphones, and home appliances. Their slogan, \"Life's Good\" represents their dedication to improving people's lives with innovative technology."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "Samsung"
+        ],
+        "option_b": [
+          "LG",
+          "l.g.",
+          "l g",
+          "l. g."
+        ],
+        "option_c": [
+          "Sony"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": ""
+    },
+    {
+      "id": "general-knowledge_B3_56",
+      "que": "Which search engine is the most popular in China?",
+      "ans": {
+        "value": "Baidu",
+        "correct_entity": "option_c"
+      },
+      "options": [
+        "Google",
+        "Yahoo",
+        "Baidu"
+      ],
+      "expl": [
+        "Baidu, a Chinese multinational technology company, holds the top position as the preferred search engine in China. It specializes in internet services and artificial intelligence, providing tailored features and services for the Chinese language and culture. Government regulations and restrictions have limited the presence and usage of popular global search engines like Google and Yahoo in China."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "Google"
+        ],
+        "option_b": [
+          "Yahoo"
+        ],
+        "option_c": [
+          "Baidu"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": ""
+    },
+    {
+      "id": "general-knowledge_B3_57",
+      "que": "Where was the pina colada invented?",
+      "ans": {
+        "value": "Puerto Rico",
+        "correct_entity": "option_a"
+      },
+      "options": [
+        "Puerto Rico",
+        "Jamaica",
+        "Cuba"
+      ],
+      "expl": [
+        "The piña colada originated in Puerto Rico at the Caribe Hilton in San Juan. Ramón Marrero Perez, a bartender at the hotel, is often credited with creating it after three months of experimentation in 1954. Ricardo Garcia, another bartender, added strained pineapple juice and named the drink. Piña colada translates to \"strained pineapple\" in Spanish."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "Puerto Rico",
+          "puerto",
+          "rico"
+        ],
+        "option_b": [
+          "Jamaica"
+        ],
+        "option_c": [
+          "Cuba"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": ""
+    },
+    {
+      "id": "general-knowledge_B3_58",
+      "que": "Which U.S. city is famous for its Mardi Gras celebrations, including vibrant parades and festive costumes?",
+      "ans": {
+        "value": "New Orleans",
+        "correct_entity": "option_a"
+      },
+      "options": [
+        "New Orleans",
+        "Miami",
+        "Las Vegas"
+      ],
+      "expl": [
+        "New Orleans, Louisiana, is famous for its vibrant Mardi Gras celebrations. The city comes alive with colorful parades, festive costumes, and lively street parties during this annual carnival season. It is a cultural extravaganza that attracts visitors from around the world to experience the unique and energetic spirit of Mardi Gras in New Orleans."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "New Orleans",
+          "orleans",
+          "new"
+        ],
+        "option_b": [
+          "Miami"
+        ],
+        "option_c": [
+          "Las Vegas",
+          "vegas"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": ""
+    },
+    {
+      "id": "general-knowledge_B3_59",
+      "que": "What contributes 50% of electricity usage in the USA?",
+      "ans": {
+        "value": "Coal",
+        "correct_entity": "option_b"
+      },
+      "options": [
+        "Natural gas",
+        "Coal",
+        "Nuclear power"
+      ],
+      "expl": [
+        "Historically, coal has been a significant source of electricity generation in the United States. However, it is gradually being phased out in favor of cleaner energy alternatives due to its environmental impact and contribution to greenhouse gas emissions."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "Natural gas",
+          "natural",
+          "gas"
+        ],
+        "option_b": [
+          "Coal",
+          "call"
+        ],
+        "option_c": [
+          "Nuclear power",
+          "nuclear",
+          "power"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": ""
+    },
+    {
+      "id": "general-knowledge_B3_60",
+      "que": "Who is often credited with creating the world's first car?",
+      "ans": {
+        "value": "Karl Benz",
+        "correct_entity": "option_b"
+      },
+      "options": [
+        "Henry Ford",
+        "Karl Benz",
+        "Thomas Edison"
+      ],
+      "expl": [
+        "Karl Benz is often credited with creating the world's first car. In 1886, he built the Benz Patent-Motorwagen, a motorized vehicle with an internal combustion engine, which is widely considered to be the first automobile."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "Henry Ford",
+          "ford",
+          "henry"
+        ],
+        "option_b": [
+          "Karl Benz",
+          "karl",
+          "benz",
+          "call benz",
+          "car benz",
+          "curl benz"
+        ],
+        "option_c": [
+          "Thomas Edison",
+          "edison"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": ""
+    },
+    {
+      "id": "general-knowledge_B3_61",
+      "que": "Which historical landmark is engraved on the back of the U.S. nickel?",
+      "ans": {
+        "value": "Monticello",
+        "correct_entity": "option_c"
+      },
+      "options": [
+        "The U. S. Capitol",
+        "Lincoln Memorial",
+        "Monticello"
+      ],
+      "expl": [
+        "The obverse of the nickel showcases Thomas Jefferson, the third U.S. President and key author of the Declaration of Independence. On the reverse, Monticello, Jefferson's personally designed Virginia home and primary plantation, is depicted. It holds significance as a National Historic Landmark."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "The U. S. Capitol",
+          "capitol",
+          "u. s. capitol",
+          "u. s. capital",
+          "u. s.",
+          "capital",
+          "u.s. capitol"
+        ],
+        "option_b": [
+          "Lincoln Memorial",
+          "memorial",
+          "lincoln"
+        ],
+        "option_c": [
+          "Monticello",
+          "monti cello"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": ""
+    },
+    {
+      "id": "general-knowledge_B3_62",
+      "que": "Which iconic American band is known for hits like \"Hotel California\" and \"Take It Easy\"?",
+      "ans": {
+        "value": "Eagles",
+        "correct_entity": "option_a"
+      },
+      "options": [
+        "Eagles",
+        "The Beach Boys",
+        "Aerosmith"
+      ],
+      "expl": [
+        "The Eagles, an American rock band formed in 1971, gained tremendous popularity with their distinct sound blending rock, folk, and country influences. Songs like \"Hotel California\" and \"Take It Easy\" became timeless classics and contributed to the band's enduring legacy in American music."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "Eagles",
+          "eagle"
+        ],
+        "option_b": [
+          "The Beach Boys",
+          "beach boys",
+          "beach boy",
+          "beach",
+          "boys",
+          "boy"
+        ],
+        "option_c": [
+          "Aerosmith",
+          "air o. smith"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": ""
+    },
+    {
+      "id": "general-knowledge_B3_63",
+      "que": "How many Americans have been employed by McDonald's at some point in their life?",
+      "ans": {
+        "value": "1 out of 8",
+        "correct_entity": "option_b"
+      },
+      "options": [
+        "1 out of 4",
+        "1 out of 8",
+        "1 out of 13"
+      ],
+      "expl": [
+        "McDonald's, a major employer, had 150,000 workers in 2022. Reader's Digest states that one in eight Americans has worked there, including Jeff Bezos, Jay Leno, Rachel McAdams, Shania Twain, Sharon Stone, Pharrell Williams, and Paul Ryan. The Oxford Dictionary recognizes \"McJob\" as a low-paid job with limited prospects."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "1 out of 4",
+          "one out of four",
+          "4"
+        ],
+        "option_b": [
+          "1 out of 8",
+          "one out of eight",
+          "8"
+        ],
+        "option_c": [
+          "1 out of 13",
+          "one out of thirteen",
+          "one out of one three"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": ""
+    },
+    {
+      "id": "general-knowledge_B3_64",
+      "que": "An engineer from which company made the first cellphone call?",
+      "ans": {
+        "value": "Motorola",
+        "correct_entity": "option_a"
+      },
+      "options": [
+        "Motorola",
+        "Nokia",
+        "Sony"
+      ],
+      "expl": [
+        "Martin Cooper, an engineer at Motorola, made the first cellphone call on April 3, 1973. This historic moment with the Motorola DynaTAC 8000X prototype revolutionized communication and led to the development of modern mobile phones."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "Motorola"
+        ],
+        "option_b": [
+          "Nokia"
+        ],
+        "option_c": [
+          "Sony"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": ""
+    },
+    {
+      "id": "general-knowledge_B3_65",
+      "que": "The first full moon in April goes by which colorful name?",
+      "ans": {
+        "value": "Pink",
+        "correct_entity": "option_a"
+      },
+      "options": [
+        "Pink",
+        "Red",
+        "Blue"
+      ],
+      "expl": [
+        "The April full moon also called the Pink Moon, is named after the pink flowers and trees that bloom in spring. It is not pink in color but gets its name from a hot pink wildflower called Phlox subulata. It is also the first full moon of spring, known as the Paschal full moon."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "Pink"
+        ],
+        "option_b": [
+          "Red"
+        ],
+        "option_c": [
+          "Blue"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": ""
+    },
+    {
+      "id": "general-knowledge_B3_66",
+      "que": "What company's iconic logo was created by an Oregon college student for just $35?",
+      "ans": {
+        "value": "Nike",
+        "correct_entity": "option_c"
+      },
+      "options": [
+        "McDonald's",
+        "Coca-Cola",
+        "Nike"
+      ],
+      "expl": [
+        "The Nike \"Swoosh\" was created in 1971 by Carolyn Davidson, a design student. Symbolizing the wing of Nike, the Greek goddess, it initially had doubters but showed great potential. Davidson received $35 for her work. In 1983, Knight honored her with a golden Swoosh ring, 500 Nike shares, and a diamond. Today, the Nike \"Swoosh\" is globally renowned as a highly recognizable brand logo."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "McDonald's",
+          "mcdonalds",
+          "mcdonald",
+          "mc d.",
+          "mac d.",
+          "mac d",
+          "mc d"
+        ],
+        "option_b": [
+          "Coca-Cola",
+          "coca",
+          "coca cola",
+          "coke",
+          "cola"
+        ],
+        "option_c": [
+          "Nike"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": ""
+    },
+    {
+      "id": "general-knowledge_B3_67",
+      "que": "What year was fast-food brand McDonald's founded?",
+      "ans": {
+        "value": "1955",
+        "correct_entity": "option_b"
+      },
+      "options": [
+        "1940",
+        "1955",
+        "1967"
+      ],
+      "expl": [
+        "McDonald's, one of the most popular fast-food chains globally, was founded in 1955. It started as a small restaurant in San Bernardino, California. It has since grown into a global phenomenon with thousands of locations worldwide."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "1940",
+          "nineteen forty",
+          "one thousand nine hundred and forty",
+          "nineteen hundred forty",
+          "one nine four zero"
+        ],
+        "option_b": [
+          "1955",
+          "nineteen fifty five",
+          "nineteen double five",
+          "one thousand nine hundred fifty five",
+          "nineteen hundred and fifty five"
+        ],
+        "option_c": [
+          "1967",
+          "one nine six seven",
+          "nineteen sixty seven",
+          "nineteen hundred and sixty seven",
+          "one thousand nine hundred sixty seven"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": ""
+    },
+    {
+      "id": "general-knowledge_B3_68",
+      "que": "Fendi is a designer fashion brand from which country?",
+      "ans": {
+        "value": "Italy",
+        "correct_entity": "option_a"
+      },
+      "options": [
+        "Italy",
+        "France",
+        "United States"
+      ],
+      "expl": [
+        "Fendi is a renowned designer fashion brand from Italy. It was established in Rome in 1925 and is known for its luxury products, including handbags, accessories, ready-to-wear clothing, and fur collections."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "Italy"
+        ],
+        "option_b": [
+          "France"
+        ],
+        "option_c": [
+          "United States",
+          "u. s. a.",
+          "united states of america",
+          "u. s."
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": ""
+    },
+    {
+      "id": "general-knowledge_B3_69",
+      "que": "Which American artist is famous for his pop artworks, including the \"Campbell's Soup Cans\" painting?",
+      "ans": {
+        "value": "Andy Warhol",
+        "correct_entity": "option_a"
+      },
+      "options": [
+        "Andy Warhol",
+        "Jackson Pollock",
+        "Georgia O'Keeffe"
+      ],
+      "expl": [
+        "Andy Warhol, an influential figure in the pop art movement, gained recognition for his vibrant and iconic works. \"Campbell's Soup Cans,\" created in 1962, is one of his most renowned pieces, challenging the traditional boundaries of art and consumer culture."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "Andy Warhol",
+          "warhol",
+          "war hole",
+          "war",
+          "hole",
+          "andy"
+        ],
+        "option_b": [
+          "Jackson Pollock",
+          "pollock",
+          "jackson",
+          "pole lock",
+          "poll lock",
+          "lock"
+        ],
+        "option_c": [
+          "Georgia O'Keeffe",
+          "o. keeffe",
+          "georgia",
+          "Georgia O. Keeffe"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": ""
+    },
+    {
+      "id": "general-knowledge_B3_70",
+      "que": "According to Guinness World Records, what is the record number of children born by one woman?",
+      "ans": {
+        "value": "69",
+        "correct_entity": "option_a"
+      },
+      "options": [
+        "69",
+        "58",
+        "41"
+      ],
+      "expl": [
+        "In recorded history, a peasant woman named Mrs. Vassilyev holds the Guinness World Record for giving birth to the most children, a staggering 69. Living in 18th-century Russia, she had 27 pregnancies, including 16 pairs of twins, 7 sets of triplets, and 4 sets of quadruplets."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "69",
+          "sixty nine",
+          "six nine"
+        ],
+        "option_b": [
+          "58",
+          "five eight",
+          "fifty eight"
+        ],
+        "option_c": [
+          "41",
+          "four one",
+          "forty one",
+          "fourty one"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": ""
+    },
+    {
+      "id": "general-knowledge_B3_71",
+      "que": "In which country is it traditional to eat 12 grapes as the clock strikes on New Year's Eve?",
+      "ans": {
+        "value": "Spain",
+        "correct_entity": "option_a"
+      },
+      "options": [
+        "Spain",
+        "Italy",
+        "Mexico"
+      ],
+      "expl": [
+        "Eating 12 grapes, one for each stroke of the clock at midnight on New Year's Eve is a tradition in Spain. Each grape represents good luck for each month of the upcoming year and is believed to bring prosperity and ward off evil spirits."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "Spain"
+        ],
+        "option_b": [
+          "Italy"
+        ],
+        "option_c": [
+          "Mexico"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": ""
+    },
+    {
+      "id": "general-knowledge_B3_72",
+      "que": "Which coffee word is 'Pressed Out' in Italian?",
+      "ans": {
+        "value": "Espresso",
+        "correct_entity": "option_b"
+      },
+      "options": [
+        "Macchiato",
+        "Espresso",
+        "Cappuccino"
+      ],
+      "expl": [
+        "The Italian word for 'Pressed Out' in the context of coffee is \"espresso.\" Derived from the phrase caffé espresso, it refers to the method of making coffee by forcefully pushing pressurized water through the coffee grounds."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "Macchiato"
+        ],
+        "option_b": [
+          "Espresso"
+        ],
+        "option_c": [
+          "Cappuccino"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": ""
+    },
+    {
+      "id": "general-knowledge_B3_73",
+      "que": "What is on the white background of the National flag of Japan?",
+      "ans": {
+        "value": "Red circle",
+        "correct_entity": "option_c"
+      },
+      "options": [
+        "Yellow star",
+        "Blue star",
+        "Red circle"
+      ],
+      "expl": [
+        "The Japanese national flag, commonly known as the Hinomaru or 'circle of the sun,' features a white rectangular background with a crimson-red circle at its center. It symbolizes the significance of the sun in Japanese mythology and religion, where the emperor is considered the direct descendant of the sun goddess Amaterasu. The country is often called the \"Land of the Rising Sun.\""
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "Yellow star",
+          "yellow",
+          "star"
+        ],
+        "option_b": [
+          "Blue star",
+          "blue",
+          "star"
+        ],
+        "option_c": [
+          "Red circle",
+          "red",
+          "circle"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": ""
+    },
+    {
+      "id": "general-knowledge_B3_74",
+      "que": "The government of which country developed and owns the GPS system?",
+      "ans": {
+        "value": "United States",
+        "correct_entity": "option_a"
+      },
+      "options": [
+        "United States",
+        "China",
+        "Russia"
+      ],
+      "expl": [
+        "The GPS (Global Positioning System) system was developed and is owned by the United States government. It is a global navigation satellite system that provides location and time information."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "United States",
+          "u. s. a.",
+          "united states of america",
+          "u. s."
+        ],
+        "option_b": [
+          "China"
+        ],
+        "option_c": [
+          "Russia"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": ""
+    },
+    {
+      "id": "general-knowledge_B3_75",
+      "que": "Plate smashing is a tradition after a meal in which country?",
+      "ans": {
+        "value": "Greece",
+        "correct_entity": "option_a"
+      },
+      "options": [
+        "Greece",
+        "Japan",
+        "Mexico"
+      ],
+      "expl": [
+        "Plate smashing is a traditional practice after a meal in Greece. It is a festive custom where plates are intentionally broken as a symbol of joy and celebration. This tradition is often associated with Greek weddings, birthdays, and other joyous occasions."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "Greece",
+          "grease"
+        ],
+        "option_b": [
+          "Japan"
+        ],
+        "option_c": [
+          "Mexico"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": ""
+    },
+    {
+      "id": "general-knowledge_B3_76",
+      "que": "What is referred to as 'the fabric of our lives' in a popular commercial?",
+      "ans": {
+        "value": "Cotton",
+        "correct_entity": "option_a"
+      },
+      "options": [
+        "Cotton",
+        "Silk",
+        "Polyester"
+      ],
+      "expl": [
+        "According to the commercial campaign by Cotton Incorporated, \"Cotton is the fabric of our lives.\" The campaign aimed to promote cotton as a versatile and natural fabric used in everyday life, including clothing, home textiles, and more."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "Cotton"
+        ],
+        "option_b": [
+          "Silk"
+        ],
+        "option_c": [
+          "Polyester"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": ""
+    },
+    {
+      "id": "general-knowledge_B3_78",
+      "que": "The tango is an iconic dance from which country?",
+      "ans": {
+        "value": "Argentina",
+        "correct_entity": "option_c"
+      },
+      "options": [
+        "Brazil",
+        "Spain",
+        "Argentina"
+      ],
+      "expl": [
+        "The tango originated in Argentina and has become one of the country's most recognizable cultural exports. It is a passionate and expressive dance with intricate footwork and close embrace."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "Brazil"
+        ],
+        "option_b": [
+          "Spain"
+        ],
+        "option_c": [
+          "Argentina"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": ""
+    },
+    {
+      "id": "general-knowledge_B3_79",
+      "que": "Which bird is the symbol of the USA?",
+      "ans": {
+        "value": "Bald eagle",
+        "correct_entity": "option_a"
+      },
+      "options": [
+        "Bald eagle",
+        "American robin",
+        "Wild turkey"
+      ],
+      "expl": [
+        "The bald eagle is the national bird and symbol of the United States. It represents freedom, strength, and resilience and is prominently featured on the country's official seal, currency, and various national emblems."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "Bald eagle",
+          "eagle",
+          "bald eagles",
+          "eagles",
+          "bald"
+        ],
+        "option_b": [
+          "American robin",
+          "american",
+          "robin"
+        ],
+        "option_c": [
+          "Wild turkey",
+          "wild",
+          "turkey"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": ""
+    },
+    {
+      "id": "general-knowledge_B3_80",
+      "que": "Anime is a style of animation from which country?",
+      "ans": {
+        "value": "Japan",
+        "correct_entity": "option_a"
+      },
+      "options": [
+        "Japan",
+        "China",
+        "South Korea"
+      ],
+      "expl": [
+        "Anime is a style of animation that originated in Japan. It encompasses various animated works featuring unique art styles and vibrant characters. It often explores fantasy, science fiction, romance, and more genres. Japan has a rich history and cultural influence in the world of anime."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "Japan"
+        ],
+        "option_b": [
+          "China"
+        ],
+        "option_c": [
+          "South Korea",
+          "south",
+          "korea"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": ""
+    },
+    {
+      "id": "general-knowledge_B3_81",
+      "que": "Nanaimo bars are a sweet treat from which country?",
+      "ans": {
+        "value": "Canada",
+        "correct_entity": "option_a"
+      },
+      "options": [
+        "Canada",
+        "Australia",
+        "United States"
+      ],
+      "expl": [
+        "Nanaimo bars are a popular sweet treat originating from Canada. Named after the city of Nanaimo in British Columbia, these bars consist of a crumb base, a custard or buttercream filling, and a chocolate topping. They are a beloved Canadian dessert."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "Canada"
+        ],
+        "option_b": [
+          "Australia"
+        ],
+        "option_c": [
+          "United States",
+          "u. s. a.",
+          "united states of america",
+          "u. s."
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": ""
+    },
+    {
+      "id": "general-knowledge_B3_82",
+      "que": "What is the nickname of New York City?",
+      "ans": {
+        "value": "Big Apple",
+        "correct_entity": "option_a"
+      },
+      "options": [
+        "Big Apple",
+        "Big Pie",
+        "Big Daddy"
+      ],
+      "expl": [
+        "New York City earned the nickname \"The Big Apple\" in the 1920s and 1930s when a horse racing column by John J. Fitz Gerald in the New York Morning Telegraph used it to symbolize the city's allure and ambition. Since then, the term has become synonymous with New York City, representing its historical importance and cultural influence."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "Big Apple",
+          "apple"
+        ],
+        "option_b": [
+          "Big Pie",
+          "pie"
+        ],
+        "option_c": [
+          "Big Daddy",
+          "daddy"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": ""
+    },
+    {
+      "id": "general-knowledge_B3_83",
+      "que": "The kiwi is the national bird of which country?",
+      "ans": {
+        "value": "New Zealand",
+        "correct_entity": "option_a"
+      },
+      "options": [
+        "New Zealand",
+        "Australia",
+        "Canada"
+      ],
+      "expl": [
+        "The kiwi, a flightless bird unique to New Zealand, is the country's national symbol. It is featured on New Zealand's one-dollar coin and represents its natural heritage. With its small size, round body, long beak, and distinctive appearance, the kiwi holds cultural and ecological importance in New Zealand."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "New Zealand",
+          "New",
+          "Zealand"
+        ],
+        "option_b": [
+          "Australia"
+        ],
+        "option_c": [
+          "Canada"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": ""
+    },
+    {
+      "id": "general-knowledge_B3_84",
+      "que": "Nokia is a smartphone and tech company from which country?",
+      "ans": {
+        "value": "Finland",
+        "correct_entity": "option_b"
+      },
+      "options": [
+        "Japan",
+        "Finland",
+        "Sweden"
+      ],
+      "expl": [
+        "Nokia is a multinational telecommunications and consumer electronics company based in Finland. It is known for its mobile phones and other technological innovations."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "Japan"
+        ],
+        "option_b": [
+          "Finland",
+          "fin land"
+        ],
+        "option_c": [
+          "Sweden"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": ""
+    },
+    {
+      "id": "general-knowledge_B3_85",
+      "que": "Which country produces most of the world's emeralds?",
+      "ans": {
+        "value": "Colombia",
+        "correct_entity": "option_a"
+      },
+      "options": [
+        "Colombia",
+        "Brazil",
+        "Zambia"
+      ],
+      "expl": [
+        "Colombia is the leading producer of the world's finest emeralds, mainly from Boyacá and Cundinamarca. Its mines have been a significant source for centuries due to Colombian emeralds' exceptional quality and color. The geological conditions in these regions have made Colombia a prominent player in the global emerald industry."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "Colombia",
+          "columbia"
+        ],
+        "option_b": [
+          "Brazil"
+        ],
+        "option_c": [
+          "Zambia"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": ""
+    },
+    {
+      "id": "general-knowledge_B3_86",
+      "que": "Sylvester Stallone, Bruce Willis, and Arnold Schwarzenegger were owners of which chain restaurant?",
+      "ans": {
+        "value": "Planet Hollywood",
+        "correct_entity": "option_b"
+      },
+      "options": [
+        "Hard Rock Cafe",
+        "Planet Hollywood",
+        "All Star Cafe"
+      ],
+      "expl": [
+        "In the 1980s, Sylvester Stallone, Arnold Schwarzenegger, and Bruce Willis, who later collaborated in The Expendables series, joined forces to support Planet Hollywood, a restaurant chain founded in 1991. With star-studded inaugurals, the chain expanded globally but eventually faced bankruptcy twice, closing nearly 100 locations and leaving only six restaurants in operation."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "Hard Rock Cafe",
+          "hard rock",
+          "hard",
+          "rock",
+          "hard cafe"
+        ],
+        "option_b": [
+          "Planet Hollywood",
+          "hollywood",
+          "planet",
+          "holly",
+          "wood"
+        ],
+        "option_c": [
+          "All Star Cafe",
+          "star cafe",
+          "all star"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": ""
+    }
+  ],
+  "IMAGE_QUESTIONS": [],
+  "AUDIO_QUESTIONS": []
+}

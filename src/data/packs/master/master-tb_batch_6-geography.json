@@ -1,0 +1,1206 @@
+{
+  "TEXT_QUESTIONS": [
+    {
+      "id": "geography_B6_1",
+      "que": "The Trevi Fountain is a landmark in which city?",
+      "ans": {
+        "value": "Rome",
+        "correct_entity": "option_a"
+      },
+      "options": [
+        "Rome",
+        "Paris",
+        "Athens"
+      ],
+      "expl": [
+        "The Trevi Fountain is a famous landmark located in Rome, Italy. It is the largest Baroque fountain in the city. It is known for its grandeur and iconic sculptures, including Neptune, the god of the sea."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "Rome"
+        ],
+        "option_b": [
+          "Paris"
+        ],
+        "option_c": [
+          "Athens"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": ""
+    },
+    {
+      "id": "geography_B6_2",
+      "que": "In which place can you find the famous landmark called Stonehenge?",
+      "ans": {
+        "value": "England",
+        "correct_entity": "option_c"
+      },
+      "options": [
+        "Scotland",
+        "Ireland",
+        "England"
+      ],
+      "expl": [
+        "Stonehenge, a prehistoric monument in Southern England, is a famous site with a circular arrangement of large standing stones within earthworks. The tallest stones, called sarsens, reach 30 feet in height and weigh approximately 25 tons. It was built between 3000 BC and 2000 BC and is considered a renowned British cultural icon."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "Scotland"
+        ],
+        "option_b": [
+          "Ireland"
+        ],
+        "option_c": [
+          "England"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": ""
+    },
+    {
+      "id": "geography_B6_3",
+      "que": "Which country is home to the Great Barrier Reef, one of the world's largest coral reef systems?",
+      "ans": {
+        "value": "Australia",
+        "correct_entity": "option_c"
+      },
+      "options": [
+        "Brazil",
+        "Mexico",
+        "Australia"
+      ],
+      "expl": [
+        "Australia is home to the Great Barrier Reef, a UNESCO World Heritage site, and one of the world's most diverse ecosystems."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "Brazil"
+        ],
+        "option_b": [
+          "Mexico"
+        ],
+        "option_c": [
+          "Australia"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": ""
+    },
+    {
+      "id": "geography_B6_4",
+      "que": "Havana is the capital of what country?",
+      "ans": {
+        "value": "Cuba",
+        "correct_entity": "option_a"
+      },
+      "options": [
+        "Cuba",
+        "Haiti",
+        "Dominican Republic"
+      ],
+      "expl": [
+        "Havana, the largest city in Cuba, also serves as its capital. It is known for its vibrant culture, historic architecture, and iconic landmarks such as the Malecón and El Capitolio."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "Cuba"
+        ],
+        "option_b": [
+          "Haiti"
+        ],
+        "option_c": [
+          "Dominican Republic",
+          "dominican"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": ""
+    },
+    {
+      "id": "geography_B6_5",
+      "que": "The world's largest pyramid is in which country?",
+      "ans": {
+        "value": "Mexico",
+        "correct_entity": "option_b"
+      },
+      "options": [
+        "Egypt",
+        "Mexico",
+        "China"
+      ],
+      "expl": [
+        "The world's largest pyramid, the Great Pyramid of Cholula, is in Mexico. It is an ancient Mesoamerican archaeological site near the city of Puebla. Although it may not resemble the traditional pyramids seen in Egypt, the Great Pyramid of Cholula has a massive volume. It is considered the largest pyramid by volume in the world."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "Egypt"
+        ],
+        "option_b": [
+          "Mexico"
+        ],
+        "option_c": [
+          "China"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": ""
+    },
+    {
+      "id": "geography_B6_6",
+      "que": "Which country in the North Atlantic Ocean is built entirely of volcanic rocks?",
+      "ans": {
+        "value": "Iceland",
+        "correct_entity": "option_a"
+      },
+      "options": [
+        "Iceland",
+        "Ireland",
+        "Greenland"
+      ],
+      "expl": [
+        "Iceland, located in the North Atlantic Ocean, is known for its volcanic activity. The island is formed by a combination of volcanic eruptions and tectonic activity, resulting in a landscape rich in volcanic rocks and geothermal features."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "Iceland"
+        ],
+        "option_b": [
+          "Ireland"
+        ],
+        "option_c": [
+          "Greenland"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": ""
+    },
+    {
+      "id": "geography_B6_7",
+      "que": "Which country is famous for its annual Carnival celebration, featuring vibrant parades and elaborate costumes?",
+      "ans": {
+        "value": "Brazil",
+        "correct_entity": "option_a"
+      },
+      "options": [
+        "Brazil",
+        "Spain",
+        "Italy"
+      ],
+      "expl": [
+        "Brazil is famous for its annual Carnival celebration, particularly in cities like Rio de Janeiro. It is known for its vibrant parades and samba dancers."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "Brazil"
+        ],
+        "option_b": [
+          "Spain"
+        ],
+        "option_c": [
+          "Italy"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": ""
+    },
+    {
+      "id": "geography_B6_8",
+      "que": "Bora Bora is a holiday island in which body of water?",
+      "ans": {
+        "value": "Pacific",
+        "correct_entity": "option_c"
+      },
+      "options": [
+        "Caribbean Sea",
+        "Indian",
+        "Pacific"
+      ],
+      "expl": [
+        "Bora Bora, a popular vacation destination known for its pristine beaches and luxury resorts, is in the Pacific Ocean. It is part of the Society Islands of French Polynesia. It is famous for its turquoise lagoons and vibrant marine life."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "Caribbean Sea",
+          "caribbean"
+        ],
+        "option_b": [
+          "Indian"
+        ],
+        "option_c": [
+          "Pacific"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": ""
+    },
+    {
+      "id": "geography_B6_9",
+      "que": "Which country is famous for its stunning fords, picturesque landscapes, and the Northern Lights?",
+      "ans": {
+        "value": "Norway",
+        "correct_entity": "option_a"
+      },
+      "options": [
+        "Norway",
+        "Sweden",
+        "Iceland"
+      ],
+      "expl": [
+        "Norway is renowned for its breathtaking fjords, including the iconic Geirangerfjord and the Nærøyfjord. It is also a prime location to witness the natural phenomenon of the Northern Lights."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "Norway"
+        ],
+        "option_b": [
+          "Sweden"
+        ],
+        "option_c": [
+          "Iceland"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": ""
+    },
+    {
+      "id": "geography_B6_10",
+      "que": "What is a name of a bridge that connects Europe to Asia?",
+      "ans": {
+        "value": "Bosphorus",
+        "correct_entity": "option_c"
+      },
+      "options": [
+        "Golden Gate",
+        "Sydney Harbour",
+        "Bosphorus"
+      ],
+      "expl": [
+        "The Bosphorus Bridge, also known as the Istanbul Bridge, is the bridge that connects Europe and Asia. It spans the Bosphorus Strait in Istanbul, Turkey, and is a prominent transportation link between the two continents."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "Golden Gate"
+        ],
+        "option_b": [
+          "Sydney Harbour"
+        ],
+        "option_c": [
+          "Bosphorus"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": ""
+    },
+    {
+      "id": "geography_B6_11",
+      "que": "Which country has the highest Catholic population in the world?",
+      "ans": {
+        "value": "Brazil",
+        "correct_entity": "option_a"
+      },
+      "options": [
+        "Brazil",
+        "Italy",
+        "Philippines"
+      ],
+      "expl": [
+        "Brazil, with over 190 million people, holds around 123 million Roman Catholics, about 64.6% of its population. The origins of Brazilian Catholicism date back to the colonial era when Portuguese settlers came. Catholicism's impact on culture, society, art, and politics is profound."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "Brazil"
+        ],
+        "option_b": [
+          "Italy"
+        ],
+        "option_c": [
+          "Philippines"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": ""
+    },
+    {
+      "id": "geography_B6_12",
+      "que": "Which South American country is named after a tree?",
+      "ans": {
+        "value": "Brazil",
+        "correct_entity": "option_c"
+      },
+      "options": [
+        "Peru",
+        "Argentina",
+        "Brazil"
+      ],
+      "expl": [
+        "Brazil is named after the vibrant Brazilwood tree, Caesalpinia echinata. Portuguese colonizers were captivated by its red heartwood, used for dye. They named the land \"Terra do Brasil\" due to its beauty and dye value. This tree is now Brazil's national symbol."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "Peru"
+        ],
+        "option_b": [
+          "Argentina"
+        ],
+        "option_c": [
+          "Brazil"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": ""
+    },
+    {
+      "id": "geography_B6_13",
+      "que": "What is the only sea that doesn't have any coasts?",
+      "ans": {
+        "value": "Sargasso Sea",
+        "correct_entity": "option_c"
+      },
+      "options": [
+        "Dead Sea",
+        "Caspian Sea",
+        "Sargasso Sea"
+      ],
+      "expl": [
+        "The Sargasso Sea, located in the North Atlantic Ocean, is unique because it is surrounded by ocean currents rather than land. It is known for its distinct ecosystem and floating mats of Sargassum seaweed."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "Dead Sea",
+          "dead"
+        ],
+        "option_b": [
+          "Caspian Sea",
+          "caspian"
+        ],
+        "option_c": [
+          "Sargasso Sea",
+          "sargasso"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": ""
+    },
+    {
+      "id": "geography_B6_14",
+      "que": "Which country led the Mayflower to America?",
+      "ans": {
+        "value": "England",
+        "correct_entity": "option_c"
+      },
+      "options": [
+        "Spain",
+        "France",
+        "England"
+      ],
+      "expl": [
+        "The country that led the Mayflower to America was England. The Mayflower was the ship that transported the English Pilgrims seeking religious freedom to the shores of what would become Plymouth Colony in present-day Massachusetts, USA. This historic voyage took place in 1620 and marked a significant event in European settlers' early colonization of America."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "Spain"
+        ],
+        "option_b": [
+          "France"
+        ],
+        "option_c": [
+          "England"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": ""
+    },
+    {
+      "id": "geography_B6_15",
+      "que": "Which city is known as \"The Eternal City\"?",
+      "ans": {
+        "value": "Rome",
+        "correct_entity": "option_b"
+      },
+      "options": [
+        "Athens",
+        "Rome",
+        "Paris"
+      ],
+      "expl": [
+        "The city known as \"The Eternal City\" is Rome. This nickname reflects the Italian capital's rich history, timeless architecture, and enduring cultural significance. With its ancient ruins, iconic landmarks like the Colosseum and the Vatican, and a history spanning thousands of years, Rome has earned its reputation as a city that has stood the test of time."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "Athens"
+        ],
+        "option_b": [
+          "Rome"
+        ],
+        "option_c": [
+          "Paris"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": ""
+    },
+    {
+      "id": "geography_B6_16",
+      "que": "Which continent is the only one with land in all four hemispheres?",
+      "ans": {
+        "value": "Africa",
+        "correct_entity": "option_a"
+      },
+      "options": [
+        "Africa",
+        "Asia",
+        "Europe"
+      ],
+      "expl": [
+        "Africa is the only continent that spans all four hemispheres of the Earth: Northern, Southern, Eastern, and Western. This unique geographical positioning places portions of Africa in each quadrant, making it the sole continent to have land in every hemisphere."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "Africa"
+        ],
+        "option_b": [
+          "Asia"
+        ],
+        "option_c": [
+          "Europe"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": ""
+    },
+    {
+      "id": "geography_B6_17",
+      "que": "In which country can you find the ancient city of Petra, known for its rock-cut architecture?",
+      "ans": {
+        "value": "Jordan",
+        "correct_entity": "option_c"
+      },
+      "options": [
+        "Greece",
+        "Egypt",
+        "Jordan"
+      ],
+      "expl": [
+        "Petra, a UNESCO World Heritage Site, is famous for its intricate rock-cut buildings, hidden within the rose-red cliffs of Jordan's desert landscape."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "Greece"
+        ],
+        "option_b": [
+          "Egypt"
+        ],
+        "option_c": [
+          "Jordan"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": ""
+    },
+    {
+      "id": "geography_B6_18",
+      "que": "Which river is associated with the city of Cairo?",
+      "ans": {
+        "value": "Nile",
+        "correct_entity": "option_c"
+      },
+      "options": [
+        "Tigris",
+        "Euphrates",
+        "Nile"
+      ],
+      "expl": [
+        "The Nile River runs through the city of Cairo, serving as a lifeline for Egypt and its historical civilization."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "Tigris"
+        ],
+        "option_b": [
+          "Euphrates"
+        ],
+        "option_c": [
+          "Nile"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": ""
+    },
+    {
+      "id": "geography_B6_19",
+      "que": "What is the capital of South Africa?",
+      "ans": {
+        "value": "Pretoria",
+        "correct_entity": "option_c"
+      },
+      "options": [
+        "Cape Town",
+        "Johannesburg",
+        "Pretoria"
+      ],
+      "expl": [
+        "Pretoria is one of South Africa's three capital cities, serving as the executive capital where the President's official residence is located."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "Cape Town"
+        ],
+        "option_b": [
+          "Johannesburg"
+        ],
+        "option_c": [
+          "Pretoria"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": ""
+    },
+    {
+      "id": "geography_B6_20",
+      "que": "Which continent has more countries?",
+      "ans": {
+        "value": "Africa",
+        "correct_entity": "option_b"
+      },
+      "options": [
+        "Asia",
+        "Africa",
+        "Europe"
+      ],
+      "expl": [
+        "Africa is the continent with the most countries, totaling 54 recognized sovereign nations. It is known for its diverse cultures, languages, and landscapes."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "Asia"
+        ],
+        "option_b": [
+          "Africa"
+        ],
+        "option_c": [
+          "Europe"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": ""
+    },
+    {
+      "id": "geography_B6_21",
+      "que": "Which country is known as the Hexagon?",
+      "ans": {
+        "value": "France",
+        "correct_entity": "option_b"
+      },
+      "options": [
+        "Spain",
+        "France",
+        "Germany"
+      ],
+      "expl": [
+        "France is often referred to as the \"Hexagon\" due to its roughly hexagonal shape on the map. The term highlights the country's geographical outline."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "Spain"
+        ],
+        "option_b": [
+          "France"
+        ],
+        "option_c": [
+          "Germany"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": ""
+    },
+    {
+      "id": "geography_B6_22",
+      "que": "What country refers to themselves as 'Kiwis'?",
+      "ans": {
+        "value": "New Zealand",
+        "correct_entity": "option_c"
+      },
+      "options": [
+        "Australia",
+        "South Africa",
+        "New Zealand"
+      ],
+      "expl": [
+        "New Zealanders commonly refer to themselves as \"Kiwis,\" a term derived from the country's native flightless bird, the kiwi. It's a term of endearment and national identity."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "Australia"
+        ],
+        "option_b": [
+          "South Africa"
+        ],
+        "option_c": [
+          "New Zealand"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": ""
+    },
+    {
+      "id": "geography_B6_23",
+      "que": "Where would you find Loch Ness?",
+      "ans": {
+        "value": "Scotland",
+        "correct_entity": "option_b"
+      },
+      "options": [
+        "Ireland",
+        "Scotland",
+        "Wales"
+      ],
+      "expl": [
+        "Loch Ness is a large freshwater lake located in the Scottish Highlands. It is famously associated with the Loch Ness Monster, a legendary creature believed by some to inhabit the lake."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "Ireland"
+        ],
+        "option_b": [
+          "Scotland"
+        ],
+        "option_c": [
+          "Wales"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": ""
+    },
+    {
+      "id": "geography_B6_24",
+      "que": "What were Zambia and Zimbabwe formerly known as?",
+      "ans": {
+        "value": "Rhodesia",
+        "correct_entity": "option_a"
+      },
+      "options": [
+        "Rhodesia",
+        "Gold Coast",
+        "Ivory Coast"
+      ],
+      "expl": [
+        "Zambia and Zimbabwe were formerly known as Northern Rhodesia and Southern Rhodesia, respectively. These African nations underwent name changes upon gaining independence from British colonial rule. The new names reflected their break from colonial history and their aspirations as sovereign nations in the post-colonial era."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "Rhodesia"
+        ],
+        "option_b": [
+          "Gold Coast",
+          "gold"
+        ],
+        "option_c": [
+          "Ivory Coast",
+          "ivory"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": ""
+    },
+    {
+      "id": "geography_B6_25",
+      "que": "Which European country is divided into areas known as Cantons?",
+      "ans": {
+        "value": "Switzerland",
+        "correct_entity": "option_c"
+      },
+      "options": [
+        "Spain",
+        "Austria",
+        "Switzerland"
+      ],
+      "expl": [
+        "Switzerland, a European country renowned for its picturesque landscapes, is divided into regions referred to as Cantons. These Cantons possess a significant degree of autonomy, contributing to Switzerland's unique political structure and cultural diversity."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "Spain"
+        ],
+        "option_b": [
+          "Austria"
+        ],
+        "option_c": [
+          "Switzerland"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": ""
+    },
+    {
+      "id": "geography_B6_26",
+      "que": "Which European city was the bride of the sea?",
+      "ans": {
+        "value": "Venice",
+        "correct_entity": "option_a"
+      },
+      "options": [
+        "Venice",
+        "Barcelona",
+        "Athens"
+      ],
+      "expl": [
+        "Venice, known as \"The Bride of the Sea,\" is a unique European city built on a series of islands and canals in the Venetian Lagoon. Its intricate network of waterways, stunning architecture, and rich cultural heritage have earned it this romantic nickname."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "Venice"
+        ],
+        "option_b": [
+          "Barcelona"
+        ],
+        "option_c": [
+          "Athens"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": ""
+    },
+    {
+      "id": "geography_B6_27",
+      "que": "In what Spanish city does the \"Running of the Bulls take place?",
+      "ans": {
+        "value": "Pamplona",
+        "correct_entity": "option_b"
+      },
+      "options": [
+        "Barcelona",
+        "Pamplona",
+        "Murcia"
+      ],
+      "expl": [
+        "The \"Running of the Bulls\" happens in Pamplona, Spain, during the San Fermín festival. Participants run alongside bulls through the city streets, embodying daring and tradition in a heart-pounding spectacle."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "Barcelona"
+        ],
+        "option_b": [
+          "Pamplona"
+        ],
+        "option_c": [
+          "Murcia"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": ""
+    },
+    {
+      "id": "geography_B6_28",
+      "que": "Where would you find St. Basil's Cathedral?",
+      "ans": {
+        "value": "Moscow",
+        "correct_entity": "option_a"
+      },
+      "options": [
+        "Moscow",
+        "Barcelona",
+        "Stockholm"
+      ],
+      "expl": [
+        "St. Basil's Cathedral, with its colorful onion domes, is in Moscow, Russia. This historic Russian Orthodox church stands in Red Square, symbolizing the nation's cultural legacy. Built in the 16th century under Ivan the Terrible, it remains a key landmark and tourist spot in Moscow."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "Moscow"
+        ],
+        "option_b": [
+          "Barcelona"
+        ],
+        "option_c": [
+          "Stockholm"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": ""
+    },
+    {
+      "id": "geography_B6_29",
+      "que": "Who built Machu Picchu?",
+      "ans": {
+        "value": "Incas",
+        "correct_entity": "option_c"
+      },
+      "options": [
+        "Aztecs",
+        "Egyptians",
+        "Incas"
+      ],
+      "expl": [
+        "Machu Picchu, an Incan fortress, built by Emperor Pachacuti in the 15th century, sits in Peru's Andes. Its stunning stonework and mountain backdrop attract visitors, revealing Inca civilization's engineering and culture."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "Aztecs"
+        ],
+        "option_b": [
+          "Egyptians",
+          "egyptian"
+        ],
+        "option_c": [
+          "Incas"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": ""
+    },
+    {
+      "id": "geography_B6_30",
+      "que": "What is the longest highway in the world?",
+      "ans": {
+        "value": "Pan American",
+        "correct_entity": "option_b"
+      },
+      "options": [
+        "Route 66",
+        "Pan American",
+        "Trans-Siberian"
+      ],
+      "expl": [
+        "The Pan-American Highway is the world's longest road, covering about 19,000 miles. It links Prudhoe Bay in Alaska, USA, to Ushuaia in Argentina, uniting landscapes and cultures across the Americas. This route symbolizes transcontinental connection, offering a remarkable journey through many countries."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "Route 66",
+          "route sixty six",
+          "sixty six",
+          "66",
+          "route"
+        ],
+        "option_b": [
+          "Pan American"
+        ],
+        "option_c": [
+          "Trans-Siberian"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": ""
+    },
+    {
+      "id": "geography_B6_31",
+      "que": "Which river is traditionally dyed green for St. Patrick's Day?",
+      "ans": {
+        "value": "Chicago",
+        "correct_entity": "option_a"
+      },
+      "options": [
+        "Chicago",
+        "Thames",
+        "Hudson"
+      ],
+      "expl": [
+        "The Chicago River is famously dyed green every St. Patrick's Day. This tradition dates back to 1962 when a group of plumbers used green dye to detect illegal sewage discharges. The practice caught on, and now the river is turned emerald green in celebration of the Irish holiday, attracting crowds of spectators."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "Chicago"
+        ],
+        "option_b": [
+          "Thames"
+        ],
+        "option_c": [
+          "Hudson"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": ""
+    },
+    {
+      "id": "geography_B6_32",
+      "que": "Where is the world's largest natural harbor?",
+      "ans": {
+        "value": "Sydney",
+        "correct_entity": "option_b"
+      },
+      "options": [
+        "Auckland",
+        "Sydney",
+        "Poole"
+      ],
+      "expl": [
+        "The world's largest natural harbor is Sydney Harbour, situated in Sydney, Australia. This iconic harbor is renowned for its stunning beauty, encompassing iconic landmarks like the Sydney Opera House and Sydney Harbour Bridge. It serves as a bustling hub for maritime activities and a picturesque backdrop for the city's vibrant urban landscape."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "Auckland"
+        ],
+        "option_b": [
+          "Sydney"
+        ],
+        "option_c": [
+          "Poole"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": ""
+    },
+    {
+      "id": "geography_B6_33",
+      "que": "What is the flattest country in the world?",
+      "ans": {
+        "value": "Maldives",
+        "correct_entity": "option_a"
+      },
+      "options": [
+        "Maldives",
+        "Netherlands",
+        "Oman"
+      ],
+      "expl": [
+        "With no ground surface higher than 9.9 feet (3 meters), and 80 percent of the land area lying below 3.3 feet (1 meter) above average sea level, the Maldives is the flattest country on Earth."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "Maldives",
+          "maldive"
+        ],
+        "option_b": [
+          "Netherlands",
+          "netherland"
+        ],
+        "option_c": [
+          "Oman"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": ""
+    },
+    {
+      "id": "geography_B6_34",
+      "que": "On which island was Nelson Mandela imprisoned?",
+      "ans": {
+        "value": "Robben",
+        "correct_entity": "option_b"
+      },
+      "options": [
+        "Parish",
+        "Robben",
+        "Dassen"
+      ],
+      "expl": [
+        "Nelson Mandela was imprisoned on Robben Island, located off the coast of Cape Town, South Africa. This island held him captive for 18 years during his fight against apartheid. The isolation and adversity he endured only strengthened his resolve, ultimately contributing to his role as a global symbol of peace, justice, and equality."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "Parish"
+        ],
+        "option_b": [
+          "Robben"
+        ],
+        "option_c": [
+          "Dassen"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": ""
+    },
+    {
+      "id": "geography_B6_35",
+      "que": "What is the wettest country in the world?",
+      "ans": {
+        "value": "Columbia",
+        "correct_entity": "option_c"
+      },
+      "options": [
+        "Uganda",
+        "United Kingdom",
+        "Columbia"
+      ],
+      "expl": [
+        "Columbia takes the crown as the world's wettest country, receiving copious amounts of rainfall annually. This consistent deluge nurtures its lush environments and vibrant ecosystems, making Colombia a haven for diverse plant and animal life."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "Uganda"
+        ],
+        "option_b": [
+          "United Kingdom",
+          "u. k.",
+          "uk"
+        ],
+        "option_c": [
+          "Columbia"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": ""
+    },
+    {
+      "id": "geography_B6_36",
+      "que": "Which major city straddles two continents?",
+      "ans": {
+        "value": "Istanbul",
+        "correct_entity": "option_b"
+      },
+      "options": [
+        "Cario",
+        "Istanbul",
+        "Panama City"
+      ],
+      "expl": [
+        "Istanbul, a major city in Turkey, is known for straddling two continents—Europe and Asia—across the Bosporus Strait. This unique geographical location has contributed to its rich history and diverse culture, blending influences from both continents."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "Cario"
+        ],
+        "option_b": [
+          "Istanbul"
+        ],
+        "option_c": [
+          "Panama City"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": ""
+    },
+    {
+      "id": "geography_B6_37",
+      "que": "Starting in Chicago, where does Route 66 end?",
+      "ans": {
+        "value": "Santa Monica",
+        "correct_entity": "option_a"
+      },
+      "options": [
+        "Santa Monica",
+        "San Francisco",
+        "Miami"
+      ],
+      "expl": [
+        "Route 66, iconic US highway, originates in Chicago, Illinois, and concludes its historic journey in Santa Monica, California, covering around 2,448 miles. This road, symbolizing American travel culture, passes through various landscapes and attractions, marking a significant part of the nation's history."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "Santa Monica"
+        ],
+        "option_b": [
+          "San Francisco"
+        ],
+        "option_c": [
+          "Miami"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": ""
+    },
+    {
+      "id": "geography_B6_38",
+      "que": "To which location in France do the ailing often make pilgrimages?",
+      "ans": {
+        "value": "Mont Saint-Michel",
+        "correct_entity": "option_c"
+      },
+      "options": [
+        "Eiffel Tower",
+        "Louvre Museum",
+        "Mont Saint-Michel"
+      ],
+      "expl": [
+        "Mont Saint-Michel, a historic abbey situated on a rocky island off the coast of Normandy, France, is a popular pilgrimage site for the ailing and devout. Its stunning architecture, serene surroundings, and reputation as a place of healing attract visitors seeking solace and spiritual renewal."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "Eiffel Tower",
+          "eiffel"
+        ],
+        "option_b": [
+          "Louvre Museum",
+          "louvre"
+        ],
+        "option_c": [
+          "Mont Saint-Michel",
+          "michel",
+          "saint michel",
+          "saint-michel",
+          "st.michel"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": ""
+    }
+  ],
+  "IMAGE_QUESTIONS": [],
+  "AUDIO_QUESTIONS": []
+}

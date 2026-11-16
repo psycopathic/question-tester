@@ -1,0 +1,1513 @@
+{
+  "TEXT_QUESTIONS": [
+    {
+      "id": "general-knowledge_B2_1",
+      "que": "Who was the first President of the United States?",
+      "ans": {
+        "value": "George Washington",
+        "correct_entity": "option_a"
+      },
+      "options": [
+        "George Washington",
+        "Thomas Jefferson",
+        "Benjamin Franklin"
+      ],
+      "expl": [
+        "George Washington was the first President of the United States, serving from 1789 to 1797. He played a crucial role in the country's formation, leading the Continental Army during the American Revolutionary War and presiding over drafting the United States Constitution."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "George Washington",
+          "george",
+          "washington"
+        ],
+        "option_b": [
+          "Thomas Jefferson",
+          "thomas",
+          "jefferson"
+        ],
+        "option_c": [
+          "Benjamin Franklin",
+          "benjamin",
+          "franklin"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": ""
+    },
+    {
+      "id": "general-knowledge_B2_2",
+      "que": "Which famous playwright wrote the tragedy \"Romeo and Juliet\"?",
+      "ans": {
+        "value": "William Shakespeare",
+        "correct_entity": "option_a"
+      },
+      "options": [
+        "William Shakespeare",
+        "Oscar Wilde",
+        "Tennessee Williams"
+      ],
+      "expl": [
+        "Romeo and Juliet is a famous play by Shakespeare about two young lovers from rival families. It explores love, fate, and the outcomes of impulsive choices. Shakespeare's plays are still widely appreciated and performed today."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "William Shakespeare",
+          "william",
+          "shakespeare"
+        ],
+        "option_b": [
+          "Oscar Wilde",
+          "oscar",
+          "wilde",
+          "wild",
+          "oscar wild"
+        ],
+        "option_c": [
+          "Tennessee Williams",
+          "tennessee",
+          "williams"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": ""
+    },
+    {
+      "id": "general-knowledge_B2_3",
+      "que": "What is the tallest mountain in the world?",
+      "ans": {
+        "value": "Everest",
+        "correct_entity": "option_a"
+      },
+      "options": [
+        "Everest",
+        "Kilimanjaro",
+        "Fuji"
+      ],
+      "expl": [
+        "Mount Everest is the world's tallest mountain, reaching 8,848 meters (29,031 feet) high. Its immense height and difficult climbing conditions have fascinated people for ages. Located on the Nepal-China border, it attracts many mountaineers in the Himalayas."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "Everest",
+          "everest everest"
+        ],
+        "option_b": [
+          "Kilimanjaro"
+        ],
+        "option_c": [
+          "Fuji",
+          "fuzi",
+          "fiji",
+          "fuzzy"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": ""
+    },
+    {
+      "id": "general-knowledge_B2_4",
+      "que": "What is the capital city of Australia?",
+      "ans": {
+        "value": "Canberra",
+        "correct_entity": "option_b"
+      },
+      "options": [
+        "Sydney",
+        "Canberra",
+        "Melbourne"
+      ],
+      "expl": [
+        "The capital city of Australia is Canberra. Although Sydney and Melbourne are major cities in Australia, Canberra was purpose-built to serve as the capital. It is located in the Australian Capital Territory and is home to important government institutions and national landmarks such as the Parliament House and the Australian War Memorial."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "Sydney"
+        ],
+        "option_b": [
+          "Canberra"
+        ],
+        "option_c": [
+          "Melbourne"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": ""
+    },
+    {
+      "id": "general-knowledge_B2_5",
+      "que": "Who painted the famous artwork \"Mona Lisa\"?",
+      "ans": {
+        "value": "Leonardo da Vinci",
+        "correct_entity": "option_a"
+      },
+      "options": [
+        "Leonardo da Vinci",
+        "Vincent van Gogh",
+        "Pablo Picasso"
+      ],
+      "expl": [
+        "The famous artwork \"Mona Lisa\" was painted by Leonardo da Vinci, an Italian polymath during the Renaissance period. Painted in the early 16th century, this iconic portrait is housed in the Louvre Museum in Paris, France. Leonardo da Vinci's masterpiece is renowned for its enigmatic smile and is considered a symbol of art and beauty."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "Leonardo da Vinci",
+          "leonardo",
+          "da",
+          "vinci",
+          "Leonardo the Vinci"
+        ],
+        "option_b": [
+          "Vincent van Gogh",
+          "vincent",
+          "van",
+          "gogh",
+          "vincent van",
+          "van Gogh",
+          "gog"
+        ],
+        "option_c": [
+          "Pablo Picasso",
+          "pablo",
+          "picasso",
+          "picaso"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": ""
+    },
+    {
+      "id": "general-knowledge_B2_6",
+      "que": "What is the largest planet in our solar system?",
+      "ans": {
+        "value": "Jupiter",
+        "correct_entity": "option_c"
+      },
+      "options": [
+        "Mars",
+        "Saturn",
+        "Jupiter"
+      ],
+      "expl": [
+        "Jupiter, the largest planet in our solar system, is a gas giant with over twice the mass of all other planets combined. Its iconic features include cloud bands and the Great Red Spot. Positioned between Mars and Saturn, Jupiter's immense size and gravitational pull greatly influence our solar system's dynamics."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "Mars",
+          "mar"
+        ],
+        "option_b": [
+          "Saturn"
+        ],
+        "option_c": [
+          "Jupiter"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": ""
+    },
+    {
+      "id": "general-knowledge_B2_7",
+      "que": "Which country is famous for the ancient ruins of Machu Picchu?",
+      "ans": {
+        "value": "Peru",
+        "correct_entity": "option_a"
+      },
+      "options": [
+        "Peru",
+        "Mexico",
+        "Brazil"
+      ],
+      "expl": [
+        "Machu Picchu, the ancient ruins in Peru, were constructed by the Inca civilization in the 15th century. Perched high in the Andes Mountains, this historic site showcases impressive architecture, stunning vistas, and rich cultural heritage. It has become a renowned tourist attraction due to its significance and beauty."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "Peru"
+        ],
+        "option_b": [
+          "Mexico"
+        ],
+        "option_c": [
+          "Brazil"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": ""
+    },
+    {
+      "id": "general-knowledge_B2_8",
+      "que": "Who wrote the novel \"To Kill a Mockingbird\"?",
+      "ans": {
+        "value": "Harper Lee",
+        "correct_entity": "option_a"
+      },
+      "options": [
+        "Harper Lee",
+        "F. Scott Fitzgerald",
+        "Ernest Hemingway"
+      ],
+      "expl": [
+        "\"To Kill a Mockingbird\" is a Pulitzer Prize-winning novel by Harper Lee. Published in 1960, it follows Scout Finch, a young girl in the fictional town of Maycomb, Alabama, examining racial injustice and the loss of innocence. This American literary classic tackles enduring themes and remains highly influential."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "Harper Lee",
+          "harper",
+          "lee"
+        ],
+        "option_b": [
+          "F. Scott Fitzgerald",
+          "f.",
+          "scott",
+          "fitzgerald",
+          "f scott fitzgerald",
+          "scott fitzgerald",
+          "f. scott physical",
+          "f. scott"
+        ],
+        "option_c": [
+          "Ernest Hemingway",
+          "Ernest",
+          "Hemingway",
+          "Heming way"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": ""
+    },
+    {
+      "id": "general-knowledge_B2_9",
+      "que": "Who is credited with the invention of the telephone?",
+      "ans": {
+        "value": "Alexander Bell",
+        "correct_entity": "option_a"
+      },
+      "options": [
+        "Alexander Bell",
+        "Thomas Edison",
+        "Nikola Tesla"
+      ],
+      "expl": [
+        "Alexander Graham Bell is credited with the invention of the telephone. In 1876, Bell patented his device, which transmitted sound electrically and revolutionized communication. His invention laid the foundation for the development of modern telecommunications, connecting people across great distances."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "Alexander Bell",
+          "alexander",
+          "bell"
+        ],
+        "option_b": [
+          "Thomas Edison",
+          "thomas",
+          "edison"
+        ],
+        "option_c": [
+          "Nikola Tesla",
+          "nikola",
+          "tesla",
+          "nikol"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": ""
+    },
+    {
+      "id": "general-knowledge_B2_10",
+      "que": "What was America's first national park?",
+      "ans": {
+        "value": "Yellowstone",
+        "correct_entity": "option_a"
+      },
+      "options": [
+        "Yellowstone",
+        "Grand Canyon",
+        "Yosemite"
+      ],
+      "expl": [
+        "America's first national park is Yellowstone National Park. Established in 1872, it spans parts of Wyoming, Montana, and Idaho. Yellowstone is renowned for its geothermal features, such as geysers and hot springs, as well as its diverse wildlife and stunning landscapes."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "Yellowstone",
+          "yellow stone"
+        ],
+        "option_b": [
+          "Grand Canyon",
+          "grand",
+          "canyon"
+        ],
+        "option_c": [
+          "Yosemite"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": ""
+    },
+    {
+      "id": "general-knowledge_B2_11",
+      "que": "What is Texas' state flower?",
+      "ans": {
+        "value": "Bluebonnet",
+        "correct_entity": "option_a"
+      },
+      "options": [
+        "Bluebonnet",
+        "Rose",
+        "Sunflower"
+      ],
+      "expl": [
+        "The state flower of Texas is the Bluebonnet. These beautiful blue wildflowers bloom in spring, symbolizing the state's natural beauty. Bluebonnets can be found throughout Texas, dotting the landscapes with vibrant shades of blue."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "Bluebonnet",
+          "blue bonnet",
+          "bluebonet",
+          "blue bonet",
+          "blue on it"
+        ],
+        "option_b": [
+          "Rose"
+        ],
+        "option_c": [
+          "Sunflower",
+          "sun flower",
+          "sunflowers"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": ""
+    },
+    {
+      "id": "general-knowledge_B2_12",
+      "que": "From whom did the United States purchase Florida?",
+      "ans": {
+        "value": "Spain",
+        "correct_entity": "option_b"
+      },
+      "options": [
+        "France",
+        "Spain",
+        "Mexico"
+      ],
+      "expl": [
+        "The United States purchased Florida from Spain. The Adams-Onis Treaty, signed in 1819, resulted in Spain ceding Florida to the United States. This acquisition played a significant role in the expansion of the United States and the eventual formation of the state of Florida."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "France"
+        ],
+        "option_b": [
+          "Spain"
+        ],
+        "option_c": [
+          "Mexico"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": ""
+    },
+    {
+      "id": "general-knowledge_B2_13",
+      "que": "How many pounds are in a ton?",
+      "ans": {
+        "value": "2000",
+        "correct_entity": "option_c"
+      },
+      "options": [
+        "100",
+        "1000",
+        "2000"
+      ],
+      "expl": [
+        "There are 2,000 pounds in a ton. The ton is a unit of weight commonly used in the United States. It is equal to 2,000 pounds, which is also referred to as a \"short ton.\" However, it's worth noting that a ton may refer to different weights in some contexts, such as the metric system."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "100",
+          "hundred",
+          "one hundred",
+          "one zero zero"
+        ],
+        "option_b": [
+          "1000",
+          "one thousands",
+          "one thousand",
+          "thousand",
+          "thousands",
+          "one zero zero zero"
+        ],
+        "option_c": [
+          "2000",
+          "twenty hundred",
+          "two thousand",
+          "two thousands",
+          "Two zero zero zero"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": ""
+    },
+    {
+      "id": "general-knowledge_B2_14",
+      "que": "Approximately, what is the length of a nautical mile?",
+      "ans": {
+        "value": "6000",
+        "correct_entity": "option_c"
+      },
+      "options": [
+        "1000",
+        "5000",
+        "6000"
+      ],
+      "expl": [
+        "A nautical mile is a unit of measurement used primarily in maritime and aviation contexts. It is defined as 6,076 feet or approximately 1.15 statute miles. Nautical miles are used to calculate distances at sea and in air navigation due to their convenience in accounting for the curvature of the Earth."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "1000",
+          "one thousands",
+          "one thousand",
+          "thousand",
+          "thousands",
+          "one zero zero zero"
+        ],
+        "option_b": [
+          "5000",
+          "five thousands",
+          "five thousand",
+          "five zero zero zero",
+          "fifty hundred"
+        ],
+        "option_c": [
+          "6000",
+          "sixty hundred",
+          "six thousand",
+          "six thousands",
+          "six zero zero zero"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": ""
+    },
+    {
+      "id": "general-knowledge_B2_15",
+      "que": "What fast food chain once used the slogan \"Think outside the bun\"?",
+      "ans": {
+        "value": "Taco Bell",
+        "correct_entity": "option_c"
+      },
+      "options": [
+        "McDonald's",
+        "Wendy's",
+        "Taco Bell"
+      ],
+      "expl": [
+        "The fast food chain that once used the slogan \"Think outside the bun\" is Taco Bell. The slogan was part of a marketing campaign emphasizing the chain's variety of Mexican-inspired food offerings, highlighting their creative and innovative approach to fast food."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "McDonald's",
+          "Mc D.",
+          "mac d.",
+          "mac donald",
+          "mcDonald",
+          "m. c. donald",
+          "donald",
+          "macdonald"
+        ],
+        "option_b": [
+          "Wendy's",
+          "wendy"
+        ],
+        "option_c": [
+          "Taco Bell",
+          "taco",
+          "bell"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": ""
+    },
+    {
+      "id": "general-knowledge_B2_16",
+      "que": "What is the name of the world's hottest chili pepper?",
+      "ans": {
+        "value": "Carolina Reaper",
+        "correct_entity": "option_b"
+      },
+      "options": [
+        "Habanero",
+        "Carolina Reaper",
+        "Ghost Pepper"
+      ],
+      "expl": [
+        "The world's hottest chili pepper is called the Carolina Reaper. Cultivator Ed Currie developed the Carolina Reaper with an average heat level of over 1.5 million Scoville Heat Units (SHU). It gained recognition from the Guinness World Records in 2013 as the world's hottest chili pepper."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "Habanero",
+          "habaniro"
+        ],
+        "option_b": [
+          "Carolina Reaper",
+          "carolina",
+          "reaper",
+          "reper"
+        ],
+        "option_c": [
+          "Ghost Pepper",
+          "ghost",
+          "pepper"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": ""
+    },
+    {
+      "id": "general-knowledge_B2_17",
+      "que": "What is Prince Harry's official first name?",
+      "ans": {
+        "value": "Henry",
+        "correct_entity": "option_b"
+      },
+      "options": [
+        "Harry",
+        "Henry",
+        "Harrison"
+      ],
+      "expl": [
+        "Prince Harry's official first name is Henry. Although he is commonly known as Prince Harry, his full name is Henry Charles Albert David. \"Harry\" is a nickname derived from his official first name, which he has used throughout his life."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "Harry",
+          "hary",
+          "hairy"
+        ],
+        "option_b": [
+          "Henry"
+        ],
+        "option_c": [
+          "Harrison",
+          "harry son"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": ""
+    },
+    {
+      "id": "general-knowledge_B2_18",
+      "que": "In the United Kingdom, what is the day after Christmas known as?",
+      "ans": {
+        "value": "Boxing Day",
+        "correct_entity": "option_a"
+      },
+      "options": [
+        "Boxing Day",
+        "St. Stephen's Day",
+        "New Year's Day"
+      ],
+      "expl": [
+        "In the United Kingdom, the day after Christmas, December 26th, is known as Boxing Day. It is a public holiday traditionally associated with giving gifts or \"boxes\" to the less fortunate. Boxing Day also often involves sporting events, shopping sales, and spending time with family and friends."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "Boxing Day",
+          "boxing"
+        ],
+        "option_b": [
+          "St. Stephen's Day",
+          "st.",
+          "stephen's",
+          "saint stephen's",
+          "saint"
+        ],
+        "option_c": [
+          "New Year's Day",
+          "new",
+          "year's",
+          "years"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": ""
+    },
+    {
+      "id": "general-knowledge_B2_19",
+      "que": "What does a phillumenist collect?",
+      "ans": {
+        "value": "Matchbox labels",
+        "correct_entity": "option_c"
+      },
+      "options": [
+        "Coins",
+        "Stamps",
+        "Matchbox labels"
+      ],
+      "expl": [
+        "A phillumenist collects matchbox labels, fascinated by the designs, artwork, and historical significance. They seek rare labels from various countries, brands, and time periods. Phillumeny, a niche hobby, appreciates the art and cultural significance of these overlooked ephemera pieces."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "Coins",
+          "coin"
+        ],
+        "option_b": [
+          "Stamps",
+          "stamp"
+        ],
+        "option_c": [
+          "Matchbox labels",
+          "matchbox",
+          "labels",
+          "match box",
+          "match box label",
+          "match box labels",
+          "matchbox label"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": ""
+    },
+    {
+      "id": "general-knowledge_B2_20",
+      "que": "Which sign of the zodiac gets its name from the Latin for 'balance'?",
+      "ans": {
+        "value": "Libra",
+        "correct_entity": "option_b"
+      },
+      "options": [
+        "Scorpio",
+        "Libra",
+        "Taurus"
+      ],
+      "expl": [
+        "The sign of Libra gets its name from the Latin word \"libra,\" which means 'balance.' Represented by the scales, Libra is associated with harmony, fairness, and equilibrium in astrology. The name accurately reflects the zodiac sign's focus on maintaining balance and seeking justice in relationships and life choices."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "Scorpio"
+        ],
+        "option_b": [
+          "Libra"
+        ],
+        "option_c": [
+          "Taurus"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": ""
+    },
+    {
+      "id": "general-knowledge_B2_21",
+      "que": "The Vedas are sacred texts of which religion?",
+      "ans": {
+        "value": "Hinduism",
+        "correct_entity": "option_b"
+      },
+      "options": [
+        "Christianity",
+        "Hinduism",
+        "Buddhism"
+      ],
+      "expl": [
+        "The Vedas are considered the oldest and most sacred texts of Hinduism. They contain hymns, rituals, and philosophical teachings that form the foundation of Hindu religious and spiritual traditions. They are highly revered and regarded as divine revelations by Hindus."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "Christianity",
+          "christian"
+        ],
+        "option_b": [
+          "Hinduism",
+          "hindu"
+        ],
+        "option_c": [
+          "Buddhism"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": ""
+    },
+    {
+      "id": "general-knowledge_B2_22",
+      "que": "In which city is the largest church building in the world?",
+      "ans": {
+        "value": "Rome",
+        "correct_entity": "option_a"
+      },
+      "options": [
+        "Rome",
+        "Moscow",
+        "Barcelona"
+      ],
+      "expl": [
+        "St. Peter's Basilica in Rome, Italy, is the world's largest church. It is the heart of the Roman Catholic Church and a stunning architectural masterpiece. Its iconic dome and impressive size draw millions of visitors each year, making it a prominent religious and cultural symbol in Rome."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "Rome",
+          "roam"
+        ],
+        "option_b": [
+          "Moscow",
+          "mosco"
+        ],
+        "option_c": [
+          "Barcelona"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": ""
+    },
+    {
+      "id": "general-knowledge_B2_23",
+      "que": "Which is the only piece that can be promoted in chess?",
+      "ans": {
+        "value": "Pawn",
+        "correct_entity": "option_a"
+      },
+      "options": [
+        "Pawn",
+        "Knight",
+        "Rook"
+      ],
+      "expl": [
+        "The pawn is the only piece in chess that can be promoted. When a pawn reaches the opposite end of the board, it can be exchanged for any other piece except a king. This process is known as promotion, and it allows the pawn to transform into a more powerful piece like a queen, rook, bishop, or knight, depending on the player's choice."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "Pawn",
+          "paw",
+          "porn",
+          "paul",
+          "pound"
+        ],
+        "option_b": [
+          "Knight",
+          "night",
+          "knights"
+        ],
+        "option_c": [
+          "Rook",
+          "ruk"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": ""
+    },
+    {
+      "id": "general-knowledge_B2_24",
+      "que": "What is Canada's official summer sport?",
+      "ans": {
+        "value": "Lacrosse",
+        "correct_entity": "option_b"
+      },
+      "options": [
+        "Ice hockey",
+        "Lacrosse",
+        "Baseball"
+      ],
+      "expl": [
+        "Canada's official summer sport is lacrosse, embodying cultural and historical significance in Indigenous communities. Played for centuries, it's often called \"Canada's national summer sport\" and holds the title of the country's official summer sport. Lacrosse showcases the Indigenous peoples' rich heritage and enjoys widespread popularity nationwide, with dedicated leagues and teams."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "Ice hockey",
+          "ice",
+          "hockey"
+        ],
+        "option_b": [
+          "Lacrosse",
+          "lacrose"
+        ],
+        "option_c": [
+          "Baseball"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": ""
+    },
+    {
+      "id": "general-knowledge_B2_25",
+      "que": "What are the holes in Swiss cheese called?",
+      "ans": {
+        "value": "Eyes",
+        "correct_entity": "option_c"
+      },
+      "options": [
+        "Chasms",
+        "Pores",
+        "Eyes"
+      ],
+      "expl": [
+        "The holes in Swiss cheese are commonly referred to as \"eyes.\" These round or irregular openings are formed during the cheese-making process when carbon dioxide bubbles are trapped and create voids in the cheese. The term \"eyes\" aptly describes the appearance of these holes, which vary in size and contribute to the distinct texture and flavor of Swiss cheese."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "Chasms",
+          "chasm"
+        ],
+        "option_b": [
+          "Pores",
+          "pore"
+        ],
+        "option_c": [
+          "Eyes",
+          "eye",
+          "ice",
+          "i."
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": ""
+    },
+    {
+      "id": "general-knowledge_B2_26",
+      "que": "What company was initially known as Blue Ribbon Sports?",
+      "ans": {
+        "value": "Nike",
+        "correct_entity": "option_b"
+      },
+      "options": [
+        "Adidas",
+        "Nike",
+        "Reebok"
+      ],
+      "expl": [
+        "Blue Ribbon Sports was initially known as Nike. The company was founded in 1964 by Bill Bowerman and Phil Knight and was later rebranded as Nike in 1971. Nike has since become one of the world's leading athletic footwear and apparel companies."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "Adidas"
+        ],
+        "option_b": [
+          "Nike"
+        ],
+        "option_c": [
+          "Reebok"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": ""
+    },
+    {
+      "id": "general-knowledge_B2_27",
+      "que": "Linen is made from which plant?",
+      "ans": {
+        "value": "Flax",
+        "correct_entity": "option_b"
+      },
+      "options": [
+        "Cotton",
+        "Flax",
+        "Jute"
+      ],
+      "expl": [
+        "Linen comes from flax fibers, known for their strength and luster. These fibers are spun into yarn and woven to create linen fabric. Cotton, derived from the cotton plant, is used for making cotton fabric. Jute, however, is not used to produce linen, but rather to make materials like burlap."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "Cotton"
+        ],
+        "option_b": [
+          "Flax"
+        ],
+        "option_c": [
+          "Jute"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": ""
+    },
+    {
+      "id": "general-knowledge_B2_28",
+      "que": "What kind of tree do acorns come from?",
+      "ans": {
+        "value": "Oak",
+        "correct_entity": "option_b"
+      },
+      "options": [
+        "Pine",
+        "Oak",
+        "Maple"
+      ],
+      "expl": [
+        "Acorns come from oak trees. Oak trees are known for producing acorns, which are their seeds. These seeds are often used as a food source by various animals and can be found in abundance under oak trees during the autumn season."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "Pine",
+          "pines"
+        ],
+        "option_b": [
+          "Oak"
+        ],
+        "option_c": [
+          "Maple",
+          "maples"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": ""
+    },
+    {
+      "id": "general-knowledge_B2_29",
+      "que": "In what country is the world's longest road tunnel?",
+      "ans": {
+        "value": "Norway",
+        "correct_entity": "option_b"
+      },
+      "options": [
+        "Switzerland",
+        "Norway",
+        "Japan"
+      ],
+      "expl": [
+        "Norway has the longest road tunnel in the world, called the Lærdal Tunnel. It's super long, about 24.5 kilometers (15.2 miles), and connects the towns of Lærdal and Aurland. It's an amazing engineering achievement and helps people travel through the tough terrain of Norway."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "Switzerland"
+        ],
+        "option_b": [
+          "Norway"
+        ],
+        "option_c": [
+          "Japan"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": ""
+    },
+    {
+      "id": "general-knowledge_B2_30",
+      "que": "Which country is known as the land of white elephants?",
+      "ans": {
+        "value": "Thailand",
+        "correct_entity": "option_a"
+      },
+      "options": [
+        "Thailand",
+        "India",
+        "Cambodia"
+      ],
+      "expl": [
+        "Thailand is known as the land of white elephants. The white elephant holds significant cultural and religious importance in Thai history. It symbolizes power, prosperity, and good fortune. Thailand's reverence for these animals is reflected in its history, art, and architecture."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "Thailand"
+        ],
+        "option_b": [
+          "India"
+        ],
+        "option_c": [
+          "Cambodia"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": ""
+    },
+    {
+      "id": "general-knowledge_B2_31",
+      "que": "Jurassic Park was located off the coast of which country?",
+      "ans": {
+        "value": "Costa Rica",
+        "correct_entity": "option_b"
+      },
+      "options": [
+        "United States",
+        "Costa Rica",
+        "Australia"
+      ],
+      "expl": [
+        "Jurassic Park, as depicted in the fictional world created by Michael Crichton, was situated off the coast of Costa Rica. The park was specifically located on Isla Nublar, an island off the Pacific coast of Costa Rica, where the dinosaurs were brought to life through genetic engineering."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "United States",
+          "united",
+          "states",
+          "u. s.",
+          "u. s. a."
+        ],
+        "option_b": [
+          "Costa Rica",
+          "costa",
+          "rica"
+        ],
+        "option_c": [
+          "Australia"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": ""
+    },
+    {
+      "id": "general-knowledge_B2_32",
+      "que": "In what country did Starbucks open their first store outside of North America?",
+      "ans": {
+        "value": "Japan",
+        "correct_entity": "option_b"
+      },
+      "options": [
+        "United Kingdom",
+        "Japan",
+        "China"
+      ],
+      "expl": [
+        "Starbucks opened its first store outside of North America in Japan. This expansion marked a significant milestone for the company as it began its global presence, bringing its coffee culture and brand to a new international market. Japan has since become one of Starbucks' most successful markets outside of the United States."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "United Kingdom",
+          "united",
+          "kingdom",
+          "u. k."
+        ],
+        "option_b": [
+          "Japan"
+        ],
+        "option_c": [
+          "China"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": ""
+    },
+    {
+      "id": "general-knowledge_B2_33",
+      "que": "What animal is featured on the Porsche logo?",
+      "ans": {
+        "value": "Horse",
+        "correct_entity": "option_b"
+      },
+      "options": [
+        "Lion",
+        "Horse",
+        "Eagle"
+      ],
+      "expl": [
+        "The animal featured on the Porsche logo is a horse. The horse symbolizes power, elegance, and speed, reflecting the qualities associated with the Porsche brand. The logo, known as the Porsche Crest, was created in 1952 and has remained a prominent symbol of the company's identity ever since."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "Lion",
+          "lions"
+        ],
+        "option_b": [
+          "Horse"
+        ],
+        "option_c": [
+          "Eagle",
+          "eagles"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": ""
+    },
+    {
+      "id": "general-knowledge_B2_34",
+      "que": "In what year did Netflix start offering streaming?",
+      "ans": {
+        "value": "2007",
+        "correct_entity": "option_c"
+      },
+      "options": [
+        "2011",
+        "2004",
+        "2007"
+      ],
+      "expl": [
+        "Netflix began streaming movies and TV shows online in 2007, changing the way we watch stuff. Before that, it was mostly a DVD rental service since 1997. Streaming made a big impact and led to more online platforms for entertainment."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "2011",
+          "two thousand eleven",
+          "two thousand and eleven",
+          "twenty double one",
+          "twenty eleven"
+        ],
+        "option_b": [
+          "2004",
+          "two thousand and four",
+          "two zero zero four",
+          "two double zero four",
+          "two thousand four"
+        ],
+        "option_c": [
+          "2007",
+          "two thousand and seven",
+          "two zero zero seven",
+          "two double zero seven",
+          "two thousand seven"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": ""
+    },
+    {
+      "id": "general-knowledge_B2_35",
+      "que": "How many black keys does a traditional piano have?",
+      "ans": {
+        "value": "36",
+        "correct_entity": "option_b"
+      },
+      "options": [
+        "50",
+        "36",
+        "42"
+      ],
+      "expl": [
+        "A traditional piano has 36 black keys. These black keys are arranged in groups of twos and threes between the white keys. The black keys are used to play sharps and flats, providing additional notes and allowing for a wider range of musical possibilities on the piano."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "50",
+          "fifty",
+          "five zero"
+        ],
+        "option_b": [
+          "36",
+          "thirty six",
+          "three six"
+        ],
+        "option_c": [
+          "42",
+          "four two",
+          "forty two"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": ""
+    },
+    {
+      "id": "general-knowledge_B2_36",
+      "que": "Who holds the all-time record for most Olympic gold medals?",
+      "ans": {
+        "value": "Michael Phelps",
+        "correct_entity": "option_a"
+      },
+      "options": [
+        "Michael Phelps",
+        "Usain Bolt",
+        "Simone Biles"
+      ],
+      "expl": [
+        "Michael Phelps holds the all-time record for the most Olympic gold medals. He won a staggering total of 23 gold medals in swimming, making him the most decorated Olympian in history."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "Michael Phelps",
+          "michael",
+          "phelps"
+        ],
+        "option_b": [
+          "Usain Bolt",
+          "usain",
+          "bolt"
+        ],
+        "option_c": [
+          "Simone Biles",
+          "simone",
+          "biles",
+          "Simone Bile"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": ""
+    },
+    {
+      "id": "general-knowledge_B2_37",
+      "que": "What is the highest uninterrupted waterfall in the world?",
+      "ans": {
+        "value": "Angel Falls",
+        "correct_entity": "option_a"
+      },
+      "options": [
+        "Angel Falls",
+        "Victoria Falls",
+        "Niagara Falls"
+      ],
+      "expl": [
+        "Angel Falls, located in Venezuela, holds the title for the highest uninterrupted waterfall in the world. It cascades down a height of 979 meters (3,212 feet), making it a breathtaking natural wonder."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "Angel Falls",
+          "angel"
+        ],
+        "option_b": [
+          "Victoria Falls",
+          "victoria"
+        ],
+        "option_c": [
+          "Niagara Falls",
+          "niagara"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": ""
+    },
+    {
+      "id": "general-knowledge_B2_38",
+      "que": "How many stripes are in the American flag?",
+      "ans": {
+        "value": "13",
+        "correct_entity": "option_b"
+      },
+      "options": [
+        "10",
+        "13",
+        "50"
+      ],
+      "expl": [
+        "The American flag has 13 stripes. These represent the original 13 colonies that formed the United States. The stripes alternate between red and white, with each stripe symbolizing the unity of the colonies and the values upon which the nation was built."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "10",
+          "ten"
+        ],
+        "option_b": [
+          "13",
+          "thirteen"
+        ],
+        "option_c": [
+          "50",
+          "five zero",
+          "fifty"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": ""
+    },
+    {
+      "id": "general-knowledge_B2_39",
+      "que": "About how many steps are there in the Empire State Building, approximately?",
+      "ans": {
+        "value": "1500",
+        "correct_entity": "option_b"
+      },
+      "options": [
+        "1000",
+        "1500",
+        "2200"
+      ],
+      "expl": [
+        "The Empire State Building has a total of 1,576 steps from the ground floor to the 102nd floor observation deck. These steps are not open to the public and are primarily used for maintenance purposes. Visitors can take elevators to reach the observation deck instead."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "1000",
+          "one thousands",
+          "one thousand",
+          "thousand",
+          "thousands",
+          "one zero zero zero",
+          "one hundred"
+        ],
+        "option_b": [
+          "1500",
+          "one thousand five hundred",
+          "one five zero zero",
+          "fifteen hundred"
+        ],
+        "option_c": [
+          "2200",
+          "two thousand two hundred",
+          "two two zero zero",
+          "twenty two hundred"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": ""
+    },
+    {
+      "id": "general-knowledge_B2_40",
+      "que": "What is the highest number on a standard roulette wheel?",
+      "ans": {
+        "value": "36",
+        "correct_entity": "option_a"
+      },
+      "options": [
+        "36",
+        "42",
+        "50"
+      ],
+      "expl": [
+        "The highest number on a standard roulette wheel is 36. A standard roulette wheel consists of numbers from 1 to 36, along with a single zero (0) in European roulette. The sum of the numbers on the wheel, including zero, adds up to 37. However, when referring to the highest number that players can bet on, it is 36."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "36",
+          "thirty six",
+          "three six"
+        ],
+        "option_b": [
+          "42",
+          "four two",
+          "forty two"
+        ],
+        "option_c": [
+          "50",
+          "five zero",
+          "fifty"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": ""
+    },
+    {
+      "id": "general-knowledge_B2_41",
+      "que": "Which Japanese word means \"empty orchestra\"?",
+      "ans": {
+        "value": "Karaoke",
+        "correct_entity": "option_c"
+      },
+      "options": [
+        "Kabuki",
+        "Geisha",
+        "Karaoke"
+      ],
+      "expl": [
+        "\"Karaoke\" is a Japanese word that means \"empty orchestra.\" It's a fun activity where people sing along to music tracks. The word combines \"kara\" meaning \"empty\" and \"okesutora\" meaning \"orchestra.\" With karaoke, you can sing without a band and have your own orchestra-like experience!"
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "Kabuki",
+          "cabuki"
+        ],
+        "option_b": [
+          "Geisha"
+        ],
+        "option_c": [
+          "Karaoke"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": ""
+    },
+    {
+      "id": "general-knowledge_B2_42",
+      "que": "In China, what does the color red symbolize?",
+      "ans": {
+        "value": "Good Luck",
+        "correct_entity": "option_a"
+      },
+      "options": [
+        "Good Luck",
+        "Sadness",
+        "Wisdom"
+      ],
+      "expl": [
+        "In Chinese culture, red symbolizes prosperity, luck, joy, and positive energy. It's used during festivals, Chinese New Year, weddings, birthdays to bring good fortune, ward off evil spirits, and represents happiness, success, and auspiciousness."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "Good Luck",
+          "good",
+          "luck"
+        ],
+        "option_b": [
+          "Sadness"
+        ],
+        "option_c": [
+          "Wisdom"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": ""
+    }
+  ],
+  "IMAGE_QUESTIONS": [],
+  "AUDIO_QUESTIONS": []
+}

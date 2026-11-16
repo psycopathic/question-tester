@@ -1,0 +1,1450 @@
+{
+  "TEXT_QUESTIONS": [
+    {
+      "id": "arts-and-entertainment_B2_1",
+      "que": "Which musician holds the record for the most Grammy Awards won by a female artist?",
+      "ans": {
+        "value": "Beyonce",
+        "correct_entity": "option_a"
+      },
+      "options": [
+        "Beyonce",
+        "Taylor Swift",
+        "Adele"
+      ],
+      "expl": [
+        "Beyoncé holds the record for the most Grammy Awards won by a female artist, with a total of 28 wins. Her contributions to the music industry and impactful performances have earned her numerous accolades."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "Beyonce",
+          "beyoncé",
+          "beyonsai",
+          "beyonse"
+        ],
+        "option_b": [
+          "Taylor Swift",
+          "taylor",
+          "swift"
+        ],
+        "option_c": [
+          "Adele"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": ""
+    },
+    {
+      "id": "arts-and-entertainment_B2_2",
+      "que": "Who is the first African American woman to win an Academy Award for Best Actress?",
+      "ans": {
+        "value": "Halle Berry",
+        "correct_entity": "option_a"
+      },
+      "options": [
+        "Halle Berry",
+        "Viola Davis",
+        "Octavia Spencer"
+      ],
+      "expl": [
+        "Halle Berry made history by becoming the first African American woman to win an Academy Award for Best Actress. She won the prestigious award for her performance in the film \"Monster's Ball\" in 2002. Before her acting career took off, Halle Berry participated in several beauty pageants and won the title of Miss USA in 1986."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "Halle Berry",
+          "halle",
+          "berry",
+          "hell berry",
+          "hell"
+        ],
+        "option_b": [
+          "Viola Davis",
+          "viola",
+          "davis"
+        ],
+        "option_c": [
+          "Octavia Spencer",
+          "octavia",
+          "spencer"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": ""
+    },
+    {
+      "id": "arts-and-entertainment_B2_3",
+      "que": "Which actor has portrayed the iconic character James Bond in most films?",
+      "ans": {
+        "value": "Sean Connery",
+        "correct_entity": "option_b"
+      },
+      "options": [
+        "Daniel Craig",
+        "Sean Connery",
+        "Roger Moore"
+      ],
+      "expl": [
+        "Sean Connery is widely recognized as the actor who has portrayed James Bond in most films. He played the suave secret agent in seven movies, starting with \"Dr. No\" in 1962. Sean Connery had an interesting pre-acting career. He worked as a milkman, a truck driver and even joined the Royal Navy before finding fame as James Bond."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "Daniel Craig",
+          "daniel",
+          "craig",
+          "kraig"
+        ],
+        "option_b": [
+          "Sean Connery",
+          "sean",
+          "connery"
+        ],
+        "option_c": [
+          "Roger Moore",
+          "roger",
+          "moore",
+          "more",
+          "roger more"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": ""
+    },
+    {
+      "id": "arts-and-entertainment_B2_4",
+      "que": "Who is the youngest person to ever win an Academy Award for Best Actor?",
+      "ans": {
+        "value": "Adrien Brody",
+        "correct_entity": "option_b"
+      },
+      "options": [
+        "Timothee Chalamet",
+        "Adrien Brody",
+        "Marlon Brando"
+      ],
+      "expl": [
+        "Adrien Brody is the youngest person to win an Academy Award for Best Actor. He won the prestigious award at the age of 29 for his remarkable performance in the film \"The Pianist\" in 2003."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "Timothee Chalamet",
+          "timothée",
+          "chalamet",
+          "Timothée Chalamet",
+          "timoti",
+          "timotee",
+          "timotee chalamet"
+        ],
+        "option_b": [
+          "Adrien Brody",
+          "adrien",
+          "brody"
+        ],
+        "option_c": [
+          "Marlon Brando",
+          "marlon",
+          "brando"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": ""
+    },
+    {
+      "id": "arts-and-entertainment_B2_5",
+      "que": "Which actor portrayed the character Tony Stark, also known as Iron Man, in the Marvel Cinematic Universe?",
+      "ans": {
+        "value": "Robert Downey Jr.",
+        "correct_entity": "option_a"
+      },
+      "options": [
+        "Robert Downey Jr.",
+        "Chris Evans",
+        "Mark Ruffalo"
+      ],
+      "expl": [
+        "Robert Downey Jr. played the character Tony Stark, also known as Iron Man, in the Marvel Cinematic Universe, gaining immense popularity for his charismatic portrayal."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "Robert Downey Jr.",
+          "robert",
+          "downey",
+          "jr.",
+          "Robert Downey Junior",
+          "downey junior"
+        ],
+        "option_b": [
+          "Chris Evans",
+          "chris",
+          "evans"
+        ],
+        "option_c": [
+          "Mark Ruffalo",
+          "mark",
+          "ruffalo"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": ""
+    },
+    {
+      "id": "arts-and-entertainment_B2_6",
+      "que": "Who became the youngest self-made billionaire, according to Forbes?",
+      "ans": {
+        "value": "Kylie Jenner",
+        "correct_entity": "option_a"
+      },
+      "options": [
+        "Kylie Jenner",
+        "Mark Zuckerberg",
+        "Elon Musk"
+      ],
+      "expl": [
+        "According to Forbes, Kylie Jenner became the youngest self-made billionaire, primarily through her cosmetics company, Kylie Cosmetics."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "Kylie Jenner",
+          "kylie",
+          "jenner"
+        ],
+        "option_b": [
+          "Mark Zuckerberg",
+          "mark",
+          "zuckerberg"
+        ],
+        "option_c": [
+          "Elon Musk",
+          "elon",
+          "musk"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": ""
+    },
+    {
+      "id": "arts-and-entertainment_B2_7",
+      "que": "Which actress won an Academy Award for her portrayal of the character Clarice Starling in the film \"The Silence of the Lambs\"?",
+      "ans": {
+        "value": "Jodie Foster",
+        "correct_entity": "option_a"
+      },
+      "options": [
+        "Jodie Foster",
+        "Meryl Streep",
+        "Julia Roberts"
+      ],
+      "expl": [
+        "Jodie Foster won an Academy Award for Best Actress for her outstanding performance as Clarice Starling in the psychological thriller \"The Silence of the Lambs.\" Jodie Foster began her acting career at a young age, starring in notable films like \"Taxi Driver\" and \"The Accused,\" for which she also won an Academy Award."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "Jodie Foster",
+          "jodie",
+          "foster"
+        ],
+        "option_b": [
+          "Meryl Streep",
+          "meryl",
+          "streep"
+        ],
+        "option_c": [
+          "Julia Roberts",
+          "julia",
+          "roberts",
+          "julia robert"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": ""
+    },
+    {
+      "id": "arts-and-entertainment_B2_8",
+      "que": "Which British actor portrayed the character of Sherlock Holmes in the BBC television series \"Sherlock\"?",
+      "ans": {
+        "value": "Benedict Cumberbatch",
+        "correct_entity": "option_a"
+      },
+      "options": [
+        "Benedict Cumberbatch",
+        "Tom Hiddleston",
+        "Daniel Radcliffe"
+      ],
+      "expl": [
+        "Benedict Cumberbatch gained widespread acclaim for portraying the brilliant detective Sherlock Holmes in the BBC television series \"Sherlock.\""
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "Benedict Cumberbatch",
+          "benedict",
+          "cumberbatch",
+          "benedict cumber batch",
+          "cumber batch"
+        ],
+        "option_b": [
+          "Tom Hiddleston",
+          "tom",
+          "hiddleston",
+          "hiddelstone"
+        ],
+        "option_c": [
+          "Daniel Radcliffe",
+          "daniel",
+          "radcliffe"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": ""
+    },
+    {
+      "id": "arts-and-entertainment_B2_9",
+      "que": "Who is the bestselling music artist of all time?",
+      "ans": {
+        "value": "Elvis Presley",
+        "correct_entity": "option_b"
+      },
+      "options": [
+        "Michael Jackson",
+        "Elvis Presley",
+        "Madonna"
+      ],
+      "expl": [
+        "Elvis Presley is considered the bestselling music artist of all time, with estimated record sales of over one billion units worldwide. Elvis Presley achieved immense success in music and had a flourishing acting career. He starred in over 30 films, showcasing his talent on both the stage and the screen."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "Michael Jackson",
+          "michael",
+          "jackson"
+        ],
+        "option_b": [
+          "Elvis Presley",
+          "elvis",
+          "presley"
+        ],
+        "option_c": [
+          "Madonna",
+          "madona"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": ""
+    },
+    {
+      "id": "arts-and-entertainment_B2_10",
+      "que": "What film won Steven Spielberg his first Academy Award for Best Director?",
+      "ans": {
+        "value": "Schindlers List",
+        "correct_entity": "option_c"
+      },
+      "options": [
+        "Jurassic Park",
+        "Jaws",
+        "Schindlers List"
+      ],
+      "expl": [
+        "\"Schindlers List\" won Steven Spielberg his first Academy Award for Best Director in 1994. The film is a powerful portrayal of the Holocaust and tells the true story of Oskar Schindler, a German businessman who saved the lives of more than a thousand Jewish refugees during World War II."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "Jurassic Park",
+          "jurassic",
+          "park"
+        ],
+        "option_b": [
+          "Jaws",
+          "jaw"
+        ],
+        "option_c": [
+          "Schindlers List",
+          "schindlers",
+          "list",
+          "Schindler List",
+          "Schindler",
+          "schindler's list"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": ""
+    },
+    {
+      "id": "arts-and-entertainment_B2_11",
+      "que": "Which horror author penned the apocalyptic novel \"The Stand\"?",
+      "ans": {
+        "value": "Stephen King",
+        "correct_entity": "option_a"
+      },
+      "options": [
+        "Stephen King",
+        "Dean Koontz",
+        "H. P. Lovecraft"
+      ],
+      "expl": [
+        "\"The Stand\" is a post-apocalyptic novel by Stephen King. It was published in 1978 and explored the aftermath of a deadly pandemic that wiped out most of the world's population. King is widely regarded as one of the most influential and prolific horror authors of all time."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "Stephen King",
+          "stephen",
+          "king"
+        ],
+        "option_b": [
+          "Dean Koontz",
+          "dean",
+          "koontz"
+        ],
+        "option_c": [
+          "H. P. Lovecraft",
+          "h. p.",
+          "lovecraft",
+          "love",
+          "craft"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": ""
+    },
+    {
+      "id": "arts-and-entertainment_B2_12",
+      "que": "What popular young adult book series sends \"tributes\" to participate in a televised competition in which they fight to the death?",
+      "ans": {
+        "value": "The Hunger Games",
+        "correct_entity": "option_a"
+      },
+      "options": [
+        "The Hunger Games",
+        "Divergent",
+        "Twilight"
+      ],
+      "expl": [
+        "\"The Hunger Games\" is a popular young adult book series by Suzanne Collins. Set in a dystopian future, the series follows the protagonist Katniss Everdeen as she becomes a \"tribute\" and fights for survival in a televised event called the Hunger Games."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "The Hunger Games",
+          "hunger",
+          "games",
+          "hunger game",
+          "hunger games",
+          "the hunger game"
+        ],
+        "option_b": [
+          "Divergent",
+          "diverge"
+        ],
+        "option_c": [
+          "Twilight"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": ""
+    },
+    {
+      "id": "arts-and-entertainment_B2_13",
+      "que": "What year was the first Barbie doll released?",
+      "ans": {
+        "value": "1959",
+        "correct_entity": "option_a"
+      },
+      "options": [
+        "1959",
+        "1964",
+        "1972"
+      ],
+      "expl": [
+        "The first Barbie doll was released in 1959 by the American toy company Mattel. Created by Ruth Handler, Barbie quickly became an iconic and influential toy, sparking generations of imaginative play and evolving into a global brand with various doll variations, accessories, and media adaptations."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "1959",
+          "one nine five nine",
+          "nineteen fifty nine",
+          "one thousand nine hundred and fifty nine",
+          "one thousand nine hundred fifty nine"
+        ],
+        "option_b": [
+          "1964",
+          "one nine six four",
+          "nineteen sixty four",
+          "one thousand nine hundred and sixty four",
+          "one thousand nine hundred sixty four"
+        ],
+        "option_c": [
+          "1972",
+          "one nine seven two",
+          "nineteen seventy two",
+          "one thousand nine hundred and seventy two",
+          "one thousand nine hundred seventy two"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": ""
+    },
+    {
+      "id": "arts-and-entertainment_B2_14",
+      "que": "What singer was called the \"Empress of the Blues\"?",
+      "ans": {
+        "value": "Bessie Smith",
+        "correct_entity": "option_c"
+      },
+      "options": [
+        "Billie Holiday",
+        "Ella Fitzgerald",
+        "Bessie Smith"
+      ],
+      "expl": [
+        "Bessie Smith, an influential African American blues singer, was known as the \"Empress of the Blues.\" Active during the 1920s and 1930s, her powerful voice and emotional delivery made her one of the most successful and respected blues performers of her time."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "Billie Holiday",
+          "billie",
+          "holiday",
+          "billy"
+        ],
+        "option_b": [
+          "Ella Fitzgerald",
+          "ella",
+          "fitzgerald"
+        ],
+        "option_c": [
+          "Bessie Smith",
+          "bessie",
+          "smith"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": ""
+    },
+    {
+      "id": "arts-and-entertainment_B2_15",
+      "que": "How many Billboard #1 hits did Elvis have?",
+      "ans": {
+        "value": "22",
+        "correct_entity": "option_b"
+      },
+      "options": [
+        "17",
+        "22",
+        "27"
+      ],
+      "expl": [
+        "Elvis Presley, often called the \"King of Rock and Roll,\" had 22 Billboard #1 hits throughout his career. These iconic songs, including \"Heartbreak Hotel,\" \"Hound Dog,\" and \"Suspicious Minds,\" solidified his status as one of the most successful and influential musicians in history."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "17",
+          "one seven",
+          "seventeen"
+        ],
+        "option_b": [
+          "22",
+          "twenty two",
+          "two two"
+        ],
+        "option_c": [
+          "27",
+          "two seven",
+          "twenty seven"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": ""
+    },
+    {
+      "id": "arts-and-entertainment_B2_16",
+      "que": "Who was the first \"American Idol\" winner?",
+      "ans": {
+        "value": "Kelly Clarkson",
+        "correct_entity": "option_a"
+      },
+      "options": [
+        "Kelly Clarkson",
+        "Carrie Underwood",
+        "Ruben Studdard"
+      ],
+      "expl": [
+        "Kelly Clarkson won the first reality TV singing competition, \"American Idol\" in 2002. Her powerful vocals and relatable personality captivated audiences, launching her into a successful music career. Clarkson has since become one of the industry's most recognizable and accomplished artists."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "Kelly Clarkson",
+          "kelly",
+          "clarkson"
+        ],
+        "option_b": [
+          "Carrie Underwood",
+          "carrie",
+          "underwood",
+          "carrie under wood",
+          "carry under wood",
+          "carry underwood"
+        ],
+        "option_c": [
+          "Ruben Studdard",
+          "ruben",
+          "studdard"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": ""
+    },
+    {
+      "id": "arts-and-entertainment_B2_17",
+      "que": "What country does \"The Jungle Book\" take place in?",
+      "ans": {
+        "value": "India",
+        "correct_entity": "option_a"
+      },
+      "options": [
+        "India",
+        "Kenya",
+        "Brazil"
+      ],
+      "expl": [
+        "\"The Jungle Book,\" written by Rudyard Kipling, takes place in the jungles of India. The classic collection of stories follows Mowgli, a young boy raised by wolves, as he encounters various animal characters and navigates the challenges of the jungle."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "India"
+        ],
+        "option_b": [
+          "Kenya"
+        ],
+        "option_c": [
+          "Brazil"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": ""
+    },
+    {
+      "id": "arts-and-entertainment_B2_18",
+      "que": "How many Academy Awards did \"Titanic\" win?",
+      "ans": {
+        "value": "11",
+        "correct_entity": "option_b"
+      },
+      "options": [
+        "8",
+        "11",
+        "14"
+      ],
+      "expl": [
+        "\"Titanic,\" directed by James Cameron, won 11 Academy Awards in 1998, including Best Picture and Best Director. The epic romantic disaster film set aboard the ill-fated RMS Titanic captivated audiences worldwide with its stunning visuals, compelling storytelling, and memorable performances."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "8",
+          "eight"
+        ],
+        "option_b": [
+          "11",
+          "eleven",
+          "one one"
+        ],
+        "option_c": [
+          "14",
+          "forteen",
+          "fourteen",
+          "one four"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": ""
+    },
+    {
+      "id": "arts-and-entertainment_B2_19",
+      "que": "What TV series included the phrase \"Go where no man has gone before\" in its title sequence?",
+      "ans": {
+        "value": "Star Trek",
+        "correct_entity": "option_a"
+      },
+      "options": [
+        "Star Trek",
+        "Battlestar Galactica",
+        "The X-Files"
+      ],
+      "expl": [
+        "\"Star Trek: The Next Generation\" featured the iconic phrase \"Go where no man has gone before\" in its title sequence. This science fiction television series, set in the 24th century, explored new worlds and encountered alien species as the crew of the Starship Enterprise embarked on exciting interstellar adventures."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "Star Trek",
+          "star",
+          "trek",
+          "stars treks"
+        ],
+        "option_b": [
+          "Battlestar Galactica",
+          "battlestar",
+          "galactica",
+          "battle star",
+          "battle star galactica"
+        ],
+        "option_c": [
+          "The X-Files",
+          "x. file",
+          "x files",
+          "x file",
+          "x-file",
+          "x.files"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": ""
+    },
+    {
+      "id": "arts-and-entertainment_B2_20",
+      "que": "Who wrote the 1891 novel \"The Picture of Dorian Gray\"?",
+      "ans": {
+        "value": "Oscar Wilde",
+        "correct_entity": "option_a"
+      },
+      "options": [
+        "Oscar Wilde",
+        "F. Scott Fitzgerald",
+        "Ernest Hemingway"
+      ],
+      "expl": [
+        "\"The Picture of Dorian Gray\" was written by Oscar Wilde. This novel tells the story of a man who remains eternally young while a portrait of him ages and reflects his immoral actions. Wilde's novel explores themes of beauty, morality, and the pursuit of pleasure."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "Oscar Wilde",
+          "oscar",
+          "wilde"
+        ],
+        "option_b": [
+          "F. Scott Fitzgerald",
+          "f.",
+          "scott",
+          "fitzgerald",
+          "f scott fitzgerald",
+          "scott fitzgerald"
+        ],
+        "option_c": [
+          "Ernest Hemingway",
+          "Ernest",
+          "Hemingway",
+          "Heming way"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": ""
+    },
+    {
+      "id": "arts-and-entertainment_B2_21",
+      "que": "Adam Levine is the lead singer of which pop rock band?",
+      "ans": {
+        "value": "Maroon 5",
+        "correct_entity": "option_a"
+      },
+      "options": [
+        "Maroon 5",
+        "Coldplay",
+        "Imagine Dragons"
+      ],
+      "expl": [
+        "Adam Levine is the lead singer of the pop rock band Maroon 5. With numerous hit songs like \"Moves Like Jagger\" and \"Sugar,\" the band has achieved international success. It has been known for Levine's distinctive vocals and energetic performances."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "Maroon 5",
+          "maroon",
+          "five",
+          "maroon five"
+        ],
+        "option_b": [
+          "Coldplay",
+          "cold",
+          "play",
+          "cold play"
+        ],
+        "option_c": [
+          "Imagine Dragons",
+          "imagine",
+          "dragons",
+          "Imagine Dragon"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": ""
+    },
+    {
+      "id": "arts-and-entertainment_B2_22",
+      "que": "What film won the Academy Award for Best Picture in 2019?",
+      "ans": {
+        "value": "Parasite",
+        "correct_entity": "option_a"
+      },
+      "options": [
+        "Parasite",
+        "1917",
+        "Joker"
+      ],
+      "expl": [
+        "\"Parasite,\" directed by Bong Joon Ho, won the Academy Award for Best Picture in 2019. The South Korean film made history by becoming the first non-English language film to win this prestigious award, highlighting its compelling storytelling, social commentary, and remarkable performances."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "Parasite",
+          "Parasites"
+        ],
+        "option_b": [
+          "1917",
+          "one nine one seven",
+          "nineteen seventeen",
+          "one thousand nine hundred and seventeen",
+          "one thousand nine hundred seventeen"
+        ],
+        "option_c": [
+          "Joker",
+          "jokers"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": ""
+    },
+    {
+      "id": "arts-and-entertainment_B2_23",
+      "que": "Who is the lead vocalist of the rock band Queen?",
+      "ans": {
+        "value": "Freddie Mercury",
+        "correct_entity": "option_a"
+      },
+      "options": [
+        "Freddie Mercury",
+        "Mick Jagger",
+        "Robert Plant"
+      ],
+      "expl": [
+        "Freddie Mercury was the lead vocalist of the rock band Queen. Known for his powerful voice, flamboyant stage presence, and songwriting talents, Mercury became an iconic figure in the music industry. His performances and Queen's hits like \"Bohemian Rhapsody\" have left a lasting impact on rock music."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "Freddie Mercury",
+          "freddie",
+          "mercury"
+        ],
+        "option_b": [
+          "Mick Jagger",
+          "mick",
+          "jagger"
+        ],
+        "option_c": [
+          "Robert Plant",
+          "robert",
+          "plant"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": ""
+    },
+    {
+      "id": "arts-and-entertainment_B2_24",
+      "que": "Who painted the famous artwork \"The Starry Night\"?",
+      "ans": {
+        "value": "Vincent van Gogh",
+        "correct_entity": "option_a"
+      },
+      "options": [
+        "Vincent van Gogh",
+        "Leonardo da Vinci",
+        "Pablo Picasso"
+      ],
+      "expl": [
+        "\"The Starry Night\" was painted by the Dutch artist Vincent van Gogh. This iconic artwork, created in 1889, showcases a swirling night sky with a crescent moon and a small village. Van Gogh's unique brushwork and vivid colors make it one of the most recognized and celebrated paintings in art history."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "Vincent van Gogh",
+          "vincent",
+          "van",
+          "gogh"
+        ],
+        "option_b": [
+          "Leonardo da Vinci",
+          "leonardo",
+          "da",
+          "vinci"
+        ],
+        "option_c": [
+          "Pablo Picasso",
+          "pablo",
+          "picasso"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": ""
+    },
+    {
+      "id": "arts-and-entertainment_B2_25",
+      "que": "Which was the first James Bond novel?",
+      "ans": {
+        "value": "Casino Royale",
+        "correct_entity": "option_a"
+      },
+      "options": [
+        "Casino Royale",
+        "Live and Let Die",
+        "Goldfinger"
+      ],
+      "expl": [
+        "The first James Bond novel, \"Casino Royale\" by Ian Fleming, introduced Agent 007 in 1953. Bond faces Le Chiffre, a French communist and SMERSH paymaster, in a high-stakes baccarat game. This iconic book spawned a series, captivating audiences globally."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "Casino Royale",
+          "casino",
+          "royale",
+          "royal"
+        ],
+        "option_b": [
+          "Live and Let Die",
+          "live",
+          "let",
+          "die",
+          "live and let"
+        ],
+        "option_c": [
+          "Goldfinger",
+          "gold finger"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": ""
+    },
+    {
+      "id": "arts-and-entertainment_B2_26",
+      "que": "Which country music singer was known as The Man in Black?",
+      "ans": {
+        "value": "Johnny Cash",
+        "correct_entity": "option_b"
+      },
+      "options": [
+        "Willie Nelson",
+        "Johnny Cash",
+        "Merle Haggard"
+      ],
+      "expl": [
+        "Johnny Cash, the legendary \"Man in Black,\" was the iconic country singer. Synonymous with his image, he wore all black during performances. Cash's deep voice and timeless hits like \"Ring of Fire\" and \"Folsom Prison Blues\" cemented his status as an enduring figure in country music."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "Willie Nelson",
+          "willie",
+          "nelson",
+          "willi nelson",
+          "willi",
+          "villi"
+        ],
+        "option_b": [
+          "Johnny Cash",
+          "johnny",
+          "cash"
+        ],
+        "option_c": [
+          "Merle Haggard",
+          "merle",
+          "haggard",
+          "marley",
+          "merley"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": ""
+    },
+    {
+      "id": "arts-and-entertainment_B2_27",
+      "que": "Whose autobiography was titled Moonwalk?",
+      "ans": {
+        "value": "Michael Jackson",
+        "correct_entity": "option_b"
+      },
+      "options": [
+        "Neil Armstrong",
+        "Michael Jackson",
+        "Buzz Aldrin"
+      ],
+      "expl": [
+        "Michael Jackson, the renowned pop artist, wrote his autobiography titled \"Moonwalk.\" The book provides insights into his life, career, and experiences in the music industry. The title \"Moonwalk\" is a reference to his iconic dance move, which he popularized during his performances."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "Neil Armstrong",
+          "neil",
+          "armstrong",
+          "nil",
+          "nil armstrong"
+        ],
+        "option_b": [
+          "Michael Jackson",
+          "michael",
+          "jackson"
+        ],
+        "option_c": [
+          "Buzz Aldrin",
+          "buzz",
+          "aldrin"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": ""
+    },
+    {
+      "id": "arts-and-entertainment_B2_28",
+      "que": "What was the name of the dog in Tom and Jerry?",
+      "ans": {
+        "value": "Spike",
+        "correct_entity": "option_a"
+      },
+      "options": [
+        "Spike",
+        "Butch",
+        "Rover"
+      ],
+      "expl": [
+        "The dog in Tom and Jerry is called Spike. He has a deep voice, looks tough, and always keeps an eye on Tom to protect his son Tyke. Spike's character makes funny moments and adds excitement to the adventures of Tom, Jerry, and himself in the cartoons."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "Spike",
+          "spikes",
+          "spy"
+        ],
+        "option_b": [
+          "Butch"
+        ],
+        "option_c": [
+          "Rover"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": ""
+    },
+    {
+      "id": "arts-and-entertainment_B2_29",
+      "que": "What is Captain Marvel's magic word?",
+      "ans": {
+        "value": "Shazam",
+        "correct_entity": "option_a"
+      },
+      "options": [
+        "Shazam",
+        "Avengers",
+        "Kree"
+      ],
+      "expl": [
+        "Captain Marvel's magic word is \"Shazam.\" When Carol Danvers says this word, she transforms into her superhero persona, gaining immense powers such as flight, super strength, and energy projection. Unlike other choices, \"Shazam\" is specifically associated with Captain Marvel's transformation, making it the correct answer."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "Shazam",
+          "shajam",
+          "shazaam"
+        ],
+        "option_b": [
+          "Avengers",
+          "avenger"
+        ],
+        "option_c": [
+          "Kree",
+          "three",
+          "kri",
+          "ree"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": ""
+    },
+    {
+      "id": "arts-and-entertainment_B2_30",
+      "que": "What kind of animal is Yoshi in the Nintendo video games?",
+      "ans": {
+        "value": "Dinosaur",
+        "correct_entity": "option_a"
+      },
+      "options": [
+        "Dinosaur",
+        "Monkey",
+        "Bird"
+      ],
+      "expl": [
+        "Yoshi is a cool dinosaur in Nintendo video games, especially in the Mario series. He first showed up in Super Mario World and quickly became a favorite character. Yoshi's look is a blend of different dinosaur types, and he's famous for gobbling up enemies with his long tongue and turning them into eggs. How awesome is that?"
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "Dinosaur",
+          "dinosaurs"
+        ],
+        "option_b": [
+          "Monkey"
+        ],
+        "option_c": [
+          "Bird",
+          "birds"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": ""
+    },
+    {
+      "id": "arts-and-entertainment_B2_31",
+      "que": "Which French composer wrote the music for the opera Carmen?",
+      "ans": {
+        "value": "Georges Bizet",
+        "correct_entity": "option_c"
+      },
+      "options": [
+        "Claude Debussy",
+        "Maurice Ravel",
+        "Georges Bizet"
+      ],
+      "expl": [
+        "Georges Bizet, the French composer, wrote the music for the opera Carmen. It premiered in 1875 and has since become one of the most popular and frequently performed operas worldwide. Bizet's composition masterfully captures the passion and intensity of the story, making Carmen a timeless classic in the operatic repertoire."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "Claude Debussy",
+          "claude",
+          "debussy"
+        ],
+        "option_b": [
+          "Maurice Ravel",
+          "maurice",
+          "ravel",
+          "maverick's"
+        ],
+        "option_c": [
+          "Georges Bizet",
+          "georges",
+          "bizet",
+          "george's",
+          "george bijet",
+          "george widget",
+          "bridget"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": ""
+    },
+    {
+      "id": "arts-and-entertainment_B2_32",
+      "que": "Who sang the theme tune to the Bond movie No Time to Die?",
+      "ans": {
+        "value": "Billie Eilish",
+        "correct_entity": "option_b"
+      },
+      "options": [
+        "Adele",
+        "Billie Eilish",
+        "Sam Smith"
+      ],
+      "expl": [
+        "Billie Eilish sang the theme tune to the Bond movie No Time to Die. Her haunting vocals and unique style perfectly captured the film's atmosphere and garnered critical acclaim. The song's introspective lyrics and Eilish's emotive delivery made it a memorable addition to the iconic Bond franchise."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "Adele"
+        ],
+        "option_b": [
+          "Billie Eilish",
+          "billie",
+          "eilish",
+          "billy"
+        ],
+        "option_c": [
+          "Sam Smith",
+          "sam",
+          "smith"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": ""
+    },
+    {
+      "id": "arts-and-entertainment_B2_33",
+      "que": "Which novelist created the character James Bond?",
+      "ans": {
+        "value": "Ian Fleming",
+        "correct_entity": "option_b"
+      },
+      "options": [
+        "Agatha Christie",
+        "Ian Fleming",
+        "J. K. Rowling"
+      ],
+      "expl": [
+        "Ian Fleming is the novelist who created the iconic character James Bond. Fleming wrote a series of spy novels featuring Bond, starting with \"Casino Royale\" in 1953. Bond became one of the most famous and enduring characters in popular culture, appearing in numerous books and films."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "Agatha Christie",
+          "agatha",
+          "christie"
+        ],
+        "option_b": [
+          "Ian Fleming",
+          "ian",
+          "fleming"
+        ],
+        "option_c": [
+          "J. K. Rowling",
+          "j. k.",
+          "rowling"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": ""
+    },
+    {
+      "id": "arts-and-entertainment_B2_34",
+      "que": "What was the first video game to be played in space?",
+      "ans": {
+        "value": "Tetris",
+        "correct_entity": "option_b"
+      },
+      "options": [
+        "Pong",
+        "Tetris",
+        "Space Invaders"
+      ],
+      "expl": [
+        "Tetris was the first video game played in space. A Russian cosmonaut named Aleksandr A. Serebrov played it on a handheld console called Electronika 60 during a mission in 1993. Tetris got famous because it's fun and easy to play, perfect for having fun in space!"
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "Pong"
+        ],
+        "option_b": [
+          "Tetris"
+        ],
+        "option_c": [
+          "Space Invaders",
+          "space",
+          "invaders",
+          "Space Invader"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": ""
+    },
+    {
+      "id": "arts-and-entertainment_B2_35",
+      "que": "Who was the first animated character to receive a star on the Hollywood Walk of Fame?",
+      "ans": {
+        "value": "Mickey Mouse",
+        "correct_entity": "option_a"
+      },
+      "options": [
+        "Mickey Mouse",
+        "Jumbo",
+        "Snow White"
+      ],
+      "expl": [
+        "Mickey Mouse, created by Walt Disney, was the first animated character to receive a star on the Hollywood Walk of Fame in 1978. Mickey Mouse is an iconic character and has had a significant impact on the world of animation and entertainment, making him a deserving recipient of this honor."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "Mickey Mouse",
+          "mickey",
+          "mouse"
+        ],
+        "option_b": [
+          "Jumbo"
+        ],
+        "option_c": [
+          "Snow White",
+          "snow",
+          "white"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": ""
+    },
+    {
+      "id": "arts-and-entertainment_B2_36",
+      "que": "What was the very first Pixar movie?",
+      "ans": {
+        "value": "Toy Story",
+        "correct_entity": "option_a"
+      },
+      "options": [
+        "Toy Story",
+        "Finding Nemo",
+        "Monsters Inc."
+      ],
+      "expl": [
+        "Pixar's first movie was \"Toy Story\" in 1995. It was special because it was the first full-length film made with computer-generated images (CGI). \"Toy Story\" showed toys coming alive and became a huge success, making Pixar a top animation studio."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "Toy Story",
+          "toy",
+          "story"
+        ],
+        "option_b": [
+          "Finding Nemo",
+          "finding",
+          "nemo"
+        ],
+        "option_c": [
+          "Monsters Inc.",
+          "monsters",
+          "inc.",
+          "monster inc",
+          "monster incorporated"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": ""
+    },
+    {
+      "id": "arts-and-entertainment_B2_37",
+      "que": "Who holds the record for the most Academy Awards in history?",
+      "ans": {
+        "value": "Walt Disney",
+        "correct_entity": "option_b"
+      },
+      "options": [
+        "Meryl Streep",
+        "Walt Disney",
+        "Steven Spielberg"
+      ],
+      "expl": [
+        "Walt Disney won the most Academy Awards ever, with 22 Oscars. He got most of them for Best Animated Short Film and Best Short Subject (Cartoon). Disney's work in animation and movies is incredible and has made him the person with the most Academy Awards ever."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "Meryl Streep",
+          "meryl",
+          "streep"
+        ],
+        "option_b": [
+          "Walt Disney",
+          "walt",
+          "disney"
+        ],
+        "option_c": [
+          "Steven Spielberg",
+          "steven",
+          "spielberg",
+          "spellberg"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": ""
+    },
+    {
+      "id": "arts-and-entertainment_B2_38",
+      "que": "What kind of animal is Bowser from Super Mario?",
+      "ans": {
+        "value": "Turtle",
+        "correct_entity": "option_a"
+      },
+      "options": [
+        "Turtle",
+        "Gorilla",
+        "Dragon"
+      ],
+      "expl": [
+        "Bowser, the main antagonist in the Super Mario series, is portrayed as a large, spiked, and fire-breathing turtle. He is often referred to as King Koopa and is known for his ability to kidnap Princess Peach and cause trouble in the Mushroom Kingdom."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "Turtle",
+          "turtles"
+        ],
+        "option_b": [
+          "Gorilla",
+          "a",
+          "gorillas"
+        ],
+        "option_c": [
+          "Dragon",
+          "dragons"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": ""
+    }
+  ],
+  "IMAGE_QUESTIONS": [],
+  "AUDIO_QUESTIONS": []
+}

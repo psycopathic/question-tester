@@ -1,0 +1,2140 @@
+{
+  "TEXT_QUESTIONS": [
+    {
+      "id": "geography_B7_1",
+      "que": "What was the name of the Category 4 hurricane that hit Florida in 2022?",
+      "ans": {
+        "value": "Ian",
+        "correct_entity": "option_b"
+      },
+      "options": [
+        "Ida",
+        "Ian",
+        "Harvey"
+      ],
+      "expl": [
+        "Hurricane Ian struck Florida in September 2022 as a powerful Category 4 storm. It caused massive flooding and billions in damage. Ian became one of the deadliest hurricanes in U.S. history."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "Ida",
+          "eda"
+        ],
+        "option_b": [
+          "Ian",
+          "ion",
+          "iron"
+        ],
+        "option_c": [
+          "Harvey"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": ""
+    },
+    {
+      "id": "geography_B7_2",
+      "que": "Which country hosted the World Expo in 2021?",
+      "ans": {
+        "value": "UAE",
+        "correct_entity": "option_b"
+      },
+      "options": [
+        "Japan",
+        "UAE",
+        "USA"
+      ],
+      "expl": [
+        "The UAE hosted Expo 2020 in Dubai, though it was held in 2021 due to the pandemic. The event showcased innovation from over 190 countries. It became the first World Expo held in the Middle East."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "Japan"
+        ],
+        "option_b": [
+          "UAE",
+          "u. a. e."
+        ],
+        "option_c": [
+          "USA",
+          "United State",
+          "u. s.",
+          "us",
+          "u. s. a.",
+          "united states of america"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": ""
+    },
+    {
+      "id": "geography_B7_3",
+      "que": "What is the largest desert in the world?",
+      "ans": {
+        "value": "Antarctica",
+        "correct_entity": "option_c"
+      },
+      "options": [
+        "Sahara",
+        "Arctic",
+        "Antarctica"
+      ],
+      "expl": [
+        "Antarctica is the largest desert in the world, even though it's covered in ice. A desert is defined by dryness, not temperature. It receives less rainfall than the Sahara."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "Sahara",
+          "sahara desert"
+        ],
+        "option_b": [
+          "Arctic",
+          "artic"
+        ],
+        "option_c": [
+          "Antarctica",
+          "antartica"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": ""
+    },
+    {
+      "id": "geography_B7_4",
+      "que": "Which river flows through Paris?",
+      "ans": {
+        "value": "Seine",
+        "correct_entity": "option_b"
+      },
+      "options": [
+        "Thames",
+        "Seine",
+        "Danube"
+      ],
+      "expl": [
+        "The Seine River flows through the capital city of Paris, France. It divides the city into the Left Bank and Right Bank. Many famous landmarks, including the Eiffel Tower, sit along its path."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "Thames",
+          "themes"
+        ],
+        "option_b": [
+          "Seine",
+          "saini",
+          "send"
+        ],
+        "option_c": [
+          "Danube"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": ""
+    },
+    {
+      "id": "geography_B7_5",
+      "que": "Which country has the most islands?",
+      "ans": {
+        "value": "Sweden",
+        "correct_entity": "option_c"
+      },
+      "options": [
+        "Canada",
+        "Indonesia",
+        "Sweden"
+      ],
+      "expl": [
+        "Sweden has more islands than any other country on Earth, with over 260,000 islands. Only about 1,000 of them are inhabited, and many are tiny rocky islets. Its biggest island is Gotland, a popular tourist spot in the Baltic Sea."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "Canada"
+        ],
+        "option_b": [
+          "Indonesia"
+        ],
+        "option_c": [
+          "Sweden"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": ""
+    },
+    {
+      "id": "geography_B7_6",
+      "que": "Mount Everest is part of which mountain range?",
+      "ans": {
+        "value": "Himalayas",
+        "correct_entity": "option_b"
+      },
+      "options": [
+        "Alps",
+        "Himalayas",
+        "Rockies"
+      ],
+      "expl": [
+        "Mount Everest is part of the Himalayas, a massive mountain range in Asia. It lies on the border between Nepal and China’s Tibet region. The Himalayas contain nine of the ten highest mountains in the world."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "Alps",
+          "a. l. p. s."
+        ],
+        "option_b": [
+          "Himalayas",
+          "Himalaya"
+        ],
+        "option_c": [
+          "Rockies",
+          "rocky is",
+          "rocky"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": ""
+    },
+    {
+      "id": "geography_B7_7",
+      "que": "Which ocean is on the east coast of the United States?",
+      "ans": {
+        "value": "Atlantic",
+        "correct_entity": "option_a"
+      },
+      "options": [
+        "Atlantic",
+        "Pacific",
+        "Indian"
+      ],
+      "expl": [
+        "The Atlantic Ocean borders the entire east coast of the United States. It stretches from Maine in the north down to Florida in the south. The ocean played a huge role in early European exploration and trade."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "Atlantic",
+          "atlantic ocean"
+        ],
+        "option_b": [
+          "Pacific"
+        ],
+        "option_c": [
+          "Indian"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": ""
+    },
+    {
+      "id": "geography_B7_8",
+      "que": "Which continent is the smallest by land area?",
+      "ans": {
+        "value": "Australia",
+        "correct_entity": "option_a"
+      },
+      "options": [
+        "Australia",
+        "Europe",
+        "Antarctica"
+      ],
+      "expl": [
+        "Australia is the smallest continent by land size, even though it's also a country. It covers about 7.7 million square kilometers, making it much smaller than Asia or Africa. Despite its size, it has some of the world’s most unique wildlife."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "Australia"
+        ],
+        "option_b": [
+          "Europe"
+        ],
+        "option_c": [
+          "Antarctica",
+          "antartica"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": ""
+    },
+    {
+      "id": "geography_B7_9",
+      "que": "Which country rejoined the EEA in 2025?",
+      "ans": {
+        "value": "Croatia",
+        "correct_entity": "option_b"
+      },
+      "options": [
+        "Norway",
+        "Croatia",
+        "Serbia"
+      ],
+      "expl": [
+        "Croatia rejoined the European Economic Area in 2025 to strengthen trade and movement with EU nations. The decision followed years of negotiation. It gives Croatia access to the EU single market without full eurozone membership."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "Norway"
+        ],
+        "option_b": [
+          "Croatia"
+        ],
+        "option_c": [
+          "Serbia"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": ""
+    },
+    {
+      "id": "geography_B7_10",
+      "que": "Which U.S. state banned TikTok in 2025?",
+      "ans": {
+        "value": "Montana",
+        "correct_entity": "option_c"
+      },
+      "options": [
+        "Texas",
+        "Florida",
+        "Montana"
+      ],
+      "expl": [
+        "Montana became the first U.S. state to ban TikTok on personal devices in 2025. The law cited data-privacy and national-security concerns. The decision led to legal challenges from both users and the company."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "Texas"
+        ],
+        "option_b": [
+          "Florida"
+        ],
+        "option_c": [
+          "Montana"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": ""
+    },
+    {
+      "id": "geography_B7_11",
+      "que": "Which country experienced a magnitude‑7.7 earthquake in 2025?",
+      "ans": {
+        "value": "Myanmar",
+        "correct_entity": "option_b"
+      },
+      "options": [
+        "Indonesia",
+        "Myanmar",
+        "Nepal"
+      ],
+      "expl": [
+        "A powerful 7.7 magnitude earthquake struck Myanmar in 2025, causing major destruction and loss of life. The quake affected several neighboring countries as well. It was one of the strongest earthquakes in Southeast Asia in recent years."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "Indonesia",
+          "Indon asia",
+          "asia"
+        ],
+        "option_b": [
+          "Myanmar"
+        ],
+        "option_c": [
+          "Nepal"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": ""
+    },
+    {
+      "id": "geography_B7_12",
+      "que": "What is the capital of the United States?",
+      "ans": {
+        "value": "Washington, D.C.",
+        "correct_entity": "option_c"
+      },
+      "options": [
+        "New York",
+        "Los Angeles",
+        "Washington, D.C."
+      ],
+      "expl": [
+        "The capital of the United States is Washington, D.C., officially established in 1790. It’s home to the White House, U.S. Capitol, and Supreme Court. “D.C.” stands for District of Columbia, not a U.S. state."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "New York",
+          "New",
+          "York"
+        ],
+        "option_b": [
+          "Los Angeles"
+        ],
+        "option_c": [
+          "Washington, D.C.",
+          "Washington D. C.",
+          "D. C.",
+          "washington"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": ""
+    },
+    {
+      "id": "geography_B7_13",
+      "que": "What's the tallest mountain in the world?",
+      "ans": {
+        "value": "Everest",
+        "correct_entity": "option_c"
+      },
+      "options": [
+        "K2",
+        "Kilimanjaro",
+        "Everest"
+      ],
+      "expl": [
+        "Mount Everest is the tallest mountain above sea level at 8,849 meters (29,032 ft). It sits in the Himalayas on the border of Nepal and China. The first confirmed summit was reached in 1953 by Edmund Hillary and Tenzing Norgay."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "K2",
+          "k. two"
+        ],
+        "option_b": [
+          "Kilimanjaro"
+        ],
+        "option_c": [
+          "Everest"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": ""
+    },
+    {
+      "id": "geography_B7_14",
+      "que": "How many continents are there on Earth?",
+      "ans": {
+        "value": "Seven",
+        "correct_entity": "option_b"
+      },
+      "options": [
+        "Six",
+        "Seven",
+        "Five"
+      ],
+      "expl": [
+        "There are seven continents: Asia, Africa, North America, South America, Antarctica, Europe, and Australia. Asia is the largest, and Australia is the smallest that’s considered a continent. Some places still teach a 6-continent model, but 7 is most widely accepted."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "Six",
+          "6"
+        ],
+        "option_b": [
+          "Seven",
+          "7"
+        ],
+        "option_c": [
+          "Five",
+          "5"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": ""
+    },
+    {
+      "id": "geography_B7_15",
+      "que": "What is the longest river in the world?",
+      "ans": {
+        "value": "Nile",
+        "correct_entity": "option_c"
+      },
+      "options": [
+        "Amazon",
+        "Yangtze",
+        "Nile"
+      ],
+      "expl": [
+        "The Nile River is traditionally considered the longest river in the world, stretching about 6,650 km (4,130 miles). It flows through 11 African countries and ends in Egypt. Some studies suggest the Amazon might be longer, but the Nile remains the classic answer."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "Amazon"
+        ],
+        "option_b": [
+          "Yangtze"
+        ],
+        "option_c": [
+          "Nile"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": ""
+    },
+    {
+      "id": "geography_B7_16",
+      "que": "Which country is world‑famous for pizza and pasta?",
+      "ans": {
+        "value": "Italy",
+        "correct_entity": "option_b"
+      },
+      "options": [
+        "Spain",
+        "Italy",
+        "France"
+      ],
+      "expl": [
+        "Italy is known globally for iconic foods like pizza, pasta, and gelato. Dishes like spaghetti, lasagna, and Neapolitan pizza all originated there. Italian cuisine is now one of the most popular in the world."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "Spain",
+          "pain"
+        ],
+        "option_b": [
+          "Italy"
+        ],
+        "option_c": [
+          "France"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": ""
+    },
+    {
+      "id": "geography_B7_17",
+      "que": "What's the capital of Japan?",
+      "ans": {
+        "value": "Tokyo",
+        "correct_entity": "option_c"
+      },
+      "options": [
+        "Osaka",
+        "Kyoto",
+        "Tokyo"
+      ],
+      "expl": [
+        "The capital of Japan is Tokyo, one of the largest and busiest cities in the world. It became the capital in 1868, replacing Kyoto. Tokyo blends futuristic tech with ancient temples."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "Osaka"
+        ],
+        "option_b": [
+          "Kyoto"
+        ],
+        "option_c": [
+          "Tokyo"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": ""
+    },
+    {
+      "id": "geography_B7_18",
+      "que": "Which country was formerly known as Ceylon?",
+      "ans": {
+        "value": "Sri Lanka",
+        "correct_entity": "option_a"
+      },
+      "options": [
+        "Sri Lanka",
+        "Thailand",
+        "Bangladesh"
+      ],
+      "expl": [
+        "Sri Lanka was known as Ceylon until 1972, when it became a republic and changed its name. The old name came from European colonial rule. It’s famous for tea, beaches, and ancient temples."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "Sri Lanka",
+          "Sri",
+          "Lanka",
+          "shri lanka"
+        ],
+        "option_b": [
+          "Thailand"
+        ],
+        "option_c": [
+          "Bangladesh"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": ""
+    },
+    {
+      "id": "geography_B7_19",
+      "que": "What is the capital of Iceland?",
+      "ans": {
+        "value": "Reykjavik",
+        "correct_entity": "option_a"
+      },
+      "options": [
+        "Reykjavik",
+        "Oslo",
+        "Helsinki"
+      ],
+      "expl": [
+        "The capital of Iceland is Reykjavik, the northernmost capital city in the world. It runs heavily on geothermal energy. About 60% of Iceland’s population lives in or near the city."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "Reykjavik",
+          "rekjavik",
+          "reyjavik",
+          "rekha jovik",
+          "rekhavi"
+        ],
+        "option_b": [
+          "Oslo"
+        ],
+        "option_c": [
+          "Helsinki"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": ""
+    },
+    {
+      "id": "geography_B7_20",
+      "que": "What is the smallest country in the world by land area?",
+      "ans": {
+        "value": "Vatican City",
+        "correct_entity": "option_a"
+      },
+      "options": [
+        "Vatican City",
+        "Monaco",
+        "Nauru"
+      ],
+      "expl": [
+        "Vatican City is the smallest country in the world, covering just 0.2 square miles. It’s home to the Pope and St. Peter’s Basilica. The entire nation fits inside the city of Rome."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "Vatican City",
+          "vatican"
+        ],
+        "option_b": [
+          "Monaco"
+        ],
+        "option_c": [
+          "Nauru"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": ""
+    },
+    {
+      "id": "geography_B7_21",
+      "que": "In which city would you find the Christ the Redeemer statue?",
+      "ans": {
+        "value": "Rio de Janeiro",
+        "correct_entity": "option_a"
+      },
+      "options": [
+        "Rio de Janeiro",
+        "Lisbon",
+        "Buenos Aires"
+      ],
+      "expl": [
+        "The Christ the Redeemer statue overlooks Rio de Janeiro, Brazil, and was completed in 1931. It's 98 feet tall and one of the New 7 Wonders of the World. It took nine years to build."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "Rio de Janeiro",
+          "Rio",
+          "de",
+          "Janeiro",
+          "de janeiro"
+        ],
+        "option_b": [
+          "Lisbon"
+        ],
+        "option_c": [
+          "Buenos Aires",
+          "Buenos",
+          "Aires",
+          "boy knows airs",
+          "boy know aries",
+          "aries"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": ""
+    },
+    {
+      "id": "geography_B7_22",
+      "que": "What's the only country that is also a continent?",
+      "ans": {
+        "value": "Australia",
+        "correct_entity": "option_a"
+      },
+      "options": [
+        "Australia",
+        "Greenland",
+        "South Africa"
+      ],
+      "expl": [
+        "Australia is both a country and a continent — the smallest continent, but the sixth-largest country. It’s home to more kangaroos than humans."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "Australia"
+        ],
+        "option_b": [
+          "Greenland",
+          "green land"
+        ],
+        "option_c": [
+          "South Africa",
+          "africa"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": ""
+    },
+    {
+      "id": "geography_B7_23",
+      "que": "What's the capital of Brazil?",
+      "ans": {
+        "value": "Brasilia",
+        "correct_entity": "option_b"
+      },
+      "options": [
+        "Rio de Janeiro",
+        "Brasilia",
+        "Sao Paulo"
+      ],
+      "expl": [
+        "Brasília became the capital of Brazil in 1960, replacing Rio de Janeiro. The city was specially designed to look like an airplane from above. It is now a UNESCO World Heritage Site because of its architecture."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "Rio de Janeiro",
+          "Rio",
+          "de",
+          "Janeiro",
+          "de janeiro",
+          "rio de janerio"
+        ],
+        "option_b": [
+          "Brasilia",
+          "Brasília"
+        ],
+        "option_c": [
+          "Sao Paulo",
+          "São",
+          "Paulo",
+          "São Paulo",
+          "say o."
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": ""
+    },
+    {
+      "id": "geography_B7_24",
+      "que": "Which country has the most pyramids in the world?",
+      "ans": {
+        "value": "Sudan",
+        "correct_entity": "option_c"
+      },
+      "options": [
+        "Egypt",
+        "Mexico",
+        "Sudan"
+      ],
+      "expl": [
+        "Surprisingly, Sudan has more pyramids than Egypt — over 200 of them. Most were built by the ancient Kingdom of Kush. They are smaller and steeper than Egyptian pyramids but just as historic."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "Egypt"
+        ],
+        "option_b": [
+          "Mexico"
+        ],
+        "option_c": [
+          "Sudan"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": ""
+    },
+    {
+      "id": "geography_B7_25",
+      "que": "In which city would you find the famous landmark, the Eiffel Tower?",
+      "ans": {
+        "value": "Paris",
+        "correct_entity": "option_c"
+      },
+      "options": [
+        "Rome",
+        "London",
+        "Paris"
+      ],
+      "expl": [
+        "The Eiffel Tower is located in Paris, France, and was built for the 1889 World's Fair. It was originally meant to be temporary, but people loved it so much that it stayed. Today, it’s one of the most visited monuments in the world."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "Rome",
+          "roam"
+        ],
+        "option_b": [
+          "London"
+        ],
+        "option_c": [
+          "Paris"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": ""
+    },
+    {
+      "id": "geography_B7_26",
+      "que": "Which country is the largest producer of saffron?",
+      "ans": {
+        "value": "Iran",
+        "correct_entity": "option_b"
+      },
+      "options": [
+        "India",
+        "Iran",
+        "Spain"
+      ],
+      "expl": [
+        "Iran produces over 90% of the world’s saffron, often called “red gold” because it can cost more than gold by weight. Harvesting is all done by hand."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "India"
+        ],
+        "option_b": [
+          "Iran"
+        ],
+        "option_c": [
+          "Spain"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": ""
+    },
+    {
+      "id": "geography_B7_27",
+      "que": "Which city is known as the 'Windy City'?",
+      "ans": {
+        "value": "Chicago",
+        "correct_entity": "option_b"
+      },
+      "options": [
+        "New York",
+        "Chicago",
+        "Boston"
+      ],
+      "expl": [
+        "Chicago is known as the “Windy City,” a nickname originally tied to its long-winded politicians—not just the weather. The name stuck and became part of its identity."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "New York",
+          "New",
+          "York"
+        ],
+        "option_b": [
+          "Chicago"
+        ],
+        "option_c": [
+          "Boston"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": ""
+    },
+    {
+      "id": "geography_B7_28",
+      "que": "What is the official language of Brazil?",
+      "ans": {
+        "value": "Portuguese",
+        "correct_entity": "option_b"
+      },
+      "options": [
+        "Spanish",
+        "Portuguese",
+        "French"
+      ],
+      "expl": [
+        "Portuguese is the official language of Brazil, making it the only Portuguese-speaking country in South America. This is due to Brazil’s history as a Portuguese colony."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "Spanish"
+        ],
+        "option_b": [
+          "Portuguese"
+        ],
+        "option_c": [
+          "French"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": ""
+    },
+    {
+      "id": "geography_B7_29",
+      "que": "How many time zones exist globally?",
+      "ans": {
+        "value": "24",
+        "correct_entity": "option_a"
+      },
+      "options": [
+        "24",
+        "12",
+        "18"
+      ],
+      "expl": [
+        "There are 24 time zones worldwide, each generally representing one hour of the day. They are based on Earth’s 24-hour rotation."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "24",
+          "two four",
+          "twenty four"
+        ],
+        "option_b": [
+          "12",
+          "twelve",
+          "one two"
+        ],
+        "option_c": [
+          "18",
+          "eighteen",
+          "one eight"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": ""
+    },
+    {
+      "id": "geography_B7_30",
+      "que": "What is Japan's national flower?",
+      "ans": {
+        "value": "Cherry Blossom",
+        "correct_entity": "option_b"
+      },
+      "options": [
+        "Lotus",
+        "Cherry Blossom",
+        "Orchid"
+      ],
+      "expl": [
+        "The cherry blossom (sakura) is Japan’s national flower and symbolizes beauty, renewal, and the fleeting nature of life. Cherry blossom season is celebrated nationwide every spring."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "Lotus"
+        ],
+        "option_b": [
+          "Cherry Blossom",
+          "Cherry",
+          "Blossom"
+        ],
+        "option_c": [
+          "Orchid"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": ""
+    },
+    {
+      "id": "geography_B7_31",
+      "que": "Taylor Swift has a song named after which country singer?",
+      "ans": {
+        "value": "Tim McGraw",
+        "correct_entity": "option_a"
+      },
+      "options": [
+        "Tim McGraw",
+        "Blake Shelton",
+        "Keith Urban"
+      ],
+      "expl": [
+        "Taylor Swift’s debut single was titled “Tim McGraw,” named after the country singer. It was released in 2006 and helped launch her music career."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "Tim McGraw",
+          "Tim",
+          "McGraw",
+          "tim macgraw",
+          "tim mcgrow"
+        ],
+        "option_b": [
+          "Blake Shelton",
+          "Blake",
+          "Shelton"
+        ],
+        "option_c": [
+          "Keith Urban",
+          "Keith",
+          "Urban"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": ""
+    },
+    {
+      "id": "geography_B7_32",
+      "que": "What is the capital of Australia?",
+      "ans": {
+        "value": "Canberra",
+        "correct_entity": "option_c"
+      },
+      "options": [
+        "Sydney",
+        "Melbourne",
+        "Canberra"
+      ],
+      "expl": [
+        "Canberra is the capital of Australia, chosen as a compromise between Sydney and Melbourne. It’s a planned city built specifically to serve as the capital."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "Sydney"
+        ],
+        "option_b": [
+          "Melbourne"
+        ],
+        "option_c": [
+          "Canberra"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": ""
+    },
+    {
+      "id": "geography_B7_33",
+      "que": "Toronto is located on the shore of which Great Lake?",
+      "ans": {
+        "value": "Ontario",
+        "correct_entity": "option_a"
+      },
+      "options": [
+        "Ontario",
+        "Erie",
+        "Michigan"
+      ],
+      "expl": [
+        "Toronto is located on the northwestern shore of Lake Ontario, one of the Great Lakes. The lake is a major source of water and shipping routes for the region."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "Ontario"
+        ],
+        "option_b": [
+          "Erie"
+        ],
+        "option_c": [
+          "Michigan"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": ""
+    },
+    {
+      "id": "geography_B7_34",
+      "que": "In which country were Ryan Gosling and Ryan Reynolds born?",
+      "ans": {
+        "value": "Canada",
+        "correct_entity": "option_c"
+      },
+      "options": [
+        "UK",
+        "USA",
+        "Canada"
+      ],
+      "expl": [
+        "Both Ryan Gosling and Ryan Reynolds were born in Canada. Despite sharing the same first name and fame, they’re not related."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "UK",
+          "u. k.",
+          "united kingdom"
+        ],
+        "option_b": [
+          "USA",
+          "United State",
+          "u. s.",
+          "us",
+          "u. s. a.",
+          "united states of america"
+        ],
+        "option_c": [
+          "Canada"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": ""
+    },
+    {
+      "id": "geography_B7_35",
+      "que": "Tigris and Euphrates rivers run through which country?",
+      "ans": {
+        "value": "Iraq",
+        "correct_entity": "option_b"
+      },
+      "options": [
+        "Iran",
+        "Iraq",
+        "Turkey"
+      ],
+      "expl": [
+        "The Tigris and Euphrates rivers run mainly through modern-day Iraq, forming part of the historic Fertile Crescent. This region is often called the cradle of civilization."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "Iran"
+        ],
+        "option_b": [
+          "Iraq"
+        ],
+        "option_c": [
+          "Turkey"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": ""
+    },
+    {
+      "id": "geography_B7_36",
+      "que": "The Loch Ness Monster is said to live where?",
+      "ans": {
+        "value": "Scotland",
+        "correct_entity": "option_b"
+      },
+      "options": [
+        "Ireland",
+        "Scotland",
+        "Wales"
+      ],
+      "expl": [
+        "The legendary Loch Ness Monster is said to live in Loch Ness in Scotland. Sightings have been reported for nearly a century, though none are proven."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "Ireland"
+        ],
+        "option_b": [
+          "Scotland"
+        ],
+        "option_c": [
+          "Wales",
+          "wells",
+          "whales",
+          "walls",
+          "well"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": ""
+    },
+    {
+      "id": "geography_B7_37",
+      "que": "Which ocean zone is closest to the surface?",
+      "ans": {
+        "value": "Photic",
+        "correct_entity": "option_a"
+      },
+      "options": [
+        "Photic",
+        "Abyssal",
+        "Bathyal"
+      ],
+      "expl": [
+        "The photic zone is the sunlit top layer of the ocean where photosynthesis can occur. Most marine life lives in or relies on this zone."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "Photic",
+          "four tick",
+          "forty"
+        ],
+        "option_b": [
+          "Abyssal",
+          "abyssin"
+        ],
+        "option_c": [
+          "Bathyal",
+          "battle"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": ""
+    },
+    {
+      "id": "geography_B7_38",
+      "que": "Which flag shape is not rectangular?",
+      "ans": {
+        "value": "Nepal",
+        "correct_entity": "option_b"
+      },
+      "options": [
+        "Switzerland",
+        "Nepal",
+        "Bhutan"
+      ],
+      "expl": [
+        "Nepal has the only national flag that isn’t rectangular. It’s made of two stacked triangles instead of a single four-sided shape."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "Switzerland"
+        ],
+        "option_b": [
+          "Nepal"
+        ],
+        "option_c": [
+          "Bhutan",
+          "put on"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": ""
+    },
+    {
+      "id": "geography_B7_39",
+      "que": "What is the capital of Hungary?",
+      "ans": {
+        "value": "Budapest",
+        "correct_entity": "option_a"
+      },
+      "options": [
+        "Budapest",
+        "Vienna",
+        "Bucharest"
+      ],
+      "expl": [
+        "Budapest is the capital of Hungary, formed from the unification of Buda and Pest across the Danube River. It’s known for its thermal baths and grand architecture."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "Budapest"
+        ],
+        "option_b": [
+          "Vienna",
+          "veena"
+        ],
+        "option_c": [
+          "Bucharest",
+          "book a rest"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": ""
+    },
+    {
+      "id": "geography_B7_40",
+      "que": "What is Asia's tallest mountain?",
+      "ans": {
+        "value": "Mount Everest",
+        "correct_entity": "option_a"
+      },
+      "options": [
+        "Mount Everest",
+        "K2",
+        "Makalu"
+      ],
+      "expl": [
+        "Mount Everest is the tallest mountain on Earth at 29,032 feet (8,849 meters), located in the Himalayas on the border of Nepal and Tibet. Known as Sagarmatha in Nepal and Chomolungma in Tibet, it was first summited in 1953 by Edmund Hillary and Tenzing Norgay."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "Mount Everest",
+          "Mount",
+          "Everest"
+        ],
+        "option_b": [
+          "K2",
+          "k. two"
+        ],
+        "option_c": [
+          "Makalu",
+          "makaalu",
+          "macalo",
+          "macaloon"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": ""
+    },
+    {
+      "id": "geography_B7_41",
+      "que": "What's the largest freshwater lake in Florida?",
+      "ans": {
+        "value": "Okeechobee",
+        "correct_entity": "option_a"
+      },
+      "options": [
+        "Okeechobee",
+        "George",
+        "Monroe"
+      ],
+      "expl": [
+        "Lake Okeechobee is the largest freshwater lake in Florida by surface area. Its name means “big water” in the Hitchiti language."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "Okeechobee"
+        ],
+        "option_b": [
+          "George"
+        ],
+        "option_c": [
+          "Monroe",
+          "Monrow"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": ""
+    },
+    {
+      "id": "geography_B7_42",
+      "que": "Which island did Paul Gauguin move to in 1891?",
+      "ans": {
+        "value": "Tahiti",
+        "correct_entity": "option_b"
+      },
+      "options": [
+        "Bali",
+        "Tahiti",
+        "Hawaii"
+      ],
+      "expl": [
+        "Artist Paul Gauguin moved to Tahiti in 1891 seeking a simpler life and artistic inspiration. Many of his famous paintings come from this period."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "Bali"
+        ],
+        "option_b": [
+          "Tahiti"
+        ],
+        "option_c": [
+          "Hawaii",
+          "hawai"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": ""
+    },
+    {
+      "id": "geography_B7_43",
+      "que": "Which city was buried in ash by Mount Vesuvius in 79 AD?",
+      "ans": {
+        "value": "Pompeii",
+        "correct_entity": "option_a"
+      },
+      "options": [
+        "Pompeii",
+        "Athens",
+        "Carthage"
+      ],
+      "expl": [
+        "Pompeii was buried under volcanic ash when Mount Vesuvius erupted in 79 AD. The ash preserved buildings, objects, and even people."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "Pompeii"
+        ],
+        "option_b": [
+          "Athens",
+          "Athen"
+        ],
+        "option_c": [
+          "Carthage"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": ""
+    },
+    {
+      "id": "geography_B7_44",
+      "que": "What fictional island is Jurassic Park set on?",
+      "ans": {
+        "value": "Isla Nublar",
+        "correct_entity": "option_b"
+      },
+      "options": [
+        "Isla Sorna",
+        "Isla Nublar",
+        "Skull Island"
+      ],
+      "expl": [
+        "Isla Nublar is the fictional island where Jurassic Park is set. It’s home to cloned dinosaurs and a doomed theme park."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "Isla Sorna",
+          "Isla",
+          "Sorna"
+        ],
+        "option_b": [
+          "Isla Nublar",
+          "Isla",
+          "Nublar",
+          "isla nublan"
+        ],
+        "option_c": [
+          "Skull Island",
+          "Skull",
+          "Island"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": ""
+    },
+    {
+      "id": "geography_B7_45",
+      "que": "What is the longest mountain range in the world?",
+      "ans": {
+        "value": "Andes",
+        "correct_entity": "option_b"
+      },
+      "options": [
+        "Rockies",
+        "Andes",
+        "Himalayas"
+      ],
+      "expl": [
+        "The Andes Mountains stretch along the western side of South America, making them the longest mountain range in the world."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "Rockies",
+          "rocky is"
+        ],
+        "option_b": [
+          "Andes",
+          "andy's"
+        ],
+        "option_c": [
+          "Himalayas"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": ""
+    },
+    {
+      "id": "geography_B7_46",
+      "que": "Where is Harvard University located?",
+      "ans": {
+        "value": "Cambridge",
+        "correct_entity": "option_b"
+      },
+      "options": [
+        "New York",
+        "Cambridge",
+        "Boston"
+      ],
+      "expl": [
+        "Harvard University is located in Cambridge, Massachusetts, just across the river from Boston."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "New York",
+          "New",
+          "York",
+          "new york city"
+        ],
+        "option_b": [
+          "Cambridge"
+        ],
+        "option_c": [
+          "Boston"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": ""
+    },
+    {
+      "id": "geography_B7_47",
+      "que": "Which waterfall is on the border of Zambia and Zimbabwe?",
+      "ans": {
+        "value": "Victoria",
+        "correct_entity": "option_c"
+      },
+      "options": [
+        "Niagara",
+        "Angel",
+        "Victoria"
+      ],
+      "expl": [
+        "Victoria Falls is a massive waterfall on the border of Zambia and Zimbabwe. It’s one of the world’s largest and most famous falls."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "Niagara"
+        ],
+        "option_b": [
+          "Angel"
+        ],
+        "option_c": [
+          "Victoria"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": ""
+    },
+    {
+      "id": "geography_B7_48",
+      "que": "Which state is the 'Sunshine State'?",
+      "ans": {
+        "value": "Florida",
+        "correct_entity": "option_a"
+      },
+      "options": [
+        "Florida",
+        "California",
+        "Arizona"
+      ],
+      "expl": [
+        "Florida is known as the “Sunshine State” because of its warm climate and frequent sunny weather. The nickname became officially recognized in 1970."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "Florida"
+        ],
+        "option_b": [
+          "California"
+        ],
+        "option_c": [
+          "Arizona"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": ""
+    },
+    {
+      "id": "geography_B7_49",
+      "que": "Which country is called the 'Emerald Isle'?",
+      "ans": {
+        "value": "Ireland",
+        "correct_entity": "option_a"
+      },
+      "options": [
+        "Ireland",
+        "Iceland",
+        "New Zealand"
+      ],
+      "expl": [
+        "Ireland is called the “Emerald Isle” because of its lush green landscape and rolling countryside. Its mild, rainy climate keeps the island vibrant and green year-round."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "Ireland"
+        ],
+        "option_b": [
+          "Iceland"
+        ],
+        "option_c": [
+          "New Zealand",
+          "New",
+          "Zealand"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": ""
+    },
+    {
+      "id": "geography_B7_50",
+      "que": "What is the world's most populous city?",
+      "ans": {
+        "value": "Chongqing",
+        "correct_entity": "option_a"
+      },
+      "options": [
+        "Chongqing",
+        "Tokyo",
+        "Delhi"
+      ],
+      "expl": [
+        "Chongqing, China has the largest city population in the world when measured by its huge administrative region. The area includes both dense urban zones and surrounding rural districts."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "Chongqing"
+        ],
+        "option_b": [
+          "Tokyo"
+        ],
+        "option_c": [
+          "Delhi"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": ""
+    },
+    {
+      "id": "geography_B7_51",
+      "que": "What is the capital of Iowa?",
+      "ans": {
+        "value": "Des Moines",
+        "correct_entity": "option_a"
+      },
+      "options": [
+        "Des Moines",
+        "Cedar Rapids",
+        "Iowa City"
+      ],
+      "expl": [
+        "Des Moines is the capital of Iowa and also its most populous city. It is a major center for insurance and finance."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "Des Moines",
+          "days minus"
+        ],
+        "option_b": [
+          "Cedar Rapids"
+        ],
+        "option_c": [
+          "Iowa City",
+          "Iowa",
+          "City"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": ""
+    },
+    {
+      "id": "geography_B7_52",
+      "que": "Which country sits on the equator?",
+      "ans": {
+        "value": "Colombia",
+        "correct_entity": "option_a"
+      },
+      "options": [
+        "Colombia",
+        "Mexico",
+        "Argentina"
+      ],
+      "expl": [
+        "Colombia is one of the countries the equator passes through, giving it both tropical climate and diverse ecosystems. Ecuador and Brazil also share this feature."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "Colombia",
+          "columbia"
+        ],
+        "option_b": [
+          "Mexico"
+        ],
+        "option_c": [
+          "Argentina"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": ""
+    },
+    {
+      "id": "geography_B7_53",
+      "que": "What is Africa's largest lake?",
+      "ans": {
+        "value": "Victoria",
+        "correct_entity": "option_a"
+      },
+      "options": [
+        "Victoria",
+        "Tanganyika",
+        "Malawi"
+      ],
+      "expl": [
+        "Lake Victoria is the largest lake in Africa by surface area. It is bordered by Tanzania, Uganda, and Kenya. The lake is also a major source of the Nile River."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "Victoria"
+        ],
+        "option_b": [
+          "Tanganyika"
+        ],
+        "option_c": [
+          "Malawi"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": ""
+    },
+    {
+      "id": "geography_B7_54",
+      "que": "What is the largest city in North America by population?",
+      "ans": {
+        "value": "Mexico City",
+        "correct_entity": "option_a"
+      },
+      "options": [
+        "Mexico City",
+        "New York",
+        "Los Angeles"
+      ],
+      "expl": [
+        "Mexico City is the most populous city in North America. It serves as the capital of Mexico and a major cultural hub. The metropolitan area has millions of residents."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "Mexico City",
+          "Mexico",
+          "City"
+        ],
+        "option_b": [
+          "New York",
+          "New",
+          "York"
+        ],
+        "option_c": [
+          "Los Angeles",
+          "Los",
+          "Angeles"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": ""
+    },
+    {
+      "id": "geography_B7_55",
+      "que": "What is the time difference in hours between Los Angeles and Honolulu?",
+      "ans": {
+        "value": "3",
+        "correct_entity": "option_a"
+      },
+      "options": [
+        "3",
+        "2",
+        "4"
+      ],
+      "expl": [
+        "Honolulu is three hours behind Los Angeles during standard time. The difference can change during daylight saving time, since Hawaii doesn’t observe it. Travelers often feel less jet lag going west."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "3",
+          "three"
+        ],
+        "option_b": [
+          "2",
+          "two"
+        ],
+        "option_c": [
+          "4",
+          "four",
+          "for"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": ""
+    },
+    {
+      "id": "geography_B7_56",
+      "que": "Where is the world's highest waterfall?",
+      "ans": {
+        "value": "Venezuela",
+        "correct_entity": "option_a"
+      },
+      "options": [
+        "Venezuela",
+        "Brazil",
+        "Nepal"
+      ],
+      "expl": [
+        "Angel Falls in Venezuela is the tallest waterfall in the world. The water drops more than 3,200 feet from the edge of a plateau. It’s located in Canaima National Park."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "Venezuela"
+        ],
+        "option_b": [
+          "Brazil"
+        ],
+        "option_c": [
+          "Nepal"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": ""
+    },
+    {
+      "id": "geography_B7_57",
+      "que": "What sea separates Alaska and Russia?",
+      "ans": {
+        "value": "Bering",
+        "correct_entity": "option_a"
+      },
+      "options": [
+        "Bering",
+        "Okhotsk",
+        "Laptev"
+      ],
+      "expl": [
+        "The Bering Sea separates Alaska from Russia. The narrowest point is the Bering Strait. In winter, sea ice can connect the two sides."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "Bering",
+          "bearing"
+        ],
+        "option_b": [
+          "Okhotsk",
+          "a cotsk",
+          "accords",
+          "quotes",
+          "a quotes"
+        ],
+        "option_c": [
+          "Laptev",
+          "laptail",
+          "laptell",
+          "lactate"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": ""
+    },
+    {
+      "id": "geography_B7_58",
+      "que": "Great Salt Lake is in which state?",
+      "ans": {
+        "value": "Utah",
+        "correct_entity": "option_a"
+      },
+      "options": [
+        "Utah",
+        "Nevada",
+        "Arizona"
+      ],
+      "expl": [
+        "The Great Salt Lake is located in northern Utah. It is the largest saltwater lake in the Western Hemisphere. Its high salinity allows people to float easily."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "Utah"
+        ],
+        "option_b": [
+          "Nevada"
+        ],
+        "option_c": [
+          "Arizona"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": ""
+    },
+    {
+      "id": "geography_B7_59",
+      "que": "Where is Uluru located?",
+      "ans": {
+        "value": "Australia",
+        "correct_entity": "option_a"
+      },
+      "options": [
+        "Australia",
+        "South Africa",
+        "New Zealand"
+      ],
+      "expl": [
+        "Uluru, also known as Ayers Rock, is located in central Australia. It is a sacred site for the Anangu people. The sandstone formation changes color throughout the day."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "Australia"
+        ],
+        "option_b": [
+          "South Africa",
+          "South",
+          "Africa"
+        ],
+        "option_c": [
+          "New Zealand",
+          "New",
+          "Zealand"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": ""
+    },
+    {
+      "id": "geography_B7_60",
+      "que": "Which continent has no native ants?",
+      "ans": {
+        "value": "Antarctica",
+        "correct_entity": "option_a"
+      },
+      "options": [
+        "Antarctica",
+        "Asia",
+        "Europe"
+      ],
+      "expl": [
+        "Antarctica is the only continent with no native ants. The extreme cold and harsh climate prevent them from surviving. Any ants found there were brought by humans."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "Antarctica",
+          "antartica"
+        ],
+        "option_b": [
+          "Asia"
+        ],
+        "option_c": [
+          "Europe"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": ""
+    },
+    {
+      "id": "geography_B7_61",
+      "que": "Which continent is the Gobi Desert on?",
+      "ans": {
+        "value": "Asia",
+        "correct_entity": "option_a"
+      },
+      "options": [
+        "Asia",
+        "Africa",
+        "Australia"
+      ],
+      "expl": [
+        "The Gobi Desert is located in Asia, spanning parts of China and Mongolia. It is one of the largest deserts in the world. Unlike sandy deserts, it has mostly rock and hard-packed earth."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "Asia"
+        ],
+        "option_b": [
+          "Africa"
+        ],
+        "option_c": [
+          "Australia"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": ""
+    },
+    {
+      "id": "geography_B7_62",
+      "que": "What is the name of the smallest ocean?",
+      "ans": {
+        "value": "Arctic",
+        "correct_entity": "option_a"
+      },
+      "options": [
+        "Arctic",
+        "Indian",
+        "Southern"
+      ],
+      "expl": [
+        "The Arctic Ocean is the smallest ocean on Earth. It surrounds the North Pole and is mostly covered by ice. Despite its size, it is an important climate regulator."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "Arctic",
+          "artic"
+        ],
+        "option_b": [
+          "Indian"
+        ],
+        "option_c": [
+          "Southern"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": ""
+    },
+    {
+      "id": "geography_B7_63",
+      "que": "What is the capital of Indonesia?",
+      "ans": {
+        "value": "Jakarta",
+        "correct_entity": "option_a"
+      },
+      "options": [
+        "Jakarta",
+        "Bali",
+        "Bandung"
+      ],
+      "expl": [
+        "Jakarta is the capital and largest city of Indonesia. It is located on the island of Java. The city is a major center for government, business, and culture."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "Jakarta"
+        ],
+        "option_b": [
+          "Bali"
+        ],
+        "option_c": [
+          "Bandung"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": ""
+    },
+    {
+      "id": "geography_B7_64",
+      "que": "Which Middle Eastern country shares borders with both Oman and Saudi Arabia?",
+      "ans": {
+        "value": "Yemen",
+        "correct_entity": "option_a"
+      },
+      "options": [
+        "Yemen",
+        "Iraq",
+        "Iran"
+      ],
+      "expl": [
+        "Yemen is the Middle Eastern country that borders both Oman and Saudi Arabia. It lies at the southern end of the Arabian Peninsula. The country also has coastline along the Red Sea and the Arabian Sea."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "Yemen"
+        ],
+        "option_b": [
+          "Iraq"
+        ],
+        "option_c": [
+          "Iran"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": ""
+    }
+  ],
+  "IMAGE_QUESTIONS": [],
+  "AUDIO_QUESTIONS": []
+}

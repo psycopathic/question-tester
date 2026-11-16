@@ -1,0 +1,360 @@
+{
+  "TEXT_QUESTIONS": [
+    {
+      "id": "sports_B3_1",
+      "que": "Which country has dominated the sport of rugby union, winning the most Rugby World Cup titles?",
+      "ans": {
+        "value": "South Africa",
+        "correct_entity": "option_b"
+      },
+      "options": [
+        "England",
+        "South Africa",
+        "New Zealand"
+      ],
+      "expl": [
+        "South Africa's national rugby team, known as the All Blacks, has been the most successful in the history of the Rugby World Cup, winning the title a record four times."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "England"
+        ],
+        "option_b": [
+          "South Africa",
+          "africa"
+        ],
+        "option_c": [
+          "New Zealand"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": ""
+    },
+    {
+      "id": "sports_B3_2",
+      "que": "Which European city hosted two regular-season NFL games in 2013?",
+      "ans": {
+        "value": "London",
+        "correct_entity": "option_a"
+      },
+      "options": [
+        "London",
+        "Barcelona",
+        "Paris"
+      ],
+      "expl": [
+        "In 2013, the city of London hosted two regular-season NFL games as part of the league's initiative to expand its presence internationally. The games were played at Wembley Stadium and helped to showcase American football to a global audience."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "London"
+        ],
+        "option_b": [
+          "Barcelona"
+        ],
+        "option_c": [
+          "Paris"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": ""
+    },
+    {
+      "id": "sports_B3_3",
+      "que": "What is omitted from a typical triathlon to create a duathlon?",
+      "ans": {
+        "value": "Swimming",
+        "correct_entity": "option_a"
+      },
+      "options": [
+        "Swimming",
+        "Running",
+        "Cycling"
+      ],
+      "expl": [
+        "Duathlons are like triathlons but with only two legs: a run followed by a bike ride and ending with another run. It's a great option if you don't enjoy swimming and still want to compete in a multisport event. It's important to note that duathlons should not be confused with biathlons, which involve skiing and shooting in the Olympics."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "Swimming",
+          "swim"
+        ],
+        "option_b": [
+          "Running",
+          "run"
+        ],
+        "option_c": [
+          "Cycling",
+          "cycle"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": ""
+    },
+    {
+      "id": "sports_B3_4",
+      "que": "Which athlete holds the record for the most Olympic gold medals in track and field events?",
+      "ans": {
+        "value": "Usain Bolt",
+        "correct_entity": "option_a"
+      },
+      "options": [
+        "Usain Bolt",
+        "Carl Lewis",
+        "Jesse Owens"
+      ],
+      "expl": [
+        "Usain Bolt, the Jamaican sprinter, holds the record for the most Olympic gold medals in track and field events, with eight gold medals."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "Usain Bolt",
+          "usain",
+          "bolt"
+        ],
+        "option_b": [
+          "Carl Lewis",
+          "levis",
+          "lewis",
+          "carl"
+        ],
+        "option_c": [
+          "Jesse Owens",
+          "jesse",
+          "owens"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": ""
+    },
+    {
+      "id": "sports_B3_5",
+      "que": "How wide is an NFL football field?",
+      "ans": {
+        "value": "100",
+        "correct_entity": "option_b"
+      },
+      "options": [
+        "50",
+        "100",
+        "90"
+      ],
+      "expl": [
+        "An NFL football field is 100 yards wide, equivalent to 300 feet or 91.44 meters. It is marked with boundary lines and includes end zones at both ends."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "50",
+          "fifty",
+          "five zero"
+        ],
+        "option_b": [
+          "100",
+          "hundred",
+          "one hundred",
+          "one zero zero",
+          "one o. o."
+        ],
+        "option_c": [
+          "90",
+          "ninety",
+          "nine zero"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": ""
+    },
+    {
+      "id": "sports_B3_6",
+      "que": "Which baseball hero died in a plane crash on his way to deliver relief supplies to earthquake victims?",
+      "ans": {
+        "value": "Roberto Clemente",
+        "correct_entity": "option_b"
+      },
+      "options": [
+        "Mickey Mantle",
+        "Roberto Clemente",
+        "Sandy Koufax"
+      ],
+      "expl": [
+        "Roberto Clemente, a Puerto Rican baseball legend, played 18 seasons with the Pittsburgh Pirates. He won four N.L. batting titles and reached 3,000 hits. Known for his humanitarian work, he tragically died in a plane crash in 1972 while aiding earthquake survivors in Nicaragua. In 1973, he became the first posthumous Latino inductee into the Baseball Hall of Fame."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "Mickey Mantle",
+          "mantle",
+          "mickey"
+        ],
+        "option_b": [
+          "Roberto Clemente",
+          "clemente",
+          "roberto"
+        ],
+        "option_c": [
+          "Sandy Koufax",
+          "cough fax",
+          "sandy",
+          "koufax",
+          "sandy cough x.",
+          "cough x."
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": ""
+    },
+    {
+      "id": "sports_B3_7",
+      "que": "Which famous NFL player is Native American?",
+      "ans": {
+        "value": "Jim Thorpe",
+        "correct_entity": "option_c"
+      },
+      "options": [
+        "Tom Brady",
+        "Peyton Manning",
+        "Jim Thorpe"
+      ],
+      "expl": [
+        "Jim Thorpe, an iconic athlete, was a Native American and played in the NFL. He excelled in multiple sports and is known for his accomplishments in football, track and field, and professional baseball."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "Tom Brady",
+          "tom",
+          "brady"
+        ],
+        "option_b": [
+          "Peyton Manning",
+          "manning",
+          "peyton"
+        ],
+        "option_c": [
+          "Jim Thorpe",
+          "jim",
+          "thorpe"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": ""
+    },
+    {
+      "id": "sports_B3_8",
+      "que": "In which sport is the Triple Crown a prestigious achievement?",
+      "ans": {
+        "value": "Horse",
+        "correct_entity": "option_b"
+      },
+      "options": [
+        "Formula 1",
+        "Horse",
+        "Cycling"
+      ],
+      "expl": [
+        "The Triple Crown is a prestigious achievement in horse racing, consisting of winning three specific races: the Kentucky Derby, the Preakness Stakes, and the Belmont Stakes."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "Formula 1",
+          "formula one",
+          "one",
+          "formula"
+        ],
+        "option_b": [
+          "Horse",
+          "horses"
+        ],
+        "option_c": [
+          "Cycling",
+          "cycle"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": ""
+    },
+    {
+      "id": "sports_B3_9",
+      "que": "Who won the FIFA Women's World Cup in 2019?",
+      "ans": {
+        "value": "United States",
+        "correct_entity": "option_a"
+      },
+      "options": [
+        "United States",
+        "Germany",
+        "Brazil"
+      ],
+      "expl": [
+        "The United States national soccer team won the FIFA Women's World Cup in 2019, securing their fourth title."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "United States",
+          "u. s. a.",
+          "united states of america",
+          "u. s."
+        ],
+        "option_b": [
+          "Germany"
+        ],
+        "option_c": [
+          "Brazil"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": ""
+    },
+    {
+      "id": "sports_B3_10",
+      "que": "In which sport is the World Series played?",
+      "ans": {
+        "value": "Baseball",
+        "correct_entity": "option_b"
+      },
+      "options": [
+        "Soccer",
+        "Baseball",
+        "Basketball"
+      ],
+      "expl": [
+        "The World Series is a championship series in Major League Baseball (MLB), the professional baseball league in North America. It is played between the champions of the American League and the National League."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "Soccer"
+        ],
+        "option_b": [
+          "Baseball",
+          "base ball"
+        ],
+        "option_c": [
+          "Basketball",
+          "basket ball"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": ""
+    }
+  ],
+  "IMAGE_QUESTIONS": [],
+  "AUDIO_QUESTIONS": []
+}

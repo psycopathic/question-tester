@@ -1,0 +1,516 @@
+{
+  "TEXT_QUESTIONS": [
+    {
+      "id": "animal_B6_1",
+      "que": "Which mammal is thought to be at greatest risk of extinction from global warming?",
+      "ans": {
+        "value": "Polar bear",
+        "correct_entity": "option_a"
+      },
+      "options": [
+        "Polar bear",
+        "Elephant",
+        "Orangutan"
+      ],
+      "expl": [
+        "Polar bears heavily depend on sea ice for hunting seals, their primary food source. With the ongoing loss of Arctic sea ice due to global warming, polar bears face habitat loss, reduced access to food, and increased mortality, putting them at significant risk of extinction."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "Polar bear",
+          "bear"
+        ],
+        "option_b": [
+          "Elephant"
+        ],
+        "option_c": [
+          "Orangutan"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": ""
+    },
+    {
+      "id": "animal_B6_2",
+      "que": "Which animal can survive without sleeping for months at a time?",
+      "ans": {
+        "value": "Bullfrog",
+        "correct_entity": "option_c"
+      },
+      "options": [
+        "Koala",
+        "Owl",
+        "Bullfrog"
+      ],
+      "expl": [
+        "Scientists believe that nearly all animals require sleep, but bullfrogs are an exception. They can go for months without sleeping, although they rest and remain alert. Even during rest, they can respond to pain and show changes in respiration. However, bullfrogs do experience deep sleep during winter hibernation."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "Koala"
+        ],
+        "option_b": [
+          "Owl"
+        ],
+        "option_c": [
+          "Bullfrog",
+          "bull frog"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": ""
+    },
+    {
+      "id": "animal_B6_3",
+      "que": "Which animal features in the novel 'Black Beauty'?",
+      "ans": {
+        "value": "Horse",
+        "correct_entity": "option_c"
+      },
+      "options": [
+        "Dog",
+        "Cat",
+        "Horse"
+      ],
+      "expl": [
+        "The novel 'Black Beauty' features horses as the central animal. It tells the story of a horse named Black Beauty and highlights the mistreatment of horses in Victorian England."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "Dog"
+        ],
+        "option_b": [
+          "Cat"
+        ],
+        "option_c": [
+          "Horse"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": ""
+    },
+    {
+      "id": "animal_B6_4",
+      "que": "A pod is a group of which sea creatures?",
+      "ans": {
+        "value": "Dolphins",
+        "correct_entity": "option_a"
+      },
+      "options": [
+        "Dolphins",
+        "Sharks",
+        "Whales"
+      ],
+      "expl": [
+        "Dolphins form pods, social groups that help them thrive in their marine habitats. Pods provide protection, communication, and cooperation during travel, hunting, and finding food, thanks to the strong social bonds among dolphins."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "Dolphins",
+          "dolphin"
+        ],
+        "option_b": [
+          "Sharks"
+        ],
+        "option_c": [
+          "Whales"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": ""
+    },
+    {
+      "id": "animal_B6_5",
+      "que": "Which animals build nests called a drey?",
+      "ans": {
+        "value": "Squirrels",
+        "correct_entity": "option_a"
+      },
+      "options": [
+        "Squirrels",
+        "Birds",
+        "Beavers"
+      ],
+      "expl": [
+        "Squirrels build nests called dreys. Dreys are typically made of twigs, leaves, and other materials, providing shelter for squirrels and their young."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "Squirrels",
+          "squirrel"
+        ],
+        "option_b": [
+          "Birds",
+          "bird"
+        ],
+        "option_c": [
+          "Beavers",
+          "beaver"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": ""
+    },
+    {
+      "id": "animal_B6_6",
+      "que": "What does a camel store in its hump?",
+      "ans": {
+        "value": "Fat",
+        "correct_entity": "option_b"
+      },
+      "options": [
+        "Water",
+        "Fat",
+        "Food"
+      ],
+      "expl": [
+        "As commonly believed, a camel stores fat in its hump, not water. The hump provides a reserve of energy-rich fat that the camel can utilize when food and water are scarce."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "Water"
+        ],
+        "option_b": [
+          "Fat"
+        ],
+        "option_c": [
+          "Food"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": ""
+    },
+    {
+      "id": "animal_B6_7",
+      "que": "What breed of dog is Scooby-Doo?",
+      "ans": {
+        "value": "Great Dane",
+        "correct_entity": "option_b"
+      },
+      "options": [
+        "Golden Retriever",
+        "Great Dane",
+        "Border Collie"
+      ],
+      "expl": [
+        "Scooby-Doo, from the 1969 show \"Scooby-Doo, Where Are You?\", is a beloved Great Dane with human-like traits. With friends, he solves mysteries using the Mystery Machine van. Despite being fictional, his age surpasses real Great Danes' 8-10 year lifespan."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "Golden Retriever"
+        ],
+        "option_b": [
+          "Great Dane",
+          "dane"
+        ],
+        "option_c": [
+          "Border Collie",
+          "collie"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": ""
+    },
+    {
+      "id": "animal_B6_8",
+      "que": "The Bahamas are home to a beach inhabited by which animals?",
+      "ans": {
+        "value": "Pigs",
+        "correct_entity": "option_c"
+      },
+      "options": [
+        "Hippos",
+        "Goats",
+        "Pigs"
+      ],
+      "expl": [
+        "Pig Island, or Big Major Cay, is a stunning tropical getaway in the Bahamas' Exuma Cays. It's renowned for its extraordinary residents: a group of wild swimming pigs. Amidst turquoise waters and white beaches, visitors can enjoy a unique encounter as these sociable pigs swim out to greet them, accustomed to human interaction and treats."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "Hippos",
+          "hippo"
+        ],
+        "option_b": [
+          "Goats"
+        ],
+        "option_c": [
+          "Pigs"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": ""
+    },
+    {
+      "id": "animal_B6_9",
+      "que": "Which land animal has the largest teeth?",
+      "ans": {
+        "value": "Hippopotamus",
+        "correct_entity": "option_a"
+      },
+      "options": [
+        "Hippopotamus",
+        "Rhinoceros",
+        "Brown bear"
+      ],
+      "expl": [
+        "The Hippopotamus is a massive herbivore with a weight of up to 4.5 tons. Despite being plant-eaters, they possess a full set of diverse teeth, including large incisors and canines that can grow up to 1.2 to 1.5 feet in length."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "Hippopotamus",
+          "hippopo"
+        ],
+        "option_b": [
+          "Rhinoceros",
+          "rhino"
+        ],
+        "option_c": [
+          "Brown bear",
+          "bear"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": ""
+    },
+    {
+      "id": "animal_B6_10",
+      "que": "What is a group of fish called?",
+      "ans": {
+        "value": "Sardines",
+        "correct_entity": "option_c"
+      },
+      "options": [
+        "Tuna",
+        "Salmon",
+        "Sardines"
+      ],
+      "expl": [
+        "A group of sardines is called a school or shoal, terms used for small fish swimming closely together in a coordinated way. This schooling behavior helps sardines evade predators, as their synchronized movements can confuse or deter attackers. Such social behavior is vital for sardines and similar fish, relying on numbers and patterns to enhance safety in the open ocean."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "Tuna"
+        ],
+        "option_b": [
+          "Salmon"
+        ],
+        "option_c": [
+          "Sardines"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": ""
+    },
+    {
+      "id": "animal_B6_11",
+      "que": "What color are Dalmatian puppies when they are born?",
+      "ans": {
+        "value": "White",
+        "correct_entity": "option_c"
+      },
+      "options": [
+        "Black",
+        "Brown",
+        "White"
+      ],
+      "expl": [
+        "Dalmatian puppies are born completely white. Their distinctive black or liver spots develop as they grow older, usually within the first few weeks to months of life."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "Black"
+        ],
+        "option_b": [
+          "Brown"
+        ],
+        "option_c": [
+          "White"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": ""
+    },
+    {
+      "id": "animal_B6_12",
+      "que": "Which bird has the unique habit of turning its head upside down to feed?",
+      "ans": {
+        "value": "Flamingo",
+        "correct_entity": "option_c"
+      },
+      "options": [
+        "Hummingbird",
+        "Pelican",
+        "Flamingo"
+      ],
+      "expl": [
+        "The flamingo is well-known for its habit of eating with its head upside-down. This behavior is largely due to the structure of its mouth and the logistics of lowering its long, graceful neck into the water. This behavior allows flamingos to feed effectively in their natural habitat, but it has ramifications in other aspects of their lives."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "Hummingbird",
+          "humming bird"
+        ],
+        "option_b": [
+          "Pelican"
+        ],
+        "option_c": [
+          "Flamingo"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": ""
+    },
+    {
+      "id": "animal_B6_13",
+      "que": "What animal produces its sun tan lotion?",
+      "ans": {
+        "value": "Hippopotamus",
+        "correct_entity": "option_c"
+      },
+      "options": [
+        "Dolphin",
+        "Elephant",
+        "Hippopotamus"
+      ],
+      "expl": [
+        "The mucus secretion on a hippo's body not only helps control their body temperature, but also acts as a potent sunscreen and antibiotic. The thick and sticky mixture is tough enough to survive the hippos' daylong soaks as it continues to protect against sunlight in both the ultraviolet and visible range."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "Dolphin"
+        ],
+        "option_b": [
+          "Elephant"
+        ],
+        "option_c": [
+          "Hippopotamus",
+          "hippopo"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": ""
+    },
+    {
+      "id": "animal_B6_14",
+      "que": "Which organ do fish NOT have?",
+      "ans": {
+        "value": "Lungs",
+        "correct_entity": "option_c"
+      },
+      "options": [
+        "Heart",
+        "Liver",
+        "Lungs"
+      ],
+      "expl": [
+        "Fish do not possess lungs as their respiratory system. Instead, they rely on gills to extract oxygen from water. While mammals, including humans, have lungs to breathe air, fish have evolved gills to facilitate respiration underwater. This adaptation enables them to extract dissolved oxygen from water and thrive in their aquatic habitats."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "Heart"
+        ],
+        "option_b": [
+          "Liver"
+        ],
+        "option_c": [
+          "Lungs"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": ""
+    },
+    {
+      "id": "animal_B6_15",
+      "que": "Which bird lays distinctly blue eggs?",
+      "ans": {
+        "value": "Robin",
+        "correct_entity": "option_a"
+      },
+      "options": [
+        "Robin",
+        "Nightingale",
+        "Swallow"
+      ],
+      "expl": [
+        "The bird that lays distinctly blue eggs is the American Robin (Turdus migratorius). Its eggs are known for their beautiful turquoise color, standing out against the typical white or speckled eggs of other bird species. This unique trait helps the robin's eggs blend with the sky, providing camouflage and protection from predators."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "Robin"
+        ],
+        "option_b": [
+          "Nightingale"
+        ],
+        "option_c": [
+          "Swallow"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": ""
+    },
+    {
+      "id": "animal_B6_16",
+      "que": "A bind is a group of what type of fish?",
+      "ans": {
+        "value": "Salmon",
+        "correct_entity": "option_b"
+      },
+      "options": [
+        "Tuna",
+        "Salmon",
+        "Sardines"
+      ],
+      "expl": [
+        "This term is one of many unique collective nouns used to describe groups of animals. Salmon often travel in groups during migration and spawning, gathering together for greater protection and to increase their chances of successful reproduction. Group names like \"bind\" help to capture this social behavior, distinguishing salmon from other fish species with different group terms."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "Tuna"
+        ],
+        "option_b": [
+          "Salmon"
+        ],
+        "option_c": [
+          "Sardines"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": ""
+    }
+  ],
+  "IMAGE_QUESTIONS": [],
+  "AUDIO_QUESTIONS": []
+}

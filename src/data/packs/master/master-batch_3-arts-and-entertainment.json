@@ -1,0 +1,946 @@
+{
+  "TEXT_QUESTIONS": [
+    {
+      "id": "arts-and-entertainment_B3_20",
+      "que": "Which Disney movie features a young deer who loses his mother in a forest fire?",
+      "ans": {
+        "value": "Bambi",
+        "correct_entity": "option_b"
+      },
+      "options": [
+        "The Lion King",
+        "Bambi",
+        "Dumbo"
+      ],
+      "expl": [],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "The Lion King",
+          "lion king"
+        ],
+        "option_b": [
+          "Bambi"
+        ],
+        "option_c": [
+          "Dumbo"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": ""
+    },
+    {
+      "id": "arts-and-entertainment_B3_1",
+      "que": "Who is the lead vocalist of the band Coldplay?",
+      "ans": {
+        "value": "Chris Martin",
+        "correct_entity": "option_b"
+      },
+      "options": [
+        "Dave Grohl",
+        "Chris Martin",
+        "Thom Yorke"
+      ],
+      "expl": [
+        "Chris Martin is the lead vocalist of the British band Coldplay, known for hits such as \"Yellow\" and \"Viva la Vida.\""
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "Dave Grohl",
+          "grohl",
+          "dave"
+        ],
+        "option_b": [
+          "Chris Martin",
+          "martin",
+          "chris"
+        ],
+        "option_c": [
+          "Thom Yorke",
+          "thom",
+          "yorke",
+          "tommy york",
+          "thom york"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": ""
+    },
+    {
+      "id": "arts-and-entertainment_B3_2",
+      "que": "What is James Bond's preferred type of martini?",
+      "ans": {
+        "value": "Vesper",
+        "correct_entity": "option_c"
+      },
+      "options": [
+        "Gibson",
+        "Wet",
+        "Vesper"
+      ],
+      "expl": [
+        "Author Ian Fleming created the Vesper Martini for James Bond, featured in his novel Casino Royale in 1953. Named after the character Vesper Lynd, Bond's love interest, the cocktail is made with precise instructions. It has gained recognition as an official cocktail by the International Bartender Association."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "Gibson"
+        ],
+        "option_b": [
+          "Wet",
+          "wait"
+        ],
+        "option_c": [
+          "Vesper"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": ""
+    },
+    {
+      "id": "arts-and-entertainment_B3_3",
+      "que": "Which actor is a devout Buddhist who has studied with the Dalai Lama?",
+      "ans": {
+        "value": "Richard Gere",
+        "correct_entity": "option_c"
+      },
+      "options": [
+        "Johnny Depp",
+        "Tom Cruise",
+        "Richard Gere"
+      ],
+      "expl": [
+        "Richard Gere, a famous actor, starred in films such as An Officer and A Gentleman, Pretty Woman, and Chicago. Besides acting, he is actively engaged in social and political activism. Gere co-founded Tibet House in 1987 and has chaired the International Campaign for Tibet board since 1995. He established the Gere Foundation to support human rights in Tibet and is a strong advocate for the Dalai Lama."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "Johnny Depp",
+          "johnny",
+          "depp",
+          "johny"
+        ],
+        "option_b": [
+          "Tom Cruise",
+          "tom",
+          "cruise"
+        ],
+        "option_c": [
+          "Richard Gere",
+          "gere"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": ""
+    },
+    {
+      "id": "arts-and-entertainment_B3_4",
+      "que": "Who was the first athlete to appear on a Wheaties cereal box?",
+      "ans": {
+        "value": "Lou Gehrig",
+        "correct_entity": "option_c"
+      },
+      "options": [
+        "Babe Ruth",
+        "Bruce Jenner",
+        "Lou Gehrig"
+      ],
+      "expl": [
+        "Wheaties gained fame featuring athletes on their cereal boxes. In 1934, the Yankee's first baseman, Lou Gehrig, appeared on the back with the slogan \"Breakfast of Champions.\" This tradition started with Gehrig and later shifted to the front, starting with Olympic pole vaulter Bob Richards."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "Babe Ruth",
+          "ruth",
+          "babe"
+        ],
+        "option_b": [
+          "Bruce Jenner",
+          "jenner",
+          "bruce"
+        ],
+        "option_c": [
+          "Lou Gehrig",
+          "lou",
+          "gehrig",
+          "louie geregri"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": ""
+    },
+    {
+      "id": "arts-and-entertainment_B3_5",
+      "que": "\"Animal Farm\" is a novel by which author?",
+      "ans": {
+        "value": "George Orwell",
+        "correct_entity": "option_a"
+      },
+      "options": [
+        "George Orwell",
+        "Mark Twain",
+        "J. R. R. Tolkien"
+      ],
+      "expl": [
+        "Animal Farm' is a novel written by George Orwell. Published in 1945, it is a satirical allegory that uses animals on a farm to depict the events leading up to the Russian Revolution and the early years of the Soviet Union. The novel explores themes of political corruption, power dynamics, and the dangers of totalitarianism."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "George Orwell",
+          "orwell",
+          "george"
+        ],
+        "option_b": [
+          "Mark Twain",
+          "twain",
+          "samuel clemens",
+          "mark",
+          "fyodor",
+          "dostoevsky"
+        ],
+        "option_c": [
+          "J. R. R. Tolkien",
+          "j. r. r.",
+          "j r r tolkien",
+          "tolkien"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": ""
+    },
+    {
+      "id": "arts-and-entertainment_B3_6",
+      "que": "Darren Sugg created which famous video game?",
+      "ans": {
+        "value": "Fortnite",
+        "correct_entity": "option_a"
+      },
+      "options": [
+        "Fortnite",
+        "Minecraft",
+        "Call of Duty"
+      ],
+      "expl": [
+        "Darren Sugg, also known as Darren \"Daz\" Sugg, was the creative director of Epic Games and played a vital role in developing the popular video game Fortnite."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "Fortnite",
+          "fort night",
+          "fort knight"
+        ],
+        "option_b": [
+          "Minecraft",
+          "mine craft"
+        ],
+        "option_c": [
+          "Call of Duty"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": ""
+    },
+    {
+      "id": "arts-and-entertainment_B3_7",
+      "que": "Who hosted the popular show \"Inside the Actors Studio\" for 22 years?",
+      "ans": {
+        "value": "James Lipton",
+        "correct_entity": "option_b"
+      },
+      "options": [
+        "Ron Howard",
+        "James Lipton",
+        "Rob Reiner"
+      ],
+      "expl": [
+        "James Lipton produced, wrote, and hosted Inside the Actors Studio starting in 1994. He interviewed accomplished figures in the industry for 22 seasons until September 2018, when he retired. The show had different hosts after 2019. Lipton died from bladder cancer at age 93 on March 2, 2020, at his Manhattan residence."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "Ron Howard",
+          "howard",
+          "ho word"
+        ],
+        "option_b": [
+          "James Lipton",
+          "lipton",
+          "james"
+        ],
+        "option_c": [
+          "Rob Reiner",
+          "reiner",
+          "rob"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": ""
+    },
+    {
+      "id": "arts-and-entertainment_B3_8",
+      "que": "Which Beatles song contains the lyrics, \"One thing I can tell you is you got to be free\"?",
+      "ans": {
+        "value": "Come Together",
+        "correct_entity": "option_a"
+      },
+      "options": [
+        "Come Together",
+        "Let It Be",
+        "Get Back"
+      ],
+      "expl": [
+        "\"Come Together\" is a Beatles song penned mainly by John Lennon. Initially intended as a campaign slogan for Timothy Leary's run for governor of California, the slogan was abandoned when Leary faced legal troubles. Lennon repurposed the lyrics to create the song, which ultimately became the final collaborative effort of all four Beatles."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "Come Together",
+          "come",
+          "together"
+        ],
+        "option_b": [
+          "Let It Be",
+          "let",
+          "it",
+          "be"
+        ],
+        "option_c": [
+          "Get Back",
+          "get",
+          "back"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": ""
+    },
+    {
+      "id": "arts-and-entertainment_B3_9",
+      "que": "Which dancing figure became the first viral meme on the internet?",
+      "ans": {
+        "value": "Baby",
+        "correct_entity": "option_b"
+      },
+      "options": [
+        "Banana",
+        "Baby",
+        "Hot dog"
+      ],
+      "expl": [
+        "The \"Dancing Baby,\" or \"Baby Cha-Cha,\" was a popular 3D rendering of a dancing baby in a diaper that became the first viral internet meme in 1996. Created by John Woodell, a web developer, it gained worldwide fame through forwarded emails. The meme later appeared on the T.V. show Ally McBeal in 1998."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "Banana"
+        ],
+        "option_b": [
+          "Baby"
+        ],
+        "option_c": [
+          "Hot dog",
+          "hot",
+          "dog"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": ""
+    },
+    {
+      "id": "arts-and-entertainment_B3_10",
+      "que": "James and Lily are the parents of which fictional character?",
+      "ans": {
+        "value": "Harry Potter",
+        "correct_entity": "option_a"
+      },
+      "options": [
+        "Harry Potter",
+        "Frodo Baggins",
+        "Luke Skywalker"
+      ],
+      "expl": [
+        "James and Lily are the parents of the fictional character Harry Potter. Harry Potter is the protagonist of J.K. Rowling's popular fantasy series, known for his adventures as a young wizard."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "Harry Potter",
+          "potter",
+          "harry"
+        ],
+        "option_b": [
+          "Frodo Baggins",
+          "baggins",
+          "frodo"
+        ],
+        "option_c": [
+          "Luke Skywalker",
+          "sky walker",
+          "skywalker",
+          "luke sky walker",
+          "luke sky",
+          "walker"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": ""
+    },
+    {
+      "id": "arts-and-entertainment_B3_11",
+      "que": "Who is the artist behind the famous \"Dogs Playing Poker\" painting?",
+      "ans": {
+        "value": "C. M. Coolidge",
+        "correct_entity": "option_b"
+      },
+      "options": [
+        "Grant Wood",
+        "C. M. Coolidge",
+        "Andy Warhol"
+      ],
+      "expl": [
+        "\"Dogs Playing Poker\" is a famous collection of paintings by Cassius Marcellus Coolidge, commissioned by Brown and Bigelow in 1903 to promote cigars. The series includes an 1894 painting, sixteen oil paintings, and a 1910 painting. Depicting dogs playing poker, these artworks have become popular Kitsch art in the U.S. Coolidge is known as \"the most famous American artist you've never heard of.\""
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "Grant Wood",
+          "wood",
+          "grant"
+        ],
+        "option_b": [
+          "C. M. Coolidge",
+          "coolidge"
+        ],
+        "option_c": [
+          "Andy Warhol",
+          "warhol"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": ""
+    },
+    {
+      "id": "arts-and-entertainment_B3_12",
+      "que": "Which 1984 film was the first to be released in the United States with a \"PG-13\" rating?",
+      "ans": {
+        "value": "Red Dawn",
+        "correct_entity": "option_a"
+      },
+      "options": [
+        "Red Dawn",
+        "Ghostbusters",
+        "Beverly Hills Cop"
+      ],
+      "expl": [
+        "On July 1, 1984, the MPAA introduced the PG-13 rating, indicating that a film's content may be unsuitable for children under 13 due to strong language, non-explicit nudity, mild violence, or mild drug content. On August 10, 1984, Red Dawn became the first U.S. film with a PG-13 rating, starring Patrick Swayze and Charlie Sheen."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "Red Dawn",
+          "dawn",
+          "red"
+        ],
+        "option_b": [
+          "Ghostbusters",
+          "ghost busters",
+          "ghost buster",
+          "ghost",
+          "busters"
+        ],
+        "option_c": [
+          "Beverly Hills Cop",
+          "cop",
+          "hills",
+          "beverly",
+          "hills cop"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": ""
+    },
+    {
+      "id": "arts-and-entertainment_B3_13",
+      "que": "\"And Then There Were None\" is what author's best-selling novel, with over 100 million copies sold?",
+      "ans": {
+        "value": "Agatha Christie",
+        "correct_entity": "option_a"
+      },
+      "options": [
+        "Agatha Christie",
+        "Barbara Cartland",
+        "Danielle Steel"
+      ],
+      "expl": [
+        "Agatha Christie, outsold only by the Bible and Shakespeare, is the most widely published author. Her books have sold over a billion copies in English and another billion in various languages. \"And Then There Were None\" is her bestselling novel, with over 100 million copies sold, making her the best-selling mystery writer of all time. It ranks sixth on Publications International's best-selling title list."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "Agatha Christie",
+          "christie",
+          "agatha"
+        ],
+        "option_b": [
+          "Barbara Cartland",
+          "cartland",
+          "barbara"
+        ],
+        "option_c": [
+          "Danielle Steel",
+          "steel"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": ""
+    },
+    {
+      "id": "arts-and-entertainment_B3_14",
+      "que": "Which social media platform faced scrutiny and controversies regarding its handling of user data in 2021?",
+      "ans": {
+        "value": "Facebook",
+        "correct_entity": "option_a"
+      },
+      "options": [
+        "Facebook",
+        "Twitter",
+        "Instagram"
+      ],
+      "expl": [
+        "Facebook faced significant scrutiny and controversies in 2021 due to its handling of user data, privacy concerns, and allegations of misinformation spread on its platform."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "Facebook"
+        ],
+        "option_b": [
+          "Twitter",
+          "tweet out"
+        ],
+        "option_c": [
+          "Instagram",
+          "tweet out"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": ""
+    },
+    {
+      "id": "arts-and-entertainment_B3_15",
+      "que": "Which social media platform introduced the \"Fleets\" feature, allowing disappearing posts, in 2020?",
+      "ans": {
+        "value": "Twitter",
+        "correct_entity": "option_c"
+      },
+      "options": [
+        "Instagram",
+        "Snapchat",
+        "Twitter"
+      ],
+      "expl": [
+        "Twitter introduced the \"Fleets\" feature in 2020, enabling users to share disappearing posts similar to stories on other platforms."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "Instagram"
+        ],
+        "option_b": [
+          "Snapchat",
+          "snap chat"
+        ],
+        "option_c": [
+          "Twitter"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": ""
+    },
+    {
+      "id": "arts-and-entertainment_B3_16",
+      "que": "Which judge presided over the reality television show The People's Court for twelve seasons?",
+      "ans": {
+        "value": "Wapner",
+        "correct_entity": "option_a"
+      },
+      "options": [
+        "Wapner",
+        "Dredd",
+        "Judy"
+      ],
+      "expl": [
+        "Retired Judge Joseph Wapner became well-known as the first presiding judge on The People's Court. He served 12 seasons (1981-1993) and pioneered arbitration-based reality court shows. Judge Wapner's popularity exceeded that of the U.S. chief justice, with 54% of Americans recognizing him compared to 9% for William H. Rehnquist."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "Wapner"
+        ],
+        "option_b": [
+          "Dredd",
+          "dead"
+        ],
+        "option_c": [
+          "Judy"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": ""
+    },
+    {
+      "id": "arts-and-entertainment_B3_17",
+      "que": "Which iconic American film is often considered the greatest movie of all time?",
+      "ans": {
+        "value": "Citizen Kane",
+        "correct_entity": "option_a"
+      },
+      "options": [
+        "Citizen Kane",
+        "Gone with the Wind",
+        "The Godfather"
+      ],
+      "expl": [
+        "Citizen Kane, directed by Orson Welles in 1941, is often hailed as one of the greatest movies ever made. It's innovative storytelling techniques and deep exploration of the human condition have cemented its status as a masterpiece in American cinema."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "Citizen Kane",
+          "kane"
+        ],
+        "option_b": [
+          "Gone with the Wind",
+          "gone with wind",
+          "with the wind",
+          "gone with",
+          "with",
+          "wind",
+          "gone",
+          "gone with the"
+        ],
+        "option_c": [
+          "The Godfather",
+          "god father",
+          "godfather"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": ""
+    },
+    {
+      "id": "arts-and-entertainment_B3_18",
+      "que": "What is the name of Woody and Buzz's owner in the first 'Toy Story' films?",
+      "ans": {
+        "value": "Andy",
+        "correct_entity": "option_a"
+      },
+      "options": [
+        "Andy",
+        "Billy",
+        "Tommy"
+      ],
+      "expl": [
+        "Andy is the owner of Woody and Buzz in the first 'Toy Story' films. Andy Davis is a young boy who forms a bond with his toys and embarks on various adventures with them."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "Andy"
+        ],
+        "option_b": [
+          "Billy"
+        ],
+        "option_c": [
+          "Tommy"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": ""
+    },
+    {
+      "id": "arts-and-entertainment_B3_19",
+      "que": "Louis Armstrong and Miles Davis were famous for which style of music?",
+      "ans": {
+        "value": "Jazz",
+        "correct_entity": "option_a"
+      },
+      "options": [
+        "Jazz",
+        "Rock",
+        "Classical"
+      ],
+      "expl": [
+        "Louis Armstrong and Miles Davis were renowned musicians in the genre of jazz, known for their contributions to its development and popularization. Jazz is a genre of music characterized by improvisation, syncopation, and distinctive rhythms."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "Jazz"
+        ],
+        "option_b": [
+          "Rock",
+          "Rocks"
+        ],
+        "option_c": [
+          "Classical"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": ""
+    },
+    {
+      "id": "arts-and-entertainment_B3_21",
+      "que": "Which movie coined the phrase, \"Wax on, wax off\"?",
+      "ans": {
+        "value": "The Karate Kid",
+        "correct_entity": "option_b"
+      },
+      "options": [
+        "Car Wash",
+        "The Karate Kid",
+        "Surf's Up"
+      ],
+      "expl": [
+        "In the 1984 film The Karate Kid, Mr. Miyagi, played by Pat Morita, speaks this memorable phrase. He instructs Daniel, played by Ralph Macchio, to wash and wax his cars using circular motions with both hands. Mr. Miyagi's repetition of \"Wax on, wax off\" is more than just a chore; it teaches karate fundamentals through muscle memory."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "Car Wash",
+          "car",
+          "wash"
+        ],
+        "option_b": [
+          "The Karate Kid",
+          "karate kid",
+          "karate",
+          "kid"
+        ],
+        "option_c": [
+          "Surf's Up",
+          "surf",
+          "surfs up",
+          "surf up"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": ""
+    },
+    {
+      "id": "arts-and-entertainment_B3_22",
+      "que": "What is the name of Han Solo's spaceship in the \"Star Wars\" films?",
+      "ans": {
+        "value": "Millennium Falcon",
+        "correct_entity": "option_c"
+      },
+      "options": [
+        "Death Star",
+        "USS Enterprise",
+        "Millennium Falcon"
+      ],
+      "expl": [
+        "May 4th with fellow Star Wars fans as we honor the iconic catchphrase, \"May the force be with you.\" Today, let's focus on the renowned starship, the Millennium Falcon, led by Han Solo (Harrison Ford) and his Wookiee companion, Chewbacca. As a blazingly fast vessel, the Millennium Falcon has been instrumental in the triumphs of the Rebel Alliance and the New Republic."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "Death Star"
+        ],
+        "option_b": [
+          "USS Enterprise",
+          "u. s. s. enterprise",
+          "u. s. s.",
+          "enterprise",
+          "uss",
+          "u.s.s."
+        ],
+        "option_c": [
+          "Millennium Falcon",
+          "falcon",
+          "millennium"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": ""
+    },
+    {
+      "id": "arts-and-entertainment_B3_23",
+      "que": "Who is the lead vocalist of the rock band Queen?",
+      "ans": {
+        "value": "Freddie Mercury",
+        "correct_entity": "option_a"
+      },
+      "options": [
+        "Freddie Mercury",
+        "Mick Jagger",
+        "Robert Plant"
+      ],
+      "expl": [
+        "Freddie Mercury was the lead vocalist of the rock band Queen, known for his powerful voice and iconic stage presence."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "Freddie Mercury",
+          "freddie",
+          "mercury"
+        ],
+        "option_b": [
+          "Mick Jagger",
+          "mick",
+          "jagger"
+        ],
+        "option_c": [
+          "Robert Plant",
+          "plant"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": ""
+    },
+    {
+      "id": "arts-and-entertainment_B3_24",
+      "que": "Who starred in the film - Breakfast at Tiffany's?",
+      "ans": {
+        "value": "Audrey Hepburn",
+        "correct_entity": "option_c"
+      },
+      "options": [
+        "Bette Davis",
+        "Marilyn Monroe",
+        "Audrey Hepburn"
+      ],
+      "expl": [
+        "The 1961 rom-com Breakfast at Tiffany's, based on Truman Capote's novella, stars Audrey Hepburn as Holly Golightly, a New York socialite who falls for a struggling writer. It became a hit and made Hepburn's sunglasses and black dress iconic. The film won two Academy Awards for Best Original Score and Best Original Song (\"Moon River\"). Hepburn's portrayal of Holly Golightly is one of her most famous roles."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "Bette Davis",
+          "bette",
+          "davis"
+        ],
+        "option_b": [
+          "Marilyn Monroe",
+          "marilyn",
+          "monroe",
+          "mon row"
+        ],
+        "option_c": [
+          "Audrey Hepburn",
+          "audrey",
+          "hepburn",
+          "burn"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": ""
+    },
+    {
+      "id": "arts-and-entertainment_B3_25",
+      "que": "Pop star Taylor Swift was named after which famous Taylor?",
+      "ans": {
+        "value": "James Taylor",
+        "correct_entity": "option_b"
+      },
+      "options": [
+        "Zachary Taylor",
+        "James Taylor",
+        "Taylor Dayne"
+      ],
+      "expl": [
+        "Taylor Alison Swift, born on December 13, 1989, grew up on a Christmas tree farm in Reading, Pennsylvania. Raised by music-loving parents, Andrea and Scott Swift, she was named after the renowned singer-songwriter James Taylor, a six-time Grammy Award winner known for hits like \"Fire And Rain,\" \"You've Got a Friend,\" \"Shower the People,\" and \"Carolina In My Mind.\""
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "Zachary Taylor",
+          "zachary"
+        ],
+        "option_b": [
+          "James Taylor"
+        ],
+        "option_c": [
+          "Taylor Dayne",
+          "dayne"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": ""
+    },
+    {
+      "id": "arts-and-entertainment_B3_26",
+      "que": "Which Oscar-winning actor is the father of a daughter who has also won an Oscar?",
+      "ans": {
+        "value": "Jon Voight",
+        "correct_entity": "option_b"
+      },
+      "options": [
+        "Robert Duvall",
+        "Jon Voight",
+        "Michael Caine"
+      ],
+      "expl": [
+        "Jon Voight, who received an Academy Award for his leading role in Coming Home (1978), is the father of Angelina Jolie. Jolie, an Academy Award winner for Best Supporting Actress in Girl, Interrupted (1999), has had a strained relationship with her father since he left the family when she was a baby."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "Robert Duvall",
+          "duvall",
+          "robert",
+          "robot"
+        ],
+        "option_b": [
+          "Jon Voight",
+          "voight",
+          "jon",
+          "joan",
+          "john",
+          "john white",
+          "john waite"
+        ],
+        "option_c": [
+          "Michael Caine",
+          "michael",
+          "caine",
+          "ken"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": ""
+    }
+  ],
+  "IMAGE_QUESTIONS": [],
+  "AUDIO_QUESTIONS": []
+}

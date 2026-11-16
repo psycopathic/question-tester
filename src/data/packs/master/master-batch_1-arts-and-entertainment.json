@@ -1,0 +1,1569 @@
+{
+  "TEXT_QUESTIONS": [
+    {
+      "id": "arts-and-entertainment_B1_1",
+      "que": "What is the last letter of the Greek alphabet?",
+      "ans": {
+        "value": "Omega",
+        "correct_entity": "option_b"
+      },
+      "options": [
+        "Alpha",
+        "Omega",
+        "Epsilon"
+      ],
+      "expl": [
+        "In the Greek alphabet, Alpha is the first letter, and Omega is the last letter. This is different from the Latin alphabet, where a and z are the first and last letters, respectively."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "Alpha",
+          "alfa"
+        ],
+        "option_b": [
+          "Omega",
+          "omeg"
+        ],
+        "option_c": [
+          "Epsilon",
+          "ipsilon"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": ""
+    },
+    {
+      "id": "arts-and-entertainment_B1_2",
+      "que": "What flowers appear in one of Vincent Van Goghs most famous paintings?",
+      "ans": {
+        "value": "Sunflowers",
+        "correct_entity": "option_b"
+      },
+      "options": [
+        "Tulips",
+        "Sunflowers",
+        "Daisies"
+      ],
+      "expl": [
+        "Sunflowers appear in one of Vincent Van Gogh's most famous paintings, titled \"Sunflowers.\" The painting features a vase of twelve sunflowers arranged in a vase and is known for its vibrant colors and textured brushstrokes."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "Tulips",
+          "tulip"
+        ],
+        "option_b": [
+          "Sunflowers",
+          "sunflower",
+          "sun flower"
+        ],
+        "option_c": [
+          "Daisies",
+          "Daisy"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": ""
+    },
+    {
+      "id": "arts-and-entertainment_B1_3",
+      "que": "What amusement park was home to America's first roller coaster?",
+      "ans": {
+        "value": "Coney Island",
+        "correct_entity": "option_a"
+      },
+      "options": [
+        "Coney Island",
+        "Cedar Point",
+        "Disney World"
+      ],
+      "expl": [
+        "Americas first roller coaster the Switchback Railway opened in Coney Island in 1884 for a nickel per ride. It moved 6 miles per hour and became popular. Though it no longer runs visitors can still ride the Cyclone a wooden coaster built in 1927 reaching 60 miles per hour."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "Coney Island",
+          "Coney",
+          "Island"
+        ],
+        "option_b": [
+          "Cedar Point",
+          "Cedar",
+          "Point"
+        ],
+        "option_c": [
+          "Disney World",
+          "Disney",
+          "World"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": ""
+    },
+    {
+      "id": "arts-and-entertainment_B1_4",
+      "que": "The Halloween treat \"Candy Corn\" was originally sold under which name?",
+      "ans": {
+        "value": "Chicken Feed",
+        "correct_entity": "option_b"
+      },
+      "options": [
+        "Turkey Teeth",
+        "Chicken Feed",
+        "Candy Ears"
+      ],
+      "expl": [
+        "Candy corn is a Halloween treat that was originally linked to chickens. Made by the Goelitz Confectionery Company it was called Chicken Feed and designed to look like actual chicken feed. Marketed to farm workers it featured a rooster logo and the slogan Something worth crowing for."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "Turkey Teeth",
+          "Turkey",
+          "Teeth",
+          "tooth"
+        ],
+        "option_b": [
+          "Chicken Feed",
+          "Chicken",
+          "Feed"
+        ],
+        "option_c": [
+          "Candy Ears",
+          "Candy Ear",
+          "Candy",
+          "Ear",
+          "ears"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": ""
+    },
+    {
+      "id": "arts-and-entertainment_B1_5",
+      "que": "In The Jungle Book, what kind of animal is Baloo?",
+      "ans": {
+        "value": "Bear",
+        "correct_entity": "option_a"
+      },
+      "options": [
+        "Bear",
+        "Lion",
+        "Monkey"
+      ],
+      "expl": [
+        "The Jungle Book, authored by Rudyard Kipling in 1894, is a set of tales featuring Mowgli and his animal allies. One such ally, a brown bear named Baloo, is known for his sleepiness, kindness, and generosity towards Mowgli as he educates him about the jungle."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "Bear",
+          "beer"
+        ],
+        "option_b": [
+          "Lion",
+          "lions"
+        ],
+        "option_c": [
+          "Monkey",
+          "The",
+          "Monk",
+          "monkeys"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": ""
+    },
+    {
+      "id": "arts-and-entertainment_B1_6",
+      "que": "If you add the opposite sides of a dice, what number do you get?",
+      "ans": {
+        "value": "Seven",
+        "correct_entity": "option_c"
+      },
+      "options": [
+        "Six",
+        "Eight",
+        "Seven"
+      ],
+      "expl": [
+        "If you add the opposite sides of a standard 6-sided dice, you will get 7. For example, adding 1 and 6, 2 and 5, or 3 and 4 will all give you 7."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "Six",
+          "6"
+        ],
+        "option_b": [
+          "Eight",
+          "8"
+        ],
+        "option_c": [
+          "Seven",
+          "sevens"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": ""
+    },
+    {
+      "id": "arts-and-entertainment_B1_7",
+      "que": "Which actor was originally cast as Indiana Jones?",
+      "ans": {
+        "value": "Tom Selleck",
+        "correct_entity": "option_a"
+      },
+      "options": [
+        "Tom Selleck",
+        "Mel Gibson",
+        "Kevin Costner"
+      ],
+      "expl": [
+        "Tom Selleck missed the lead role in Raiders of the Lost Ark due to his contract with the TV show Magnum P I which later became a hit and won him an Emmy. Still its success was eclipsed by the huge box office run of the Indiana Jones films starring Harrison Ford who George Lucas felt was perfect for the role."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "Tom Selleck",
+          "Tom",
+          "Selleck",
+          "sale",
+          "sell",
+          "tom sale"
+        ],
+        "option_b": [
+          "Mel Gibson",
+          "Mel",
+          "Gibson"
+        ],
+        "option_c": [
+          "Kevin Costner",
+          "Kevin",
+          "Costner"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": ""
+    },
+    {
+      "id": "arts-and-entertainment_B1_8",
+      "que": "Which Las Vegas hotel features a replica of the Rialto Bridge?",
+      "ans": {
+        "value": "The Venetian",
+        "correct_entity": "option_c"
+      },
+      "options": [
+        "Luxor",
+        "Bellagio",
+        "The Venetian"
+      ],
+      "expl": [
+        "The Venetian Las Vegas is a luxury hotel and casino on the Las Vegas Strip inspired by Venice Italy. It features replicas of famous Venetian landmarks including the Rialto Bridge, the oldest of four spanning Venices Grand Canal, popular with tourists in both Venice and the hotel."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "Luxor",
+          "luxar"
+        ],
+        "option_b": [
+          "Bellagio",
+          "bella",
+          "bellagiyo"
+        ],
+        "option_c": [
+          "The Venetian",
+          "Venetian",
+          "venetan",
+          "venetians",
+          "beneton"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": ""
+    },
+    {
+      "id": "arts-and-entertainment_B1_9",
+      "que": "Who was Jay Leno's first and last guest on \"The Tonight Show\"?",
+      "ans": {
+        "value": "Billy Crystal",
+        "correct_entity": "option_a"
+      },
+      "options": [
+        "Billy Crystal",
+        "Jerry Seinfeld",
+        "Bette Midler"
+      ],
+      "expl": [
+        "Billy Crystal appeared on Jay Lenos debut as host of NBCs The Tonight Show in 1992. Leno promised Crystal he would be his final guest, and twenty two years later on February 6, 2014, Crystal returned for Lenos final show, ending with Leno bidding the audience farewell using Johnny Carsons famous line."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "Billy Crystal",
+          "Billy",
+          "Crystal",
+          "bill"
+        ],
+        "option_b": [
+          "Jerry Seinfeld",
+          "Jerry",
+          "Seinfeld",
+          "jery",
+          "seenfeild"
+        ],
+        "option_c": [
+          "Bette Midler",
+          "Bette",
+          "Midler",
+          "bet",
+          "betie"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": ""
+    },
+    {
+      "id": "arts-and-entertainment_B1_10",
+      "que": "What was the original name of Pac-Man?",
+      "ans": {
+        "value": "Puck-Man",
+        "correct_entity": "option_b"
+      },
+      "options": [
+        "Pizza Man",
+        "Puck-Man",
+        "Ghost Gobbler"
+      ],
+      "expl": [
+        "Originally called Puck Man in Japan because paku means chomp, the name was changed to Pac Man to prevent vandalism, as people could alter the P to an F. Today Pac Man is recognized by 94 percent of American consumers, making it the most famous video game character."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "Pizza Man",
+          "Pizza",
+          "pidza"
+        ],
+        "option_b": [
+          "Puck-Man",
+          "Puck Man",
+          "fuck man",
+          "puc-man",
+          "puc man",
+          "pac man"
+        ],
+        "option_c": [
+          "Ghost Gobbler",
+          "Ghost",
+          "Gobble",
+          "gobbler"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": ""
+    },
+    {
+      "id": "arts-and-entertainment_B1_11",
+      "que": "Which holiday is described in Chicago's hit song \"Saturday in the Park\"?",
+      "ans": {
+        "value": "Fourth of July",
+        "correct_entity": "option_a"
+      },
+      "options": [
+        "Fourth of July",
+        "Memorial Day",
+        "Thanksgiving"
+      ],
+      "expl": [
+        "Chicagos 1972 album Chicago V features Saturday in the Park, a hit single that reached number three on the Billboard Hot 100. Vocalist Robert Lamm wrote it after a walk in New Yorks Central Park on July 4, 1970, and admits he used the melody of The Beatles You Won’t See Me."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "Fourth of July",
+          "july fourth",
+          "fourth july"
+        ],
+        "option_b": [
+          "Memorial Day",
+          "memorial"
+        ],
+        "option_c": [
+          "Thanksgiving",
+          "thanks giving",
+          "thank giving"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": ""
+    },
+    {
+      "id": "arts-and-entertainment_B1_12",
+      "que": "Which character's balloon holds the record for the most appearances in Macy's Thanksgiving Day Parade?",
+      "ans": {
+        "value": "Snoopy",
+        "correct_entity": "option_b"
+      },
+      "options": [
+        "Mickey Mouse",
+        "Snoopy",
+        "Ronald McDonald"
+      ],
+      "expl": [
+        "Since his debut in 1968, Snoopy has become a favorite in the Macy's Thanksgiving Day Parade and has appeared a record 43 times. Snoopy has flown over New York City on and off since his parade debut."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "Mickey Mouse",
+          "Mickey",
+          "Mouse"
+        ],
+        "option_b": [
+          "Snoopy",
+          "snopy"
+        ],
+        "option_c": [
+          "Ronald McDonald",
+          "Ronald",
+          "McDonald",
+          "MacDonald",
+          "Ronald MacDonald",
+          "macdonalds"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": ""
+    },
+    {
+      "id": "arts-and-entertainment_B1_13",
+      "que": "What action hero was a champion cha-cha dancer?",
+      "ans": {
+        "value": "Bruce Lee",
+        "correct_entity": "option_b"
+      },
+      "options": [
+        "Jackie Chan",
+        "Bruce Lee",
+        "Steven Seagal"
+      ],
+      "expl": [
+        "Bruce Lee was a talented dancer, winning the Cha Cha Championship in Hong Kong four times. He kept a journal of 108 cha cha steps. Moving to San Francisco with just one hundred dollars, he taught dance and helped popularize martial arts films in the 1970's."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "Jackie Chan",
+          "Jackie",
+          "Chan"
+        ],
+        "option_b": [
+          "Bruce Lee",
+          "Bruce",
+          "Lee"
+        ],
+        "option_c": [
+          "Steven Seagal",
+          "Steven",
+          "Seagal",
+          "sea girl"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": ""
+    },
+    {
+      "id": "arts-and-entertainment_B1_14",
+      "que": "What is the longest-running show on television?",
+      "ans": {
+        "value": "Meet the Press",
+        "correct_entity": "option_c"
+      },
+      "options": [
+        "The Simpsons",
+        "As the World Turns",
+        "Meet the Press"
+      ],
+      "expl": [
+        "Meet the Press, America's longest-running T.V. program has evolved significantly since its debut in 1947. It features interviews with national leaders and panel discussions for analysis. With 12 different moderators, its longevity can be attributed to debuting during the second official network T.V. season."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "The Simpsons",
+          "simpson",
+          "the simpson"
+        ],
+        "option_b": [
+          "As the World Turns",
+          "as the",
+          "world turns",
+          "turns",
+          "the world",
+          "the world turns",
+          "world turn"
+        ],
+        "option_c": [
+          "Meet the Press",
+          "Meet the",
+          "Press",
+          "meet press",
+          "the press",
+          "meet",
+          "met"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": ""
+    },
+    {
+      "id": "arts-and-entertainment_B1_15",
+      "que": "Who is the only singer to ever fill all top 10 spots on the Billboard Hot 100 in the same week?",
+      "ans": {
+        "value": "Taylor Swift",
+        "correct_entity": "option_a"
+      },
+      "options": [
+        "Taylor Swift",
+        "Ed Sheeran",
+        "Harry Styles"
+      ],
+      "expl": [
+        "Taylor Swift's album Midnights made history by taking the top 10 spot on the Billboard Hot 100, with Anti Hero at number 1. She now holds the record for most top tens by a female artist with forty, surpassing Madonnas thirty eight, and earned her eleventh number one album on the Billboard 200 chart."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "Taylor Swift",
+          "Taylor",
+          "Swift",
+          "tailor"
+        ],
+        "option_b": [
+          "Ed Sheeran",
+          "Ed",
+          "Sheeran"
+        ],
+        "option_c": [
+          "Harry Styles",
+          "harry style",
+          "harry",
+          "style",
+          "styles",
+          "hary styles"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": ""
+    },
+    {
+      "id": "arts-and-entertainment_B1_16",
+      "que": "Which artist was a major figure in the abstract expressionist movement?",
+      "ans": {
+        "value": "Jackson Pollock",
+        "correct_entity": "option_b"
+      },
+      "options": [
+        "Andy Warhol",
+        "Jackson Pollock",
+        "Salvador Dali"
+      ],
+      "expl": [
+        "Jackson Pollock, a renowned American artist, pioneered the abstract expressionist movement with his \"drip technique\" of pouring paint onto a horizontal surface. His \"action painting\" approach involved covering the entire canvas using his body's force. In 2016, his painting Number 17A sold for $200 million."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "Andy Warhol",
+          "Andy",
+          "Warhol",
+          "war hol"
+        ],
+        "option_b": [
+          "Jackson Pollock",
+          "jacson",
+          "jackson",
+          "pollock"
+        ],
+        "option_c": [
+          "Salvador Dali",
+          "salvadoor",
+          "dali",
+          "Salvador Dalí"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": ""
+    },
+    {
+      "id": "arts-and-entertainment_B1_17",
+      "que": "The 2001 film \"Glitter\" was a notable bomb starring which pop star?",
+      "ans": {
+        "value": "Mariah Carey",
+        "correct_entity": "option_a"
+      },
+      "options": [
+        "Mariah Carey",
+        "Britney Spears",
+        "Madonna"
+      ],
+      "expl": [
+        "Mariah Carey starred in the 2001 romantic film Glitter, which got negative reviews and flopped at the box office. Her acting was criticized, earning a Golden Raspberry Award. Released shortly after 9/11, it is considered one of the worst films ever made."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "Mariah Carey",
+          "Mariah",
+          "Carey",
+          "Maria Carey"
+        ],
+        "option_b": [
+          "Britney Spears",
+          "Britney",
+          "Spears",
+          "britney spear"
+        ],
+        "option_c": [
+          "Madonna",
+          "mad",
+          "dona",
+          "donna"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": ""
+    },
+    {
+      "id": "arts-and-entertainment_B1_18",
+      "que": "What celebrity was married a whopping nine times?",
+      "ans": {
+        "value": "Zsa Zsa Gabor",
+        "correct_entity": "option_b"
+      },
+      "options": [
+        "Larry King",
+        "Zsa Zsa Gabor",
+        "Elizabeth Taylor"
+      ],
+      "expl": [
+        "Zsa Zsa Gabor, a renowned actress, and socialite, was famous for her vivacious and flirtatious demeanor, extravagant Hollywood lifestyle, and nine marriages, including Conrad Hilton and George Sanders. She was last married to Frédéric Prinz von Anhalt until her death in 2016."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "Larry King",
+          "Larry",
+          "King",
+          "lary",
+          "lazy"
+        ],
+        "option_b": [
+          "Zsa Zsa Gabor",
+          "jha jha gabur",
+          "za za zaboor"
+        ],
+        "option_c": [
+          "Elizabeth Taylor",
+          "tailor",
+          "elizabeth",
+          "Elizabeth tailor"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": ""
+    },
+    {
+      "id": "arts-and-entertainment_B1_19",
+      "que": "What Charleton Heston movie won 11 Oscars in 1960?",
+      "ans": {
+        "value": "Ben-Hur",
+        "correct_entity": "option_c"
+      },
+      "options": [
+        "Julius Caesar",
+        "Planet of the Apes",
+        "Ben-Hur"
+      ],
+      "expl": [
+        "In 1959, William Wyler directed the American epic film \"Ben Hur,\" starring Charlton Heston as a Jewish prince who seeks revenge after being enslaved by the Romans. The film won eleven Academy Awards and is remembered for its chariot race and score by Miklos Rozsa."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "Julius Caesar",
+          "Julius",
+          "Caesar",
+          "cezar",
+          "julie"
+        ],
+        "option_b": [
+          "Planet of the Apes",
+          "planet of apes",
+          "apes",
+          "planet",
+          "of the apes",
+          "the apes",
+          "ape"
+        ],
+        "option_c": [
+          "Ben-Hur",
+          "ben hur",
+          "ben",
+          "hur",
+          "her",
+          "ben her"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": ""
+    },
+    {
+      "id": "arts-and-entertainment_B1_20",
+      "que": "Which actor starred in the 1981 film \"Arthur\"?",
+      "ans": {
+        "value": "Dudley Moore",
+        "correct_entity": "option_c"
+      },
+      "options": [
+        "Danny DeVito",
+        "Gene Wilder",
+        "Dudley Moore"
+      ],
+      "expl": [
+        "Arthur is a 1981 romantic comedy film featuring Dudley Moore as a wealthy New York playboy who falls for a Queens waitress, with the film's theme song and John Gielgud's portrayal of Arthur's butler earning Academy Awards."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "Danny DeVito",
+          "danny",
+          "DeVito"
+        ],
+        "option_b": [
+          "Gene Wilder",
+          "gene",
+          "wilder"
+        ],
+        "option_c": [
+          "Dudley Moore",
+          "dudli",
+          "more",
+          "moorey",
+          "deadly mood",
+          "Dudley",
+          "Moore",
+          "deadly Moore"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": ""
+    },
+    {
+      "id": "arts-and-entertainment_B1_21",
+      "que": "Which website began as a \"list of actors with beautiful eyes\"?",
+      "ans": {
+        "value": "IMDb",
+        "correct_entity": "option_a"
+      },
+      "options": [
+        "IMDb",
+        "Reddit",
+        "Pinterest"
+      ],
+      "expl": [
+        "IMDb, founded in 1990 as a list of actresses with beautiful eyes, became the worlds leading source for movies, TV, and celebrity content. It was named IMDb in 1996, and in 1998 Jeff Bezos bought it for $55 million to help sell videotapes and DVDs."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "IMDb",
+          "i. m. d. b."
+        ],
+        "option_b": [
+          "Reddit",
+          "Red",
+          "dit",
+          "redit"
+        ],
+        "option_c": [
+          "Pinterest",
+          "pin",
+          "interest"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": ""
+    },
+    {
+      "id": "arts-and-entertainment_B1_22",
+      "que": "The 2014 Oscar-winning documentary \"Citizenfour\" is about which controversial person?",
+      "ans": {
+        "value": "Edward Snowden",
+        "correct_entity": "option_c"
+      },
+      "options": [
+        "Sarah Palin",
+        "Julian Assange",
+        "Edward Snowden"
+      ],
+      "expl": [
+        "Citizenfour, a documentary released in 2014, showcases Edward Snowden's exposure to the NSA's illegal wiretapping practices. Snowden handed over classified documents to the filmmakers, who captured his story and the scandal in detail. The film won Best Documentary at the 87th Academy Awards."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "Sarah Palin",
+          "Sarah",
+          "Palin",
+          "sara",
+          "sara pali"
+        ],
+        "option_b": [
+          "Julian Assange",
+          "julian",
+          "assam",
+          "assange",
+          "assany"
+        ],
+        "option_c": [
+          "Edward Snowden",
+          "Edward",
+          "Snowden",
+          "snow den",
+          "den"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": ""
+    },
+    {
+      "id": "arts-and-entertainment_B1_23",
+      "que": "What is the best-selling DVD of all time?",
+      "ans": {
+        "value": "Finding Nemo",
+        "correct_entity": "option_c"
+      },
+      "options": [
+        "The Lion King",
+        "Frozen",
+        "Finding Nemo"
+      ],
+      "expl": [
+        "Finding Nemo's release on DVD broke records by selling eight million copies on the first day and went on to sell 38 million copies worldwide, making it the best-selling DVD of all time, a title likely to remain due to declining DVD sales."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "The Lion King",
+          "Lion king",
+          "lion",
+          "king",
+          "the lion"
+        ],
+        "option_b": [
+          "Frozen",
+          "frozens"
+        ],
+        "option_c": [
+          "Finding Nemo",
+          "Finding",
+          "Nemo"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": ""
+    },
+    {
+      "id": "arts-and-entertainment_B1_24",
+      "que": "What celebrity was arrested in 2001 for shoplifting from the Saks Fifth Avenue in Beverly Hills?",
+      "ans": {
+        "value": "Winona Ryder",
+        "correct_entity": "option_a"
+      },
+      "options": [
+        "Winona Ryder",
+        "Paris Hilton",
+        "Lindsay Lohan"
+      ],
+      "expl": [
+        "Actress Winona Ryder was arrested in 2001 for shoplifting designer goods worth $5,500 at a department store in Beverly Hills. She was convicted of grand theft and shoplifting, but cleared of burglary. She was sentenced to probation, community service, fines, restitution, and counseling."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "Winona Ryder",
+          "Winona",
+          "Ryder",
+          "winona rider",
+          "rider",
+          "vinona"
+        ],
+        "option_b": [
+          "Paris Hilton",
+          "paris",
+          "hilton"
+        ],
+        "option_c": [
+          "Lindsay Lohan",
+          "Lindsay",
+          "Lohan",
+          "rohan"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": ""
+    },
+    {
+      "id": "arts-and-entertainment_B1_25",
+      "que": "Who is the only actor to play both Batman and Superman in two different films?",
+      "ans": {
+        "value": "Ben Affleck",
+        "correct_entity": "option_b"
+      },
+      "options": [
+        "Adam West",
+        "Ben Affleck",
+        "Robert Lowery"
+      ],
+      "expl": [
+        "Ben Affleck played Batman in the films Batman v Superman: Dawn of Justice, Suicide Squad, and Justice League. However, in 2006, he portrayed George Reeves, the actor who played Superman in \"The Adventures Of Superman,\" in the biopic \"Hollywoodland.\""
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "Adam West",
+          "adam",
+          "west",
+          "adams",
+          "adams west"
+        ],
+        "option_b": [
+          "Ben Affleck",
+          "afluek"
+        ],
+        "option_c": [
+          "Robert Lowery",
+          "robert",
+          "lowery",
+          "lori",
+          "low",
+          "robert lori",
+          "robert laurie",
+          "laurie"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": ""
+    },
+    {
+      "id": "arts-and-entertainment_B1_26",
+      "que": "Which Broadway show announced it would close in 2023 after a 35-year run?",
+      "ans": {
+        "value": "Phantom of the Opera",
+        "correct_entity": "option_b"
+      },
+      "options": [
+        "Les Miserables",
+        "Phantom of the Opera",
+        "A Chorus Line"
+      ],
+      "expl": [
+        "Andrew Lloyd Webber's The Phantom of the Opera, based on Gaston Leroux's novel, is Broadway's longest-running show, debuting in 1988 and winning seven Tony Awards. It ends its 35-year run at the Majestic Theatre on April 16, 2023, after entertaining over 145 million people in 41 countries."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "Les Miserables",
+          "Les",
+          "Misérables",
+          "Les Misérables",
+          "Miserables",
+          "less miserables"
+        ],
+        "option_b": [
+          "Phantom of the Opera",
+          "Opera",
+          "Phantom"
+        ],
+        "option_c": [
+          "A Chorus Line",
+          "uhhh chorus line",
+          "chorus",
+          "line",
+          "ahh chorus line",
+          "yay chorus line"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": ""
+    },
+    {
+      "id": "arts-and-entertainment_B1_27",
+      "que": "The concert films \"Delirious\" and \"Raw\" feature stand-up comedy routines by whom?",
+      "ans": {
+        "value": "Eddie Murphy",
+        "correct_entity": "option_c"
+      },
+      "options": [
+        "Robin Williams",
+        "Richard Pryor",
+        "Eddie Murphy"
+      ],
+      "expl": [
+        "Eddie Murphy's Delirious was a 1983 T.V. comedy special for HBO, which became his first stand-up film. It was followed by Eddie Murphy Raw in 1987 and won a Grammy for Best Comedy Album. Raw remains the highest-grossing stand-up film ever made, earning $50.5 million globally."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "Robin Williams",
+          "Robin",
+          "Williams",
+          "William"
+        ],
+        "option_b": [
+          "Richard Pryor",
+          "Richard Prior",
+          "Richard",
+          "Prior",
+          "pryor"
+        ],
+        "option_c": [
+          "Eddie Murphy",
+          "Eddie",
+          "Murphy",
+          "edit",
+          "edie",
+          "murfy",
+          "murfie"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": ""
+    },
+    {
+      "id": "arts-and-entertainment_B1_28",
+      "que": "Which film tells the story of a character named Bud Fox?",
+      "ans": {
+        "value": "Wall Street",
+        "correct_entity": "option_a"
+      },
+      "options": [
+        "Wall Street",
+        "Raging Bull",
+        "Platoon"
+      ],
+      "expl": [
+        "Oliver Stone’s 1987 film Wall Street stars Michael Douglas, Charlie Sheen, Daryl Hannah and Martin Sheen. It follows young broker Bud Fox and his dealings with ruthless raider Gordon Gekko. Stone made it as a tribute to his father, a Depression-era stockbroker. Tom Cruise was considered, but Sheen was chosen."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "Wall Street",
+          "Wall",
+          "Street"
+        ],
+        "option_b": [
+          "Raging Bull",
+          "bull",
+          "raging",
+          "rageing"
+        ],
+        "option_c": [
+          "Platoon",
+          "platoons",
+          "play tool",
+          "playton"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": ""
+    },
+    {
+      "id": "arts-and-entertainment_B1_29",
+      "que": "Which jazz legend performed the classic hit, \"What A Wonderful World\"?",
+      "ans": {
+        "value": "Louis Armstrong",
+        "correct_entity": "option_b"
+      },
+      "options": [
+        "Duke Ellington",
+        "Louis Armstrong",
+        "Miles Davis"
+      ],
+      "expl": [
+        "Louis Armstrong's 1967 single, \"What a Wonderful World\", written by George Weiss for Armstrong, was a U.K. chart-topper but not a U.S. hit until it was reissued in 1988, following its inclusion in the film Good Morning, Vietnam."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "Duke Ellington",
+          "duke",
+          "Ellington"
+        ],
+        "option_b": [
+          "Louis Armstrong",
+          "louis arm strong",
+          "louis arm",
+          "strong",
+          "louis",
+          "armstrong",
+          "arm strong"
+        ],
+        "option_c": [
+          "Miles Davis",
+          "Miles",
+          "davis"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": ""
+    },
+    {
+      "id": "arts-and-entertainment_B1_30",
+      "que": "Who was the original host of The Late Show, the first late-night talk show on Fox?",
+      "ans": {
+        "value": "Joan Rivers",
+        "correct_entity": "option_c"
+      },
+      "options": [
+        "Chevy Chase",
+        "Magic Johnson",
+        "Joan Rivers"
+      ],
+      "expl": [
+        "The Late Show, the first program on the new Fox Network, debuted on October 9, 1986. Joan Rivers, the show's original host, became the first woman to host a late-night network talk show, aimed to compete with NBC's The Tonight Show. In 1987, Fox fired Rivers and her husband, the show's producer."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "Chevy Chase",
+          "Chevy",
+          "Chase",
+          "chewwy",
+          "chewy"
+        ],
+        "option_b": [
+          "Magic Johnson",
+          "magic",
+          "johnson",
+          "john",
+          "son"
+        ],
+        "option_c": [
+          "Joan Rivers",
+          "joan river",
+          "john rivers",
+          "rivers",
+          "john",
+          "joan",
+          "river"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": ""
+    },
+    {
+      "id": "arts-and-entertainment_B1_31",
+      "que": "Which Oscar Award-winning actor has portrayed both Walt Disney and Mr. Rogers?",
+      "ans": {
+        "value": "Tom Hanks",
+        "correct_entity": "option_a"
+      },
+      "options": [
+        "Tom Hanks",
+        "Kevin Spacey",
+        "Sean Penn"
+      ],
+      "expl": [
+        "Tom Hanks has portrayed numerous real-life figures in his acting career, such as Fred Rogers in \"A Beautiful Day in the Neighborhood,\" Walt Disney in \"Saving Mr. Banks,\" and Captain Sullenberger, Jim Lovell, Charlie Wilson, and Ben Bradlee in other films."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "Tom Hanks",
+          "tom hank",
+          "tom",
+          "hank",
+          "hanks"
+        ],
+        "option_b": [
+          "Kevin Spacey",
+          "kevin",
+          "spacey",
+          "space",
+          "cevin"
+        ],
+        "option_c": [
+          "Sean Penn",
+          "sean pen",
+          "sean",
+          "pen",
+          "seen pen",
+          "seen pain"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": ""
+    },
+    {
+      "id": "arts-and-entertainment_B1_32",
+      "que": "Who is famous for popularizing the term \"Rock and Roll\"?",
+      "ans": {
+        "value": "Alan Freed",
+        "correct_entity": "option_c"
+      },
+      "options": [
+        "Elvis Presley",
+        "Casey Kasem",
+        "Alan Freed"
+      ],
+      "expl": [
+        "Alan Freed, a disc jockey on Cleveland radio station WJW, is known as the \"father of rock 'n' roll\" for popularizing the music style and coining the term \"rock and roll\" in 1951. He organized the first rock and roll concert in 1952 but later faced downfall due to the payola scandal."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "Elvis Presley",
+          "Elvis",
+          "Presley"
+        ],
+        "option_b": [
+          "Casey Kasem",
+          "casey",
+          "kasem",
+          "casey castle"
+        ],
+        "option_c": [
+          "Alan Freed",
+          "Alan",
+          "freed",
+          "alan fried",
+          "alan fry"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": ""
+    },
+    {
+      "id": "arts-and-entertainment_B1_33",
+      "que": "What Shakespeare character says, \"Something is rotten in the state of Denmark\"?",
+      "ans": {
+        "value": "Marcellus",
+        "correct_entity": "option_b"
+      },
+      "options": [
+        "Hamlet",
+        "Marcellus",
+        "Horatio"
+      ],
+      "expl": [
+        "In Hamlet by Shakespeare, Marcellus utters the line \"something is rotten in the state of Denmark\" in Act 1, Scene 4, after witnessing the ghost of King Hamlet. His words hint at the corruption and misdeeds that will unfold in the Danish court throughout the play."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "Hamlet",
+          "hamlate"
+        ],
+        "option_b": [
+          "Marcellus",
+          "Mars sell us",
+          "marcelo's",
+          "marcella's",
+          "mercedes"
+        ],
+        "option_c": [
+          "Horatio",
+          "horachio",
+          "hora",
+          "horizon"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": ""
+    },
+    {
+      "id": "arts-and-entertainment_B1_34",
+      "que": "What was Bugs Bunny's original name?",
+      "ans": {
+        "value": "Happy Rabbit",
+        "correct_entity": "option_b"
+      },
+      "options": [
+        "Honey Bunny",
+        "Happy Rabbit",
+        "Harry Hare"
+      ],
+      "expl": [
+        "Happy Rabbit first appeared in the Looney Tunes series in 1938 and underwent a redesign two years later to become the beloved character Bugs Bunny. Mel Blanc named Bugs after an animator, and later used Happy Rabbit's original voice for Woody Woodpecker."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "Honey Bunny",
+          "honey",
+          "bunny"
+        ],
+        "option_b": [
+          "Happy Rabbit",
+          "happy",
+          "rabbit"
+        ],
+        "option_c": [
+          "Harry Hare",
+          "Harry",
+          "hare",
+          "hear"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": ""
+    },
+    {
+      "id": "arts-and-entertainment_B1_35",
+      "que": "Michelle Pfeiffer, Halle Berry, and Anne Hathaway have all portrayed which superhero on film?",
+      "ans": {
+        "value": "Catwoman",
+        "correct_entity": "option_b"
+      },
+      "options": [
+        "Wonder Woman",
+        "Catwoman",
+        "Supergirl"
+      ],
+      "expl": [
+        "Catwoman, created by Bob Kane and Bill Finger, is a D.C. Comics character who often appears alongside Batman. She has been portrayed on film by Lee Meriwether, Michelle Pfeiffer, Halle Berry, Anne Hathaway, and Zoë Kravitz.\""
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "Wonder Woman",
+          "Wonder",
+          "Woman"
+        ],
+        "option_b": [
+          "Catwoman",
+          "cat woman",
+          "cat",
+          "woman"
+        ],
+        "option_c": [
+          "Supergirl",
+          "super girl",
+          "supergirls",
+          "super girls"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": ""
+    },
+    {
+      "id": "arts-and-entertainment_B1_36",
+      "que": "Which member of The Beatles was born in India?",
+      "ans": {
+        "value": "Pete Best",
+        "correct_entity": "option_a"
+      },
+      "options": [
+        "Pete Best",
+        "John Lennon",
+        "Ringo Starr"
+      ],
+      "expl": [
+        "Pete Best, the original drummer for the Beatles, was replaced by Ringo Starr just before the band gained worldwide fame. Best, born in India and raised in Liverpool, joined the group in 1960 at age 15 after being invited by Paul McCartney."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "Pete Best",
+          "pete",
+          "best"
+        ],
+        "option_b": [
+          "John Lennon",
+          "John",
+          "Lennon",
+          "linen"
+        ],
+        "option_c": [
+          "Ringo Starr",
+          "Ring",
+          "star",
+          "ringo",
+          "ringo star",
+          "starr"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": ""
+    },
+    {
+      "id": "arts-and-entertainment_B1_37",
+      "que": "Which actress won the most Oscars?",
+      "ans": {
+        "value": "Katharine Hepburn",
+        "correct_entity": "option_c"
+      },
+      "options": [
+        "Meryl Streep",
+        "Sandra Bullock",
+        "Katharine Hepburn"
+      ],
+      "expl": [
+        "Katharine Hepburn won four Academy Awards for Best Actress. She starred in iconic films like The Philadelphia Story Bringing Up Baby and The African Queen. Known for her talent charisma and independence she became a Hollywood trailblazer and is regarded as one of the greatest actresses ever."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "Meryl Streep",
+          "Meryl",
+          "Streep",
+          "merry",
+          "merry streep",
+          "strep",
+          "steep"
+        ],
+        "option_b": [
+          "Sandra Bullock",
+          "bullock",
+          "bull",
+          "sandra",
+          "bull lock"
+        ],
+        "option_c": [
+          "Katharine Hepburn",
+          "katharine hepbun",
+          "catherine hepburn",
+          "hepburn",
+          "catherine",
+          "katharine"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": ""
+    },
+    {
+      "id": "arts-and-entertainment_B1_38",
+      "que": "In the children's book series, where is Paddington the bear originally from?",
+      "ans": {
+        "value": "Peru",
+        "correct_entity": "option_a"
+      },
+      "options": [
+        "Peru",
+        "Canada",
+        "Iceland"
+      ],
+      "expl": [
+        "Paddington Bear now lives in London but originally came from Peru, raised by his Aunt Lucy after being orphaned in an earthquake. She sent him to England for a better life, and he was found at Londons Paddington Station by the Brown family, who gave him a home."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "Peru",
+          "pairu",
+          "paru"
+        ],
+        "option_b": [
+          "Canada",
+          "canda",
+          "candian"
+        ],
+        "option_c": [
+          "Iceland",
+          "ice land",
+          "ice",
+          "land"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": ""
+    },
+    {
+      "id": "arts-and-entertainment_B1_39",
+      "que": "What were the seven dwarfs' jobs in the movie?",
+      "ans": {
+        "value": "Miners",
+        "correct_entity": "option_c"
+      },
+      "options": [
+        "Lumberjacks",
+        "Farmers",
+        "Miners"
+      ],
+      "expl": [
+        "Dwarfs in Snow White and the Seven Dwarfs did not actually mine for diamonds but instead mined for \"jewels,\" which could be interpreted to include various precious stones such as rubies, sapphires, and emeralds. Seven Dwarfs were known for their hard work and dedication to their mining jobs."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "Lumberjacks",
+          "lumber jacks",
+          "lumberjack",
+          "lumber",
+          "jack"
+        ],
+        "option_b": [
+          "Farmers",
+          "farmer"
+        ],
+        "option_c": [
+          "Miners",
+          "miner",
+          "minor",
+          "mineral",
+          "minors"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": ""
+    }
+  ],
+  "IMAGE_QUESTIONS": [],
+  "AUDIO_QUESTIONS": []
+}

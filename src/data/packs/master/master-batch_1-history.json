@@ -1,0 +1,686 @@
+{
+  "TEXT_QUESTIONS": [
+    {
+      "id": "history_B1_1",
+      "que": "What candy bar was originally called Raider in Europe?",
+      "ans": {
+        "value": "Twix",
+        "correct_entity": "option_c"
+      },
+      "options": [
+        "Snickers",
+        "100 Grand",
+        "Twix"
+      ],
+      "expl": [
+        "The candy bar originally called Raider in Europe is now known as Twix. It was first introduced in the United Kingdom in 1967 and was later renamed in the 1990s."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "Snickers",
+          "snicker",
+          "sneaker",
+          "sneakers"
+        ],
+        "option_b": [
+          "100 Grand",
+          "hundred grand",
+          "one zero zero grand",
+          "one hundred grand",
+          "grand",
+          "grands"
+        ],
+        "option_c": [
+          "Twix",
+          "twiz"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": ""
+    },
+    {
+      "id": "history_B1_2",
+      "que": "Which Native American tribe was involved in the first Thanksgiving?",
+      "ans": {
+        "value": "Wampanoag",
+        "correct_entity": "option_c"
+      },
+      "options": [
+        "Sioux",
+        "Cherokee",
+        "Wampanoag"
+      ],
+      "expl": [
+        "Thanksgiving began with a 1621 harvest feast between the Wampanoag tribe and English colonists. The alliance was short lived, and Native Americans faced killings, land loss, and enslavement. For many American Indians the fourth Thursday of November is a day of mourning, not celebration."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "Sioux",
+          "siour",
+          "siyar"
+        ],
+        "option_b": [
+          "Cherokee",
+          "karaoke",
+          "cheery",
+          "cherry",
+          "cherry kee"
+        ],
+        "option_c": [
+          "Wampanoag",
+          "wampanog",
+          "wampnog"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": ""
+    },
+    {
+      "id": "history_B1_3",
+      "que": "In 1994, the clothing retailer Gap Warehouse was given which new name?",
+      "ans": {
+        "value": "Old Navy",
+        "correct_entity": "option_b"
+      },
+      "options": [
+        "J. Crew",
+        "Old Navy",
+        "T. J. Maxx"
+      ],
+      "expl": [
+        "The Gap launched Gap Warehouse in 1993, but executives felt it needed a separate identity. CEO Millard Drexler chose the name \"Old Navy\" after a Parisian bar. Old Navy opened its first store in 1994 and quickly expanded, reaching $1 billion in sales in under four years."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "J. Crew",
+          "crew",
+          "j",
+          "jay",
+          "jai",
+          "crow",
+          "j. crow"
+        ],
+        "option_b": [
+          "Old Navy",
+          "Old",
+          "Navy"
+        ],
+        "option_c": [
+          "T. J. Maxx",
+          "T. J. Max",
+          "p. j. mask",
+          "t. j. mask",
+          "j. mask",
+          "max",
+          "maxx",
+          "maz",
+          "t.j.",
+          "j.",
+          "t. max"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": ""
+    },
+    {
+      "id": "history_B1_4",
+      "que": "Which president's daughter has a shade of blue named after her?",
+      "ans": {
+        "value": "Theodore Roosevelt",
+        "correct_entity": "option_c"
+      },
+      "options": [
+        "Barack Obama",
+        "John F. Kennedy",
+        "Theodore Roosevelt"
+      ],
+      "expl": [
+        "Alice Roosevelt, Theodore Roosevelt's daughter, was a trendsetter in early 1900s women's fashion, inspiring the popular \"Alice Blue\" color for dresses and garments due to the shade of her eyes. The color is still used by the United States Navy today and even inspired a hit Broadway song."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "Barack Obama",
+          "Barack",
+          "Obama"
+        ],
+        "option_b": [
+          "John F. Kennedy",
+          "John",
+          "Kennedy",
+          "F. kennedy",
+          "kenedy",
+          "johny",
+          "john f.",
+          "john kennedy"
+        ],
+        "option_c": [
+          "Theodore Roosevelt",
+          "Theodore",
+          "Roosevelt",
+          "rose",
+          "rosevelt",
+          "theodor",
+          "theatre"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": ""
+    },
+    {
+      "id": "history_B1_5",
+      "que": "Alexander the Great, Napoleon, Mussolini, and Hitler all suffered from which phobia?",
+      "ans": {
+        "value": "Ailurophobia",
+        "correct_entity": "option_a"
+      },
+      "options": [
+        "Ailurophobia",
+        "Claustrophobia",
+        "Arachnophobia"
+      ],
+      "expl": [
+        "Ailurophobia, an intense fear of cats, has been linked to figures like Hitler, Napoleon, Caesar, Alexander the Great, Genghis Khan, and Mussolini. The term comes from Greek words for cat and fear and may stem from early childhood experiences as a protective mechanism in the unconscious mind."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "Ailurophobia",
+          "ailuro",
+          "auluphobia",
+          "ailuphobia"
+        ],
+        "option_b": [
+          "Claustrophobia",
+          "Claus",
+          "claustro",
+          "claustrophobic"
+        ],
+        "option_c": [
+          "Arachnophobia",
+          "Arachno",
+          "archono"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": ""
+    },
+    {
+      "id": "history_B1_6",
+      "que": "Which U.S. city banned Christmas in 1659?",
+      "ans": {
+        "value": "Boston",
+        "correct_entity": "option_c"
+      },
+      "options": [
+        "Pittsburgh",
+        "Buffalo",
+        "Boston"
+      ],
+      "expl": [
+        "In Boston, from 1659 until 1681, celebrating Christmas was banned by the Puritans due to their strict religious beliefs. They believed there was no biblical justification for the holiday. The ban was lifted in 1681 as Puritanical views began to loosen."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "Pittsburgh",
+          "pitts",
+          "burg",
+          "burgh",
+          "pitt",
+          "pittburg",
+          "pittburghs"
+        ],
+        "option_b": [
+          "Buffalo",
+          "buffaloes"
+        ],
+        "option_c": [
+          "Boston"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": ""
+    },
+    {
+      "id": "history_B1_7",
+      "que": "Who became the first Black woman to appear on a U.S. quarter?",
+      "ans": {
+        "value": "Maya Angelou",
+        "correct_entity": "option_b"
+      },
+      "options": [
+        "Rosa Parks",
+        "Maya Angelou",
+        "Harriet Tubman"
+      ],
+      "expl": [
+        "Maya Angelou is the first Black woman featured on a US quarter under the American Women Quarters program. Running until 2025 with up to five new designs yearly, the coin shows Angelou with outstretched arms, a soaring bird, and rising sun inspired by her poetry."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "Rosa Parks",
+          "rosa park",
+          "rosa",
+          "parks",
+          "park",
+          "parking"
+        ],
+        "option_b": [
+          "Maya Angelou",
+          "angelo",
+          "maya",
+          "angelou",
+          "anjali",
+          "angel"
+        ],
+        "option_c": [
+          "Harriet Tubman",
+          "Harriet",
+          "Tubman",
+          "tub",
+          "man",
+          "harrier",
+          "harr",
+          "hariet"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": ""
+    },
+    {
+      "id": "history_B1_8",
+      "que": "The original Carlo's Bakery, of Cake Boss fame, is located in which city?",
+      "ans": {
+        "value": "Hoboken",
+        "correct_entity": "option_c"
+      },
+      "options": [
+        "Newark",
+        "Albany",
+        "Hoboken"
+      ],
+      "expl": [
+        "Carlo's Bakery, owned by Buddy Valastro in Hoboken, NJ, gained fame as the setting for TLC's Cake Boss. The show depicted the staff creating custom novelty cakes, making the shop a tourist attraction and a key institution in the town. The Bakery has since opened 12 more locations."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "Newark",
+          "neymar",
+          "new york",
+          "new work",
+          "new world",
+          "newmar",
+          "keymar"
+        ],
+        "option_b": [
+          "Albany",
+          "Albani",
+          "all",
+          "albane",
+          "albanie",
+          "alban"
+        ],
+        "option_c": [
+          "Hoboken",
+          "hobroken",
+          "bobo ken",
+          "bobo cake"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": ""
+    },
+    {
+      "id": "history_B1_9",
+      "que": "What was the original color of the first U.S. passports when they were issued in 1926?",
+      "ans": {
+        "value": "Red",
+        "correct_entity": "option_a"
+      },
+      "options": [
+        "Red",
+        "Brown",
+        "White"
+      ],
+      "expl": [
+        "Passports are categorized into four colors: red, blue, green, and black. The majority of countries prefer blue passports (83), followed by red (65), green (44), and black (7). The U.S. passport has been all four colors, starting with red in 1926 and changing to blue in 1976 for the bicentennial celebration."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "Red"
+        ],
+        "option_b": [
+          "Brown"
+        ],
+        "option_c": [
+          "White"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": ""
+    },
+    {
+      "id": "history_B1_10",
+      "que": "Who invented sliced bread?",
+      "ans": {
+        "value": "Jeweler",
+        "correct_entity": "option_a"
+      },
+      "options": [
+        "Jeweler",
+        "Baker",
+        "Dentist"
+      ],
+      "expl": [
+        "In 1927 jeweler Otto Frederick Rohwedder sold his three jewelry stores to develop an automatic bread slicing machine using his watch and jewelry experience. His machine, which also wrapped the bread, was a huge success and made sliced bread widely available across the nation."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "Jeweler",
+          "jewler",
+          "jewellery"
+        ],
+        "option_b": [
+          "Baker",
+          "bakers"
+        ],
+        "option_c": [
+          "Dentist",
+          "dentists"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": ""
+    },
+    {
+      "id": "history_B1_11",
+      "que": "Which of these bottled water brands is produced by the makers of Coca-Cola?",
+      "ans": {
+        "value": "Dasani",
+        "correct_entity": "option_c"
+      },
+      "options": [
+        "Aquafina",
+        "Fiji Water",
+        "Dasani"
+      ],
+      "expl": [
+        "Dasani, a bottled water brand by Coca-Cola, launched in 1999, is popular in the U.S. and globally. Coca-Cola uses local tap water, which is filtered and enriched with minerals to offer a refreshing taste."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "Aquafina",
+          "aqua",
+          "fina",
+          "fine"
+        ],
+        "option_b": [
+          "Fiji Water",
+          "feasy",
+          "fizzy",
+          "fizz water",
+          "water",
+          "fizzy water"
+        ],
+        "option_c": [
+          "Dasani",
+          "Dasan",
+          "dasany"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": ""
+    },
+    {
+      "id": "history_B1_12",
+      "que": "What was the name of the first computer search engine?",
+      "ans": {
+        "value": "Archie",
+        "correct_entity": "option_b"
+      },
+      "options": [
+        "AltaVista",
+        "Archie",
+        "Infoseek"
+      ],
+      "expl": [
+        "Archie, the internet's first search engine, was created in 1990 by Alan Emtage as a class project at McGill University. Other early search engines followed, such as Jughead and Veronica, but were eventually replaced by Yahoo! and Google."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "AltaVista",
+          "Alta",
+          "Vista",
+          "alta vista",
+          "ultra vista"
+        ],
+        "option_b": [
+          "Archie",
+          "archi"
+        ],
+        "option_c": [
+          "Infoseek",
+          "infosick",
+          "infosys"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": ""
+    },
+    {
+      "id": "history_B1_13",
+      "que": "Where was the first example of paper money used?",
+      "ans": {
+        "value": "China",
+        "correct_entity": "option_a"
+      },
+      "options": [
+        "China",
+        "Turkey",
+        "Greece"
+      ],
+      "expl": [
+        "The first banknote type instrument in China during the Tang Dynasty was promissory notes used to avoid carrying heavy copper coins for large transactions. These notes acted as receipts of deposit issued by merchants and could be redeemed for goods or services."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "China",
+          "chinese"
+        ],
+        "option_b": [
+          "Turkey",
+          "turkish"
+        ],
+        "option_c": [
+          "Greece",
+          "greese"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": ""
+    },
+    {
+      "id": "history_B1_14",
+      "que": "Which country was the first to send a human being into space?",
+      "ans": {
+        "value": "Russia",
+        "correct_entity": "option_b"
+      },
+      "options": [
+        "United States",
+        "Russia",
+        "China"
+      ],
+      "expl": [
+        "The Soviet Union (now Russia) was the first country to send a human being into space. On April 12, 1961, Soviet cosmonaut Yuri Gagarin orbited the Earth aboard the Vostok 1 spacecraft, becoming the first person in history to travel into space."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "United States",
+          "United State",
+          "u. s.",
+          "us",
+          "usa",
+          "u. s. a.",
+          "united states of america",
+          "united"
+        ],
+        "option_b": [
+          "Russia",
+          "russian"
+        ],
+        "option_c": [
+          "China",
+          "chinese"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": ""
+    },
+    {
+      "id": "history_B1_15",
+      "que": "Which ancient civilization built the Great Pyramid of Giza?",
+      "ans": {
+        "value": "The Egyptians",
+        "correct_entity": "option_c"
+      },
+      "options": [
+        "The Greeks",
+        "The Romans",
+        "The Egyptians"
+      ],
+      "expl": [
+        "The Great Pyramid of Giza was built by the ancient Egyptian civilization during the reign of Pharaoh Khufu in the 26th century BCE. It is one of the largest and most famous pyramids in Egypt, and was considered a marvel of engineering and architecture in its time."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "The Greeks",
+          "the greek",
+          "greeks",
+          "greek",
+          "greks"
+        ],
+        "option_b": [
+          "The Romans",
+          "the roman",
+          "roman"
+        ],
+        "option_c": [
+          "The Egyptians",
+          "the engyptian",
+          "egypt"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": ""
+    },
+    {
+      "id": "history_B1_16",
+      "que": "Who was the first emperor of Rome?",
+      "ans": {
+        "value": "Augustus",
+        "correct_entity": "option_c"
+      },
+      "options": [
+        "Julius Caesar",
+        "Nero",
+        "Augustus"
+      ],
+      "expl": [
+        "The first emperor of Rome was Caesar Augustus, born Gaius Octavius, who rose to power after defeating Mark Antony and Cleopatra in a civil war and was granted the title of Augustus in 27 BCE."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "Julius Caesar",
+          "Cezer",
+          "Julius Cezer",
+          "caezar"
+        ],
+        "option_b": [
+          "Nero",
+          "niro",
+          "narrow",
+          "new row",
+          "zero"
+        ],
+        "option_c": [
+          "Augustus",
+          "august",
+          "augustas"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": ""
+    },
+    {
+      "id": "history_B1_17",
+      "que": "Which country gifted the United States the Statue of Liberty?",
+      "ans": {
+        "value": "France",
+        "correct_entity": "option_c"
+      },
+      "options": [
+        "Spain",
+        "Germany",
+        "France"
+      ],
+      "expl": [
+        "France gifted the United States the Statue of Liberty, a symbol of freedom and democracy, in 1886. The statue was designed by French sculptor Frédéric Auguste Bartholdi."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "Spain",
+          "pain",
+          "pen",
+          "spanish",
+          "spanese"
+        ],
+        "option_b": [
+          "Germany",
+          "german",
+          "germanese"
+        ],
+        "option_c": [
+          "France",
+          "french"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": ""
+    }
+  ],
+  "IMAGE_QUESTIONS": [],
+  "AUDIO_QUESTIONS": []
+}

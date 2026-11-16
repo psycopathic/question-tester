@@ -1,0 +1,658 @@
+{
+  "TEXT_QUESTIONS": [
+    {
+      "id": "science_B3_1",
+      "que": "What is the basic unit of heredity in living organisms?",
+      "ans": {
+        "value": "Gene",
+        "correct_entity": "option_c"
+      },
+      "options": [
+        "Chromosome",
+        "DNA",
+        "Gene"
+      ],
+      "expl": [
+        "The basic unit of heredity in living organisms is the gene. Genes are segments of DNA that contain the instructions for building and maintaining the structures and functions of an organism. They are responsible for passing on traits from one generation to the next through inheritance."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "Chromosome"
+        ],
+        "option_b": [
+          "DNA",
+          "d n a",
+          "d. n. a."
+        ],
+        "option_c": [
+          "Gene",
+          "jean",
+          "jeans",
+          "genes",
+          "gin",
+          "jin"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": ""
+    },
+    {
+      "id": "science_B3_2",
+      "que": "Which of these structures contains no bones?",
+      "ans": {
+        "value": "Teeth",
+        "correct_entity": "option_a"
+      },
+      "options": [
+        "Teeth",
+        "Spine",
+        "Ribs"
+      ],
+      "expl": [
+        "Teeth are the structures in the human body that contain no bones. Teeth comprise a hard tissue called dentin, which is covered by a protective layer of enamel. While teeth are not bones, they play a crucial role in the digestion process, as they help with biting, chewing, and breaking down food. Proper dental care is essential for maintaining healthy teeth and overall oral."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "Teeth",
+          "teeths"
+        ],
+        "option_b": [
+          "Spine",
+          "spin"
+        ],
+        "option_c": [
+          "Ribs",
+          "rib"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": ""
+    },
+    {
+      "id": "science_B3_3",
+      "que": "Which of these rocks is the hardest?",
+      "ans": {
+        "value": "Diamond",
+        "correct_entity": "option_c"
+      },
+      "options": [
+        "Marble",
+        "Quartzite",
+        "Diamond"
+      ],
+      "expl": [
+        "Diamond is the hardest naturally occurring substance known, scoring a 10 on the Mohs scale of mineral hardness. It is renowned for its exceptional hardness and is often used in industrial applications, jewelry, and cutting tools."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "Marble",
+          "marbles"
+        ],
+        "option_b": [
+          "Quartzite",
+          "quads right",
+          "quartz right",
+          "quarts right",
+          "quart right"
+        ],
+        "option_c": [
+          "Diamond",
+          "diamonds"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": ""
+    },
+    {
+      "id": "science_B3_4",
+      "que": "Which is the only type of rock that floats?",
+      "ans": {
+        "value": "Pumice",
+        "correct_entity": "option_c"
+      },
+      "options": [
+        "Granite",
+        "Basalt",
+        "Pumice"
+      ],
+      "expl": [
+        "Pumice is a type of volcanic rock that is lightweight and filled with air pockets, which allows it to float on water. It is commonly used in various applications, including skincare products, and as a lightweight aggregate in construction."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "Granite"
+        ],
+        "option_b": [
+          "Basalt",
+          "salt",
+          "bass on",
+          "bass all"
+        ],
+        "option_c": [
+          "Pumice"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": ""
+    },
+    {
+      "id": "science_B3_5",
+      "que": "What is the name for a giant cloud of dust and gas in space?",
+      "ans": {
+        "value": "Nebula",
+        "correct_entity": "option_b"
+      },
+      "options": [
+        "Supernova",
+        "Nebula",
+        "Quasar"
+      ],
+      "expl": [
+        "A giant cloud of dust and gas in space is called a nebula. Nebulas are vast interstellar clouds that consist of various elements and particles. They can be the birthplaces of stars or remnants of stellar explosions, and they often exhibit stunning visual characteristics."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "Supernova",
+          "super nova"
+        ],
+        "option_b": [
+          "Nebula"
+        ],
+        "option_c": [
+          "Quasar"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": ""
+    },
+    {
+      "id": "science_B3_6",
+      "que": "Which organ in the human body produces insulin?",
+      "ans": {
+        "value": "Pancreas",
+        "correct_entity": "option_c"
+      },
+      "options": [
+        "Liver",
+        "Kidneys",
+        "Pancreas"
+      ],
+      "expl": [
+        "Insulin is essential in maintaining normal blood glucose levels. It is produced and secreted by the beta cells of the pancreas in response to increased blood glucose levels."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "Liver"
+        ],
+        "option_b": [
+          "Kidneys",
+          "kidney"
+        ],
+        "option_c": [
+          "Pancreas"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": ""
+    },
+    {
+      "id": "science_B3_7",
+      "que": "When it comes to metals, what is the lightest known metal?",
+      "ans": {
+        "value": "Lithium",
+        "correct_entity": "option_b"
+      },
+      "options": [
+        "Aluminum",
+        "Lithium",
+        "Beryllium"
+      ],
+      "expl": [
+        "Lithium, the lightest metal, is widely used in rechargeable lithium-ion batteries found in smartphones, laptops, and electric vehicles. Its low density and high reactivity make it essential for modern battery technology."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "Aluminum"
+        ],
+        "option_b": [
+          "Lithium"
+        ],
+        "option_c": [
+          "Beryllium"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": ""
+    },
+    {
+      "id": "science_B3_8",
+      "que": "What field of science is dedicated to the examination and analysis of fossils?",
+      "ans": {
+        "value": "Paleontology",
+        "correct_entity": "option_a"
+      },
+      "options": [
+        "Paleontology",
+        "Archaeology",
+        "Geology"
+      ],
+      "expl": [
+        "The study of fossils is called paleontology. It involves examining and analyzing fossils to understand the history of life on Earth, including the evolution and extinction of various species."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "Paleontology"
+        ],
+        "option_b": [
+          "Archaeology"
+        ],
+        "option_c": [
+          "Geology"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": ""
+    },
+    {
+      "id": "science_B3_9",
+      "que": "Which of these metals would be used to manufacture pipes, coins, and electric wire?",
+      "ans": {
+        "value": "Copper",
+        "correct_entity": "option_a"
+      },
+      "options": [
+        "Copper",
+        "Aluminum",
+        "Zinc"
+      ],
+      "expl": [
+        "Copper is widely used in pipes, coins, and electric wires due to its excellent conductivity for electricity and heat. It is durable, resistant to corrosion, and has antimicrobial properties, making it ideal for plumbing applications. Copper is also valued for its aesthetic appeal and durability, which is why it is commonly used in coin production worldwide."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "Copper"
+        ],
+        "option_b": [
+          "Aluminum"
+        ],
+        "option_c": [
+          "Zinc"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": ""
+    },
+    {
+      "id": "science_B3_10",
+      "que": "Which illness is likely to increase with global warming?",
+      "ans": {
+        "value": "Malaria",
+        "correct_entity": "option_a"
+      },
+      "options": [
+        "Malaria",
+        "Diabetes",
+        "Common cold"
+      ],
+      "expl": [
+        "Malaria is a mosquito-borne infectious disease that thrives in warm and humid climates. As global warming leads to the expansion of mosquito habitats, the risk of malaria transmission is expected to increase in certain regions."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "Malaria"
+        ],
+        "option_b": [
+          "Diabetes"
+        ],
+        "option_c": [
+          "Common cold",
+          "cold"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": ""
+    },
+    {
+      "id": "science_B3_11",
+      "que": "Which bone is notably absent in newborn babies, yet gradually forms over time as they develop and grow?",
+      "ans": {
+        "value": "Patella",
+        "correct_entity": "option_c"
+      },
+      "options": [
+        "Skull",
+        "Femur",
+        "Patella"
+      ],
+      "expl": [
+        "Babies are born without a patella, commonly known as the kneecap. The patella develops as a child grows and usually becomes visible by the age of 2 to 6 years."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "Skull"
+        ],
+        "option_b": [
+          "Femur",
+          "taimur"
+        ],
+        "option_c": [
+          "Patella",
+          "patela"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": ""
+    },
+    {
+      "id": "science_B3_12",
+      "que": "Which chemical element is also known as quicksilver?",
+      "ans": {
+        "value": "Mercury",
+        "correct_entity": "option_a"
+      },
+      "options": [
+        "Mercury",
+        "Silver",
+        "Platinum"
+      ],
+      "expl": [
+        "Quicksilver is the common name for the chemical element mercury. It is a heavy, silver liquid at room temperature, known for its unique properties like high density and low melting point. It is used in thermometers, barometers, and industries but is highly toxic, posing environmental risks. Therefore, strict regulations govern its usage and disposal in many countries."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "Mercury"
+        ],
+        "option_b": [
+          "Silver"
+        ],
+        "option_c": [
+          "Platinum"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": ""
+    },
+    {
+      "id": "science_B3_13",
+      "que": "What type of rock is formed from solidified lava?",
+      "ans": {
+        "value": "Igneous",
+        "correct_entity": "option_b"
+      },
+      "options": [
+        "Sedimentary",
+        "Igneous",
+        "Metamorphic"
+      ],
+      "expl": [
+        "The rock formed from solidified lava is called \"igneous rock.\" It is created when molten lava cools and solidifies, either on the Earth's surface or beneath it, resulting in various types of igneous rocks, such as basalt or obsidian."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "Sedimentary"
+        ],
+        "option_b": [
+          "Igneous"
+        ],
+        "option_c": [
+          "Metamorphic"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": ""
+    },
+    {
+      "id": "science_B3_14",
+      "que": "Which of these planets is made up of gas rather than rocks?",
+      "ans": {
+        "value": "Saturn",
+        "correct_entity": "option_b"
+      },
+      "options": [
+        "Mars",
+        "Saturn",
+        "Venus"
+      ],
+      "expl": [
+        "Saturn is a planet made up mostly of gases, primarily hydrogen, and helium, with no solid surface like Earth. It is known for its iconic rings of ice particles and rocky debris."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "Mars",
+          "mar"
+        ],
+        "option_b": [
+          "Saturn"
+        ],
+        "option_c": [
+          "Venus"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": ""
+    },
+    {
+      "id": "science_B3_15",
+      "que": "Which metal has the lowest boiling point?",
+      "ans": {
+        "value": "Mercury",
+        "correct_entity": "option_b"
+      },
+      "options": [
+        "Gold",
+        "Mercury",
+        "Aluminum"
+      ],
+      "expl": [
+        "Mercury has the lowest boiling point among the given options. It boils at a relatively low temperature of -38.83 degrees Celsius (-37.89 degrees Fahrenheit). It is the only metal that is a liquid at room temperature."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "Gold"
+        ],
+        "option_b": [
+          "Mercury"
+        ],
+        "option_c": [
+          "Aluminum"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": ""
+    },
+    {
+      "id": "science_B3_16",
+      "que": "What do you call a person who studies rocks?",
+      "ans": {
+        "value": "Geologist",
+        "correct_entity": "option_c"
+      },
+      "options": [
+        "Biologist",
+        "Archaeologist",
+        "Geologist"
+      ],
+      "expl": [
+        "A person who studies rocks is called a geologist. Geologists analyze rocks' composition, structure, and history to understand Earth's processes, including plate tectonics, erosion, and the formation of minerals and resources."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "Biologist"
+        ],
+        "option_b": [
+          "Archaeologist"
+        ],
+        "option_c": [
+          "Geologist"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": ""
+    },
+    {
+      "id": "science_B3_17",
+      "que": "What causes many metals to tarnish when exposed to the air?",
+      "ans": {
+        "value": "Oxidation",
+        "correct_entity": "option_a"
+      },
+      "options": [
+        "Oxidation",
+        "Rusting",
+        "Corrosion"
+      ],
+      "expl": [
+        "Metals exposed to air react with oxygen, causing oxidation and tarnishing. This reaction changes its appearance, often resulting in a dull or discolored layer. Tarnishing can be prevented or reversed with coatings or chemical treatments."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "Oxidation"
+        ],
+        "option_b": [
+          "Rusting"
+        ],
+        "option_c": [
+          "Corrosion"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": ""
+    },
+    {
+      "id": "science_B3_18",
+      "que": "Which domestic appliance is often considered the greatest threat to stopping global warming?",
+      "ans": {
+        "value": "Refrigerator",
+        "correct_entity": "option_b"
+      },
+      "options": [
+        "Washing machine",
+        "Refrigerator",
+        "Heaters"
+      ],
+      "expl": [
+        "The most common HFC found in domestic fridges is HFC-134a, which has a global warming potential of 3,400 times that of carbon dioxide. A typical fridge can contain between 0.05kg and 0.25kg of refrigerant, which, if it leaks into the environment, the resulting emissions would be equivalent to driving 675km-3,427km (420-2,130 miles) in an average family-sized car."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "Washing machine",
+          "washing",
+          "machine"
+        ],
+        "option_b": [
+          "Refrigerator",
+          "refrigerators"
+        ],
+        "option_c": [
+          "Heaters",
+          "heater"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": ""
+    },
+    {
+      "id": "science_B3_19",
+      "que": "Which country successfully landed a rover named Zhurong on Mars in 2021?",
+      "ans": {
+        "value": "China",
+        "correct_entity": "option_c"
+      },
+      "options": [
+        "United States",
+        "Russia",
+        "China"
+      ],
+      "expl": [
+        "China successfully landed its rover Zhurong on Mars in May 2021, becoming the second country to achieve a successful Mars landing."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "United States",
+          "u. s. a.",
+          "united states of america",
+          "u. s."
+        ],
+        "option_b": [
+          "Russia"
+        ],
+        "option_c": [
+          "China"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": ""
+    },
+    {
+      "id": "science_B3_20",
+      "que": "Lightyear is a measurement commonly used to quantify what specific astronomical distance?",
+      "ans": {
+        "value": "Distance",
+        "correct_entity": "option_a"
+      },
+      "options": [
+        "Distance",
+        "Time",
+        "Brightness"
+      ],
+      "expl": [
+        "A lightyear is a unit of distance used in astronomy. It represents the distance that light travels in one year, approximately 9.46 trillion kilometers (5.88 trillion miles). It is primarily used to measure vast distances between celestial objects in the universe."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "Distance"
+        ],
+        "option_b": [
+          "Time"
+        ],
+        "option_c": [
+          "Brightness"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": ""
+    }
+  ],
+  "IMAGE_QUESTIONS": [],
+  "AUDIO_QUESTIONS": []
+}

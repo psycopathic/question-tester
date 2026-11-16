@@ -1,0 +1,1389 @@
+{
+  "TEXT_QUESTIONS": [
+    {
+      "id": "arts-and-entertainment_B4_1",
+      "que": "What was the first name of young Beaver Cleaver on the classic TV sitcom \"Leave It to Beaver\"?",
+      "ans": {
+        "value": "Theodore",
+        "correct_entity": "option_c"
+      },
+      "options": [
+        "Walter",
+        "Norman",
+        "Theodore"
+      ],
+      "expl": [
+        "Theodore \"Beaver\" Cleaver, portrayed by Jerry Mathers, is a character in the TV series, Leave It to Beaver. He's the younger brother of Wally Cleaver. The show's last episode unveiled that Theodore got his nickname when Wally mistakenly called him \"Tweeter\" as a kid, leading to the enduring moniker \"Beaver.\""
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "Walter"
+        ],
+        "option_b": [
+          "Norman",
+          "nor man"
+        ],
+        "option_c": [
+          "Theodore"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": ""
+    },
+    {
+      "id": "arts-and-entertainment_B4_2",
+      "que": "What product was advertised in commercials with the line \"I am not a doctor, but I play one on TV\"?",
+      "ans": {
+        "value": "Vicks",
+        "correct_entity": "option_b"
+      },
+      "options": [
+        "Bengay",
+        "Vicks",
+        "Tylenol"
+      ],
+      "expl": [
+        "I'm no doctor, but I act like one on TV turned into a more famous phrase than the product it promoted. The ad started in 1984, promoting Vicks Formula 44 cough syrup, with actor Chris Robinson, known as Dr. Rick Webber on General Hospital."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "Bengay"
+        ],
+        "option_b": [
+          "Vicks",
+          "vick"
+        ],
+        "option_c": [
+          "Tylenol",
+          "tilenol"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": ""
+    },
+    {
+      "id": "arts-and-entertainment_B4_3",
+      "que": "Which actor was Pee-wee Herman's roommate in college?",
+      "ans": {
+        "value": "David Hasselhoff",
+        "correct_entity": "option_a"
+      },
+      "options": [
+        "David Hasselhoff",
+        "Ray Romano",
+        "Tim Allen"
+      ],
+      "expl": [
+        "Paul Reubens, known for his \"Pee-wee Herman\" role, was once David Hasselhoff's roommate at the California Institute of the Arts. Reubens passed away at 70 after battling cancer."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "David Hasselhoff",
+          "david",
+          "hasselhoff"
+        ],
+        "option_b": [
+          "Ray Romano",
+          "romano",
+          "ray"
+        ],
+        "option_c": [
+          "Tim Allen",
+          "allen",
+          "tim",
+          "team allen"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": ""
+    },
+    {
+      "id": "arts-and-entertainment_B4_4",
+      "que": "Who was the longtime celebrity pitchman for priceline.com?",
+      "ans": {
+        "value": "William Shatner",
+        "correct_entity": "option_b"
+      },
+      "options": [
+        "Bob Barker",
+        "William Shatner",
+        "Tom Selleck"
+      ],
+      "expl": [
+        "In 1997, William Shatner endorsed Priceline.com and received stock as payment. This deal proved highly lucrative, earning him around $600 million. Shatner portrayed \"The Negotiator\" using unique tactics to secure great travel deals. Despite his character's apparent demise in ads, his spirit continued promoting Priceline.com in subsequent commercials."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "Bob Barker",
+          "barker",
+          "bob"
+        ],
+        "option_b": [
+          "William Shatner",
+          "william",
+          "shatner"
+        ],
+        "option_c": [
+          "Tom Selleck",
+          "tom",
+          "selleck"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": ""
+    },
+    {
+      "id": "arts-and-entertainment_B4_5",
+      "que": "Which of the Seven Dwarfs does not have a beard?",
+      "ans": {
+        "value": "Dopey",
+        "correct_entity": "option_c"
+      },
+      "options": [
+        "Sneezy",
+        "Grumpy",
+        "Dopey"
+      ],
+      "expl": [
+        "Dopey, the beloved dwarf from \"Snow White,\" stands out among his peers due to his distinct charm. Unlike other dwarfs, he lacks a beard, giving him a youthful look. His clumsiness and silence define him. Happy reveals Dopey has never spoken, adding mystery. His oversized garments enhance his charm."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "Sneezy",
+          "sneeze"
+        ],
+        "option_b": [
+          "Grumpy"
+        ],
+        "option_c": [
+          "Dopey"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": ""
+    },
+    {
+      "id": "arts-and-entertainment_B4_6",
+      "que": "The main character in the novel \"The Old Man and the Sea\" shares his name with the capital of which country?",
+      "ans": {
+        "value": "Chile",
+        "correct_entity": "option_a"
+      },
+      "options": [
+        "Chile",
+        "Peru",
+        "Argentina"
+      ],
+      "expl": [
+        "The Old Man and the Sea is a novella by Ernest Hemingway, the last major fiction published in his lifetime. It follows Santiago, an aging Cuban fisherman's journey to catch a huge marlin. Published in 1953, it won the Pulitzer Prize for Fiction, boosting Hemingway's 20th-century writer status. The protagonist shares his name with Chile's capital."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "Chile"
+        ],
+        "option_b": [
+          "Peru"
+        ],
+        "option_c": [
+          "Argentina"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": ""
+    },
+    {
+      "id": "arts-and-entertainment_B4_7",
+      "que": "Which songwriter wrote the State Farm ad jingle, \"Like a good neighbor, State Farm is there\"?",
+      "ans": {
+        "value": "Barry Manilow",
+        "correct_entity": "option_c"
+      },
+      "options": [
+        "Neil Diamond",
+        "Billy Joel",
+        "Barry Manilow"
+      ],
+      "expl": [
+        "Barry Manilow, known for hits like \"Copacabana,\" also created famous ad jingles. He composed Band-Aid's iconic jingle (\"I am stuck on Band-Aid...\"). He won a 1976 Clio Award for it. Manilow also wrote State Farm's jingle (\"Like a good neighbor...\"). He earned $500 in 1971 for the insurance company's theme song."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "Neil Diamond",
+          "neil",
+          "diamond"
+        ],
+        "option_b": [
+          "Billy Joel",
+          "billie joel",
+          "joel",
+          "billy"
+        ],
+        "option_c": [
+          "Barry Manilow",
+          "barry",
+          "manilow"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": ""
+    },
+    {
+      "id": "arts-and-entertainment_B4_8",
+      "que": "What was the name of the band Paul McCartney formed after the Beatles?",
+      "ans": {
+        "value": "Wings",
+        "correct_entity": "option_a"
+      },
+      "options": [
+        "Wings",
+        "The Rebels",
+        "The Knack"
+      ],
+      "expl": [
+        "Wings, or Paul McCartney and Wings, emerged in 1971 with Paul McCartney, his wife Linda McCartney, and Denny Laine from Moody Blues. Led by Paul's songwriting, the band dominated the 1970s with 27 U.S. Top 40 hits and five back-to-back number one albums. They disbanded in 1981, and Linda McCartney's 1998 passing ended any chance of a reunion."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "Wings",
+          "wing"
+        ],
+        "option_b": [
+          "The Rebels",
+          "the rebel",
+          "rebels",
+          "rebel"
+        ],
+        "option_c": [
+          "The Knack",
+          "knack"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": ""
+    },
+    {
+      "id": "arts-and-entertainment_B4_9",
+      "que": "The Card Players, one of the most expensive paintings ever sold, was created by which artist?",
+      "ans": {
+        "value": "Paul Cezanne",
+        "correct_entity": "option_a"
+      },
+      "options": [
+        "Paul Cezanne",
+        "Pablo Picasso",
+        "Edvard Munch"
+      ],
+      "expl": [
+        "The Card Players is a set of oil paintings by French artist Paul Cézanne, made in the early 1890s. There are five paintings in different sizes, showing Provençal peasants playing cards and smoking pipes. In 2011, one version was sold to the Qatar Royal Family for around $250 million, ranking as the third priciest artwork sold."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "Paul Cezanne",
+          "Paul Cézanne",
+          "paul",
+          "cezanne",
+          "call suzanne",
+          "call",
+          "suzanne",
+          "season"
+        ],
+        "option_b": [
+          "Pablo Picasso",
+          "pablo",
+          "picasso"
+        ],
+        "option_c": [
+          "Edvard Munch",
+          "edvard",
+          "munch"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": ""
+    },
+    {
+      "id": "arts-and-entertainment_B4_10",
+      "que": "Which famous singer is known to his fans as \"The Boss\"?",
+      "ans": {
+        "value": "Bruce Springsteen",
+        "correct_entity": "option_b"
+      },
+      "options": [
+        "Mick Jagger",
+        "Bruce Springsteen",
+        "Justin Bieber"
+      ],
+      "expl": [
+        "Bruce Springsteen, nicknamed \"The Boss,\" emerged from the New Jersey bar scene, forming the E Street Band. He earned his moniker from managing band payments. Renowned for poetic lyrics and a distinct voice, he celebrates his working-class origins. With over 150 million global record sales and 20 Grammys, he's a music icon."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "Mick Jagger",
+          "mick",
+          "jagger"
+        ],
+        "option_b": [
+          "Bruce Springsteen",
+          "bruce spring teen",
+          "bruce",
+          "springsteen"
+        ],
+        "option_c": [
+          "Justin Bieber",
+          "justin",
+          "bieber"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": ""
+    },
+    {
+      "id": "arts-and-entertainment_B4_11",
+      "que": "What actress was nominated 18 times before finally winning an Emmy Award?",
+      "ans": {
+        "value": "Susan Lucci",
+        "correct_entity": "option_b"
+      },
+      "options": [
+        "Candice Bergen",
+        "Susan Lucci",
+        "Betty White"
+      ],
+      "expl": [
+        "Susan Lucci, known as the \"queen of daytime,\" achieved fame for her role as Erica Kane on \"All My Children\" for over 40 years. She held a record of 18 Emmy nominations without a win until her 19th nomination in 1999, when she finally secured a win and received a standing ovation."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "Candice Bergen",
+          "bergen",
+          "candice"
+        ],
+        "option_b": [
+          "Susan Lucci",
+          "lucci",
+          "susan",
+          "susan lucy"
+        ],
+        "option_c": [
+          "Betty White",
+          "betty",
+          "white"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": ""
+    },
+    {
+      "id": "arts-and-entertainment_B4_12",
+      "que": "Who was the first African American woman to sing on U.S. radio?",
+      "ans": {
+        "value": "Hattie McDaniel",
+        "correct_entity": "option_a"
+      },
+      "options": [
+        "Hattie McDaniel",
+        "Ella Fitzgerald",
+        "Etta James"
+      ],
+      "expl": [
+        "Hattie McDaniel: First African American to win an Academy Award for \"Gone with the Wind\" role of Mammy. She was the first African-American woman to sing on American radio. Born in 1895 in Kansas to former slave parents. Received two posthumous stars on the Hollywood Walk of Fame."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "Hattie McDaniel",
+          "mc daniel",
+          "mcdaniel",
+          "hattie",
+          "hattie macdonald"
+        ],
+        "option_b": [
+          "Ella Fitzgerald",
+          "ella",
+          "fitzgerald"
+        ],
+        "option_c": [
+          "Etta James",
+          "james",
+          "etta",
+          "eta games",
+          "eta",
+          "games"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": ""
+    },
+    {
+      "id": "arts-and-entertainment_B4_13",
+      "que": "What name is singer-actor Stefani Germanotta better known by?",
+      "ans": {
+        "value": "Lady Gaga",
+        "correct_entity": "option_a"
+      },
+      "options": [
+        "Lady Gaga",
+        "Selena Gomez",
+        "Miley Cyrus"
+      ],
+      "expl": [
+        "Stefani Germanotta is better known by her stage name Lady Gaga, an internationally renowned singer, and actor."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "Lady Gaga",
+          "gaga",
+          "lady"
+        ],
+        "option_b": [
+          "Selena Gomez",
+          "selena",
+          "gomez"
+        ],
+        "option_c": [
+          "Miley Cyrus",
+          "mili cyrus",
+          "cyrus",
+          "miley"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": ""
+    },
+    {
+      "id": "arts-and-entertainment_B4_14",
+      "que": "Michael Flatley danced his way to fame in what Irish-inspired show?",
+      "ans": {
+        "value": "Riverdance",
+        "correct_entity": "option_b"
+      },
+      "options": [
+        "Celtic Rhythms",
+        "Riverdance",
+        "Lord of the Dance"
+      ],
+      "expl": [
+        "After attracting the attention of Ireland's president, Mary Robinson, and dance-show producers, Flatley was invited to help create an intermission show for the 1994 Eurovision Song Contest. He performed in a 7-minute show titled \"Riverdance\" for the interval act of the contest, which was held in Ireland."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "Celtic Rhythms",
+          "celtic rhythm",
+          "rhythms",
+          "celtic",
+          "rhythm"
+        ],
+        "option_b": [
+          "Riverdance",
+          "river dance",
+          "river"
+        ],
+        "option_c": [
+          "Lord of the Dance",
+          "lord of dance",
+          "lord of",
+          "dance",
+          "lord of the",
+          "of dance"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": ""
+    },
+    {
+      "id": "arts-and-entertainment_B4_15",
+      "que": "The classic 1877 novel \"Black Beauty\" is about what kind of animal?",
+      "ans": {
+        "value": "Horse",
+        "correct_entity": "option_c"
+      },
+      "options": [
+        "Cat",
+        "Dog",
+        "Horse"
+      ],
+      "expl": [
+        "Black Beauty is a novel written by Anna Sewell that highlights the life and experiences of a horse, advocating for the humane treatment of animals."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "Cat",
+          "cats"
+        ],
+        "option_b": [
+          "Dog",
+          "dogs"
+        ],
+        "option_c": [
+          "Horse",
+          "horses"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": ""
+    },
+    {
+      "id": "arts-and-entertainment_B4_16",
+      "que": "Which Italian town is the setting for Shakespeare's Romeo and Juliet?",
+      "ans": {
+        "value": "Verona",
+        "correct_entity": "option_c"
+      },
+      "options": [
+        "Venice",
+        "Florence",
+        "Verona"
+      ],
+      "expl": [
+        "Verona is the Italian town where Shakespeare's Romeo and Juliet takes place. The story's iconic balcony scene is set in Verona, making it a renowned literary and romantic location."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "Venice"
+        ],
+        "option_b": [
+          "Florence"
+        ],
+        "option_c": [
+          "Verona"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": ""
+    },
+    {
+      "id": "arts-and-entertainment_B4_17",
+      "que": "Which singer's real name is Robyn Fenty?",
+      "ans": {
+        "value": "Rihanna",
+        "correct_entity": "option_c"
+      },
+      "options": [
+        "Beyonce",
+        "Taylor Swift",
+        "Rihanna"
+      ],
+      "expl": [
+        "The singer with the real name Robyn Fenty is Rihanna. She adopted her middle name as her stage name, becoming one of the world's most well-known artists."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "Beyonce",
+          "beyoncé"
+        ],
+        "option_b": [
+          "Taylor Swift",
+          "taylor",
+          "swift"
+        ],
+        "option_c": [
+          "Rihanna"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": ""
+    },
+    {
+      "id": "arts-and-entertainment_B4_18",
+      "que": "Who is the youngest Oscar winner of all time?",
+      "ans": {
+        "value": "Tatum O'neal",
+        "correct_entity": "option_c"
+      },
+      "options": [
+        "Shirley Temple",
+        "Jodie Foster",
+        "Tatum O'neal"
+      ],
+      "expl": [
+        "Tatum O'Neal is the youngest Oscar winner, having won the Best Supporting Actress award at the age of 10 for her role in \"Paper Moon\" (1973)."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "Shirley Temple",
+          "temple",
+          "shirley"
+        ],
+        "option_b": [
+          "Jodie Foster",
+          "jodie",
+          "foster"
+        ],
+        "option_c": [
+          "Tatum O'neal",
+          "tatum o. neal",
+          "o. neal",
+          "tatum",
+          "o'neal",
+          "tatum on it",
+          "tatum onion",
+          "tattoo o'neill",
+          "atom"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": ""
+    },
+    {
+      "id": "arts-and-entertainment_B4_19",
+      "que": "Who was the first Disney princess?",
+      "ans": {
+        "value": "Snow White",
+        "correct_entity": "option_b"
+      },
+      "options": [
+        "Cinderella",
+        "Snow White",
+        "Aurora"
+      ],
+      "expl": [
+        "Snow White, from Disney's \"Snow White and the Seven Dwarfs\" (1937), was the first character officially recognized as a Disney Princess, setting the foundation for the franchise."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "Cinderella"
+        ],
+        "option_b": [
+          "Snow White",
+          "snow",
+          "white"
+        ],
+        "option_c": [
+          "Aurora"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": ""
+    },
+    {
+      "id": "arts-and-entertainment_B4_20",
+      "que": "Who is Barbie's little sister?",
+      "ans": {
+        "value": "Skipper",
+        "correct_entity": "option_a"
+      },
+      "options": [
+        "Skipper",
+        "Stacie",
+        "Kelly"
+      ],
+      "expl": [
+        "Barbie's younger sister is named Skipper. She is one of Barbie's siblings in the Barbie doll line and is often depicted as a teenager or pre-teen."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "Skipper"
+        ],
+        "option_b": [
+          "Stacie"
+        ],
+        "option_c": [
+          "Kelly"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": ""
+    },
+    {
+      "id": "arts-and-entertainment_B4_21",
+      "que": "Who sang the title song for the latest Bond film, No Time to Die?",
+      "ans": {
+        "value": "Billie Eilish",
+        "correct_entity": "option_a"
+      },
+      "options": [
+        "Billie Eilish",
+        "Sam Smith",
+        "Adele"
+      ],
+      "expl": [
+        "The title song for the Bond film \"No Time to Die\" was performed by Billie Eilish. The song was released in 2020 and became a hit, contributing to the film's soundtrack."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "Billie Eilish",
+          "billi",
+          "eilish",
+          "billie"
+        ],
+        "option_b": [
+          "Sam Smith",
+          "sam",
+          "smith"
+        ],
+        "option_c": [
+          "Adele"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": ""
+    },
+    {
+      "id": "arts-and-entertainment_B4_22",
+      "que": "What did Carl and the Passions change their band name to in The Beach Boys?",
+      "ans": {
+        "value": "Beach Boys",
+        "correct_entity": "option_b"
+      },
+      "options": [
+        "Surfin' Squad",
+        "Beach Boys",
+        "Sun Surfers"
+      ],
+      "expl": [
+        "Carl and the Passions changed their band name to \"The Beach Boys.\" This iconic American rock band, known for their harmonious vocals and beach-inspired sound, made this name change to solidify their identity and brand."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "Surfin' Squad",
+          "surfing squad",
+          "surfing",
+          "surf in squad",
+          "squad",
+          "surf in",
+          "surf"
+        ],
+        "option_b": [
+          "Beach Boys",
+          "beach",
+          "boys",
+          "beach boy",
+          "boy",
+          "bitch boys"
+        ],
+        "option_c": [
+          "Sun Surfers",
+          "surfers",
+          "sun",
+          "surfer"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": ""
+    },
+    {
+      "id": "arts-and-entertainment_B4_23",
+      "que": "What is the name of Dennis the Menace's dog in the comic strip?",
+      "ans": {
+        "value": "Gnasher",
+        "correct_entity": "option_c"
+      },
+      "options": [
+        "Rover",
+        "Fido",
+        "Gnasher"
+      ],
+      "expl": [
+        "In the comic strip \"Dennis the Menace,\" the mischievous young boy has a dog named Gnasher. This character adds humor and adventure to the comic as they navigate various comical situations together."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "Rover",
+          "rovers",
+          "robber"
+        ],
+        "option_b": [
+          "Fido",
+          "feed o.",
+          "filo"
+        ],
+        "option_c": [
+          "Gnasher",
+          "nasher"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": ""
+    },
+    {
+      "id": "arts-and-entertainment_B4_24",
+      "que": "What was the title of the inaugural James Bond novel written by Ian Fleming?",
+      "ans": {
+        "value": "Casino Royale",
+        "correct_entity": "option_b"
+      },
+      "options": [
+        "Thunderball",
+        "Casino Royale",
+        "Goldfinger"
+      ],
+      "expl": [
+        "Ian Fleming's first James Bond novel, \"Casino Royale,\" debuted in 1953. This espionage tale introduces British spy James Bond, agent 007. Bond's mission at a French casino against a Russian agent sets the stage for the enduring Bond franchise."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "Thunderball",
+          "thunder ball"
+        ],
+        "option_b": [
+          "Casino Royale",
+          "casino",
+          "royale",
+          "casino royal"
+        ],
+        "option_c": [
+          "Goldfinger",
+          "gold finger"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": ""
+    },
+    {
+      "id": "arts-and-entertainment_B4_25",
+      "que": "Whose autobiography bears the title \"The Long Walk to Freedom\"?",
+      "ans": {
+        "value": "Nelson Mandela",
+        "correct_entity": "option_b"
+      },
+      "options": [
+        "Mahatma Gandhi",
+        "Nelson Mandela",
+        "Martin Luther King"
+      ],
+      "expl": [
+        "The Long Walk to Freedom is the autobiography of Nelson Mandela, the iconic South African anti-apartheid revolutionary and former president. In this book, Mandela chronicles his life journey, including his struggle against apartheid, his imprisonment, and his ultimate victory in achieving democratic governance and equality in South Africa."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "Mahatma Gandhi",
+          "gandhi",
+          "mahatma"
+        ],
+        "option_b": [
+          "Nelson Mandela",
+          "nelson",
+          "mandela"
+        ],
+        "option_c": [
+          "Martin Luther King",
+          "luther king",
+          "martin luther",
+          "martin king"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": ""
+    },
+    {
+      "id": "arts-and-entertainment_B4_26",
+      "que": "Who is the most filmed author?",
+      "ans": {
+        "value": "William Shakespeare",
+        "correct_entity": "option_a"
+      },
+      "options": [
+        "William Shakespeare",
+        "Jane Austen",
+        "Stephen King"
+      ],
+      "expl": [
+        "William Shakespeare, a prolific playwright and poet from the Renaissance era, holds the distinction of being the most filmed author in history. His timeless works, such as \"Romeo and Juliet,\" \"Hamlet,\" and \"Macbeth,\" have been adapted into numerous movies and television productions."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "William Shakespeare",
+          "william",
+          "shakespeare"
+        ],
+        "option_b": [
+          "Jane Austen",
+          "jane",
+          "austen"
+        ],
+        "option_c": [
+          "Stephen King",
+          "king",
+          "stephen"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": ""
+    },
+    {
+      "id": "arts-and-entertainment_B4_27",
+      "que": "Who was the first actor to appear on the cover of Time magazine?",
+      "ans": {
+        "value": "Charlie Chaplin",
+        "correct_entity": "option_b"
+      },
+      "options": [
+        "Clark Gable",
+        "Charlie Chaplin",
+        "Marlon Brando"
+      ],
+      "expl": [
+        "He was the first actor to grace the cover of Time magazine. This iconic moment occurred on July 6, 1925, marking a significant milestone in the recognition of actors' influence on popular culture. Chaplin's timeless performances and innovative contributions to cinema solidified his status as one of the most celebrated actors in history."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "Clark Gable",
+          "clark",
+          "gable"
+        ],
+        "option_b": [
+          "Charlie Chaplin",
+          "charlie",
+          "chaplin"
+        ],
+        "option_c": [
+          "Marlon Brando",
+          "marlon",
+          "brando"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": ""
+    },
+    {
+      "id": "arts-and-entertainment_B4_28",
+      "que": "Who directed the Halloween series of films?",
+      "ans": {
+        "value": "John Carpenter",
+        "correct_entity": "option_c"
+      },
+      "options": [
+        "Wes Craven",
+        "Alfred Hitchcock",
+        "John Carpenter"
+      ],
+      "expl": [
+        "The Halloween series of films was directed by John Carpenter. Carpenter's work on Halloween significantly shaped the horror genre and established the slasher film subgenre, making him a crucial figure in cinematic history."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "Wes Craven",
+          "wes",
+          "craven"
+        ],
+        "option_b": [
+          "Alfred Hitchcock",
+          "alfred hitch cock",
+          "alfred",
+          "hitchcock",
+          "hitch cock"
+        ],
+        "option_c": [
+          "John Carpenter",
+          "john",
+          "carpenter"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": ""
+    },
+    {
+      "id": "arts-and-entertainment_B4_29",
+      "que": "In Shakespeare's work Romeo and Juliet, what is the last name of Romeo?",
+      "ans": {
+        "value": "Montague",
+        "correct_entity": "option_c"
+      },
+      "options": [
+        "Oberon",
+        "Prospero",
+        "Montague"
+      ],
+      "expl": [
+        "In Shakespeare's iconic play \"Romeo and Juliet,\" the last name of the tragic protagonist Romeo is Montague. The story revolves around the forbidden love between Romeo Montague and Juliet Capulet, members of feuding families in Verona, Italy, ultimately leading to a series of heart-wrenching events."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "Oberon"
+        ],
+        "option_b": [
+          "Prospero"
+        ],
+        "option_c": [
+          "Montague"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": ""
+    },
+    {
+      "id": "arts-and-entertainment_B4_30",
+      "que": "Who wrote the song for The Lion King?",
+      "ans": {
+        "value": "Elton John",
+        "correct_entity": "option_b"
+      },
+      "options": [
+        "Phil Collins",
+        "Elton John",
+        "Celine Dion"
+      ],
+      "expl": [
+        "The iconic song \"The Lion King\" was composed by Elton John, with lyrics written by Tim Rice. This timeless masterpiece, featured in the animated film of the same name, became a hallmark of the Disney classic, captivating audiences with its emotional depth and captivating melodies."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "Phil Collins",
+          "phil collin",
+          "collins",
+          "phil"
+        ],
+        "option_b": [
+          "Elton John",
+          "elton",
+          "john"
+        ],
+        "option_c": [
+          "Celine Dion",
+          "dion",
+          "celine"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": ""
+    },
+    {
+      "id": "arts-and-entertainment_B4_31",
+      "que": "What is the occupation of Superman's alter ego, Clack Kent?",
+      "ans": {
+        "value": "Reporter",
+        "correct_entity": "option_b"
+      },
+      "options": [
+        "Accountant",
+        "Reporter",
+        "Lawyer"
+      ],
+      "expl": [
+        "Superman's alter ego, Clark Kent, works as a reporter for the Metropolis newspaper, The Daily Planet. He assumes this role to blend in with humanity while using his superpowers to protect the city as Superman."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "Accountant",
+          "accountants"
+        ],
+        "option_b": [
+          "Reporter",
+          "reporters"
+        ],
+        "option_c": [
+          "Lawyer",
+          "lawyers"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": ""
+    },
+    {
+      "id": "arts-and-entertainment_B4_32",
+      "que": "Which artist created the \"Peanuts\" cartoon?",
+      "ans": {
+        "value": "Charles Schulz",
+        "correct_entity": "option_c"
+      },
+      "options": [
+        "Jim Davis",
+        "Walt Disney",
+        "Charles Schulz"
+      ],
+      "expl": [
+        "The \"Peanuts\" cartoon was created by Charles M. Schulz. It features beloved characters like Charlie Brown, Snoopy, and Lucy, exploring the humor and challenges of everyday life. Charles Schulz's artistic and storytelling talents brought this iconic comic strip to life, captivating readers for decades with its timeless charm and relatable themes."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "Jim Davis",
+          "jim",
+          "davis"
+        ],
+        "option_b": [
+          "Walt Disney",
+          "walt",
+          "disney"
+        ],
+        "option_c": [
+          "Charles Schulz",
+          "charles",
+          "schulz",
+          "charlie schools",
+          "charlies",
+          "charles curls",
+          "skulls",
+          "charles skulls"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": ""
+    },
+    {
+      "id": "arts-and-entertainment_B4_33",
+      "que": "Which movie production company is associated with this sound?",
+      "ans": {
+        "value": "Universal Pictures",
+        "correct_entity": "option_b"
+      },
+      "options": [
+        "Marvel",
+        "Universal Pictures",
+        "Pixer"
+      ],
+      "expl": [
+        "The iconic Universal Pictures intro sound, known as the \"Universal Fanfare,\" was composed by Jerry Goldsmith in 1971. It features a blend of brass instruments and a roaring lion's growl, symbolizing power. This 3-second audio clip has become synonymous with the studio and sets the tone for countless movies."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "Marvel"
+        ],
+        "option_b": [
+          "Universal Pictures",
+          "universal picture",
+          "universal",
+          "pictures",
+          "picture"
+        ],
+        "option_c": [
+          "Pixer",
+          "pixers"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": ""
+    },
+    {
+      "id": "arts-and-entertainment_B4_34",
+      "que": "Identify the video game associated with this sound.",
+      "ans": {
+        "value": "Pacman",
+        "correct_entity": "option_c"
+      },
+      "options": [
+        "Tetris",
+        "Mario",
+        "Pacman"
+      ],
+      "expl": [
+        "Pac-Man was launched in 1980, and its original name was Puck-Man. The game's design was inspired by a pizza with a missing slice. Pac-Man's iconic shape made it easier to animate and eat pellets. It became an arcade sensation, featuring the first gaming mascot and introducing maze chase gameplay."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "Tetris"
+        ],
+        "option_b": [
+          "Mario"
+        ],
+        "option_c": [
+          "Pacman",
+          "pac man",
+          "pack man",
+          "puck man"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": ""
+    },
+    {
+      "id": "arts-and-entertainment_B4_35",
+      "que": "Listen to this audio clip and tell me which movie this quote is from?",
+      "ans": {
+        "value": "Paterno",
+        "correct_entity": "option_c"
+      },
+      "options": [
+        "Any Given Sunday",
+        "The God father",
+        "Paterno"
+      ],
+      "expl": [
+        "Any Given Sunday is a 1999 film directed by Oliver Stone, starring Al Pacino. Al Pacino delivers a memorable motivational speech as coach Tony D'Amato. He emphasizes the importance of unity and fighting for every inch, reflecting the tough realities of football and life."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "Any Given Sunday",
+          "given sunday",
+          "any given"
+        ],
+        "option_b": [
+          "The God father",
+          "father",
+          "god",
+          "god father",
+          "the godfather"
+        ],
+        "option_c": [
+          "Paterno",
+          "better now",
+          "patanjali"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": ""
+    },
+    {
+      "id": "arts-and-entertainment_B4_36",
+      "que": "Listen to this audio clip and tell me which movie this quote is from?",
+      "ans": {
+        "value": "Coach Carter",
+        "correct_entity": "option_a"
+      },
+      "options": [
+        "Coach Carter",
+        "Unbreakable",
+        "The Negotiator"
+      ],
+      "expl": [
+        "Coach Carter (2005) stars Samuel L. Jackson as real-life coach Ken Carter. He benched his basketball team for poor academics, highlighting education's importance. The film showcases how sports and learning can transform lives, inspiring real change and teamwork beyond the court."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "Coach Carter"
+        ],
+        "option_b": [
+          "Unbreakable"
+        ],
+        "option_c": [
+          "The Negotiator",
+          "negotiator"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": ""
+    },
+    {
+      "id": "arts-and-entertainment_B4_37",
+      "que": "Listen to this audio clip and tell me which movie this quote is from?",
+      "ans": {
+        "value": "Lego",
+        "correct_entity": "option_c"
+      },
+      "options": [
+        "Minion",
+        "Toy Story",
+        "Lego"
+      ],
+      "expl": [
+        "The Lego Movie (2014) surprised audiences by transforming a simple toy into a witty, self-aware cinematic adventure. Its \"Everything is Awesome\" song became a cultural phenomenon. The film's success spawned a franchise, including sequels, spin-offs, and video games, cementing Lego's influence beyond playtime."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "Minion",
+          "minions"
+        ],
+        "option_b": [
+          "Toy Story"
+        ],
+        "option_c": [
+          "Lego"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": ""
+    },
+    {
+      "id": "arts-and-entertainment_B4_38",
+      "que": "Name the famous actor who delivered this inspiring commencement address.",
+      "ans": {
+        "value": "Jim Carry",
+        "correct_entity": "option_b"
+      },
+      "options": [
+        "Al Pachino",
+        "Jim Carry",
+        "Samuel L. Jackson"
+      ],
+      "expl": [
+        "In this inspiring commencement address, Jim Carrey, discussed his personal journey, the pursuit of dreams, and the importance of taking risks in life. He shared some valuable life lessons and encouraged graduates to follow their passions."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "Al Pachino",
+          "al",
+          "pachino"
+        ],
+        "option_b": [
+          "Jim Carry",
+          "jim",
+          "carry"
+        ],
+        "option_c": [
+          "Samuel L. Jackson",
+          "samuel l.",
+          "jackson",
+          "samuel"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": ""
+    }
+  ],
+  "IMAGE_QUESTIONS": [],
+  "AUDIO_QUESTIONS": []
+}

@@ -1,0 +1,866 @@
+{
+  "TEXT_QUESTIONS": [
+    {
+      "id": "sports_B7_1",
+      "que": "Who won the 2022 FIFA World Cup?",
+      "ans": {
+        "value": "Argentina",
+        "correct_entity": "option_b"
+      },
+      "options": [
+        "France",
+        "Argentina",
+        "Brazil"
+      ],
+      "expl": [
+        "Argentina won the 2022 FIFA World Cup in Qatar after a thrilling 3–3 match against France, decided by penalties. Lionel Messi led the team and was named Player of the Tournament. The victory gave Argentina its third World Cup title and became one of the most memorable finals in history."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "France"
+        ],
+        "option_b": [
+          "Argentina"
+        ],
+        "option_c": [
+          "Brazil"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": ""
+    },
+    {
+      "id": "sports_B7_2",
+      "que": "Which sport was officially added to the 2028 Summer Olympics program?",
+      "ans": {
+        "value": "Cricket",
+        "correct_entity": "option_b"
+      },
+      "options": [
+        "Baseball",
+        "Cricket",
+        "Lacrosse"
+      ],
+      "expl": [
+        "Cricket was added to the 2028 Los Angeles Olympics, returning to the Games after more than 100 years. The format will be the fast-paced T20 version. The move is expected to bring millions of new global viewers."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "Baseball",
+          "base ball"
+        ],
+        "option_b": [
+          "Cricket"
+        ],
+        "option_c": [
+          "Lacrosse",
+          "lack rose",
+          "black rose"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": ""
+    },
+    {
+      "id": "sports_B7_3",
+      "que": "Who won the 2024 NBA Finals?",
+      "ans": {
+        "value": "Celtics",
+        "correct_entity": "option_b"
+      },
+      "options": [
+        "Heat",
+        "Celtics",
+        "Nuggets"
+      ],
+      "expl": [
+        "The Boston Celtics won the 2024 NBA Finals, earning their record-breaking 18th championship. They defeated the Denver Nuggets in a 4-2 series. Jayson Tatum and Jaylen Brown led the team with standout performances."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "Heat",
+          "hit"
+        ],
+        "option_b": [
+          "Celtics"
+        ],
+        "option_c": [
+          "Nuggets"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": ""
+    },
+    {
+      "id": "sports_B7_4",
+      "que": "Which city hosted the 2024 Summer Olympic Games?",
+      "ans": {
+        "value": "Paris",
+        "correct_entity": "option_a"
+      },
+      "options": [
+        "Paris",
+        "Tokyo",
+        "LA"
+      ],
+      "expl": [
+        "The 2024 Summer Olympics were held in Paris, France, marking the city’s first Games since 1924. Events were staged near famous landmarks like the Eiffel Tower and the Seine River. Paris also introduced more gender-balanced events than any previous Olympics."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "Paris"
+        ],
+        "option_b": [
+          "Tokyo"
+        ],
+        "option_c": [
+          "LA",
+          "los angeles",
+          "l. a."
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": ""
+    },
+    {
+      "id": "sports_B7_5",
+      "que": "Which NFL team won Super Bowl LVIII (58)?",
+      "ans": {
+        "value": "Chiefs",
+        "correct_entity": "option_a"
+      },
+      "options": [
+        "Chiefs",
+        "Eagles",
+        "49ers"
+      ],
+      "expl": [
+        "The Kansas City Chiefs won Super Bowl LVIII in early 2024, securing back-to-back titles. Quarterback Patrick Mahomes earned another MVP honor. The game added to the Chiefs’ growing modern-dynasty status."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "Chiefs",
+          "chief",
+          "chesse",
+          "cheese"
+        ],
+        "option_b": [
+          "Eagles",
+          "eagle"
+        ],
+        "option_c": [
+          "49ers",
+          "forty nine ers",
+          "four nine ers",
+          "fourty nine ers",
+          "forty niners",
+          "forty niner"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": ""
+    },
+    {
+      "id": "sports_B7_6",
+      "que": "Who won Ballon d'Or 2023?",
+      "ans": {
+        "value": "Messi",
+        "correct_entity": "option_a"
+      },
+      "options": [
+        "Messi",
+        "Mbappe",
+        "Haaland"
+      ],
+      "expl": [
+        "Lionel Messi won the 2023 Ballon d’Or, his eighth overall — a record in football history. He was honored largely for leading Argentina to the 2022 World Cup win in Qatar. At 36, he became one of the oldest winners of the award."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "Messi",
+          "messy"
+        ],
+        "option_b": [
+          "Mbappe",
+          "Mbappé"
+        ],
+        "option_c": [
+          "Haaland",
+          "holland"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": ""
+    },
+    {
+      "id": "sports_B7_7",
+      "que": "Which tennis player won Wimbledon in 2024?",
+      "ans": {
+        "value": "Alcaraz",
+        "correct_entity": "option_b"
+      },
+      "options": [
+        "Djokovic",
+        "Alcaraz",
+        "Medvedev"
+      ],
+      "expl": [
+        "Carlos Alcaraz won the 2024 Wimbledon Championships after another dramatic final on Centre Court. The Spanish rising star defeated Novak Djokovic, repeating his 2023 victory. At just 21, he became one of the youngest multi-time Wimbledon champions."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "Djokovic",
+          "d. jo kovic",
+          "d. djokovic",
+          "d. j. kovic"
+        ],
+        "option_b": [
+          "Alcaraz",
+          "alka raas",
+          "asgard"
+        ],
+        "option_c": [
+          "Medvedev"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": ""
+    },
+    {
+      "id": "sports_B7_8",
+      "que": "Which country won the 2024 UEFA Euro?",
+      "ans": {
+        "value": "France",
+        "correct_entity": "option_a"
+      },
+      "options": [
+        "France",
+        "Germany",
+        "Spain"
+      ],
+      "expl": [
+        "France won the 2024 UEFA European Championship, lifting the trophy for the third time. The final was held in Berlin, where they defeated Spain. Kylian Mbappé played a key role throughout the tournament."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "France"
+        ],
+        "option_b": [
+          "Germany"
+        ],
+        "option_c": [
+          "Spain"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": ""
+    },
+    {
+      "id": "sports_B7_9",
+      "que": "Which Formula 1 driver won the 2023 championship?",
+      "ans": {
+        "value": "Verstappen",
+        "correct_entity": "option_a"
+      },
+      "options": [
+        "Verstappen",
+        "Hamilton",
+        "Leclerc"
+      ],
+      "expl": [
+        "Max Verstappen won the 2023 Formula 1 World Championship, marking his third straight title with Red Bull Racing. He broke multiple records, including most wins in a single season. His dominance reshaped the competitive landscape of F1."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "Verstappen"
+        ],
+        "option_b": [
+          "Hamilton"
+        ],
+        "option_c": [
+          "Leclerc",
+          "liquor"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": ""
+    },
+    {
+      "id": "sports_B7_10",
+      "que": "Which city hosted the 2025 Winter X Games?",
+      "ans": {
+        "value": "Aspen",
+        "correct_entity": "option_a"
+      },
+      "options": [
+        "Aspen",
+        "Oslo",
+        "Whistler"
+      ],
+      "expl": [
+        "The 2025 Winter X Games were hosted in Aspen, Colorado, a long-time home for the event. Athletes competed in snowboarding, skiing, and snowmobiles. Aspen first began hosting the Games in 2002."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "Aspen",
+          "aspain",
+          "pen"
+        ],
+        "option_b": [
+          "Oslo"
+        ],
+        "option_c": [
+          "Whistler"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": ""
+    },
+    {
+      "id": "sports_B7_11",
+      "que": "What is Japan's national sport?",
+      "ans": {
+        "value": "Sumo Wrestling",
+        "correct_entity": "option_c"
+      },
+      "options": [
+        "Karate",
+        "Judo",
+        "Sumo Wrestling"
+      ],
+      "expl": [
+        "Sumo wrestling is Japan’s national sport, with roots dating back over 1,500 years. Wrestlers, called rikishi, live in strict training stables. The matches are short but full of ritual and tradition."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "Karate"
+        ],
+        "option_b": [
+          "Judo"
+        ],
+        "option_c": [
+          "Sumo Wrestling",
+          "Sumo",
+          "Wrestling"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": ""
+    },
+    {
+      "id": "sports_B7_12",
+      "que": "In which sport do you slam dunk?",
+      "ans": {
+        "value": "Basketball",
+        "correct_entity": "option_a"
+      },
+      "options": [
+        "Basketball",
+        "Soccer",
+        "Tennis"
+      ],
+      "expl": [
+        "A slam dunk is a high-energy scoring move in basketball, made famous in the 1970s by players like Julius Erving. The dunk was even banned in college basketball from 1967–1976."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "Basketball",
+          "basket ball"
+        ],
+        "option_b": [
+          "Soccer"
+        ],
+        "option_c": [
+          "Tennis",
+          "ten is"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": ""
+    },
+    {
+      "id": "sports_B7_13",
+      "que": "In which country did the Olympic Games originate?",
+      "ans": {
+        "value": "Greece",
+        "correct_entity": "option_b"
+      },
+      "options": [
+        "Italy",
+        "Greece",
+        "France"
+      ],
+      "expl": [
+        "The Olympics began in ancient Greece around 776 BC in the city of Olympia. The games were held every four years in honor of Zeus."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "Italy"
+        ],
+        "option_b": [
+          "Greece"
+        ],
+        "option_c": [
+          "France"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": ""
+    },
+    {
+      "id": "sports_B7_14",
+      "que": "Who is the most decorated Olympian?",
+      "ans": {
+        "value": "Michael Phelps",
+        "correct_entity": "option_a"
+      },
+      "options": [
+        "Michael Phelps",
+        "Usain Bolt",
+        "Simone Biles"
+      ],
+      "expl": [
+        "Michael Phelps is the most decorated Olympian in history with 28 medals, including 23 golds. His swimming career spanned five Olympic Games."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "Michael Phelps",
+          "Michael",
+          "Phelps"
+        ],
+        "option_b": [
+          "Usain Bolt",
+          "usain",
+          "bolt"
+        ],
+        "option_c": [
+          "Simone Biles",
+          "simone",
+          "biles",
+          "simon biles"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": ""
+    },
+    {
+      "id": "sports_B7_15",
+      "que": "Miracle on Ice' refers to which Olympic sport?",
+      "ans": {
+        "value": "Hockey",
+        "correct_entity": "option_c"
+      },
+      "options": [
+        "Figure Skating",
+        "Skiing",
+        "Hockey"
+      ],
+      "expl": [
+        "The “Miracle on Ice” refers to the U.S. men’s hockey team defeating the heavily favored Soviet Union at the 1980 Winter Olympics. It’s considered one of the greatest upsets in sports history."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "Figure Skating",
+          "Figure",
+          "Skating"
+        ],
+        "option_b": [
+          "Skiing"
+        ],
+        "option_c": [
+          "Hockey"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": ""
+    },
+    {
+      "id": "sports_B7_16",
+      "que": "What is an eagle in golf?",
+      "ans": {
+        "value": "2 under par",
+        "correct_entity": "option_a"
+      },
+      "options": [
+        "2 under par",
+        "1 under par",
+        "Even par"
+      ],
+      "expl": [
+        "In golf, an eagle means scoring two strokes under par on a hole. For example, finishing a par-5 hole in three shots."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "2 under par",
+          "2",
+          "under",
+          "par",
+          "two under par",
+          "two"
+        ],
+        "option_b": [
+          "1 under par",
+          "1",
+          "under",
+          "par",
+          "one under par",
+          "one"
+        ],
+        "option_c": [
+          "Even par",
+          "Even",
+          "par"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": ""
+    },
+    {
+      "id": "sports_B7_17",
+      "que": "What sport did Sam Malone play in Cheers?",
+      "ans": {
+        "value": "Baseball",
+        "correct_entity": "option_b"
+      },
+      "options": [
+        "Football",
+        "Baseball",
+        "Basketball"
+      ],
+      "expl": [
+        "On Cheers, Sam Malone was a former professional baseball player before becoming a bartender. His past as a relief pitcher is often referenced in the show."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "Football",
+          "foot"
+        ],
+        "option_b": [
+          "Baseball",
+          "base"
+        ],
+        "option_c": [
+          "Basketball",
+          "basket"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": ""
+    },
+    {
+      "id": "sports_B7_18",
+      "que": "Which basketball star was in Space Jam?",
+      "ans": {
+        "value": "Michael Jordan",
+        "correct_entity": "option_c"
+      },
+      "options": [
+        "Kobe Bryant",
+        "LeBron James",
+        "Michael Jordan"
+      ],
+      "expl": [
+        "Michael Jordan starred in the original Space Jam movie released in 1996. The film blended live action with Looney Tunes animation."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "Kobe Bryant"
+        ],
+        "option_b": [
+          "LeBron James",
+          "LeBron",
+          "James"
+        ],
+        "option_c": [
+          "Michael Jordan",
+          "Michael",
+          "Jordan"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": ""
+    },
+    {
+      "id": "sports_B7_19",
+      "que": "How many MLB teams are there?",
+      "ans": {
+        "value": "30",
+        "correct_entity": "option_a"
+      },
+      "options": [
+        "30",
+        "32",
+        "28"
+      ],
+      "expl": [
+        "Major League Baseball has 30 teams, split evenly between the American League and National League."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "30",
+          "thirty",
+          "three zero"
+        ],
+        "option_b": [
+          "32",
+          "three two",
+          "thirty two"
+        ],
+        "option_c": [
+          "28",
+          "twenty eight",
+          "two eight"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": ""
+    },
+    {
+      "id": "sports_B7_20",
+      "que": "Which sport is called 'the beautiful game'?",
+      "ans": {
+        "value": "Soccer",
+        "correct_entity": "option_b"
+      },
+      "options": [
+        "Basketball",
+        "Soccer",
+        "Cricket"
+      ],
+      "expl": [
+        "Soccer is known as “the beautiful game” because of its global appeal and flowing style of play."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "Basketball",
+          "basket ball"
+        ],
+        "option_b": [
+          "Soccer"
+        ],
+        "option_c": [
+          "Cricket"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": ""
+    },
+    {
+      "id": "sports_B7_21",
+      "que": "Which team plays at Progressive Field?",
+      "ans": {
+        "value": "Cleveland Guardians",
+        "correct_entity": "option_a"
+      },
+      "options": [
+        "Cleveland Guardians",
+        "Yankees",
+        "Cardinals"
+      ],
+      "expl": [
+        "Progressive Field is the home ballpark of the Cleveland Guardians. The team plays in Major League Baseball’s American League. The stadium opened in 1994."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "Cleveland Guardians",
+          "Cleveland",
+          "Guardians",
+          "Cleveland Guardian",
+          "Guardian"
+        ],
+        "option_b": [
+          "Yankees",
+          "Yankee"
+        ],
+        "option_c": [
+          "Cardinals",
+          "Cardinal"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": ""
+    },
+    {
+      "id": "sports_B7_22",
+      "que": "Which MLB player had 50 runs and 50 stolen bases in one season?",
+      "ans": {
+        "value": "Shohei Ohtani",
+        "correct_entity": "option_a"
+      },
+      "options": [
+        "Shohei Ohtani",
+        "Mike Trout",
+        "Aaron Judge"
+      ],
+      "expl": [
+        "Shohei Ohtani became the first MLB player to record 50 runs and 50 stolen bases in one season. His rare combination of speed and power made baseball history. He is also known for being both a pitcher and hitter."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "Shohei Ohtani",
+          "Shohei",
+          "Ohtani",
+          "shohey",
+          "shohii",
+          "show hey"
+        ],
+        "option_b": [
+          "Mike Trout"
+        ],
+        "option_c": [
+          "Aaron Judge",
+          "Aaron",
+          "Judge"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": ""
+    },
+    {
+      "id": "sports_B7_23",
+      "que": "In which ball sport is moving illegally with the ball called traveling?",
+      "ans": {
+        "value": "Basketball",
+        "correct_entity": "option_a"
+      },
+      "options": [
+        "Basketball",
+        "Soccer",
+        "Tennis"
+      ],
+      "expl": [
+        "In basketball, traveling is when a player moves with the ball without dribbling. It results in a turnover if called by the referee. The rule keeps the game fair and prevents players from running freely with the ball."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "Basketball",
+          "basket ball"
+        ],
+        "option_b": [
+          "Soccer"
+        ],
+        "option_c": [
+          "Tennis"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": ""
+    },
+    {
+      "id": "sports_B7_24",
+      "que": "Which chess piece can only move diagonally?",
+      "ans": {
+        "value": "Bishop",
+        "correct_entity": "option_a"
+      },
+      "options": [
+        "Bishop",
+        "Rook",
+        "Queen"
+      ],
+      "expl": [
+        "In chess, the bishop can only move diagonally across the board. It can travel any number of squares as long as the path is clear. Each bishop stays on the same color for the entire game."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "Bishop"
+        ],
+        "option_b": [
+          "Rook",
+          "rogue",
+          "ruk",
+          "ruko"
+        ],
+        "option_c": [
+          "Queen"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": ""
+    },
+    {
+      "id": "sports_B7_25",
+      "que": "How many minutes is the standard penalty for fighting in NHL hockey?",
+      "ans": {
+        "value": "5",
+        "correct_entity": "option_a"
+      },
+      "options": [
+        "5",
+        "2",
+        "10"
+      ],
+      "expl": [
+        "In the NHL, a standard fighting penalty is five minutes in the penalty box. Both players involved usually receive the same punishment. It’s one of the few sports where fighting is allowed in a controlled way."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "5",
+          "five"
+        ],
+        "option_b": [
+          "2",
+          "two"
+        ],
+        "option_c": [
+          "10",
+          "ten"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": ""
+    }
+  ],
+  "IMAGE_QUESTIONS": [],
+  "AUDIO_QUESTIONS": []
+}

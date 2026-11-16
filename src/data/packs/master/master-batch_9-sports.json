@@ -1,0 +1,835 @@
+{
+  "TEXT_QUESTIONS": [
+    {
+      "id": "sport_B9_1",
+      "que": "How many players are on a basketball team on the court at one time?",
+      "ans": {
+        "value": "Five",
+        "correct_entity": "option_c"
+      },
+      "options": [
+        "Six",
+        "Seven",
+        "Five"
+      ],
+      "expl": [
+        "A basketball team has five players on the court at one time. The five positions are point guard, shooting guard, small forward, power forward, and center. With five players on each side, ten players are on the court simultaneously during play."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "Six",
+          "6",
+          "sिक्स"
+        ],
+        "option_b": [
+          "Seven",
+          "7",
+          "sevn"
+        ],
+        "option_c": [
+          "Five",
+          "5",
+          "fiv"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": ""
+    },
+    {
+      "id": "sport_B9_2",
+      "que": "Which American baseball event is called the 'Fall Classic'?",
+      "ans": {
+        "value": "The World Series",
+        "correct_entity": "option_a"
+      },
+      "options": [
+        "The World Series",
+        "The Super Bowl",
+        "The Stanley Cup"
+      ],
+      "expl": [
+        "The World Series is called the 'Fall Classic' because it is played in late October between the champions of the American League and the National League. It is the championship of Major League Baseball and has been played almost every year since 1903."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "The World Series",
+          "world series",
+          "fall classic",
+          "baseball championship"
+        ],
+        "option_b": [
+          "The Super Bowl",
+          "super bowl",
+          "superbowl",
+          "nfl championship"
+        ],
+        "option_c": [
+          "The Stanley Cup",
+          "stanley cup",
+          "hockey championship"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": ""
+    },
+    {
+      "id": "sport_B9_3",
+      "que": "What is the maximum score in a single game of ten-pin bowling?",
+      "ans": {
+        "value": "300",
+        "correct_entity": "option_b"
+      },
+      "options": [
+        "200",
+        "300",
+        "250"
+      ],
+      "expl": [
+        "The maximum score in a single game of ten-pin bowling is 300, called a perfect game. Achieving a perfect game requires bowling 12 consecutive strikes (all 10 pins knocked down on the first ball) in a single game. It is considered one of the greatest achievements in the sport."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "200",
+          "two hundred",
+          "two zero zero"
+        ],
+        "option_b": [
+          "300",
+          "three hundred",
+          "three zero zero"
+        ],
+        "option_c": [
+          "250",
+          "two hundred fifty",
+          "two fifty",
+          "two hundred and fifty"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": ""
+    },
+    {
+      "id": "sport_B9_4",
+      "que": "How long is a marathon race?",
+      "ans": {
+        "value": "26.2 miles",
+        "correct_entity": "option_a"
+      },
+      "options": [
+        "26.2 miles",
+        "24.2 miles",
+        "28.2 miles"
+      ],
+      "expl": [
+        "A marathon is 26.2 miles, or 42.195 kilometres. The distance was standardized in 1921. The marathon is named after the legend of Pheidippides, a Greek soldier who ran from Marathon to Athens to announce a military victory before dying. It is one of the original Olympic sports."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "26.2 miles",
+          "twenty six point two miles",
+          "marathon distance"
+        ],
+        "option_b": [
+          "24.2 miles",
+          "twenty four point two miles"
+        ],
+        "option_c": [
+          "28.2 miles",
+          "twenty eight point two miles"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": ""
+    },
+    {
+      "id": "sport_B9_5",
+      "que": "In tennis, what is the term for a score of zero?",
+      "ans": {
+        "value": "Love",
+        "correct_entity": "option_b"
+      },
+      "options": [
+        "Nil",
+        "Love",
+        "Deuce"
+      ],
+      "expl": [
+        "In tennis, zero points is called 'love.' The origin of the term is disputed; one theory is it comes from the French word 'l'oeuf' meaning 'the egg,' as an egg resembles a zero. The scoring in tennis goes love, 15, 30, 40, then game."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "Nil",
+          "zero",
+          "naught",
+          "nothing"
+        ],
+        "option_b": [
+          "Love",
+          "luv"
+        ],
+        "option_c": [
+          "Deuce",
+          "tied forty",
+          "forty all"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": ""
+    },
+    {
+      "id": "sport_B9_6",
+      "que": "Which country hosted the 2016 Summer Olympics?",
+      "ans": {
+        "value": "Brazil",
+        "correct_entity": "option_b"
+      },
+      "options": [
+        "China",
+        "Brazil",
+        "United Kingdom"
+      ],
+      "expl": [
+        "The 2016 Summer Olympics were held in Rio de Janeiro, Brazil, from August 5 to 21, 2016. It was the first time the Olympics had been held in South America. The games featured 306 events in 28 sports. The United States topped the medal count with 121 medals."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "China",
+          "chinese",
+          "beijing",
+          "zhongguo"
+        ],
+        "option_b": [
+          "Brazil",
+          "brazilian",
+          "rio",
+          "brasil"
+        ],
+        "option_c": [
+          "United Kingdom",
+          "uk",
+          "britain",
+          "london",
+          "england"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": ""
+    },
+    {
+      "id": "sport_B9_7",
+      "que": "How many holes are there in a standard round of golf?",
+      "ans": {
+        "value": "18",
+        "correct_entity": "option_b"
+      },
+      "options": [
+        "9",
+        "18",
+        "27"
+      ],
+      "expl": [
+        "A standard round of golf consists of 18 holes. Most golf courses are designed around 18 holes, which became the norm when the Royal and Ancient Golf Club of St Andrews in Scotland (the sport's governing body) standardized its course to 18 holes in 1858."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "9",
+          "nine",
+          "nain"
+        ],
+        "option_b": [
+          "18",
+          "eighteen",
+          "eightteen"
+        ],
+        "option_c": [
+          "27",
+          "twenty seven",
+          "twentyseven"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": ""
+    },
+    {
+      "id": "sport_B9_8",
+      "que": "In which sport do players use a puck?",
+      "ans": {
+        "value": "Ice hockey",
+        "correct_entity": "option_b"
+      },
+      "options": [
+        "Field hockey",
+        "Ice hockey",
+        "Lacrosse"
+      ],
+      "expl": [
+        "A puck is used in ice hockey. It is a vulcanized rubber disc, 1 inch thick and 3 inches in diameter, weighing between 5.5 and 6 ounces. Players use sticks to hit the puck along the ice into the opposing team's goal. Pucks are frozen before use to reduce bouncing."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "Field hockey",
+          "grass hockey"
+        ],
+        "option_b": [
+          "Ice hockey",
+          "hockey",
+          "nhl",
+          "icehockey"
+        ],
+        "option_c": [
+          "Lacrosse",
+          "lax"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": ""
+    },
+    {
+      "id": "sport_B9_9",
+      "que": "Who holds the record for the most Grand Slam tennis titles among male players?",
+      "ans": {
+        "value": "Novak Djokovic",
+        "correct_entity": "option_b"
+      },
+      "options": [
+        "Rafael Nadal",
+        "Novak Djokovic",
+        "Roger Federer"
+      ],
+      "expl": [
+        "Novak Djokovic holds the record for the most Grand Slam singles titles among male players, with 24 titles as of 2023. He surpassed Rafael Nadal's previous record of 22. Djokovic has won all four Grand Slam tournaments at least three times."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "Rafael Nadal",
+          "nadal",
+          "rafa",
+          "rafa nadal"
+        ],
+        "option_b": [
+          "Novak Djokovic",
+          "djokovic",
+          "novak",
+          "jokovic"
+        ],
+        "option_c": [
+          "Roger Federer",
+          "federer",
+          "roger"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": ""
+    },
+    {
+      "id": "sport_B9_10",
+      "que": "What does MLB stand for?",
+      "ans": {
+        "value": "Major League Baseball",
+        "correct_entity": "option_b"
+      },
+      "options": [
+        "Major League Basketball",
+        "Major League Baseball",
+        "Modern League Baseball"
+      ],
+      "expl": [
+        "MLB stands for Major League Baseball. It is the professional baseball organization in North America and consists of 30 teams: 29 from the United States and 1 from Canada (the Toronto Blue Jays). MLB is considered the highest level of professional baseball in the world."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "Major League Basketball",
+          "mlb basketball"
+        ],
+        "option_b": [
+          "Major League Baseball",
+          "mlb",
+          "baseball league"
+        ],
+        "option_c": [
+          "Modern League Baseball",
+          "modern baseball league"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": ""
+    },
+    {
+      "id": "sport_B9_11",
+      "que": "How many gold medals did Michael Phelps win in his Olympic career?",
+      "ans": {
+        "value": "23",
+        "correct_entity": "option_b"
+      },
+      "options": [
+        "18",
+        "23",
+        "28"
+      ],
+      "expl": [
+        "Michael Phelps won 23 Olympic gold medals over his career, competing in four Olympic Games from 2000 to 2016. He has the most Olympic gold medals of any athlete in history. In total, Phelps won 28 Olympic medals, also a record. He competed primarily in butterfly and individual medley events."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "18",
+          "eighteen",
+          "eightteen"
+        ],
+        "option_b": [
+          "23",
+          "twenty three",
+          "twentythree"
+        ],
+        "option_c": [
+          "28",
+          "twenty eight",
+          "twentyeight"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": ""
+    },
+    {
+      "id": "sport_B9_12",
+      "que": "In which sport is the 'breaststroke' used?",
+      "ans": {
+        "value": "Swimming",
+        "correct_entity": "option_b"
+      },
+      "options": [
+        "Rowing",
+        "Swimming",
+        "Water polo"
+      ],
+      "expl": [
+        "The breaststroke is one of the four competitive swimming strokes, along with freestyle (front crawl), backstroke, and butterfly. It is the slowest competitive swimming stroke. Swimmers extend their arms forward, pull them back in a circular motion, while doing a frog kick with their legs."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "Rowing",
+          "crew",
+          "boat rowing"
+        ],
+        "option_b": [
+          "Swimming",
+          "swim",
+          "swimmer sport"
+        ],
+        "option_c": [
+          "Water polo",
+          "waterpolo"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": ""
+    },
+    {
+      "id": "sport_B9_13",
+      "que": "What sport is played at Wimbledon?",
+      "ans": {
+        "value": "Tennis",
+        "correct_entity": "option_c"
+      },
+      "options": [
+        "Squash",
+        "Cricket",
+        "Tennis"
+      ],
+      "expl": [
+        "Wimbledon is the world's oldest and most prestigious tennis tournament. It is held at the All England Lawn Tennis and Croquet Club in Wimbledon, London, and has been played since 1877. Players must wear predominantly white clothing, and matches are played on grass courts."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "Squash",
+          "squash game",
+          "ash"
+        ],
+        "option_b": [
+          "Cricket",
+          "cricket sport"
+        ],
+        "option_c": [
+          "Tennis",
+          "lawn tennis",
+          "tenis"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": ""
+    },
+    {
+      "id": "sport_B9_14",
+      "que": "In American football, how many points is a field goal worth?",
+      "ans": {
+        "value": "Three",
+        "correct_entity": "option_b"
+      },
+      "options": [
+        "Two",
+        "Three",
+        "Six"
+      ],
+      "expl": [
+        "In American football, a field goal is worth three points. To score one, the kicker must kick the ball through the goalposts. Field goals are typically attempted on fourth down when a team is close enough but unsure they can score a touchdown."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "Two",
+          "2",
+          "too",
+          "tu"
+        ],
+        "option_b": [
+          "Three",
+          "3",
+          "tree",
+          "free"
+        ],
+        "option_c": [
+          "Six",
+          "6",
+          "ixs",
+          "sिक्स"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": ""
+    },
+    {
+      "id": "sport_B9_15",
+      "que": "What is the diameter of a regulation basketball hoop in inches?",
+      "ans": {
+        "value": "18 inches",
+        "correct_entity": "option_c"
+      },
+      "options": [
+        "14 inches",
+        "16 inches",
+        "18 inches"
+      ],
+      "expl": [
+        "A regulation basketball hoop has an inside diameter of 18 inches (45.72 cm). This is exactly twice the diameter of a regulation basketball (9.4 inches). The rim is made of orange-painted steel and is mounted 10 feet (3.05 metres) above the floor."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "14 inches",
+          "fourteen inches",
+          "14 inch",
+          "fourteen inch"
+        ],
+        "option_b": [
+          "16 inches",
+          "sixteen inches",
+          "16 inch",
+          "sixteen inch"
+        ],
+        "option_c": [
+          "18 inches",
+          "eighteen inches",
+          "18 inch",
+          "eighteen inch"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": ""
+    },
+    {
+      "id": "sport_B9_16",
+      "que": "In cricket, how many balls are in a standard over?",
+      "ans": {
+        "value": "6",
+        "correct_entity": "option_b"
+      },
+      "options": [
+        "4",
+        "6",
+        "8"
+      ],
+      "expl": [
+        "In cricket, an over consists of 6 balls bowled by the same bowler consecutively from one end of the pitch. After each over, a different bowler must bowl from the opposite end. If a bowler bowls a no-ball or wide, an extra ball must be bowled."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "4",
+          "four",
+          "for"
+        ],
+        "option_b": [
+          "6",
+          "six",
+          "ixs",
+          "sिक्स"
+        ],
+        "option_c": [
+          "8",
+          "eight",
+          "ate",
+          "eit"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": ""
+    },
+    {
+      "id": "sport_B9_17",
+      "que": "Who was the first athlete to run a sub-4-minute mile?",
+      "ans": {
+        "value": "Roger Bannister",
+        "correct_entity": "option_b"
+      },
+      "options": [
+        "Jim Ryun",
+        "Roger Bannister",
+        "Sebastian Coe"
+      ],
+      "expl": [
+        "Roger Bannister became the first person to run a mile in under four minutes on May 6, 1954, at Oxford's Iffley Road track. He clocked a time of 3 minutes 59.4 seconds. This was considered a major athletic barrier previously thought to be physically impossible."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "Jim Ryun",
+          "ryun",
+          "jim ryan"
+        ],
+        "option_b": [
+          "Roger Bannister",
+          "bannister",
+          "roger banister"
+        ],
+        "option_c": [
+          "Sebastian Coe",
+          "coe",
+          "seb coe"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": ""
+    },
+    {
+      "id": "sport_B9_18",
+      "que": "Which American sports league has teams called the Lakers, Celtics, and Warriors?",
+      "ans": {
+        "value": "NBA",
+        "correct_entity": "option_c"
+      },
+      "options": [
+        "MLB",
+        "NHL",
+        "NBA"
+      ],
+      "expl": [
+        "The NBA, or National Basketball Association, has teams called the Los Angeles Lakers, the Boston Celtics, and the Golden State Warriors. The NBA championship has been awarded since 1947 and the Lakers and Celtics have the most titles in league history."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "MLB",
+          "major league baseball",
+          "baseball league"
+        ],
+        "option_b": [
+          "NHL",
+          "national hockey league",
+          "hockey league"
+        ],
+        "option_c": [
+          "NBA",
+          "national basketball association",
+          "basketball league"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": ""
+    },
+    {
+      "id": "sport_B9_19",
+      "que": "In which sport would you find a 'deuce' score?",
+      "ans": {
+        "value": "Tennis",
+        "correct_entity": "option_c"
+      },
+      "options": [
+        "Badminton",
+        "Squash",
+        "Tennis"
+      ],
+      "expl": [
+        "In tennis, 'deuce' occurs when both players are tied at 40-40 (three points each). When deuce is reached, a player must win two consecutive points to win the game. The first point after deuce is called 'advantage.' Deuce can occur multiple times in a single game."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "Badminton",
+          "badminton game"
+        ],
+        "option_b": [
+          "Squash",
+          "squash game"
+        ],
+        "option_c": [
+          "Tennis",
+          "table tennis",
+          "tenis"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": ""
+    },
+    {
+      "id": "sport_B9_20",
+      "que": "Which country won the first Cricket World Cup in 1975?",
+      "ans": {
+        "value": "West Indies",
+        "correct_entity": "option_c"
+      },
+      "options": [
+        "Australia",
+        "India",
+        "West Indies"
+      ],
+      "expl": [
+        "The West Indies won the first ICC Cricket World Cup in 1975, held in England. They defeated Australia in the final at Lord's Cricket Ground in London. Clive Lloyd captained the West Indies team and scored a memorable 102 runs in the final. West Indies also won the 1979 World Cup."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "Australia",
+          "australian",
+          "aussie"
+        ],
+        "option_b": [
+          "India",
+          "indian",
+          "bharat"
+        ],
+        "option_c": [
+          "West Indies",
+          "caribbean",
+          "windies",
+          "westindies"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": ""
+    },
+    {
+      "id": "sport_B9_21",
+      "que": "In baseball, how many strikes does a batter get before they are out?",
+      "ans": {
+        "value": "Three",
+        "correct_entity": "option_b"
+      },
+      "options": [
+        "Two",
+        "Three",
+        "Four"
+      ],
+      "expl": [
+        "In baseball, a batter is out after three strikes. This is where the phrase 'three strikes and you're out' comes from. A strike happens when the batter swings and misses, or when the umpire calls a pitch in the strike zone that the batter does not swing at."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "Two",
+          "2",
+          "too",
+          "tu"
+        ],
+        "option_b": [
+          "Three",
+          "3",
+          "tree",
+          "free"
+        ],
+        "option_c": [
+          "Four",
+          "4",
+          "or",
+          "for"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": ""
+    },
+    {
+      "id": "sport_B9_22",
+      "que": "Which sport is played by NFL teams in the United States?",
+      "ans": {
+        "value": "American football",
+        "correct_entity": "option_b"
+      },
+      "options": [
+        "Soccer",
+        "American football",
+        "Cricket"
+      ],
+      "expl": [
+        "American football is played by teams in the National Football League, or NFL. The season ends each February with the Super Bowl, one of the most-watched sporting events in the country. The NFL has 32 teams split into two conferences."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "Soccer",
+          "football european",
+          "soker",
+          "european football"
+        ],
+        "option_b": [
+          "American football",
+          "football",
+          "nfl football",
+          "america",
+          "american rugby"
+        ],
+        "option_c": [
+          "Cricket",
+          "kriket",
+          "cricket sport"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": ""
+    }
+  ],
+  "IMAGE_QUESTIONS": [],
+  "AUDIO_QUESTIONS": []
+}

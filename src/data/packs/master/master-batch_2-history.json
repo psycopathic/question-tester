@@ -1,0 +1,389 @@
+{
+  "TEXT_QUESTIONS": [
+    {
+      "id": "history_B2_1",
+      "que": "Who wrote the Declaration of Independence?",
+      "ans": {
+        "value": "Thomas Jefferson",
+        "correct_entity": "option_c"
+      },
+      "options": [
+        "John Adams",
+        "Benjamin Franklin",
+        "Thomas Jefferson"
+      ],
+      "expl": [
+        "Thomas Jefferson, a founding father and the third U.S. President, wrote the Declaration of Independence. Adopted on July 4, 1776, it declared America's separation from Great Britain, embodying principles of liberty and rights that influenced American democracy and other independence-seeking nations."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "John Adams",
+          "john",
+          "adams",
+          "adam",
+          "john adam"
+        ],
+        "option_b": [
+          "Benjamin Franklin",
+          "benjamin",
+          "franklin"
+        ],
+        "option_c": [
+          "Thomas Jefferson",
+          "thomas",
+          "jefferson"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": ""
+    },
+    {
+      "id": "history_B2_2",
+      "que": "Which President issued the Emancipation Proclamation?",
+      "ans": {
+        "value": "Abraham Lincoln",
+        "correct_entity": "option_b"
+      },
+      "options": [
+        "Andrew Jackson",
+        "Abraham Lincoln",
+        "George Washington"
+      ],
+      "expl": [
+        "President Abraham Lincoln, the 16th U.S. President, issued the Emancipation Proclamation during the Civil War. This executive order, effective from January 1, 1863, declared freedom for enslaved people in Confederate territories, aiming to weaken the South's economy and promote equality and emancipation."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "Andrew Jackson",
+          "andrew",
+          "jackson",
+          "andrea jackson",
+          "andrea"
+        ],
+        "option_b": [
+          "Abraham Lincoln",
+          "abraham",
+          "lincoln",
+          "lincon"
+        ],
+        "option_c": [
+          "George Washington",
+          "george",
+          "washington"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": ""
+    },
+    {
+      "id": "history_B2_3",
+      "que": "Who invented the cotton gin?",
+      "ans": {
+        "value": "Eli Whitney",
+        "correct_entity": "option_c"
+      },
+      "options": [
+        "Thomas Edison",
+        "Alexander Bell",
+        "Eli Whitney"
+      ],
+      "expl": [
+        "Eli Whitney, an American inventor, is known for inventing the cotton gin. Patented in 1794, the cotton gin automated the separation of cotton fibers from seeds, revolutionizing cotton production and boosting efficiency. This invention had a significant impact on the Southern economy, increasing cotton production and the demand for slave labor."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "Thomas Edison",
+          "thomas",
+          "edison"
+        ],
+        "option_b": [
+          "Alexander Bell",
+          "alexander",
+          "bell",
+          "bel"
+        ],
+        "option_c": [
+          "Eli Whitney",
+          "eli",
+          "whitney",
+          "lie with me"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": ""
+    },
+    {
+      "id": "history_B2_4",
+      "que": "Who authorized the Louisiana Purchase?",
+      "ans": {
+        "value": "Thomas Jefferson",
+        "correct_entity": "option_c"
+      },
+      "options": [
+        "James Monroe",
+        "James Madison",
+        "Thomas Jefferson"
+      ],
+      "expl": [
+        "President Thomas Jefferson, the third U.S. President, authorized the 1803 Louisiana Purchase. This acquisition from France doubled the nation's size, expanding its territory westward. The purchase opened up new lands for exploration, settlement, and westward expansion, significantly influencing the growth of the United States."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "James Monroe",
+          "james",
+          "monroe",
+          "James monrow",
+          "monro"
+        ],
+        "option_b": [
+          "James Madison",
+          "james",
+          "madison",
+          "madyson"
+        ],
+        "option_c": [
+          "Thomas Jefferson",
+          "thomas",
+          "jefferson"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": ""
+    },
+    {
+      "id": "history_B2_5",
+      "que": "Who was the first woman to serve as the Prime Minister of the United Kingdom?",
+      "ans": {
+        "value": "Margaret Thatcher",
+        "correct_entity": "option_a"
+      },
+      "options": [
+        "Margaret Thatcher",
+        "Theresa May",
+        "Angela Merkel"
+      ],
+      "expl": [
+        "Margaret Thatcher became the first woman to serve as the Prime Minister of the United Kingdom, holding the position from 1979 to 1990. Known as the \"Iron Lady,\" she implemented conservative economic policies and significantly shaped British politics during the 1980s."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "Margaret Thatcher",
+          "margaret",
+          "thatcher",
+          "margaret that"
+        ],
+        "option_b": [
+          "Theresa May",
+          "theresa",
+          "may",
+          "teresa",
+          "teresa may"
+        ],
+        "option_c": [
+          "Angela Merkel",
+          "angela",
+          "merkel",
+          "markel",
+          "angel"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": ""
+    },
+    {
+      "id": "history_B2_6",
+      "que": "Which U.S. president signed the Civil Rights Act of 1964 into law?",
+      "ans": {
+        "value": "Lyndon B. Johnson",
+        "correct_entity": "option_b"
+      },
+      "options": [
+        "John F. Kennedy",
+        "Lyndon B. Johnson",
+        "Richard Nixon"
+      ],
+      "expl": [
+        "President Lyndon B. Johnson signed the Civil Rights Act of 1964 into law. This landmark legislation aimed to combat racial discrimination and segregation in public facilities, employment, and education. It was a crucial milestone in the civil rights movement and contributed to advancing equal rights and opportunities for all Americans."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "John F. Kennedy",
+          "john",
+          "f. kennedy",
+          "kennedy",
+          "john kennedy"
+        ],
+        "option_b": [
+          "Lyndon B. Johnson",
+          "lyndon",
+          "johnson",
+          "london johnson",
+          "london",
+          "lyndon johnson"
+        ],
+        "option_c": [
+          "Richard Nixon",
+          "richard",
+          "nixon",
+          "nicson"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": ""
+    },
+    {
+      "id": "history_B2_7",
+      "que": "Which country was the first to launch a human-made satellite into space?",
+      "ans": {
+        "value": "Soviet Union",
+        "correct_entity": "option_b"
+      },
+      "options": [
+        "United States",
+        "Soviet Union",
+        "China"
+      ],
+      "expl": [
+        "The Soviet Union was the first country to launch a human-made satellite into space. On October 4, 1957, the Soviet spacecraft Sputnik 1 was successfully launched, marking the beginning of the Space Age. This event significantly impacted the Cold War rivalry between the United States and the Soviet Union, triggering a new era of space exploration."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "United States",
+          "united",
+          "states",
+          "u. s.",
+          "u. s. a."
+        ],
+        "option_b": [
+          "Soviet Union",
+          "soviet",
+          "union"
+        ],
+        "option_c": [
+          "China"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": ""
+    },
+    {
+      "id": "history_B2_8",
+      "que": "Who is considered the father of modern physics?",
+      "ans": {
+        "value": "Albert Einstein",
+        "correct_entity": "option_c"
+      },
+      "options": [
+        "Isaac Newton",
+        "Galileo Galilei",
+        "Albert Einstein"
+      ],
+      "expl": [
+        "Albert Einstein, a German physicist, is hailed as the father of modern physics. His revolutionary theories, like relativity, transformed our comprehension of space, time, and energy. Einstein's work greatly influenced modern physics and laid the foundation for technological progress."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "Isaac Newton",
+          "isaac",
+          "newton"
+        ],
+        "option_b": [
+          "Galileo Galilei",
+          "galileo",
+          "galilei"
+        ],
+        "option_c": [
+          "Albert Einstein",
+          "albert",
+          "einstein"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": ""
+    },
+    {
+      "id": "history_B2_9",
+      "que": "Which Italian city was explorer Marco Polo from?",
+      "ans": {
+        "value": "Venice",
+        "correct_entity": "option_c"
+      },
+      "options": [
+        "Rome",
+        "Florence",
+        "Venice"
+      ],
+      "expl": [
+        "Marco Polo, the famous explorer from Venice, Italy, traveled along the Silk Road to China. His book, \"The Travels of Marco Polo,\" shared important information about Asia's lands, cultures, and treasures, solidifying his status as a highly influential explorer."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "Rome",
+          "roam"
+        ],
+        "option_b": [
+          "Florence"
+        ],
+        "option_c": [
+          "Venice",
+          "when is",
+          "vein is"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": ""
+    },
+    {
+      "id": "history_B2_10",
+      "que": "In which European country is the International Court of Justice located?",
+      "ans": {
+        "value": "Netherlands",
+        "correct_entity": "option_a"
+      },
+      "options": [
+        "Netherlands",
+        "Switzerland",
+        "France"
+      ],
+      "expl": [
+        "The International Court of Justice is located in The Hague, Netherlands. The court is the principal judicial organ of the United Nations and settles legal disputes between countries. The Netherlands hosts the court as part of its commitment to international law and diplomacy."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "Netherlands",
+          "netherland"
+        ],
+        "option_b": [
+          "Switzerland"
+        ],
+        "option_c": [
+          "France"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": ""
+    }
+  ],
+  "IMAGE_QUESTIONS": [],
+  "AUDIO_QUESTIONS": []
+}

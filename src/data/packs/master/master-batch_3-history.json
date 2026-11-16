@@ -1,0 +1,511 @@
+{
+  "TEXT_QUESTIONS": [
+    {
+      "id": "history_B3_1",
+      "que": "Which state did America buy from Russia in 1867?",
+      "ans": {
+        "value": "Alaska",
+        "correct_entity": "option_a"
+      },
+      "options": [
+        "Alaska",
+        "Hawaii",
+        "Louisiana"
+      ],
+      "expl": [
+        "The U.S. bought Alaska from Russia in 1867, known as the Alaska Purchase or Seward's Folly. Secretary of State William H. Seward negotiated the deal for $7.2 million. Despite initial skepticism, Alaska's abundant resources like gold, oil, and timber became valuable assets for the country."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "Alaska"
+        ],
+        "option_b": [
+          "Hawaii",
+          "hawai"
+        ],
+        "option_c": [
+          "Louisiana"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": ""
+    },
+    {
+      "id": "history_B3_2",
+      "que": "Who was the only U.S. President that spoke English as a second language?",
+      "ans": {
+        "value": "Martin Van Buren",
+        "correct_entity": "option_c"
+      },
+      "options": [
+        "Thomas Jefferson",
+        "John Adams",
+        "Martin Van Buren"
+      ],
+      "expl": [
+        "Martin Van Buren, unlike his seven predecessors, was the first U.S. president born as an American citizen rather than a British subject. Born in 1782 in Kinderhook, New York, he grew up in a Dutch-speaking community. He learned English as a second language while attending school."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "Thomas Jefferson",
+          "jeff",
+          "jefferson",
+          "thomas"
+        ],
+        "option_b": [
+          "John Adams",
+          "adam",
+          "adams",
+          "john adam"
+        ],
+        "option_c": [
+          "Martin Van Buren",
+          "buren",
+          "martin",
+          "martin van",
+          "van buren",
+          "martin buren"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": ""
+    },
+    {
+      "id": "history_B3_3",
+      "que": "Which President first held a Fourth of July celebration at the White House?",
+      "ans": {
+        "value": "Thomas Jefferson",
+        "correct_entity": "option_b"
+      },
+      "options": [
+        "George Washington",
+        "Thomas Jefferson",
+        "John Adams"
+      ],
+      "expl": [
+        "Thomas Jefferson was the third president of the United States. During his presidency, the first Fourth of July celebration took place at the White House in 1801. Jefferson hosted a public reception at the presidential mansion, where visitors could celebrate the nation's independence."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "George Washington",
+          "george"
+        ],
+        "option_b": [
+          "Thomas Jefferson",
+          "jeff",
+          "jefferson"
+        ],
+        "option_c": [
+          "John Adams",
+          "adam",
+          "adams"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": ""
+    },
+    {
+      "id": "history_B3_4",
+      "que": "What was Australia's original name?",
+      "ans": {
+        "value": "New Holland",
+        "correct_entity": "option_b"
+      },
+      "options": [
+        "New England",
+        "New Holland",
+        "New France"
+      ],
+      "expl": [
+        "Australia was originally called New Holland by the Dutch in the 1600s. Matthew Flinders, an English explorer, suggested and popularized the name Australia in 1804. It officially replaced New Holland in 1817."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "New England",
+          "england"
+        ],
+        "option_b": [
+          "New Holland",
+          "holland"
+        ],
+        "option_c": [
+          "New France",
+          "France"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": ""
+    },
+    {
+      "id": "history_B3_5",
+      "que": "Which country was the first to insist upon car registration plates?",
+      "ans": {
+        "value": "United Kingdom",
+        "correct_entity": "option_c"
+      },
+      "options": [
+        "France",
+        "Germany",
+        "United Kingdom"
+      ],
+      "expl": [
+        "The United Kingdom was the first country to introduce car registration plates. In 1903, the Motor Car Act required all vehicles to display unique number plates, allowing for easier identification and regulation of vehicles on public roads."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "France"
+        ],
+        "option_b": [
+          "Germany"
+        ],
+        "option_c": [
+          "United Kingdom",
+          "u. k.",
+          "united",
+          "kingdom"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": ""
+    },
+    {
+      "id": "history_B3_6",
+      "que": "Which American city was once called New Amsterdam?",
+      "ans": {
+        "value": "New York City",
+        "correct_entity": "option_a"
+      },
+      "options": [
+        "New York City",
+        "Boston",
+        "Philadelphia"
+      ],
+      "expl": [
+        "New York City was once called New Amsterdam during its early history when it was a Dutch colony in the 17th century. The English took control of the city in 1664 and renamed it New York, honoring the Duke of York and Albany."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "New York City",
+          "new york",
+          "n. y.",
+          "n. y. city"
+        ],
+        "option_b": [
+          "Boston"
+        ],
+        "option_c": [
+          "Philadelphia"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": ""
+    },
+    {
+      "id": "history_B3_7",
+      "que": "What was the first university in America?",
+      "ans": {
+        "value": "Harvard",
+        "correct_entity": "option_a"
+      },
+      "options": [
+        "Harvard",
+        "Yale",
+        "Princeton"
+      ],
+      "expl": [
+        "Harvard University, located in Cambridge, Massachusetts, is widely recognized as the first institution of higher learning in the United States. It was established in 1636 and played a pivotal role in shaping the American education system. Harvard has a rich history and has produced numerous notable alums in various fields, including politics, science, and the arts."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "Harvard",
+          "hard word"
+        ],
+        "option_b": [
+          "Yale",
+          "yell"
+        ],
+        "option_c": [
+          "Princeton"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": ""
+    },
+    {
+      "id": "history_B3_8",
+      "que": "Which US city is known as Beantown?",
+      "ans": {
+        "value": "Boston",
+        "correct_entity": "option_c"
+      },
+      "options": [
+        "New Orleans",
+        "Chicago",
+        "Boston"
+      ],
+      "expl": [
+        "Boston is known as Beantown, a nickname derived from the city's historic association with baked beans. Baked beans, often made with molasses, became popular in the region during the 17th and 18th centuries and earned Boston its flavorful nickname."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "New Orleans",
+          "orleans",
+          "new"
+        ],
+        "option_b": [
+          "Chicago"
+        ],
+        "option_c": [
+          "Boston"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": ""
+    },
+    {
+      "id": "history_B3_9",
+      "que": "Who was the first person to sign the Declaration of Independence?",
+      "ans": {
+        "value": "John Hancock",
+        "correct_entity": "option_c"
+      },
+      "options": [
+        "George Washington",
+        "Thomas Jefferson",
+        "John Hancock"
+      ],
+      "expl": [
+        "John Hancock, He was the first person to sign the Declaration of Independence on July 4, 1776. As the Second Continental Congress president, Hancock's signature stands out prominently on the document, which is why the term \"John Hancock\" has become synonymous with a person's signature in American English."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "George Washington",
+          "george",
+          "washington"
+        ],
+        "option_b": [
+          "Thomas Jefferson",
+          "jeff",
+          "jefferson"
+        ],
+        "option_c": [
+          "John Hancock",
+          "hancock",
+          "joan hancock",
+          "john",
+          "joan",
+          "jon hancock",
+          "cock"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": ""
+    },
+    {
+      "id": "history_B3_10",
+      "que": "Cinco de Mayo commemorates Mexico's victory at the Battle of Puebla over which country?",
+      "ans": {
+        "value": "France",
+        "correct_entity": "option_b"
+      },
+      "options": [
+        "Costa Rica",
+        "France",
+        "Cuba"
+      ],
+      "expl": [
+        "Cinco de Mayo is a yearly event commemorating Mexico's triumph over the French Empire in 1862 at the Battle of Puebla. Against all odds, the outnumbered Mexican forces defended Puebla, forcing the French army to retreat. Although not a major holiday in Mexico, Cinco de Mayo has become a cherished celebration of Mexican American heritage in the United States."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "Costa Rica",
+          "rica",
+          "costa"
+        ],
+        "option_b": [
+          "France"
+        ],
+        "option_c": [
+          "Cuba"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": ""
+    },
+    {
+      "id": "history_B3_11",
+      "que": "In what year did America purchase the Louisiana Territory from France?",
+      "ans": {
+        "value": "1803",
+        "correct_entity": "option_b"
+      },
+      "options": [
+        "1776",
+        "1803",
+        "1848"
+      ],
+      "expl": [
+        "America purchased the Louisiana Territory from France in 1803. The Louisiana Purchase was a significant event in U.S. history, as it doubled the size of the country. The acquisition, negotiated by President Thomas Jefferson, expanded American territory westward and paved the way for westward expansion and American frontier exploration."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "1776",
+          "one seven seven six",
+          "seventeen seventy six"
+        ],
+        "option_b": [
+          "1803",
+          "eighteen zero three",
+          "one thousand eight hundred and three",
+          "eighteen o three"
+        ],
+        "option_c": [
+          "1848",
+          "eighteen hundred forty eight",
+          "one eight four eight",
+          "one thousand eight hundred forty eight"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": ""
+    },
+    {
+      "id": "history_B3_12",
+      "que": "Before adopting its current name, Sri Lanka was previously recognized as?",
+      "ans": {
+        "value": "Ceylon",
+        "correct_entity": "option_a"
+      },
+      "options": [
+        "Ceylon",
+        "Burma",
+        "Maldives"
+      ],
+      "expl": [
+        "Sri Lanka was previously known as Ceylon. The country's name was officially changed to Sri Lanka in 1972, replacing the colonial-era name. However, the last name, Ceylon, is still used to refer to the island during the time it was under British colonial rule."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "Ceylon",
+          "salon"
+        ],
+        "option_b": [
+          "Burma"
+        ],
+        "option_c": [
+          "Maldives",
+          "maldive"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": ""
+    },
+    {
+      "id": "history_B3_13",
+      "que": "Who was the first president to live in the White House?",
+      "ans": {
+        "value": "John Adams",
+        "correct_entity": "option_c"
+      },
+      "options": [
+        "George Washington",
+        "Thomas Jefferson",
+        "John Adams"
+      ],
+      "expl": [
+        "John Adams was the first president to live in the White House. Although George Washington oversaw the construction of the White House during his presidency, it was not completed until after he left office. John Adams and his wife, Abigail Adams, became the first occupants of the White House when they moved in on November 1st, 1800. Adams served as the second president of the United States from 1797 to 1801."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "George Washington",
+          "george"
+        ],
+        "option_b": [
+          "Thomas Jefferson",
+          "jeff",
+          "jefferson"
+        ],
+        "option_c": [
+          "John Adams",
+          "adam",
+          "adams",
+          "john adam"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": ""
+    },
+    {
+      "id": "history_B3_14",
+      "que": "The phrase \"Let them eat cake\" is commonly attributed to whom?",
+      "ans": {
+        "value": "Marie Antoinette",
+        "correct_entity": "option_a"
+      },
+      "options": [
+        "Marie Antoinette",
+        "Cleopatra",
+        "Joan of Arc"
+      ],
+      "expl": [
+        "\"Let them eat cake,\" famously linked to Marie-Antoinette, the French queen during the revolution, reflects her alleged indifference to the bread shortage faced by peasants. The anecdote underscores the disconnect between the queen and the suffering population, often employed by historians supporting the revolution to depict the self-centeredness of the aristocracy."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "Marie Antoinette",
+          "antoinette",
+          "marry",
+          "marie",
+          "ant",
+          "marry antoinette"
+        ],
+        "option_b": [
+          "Cleopatra",
+          "cleo patra"
+        ],
+        "option_c": [
+          "Joan of Arc",
+          "joan",
+          "arc",
+          "john of arc",
+          "jon of arc",
+          "john of art",
+          "jon of art",
+          "joan of art"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": ""
+    }
+  ],
+  "IMAGE_QUESTIONS": [],
+  "AUDIO_QUESTIONS": []
+}

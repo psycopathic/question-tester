@@ -1,0 +1,370 @@
+{
+  "TEXT_QUESTIONS": [
+    {
+      "id": "geography_B3_1",
+      "que": "The Trevi Fountain is a landmark in which city?",
+      "ans": {
+        "value": "Rome",
+        "correct_entity": "option_a"
+      },
+      "options": [
+        "Rome",
+        "Paris",
+        "Athens"
+      ],
+      "expl": [
+        "The Trevi Fountain is a famous landmark located in Rome, Italy. It is the largest Baroque fountain in the city. It is known for its grandeur and iconic sculptures, including Neptune, the god of the sea."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "Rome",
+          "roam"
+        ],
+        "option_b": [
+          "Paris"
+        ],
+        "option_c": [
+          "Athens",
+          "athen"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": ""
+    },
+    {
+      "id": "geography_B3_2",
+      "que": "In which place can you find the famous landmark called Stonehenge?",
+      "ans": {
+        "value": "England",
+        "correct_entity": "option_c"
+      },
+      "options": [
+        "Scotland",
+        "Ireland",
+        "England"
+      ],
+      "expl": [
+        "Stonehenge, a prehistoric monument in Southern England, is a famous site with a circular arrangement of large standing stones within earthworks. The tallest stones, called sarsens, reach 30 feet in height and weigh approximately 25 tons. It was built between 3000 BC and 2000 BC and is considered a renowned British cultural icon."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "Scotland"
+        ],
+        "option_b": [
+          "Ireland"
+        ],
+        "option_c": [
+          "England"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": ""
+    },
+    {
+      "id": "geography_B3_3",
+      "que": "Which country is home to the Great Barrier Reef, one of the world's largest coral reef systems?",
+      "ans": {
+        "value": "Australia",
+        "correct_entity": "option_c"
+      },
+      "options": [
+        "Brazil",
+        "Mexico",
+        "Australia"
+      ],
+      "expl": [
+        "Australia is home to the Great Barrier Reef, a UNESCO World Heritage site, and one of the world's most diverse ecosystems."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "Brazil"
+        ],
+        "option_b": [
+          "Mexico"
+        ],
+        "option_c": [
+          "Australia"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": ""
+    },
+    {
+      "id": "geography_B3_4",
+      "que": "Havana is the capital of what country?",
+      "ans": {
+        "value": "Cuba",
+        "correct_entity": "option_a"
+      },
+      "options": [
+        "Cuba",
+        "Haiti",
+        "Dominican Republic"
+      ],
+      "expl": [
+        "Havana, the largest city in Cuba, also serves as its capital. It is known for its vibrant culture, historic architecture, and iconic landmarks such as the Malecón and El Capitolio."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "Cuba"
+        ],
+        "option_b": [
+          "Haiti"
+        ],
+        "option_c": [
+          "Dominican Republic",
+          "republic"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": ""
+    },
+    {
+      "id": "geography_B3_5",
+      "que": "The world's largest pyramid is in which country?",
+      "ans": {
+        "value": "Mexico",
+        "correct_entity": "option_b"
+      },
+      "options": [
+        "Egypt",
+        "Mexico",
+        "China"
+      ],
+      "expl": [
+        "The world's largest pyramid, the Great Pyramid of Cholula, is in Mexico. It is an ancient Mesoamerican archaeological site near the city of Puebla. Although it may not resemble the traditional pyramids seen in Egypt, the Great Pyramid of Cholula has a massive volume. It is considered the largest pyramid by volume in the world."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "Egypt"
+        ],
+        "option_b": [
+          "Mexico"
+        ],
+        "option_c": [
+          "China"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": ""
+    },
+    {
+      "id": "geography_B3_6",
+      "que": "Which country in the North Atlantic Ocean is built entirely of volcanic rocks?",
+      "ans": {
+        "value": "Iceland",
+        "correct_entity": "option_a"
+      },
+      "options": [
+        "Iceland",
+        "Ireland",
+        "Greenland"
+      ],
+      "expl": [
+        "Iceland, located in the North Atlantic Ocean, is known for its volcanic activity. The island is formed by a combination of volcanic eruptions and tectonic activity, resulting in a landscape rich in volcanic rocks and geothermal features."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "Iceland",
+          "ice land",
+          "ice"
+        ],
+        "option_b": [
+          "Ireland"
+        ],
+        "option_c": [
+          "Greenland",
+          "green land",
+          "green"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": ""
+    },
+    {
+      "id": "geography_B3_7",
+      "que": "Which country is famous for its annual Carnival celebration, featuring vibrant parades and elaborate costumes?",
+      "ans": {
+        "value": "Brazil",
+        "correct_entity": "option_a"
+      },
+      "options": [
+        "Brazil",
+        "Spain",
+        "Italy"
+      ],
+      "expl": [
+        "Brazil is famous for its annual Carnival celebration, particularly in cities like Rio de Janeiro. It is known for its vibrant parades and samba dancers."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "Brazil"
+        ],
+        "option_b": [
+          "Spain"
+        ],
+        "option_c": [
+          "Italy"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": ""
+    },
+    {
+      "id": "geography_B3_8",
+      "que": "Bora Bora is a holiday island in which body of water?",
+      "ans": {
+        "value": "Pacific Ocean",
+        "correct_entity": "option_c"
+      },
+      "options": [
+        "Caribbean Sea",
+        "Arabian Sea",
+        "Pacific Ocean"
+      ],
+      "expl": [
+        "Bora Bora, a popular vacation destination known for its pristine beaches and luxury resorts, is in the Pacific Ocean. It is part of the Society Islands of French Polynesia. It is famous for its turquoise lagoons and vibrant marine life."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "Caribbean Sea",
+          "caribbean",
+          "sea"
+        ],
+        "option_b": [
+          "Arabian Sea",
+          "arabian",
+          "sea"
+        ],
+        "option_c": [
+          "Pacific Ocean",
+          "pacific",
+          "ocean"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": ""
+    },
+    {
+      "id": "geography_B3_9",
+      "que": "Which country is famous for its stunning fjords, picturesque landscapes, and the Northern Lights?",
+      "ans": {
+        "value": "Norway",
+        "correct_entity": "option_a"
+      },
+      "options": [
+        "Norway",
+        "Sweden",
+        "Iceland"
+      ],
+      "expl": [
+        "Norway is renowned for its breathtaking fjords, including the iconic Geirangerfjord and the Nærøyfjord. It is also a prime location to witness the natural phenomenon of the Northern Lights."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "Norway"
+        ],
+        "option_b": [
+          "Sweden"
+        ],
+        "option_c": [
+          "Iceland"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": ""
+    },
+    {
+      "id": "geography_B3_10",
+      "que": "In which continent is Peru located?",
+      "ans": {
+        "value": "South America",
+        "correct_entity": "option_a"
+      },
+      "options": [
+        "South America",
+        "North America",
+        "Central America"
+      ],
+      "expl": [
+        "Peru is located in South America. It shares borders with several countries, including Ecuador, Colombia, Brazil, Bolivia, and Chile. Peru is known for its rich history, stunning landscapes, and ancient Inca heritage, including the famous archaeological site of Machu Picchu."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "South America",
+          "south"
+        ],
+        "option_b": [
+          "North America",
+          "north"
+        ],
+        "option_c": [
+          "Central America",
+          "central"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": ""
+    },
+    {
+      "id": "geography_B3_11",
+      "que": "What is a name of a bridge that connects Europe to Asia?",
+      "ans": {
+        "value": "Bosphorus",
+        "correct_entity": "option_c"
+      },
+      "options": [
+        "Golden Gate",
+        "Sydney Harbour",
+        "Bosphorus"
+      ],
+      "expl": [
+        "The Bosphorus Bridge, also known as the Istanbul Bridge, is the bridge that connects Europe and Asia. It spans the Bosphorus Strait in Istanbul, Turkey, and is a prominent transportation link between the two continents."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "Golden Gate",
+          "golden",
+          "gate"
+        ],
+        "option_b": [
+          "Sydney Harbour",
+          "harbour",
+          "sydney",
+          "sydney harbor"
+        ],
+        "option_c": [
+          "Bosphorus",
+          "posphorus",
+          "phosphorus"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": ""
+    }
+  ],
+  "IMAGE_QUESTIONS": [],
+  "AUDIO_QUESTIONS": []
+}

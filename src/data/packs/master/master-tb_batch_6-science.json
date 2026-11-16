@@ -1,0 +1,1674 @@
+{
+  "TEXT_QUESTIONS": [
+    {
+      "id": "science_B6_1",
+      "que": "What is the basic unit of heredity in living organisms?",
+      "ans": {
+        "value": "Gene",
+        "correct_entity": "option_c"
+      },
+      "options": [
+        "DNA",
+        "Chromosome",
+        "Gene"
+      ],
+      "expl": [
+        "The basic unit of heredity in living organisms is the gene. Genes are segments of DNA that contain the instructions for building and maintaining the structures and functions of an organism. They are responsible for passing on traits from one generation to the next through inheritance."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "DNA",
+          "d n a",
+          "d. n. a."
+        ],
+        "option_b": [
+          "Chromosome"
+        ],
+        "option_c": [
+          "Gene"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": ""
+    },
+    {
+      "id": "science_B6_2",
+      "que": "Which of these structures contains no bones?",
+      "ans": {
+        "value": "Teeth",
+        "correct_entity": "option_a"
+      },
+      "options": [
+        "Teeth",
+        "Spine",
+        "Ribs"
+      ],
+      "expl": [
+        "Teeth are the structures in the human body that contain no bones. Teeth comprise a hard tissue called dentin, which is covered by a protective layer of enamel. While teeth are not bones, they play a crucial role in the digestion process, as they help with biting, chewing, and breaking down food. Proper dental care is essential for maintaining healthy teeth and overall oral."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "Teeth"
+        ],
+        "option_b": [
+          "Spine"
+        ],
+        "option_c": [
+          "Ribs"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": ""
+    },
+    {
+      "id": "science_B6_3",
+      "que": "Which of these rocks is the hardest?",
+      "ans": {
+        "value": "Diamond",
+        "correct_entity": "option_c"
+      },
+      "options": [
+        "Marble",
+        "Quartzite",
+        "Diamond"
+      ],
+      "expl": [
+        "Diamond is the hardest naturally occurring substance known, scoring a 10 on the Mohs scale of mineral hardness. It is renowned for its exceptional hardness and is often used in industrial applications, jewelry, and cutting tools."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "Marble",
+          "marbles"
+        ],
+        "option_b": [
+          "Quartzite"
+        ],
+        "option_c": [
+          "Diamond"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": ""
+    },
+    {
+      "id": "science_B6_4",
+      "que": "Which is the only type of rock that floats?",
+      "ans": {
+        "value": "Pumice",
+        "correct_entity": "option_c"
+      },
+      "options": [
+        "Granite",
+        "Basalt",
+        "Pumice"
+      ],
+      "expl": [
+        "Pumice is a type of volcanic rock that is lightweight and filled with air pockets, which allows it to float on water. It is commonly used in various applications, including skincare products, and as a lightweight aggregate in construction."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "Granite"
+        ],
+        "option_b": [
+          "Basalt"
+        ],
+        "option_c": [
+          "Pumice"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": ""
+    },
+    {
+      "id": "science_B6_5",
+      "que": "What is the name for a giant cloud of dust and gas in space?",
+      "ans": {
+        "value": "Nebula",
+        "correct_entity": "option_b"
+      },
+      "options": [
+        "Supernova",
+        "Nebula",
+        "Quasar"
+      ],
+      "expl": [
+        "A giant cloud of dust and gas in space is called a nebula. Nebulas are vast interstellar clouds that consist of various elements and particles. They can be the birthplaces of stars or remnants of stellar explosions, and they often exhibit stunning visual characteristics."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "Supernova"
+        ],
+        "option_b": [
+          "Nebula"
+        ],
+        "option_c": [
+          "Quasar"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": ""
+    },
+    {
+      "id": "science_B6_6",
+      "que": "Which organ in the human body produces insulin?",
+      "ans": {
+        "value": "Pancreas",
+        "correct_entity": "option_c"
+      },
+      "options": [
+        "Liver",
+        "Kidneys",
+        "Pancreas"
+      ],
+      "expl": [
+        "Insulin is essential in maintaining normal blood glucose levels. It is produced and secreted by the beta cells of the pancreas in response to increased blood glucose levels."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "Liver"
+        ],
+        "option_b": [
+          "Kidneys",
+          "kidney"
+        ],
+        "option_c": [
+          "Pancreas"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": ""
+    },
+    {
+      "id": "science_B6_7",
+      "que": "When it comes to metals, what is the lightest known metal?",
+      "ans": {
+        "value": "Lithium",
+        "correct_entity": "option_b"
+      },
+      "options": [
+        "Aluminum",
+        "Lithium",
+        "Beryllium"
+      ],
+      "expl": [
+        "Lithium, the lightest metal, is widely used in rechargeable lithium-ion batteries found in smartphones, laptops, and electric vehicles. Its low density and high reactivity make it essential for modern battery technology."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "Aluminum"
+        ],
+        "option_b": [
+          "Lithium"
+        ],
+        "option_c": [
+          "Beryllium"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": ""
+    },
+    {
+      "id": "science_B6_8",
+      "que": "Which of these metals would be used to manufacture pipes, coins, and electric wire?",
+      "ans": {
+        "value": "Copper",
+        "correct_entity": "option_a"
+      },
+      "options": [
+        "Copper",
+        "Aluminum",
+        "Zinc"
+      ],
+      "expl": [
+        "Copper is widely used in pipes, coins, and electric wires due to its excellent conductivity for electricity and heat. It is durable, resistant to corrosion, and has antimicrobial properties, making it ideal for plumbing applications. Copper is also valued for its aesthetic appeal and durability, which is why it is commonly used in coin production worldwide."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "Copper"
+        ],
+        "option_b": [
+          "Aluminum"
+        ],
+        "option_c": [
+          "Zinc"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": ""
+    },
+    {
+      "id": "science_B6_9",
+      "que": "Which illness is likely to increase with global warming?",
+      "ans": {
+        "value": "Malaria",
+        "correct_entity": "option_a"
+      },
+      "options": [
+        "Malaria",
+        "Diabetes",
+        "Common cold"
+      ],
+      "expl": [
+        "Malaria is a mosquito-borne infectious disease that thrives in warm and humid climates. As global warming leads to the expansion of mosquito habitats, the risk of malaria transmission is expected to increase in certain regions."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "Malaria"
+        ],
+        "option_b": [
+          "Diabetes"
+        ],
+        "option_c": [
+          "Common cold",
+          "cold"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": ""
+    },
+    {
+      "id": "science_B6_10",
+      "que": "Which bone is notably absent in newborn babies, yet gradually forms over time as they develop and grow?",
+      "ans": {
+        "value": "Patella",
+        "correct_entity": "option_c"
+      },
+      "options": [
+        "Skull",
+        "Femur",
+        "Patella"
+      ],
+      "expl": [
+        "Babies are born without a patella, commonly known as the kneecap. The patella develops as a child grows and usually becomes visible by the age of 2 to 6 years."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "Skull"
+        ],
+        "option_b": [
+          "Femur"
+        ],
+        "option_c": [
+          "Patella"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": ""
+    },
+    {
+      "id": "science_B6_11",
+      "que": "Which chemical element is also known as quicksilver?",
+      "ans": {
+        "value": "Mercury",
+        "correct_entity": "option_a"
+      },
+      "options": [
+        "Mercury",
+        "Silver",
+        "Platinum"
+      ],
+      "expl": [
+        "Quicksilver is the common name for the chemical element mercury. It is a heavy, silver liquid at room temperature, known for its unique properties like high density and low melting point. It is used in thermometers, barometers, and industries but is highly toxic, posing environmental risks. Therefore, strict regulations govern its usage and disposal in many countries."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "Mercury"
+        ],
+        "option_b": [
+          "Silver"
+        ],
+        "option_c": [
+          "Platinum"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": ""
+    },
+    {
+      "id": "science_B6_12",
+      "que": "What type of rock is formed from solidified lava?",
+      "ans": {
+        "value": "Igneous",
+        "correct_entity": "option_b"
+      },
+      "options": [
+        "Sedimentary",
+        "Igneous",
+        "Metamorphic"
+      ],
+      "expl": [
+        "The rock formed from solidified lava is called \"igneous rock.\" It is created when molten lava cools and solidifies, either on the Earth's surface or beneath it, resulting in various types of igneous rocks, such as basalt or obsidian."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "Sedimentary"
+        ],
+        "option_b": [
+          "Igneous"
+        ],
+        "option_c": [
+          "Metamorphic"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": ""
+    },
+    {
+      "id": "science_B6_13",
+      "que": "Which of these planets is made up of gas rather than rocks?",
+      "ans": {
+        "value": "Saturn",
+        "correct_entity": "option_b"
+      },
+      "options": [
+        "Mars",
+        "Saturn",
+        "Venus"
+      ],
+      "expl": [
+        "Saturn is a planet made up mostly of gases, primarily hydrogen, and helium, with no solid surface like Earth. It is known for its iconic rings of ice particles and rocky debris."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "Mars"
+        ],
+        "option_b": [
+          "Saturn"
+        ],
+        "option_c": [
+          "Venus"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": ""
+    },
+    {
+      "id": "science_B6_14",
+      "que": "Which metal has the lowest boiling point?",
+      "ans": {
+        "value": "Mercury",
+        "correct_entity": "option_b"
+      },
+      "options": [
+        "Gold",
+        "Mercury",
+        "Aluminum"
+      ],
+      "expl": [
+        "Mercury has the lowest boiling point among the given options. It boils at a relatively low temperature of -38.83 degrees Celsius (-37.89 degrees Fahrenheit). It is the only metal that is a liquid at room temperature."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "Gold"
+        ],
+        "option_b": [
+          "Mercury"
+        ],
+        "option_c": [
+          "Aluminum"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": ""
+    },
+    {
+      "id": "science_B6_15",
+      "que": "What causes many metals to tarnish when exposed to the air?",
+      "ans": {
+        "value": "Oxidation",
+        "correct_entity": "option_a"
+      },
+      "options": [
+        "Oxidation",
+        "Rusting",
+        "Corrosion"
+      ],
+      "expl": [
+        "Metals exposed to air react with oxygen, causing oxidation and tarnishing. This reaction changes its appearance, often resulting in a dull or discolored layer. Tarnishing can be prevented or reversed with coatings or chemical treatments."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "Oxidation"
+        ],
+        "option_b": [
+          "Rusting"
+        ],
+        "option_c": [
+          "Corrosion"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": ""
+    },
+    {
+      "id": "science_B6_16",
+      "que": "Which domestic appliance is often considered the greatest threat to stopping global warming?",
+      "ans": {
+        "value": "Refrigerator",
+        "correct_entity": "option_b"
+      },
+      "options": [
+        "Washing machine",
+        "Refrigerator",
+        "Heaters"
+      ],
+      "expl": [
+        "The most common HFC found in domestic fridges is HFC-134a, which has a global warming potential of 3,400 times that of carbon dioxide. A typical fridge can contain between 0.05kg and 0.25kg of refrigerant, which, if it leaks into the environment, the resulting emissions would be equivalent to driving 675km-3,427km (420-2,130 miles) in an average family-sized car."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "Washing machine",
+          "washing"
+        ],
+        "option_b": [
+          "Refrigerator"
+        ],
+        "option_c": [
+          "Heaters",
+          "heater"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": ""
+    },
+    {
+      "id": "science_B6_17",
+      "que": "Which country successfully landed a rover named Zhurong on Mars in 2021?",
+      "ans": {
+        "value": "China",
+        "correct_entity": "option_c"
+      },
+      "options": [
+        "United States",
+        "Russia",
+        "China"
+      ],
+      "expl": [
+        "China successfully landed its rover Zhurong on Mars in May 2021, becoming the second country to achieve a successful Mars landing."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "United States",
+          "u.s."
+        ],
+        "option_b": [
+          "Russia"
+        ],
+        "option_c": [
+          "China"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": ""
+    },
+    {
+      "id": "science_B6_18",
+      "que": "Lightyear is a measurement commonly used to quantify what specific astronomical distance?",
+      "ans": {
+        "value": "Distance",
+        "correct_entity": "option_a"
+      },
+      "options": [
+        "Distance",
+        "Time",
+        "Brightness"
+      ],
+      "expl": [
+        "A lightyear is a unit of distance used in astronomy. It represents the distance that light travels in one year, approximately 9.46 trillion kilometers (5.88 trillion miles). It is primarily used to measure vast distances between celestial objects in the universe."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "Distance"
+        ],
+        "option_b": [
+          "Time"
+        ],
+        "option_c": [
+          "Brightness"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": ""
+    },
+    {
+      "id": "science_B6_19",
+      "que": "A person who has leporiphobia would fear which cartoon character?",
+      "ans": {
+        "value": "Bugs Bunny",
+        "correct_entity": "option_a"
+      },
+      "options": [
+        "Bugs Bunny",
+        "Yogi Bear",
+        "Mickey Mouse"
+      ],
+      "expl": [
+        "Leporiphobia is a strong and irrational fear of rabbits, causing intense anxiety and panic. Symptoms include rapid heartbeat, breathlessness, trembling, and a strong desire to escape. This fear can stem from past trauma, genetics, or psychological factors. Tennis star Andy Roddick is rumored to suffer from this fear."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "Bugs Bunny",
+          "bunny"
+        ],
+        "option_b": [
+          "Yogi Bear",
+          "yogi",
+          "bear"
+        ],
+        "option_c": [
+          "Mickey Mouse"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": ""
+    },
+    {
+      "id": "science_B6_20",
+      "que": "What is the explosion at the end of a star's life cycle?",
+      "ans": {
+        "value": "Supernova",
+        "correct_entity": "option_c"
+      },
+      "options": [
+        "Black hole",
+        "Nebula",
+        "Supernova"
+      ],
+      "expl": [
+        "A supernova is a dazzling explosion caused by a star's core collapse due to depleted nuclear fuel and overwhelming gravity. This releases an immense burst of energy, considered the largest space explosion. The most recent Milky Way supernova was Kepler's in 1604, visible to the naked eye for 18 months."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "Black hole"
+        ],
+        "option_b": [
+          "Nebula"
+        ],
+        "option_c": [
+          "Supernova"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": ""
+    },
+    {
+      "id": "science_B6_21",
+      "que": "The invention of which gadget shares a connection with NASA and the Apollo moon landing?",
+      "ans": {
+        "value": "DustBuster",
+        "correct_entity": "option_a"
+      },
+      "options": [
+        "DustBuster",
+        "Digital Watch",
+        "Pocket Calculator"
+      ],
+      "expl": [
+        "The Dustbuster's history is intertwined with NASA and the moon landing. During the 1960s Apollo missions, NASA collaborated with Black and Decker to create cordless power tools for space use due to concerns about astronaut safety in zero gravity. This partnership led to the development of the Dustbuster, a handheld vacuum known for its lightweight design."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "DustBuster"
+        ],
+        "option_b": [
+          "Digital Watch",
+          "watch"
+        ],
+        "option_c": [
+          "Pocket Calculator",
+          "calculator",
+          "pocket"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": ""
+    },
+    {
+      "id": "science_B6_22",
+      "que": "What are nails made of?",
+      "ans": {
+        "value": "Keratin",
+        "correct_entity": "option_c"
+      },
+      "options": [
+        "Collagen",
+        "Calcium",
+        "Keratin"
+      ],
+      "expl": [
+        "Nails are primarily made of a protein called keratin, which is also found in hair and the outer layer of skin. Keratin provides strength and durability to nails."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "Collagen"
+        ],
+        "option_b": [
+          "Calcium"
+        ],
+        "option_c": [
+          "Keratin"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": ""
+    },
+    {
+      "id": "science_B6_23",
+      "que": "What is acrophobia the fear of?",
+      "ans": {
+        "value": "Heights",
+        "correct_entity": "option_c"
+      },
+      "options": [
+        "Spiders",
+        "Crowds",
+        "Heights"
+      ],
+      "expl": [
+        "Acrophobia is the fear of heights. Individuals with acrophobia experience intense anxiety or panic when exposed to high places or situations involving heights. This fear can lead to the avoidance of tall buildings, bridges, and other elevated locations."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "Spiders"
+        ],
+        "option_b": [
+          "Crowds",
+          "crowd"
+        ],
+        "option_c": [
+          "Heights",
+          "height"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": ""
+    },
+    {
+      "id": "science_B6_24",
+      "que": "Which famous scientist developed the theory of general relativity?",
+      "ans": {
+        "value": "Albert Einstein",
+        "correct_entity": "option_a"
+      },
+      "options": [
+        "Albert Einstein",
+        "Isaac Newton",
+        "Galileo Galilei"
+      ],
+      "expl": [
+        "Albert Einstein's theory of general relativity revolutionized our understanding of gravity, space, and time, leading to advancements in modern physics and cosmology."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "Albert Einstein",
+          "albert",
+          "einstein"
+        ],
+        "option_b": [
+          "Isaac Newton",
+          "newton",
+          "isaac"
+        ],
+        "option_c": [
+          "Galileo Galilei",
+          "galileo",
+          "galilei"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": ""
+    },
+    {
+      "id": "science_B6_25",
+      "que": "Which famous scientist developed the theory of evolution by natural selection?",
+      "ans": {
+        "value": "Charles Darwin",
+        "correct_entity": "option_a"
+      },
+      "options": [
+        "Charles Darwin",
+        "Isaac Newton",
+        "Albert Einstein"
+      ],
+      "expl": [
+        "Charles Darwin introduced the theory of evolution by natural selection, fundamentally changing our understanding of how species adapt and change over time."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "Charles Darwin",
+          "darwin"
+        ],
+        "option_b": [
+          "Isaac Newton",
+          "newton",
+          "isaac"
+        ],
+        "option_c": [
+          "Albert Einstein",
+          "albert",
+          "einstein"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": ""
+    },
+    {
+      "id": "science_B6_26",
+      "que": "Which gas is responsible for the color of the Earth's sky?",
+      "ans": {
+        "value": "Nitrogen",
+        "correct_entity": "option_b"
+      },
+      "options": [
+        "Helium",
+        "Nitrogen",
+        "Oxygen"
+      ],
+      "expl": [
+        "Nitrogen is the primary gas in Earth's atmosphere, responsible for the blue color of the sky due to scattering of sunlight."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "Helium"
+        ],
+        "option_b": [
+          "Nitrogen"
+        ],
+        "option_c": [
+          "Oxygen"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": ""
+    },
+    {
+      "id": "science_B6_27",
+      "que": "Which unit is used to measure electric current?",
+      "ans": {
+        "value": "Ampere",
+        "correct_entity": "option_b"
+      },
+      "options": [
+        "Watt",
+        "Ampere",
+        "Volt"
+      ],
+      "expl": [
+        "The unit of measurement for electric current is the ampere (A), named after the French physicist André-Marie Ampère."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "Watt"
+        ],
+        "option_b": [
+          "Ampere"
+        ],
+        "option_c": [
+          "Volt"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": ""
+    },
+    {
+      "id": "science_B6_28",
+      "que": "Which gas is most abundant in Earth's atmosphere?",
+      "ans": {
+        "value": "Nitrogen",
+        "correct_entity": "option_c"
+      },
+      "options": [
+        "Oxygen",
+        "Carbon Dioxide",
+        "Nitrogen"
+      ],
+      "expl": [
+        "Nitrogen constitutes about 78% of Earth's atmosphere, playing a crucial role in supporting life and maintaining atmospheric pressure."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "Oxygen"
+        ],
+        "option_b": [
+          "Carbon Dioxide",
+          "dioxide"
+        ],
+        "option_c": [
+          "Nitrogen"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": ""
+    },
+    {
+      "id": "science_B6_29",
+      "que": "What is the process of converting solid ice directly into vapor called?",
+      "ans": {
+        "value": "Sublimation",
+        "correct_entity": "option_a"
+      },
+      "options": [
+        "Sublimation",
+        "Melting",
+        "Condensation"
+      ],
+      "expl": [
+        "Sublimation is the phase transition in which a substance changes from a solid to a gas without passing through the liquid phase."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "Sublimation"
+        ],
+        "option_b": [
+          "Melting"
+        ],
+        "option_c": [
+          "Condensation"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": ""
+    },
+    {
+      "id": "science_B6_30",
+      "que": "Which gas is responsible for the greenhouse effect on Earth?",
+      "ans": {
+        "value": "Carbon Dioxide",
+        "correct_entity": "option_b"
+      },
+      "options": [
+        "Oxygen",
+        "Carbon Dioxide",
+        "Nitrogen"
+      ],
+      "expl": [
+        "Carbon dioxide, along with other greenhouse gases, contributes to the greenhouse effect, leading to the warming of the Earth's surface."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "Oxygen"
+        ],
+        "option_b": [
+          "Carbon Dioxide",
+          "dioxide"
+        ],
+        "option_c": [
+          "Nitrogen"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": ""
+    },
+    {
+      "id": "science_B6_31",
+      "que": "Who is the famous scientist known for his contributions to the theory of gravity?",
+      "ans": {
+        "value": "Isaac Newton",
+        "correct_entity": "option_a"
+      },
+      "options": [
+        "Isaac Newton",
+        "Albert Einstein",
+        "Stephen Hawking"
+      ],
+      "expl": [
+        "Isaac Newton formulated the law of universal gravitation, a foundational principle of physics explaining the force of gravity between objects."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "Isaac Newton",
+          "newton",
+          "isaac"
+        ],
+        "option_b": [
+          "Albert Einstein",
+          "albert",
+          "einstein"
+        ],
+        "option_c": [
+          "Stephen Hawking",
+          "hawking"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": ""
+    },
+    {
+      "id": "science_B6_32",
+      "que": "Which gas is responsible for the color of the Earth's auroras?",
+      "ans": {
+        "value": "Nitrogen",
+        "correct_entity": "option_a"
+      },
+      "options": [
+        "Nitrogen",
+        "Helium",
+        "Oxygen"
+      ],
+      "expl": [
+        "Nitrogen molecules in Earth's atmosphere interact with charged particles to produce the colorful displays known as auroras."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "Nitrogen"
+        ],
+        "option_b": [
+          "Helium"
+        ],
+        "option_c": [
+          "Oxygen"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": ""
+    },
+    {
+      "id": "science_B6_33",
+      "que": "Which gas is responsible for the distinctive smell of rotten eggs?",
+      "ans": {
+        "value": "Hydrogen Sulfide",
+        "correct_entity": "option_b"
+      },
+      "options": [
+        "Hydrogen",
+        "Hydrogen Sulfide",
+        "Sulfur Dioxide"
+      ],
+      "expl": [
+        "The foul smell of rotten eggs is due to the presence of hydrogen sulfide gas, often associated with sulfur compounds."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "Hydrogen"
+        ],
+        "option_b": [
+          "Hydrogen Sulfide",
+          "sulfide"
+        ],
+        "option_c": [
+          "Sulfur Dioxide",
+          "sulfur"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": ""
+    },
+    {
+      "id": "science_B6_34",
+      "que": "Which gas is essential for fireflies to produce their characteristic light?",
+      "ans": {
+        "value": "Oxygen",
+        "correct_entity": "option_a"
+      },
+      "options": [
+        "Oxygen",
+        "Carbon Dioxide",
+        "Nitrogen"
+      ],
+      "expl": [
+        "Fireflies produce their characteristic light through a process called bioluminescence. The essential gas for this light production is oxygen. Enzymes within the fireflies' cells combine oxygen with a light-emitting molecule called luciferin, generating a distinctive glow."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "Oxygen"
+        ],
+        "option_b": [
+          "Carbon Dioxide",
+          "dioxide"
+        ],
+        "option_c": [
+          "Nitrogen"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": ""
+    },
+    {
+      "id": "science_B6_35",
+      "que": "Which gas is essential for fire to burn?",
+      "ans": {
+        "value": "Oxygen",
+        "correct_entity": "option_b"
+      },
+      "options": [
+        "Nitrogen",
+        "Oxygen",
+        "Carbon Dioxide"
+      ],
+      "expl": [
+        "Oxygen is the essential gas for combustion. It supports the chemical reactions that occur during fire, allowing materials to release energy in the form of heat and light. Without oxygen, fires cannot sustain themselves and will be unable to burn."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "Nitrogen"
+        ],
+        "option_b": [
+          "Oxygen"
+        ],
+        "option_c": [
+          "Carbon Dioxide",
+          "dioxide"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": ""
+    },
+    {
+      "id": "science_B6_36",
+      "que": "Which gas is used in the production of soft drinks to create carbonation?",
+      "ans": {
+        "value": "Carbon Dioxide",
+        "correct_entity": "option_c"
+      },
+      "options": [
+        "Nitrogen",
+        "Oxygen",
+        "Carbon Dioxide"
+      ],
+      "expl": [
+        "Carbon dioxide (CO2) is the gas used in the production of soft drinks to create carbonation. It dissolves in the liquid under pressure, forming bubbles that give the drinks their characteristic fizzy texture and taste."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "Nitrogen"
+        ],
+        "option_b": [
+          "Oxygen"
+        ],
+        "option_c": [
+          "Carbon Dioxide",
+          "dioxide"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": ""
+    },
+    {
+      "id": "science_B6_37",
+      "que": "The medical condition of glaucoma affects which part of the body?",
+      "ans": {
+        "value": "Eyes",
+        "correct_entity": "option_c"
+      },
+      "options": [
+        "Lungs",
+        "Liver",
+        "Eyes"
+      ],
+      "expl": [
+        "Eyes Description: Glaucoma is a medical condition that primarily affects the eyes. It is characterized by increased intraocular pressure, which can damage the optic nerve and lead to gradual vision loss if left untreated. Regular eye examinations are crucial for early detection and management of glaucoma."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "Lungs"
+        ],
+        "option_b": [
+          "Liver"
+        ],
+        "option_c": [
+          "Eyes",
+          "eye"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": ""
+    },
+    {
+      "id": "science_B6_38",
+      "que": "Who invented a medical aid in 1810 known as the stethoscope?",
+      "ans": {
+        "value": "René Laennac",
+        "correct_entity": "option_c"
+      },
+      "options": [
+        "Louis Pasteur",
+        "Alexander Fleming",
+        "René Laennac"
+      ],
+      "expl": [
+        "In 1810, the stethoscope, a groundbreaking medical aid, was invented by René Laennec. This innovative device revolutionized the way doctors listened to internal bodily sounds, enabling more accurate diagnoses and greatly advancing the field of medical examination."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "Louis Pasteur",
+          "pasteur"
+        ],
+        "option_b": [
+          "Alexander Fleming",
+          "alexander",
+          "fleming"
+        ],
+        "option_c": [
+          "René Laennac"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": ""
+    },
+    {
+      "id": "science_B6_39",
+      "que": "Ageusia is the loss of which sense?",
+      "ans": {
+        "value": "Taste",
+        "correct_entity": "option_a"
+      },
+      "options": [
+        "Taste",
+        "Smell",
+        "Touch"
+      ],
+      "expl": [
+        "Ageusia refers to the loss or impairment of the sense of taste. It is a condition where individuals are unable to perceive or distinguish different flavors. This disorder can significantly impact one's enjoyment of food and can be caused by various factors, including medical conditions, medications, or neurological issues."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "Taste"
+        ],
+        "option_b": [
+          "Smell"
+        ],
+        "option_c": [
+          "Touch"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": ""
+    },
+    {
+      "id": "science_B6_40",
+      "que": "Who performed the first heart transplant in South Africa?",
+      "ans": {
+        "value": "Christian Barnard",
+        "correct_entity": "option_c"
+      },
+      "options": [
+        "Marie Curie",
+        "Thomas Edison",
+        "Christian Barnard"
+      ],
+      "expl": [
+        "The first heart transplant in South Africa was performed by Dr. Christiaan Barnard on December 3, 1967. This groundbreaking medical achievement marked a significant milestone in the field of transplant surgery and brought global attention to South African medicine."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "Marie Curie",
+          "curie",
+          "marie"
+        ],
+        "option_b": [
+          "Thomas Edison",
+          "edison"
+        ],
+        "option_c": [
+          "Christian Barnard",
+          "barnard"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": ""
+    },
+    {
+      "id": "science_B6_41",
+      "que": "Which is the most abundant metal in the Earth's crust?",
+      "ans": {
+        "value": "Aluminium",
+        "correct_entity": "option_b"
+      },
+      "options": [
+        "Silicon",
+        "Aluminium",
+        "Feldspar"
+      ],
+      "expl": [
+        "The most abundant metal in the Earth's crust is aluminum. It constitutes approximately 8.23% of the Earth's solid surface, making it a vital component of various minerals and rocks. This prevalence and its desirable properties have led to its widespread use in industries ranging from construction to transportation."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "Silicon"
+        ],
+        "option_b": [
+          "Aluminium",
+          "aluminum"
+        ],
+        "option_c": [
+          "Feldspar"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": ""
+    },
+    {
+      "id": "science_B6_42",
+      "que": "What are the cooler areas that appear on the sun's surface?",
+      "ans": {
+        "value": "Sunspots",
+        "correct_entity": "option_a"
+      },
+      "options": [
+        "Sunspots",
+        "Solar Flares",
+        "Nebula"
+      ],
+      "expl": [
+        "The cooler areas that appear on the sun's surface are called sunspots. These darker patches result from magnetic activity inhibiting heat transport, causing localized temperature drops. Sunspots provide insights into the sun's dynamic behavior and are linked to variations in solar radiation, impacting space weather and Earth's climate patterns."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "Sunspots"
+        ],
+        "option_b": [
+          "Solar Flares"
+        ],
+        "option_c": [
+          "Nebula"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": ""
+    },
+    {
+      "id": "science_B6_43",
+      "que": "Which body part has the most bones?",
+      "ans": {
+        "value": "Hand",
+        "correct_entity": "option_b"
+      },
+      "options": [
+        "Foot",
+        "Hand",
+        "Head"
+      ],
+      "expl": [
+        "The adult human hand has the most bones. One hand contains 27 bones, so together, both hands contain 54 bones. This is just slightly more than the foot, each of which have 26 bones, for a total of 52 bones in both feet."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "Foot"
+        ],
+        "option_b": [
+          "Hand"
+        ],
+        "option_c": [
+          "Head"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": ""
+    },
+    {
+      "id": "science_B6_44",
+      "que": "How many days is the average lifespan of a red blood cell in the human body?",
+      "ans": {
+        "value": "120",
+        "correct_entity": "option_a"
+      },
+      "options": [
+        "120",
+        "95",
+        "34"
+      ],
+      "expl": [
+        "Red blood cells live about 120 days, transporting oxygen from lungs to body and returning carbon dioxide for exhalation. Constant renewal is vital for effective oxygen exchange and bodily function."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "120",
+          "One hundred and twenty",
+          "One twenty",
+          "One Hundred Twenty"
+        ],
+        "option_b": [
+          "95",
+          "Ninety five"
+        ],
+        "option_c": [
+          "34",
+          "Thirty four"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": ""
+    },
+    {
+      "id": "science_B6_45",
+      "que": "What part of the human body has the thinnest skin?",
+      "ans": {
+        "value": "Eyelids",
+        "correct_entity": "option_a"
+      },
+      "options": [
+        "Eyelids",
+        "Inner Nose",
+        "Tongue"
+      ],
+      "expl": [
+        "The eyelids have the thinnest skin on the human body. This delicate layer of skin measures just about 0.5 millimeters in thickness. It is also rich in blood vessels and lacks the protective fat layer found in thicker-skinned areas, making it more susceptible to damage and sensitivity."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "Eyelids",
+          "eyelid"
+        ],
+        "option_b": [
+          "Inner Nose"
+        ],
+        "option_c": [
+          "Tongue"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": ""
+    },
+    {
+      "id": "science_B6_46",
+      "que": "Which one of these planets does not have a solid surface?",
+      "ans": {
+        "value": "Jupiter",
+        "correct_entity": "option_a"
+      },
+      "options": [
+        "Jupiter",
+        "Venus",
+        "Mercury"
+      ],
+      "expl": [
+        "Among the planets in our solar system, Jupiter stands out as not having a solid surface. Composed primarily of hydrogen and helium gases, Jupiter's immense size and gravity prevent the formation of solid ground."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "Jupiter"
+        ],
+        "option_b": [
+          "Venus"
+        ],
+        "option_c": [
+          "Mercury"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": ""
+    },
+    {
+      "id": "science_B6_47",
+      "que": "What do you call a giant cloud of dust and gas in space?",
+      "ans": {
+        "value": "Nebula",
+        "correct_entity": "option_b"
+      },
+      "options": [
+        "Pulsar",
+        "Nebula",
+        "Black hole"
+      ],
+      "expl": [
+        "A giant cloud of dust and gas in space is commonly referred to as a \"nebula.\" Nebulas are vast, beautiful cosmic formations where stars are born and where the remnants of dying stars are often observed. These clouds can vary in size, shape, and composition, giving rise to stunning celestial spectacles when illuminated by nearby stars."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "Pulsar"
+        ],
+        "option_b": [
+          "Nebula"
+        ],
+        "option_c": [
+          "Black hole"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": ""
+    },
+    {
+      "id": "science_B6_48",
+      "que": "What do you call the outermost of the sun's atmosphere?",
+      "ans": {
+        "value": "Corona",
+        "correct_entity": "option_c"
+      },
+      "options": [
+        "Blazer",
+        "Epoch",
+        "Corona"
+      ],
+      "expl": [
+        "The outermost layer of the sun's atmosphere is called the \"corona.\" It's a region of extremely high temperature and low density that becomes visible during a solar eclipse as a halo of plasma surrounding the sun. The corona is an essential area of study in solar physics, as its behavior impacts space weather and solar phenomena."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "Blazer"
+        ],
+        "option_b": [
+          "Epoch"
+        ],
+        "option_c": [
+          "Corona"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": ""
+    },
+    {
+      "id": "science_B6_49",
+      "que": "In engineering, what do we call a device that converts energy into motion?",
+      "ans": {
+        "value": "Actuator",
+        "correct_entity": "option_b"
+      },
+      "options": [
+        "Transformer",
+        "Actuator",
+        "Inductor"
+      ],
+      "expl": [
+        "In engineering, a device that converts energy into motion is commonly referred to as an \"actuator.\" Actuators play a crucial role in various applications, ranging from robotics and automation to aerospace and manufacturing, by transforming input energy into physical movement or mechanical action."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "Transformer"
+        ],
+        "option_b": [
+          "Actuator"
+        ],
+        "option_c": [
+          "Inductor"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": ""
+    },
+    {
+      "id": "science_B6_50",
+      "que": "Which organ gets affected by Hepatitis?",
+      "ans": {
+        "value": "Liver",
+        "correct_entity": "option_a"
+      },
+      "options": [
+        "Liver",
+        "Kidneys",
+        "Brain"
+      ],
+      "expl": [
+        "Hepatitis primarily affects the liver, causing inflammation that can range from mild to severe. This condition can result from viral infections, excessive alcohol consumption, autoimmune disorders, or certain medications. The liver plays a crucial role in filtering blood, metabolizing nutrients, and detoxifying harmful substances."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "Liver"
+        ],
+        "option_b": [
+          "Kidneys",
+          "kidney"
+        ],
+        "option_c": [
+          "Brain"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": ""
+    },
+    {
+      "id": "science_B6_51",
+      "que": "What do you call a triangle with three equal sides?",
+      "ans": {
+        "value": "Equilateral",
+        "correct_entity": "option_a"
+      },
+      "options": [
+        "Equilateral",
+        "Scalene",
+        "Isoceles"
+      ],
+      "expl": [
+        "A triangle with three equal sides is called an \"equilateral triangle.\" In an equilateral triangle, all angles are also equal, measuring 60 degrees each. This type of triangle exhibits a high degree of symmetry and is commonly found in geometric and architectural designs."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "Equilateral"
+        ],
+        "option_b": [
+          "Scalene"
+        ],
+        "option_c": [
+          "Isoceles"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": ""
+    },
+    {
+      "id": "science_B6_52",
+      "que": "Which other name is often used for Rubella?",
+      "ans": {
+        "value": "German Measles",
+        "correct_entity": "option_a"
+      },
+      "options": [
+        "German Measles",
+        "Chicken Pox",
+        "Shingles"
+      ],
+      "expl": [
+        "Rubella, or German measles, is a viral infection with a red rash. Caused by the rubella virus, it's milder than measles. During pregnancy, it's risky, causing birth defects. Also called German measles."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "German Measles",
+          "measles"
+        ],
+        "option_b": [
+          "Chicken Pox"
+        ],
+        "option_c": [
+          "Shingles"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": ""
+    }
+  ],
+  "IMAGE_QUESTIONS": [],
+  "AUDIO_QUESTIONS": []
+}

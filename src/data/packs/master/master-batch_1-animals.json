@@ -1,0 +1,384 @@
+{
+  "TEXT_QUESTIONS": [
+    {
+      "id": "batch_1_row_4 (side table)",
+      "que": "All official \"Seeing Eye\" dogs are trained in which state?",
+      "ans": {
+        "value": "New Jersey",
+        "correct_entity": "option_c"
+      },
+      "options": [
+        "Wyoming",
+        "Vermont",
+        "New Jersey"
+      ],
+      "expl": [
+        "The Seeing Eye, founded in 1929, breeds and trains guide dogs for the blind in New Jersey and places them across the U.S. and Canada. The dogs are only considered \"Seeing Eye\" if trained at the Morristown facility, where they undergo basic training before hitting the streets. In 2020, the Seeing Eye dog became the official state dog of New Jersey."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "Wyoming"
+        ],
+        "option_b": [
+          "Vermont"
+        ],
+        "option_c": [
+          "New Jersey"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": ""
+    },
+    {
+      "id": "animals_B1_1",
+      "que": "Which is the only mammal that can't jump?",
+      "ans": {
+        "value": "Elephant",
+        "correct_entity": "option_b"
+      },
+      "options": [
+        "Bear",
+        "Elephant",
+        "Cow"
+      ],
+      "expl": [
+        "The elephant is the only mammal that can't jump due to its size and weight. Their skeletal structure and heavy bodies make it difficult for them to lift all four feet off the ground at the same time."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "Bear",
+          "beer"
+        ],
+        "option_b": [
+          "Elephant"
+        ],
+        "option_c": [
+          "Cow",
+          "cows"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": ""
+    },
+    {
+      "id": "animals_B1_2",
+      "que": "What is the tallest dog breed in the world?",
+      "ans": {
+        "value": "Irish Wolfhound",
+        "correct_entity": "option_b"
+      },
+      "options": [
+        "Greyhound",
+        "Irish Wolfhound",
+        "Scottish Deerhound"
+      ],
+      "expl": [
+        "The Irish Wolfhound, recognized as the tallest breed of dog by the AKC, was initially bred for big-game hunting and possessed a grand and impressive appearance."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "Greyhound",
+          "Greyound"
+        ],
+        "option_b": [
+          "Irish Wolfhound",
+          "Irish",
+          "Wolfhound"
+        ],
+        "option_c": [
+          "Scottish Deerhound",
+          "Scottish",
+          "Deerhound",
+          "deer hound"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": ""
+    },
+    {
+      "id": "animals_B1_3",
+      "que": "What is the loudest-known creature on Earth?",
+      "ans": {
+        "value": "Whale",
+        "correct_entity": "option_a"
+      },
+      "options": [
+        "Whale",
+        "Bat",
+        "Shrimp"
+      ],
+      "expl": [
+        "The loudest-known creature on Earth is the sperm whale, with clicks reaching up to 230 decibels underwater. This is loud enough to be heard from several miles away and is used for echolocation and communication."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "Whale",
+          "well"
+        ],
+        "option_b": [
+          "Bat",
+          "bats"
+        ],
+        "option_c": [
+          "Shrimp",
+          "shrimps"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": ""
+    },
+    {
+      "id": "animals_B1_4",
+      "que": "What animal can naturally survive being frozen solid?",
+      "ans": {
+        "value": "Wood frog",
+        "correct_entity": "option_b"
+      },
+      "options": [
+        "Prairie dog",
+        "Wood frog",
+        "Snowy owl"
+      ],
+      "expl": [
+        "Wood frogs can survive being frozen solid because sugar in their bodies works as a natural antifreeze. This lets them endure winter in a frozen state. When temperatures rise the heart and brain thaw first then the body and within about 10 hours they return to normal activity."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "Prairie dog",
+          "Prairie",
+          "dog"
+        ],
+        "option_b": [
+          "Wood frog",
+          "Wood",
+          "frog"
+        ],
+        "option_c": [
+          "Snowy owl",
+          "Snowy",
+          "owl"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": ""
+    },
+    {
+      "id": "animals_B1_5",
+      "que": "Which sea creature has three hearts?",
+      "ans": {
+        "value": "Octopus",
+        "correct_entity": "option_b"
+      },
+      "options": [
+        "Crocodile",
+        "Octopus",
+        "Whale"
+      ],
+      "expl": [
+        "The giant Pacific octopus is a peculiar sea creature with three hearts, nine brains, and blue blood, making it an oddity. It has a central brain that manages its nervous system."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "Crocodile",
+          "crocodiles"
+        ],
+        "option_b": [
+          "Octopus"
+        ],
+        "option_c": [
+          "Whale",
+          "well"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": ""
+    },
+    {
+      "id": "animals_B1_6",
+      "que": "Which male bird produces milk for its young?",
+      "ans": {
+        "value": "Pigeon",
+        "correct_entity": "option_a"
+      },
+      "options": [
+        "Pigeon",
+        "Eagle",
+        "Vulture"
+      ],
+      "expl": [
+        "Male and female pigeons produce pigeon \"milk\", a nutrient-rich substance created from cells lining their crop. Similar to lactation in mammals, it is fed to their young through regurgitation, and only three bird species, including flamingos and male emperor penguins, produce milk.\""
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "Pigeon",
+          "Pigeons"
+        ],
+        "option_b": [
+          "Eagle",
+          "Eagles"
+        ],
+        "option_c": [
+          "Vulture"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": ""
+    },
+    {
+      "id": "animals_B1_7",
+      "que": "What creature boasts the world's largest eyes?",
+      "ans": {
+        "value": "Colossal Squid",
+        "correct_entity": "option_c"
+      },
+      "options": [
+        "Blue Whale",
+        "Bamboo Lemur",
+        "Colossal Squid"
+      ],
+      "expl": [
+        "With a diameter of about 28 cm, the colossal squid's eyes are the largest in the animal kingdom. Its pupils, measuring approximately 3.5 inches wide, allow the eye to gather as much light as possible in the murky waters it inhabits, making it well-equipped to spot predators like the sperm whale."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "Blue Whale",
+          "Blue",
+          "Whale"
+        ],
+        "option_b": [
+          "Bamboo Lemur",
+          "Lemure",
+          "Lemur"
+        ],
+        "option_c": [
+          "Colossal Squid",
+          "Colossal",
+          "Squid"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": ""
+    },
+    {
+      "id": "animals_B1_8",
+      "que": "What is a group of frogs called?",
+      "ans": {
+        "value": "Army",
+        "correct_entity": "option_c"
+      },
+      "options": [
+        "Smack",
+        "Troop",
+        "Army"
+      ],
+      "expl": [
+        "While many know a group of birds is a flock and puppies a litter, some animals have unique collective nouns. Frogs, for instance, are called an army, ironic as they are peaceful creatures that form strong social bonds, especially during mating season."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "Smack",
+          "snack"
+        ],
+        "option_b": [
+          "Troop",
+          "trup"
+        ],
+        "option_c": [
+          "Army"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": ""
+    },
+    {
+      "id": "animals_B1_9",
+      "que": "What is the fastest-flying bird in the world?",
+      "ans": {
+        "value": "Peregrine Falcon",
+        "correct_entity": "option_b"
+      },
+      "options": [
+        "Eagle",
+        "Peregrine Falcon",
+        "Hummingbird"
+      ],
+      "expl": [
+        "The peregrine falcon is the world's fastest flying bird, capable of diving at speeds of up to 240 mph to catch prey. It has a unique appearance with blue-grey feathers and a black facial mustache, and can be found on all continents except Antarctica."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "Eagle",
+          "eagles"
+        ],
+        "option_b": [
+          "Peregrine Falcon",
+          "Peregrine",
+          "Falcon"
+        ],
+        "option_c": [
+          "Hummingbird",
+          "Humming bird",
+          "bird",
+          "humming"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": ""
+    },
+    {
+      "id": "animals_B1_10",
+      "que": "What type of animal is a seahorse?",
+      "ans": {
+        "value": "Fish",
+        "correct_entity": "option_a"
+      },
+      "options": [
+        "Fish",
+        "Mammal",
+        "Reptile"
+      ],
+      "expl": [
+        "A seahorse is a type of fish that belongs to the family Syngnathidae. They are unique for their horse-like appearance and ability to swim vertically."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "Fish",
+          "fishes"
+        ],
+        "option_b": [
+          "Mammal"
+        ],
+        "option_c": [
+          "Reptile",
+          "reptiles"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": ""
+    }
+  ],
+  "IMAGE_QUESTIONS": [],
+  "AUDIO_QUESTIONS": []
+}

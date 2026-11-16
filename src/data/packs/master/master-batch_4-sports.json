@@ -1,0 +1,399 @@
+{
+  "TEXT_QUESTIONS": [
+    {
+      "id": "sports_B4_1",
+      "que": "What sport was once known as Mintonette?",
+      "ans": {
+        "value": "Volleyball",
+        "correct_entity": "option_b"
+      },
+      "options": [
+        "Rugby",
+        "Volleyball",
+        "Lacrosse"
+      ],
+      "expl": [
+        "Volleyball, invented by William G. Morgan, the YMCA director in 1895, combined basketball, tennis, and handball elements for an indoor winter sport. Originally called \"Mintonette\", the game's name changed to \"volleyball\" as its volleying nature gained popularity."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "Rugby"
+        ],
+        "option_b": [
+          "Volleyball",
+          "volley ball"
+        ],
+        "option_c": [
+          "Lacrosse",
+          "la croix",
+          "lack rose",
+          "lack ross",
+          "black rose"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": ""
+    },
+    {
+      "id": "sports_B4_2",
+      "que": "Paula Abdul was a cheerleader for what sports team?",
+      "ans": {
+        "value": "LA Lakers",
+        "correct_entity": "option_c"
+      },
+      "options": [
+        "Dallas Cowboys",
+        "NY Knicks",
+        "LA Lakers"
+      ],
+      "expl": [
+        "Paula Abdul started dance lessons as a child. At 15, she got a scholarship to a dance camp and appeared in a low-budget film in 1978. She studied broadcasting at California State University, Northridge. As a freshman, she joined the Laker Girls cheerleading squad for the LA Lakers NBA team and quickly became head choreographer, staying until 1986."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "Dallas Cowboys",
+          "dallas cow boys",
+          "cow boy",
+          "cow boys",
+          "cowboys",
+          "dallas",
+          "dallas cowboy",
+          "dallas cow boy"
+        ],
+        "option_b": [
+          "NY Knicks",
+          "n. y. knick",
+          "n. y. nix",
+          "n. y. knicks",
+          "knicks",
+          "new york knicks",
+          "knick",
+          "n. y. nick",
+          "n. y. mix"
+        ],
+        "option_c": [
+          "LA Lakers",
+          "l. a. laker",
+          "laker",
+          "l. a. kaers",
+          "los angles lakers",
+          "lakers",
+          "l. a. lakers"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": ""
+    },
+    {
+      "id": "sports_B4_3",
+      "que": "Which of the following military leaders competed in the Olympics?",
+      "ans": {
+        "value": "George Patton",
+        "correct_entity": "option_b"
+      },
+      "options": [
+        "Robert E. Lee",
+        "George Patton",
+        "Douglas MacArthur"
+      ],
+      "expl": [
+        "George Patton, renowned as a top U.S. Army general, showcased his diverse talents by competing in the first modern pentathlon at the 1912 Olympics. He excelled in five events - pistol shooting, sword fighting, swimming, horseback riding, and cross-country running - earning a fifth-place finish overall, just shy of winning a medal."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "Robert E. Lee",
+          "Robert lee",
+          "robert",
+          "lee",
+          "robot",
+          "robot lee"
+        ],
+        "option_b": [
+          "George Patton",
+          "george",
+          "patton"
+        ],
+        "option_c": [
+          "Douglas MacArthur",
+          "douglas",
+          "macarthur",
+          "douglas matthew"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": ""
+    },
+    {
+      "id": "sports_B4_4",
+      "que": "In which sport would you perform digging, setting, and spiking?",
+      "ans": {
+        "value": "Volleyball",
+        "correct_entity": "option_c"
+      },
+      "options": [
+        "Soccer",
+        "Basketball",
+        "Volleyball"
+      ],
+      "expl": [
+        "In the sport of volleyball, players perform actions such as digging, setting , and spiking. These actions are fundamental to the game's dynamic, as teams work to strategically position themselves and execute precise plays to score points by getting the ball to land in the opponent's court."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "Soccer",
+          "saucer"
+        ],
+        "option_b": [
+          "Basketball",
+          "basket ball"
+        ],
+        "option_c": [
+          "Volleyball",
+          "volley ball"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": ""
+    },
+    {
+      "id": "sports_B4_5",
+      "que": "Where was the 2020 Summer Olympics originally scheduled to be held?",
+      "ans": {
+        "value": "Japan",
+        "correct_entity": "option_b"
+      },
+      "options": [
+        "Brazil",
+        "Japan",
+        "France"
+      ],
+      "expl": [
+        "The 2020 Summer Olympics were originally scheduled to be held in Tokyo, Japan. However, due to the COVID-19 pandemic, the games were postponed to 2021 and held under strict health protocols."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "Brazil"
+        ],
+        "option_b": [
+          "Japan"
+        ],
+        "option_c": [
+          "France"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": ""
+    },
+    {
+      "id": "sports_B4_6",
+      "que": "What are the small indentations on a golf ball called?",
+      "ans": {
+        "value": "Dimples",
+        "correct_entity": "option_a"
+      },
+      "options": [
+        "Dimples",
+        "Pockmarks",
+        "Ridges"
+      ],
+      "expl": [
+        "The small depressions on a golf ball are called dimples. These dimples help to improve the ball's aerodynamics by reducing drag and increasing lift, allowing it to travel farther and with more accuracy when struck."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "Dimples",
+          "dimple"
+        ],
+        "option_b": [
+          "Pockmarks",
+          "pockmark",
+          "bookmarks",
+          "pock marks",
+          "pop marks",
+          "pock mark"
+        ],
+        "option_c": [
+          "Ridges",
+          "ridge"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": ""
+    },
+    {
+      "id": "sports_B4_7",
+      "que": "What sport banned left-handed players?",
+      "ans": {
+        "value": "Polo",
+        "correct_entity": "option_b"
+      },
+      "options": [
+        "Tennis",
+        "Polo",
+        "Baseball"
+      ],
+      "expl": [
+        "Thus the use of the left hand to play the sport was banned, for the safety of both the rider and the horse. Using the right hand only allowed polo to follow the principles of driving a car on a two-way road, with everyone keeping to the same side, and the risk of collisions vastly reduced."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "Tennis",
+          "ten is"
+        ],
+        "option_b": [
+          "Polo"
+        ],
+        "option_c": [
+          "Baseball",
+          "base ball"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": ""
+    },
+    {
+      "id": "sports_B4_8",
+      "que": "The Caber Toss is a traditional sport in which country?",
+      "ans": {
+        "value": "Scotland",
+        "correct_entity": "option_a"
+      },
+      "options": [
+        "Scotland",
+        "Canada",
+        "Norway"
+      ],
+      "expl": [
+        "The Caber Toss is a traditional sport originating from Scotland. In this unique event, participants showcase their strength and skill by attempting to toss a large wooden log end over end. The sport has deep cultural roots in Scotland and is often featured in Highland Games, celebrating the country's heritage and athleticism."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "Scotland"
+        ],
+        "option_b": [
+          "Canada"
+        ],
+        "option_c": [
+          "Norway"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": ""
+    },
+    {
+      "id": "sports_B4_9",
+      "que": "Which is the only team to play in every soccer World Cup tournament?",
+      "ans": {
+        "value": "Brazil",
+        "correct_entity": "option_c"
+      },
+      "options": [
+        "Argentina",
+        "England",
+        "Brazil"
+      ],
+      "expl": [
+        "The team that holds the distinction of participating in every single FIFA World Cup tournament is Brazil. With an unbroken streak since the inaugural 1930 World Cup, Brazil's football prowess and historical dominance have granted them the privilege of being the sole team to have graced the tournament's stage in every edition."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "Argentina"
+        ],
+        "option_b": [
+          "England"
+        ],
+        "option_c": [
+          "Brazil"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": ""
+    },
+    {
+      "id": "sports_B4_10",
+      "que": "In which country was the first Commonwealth Games held?",
+      "ans": {
+        "value": "Canada",
+        "correct_entity": "option_b"
+      },
+      "options": [
+        "England",
+        "Canada",
+        "New zealand"
+      ],
+      "expl": [
+        "The inaugural Commonwealth Games took place in Hamilton, Ontario, Canada, in 1930. This event gathers athletes from Commonwealth nations, fostering friendly competition and cultural exchange."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "England"
+        ],
+        "option_b": [
+          "Canada"
+        ],
+        "option_c": [
+          "New zealand",
+          "new",
+          "zealand"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": ""
+    },
+    {
+      "id": "sports_B4_11",
+      "que": "What was the first sport that allowed women to compete at the Olympics?",
+      "ans": {
+        "value": "Tennis",
+        "correct_entity": "option_b"
+      },
+      "options": [
+        "Boxing",
+        "Tennis",
+        "Gymnastics"
+      ],
+      "expl": [
+        "The first sport that allowed women to compete at the Olympics was tennis. Women participated in the tennis events at the 1900 Paris Olympics. This marked a significant step towards gender inclusivity in sports on the Olympic stage, paving the way for the increasing involvement of women in various disciplines over the years."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "Boxing"
+        ],
+        "option_b": [
+          "Tennis",
+          "ten is"
+        ],
+        "option_c": [
+          "Gymnastics",
+          "gymnastic"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": ""
+    }
+  ],
+  "IMAGE_QUESTIONS": [],
+  "AUDIO_QUESTIONS": []
+}

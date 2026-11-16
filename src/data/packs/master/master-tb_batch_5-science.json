@@ -1,0 +1,1240 @@
+{
+  "TEXT_QUESTIONS": [
+    {
+      "id": "Trivia_Battle_B5_11",
+      "que": "How long is your short-term memory?",
+      "ans": {
+        "value": "30 seconds",
+        "correct_entity": "option_a"
+      },
+      "options": [
+        "30 seconds",
+        "5 hours",
+        "10 minutes"
+      ],
+      "expl": [
+        "Short-term memory holds info for 15–30 seconds, helping with daily tasks like recalling recipes, sentences, or orders. It’s vital for conversations and processes, making it an essential cognitive skill."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "30 seconds",
+          "three zero seconds",
+          "thirty seconds",
+          "thirty second",
+          "three zero second",
+          "thirty"
+        ],
+        "option_b": [
+          "5 hours",
+          "five hours",
+          "five hour",
+          "five"
+        ],
+        "option_c": [
+          "10 minutes",
+          "ten minutes",
+          "ten minute",
+          "ten",
+          "one zero minute",
+          "one zero minutes",
+          "tens",
+          "one zero",
+          "one zeros"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": ""
+    },
+    {
+      "id": "Trivia_Battle_B5_13",
+      "que": "What is the main component of the sun?",
+      "ans": {
+        "value": "Gas",
+        "correct_entity": "option_b"
+      },
+      "options": [
+        "Liquid lava",
+        "Gas",
+        "Rock"
+      ],
+      "expl": [
+        "The center of the Sun produces energy via nuclear fusion by converting hydrogen to helium. The Sun is predominantly composed of hydrogen (92%) and helium (8%), with a small amount of other elements found on Earth."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "Liquid lava",
+          "liquid",
+          "lava"
+        ],
+        "option_b": [
+          "Gas"
+        ],
+        "option_c": [
+          "Rock",
+          "rocks",
+          "rocking"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": ""
+    },
+    {
+      "id": "Trivia_Battle_B5_21",
+      "que": "What planet is known as the red planet?",
+      "ans": {
+        "value": "Mars",
+        "correct_entity": "option_c"
+      },
+      "options": [
+        "Saturn",
+        "Uranus",
+        "Mars"
+      ],
+      "expl": [
+        "The fourth planet from the Sun, Mars, known as the Red Planet, has a year of 687 Earth days and two small moons. It is about half the size of Earth, and its red color comes from rusty iron in the soil.\""
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "Saturn"
+        ],
+        "option_b": [
+          "Uranus"
+        ],
+        "option_c": [
+          "Mars",
+          "mar"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": ""
+    },
+    {
+      "id": "Trivia_Battle_B5_38",
+      "que": "Which of the following digits on your hand has its own pulse?",
+      "ans": {
+        "value": "Thumb",
+        "correct_entity": "option_a"
+      },
+      "options": [
+        "Thumb",
+        "Index finger",
+        "Ring finger"
+      ],
+      "expl": [
+        "When checking your pulse on your neck's carotid artery, you'll notice that doctors use their index and middle fingers instead of their thumbs, which have their own artery and can't accurately detect the pulse.\""
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "Thumb",
+          "thumbs"
+        ],
+        "option_b": [
+          "Index finger",
+          "index"
+        ],
+        "option_c": [
+          "Ring finger",
+          "ring"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": ""
+    },
+    {
+      "id": "Trivia_Battle_B5_41",
+      "que": "What is the medical term for the opposite side of the elbow?",
+      "ans": {
+        "value": "Cubital fossa",
+        "correct_entity": "option_c"
+      },
+      "options": [
+        "Pollex",
+        "Distal phalanx",
+        "Cubital fossa"
+      ],
+      "expl": [
+        "The cubital fossa, or “elbow pit,” lies opposite the elbow joint. From Latin for “small pit,” it contains veins for blood draws, the radial nerve, biceps tendon, and brachial artery."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "Pollex",
+          "poll x.",
+          "pollen"
+        ],
+        "option_b": [
+          "Distal phalanx",
+          "distal",
+          "phalanx",
+          "phalnex"
+        ],
+        "option_c": [
+          "Cubital fossa",
+          "cubital",
+          "fossa",
+          "cube",
+          "foss",
+          "fusa",
+          "cubetal fossa"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": ""
+    },
+    {
+      "id": "Trivia_Battle_B5_48",
+      "que": "On the periodic table, what is the only real element that is named after a U.S. state?",
+      "ans": {
+        "value": "Californium",
+        "correct_entity": "option_b"
+      },
+      "options": [
+        "Floridium",
+        "Californium",
+        "Michiganese"
+      ],
+      "expl": [
+        "Californium, made in 1950 at UC Berkeley, is a radioactive neutron emitter used in detectors, mining, and aircraft testing. It’s toxic, synthetic, and has no biological function."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "Floridium",
+          "floridian",
+          "florida"
+        ],
+        "option_b": [
+          "Californium",
+          "california"
+        ],
+        "option_c": [
+          "Michiganese",
+          "michigan is"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": ""
+    },
+    {
+      "id": "Trivia_Battle_B5_49",
+      "que": "All astronauts who visit the International Space Station must learn what language?",
+      "ans": {
+        "value": "Russian",
+        "correct_entity": "option_a"
+      },
+      "options": [
+        "Russian",
+        "Mandarin",
+        "Sign language"
+      ],
+      "expl": [
+        "English is the official language of the ISS, but astronauts must also learn Russian, since Soyuz—the main transport since 2011—has all controls in Russian, requiring rigorous language training."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "Russian",
+          "russia"
+        ],
+        "option_b": [
+          "Mandarin"
+        ],
+        "option_c": [
+          "Sign language",
+          "sign",
+          "language"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": ""
+    },
+    {
+      "id": "Trivia_Battle_B5_54",
+      "que": "What is the smallest organ in the human body?",
+      "ans": {
+        "value": "Pineal gland",
+        "correct_entity": "option_a"
+      },
+      "options": [
+        "Pineal gland",
+        "Eyeball",
+        "Pharynx"
+      ],
+      "expl": [
+        "The pineal gland, a pinecone-shaped organ 5–8 mm long, sits deep in the brain near the stem. It produces melatonin, controlling sleep cycles and light response. Its name is pronounced “pin-ee-uhl.”"
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "Pineal gland",
+          "pineal",
+          "gland",
+          "pinyel"
+        ],
+        "option_b": [
+          "Eyeball",
+          "eyeballs",
+          "eye balls",
+          "eye ball",
+          "ball",
+          "balls",
+          "eye",
+          "eyes"
+        ],
+        "option_c": [
+          "Pharynx",
+          "fairings",
+          "fairlinks",
+          "pharnax",
+          "farnax"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": ""
+    },
+    {
+      "id": "Trivia_Battle_B5_72",
+      "que": "What gives blood its red color?",
+      "ans": {
+        "value": "Hemoglobin",
+        "correct_entity": "option_a"
+      },
+      "options": [
+        "Hemoglobin",
+        "Platelets",
+        "Plasma"
+      ],
+      "expl": [
+        "Hemoglobin, a complex protein with iron, is present in red blood cells and gives blood its red color. It carries oxygen to body tissues and exchanges it with carbon dioxide, which it then transports back to the lungs."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "Hemoglobin",
+          "hemo",
+          "globin",
+          "hemeogloabin"
+        ],
+        "option_b": [
+          "Platelets",
+          "platelate",
+          "palate",
+          "plate",
+          "plates",
+          "plate let",
+          "plate late"
+        ],
+        "option_c": [
+          "Plasma"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": ""
+    },
+    {
+      "id": "Trivia_Battle_B5_77",
+      "que": "The wind on which planet can blow up to 1,500 miles per hour?",
+      "ans": {
+        "value": "Neptune",
+        "correct_entity": "option_a"
+      },
+      "options": [
+        "Neptune",
+        "Saturn",
+        "Jupiter"
+      ],
+      "expl": [
+        "Neptune, the farthest planet from the Sun, has -218°C temperatures and winds up to 1,500 mph. Discovered in 1846, it completed its first orbit in 2011, taking nearly 165 Earth years."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "Neptune"
+        ],
+        "option_b": [
+          "Saturn"
+        ],
+        "option_c": [
+          "Jupiter"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": ""
+    },
+    {
+      "id": "Trivia_Battle_B5_91",
+      "que": "Which planet has the longest day?",
+      "ans": {
+        "value": "Venus",
+        "correct_entity": "option_a"
+      },
+      "options": [
+        "Venus",
+        "Mars",
+        "Jupiter"
+      ],
+      "expl": [
+        "Venus spins backward, making its day longer than its year. The Sun rises in the west and sets in the east, opposite every other planet except Uranus in our solar system."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "Venus",
+          "2nd planet"
+        ],
+        "option_b": [
+          "Mars",
+          "mar"
+        ],
+        "option_c": [
+          "Jupiter"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": ""
+    },
+    {
+      "id": "Trivia_Battle_B5_97",
+      "que": "What vegetable grows fast enough that you can actually hear it?",
+      "ans": {
+        "value": "Rhubarb",
+        "correct_entity": "option_b"
+      },
+      "options": [
+        "Radishes",
+        "Rhubarb",
+        "Parsnips"
+      ],
+      "expl": [
+        "Forced rhubarb, grown in the dark, grows at an incredible rate of up to an inch per day, resulting in stalks brushing against each other to create audible sounds such as squeaks, crackles, and pops."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "Radishes",
+          "radish",
+          "radishies"
+        ],
+        "option_b": [
+          "Rhubarb",
+          "rhubab"
+        ],
+        "option_c": [
+          "Parsnips",
+          "parnips",
+          "parsnip",
+          "parnip"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": ""
+    },
+    {
+      "id": "Trivia_Battle_B5_111",
+      "que": "Which planet has the most moons?",
+      "ans": {
+        "value": "Jupiter",
+        "correct_entity": "option_a"
+      },
+      "options": [
+        "Jupiter",
+        "Venus",
+        "Mercury"
+      ],
+      "expl": [
+        "Jupiter Reclaims Title of Planet With the Most Moons. Jupiter had a total of 79 known moons as of 2021. Astronomers discovered 12 additional moons of Jupiter, raising its total number of known natural satellites to 92."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "Jupiter"
+        ],
+        "option_b": [
+          "Venus",
+          "2nd planet"
+        ],
+        "option_c": [
+          "Mercury"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": ""
+    },
+    {
+      "id": "Trivia_Battle_B5_114",
+      "que": "Where is the smallest bone in the body?",
+      "ans": {
+        "value": "Ears",
+        "correct_entity": "option_b"
+      },
+      "options": [
+        "Nose",
+        "Ears",
+        "Finger"
+      ],
+      "expl": [
+        "The smallest bone in the human body is called the stapes or stirrup bone, and it is located in the middle ear. The stapes bone is only about 3 millimeters long in adults and is shaped like a stirrup, hence its nickname."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "Nose"
+        ],
+        "option_b": [
+          "Ears",
+          "ear",
+          "year",
+          "years",
+          "yours"
+        ],
+        "option_c": [
+          "Finger",
+          "fingers"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": ""
+    },
+    {
+      "id": "Trivia_Battle_B5_119",
+      "que": "Which organ has the same size during birth and death?",
+      "ans": {
+        "value": "Eyes",
+        "correct_entity": "option_c"
+      },
+      "options": [
+        "Ears",
+        "Nose",
+        "Eyes"
+      ],
+      "expl": [
+        "The human eyeball’s size stays nearly constant through life. A newborn’s eye is about two-thirds an adult’s and grows little afterward, maintaining its size from infancy to old age."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "Ears",
+          "ear",
+          "year",
+          "years",
+          "yours"
+        ],
+        "option_b": [
+          "Nose"
+        ],
+        "option_c": [
+          "Eyes",
+          "eye",
+          "ice",
+          "i."
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": ""
+    },
+    {
+      "id": "Trivia_Battle_B5_120",
+      "que": "Which planet rotates in a clockwise direction?",
+      "ans": {
+        "value": "Venus",
+        "correct_entity": "option_b"
+      },
+      "options": [
+        "Saturn",
+        "Venus",
+        "Mars"
+      ],
+      "expl": [
+        "Venus uniquely rotates clockwise, opposite all other planets. Viewed from above its north pole, it spins backward—meaning the Sun rises in the west and sets in the east on Venus."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "Saturn"
+        ],
+        "option_b": [
+          "Venus",
+          "2nd planet"
+        ],
+        "option_c": [
+          "Mars",
+          "mar"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": ""
+    },
+    {
+      "id": "Trivia_Battle_B5_121",
+      "que": "What is the largest internal organ in the body?",
+      "ans": {
+        "value": "Liver",
+        "correct_entity": "option_b"
+      },
+      "options": [
+        "Small intestine",
+        "Liver",
+        "Heart"
+      ],
+      "expl": [
+        "The liver, the body’s largest internal organ, detoxifies blood, produces bile, stores glucose, and makes proteins. It’s also remarkable for its ability to regenerate after injury or partial removal."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "Small intestine",
+          "small",
+          "intestine"
+        ],
+        "option_b": [
+          "Liver"
+        ],
+        "option_c": [
+          "Heart"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": ""
+    },
+    {
+      "id": "Trivia_Battle_B5_129",
+      "que": "What is the smallest unit of life?",
+      "ans": {
+        "value": "Cell",
+        "correct_entity": "option_c"
+      },
+      "options": [
+        "Molecule",
+        "Atom",
+        "Cell"
+      ],
+      "expl": [
+        "The cell is the smallest unit of life, forming the structure and function of all living things. Cells can exist alone or in groups and perform all essential life processes."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "Molecule",
+          "molecules"
+        ],
+        "option_b": [
+          "Atom",
+          "atoms",
+          "item",
+          "items"
+        ],
+        "option_c": [
+          "Cell",
+          "sell",
+          "sale"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": ""
+    },
+    {
+      "id": "Trivia_Battle_B5_130",
+      "que": "What is the most abundant gas in the Earth's atmosphere?",
+      "ans": {
+        "value": "Nitrogen",
+        "correct_entity": "option_b"
+      },
+      "options": [
+        "Oxygen",
+        "Nitrogen",
+        "Carbon dioxide"
+      ],
+      "expl": [
+        "Nitrogen makes up 78% of Earth's atmosphere, making it the most abundant gas. Oxygen follows at 21%, with the rest composed of trace gases like argon, carbon dioxide, and helium."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "Oxygen"
+        ],
+        "option_b": [
+          "Nitrogen"
+        ],
+        "option_c": [
+          "Carbon dioxide",
+          "carbon",
+          "dioxide"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": ""
+    },
+    {
+      "id": "Trivia_Battle_B5_152",
+      "que": "Which of the following is the fundamental unit of life?",
+      "ans": {
+        "value": "Cell",
+        "correct_entity": "option_a"
+      },
+      "options": [
+        "Cell",
+        "Atom",
+        "Molecule"
+      ],
+      "expl": [
+        "The cell is the smallest structural and functional unit of life. It carries out all essential biological processes and serves as the foundation for all living organisms."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "Cell",
+          "sell",
+          "sale"
+        ],
+        "option_b": [
+          "Atom",
+          "atoms",
+          "item",
+          "items"
+        ],
+        "option_c": [
+          "Molecule",
+          "molecules"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": ""
+    },
+    {
+      "id": "Trivia_Battle_B5_153",
+      "que": "What is the process by which plants convert sunlight into energy?",
+      "ans": {
+        "value": "Photosynthesis",
+        "correct_entity": "option_b"
+      },
+      "options": [
+        "Respiration",
+        "Photosynthesis",
+        "Transpiration"
+      ],
+      "expl": [
+        "Photosynthesis is the incredible process through which plants harness the power of sunlight to convert carbon dioxide and water into energy-rich sugars, providing them with the fuel they need to grow and survive."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "Respiration"
+        ],
+        "option_b": [
+          "Photosynthesis"
+        ],
+        "option_c": [
+          "Transpiration"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": ""
+    },
+    {
+      "id": "Trivia_Battle_B5_154",
+      "que": "What is the smallest particle of an element that retains its chemical properties?",
+      "ans": {
+        "value": "Atom",
+        "correct_entity": "option_c"
+      },
+      "options": [
+        "Electron",
+        "Proton",
+        "Atom"
+      ],
+      "expl": [
+        "An atom is the smallest unit of an element that keeps its chemical traits. Made of protons, neutrons, and electrons, atoms join to form molecules that create all matter in the universe."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "Electron",
+          "electrons"
+        ],
+        "option_b": [
+          "Proton",
+          "protons"
+        ],
+        "option_c": [
+          "Atom",
+          "atoms",
+          "item",
+          "items"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": ""
+    },
+    {
+      "id": "Trivia_Battle_B5_155",
+      "que": "Which force keeps objects in orbit around the Earth?",
+      "ans": {
+        "value": "Gravitational",
+        "correct_entity": "option_a"
+      },
+      "options": [
+        "Gravitational",
+        "Magnetic",
+        "Electromagnetic"
+      ],
+      "expl": [
+        "Gravity keeps the Moon and satellites in orbit around Earth. It pulls them toward the planet while their sideways motion keeps them circling instead of falling straight down."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "Gravitational",
+          "gravitation"
+        ],
+        "option_b": [
+          "Magnetic",
+          "magnet"
+        ],
+        "option_c": [
+          "Electromagnetic",
+          "electro magnetic",
+          "electro-magnetic"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": ""
+    },
+    {
+      "id": "Trivia_Battle_B5_156",
+      "que": "Which organ filters waste products from the blood and produces urine?",
+      "ans": {
+        "value": "Kidney",
+        "correct_entity": "option_a"
+      },
+      "options": [
+        "Kidney",
+        "Liver",
+        "Pancreas"
+      ],
+      "expl": [
+        "The kidneys act as filters that clean our blood, removing waste, toxins, and extra water. They also balance electrolytes, control blood pressure, and help make red blood cells."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "Kidney",
+          "kidneys"
+        ],
+        "option_b": [
+          "Liver"
+        ],
+        "option_c": [
+          "Pancreas",
+          "pancrea"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": ""
+    },
+    {
+      "id": "Trivia_Battle_B5_157",
+      "que": "Which of the following organs has the ability to regenerate itself?",
+      "ans": {
+        "value": "Liver",
+        "correct_entity": "option_a"
+      },
+      "options": [
+        "Liver",
+        "Stomach",
+        "Lungs"
+      ],
+      "expl": [
+        "The liver can regrow itself even after part is removed. Special cells called hepatocytes repair and replace tissue, allowing the organ to regain full size within weeks of injury."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "Liver"
+        ],
+        "option_b": [
+          "Stomach"
+        ],
+        "option_c": [
+          "Lungs",
+          "lung"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": ""
+    },
+    {
+      "id": "Trivia_Battle_B5_158",
+      "que": "Which hormone is responsible for regulating sleep and wakefulness in humans?",
+      "ans": {
+        "value": "Melatonin",
+        "correct_entity": "option_a"
+      },
+      "options": [
+        "Melatonin",
+        "Insulin",
+        "Adrenaline"
+      ],
+      "expl": [
+        "Melatonin is a sleep hormone made by the brain. Levels rise at night to make us sleepy and fall in the morning to wake us. Bright light from screens can lower melatonin and delay sleep."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "Melatonin"
+        ],
+        "option_b": [
+          "Insulin"
+        ],
+        "option_c": [
+          "Adrenaline",
+          "adrenalines"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": ""
+    },
+    {
+      "id": "Trivia_Battle_B5_206",
+      "que": "Which portion of the plant is responsible for photosynthesis?",
+      "ans": {
+        "value": "Leaves",
+        "correct_entity": "option_b"
+      },
+      "options": [
+        "Roots",
+        "Leaves",
+        "Stems"
+      ],
+      "expl": [
+        "Leaves perform photosynthesis using chlorophyll to turn sunlight into energy. Structures like stomata and mesophyll cells help plants breathe and create food efficiently."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "Roots",
+          "root"
+        ],
+        "option_b": [
+          "Leaves"
+        ],
+        "option_c": [
+          "Stems",
+          "stem",
+          "stamps",
+          "streams"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": ""
+    },
+    {
+      "id": "Trivia_Battle_B5_207",
+      "que": "Who was the first American woman in space?",
+      "ans": {
+        "value": "Sally Ride",
+        "correct_entity": "option_a"
+      },
+      "options": [
+        "Sally Ride",
+        "Mae Jemison",
+        "Amelia Earhart"
+      ],
+      "expl": [
+        "Sally Ride became the first American woman in space on June 18, 1983, aboard the Space Shuttle Challenger. Her mission inspired generations of women in science."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "Sally Ride",
+          "sally",
+          "ride"
+        ],
+        "option_b": [
+          "Mae Jemison",
+          "mae",
+          "jemison",
+          "may jemison"
+        ],
+        "option_c": [
+          "Amelia Earhart",
+          "amelia",
+          "earhart",
+          "yearhart",
+          "yearheart",
+          "Amelia year heart"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": ""
+    },
+    {
+      "id": "Trivia_Battle_B5_208",
+      "que": "The pericardium is a membrane that protects which organ in the human body?",
+      "ans": {
+        "value": "Heart",
+        "correct_entity": "option_a"
+      },
+      "options": [
+        "Heart",
+        "Lungs",
+        "Liver"
+      ],
+      "expl": [
+        "The pericardium is a membrane around the heart with two layers—fibrous and serous. It protects the heart, reduces friction, and holds it in position in the chest."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "Heart"
+        ],
+        "option_b": [
+          "Lungs",
+          "lung"
+        ],
+        "option_c": [
+          "Liver"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": ""
+    },
+    {
+      "id": "Trivia_Battle_B5_222",
+      "que": "Through which state of matter does sound travel the fastest?",
+      "ans": {
+        "value": "Solid",
+        "correct_entity": "option_a"
+      },
+      "options": [
+        "Solid",
+        "Liquid",
+        "Gas"
+      ],
+      "expl": [
+        "Sound travels fastest through solids because their particles are tightly packed, unlike liquids and gases where sound moves more slowly."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "Solid"
+        ],
+        "option_b": [
+          "Liquid"
+        ],
+        "option_c": [
+          "Gas"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": ""
+    },
+    {
+      "id": "Trivia_Battle_B5_234",
+      "que": "What part of the eye gives it its color?",
+      "ans": {
+        "value": "Iris",
+        "correct_entity": "option_c"
+      },
+      "options": [
+        "Pupil",
+        "Cornea",
+        "Iris"
+      ],
+      "expl": [
+        "The iris, surrounding the pupil, gives eyes their color through pigments like melanin. It controls pupil size, regulating light entry, and results in shades like brown, blue, green, hazel, or gray."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "Pupil",
+          "pupils",
+          "people",
+          "poop in"
+        ],
+        "option_b": [
+          "Cornea",
+          "corner"
+        ],
+        "option_c": [
+          "Iris",
+          "aries"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": ""
+    },
+    {
+      "id": "Trivia_Battle_B5_263",
+      "que": "What is the most abundant gas in our atmosphere?",
+      "ans": {
+        "value": "Nitrogen",
+        "correct_entity": "option_b"
+      },
+      "options": [
+        "Oxygen",
+        "Nitrogen",
+        "Carbon dioxide"
+      ],
+      "expl": [
+        "Air is mostly nitrogen (78%) and oxygen (21%), with carbon dioxide around 0.04%. Nitrogen supports life balance, while oxygen fuels breathing and cellular functions."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "Oxygen"
+        ],
+        "option_b": [
+          "Nitrogen"
+        ],
+        "option_c": [
+          "Carbon dioxide",
+          "carbon",
+          "dioxide"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": ""
+    },
+    {
+      "id": "Trivia_Battle_B5_273",
+      "que": "What is the most abundant metal on Earth?",
+      "ans": {
+        "value": "Aluminum",
+        "correct_entity": "option_b"
+      },
+      "options": [
+        "Iron",
+        "Aluminum",
+        "Copper"
+      ],
+      "expl": [
+        "Aluminum, the most abundant metal on Earth, makes up 8% of the crust’s weight. Though highly reactive, it’s vital in industries like construction, packaging, and transport due to its wide availability."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "Iron"
+        ],
+        "option_b": [
+          "Aluminum"
+        ],
+        "option_c": [
+          "Copper"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": ""
+    },
+    {
+      "id": "Trivia_Battle_B5_277",
+      "que": "What element are diamonds mostly made from?",
+      "ans": {
+        "value": "Carbon",
+        "correct_entity": "option_a"
+      },
+      "options": [
+        "Carbon",
+        "Oxygen",
+        "Nitrogen"
+      ],
+      "expl": [
+        "Diamonds are mainly composed of carbon arranged in a crystal lattice, giving them their brilliance and hardness. Minor elements like nitrogen and oxygen don’t significantly affect their composition."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "Carbon",
+          "carbons"
+        ],
+        "option_b": [
+          "Oxygen"
+        ],
+        "option_c": [
+          "Nitrogen"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": ""
+    },
+    {
+      "id": "Trivia_Battle_B5_288",
+      "que": "Which law of motion states that for every action, there is an equal and opposite reaction?",
+      "ans": {
+        "value": "Newton's Third Law",
+        "correct_entity": "option_c"
+      },
+      "options": [
+        "Newton's First Law",
+        "Newton's Second Law",
+        "Newton's Third Law"
+      ],
+      "expl": [
+        "Newton’s Third Law says every action has an equal and opposite reaction. This means forces occur in pairs—like a rocket moving upward as it pushes exhaust gases downward."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "Newton's First Law",
+          "newton's",
+          "first",
+          "law"
+        ],
+        "option_b": [
+          "Newton's Second Law",
+          "newton's",
+          "second",
+          "law"
+        ],
+        "option_c": [
+          "Newton's Third Law",
+          "newton's",
+          "third",
+          "law"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": ""
+    }
+  ],
+  "IMAGE_QUESTIONS": [],
+  "AUDIO_QUESTIONS": []
+}

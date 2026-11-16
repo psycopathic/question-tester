@@ -1,0 +1,1667 @@
+{
+  "TEXT_QUESTIONS": [
+    {
+      "id": "geography_B8_1",
+      "que": "Which U.S. state is famous for Hollywood and the Golden Gate Bridge?",
+      "ans": {
+        "value": "California",
+        "correct_entity": "option_b"
+      },
+      "options": [
+        "Texas",
+        "California",
+        "Florida"
+      ],
+      "expl": [
+        "California is famous for Hollywood, the home of the American film industry, and the Golden Gate Bridge in San Francisco. It is the most populated U.S. state and is known for sunny beaches, redwood forests, and Disneyland in Anaheim."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "Texas",
+          "tx",
+          "texus"
+        ],
+        "option_b": [
+          "California",
+          "cali",
+          "ca"
+        ],
+        "option_c": [
+          "Florida",
+          "fl",
+          "floridah"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": ""
+    },
+    {
+      "id": "geography_B8_2",
+      "que": "Which country has the largest population in the world?",
+      "ans": {
+        "value": "India",
+        "correct_entity": "option_a"
+      },
+      "options": [
+        "India",
+        "China",
+        "USA"
+      ],
+      "expl": [
+        "India surpassed China in 2023 to become the most populous country in the world, with a population exceeding 1.4 billion people. China held the top spot for decades but its population growth slowed due to its now-abandoned one-child policy."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "India",
+          "indian",
+          "bharat",
+          "hindustan"
+        ],
+        "option_b": [
+          "China",
+          "chinese",
+          "prc",
+          "zhongguo"
+        ],
+        "option_c": [
+          "USA",
+          "united states",
+          "america",
+          "united states of america",
+          "us"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": ""
+    },
+    {
+      "id": "geography_B8_3",
+      "que": "Mount Everest is located on the border of which two countries?",
+      "ans": {
+        "value": "Nepal and China",
+        "correct_entity": "option_b"
+      },
+      "options": [
+        "India and China",
+        "Nepal and China",
+        "Nepal and India"
+      ],
+      "expl": [
+        "Mount Everest is located on the border between Nepal and the Tibet Autonomous Region of China. At 8,848.86 metres above sea level, it is the highest mountain on Earth. It was first summited by Edmund Hillary and Tenzing Norgay on May 29, 1953."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "India and China",
+          "india china",
+          "bharat china",
+          "china india",
+          "china and india"
+        ],
+        "option_b": [
+          "Nepal and China",
+          "nepal china",
+          "china nepal",
+          "china and nepal"
+        ],
+        "option_c": [
+          "Nepal and India",
+          "nepal india",
+          "india nepal",
+          "india and nepal"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": ""
+    },
+    {
+      "id": "geography_B8_4",
+      "que": "The Amazon River flows through which continent?",
+      "ans": {
+        "value": "South America",
+        "correct_entity": "option_c"
+      },
+      "options": [
+        "Africa",
+        "Asia",
+        "South America"
+      ],
+      "expl": [
+        "The Amazon River flows through South America, primarily through Brazil. At about 6,400 kilometres, it is the second longest river in the world but carries the largest volume of water of any river. The Amazon basin contains the world's largest tropical rainforest."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "Africa",
+          "african",
+          "african continent"
+        ],
+        "option_b": [
+          "Asia",
+          "asian",
+          "asian continent"
+        ],
+        "option_c": [
+          "South America",
+          "latin america",
+          "south american continent"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": ""
+    },
+    {
+      "id": "geography_B8_5",
+      "que": "Which is the smallest U.S. state by total area?",
+      "ans": {
+        "value": "Rhode Island",
+        "correct_entity": "option_b"
+      },
+      "options": [
+        "Delaware",
+        "Rhode Island",
+        "Connecticut"
+      ],
+      "expl": [
+        "Rhode Island is the smallest U.S. state by total area, covering only about 1,545 square miles. Despite its small size, it has more than 400 miles of coastline. Its capital is Providence, and it is one of the original thirteen colonies."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "Delaware",
+          "delawere"
+        ],
+        "option_b": [
+          "Rhode Island",
+          "r i",
+          "rhode"
+        ],
+        "option_c": [
+          "Connecticut",
+          "connecticutt"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": ""
+    },
+    {
+      "id": "geography_B8_6",
+      "que": "Which African country has the most pyramids?",
+      "ans": {
+        "value": "Sudan",
+        "correct_entity": "option_b"
+      },
+      "options": [
+        "Egypt",
+        "Sudan",
+        "Libya"
+      ],
+      "expl": [
+        "Sudan, not Egypt, actually has the most pyramids of any country. Sudan has around 200 to 255 pyramids, compared to Egypt's roughly 130. The Nubian pyramids of Sudan were built by the rulers of the ancient Kushite kingdoms."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "Egypt",
+          "egyptian",
+          "misr"
+        ],
+        "option_b": [
+          "Sudan",
+          "sudanese",
+          "sedan"
+        ],
+        "option_c": [
+          "Libya",
+          "libyan",
+          "libyah"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": ""
+    },
+    {
+      "id": "geography_B8_7",
+      "que": "What is the capital of Japan?",
+      "ans": {
+        "value": "Tokyo",
+        "correct_entity": "option_c"
+      },
+      "options": [
+        "Osaka",
+        "Kyoto",
+        "Tokyo"
+      ],
+      "expl": [
+        "Tokyo is the capital of Japan and the country's most populous city. With a greater metropolitan area population of over 37 million, it is the most populous metropolitan area in the world. Tokyo has been Japan's capital since 1869."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "Osaka",
+          "osacca"
+        ],
+        "option_b": [
+          "Kyoto",
+          "kioto"
+        ],
+        "option_c": [
+          "Tokyo",
+          "tokio",
+          "tokeyo"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": ""
+    },
+    {
+      "id": "geography_B8_8",
+      "que": "Which of the Great Lakes lies entirely within the United States?",
+      "ans": {
+        "value": "Lake Michigan",
+        "correct_entity": "option_b"
+      },
+      "options": [
+        "Lake Superior",
+        "Lake Michigan",
+        "Lake Erie"
+      ],
+      "expl": [
+        "Lake Michigan is the only one of the five Great Lakes that lies entirely within the United States. The other four are shared with Canada. Lake Michigan touches the states of Michigan, Wisconsin, Illinois, and Indiana, and Chicago sits on its shore."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "Lake Superior",
+          "superior",
+          "superior lake"
+        ],
+        "option_b": [
+          "Lake Michigan",
+          "michigan",
+          "michigan lake",
+          "lake"
+        ],
+        "option_c": [
+          "Lake Erie",
+          "erie",
+          "erie lake",
+          "lake"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": ""
+    },
+    {
+      "id": "geography_B8_9",
+      "que": "The Sahara Desert is located on which continent?",
+      "ans": {
+        "value": "Africa",
+        "correct_entity": "option_b"
+      },
+      "options": [
+        "Asia",
+        "Africa",
+        "Australia"
+      ],
+      "expl": [
+        "The Sahara Desert is located in northern Africa. It is the world's largest hot desert, covering about 9.2 million square kilometres across 11 countries. The name Sahara comes from the Arabic word for 'great desert.'"
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "Asia",
+          "asian",
+          "asian continent"
+        ],
+        "option_b": [
+          "Africa",
+          "african",
+          "african continent"
+        ],
+        "option_c": [
+          "Australia",
+          "australian",
+          "aussie"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": ""
+    },
+    {
+      "id": "geography_B8_10",
+      "que": "What is the capital of Brazil?",
+      "ans": {
+        "value": "Brasília",
+        "correct_entity": "option_c"
+      },
+      "options": [
+        "Rio de Janeiro",
+        "São Paulo",
+        "Brasília"
+      ],
+      "expl": [
+        "Brasília is the capital of Brazil. Many people assume Rio de Janeiro is the capital due to its fame, but Brasília replaced Rio as the capital in 1960. It was purpose-built as the new capital and is known for its modernist architecture designed by Oscar Niemeyer."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "Rio de Janeiro",
+          "rio",
+          "rio city"
+        ],
+        "option_b": [
+          "São Paulo",
+          "sao paulo",
+          "san paulo"
+        ],
+        "option_c": [
+          "Brasília",
+          "brasilia",
+          "brazil capital"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": ""
+    },
+    {
+      "id": "geography_B8_11",
+      "que": "Which mountain range separates Europe from Asia?",
+      "ans": {
+        "value": "Ural Mountains",
+        "correct_entity": "option_b"
+      },
+      "options": [
+        "Alps",
+        "Ural Mountains",
+        "Caucasus Mountains"
+      ],
+      "expl": [
+        "The Ural Mountains traditionally mark the boundary between Europe and Asia. Stretching about 2,500 kilometres from the Arctic Ocean to the Ural River in Kazakhstan, the Urals are one of the world's oldest mountain ranges."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "Alps",
+          "the alps",
+          "alpine mountains"
+        ],
+        "option_b": [
+          "Ural Mountains",
+          "ural",
+          "urals",
+          "ural range"
+        ],
+        "option_c": [
+          "Caucasus Mountains",
+          "caucasus",
+          "caucasian mountains"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": ""
+    },
+    {
+      "id": "geography_B8_12",
+      "que": "Which country is known as the Land of the Rising Sun?",
+      "ans": {
+        "value": "Japan",
+        "correct_entity": "option_c"
+      },
+      "options": [
+        "China",
+        "South Korea",
+        "Japan"
+      ],
+      "expl": [
+        "Japan is known as the Land of the Rising Sun. The name Japan in Japanese is 'Nihon' or 'Nippon,' which literally means 'origin of the sun.' This name reflects Japan's position to the east, where the sun appears to rise. Japan's flag features a red sun on white background."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "China",
+          "chinese",
+          "zhongguo"
+        ],
+        "option_b": [
+          "South Korea",
+          "korea",
+          "republic of korea",
+          "korean"
+        ],
+        "option_c": [
+          "Japan",
+          "japanese",
+          "nippon",
+          "nihon"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": ""
+    },
+    {
+      "id": "geography_B8_13",
+      "que": "The Eiffel Tower is located in which city?",
+      "ans": {
+        "value": "Paris",
+        "correct_entity": "option_b"
+      },
+      "options": [
+        "Brussels",
+        "Paris",
+        "Rome"
+      ],
+      "expl": [
+        "The Eiffel Tower is located in Paris, France. Built by Gustave Eiffel for the 1889 World's Fair, it stands 330 metres tall. It was the world's tallest man-made structure for 41 years and is now one of the most visited monuments in the world."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "Brussels",
+          "belgium",
+          "brussel"
+        ],
+        "option_b": [
+          "Paris",
+          "city of light",
+          "pari"
+        ],
+        "option_c": [
+          "Rome",
+          "roma",
+          "roman capital"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": ""
+    },
+    {
+      "id": "geography_B8_14",
+      "que": "Which country has the most natural lakes in the world?",
+      "ans": {
+        "value": "Canada",
+        "correct_entity": "option_b"
+      },
+      "options": [
+        "Russia",
+        "Canada",
+        "Finland"
+      ],
+      "expl": [
+        "Canada has the most natural lakes in the world, with approximately 879,800 lakes covering more than 9% of its total area. Canada contains about 60% of the world's lakes. Lake Superior, shared with the United States, is the world's largest freshwater lake by area."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "Russia",
+          "russian",
+          "russian federation"
+        ],
+        "option_b": [
+          "Canada",
+          "canadian"
+        ],
+        "option_c": [
+          "Finland",
+          "finnish",
+          "suomi"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": ""
+    },
+    {
+      "id": "geography_B8_15",
+      "que": "Which U.S. city is the home of the White House?",
+      "ans": {
+        "value": "Washington, D.C.",
+        "correct_entity": "option_b"
+      },
+      "options": [
+        "New York City",
+        "Washington, D.C.",
+        "Philadelphia"
+      ],
+      "expl": [
+        "Washington, D.C. is the home of the White House, where the President of the United States lives and works. The 'D.C.' stands for District of Columbia. The city is also home to Congress and many famous monuments and Smithsonian museums."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "New York City",
+          "new york",
+          "nyc",
+          "big apple"
+        ],
+        "option_b": [
+          "Washington, D.C.",
+          "washington dc",
+          "washington d c",
+          "washington",
+          "dc",
+          "district of columbia"
+        ],
+        "option_c": [
+          "Philadelphia",
+          "philly"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": ""
+    },
+    {
+      "id": "geography_B8_16",
+      "que": "The Great Barrier Reef is located off the coast of which country?",
+      "ans": {
+        "value": "Australia",
+        "correct_entity": "option_b"
+      },
+      "options": [
+        "New Zealand",
+        "Australia",
+        "Indonesia"
+      ],
+      "expl": [
+        "The Great Barrier Reef is located off the northeastern coast of Australia in the Coral Sea. It is the world's largest coral reef system, stretching over 2,300 kilometres. It is the world's biggest single structure made by living organisms and is visible from space."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "New Zealand",
+          "nz",
+          "aotearoa"
+        ],
+        "option_b": [
+          "Australia",
+          "australian",
+          "aussie"
+        ],
+        "option_c": [
+          "Indonesia",
+          "indonesian"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": ""
+    },
+    {
+      "id": "geography_B8_17",
+      "que": "Which city is known as the 'City of Canals'?",
+      "ans": {
+        "value": "Venice",
+        "correct_entity": "option_b"
+      },
+      "options": [
+        "Amsterdam",
+        "Venice",
+        "Bangkok"
+      ],
+      "expl": [
+        "Venice, Italy, is famously known as the City of Canals. Built on 118 small islands separated by canals and connected by over 400 bridges, Venice's main waterway is the Grand Canal. The city is known for its gondolas, beautiful architecture, and annual Carnival."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "Amsterdam",
+          "amsterdm"
+        ],
+        "option_b": [
+          "Venice",
+          "venezia",
+          "venis",
+          "when is"
+        ],
+        "option_c": [
+          "Bangkok",
+          "krung thep",
+          "bangcok"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": ""
+    },
+    {
+      "id": "geography_B8_18",
+      "que": "Which country does the island of Greenland belong to?",
+      "ans": {
+        "value": "Denmark",
+        "correct_entity": "option_b"
+      },
+      "options": [
+        "Norway",
+        "Denmark",
+        "Iceland"
+      ],
+      "expl": [
+        "Greenland is an autonomous territory within the Kingdom of Denmark. Despite being geographically part of North America and the Arctic, Greenland is politically associated with Europe through its relationship with Denmark since 1814."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "Norway",
+          "norwegian",
+          "norge",
+          "orway",
+          "way"
+        ],
+        "option_b": [
+          "Denmark",
+          "danish",
+          "danmark",
+          "enmark",
+          "inmark"
+        ],
+        "option_c": [
+          "Iceland",
+          "icelandic",
+          "island",
+          "ice",
+          "aceland"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": ""
+    },
+    {
+      "id": "geography_B8_19",
+      "que": "Which U.S. state is shaped like a mitten?",
+      "ans": {
+        "value": "Michigan",
+        "correct_entity": "option_b"
+      },
+      "options": [
+        "Florida",
+        "Michigan",
+        "Texas"
+      ],
+      "expl": [
+        "Michigan is shaped like a mitten. The state's Lower Peninsula looks like a right hand with the thumb sticking out to the east. People who live in Michigan often hold up their hand to show visitors where their hometown is located."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "Florida",
+          "floridah",
+          "orida",
+          "lorida"
+        ],
+        "option_b": [
+          "Michigan",
+          "michigun",
+          "chigun"
+        ],
+        "option_c": [
+          "Texas",
+          "texus",
+          "tx",
+          "x"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": ""
+    },
+    {
+      "id": "geography_B8_20",
+      "que": "The Ganges River is sacred to the followers of which religion?",
+      "ans": {
+        "value": "Hinduism",
+        "correct_entity": "option_b"
+      },
+      "options": [
+        "Buddhism",
+        "Hinduism",
+        "Islam"
+      ],
+      "expl": [
+        "The Ganges River is sacred to Hindus and is worshipped as a goddess. It flows 2,525 kilometres from the Gangotri Glacier in the Himalayas to the Bay of Bengal. Millions of Hindus bathe in its waters and scatter the ashes of the deceased in the river."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "Buddhism",
+          "buddhist",
+          "buddha dharma",
+          "dhism"
+        ],
+        "option_b": [
+          "Hinduism",
+          "hindu",
+          "sanatan",
+          "dusum"
+        ],
+        "option_c": [
+          "Islam",
+          "muslim",
+          "islamic",
+          "islm"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": ""
+    },
+    {
+      "id": "geography_B8_21",
+      "que": "Which country is home to the fjords of Scandinavia?",
+      "ans": {
+        "value": "Norway",
+        "correct_entity": "option_c"
+      },
+      "options": [
+        "Sweden",
+        "Denmark",
+        "Norway"
+      ],
+      "expl": [
+        "Norway is most famous for its fjords, which are long, narrow inlets carved by glaciers. The Geirangerfjord and Nærøyfjord are UNESCO World Heritage Sites. Norway has more than 1,000 fjords along its coastline, making it one of the most spectacular landscapes on Earth."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "Sweden",
+          "swedish",
+          "sverige"
+        ],
+        "option_b": [
+          "Denmark",
+          "danish",
+          "danmark",
+          "enmark",
+          "inmark"
+        ],
+        "option_c": [
+          "Norway",
+          "norwegian",
+          "norge",
+          "orway",
+          "way"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": ""
+    },
+    {
+      "id": "geography_B8_22",
+      "que": "The city of Istanbul spans two continents. Which two?",
+      "ans": {
+        "value": "Europe and Asia",
+        "correct_entity": "option_c"
+      },
+      "options": [
+        "Europe and Africa",
+        "Asia and Africa",
+        "Europe and Asia"
+      ],
+      "expl": [
+        "Istanbul is the only city in the world that spans two continents — Europe and Asia. The Bosphorus Strait divides the city, with the historic old city on the European side and the Anatolian district on the Asian side. Istanbul was formerly known as Constantinople."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "Europe and Africa",
+          "europe africa",
+          "africa europe"
+        ],
+        "option_b": [
+          "Asia and Africa",
+          "asia africa",
+          "africa asia"
+        ],
+        "option_c": [
+          "Europe and Asia",
+          "europe asia",
+          "asia europe"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": ""
+    },
+    {
+      "id": "geography_B8_23",
+      "que": "The River Thames runs through which city?",
+      "ans": {
+        "value": "London",
+        "correct_entity": "option_c"
+      },
+      "options": [
+        "Manchester",
+        "Edinburgh",
+        "London"
+      ],
+      "expl": [
+        "The River Thames runs through London, England. At 346 kilometres, it is the longest river entirely in England. The Thames has been central to London's history, serving as a major trade route and the site of many historical events."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "Manchester",
+          "manchestar"
+        ],
+        "option_b": [
+          "Edinburgh",
+          "edinburg"
+        ],
+        "option_c": [
+          "London",
+          "greater london",
+          "londan"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": ""
+    },
+    {
+      "id": "geography_B8_24",
+      "que": "Which country is known for the Acropolis?",
+      "ans": {
+        "value": "Greece",
+        "correct_entity": "option_c"
+      },
+      "options": [
+        "Italy",
+        "Turkey",
+        "Greece"
+      ],
+      "expl": [
+        "The Acropolis is located in Athens, Greece. The most famous structure on the Acropolis is the Parthenon, a temple dedicated to the goddess Athena. Built in the 5th century BC, the Acropolis is a UNESCO World Heritage Site and one of the most recognizable monuments in the world."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "Italy",
+          "italian",
+          "italia"
+        ],
+        "option_b": [
+          "Turkey",
+          "turkish",
+          "turkiye"
+        ],
+        "option_c": [
+          "Greece",
+          "greek",
+          "hellenic republic",
+          "hellas"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": ""
+    },
+    {
+      "id": "geography_B8_25",
+      "que": "What is the capital of Argentina?",
+      "ans": {
+        "value": "Buenos Aires",
+        "correct_entity": "option_a"
+      },
+      "options": [
+        "Buenos Aires",
+        "Córdoba",
+        "Montevideo"
+      ],
+      "expl": [
+        "Buenos Aires is the capital and largest city of Argentina. Located on the western shore of the Río de la Plata estuary, it is one of the most populous cities in South America. The city is known for tango music, steak, and its European-influenced architecture."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "Buenos Aires",
+          "ba",
+          "buenos ayres",
+          "you knows iris"
+        ],
+        "option_b": [
+          "Córdoba",
+          "cordoba",
+          "kordoba"
+        ],
+        "option_c": [
+          "Montevideo",
+          "monte vidio"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": ""
+    },
+    {
+      "id": "geography_B8_26",
+      "que": "Lake Titicaca lies on the border of which two countries?",
+      "ans": {
+        "value": "Peru and Bolivia",
+        "correct_entity": "option_b"
+      },
+      "options": [
+        "Chile and Bolivia",
+        "Peru and Bolivia",
+        "Colombia and Ecuador"
+      ],
+      "expl": [
+        "Lake Titicaca is located on the border of Peru and Bolivia in the Andes mountains. At 3,812 metres above sea level, it is the highest navigable lake in the world by elevation. It is also the largest lake in South America by volume of water."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "Chile and Bolivia",
+          "chile bolivia",
+          "bolivia chile"
+        ],
+        "option_b": [
+          "Peru and Bolivia",
+          "peru bolivia",
+          "bolivia peru"
+        ],
+        "option_c": [
+          "Colombia and Ecuador",
+          "colombia ecuador",
+          "ecuador colombia"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": ""
+    },
+    {
+      "id": "geography_B8_27",
+      "que": "The Colosseum is located in which city?",
+      "ans": {
+        "value": "Rome",
+        "correct_entity": "option_b"
+      },
+      "options": [
+        "Athens",
+        "Rome",
+        "Madrid"
+      ],
+      "expl": [
+        "The Colosseum is located in the centre of Rome, Italy. Built between 70 and 80 AD, it is the largest ancient amphitheatre ever built and could hold between 50,000 and 80,000 spectators. It was used for gladiatorial contests, public spectacles, and dramatic performances."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "Athens",
+          "greek",
+          "athina",
+          "athen"
+        ],
+        "option_b": [
+          "Rome",
+          "roma",
+          "eternal city",
+          "rome italy",
+          "om"
+        ],
+        "option_c": [
+          "Madrid",
+          "spanish capital",
+          "madrd"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": ""
+    },
+    {
+      "id": "geography_B8_28",
+      "que": "What is the name of the strait that separates Europe from Africa?",
+      "ans": {
+        "value": "Strait of Gibraltar",
+        "correct_entity": "option_c"
+      },
+      "options": [
+        "Strait of Hormuz",
+        "Bosphorus Strait",
+        "Strait of Gibraltar"
+      ],
+      "expl": [
+        "The Strait of Gibraltar separates Europe from Africa. It connects the Atlantic Ocean to the Mediterranean Sea and lies between Spain in Europe and Morocco in Africa. At its narrowest point, the strait is only about 14 kilometres wide."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "Strait of Hormuz",
+          "hormuz",
+          "hormoz",
+          "hormuz strait"
+        ],
+        "option_b": [
+          "Bosphorus Strait",
+          "bosphorus",
+          "bosporus"
+        ],
+        "option_c": [
+          "Strait of Gibraltar",
+          "gibraltar",
+          "gibraltar strait"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": ""
+    },
+    {
+      "id": "geography_B8_29",
+      "que": "Angkor Wat is the largest religious monument in the world, located in which country?",
+      "ans": {
+        "value": "Cambodia",
+        "correct_entity": "option_c"
+      },
+      "options": [
+        "Thailand",
+        "Myanmar",
+        "Cambodia"
+      ],
+      "expl": [
+        "Angkor Wat is located in Cambodia and is the largest religious monument in the world, covering 162.6 hectares. Built in the 12th century by Khmer Emperor Suryavarman II, it was originally a Hindu temple before converting to Buddhism. It is featured on Cambodia's national flag."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "Thailand",
+          "thai",
+          "siam"
+        ],
+        "option_b": [
+          "Myanmar",
+          "burma",
+          "myanmaar"
+        ],
+        "option_c": [
+          "Cambodia",
+          "cambodian",
+          "khmer",
+          "kampuchea"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": ""
+    },
+    {
+      "id": "geography_B8_30",
+      "que": "Which country is home to the most UNESCO World Heritage Sites?",
+      "ans": {
+        "value": "Italy",
+        "correct_entity": "option_b"
+      },
+      "options": [
+        "China",
+        "Italy",
+        "France"
+      ],
+      "expl": [
+        "Italy has the most UNESCO World Heritage Sites of any country, with 58 as of 2023. China follows closely behind. Italy's sites include the Colosseum, Venice, Pompeii, the Amalfi Coast, and many Renaissance centres such as Florence and Siena."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "China",
+          "chinese",
+          "zhongguo",
+          "ina"
+        ],
+        "option_b": [
+          "Italy",
+          "italian",
+          "italia",
+          "taly"
+        ],
+        "option_c": [
+          "France",
+          "french",
+          "frans",
+          "franse"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": ""
+    },
+    {
+      "id": "geography_B8_31",
+      "que": "What is the tallest waterfall in the world?",
+      "ans": {
+        "value": "Angel Falls",
+        "correct_entity": "option_b"
+      },
+      "options": [
+        "Niagara Falls",
+        "Angel Falls",
+        "Iguazu Falls"
+      ],
+      "expl": [
+        "Angel Falls in Venezuela is the world's tallest uninterrupted waterfall, with a height of 979 metres and a plunge of 807 metres. It was named after Jimmie Angel, an American aviator who was the first to fly over the falls. It is known as Kerepakupai Merú in the local Pemón language."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "Niagara Falls",
+          "niagara",
+          "niagra falls"
+        ],
+        "option_b": [
+          "Angel Falls",
+          "angel waterfall",
+          "salto angel"
+        ],
+        "option_c": [
+          "Iguazu Falls",
+          "iguazu",
+          "iguassu falls"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": ""
+    },
+    {
+      "id": "geography_B8_32",
+      "que": "Which U.S. national park is famous for its giant geyser called Old Faithful?",
+      "ans": {
+        "value": "Yellowstone National Park",
+        "correct_entity": "option_c"
+      },
+      "options": [
+        "Yosemite National Park",
+        "Grand Canyon National Park",
+        "Yellowstone National Park"
+      ],
+      "expl": [
+        "Yellowstone National Park, mostly in Wyoming, is famous for its hot springs and geysers, especially Old Faithful, which erupts about every 90 minutes. Yellowstone was the first national park in the world, created in 1872. It is also home to bison, elk, bears, and wolves."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "Yosemite National Park",
+          "yosemite",
+          "yosemeti"
+        ],
+        "option_b": [
+          "Grand Canyon National Park",
+          "grand canyon",
+          "grand canion"
+        ],
+        "option_c": [
+          "Yellowstone National Park",
+          "yellowstone",
+          "yelowstone"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": ""
+    },
+    {
+      "id": "geography_B8_33",
+      "que": "The Panama Canal connects which two oceans?",
+      "ans": {
+        "value": "Pacific and Atlantic",
+        "correct_entity": "option_b"
+      },
+      "options": [
+        "Pacific and Indian",
+        "Pacific and Atlantic",
+        "Atlantic and Indian"
+      ],
+      "expl": [
+        "The Panama Canal connects the Pacific Ocean and the Atlantic Ocean through the Isthmus of Panama. Opened in 1914, it allows ships to travel between the two oceans without sailing around South America. The canal is about 80 kilometres long."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "Pacific and Indian",
+          "pacific indian",
+          "indian pacific"
+        ],
+        "option_b": [
+          "Pacific and Atlantic",
+          "pacific atlantic",
+          "atlantic pacific",
+          "specific and atlantic",
+          "pacific ocean and atlantic ocean",
+          "pacific and atlantic ocean"
+        ],
+        "option_c": [
+          "Atlantic and Indian",
+          "atlantic indian",
+          "indian atlantic"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": ""
+    },
+    {
+      "id": "geography_B8_34",
+      "que": "What is the capital of Egypt?",
+      "ans": {
+        "value": "Cairo",
+        "correct_entity": "option_c"
+      },
+      "options": [
+        "Alexandria",
+        "Luxor",
+        "Cairo"
+      ],
+      "expl": [
+        "Cairo is the capital of Egypt and the largest city in the Arab world. Located near the Nile Delta, it is home to more than 20 million people in the greater metropolitan area. Cairo is near the ancient cities of Memphis and the Giza pyramid complex."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "Alexandria",
+          "al iskandariyah",
+          "iskandariya"
+        ],
+        "option_b": [
+          "Luxor",
+          "al uqsur",
+          "luksor"
+        ],
+        "option_c": [
+          "Cairo",
+          "al qahirah",
+          "kahira"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": ""
+    },
+    {
+      "id": "geography_B8_35",
+      "que": "The Serengeti National Park is located in which country?",
+      "ans": {
+        "value": "Tanzania",
+        "correct_entity": "option_b"
+      },
+      "options": [
+        "Kenya",
+        "Tanzania",
+        "South Africa"
+      ],
+      "expl": [
+        "The Serengeti National Park is located in northern Tanzania. It is famous for the annual migration of over 1.5 million wildebeest and hundreds of thousands of zebras and gazelles. The Serengeti covers about 14,763 square kilometres and is a UNESCO World Heritage Site."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "Kenya",
+          "kenyan",
+          "kenyaa"
+        ],
+        "option_b": [
+          "Tanzania",
+          "tanzanian",
+          "tanzaniya"
+        ],
+        "option_c": [
+          "South Africa",
+          "south african",
+          "sa"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": ""
+    },
+    {
+      "id": "geography_B8_36",
+      "que": "What is the name of the sea between Italy and the Balkans?",
+      "ans": {
+        "value": "Adriatic Sea",
+        "correct_entity": "option_b"
+      },
+      "options": [
+        "Ionian Sea",
+        "Adriatic Sea",
+        "Aegean Sea"
+      ],
+      "expl": [
+        "The Adriatic Sea separates the Italian Peninsula from the Balkan Peninsula. It is a part of the Mediterranean Sea. The sea is bordered by Italy to the west and Slovenia, Croatia, Bosnia, Montenegro, and Albania to the east."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "Ionian Sea",
+          "ionian",
+          "ionian ocean"
+        ],
+        "option_b": [
+          "Adriatic Sea",
+          "adriatic",
+          "adriatic ocean"
+        ],
+        "option_c": [
+          "Aegean Sea",
+          "aegean",
+          "egean sea"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": ""
+    },
+    {
+      "id": "geography_B8_37",
+      "que": "Which is the longest river in the United States?",
+      "ans": {
+        "value": "Missouri River",
+        "correct_entity": "option_b"
+      },
+      "options": [
+        "Mississippi River",
+        "Missouri River",
+        "Colorado River"
+      ],
+      "expl": [
+        "The Missouri River is the longest river in the United States, stretching about 2,341 miles from Montana to where it joins the Mississippi River near St. Louis. The Mississippi is the second longest. Together, the Missouri-Mississippi system is one of the longest river systems in the world."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "Mississippi River",
+          "mississippi",
+          "missisipi",
+          "missy c. p."
+        ],
+        "option_b": [
+          "Missouri River",
+          "missouri",
+          "misouri"
+        ],
+        "option_c": [
+          "Colorado River",
+          "colorado",
+          "kolorado"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": ""
+    },
+    {
+      "id": "geography_B8_38",
+      "que": "What is the largest continent by area?",
+      "ans": {
+        "value": "Asia",
+        "correct_entity": "option_b"
+      },
+      "options": [
+        "Africa",
+        "Asia",
+        "North America"
+      ],
+      "expl": [
+        "Asia is the largest continent by area, covering approximately 44.6 million square kilometres — about 30% of Earth's total land area. It is home to more than 4.7 billion people, over 60% of the world's population. Asia contains the world's highest and lowest points on land."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "Africa",
+          "african",
+          "african continent"
+        ],
+        "option_b": [
+          "Asia",
+          "asian",
+          "asian continent"
+        ],
+        "option_c": [
+          "North America",
+          "north american",
+          "north american continent"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": ""
+    },
+    {
+      "id": "geography_B8_39",
+      "que": "What is the capital of Germany?",
+      "ans": {
+        "value": "Berlin",
+        "correct_entity": "option_c"
+      },
+      "options": [
+        "Munich",
+        "Hamburg",
+        "Berlin"
+      ],
+      "expl": [
+        "Berlin is the capital and largest city of Germany. It has a population of about 3.7 million in the city proper. Berlin was divided into East and West during the Cold War before the Berlin Wall fell in 1989 and German reunification occurred in 1990."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "Munich",
+          "münchen",
+          "munic"
+        ],
+        "option_b": [
+          "Hamburg",
+          "hambarg"
+        ],
+        "option_c": [
+          "Berlin",
+          "berline"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": ""
+    },
+    {
+      "id": "geography_B8_40",
+      "que": "In which US city would you find the Golden Gate Bridge?",
+      "ans": {
+        "value": "San Francisco",
+        "correct_entity": "option_b"
+      },
+      "options": [
+        "Los Angeles",
+        "San Francisco",
+        "Seattle"
+      ],
+      "expl": [
+        "The Golden Gate Bridge is located in San Francisco, California. Completed in 1937, it spans the Golden Gate strait — the opening of San Francisco Bay into the Pacific Ocean. The bridge is 2,737 metres long and was the world's longest suspension bridge when it was built."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "Los Angeles",
+          "la",
+          "l a"
+        ],
+        "option_b": [
+          "San Francisco",
+          "sf",
+          "san fran",
+          "sanfrancisco"
+        ],
+        "option_c": [
+          "Seattle",
+          "seatle",
+          "sea"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": ""
+    },
+    {
+      "id": "geography_B8_41",
+      "que": "Which famous American landmark in South Dakota features four giant carved presidents?",
+      "ans": {
+        "value": "Mount Rushmore",
+        "correct_entity": "option_b"
+      },
+      "options": [
+        "Statue of Liberty",
+        "Mount Rushmore",
+        "Hoover Dam"
+      ],
+      "expl": [
+        "Mount Rushmore National Memorial in South Dakota features the faces of four U.S. Presidents carved into a granite cliff: George Washington, Thomas Jefferson, Theodore Roosevelt, and Abraham Lincoln. Each face is about 60 feet tall and took 14 years to complete."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "Statue of Liberty",
+          "liberty statue",
+          "lady liberty"
+        ],
+        "option_b": [
+          "Mount Rushmore",
+          "rushmore",
+          "mt rushmore"
+        ],
+        "option_c": [
+          "Hoover Dam",
+          "hoover",
+          "boulder dam"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": ""
+    },
+    {
+      "id": "geography_B8_42",
+      "que": "Which river runs through the Grand Canyon in Arizona?",
+      "ans": {
+        "value": "Colorado River",
+        "correct_entity": "option_b"
+      },
+      "options": [
+        "Mississippi River",
+        "Colorado River",
+        "Rio Grande"
+      ],
+      "expl": [
+        "The Colorado River runs through the Grand Canyon in northern Arizona. Over millions of years, the river carved the canyon, which is about 277 miles long and over a mile deep in places. The Grand Canyon is one of the Seven Natural Wonders of the World."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "Mississippi River",
+          "mississippi",
+          "missisipi river"
+        ],
+        "option_b": [
+          "Colorado River",
+          "colorado",
+          "kolorado river"
+        ],
+        "option_c": [
+          "Rio Grande",
+          "riogrande",
+          "rio grande river"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": ""
+    },
+    {
+      "id": "geography_B8_43",
+      "que": "Which U.S. state is famous for pineapples, surfing, and active volcanoes?",
+      "ans": {
+        "value": "Hawaii",
+        "correct_entity": "option_b"
+      },
+      "options": [
+        "Florida",
+        "Hawaii",
+        "California"
+      ],
+      "expl": [
+        "Hawaii is famous for pineapples, surfing, and active volcanoes. It is the only U.S. state made up entirely of islands and the only one outside North America. Hawaii became the 50th state in 1959 and is home to Kilauea, one of the world's most active volcanoes."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "Florida",
+          "floridah"
+        ],
+        "option_b": [
+          "Hawaii",
+          "hawai",
+          "aloha state"
+        ],
+        "option_c": [
+          "California",
+          "cali",
+          "ca"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": ""
+    },
+    {
+      "id": "geography_B8_44",
+      "que": "Which U.S. city is nicknamed the 'Windy City'?",
+      "ans": {
+        "value": "Chicago",
+        "correct_entity": "option_b"
+      },
+      "options": [
+        "New York City",
+        "Chicago",
+        "Boston"
+      ],
+      "expl": [
+        "Chicago is nicknamed the 'Windy City.' Located on the shore of Lake Michigan in Illinois, it is famous for deep-dish pizza, the Willis Tower (formerly the Sears Tower), and Millennium Park's mirror-like Cloud Gate sculpture, often called 'The Bean.'"
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "New York City",
+          "new york",
+          "nyc",
+          "big apple"
+        ],
+        "option_b": [
+          "Chicago",
+          "shicago"
+        ],
+        "option_c": [
+          "Boston",
+          "bostan"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": ""
+    }
+  ],
+  "IMAGE_QUESTIONS": [],
+  "AUDIO_QUESTIONS": []
+}

@@ -1,0 +1,52 @@
+{
+  "manifest": {
+    "publishingInformation": {
+      "locales": {
+        "en-US": {
+          "name": "Question Tester",
+          "summary": "Voice-based question testing with batches, verdicts and Echo Show cards.",
+          "description": "Choose a question batch and a testing mode, answer by voice, and hear a final verdict. Echo Show devices display question cards and progress.",
+          "examplePhrases": [
+            "Alexa, open question tester",
+            "select batch one",
+            "start interactive mode"
+          ],
+          "keywords": [
+            "test",
+            "questions",
+            "quiz"
+          ]
+        }
+      },
+      "isAvailableWorldwide": false,
+      "distributionCountries": [
+        "US"
+      ],
+      "testingInstructions": "Say: open question tester, select batch one, start interactive mode, start the test, A and B.",
+      "category": "EDUCATION_AND_REFERENCE"
+    },
+    "privacyAndCompliance": {
+      "allowsPurchases": false,
+      "usesPersonalInfo": false,
+      "isChildDirected": false,
+      "isExportCompliant": true,
+      "containsAds": false,
+      "locales": {
+        "en-US": {}
+      }
+    },
+    "apis": {
+      "custom": {
+        "endpoint": {
+          "uri": "arn:aws:lambda:us-east-1:753523292872:function:question-tester-SkillFunction-M9CdIjNw9mtN"
+        },
+        "interfaces": [
+          {
+            "type": "ALEXA_PRESENTATION_APL"
+          }
+        ]
+      }
+    },
+    "manifestVersion": "1.0"
+  }
+}

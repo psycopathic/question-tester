@@ -1,0 +1,756 @@
+{
+  "TEXT_QUESTIONS": [
+    {
+      "id": "general-knowledge_B10_1",
+      "que": "How many stars are on the current United States flag?",
+      "ans": {
+        "value": "Fifty",
+        "correct_entity": "option_b"
+      },
+      "options": [
+        "Forty-eight",
+        "Fifty",
+        "Thirteen"
+      ],
+      "expl": [
+        "There are fifty stars on the current United States flag, one for each state in the union. The flag also has thirteen stripes that represent the original thirteen colonies. The current design has been in use since 1960, the year after Hawaii became a state."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "Forty-eight",
+          "forty eight",
+          "48"
+        ],
+        "option_b": [
+          "Fifty",
+          "50"
+        ],
+        "option_c": [
+          "Thirteen",
+          "13"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": ""
+    },
+    {
+      "id": "general-knowledge_B10_2",
+      "que": "What does 'Wi-Fi' stand for?",
+      "ans": {
+        "value": "Wireless Fidelity",
+        "correct_entity": "option_a"
+      },
+      "options": [
+        "Wireless Fidelity",
+        "Wireless Frequency",
+        "Wide Fidelity"
+      ],
+      "expl": [
+        "Wi-Fi is a brand name that was coined by the Wi-Fi Alliance as a play on the term 'Hi-Fi' (High Fidelity). It is commonly said to stand for 'Wireless Fidelity,' though the Wi-Fi Alliance has stated the term has no strict meaning. Wi-Fi allows electronic devices to connect to a wireless local area network."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "Wireless Fidelity"
+        ],
+        "option_b": [
+          "Wireless Frequency"
+        ],
+        "option_c": [
+          "Wide Fidelity"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": ""
+    },
+    {
+      "id": "general-knowledge_B10_3",
+      "que": "How many zeroes are in one million?",
+      "ans": {
+        "value": "6",
+        "correct_entity": "option_b"
+      },
+      "options": [
+        "5",
+        "6",
+        "7"
+      ],
+      "expl": [
+        "One million has six zeroes: 1,000,000. This is 10 to the power of 6. One thousand has three zeroes, one billion has nine zeroes, and one trillion has twelve zeroes. The word million comes from the Italian 'milione,' meaning a great thousand."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "5",
+          "five"
+        ],
+        "option_b": [
+          "6",
+          "six"
+        ],
+        "option_c": [
+          "7",
+          "seven"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": ""
+    },
+    {
+      "id": "general-knowledge_B10_4",
+      "que": "What color is the Great Spot of Jupiter?",
+      "ans": {
+        "value": "Red",
+        "correct_entity": "option_c"
+      },
+      "options": [
+        "White",
+        "Blue",
+        "Red"
+      ],
+      "expl": [
+        "Jupiter's Great Red Spot is a persistent anticyclonic storm that appears red in color. The exact cause of the red color is still being studied, but scientists believe it may involve chemical compounds like sulfur and phosphorus that are brought up from deeper atmospheric layers by the storm."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "White"
+        ],
+        "option_b": [
+          "Blue"
+        ],
+        "option_c": [
+          "Red"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": ""
+    },
+    {
+      "id": "general-knowledge_B10_5",
+      "que": "Which fast-food chain is famous for its golden arches?",
+      "ans": {
+        "value": "McDonald's",
+        "correct_entity": "option_b"
+      },
+      "options": [
+        "Burger King",
+        "McDonald's",
+        "Wendy's"
+      ],
+      "expl": [
+        "McDonald's is famous for its golden arches, which form the shape of the letter M in the company's logo. Founded in 1940 in San Bernardino, California, McDonald's is one of the largest fast-food chains in the world and is best known for the Big Mac and Happy Meal."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "Burger King"
+        ],
+        "option_b": [
+          "McDonald's",
+          "mcdonalds",
+          "mc donalds",
+          "mc donald s"
+        ],
+        "option_c": [
+          "Wendy's",
+          "wendys",
+          "wendy s"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": ""
+    },
+    {
+      "id": "general-knowledge_B10_6",
+      "que": "Which day of the week comes right after Monday?",
+      "ans": {
+        "value": "Tuesday",
+        "correct_entity": "option_b"
+      },
+      "options": [
+        "Sunday",
+        "Tuesday",
+        "Wednesday"
+      ],
+      "expl": [
+        "Tuesday comes right after Monday in the week. There are seven days in a week: Sunday, Monday, Tuesday, Wednesday, Thursday, Friday, and Saturday. The names of the days come from old English, Roman, and Norse origins."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "Sunday"
+        ],
+        "option_b": [
+          "Tuesday"
+        ],
+        "option_c": [
+          "Wednesday"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": ""
+    },
+    {
+      "id": "general-knowledge_B10_7",
+      "que": "How many chambers are in a typical combination lock?",
+      "ans": {
+        "value": "Three",
+        "correct_entity": "option_c"
+      },
+      "options": [
+        "Two",
+        "Four",
+        "Three"
+      ],
+      "expl": [
+        "A standard combination lock typically has three dials or chambers, each displaying numbers 0–9 or 0–39 depending on the design. The correct sequence of three numbers must be entered to open the lock. Some high-security locks can have four or more numbers in the combination."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "Two",
+          "2"
+        ],
+        "option_b": [
+          "Four",
+          "4"
+        ],
+        "option_c": [
+          "Three",
+          "3"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": ""
+    },
+    {
+      "id": "general-knowledge_B10_8",
+      "que": "What is the name of the longest river in the United States?",
+      "ans": {
+        "value": "Missouri River",
+        "correct_entity": "option_c"
+      },
+      "options": [
+        "Colorado River",
+        "Ohio River",
+        "Missouri River"
+      ],
+      "expl": [
+        "The Missouri River is the longest river in the United States at approximately 3,767 kilometres. It originates in Montana and flows east and south before joining the Mississippi River near St. Louis, Missouri. The Missouri River basin drains about one-sixth of the continental US."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "Colorado River",
+          "colorado"
+        ],
+        "option_b": [
+          "Ohio River",
+          "ohio"
+        ],
+        "option_c": [
+          "Missouri River",
+          "missouri"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": ""
+    },
+    {
+      "id": "general-knowledge_B10_9",
+      "que": "What is the most common blood type in humans?",
+      "ans": {
+        "value": "O positive",
+        "correct_entity": "option_c"
+      },
+      "options": [
+        "AB positive",
+        "B positive",
+        "O positive"
+      ],
+      "expl": [
+        "O positive (O+) is the most common blood type in humans, found in about 37-40% of the global population. People with O positive blood can donate to anyone with a positive blood type. Type AB negative is the rarest blood type, found in less than 1% of the population."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "AB positive",
+          "ab plus"
+        ],
+        "option_b": [
+          "B positive",
+          "b plus"
+        ],
+        "option_c": [
+          "O positive",
+          "o plus"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": ""
+    },
+    {
+      "id": "general-knowledge_B10_10",
+      "que": "On the Richter scale, what is the minimum magnitude considered a major earthquake?",
+      "ans": {
+        "value": "7",
+        "correct_entity": "option_c"
+      },
+      "options": [
+        "5",
+        "6",
+        "7"
+      ],
+      "expl": [
+        "On the Richter scale, an earthquake with a magnitude of 7.0 or greater is classified as a major earthquake. Such earthquakes can cause serious damage over large areas. The scale was developed by Charles Richter in 1935. Today, the Moment Magnitude Scale (Mw) is more commonly used by seismologists."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "5",
+          "five",
+          "five point zero"
+        ],
+        "option_b": [
+          "6",
+          "six",
+          "six point zero"
+        ],
+        "option_c": [
+          "7",
+          "seven",
+          "seven point zero"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": ""
+    },
+    {
+      "id": "general-knowledge_B10_11",
+      "que": "What is the smallest unit of matter?",
+      "ans": {
+        "value": "Atom",
+        "correct_entity": "option_b"
+      },
+      "options": [
+        "Molecule",
+        "Atom",
+        "Cell"
+      ],
+      "expl": [
+        "An atom is the smallest unit of ordinary matter that makes up a chemical element. Every solid, liquid, gas, and plasma is composed of neutral or ionized atoms. Atoms are made up of even smaller particles — protons, neutrons, and electrons. The word 'atom' comes from the Greek 'atomos' meaning indivisible."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "Molecule",
+          "molecules"
+        ],
+        "option_b": [
+          "Atom",
+          "atoms"
+        ],
+        "option_c": [
+          "Cell",
+          "cells"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": ""
+    },
+    {
+      "id": "general-knowledge_B10_12",
+      "que": "What is the speed of sound in air at room temperature?",
+      "ans": {
+        "value": "About 343 m/s",
+        "correct_entity": "option_b"
+      },
+      "options": [
+        "About 243 m/s",
+        "About 343 m/s",
+        "About 443 m/s"
+      ],
+      "expl": [
+        "The speed of sound in air at room temperature (approximately 20°C) is about 343 metres per second, or roughly 1,235 kilometres per hour. This speed varies with temperature; sound travels faster in warmer air. The speed of sound in water is much faster, about 1,480 metres per second."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "About 243 m/s",
+          "two forty three metres per second",
+          "243 ms"
+        ],
+        "option_b": [
+          "About 343 m/s",
+          "three forty three metres per second",
+          "343 ms"
+        ],
+        "option_c": [
+          "About 443 m/s",
+          "four forty three metres per second",
+          "443 ms"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": ""
+    },
+    {
+      "id": "general-knowledge_B10_13",
+      "que": "In computing, how many bits are in a byte?",
+      "ans": {
+        "value": "8",
+        "correct_entity": "option_c"
+      },
+      "options": [
+        "4",
+        "16",
+        "8"
+      ],
+      "expl": [
+        "A byte consists of 8 bits. A bit is the most basic unit of data in computing, representing either a 0 or a 1. A byte can represent 256 different values (2^8). Common computer storage units include kilobytes (1,024 bytes), megabytes, gigabytes, and terabytes."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "4",
+          "four"
+        ],
+        "option_b": [
+          "16",
+          "sixteen"
+        ],
+        "option_c": [
+          "8",
+          "eight"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": ""
+    },
+    {
+      "id": "general-knowledge_B10_14",
+      "que": "What is the national flower of India?",
+      "ans": {
+        "value": "Lotus",
+        "correct_entity": "option_c"
+      },
+      "options": [
+        "Rose",
+        "Marigold",
+        "Lotus"
+      ],
+      "expl": [
+        "The Lotus (Nelumbo nucifera) is the national flower of India. Revered in Indian culture and religion, the lotus symbolizes divinity, purity, beauty, and grace. It grows in muddy water yet remains untouched by impurity, symbolizing spiritual development. It is significant in both Hinduism and Buddhism."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "Rose",
+          "roses"
+        ],
+        "option_b": [
+          "Marigold",
+          "genda"
+        ],
+        "option_c": [
+          "Lotus",
+          "lotus flower",
+          "kamal"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": ""
+    },
+    {
+      "id": "general-knowledge_B10_15",
+      "que": "How many seconds are in one hour?",
+      "ans": {
+        "value": "3600",
+        "correct_entity": "option_b"
+      },
+      "options": [
+        "360",
+        "3600",
+        "36000"
+      ],
+      "expl": [
+        "There are 3,600 seconds in one hour. This is calculated as 60 seconds per minute multiplied by 60 minutes per hour. Therefore, 24 hours contain 86,400 seconds. This mathematical relationship is fundamental to timekeeping and many scientific calculations."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "360",
+          "three hundred sixty"
+        ],
+        "option_b": [
+          "3600",
+          "three thousand six hundred"
+        ],
+        "option_c": [
+          "36000",
+          "thirty six thousand"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": ""
+    },
+    {
+      "id": "general-knowledge_B10_16",
+      "que": "Which holiday do American children dress in costumes and go trick-or-treating?",
+      "ans": {
+        "value": "Halloween",
+        "correct_entity": "option_b"
+      },
+      "options": [
+        "Thanksgiving",
+        "Halloween",
+        "Easter"
+      ],
+      "expl": [
+        "Halloween is celebrated on October 31 each year in the United States. Children dress up in costumes and go trick-or-treating, knocking on doors to collect candy. People also carve pumpkins into jack-o-lanterns and decorate their homes in spooky themes."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "Thanksgiving"
+        ],
+        "option_b": [
+          "Halloween",
+          "hallowe en"
+        ],
+        "option_c": [
+          "Easter"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": ""
+    },
+    {
+      "id": "general-knowledge_B10_17",
+      "que": "What is the name of the longest bone in the human ear?",
+      "ans": {
+        "value": "Malleus",
+        "correct_entity": "option_c"
+      },
+      "options": [
+        "Incus",
+        "Stapes",
+        "Malleus"
+      ],
+      "expl": [
+        "The malleus, also called the hammer, is the largest of the three tiny bones in the middle ear. The three bones (malleus, incus, and stapes) together are called the ossicles. They transmit sound vibrations from the eardrum to the inner ear. The stapes is actually the smallest bone in the human body."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "Incus",
+          "anvil"
+        ],
+        "option_b": [
+          "Stapes",
+          "stirrup"
+        ],
+        "option_c": [
+          "Malleus",
+          "hammer",
+          "mallet bone"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": ""
+    },
+    {
+      "id": "general-knowledge_B10_18",
+      "que": "Who is the Greek goddess of wisdom?",
+      "ans": {
+        "value": "Athena",
+        "correct_entity": "option_b"
+      },
+      "options": [
+        "Aphrodite",
+        "Athena",
+        "Hera"
+      ],
+      "expl": [
+        "Athena is the Greek goddess of wisdom, warfare, and craft. She is one of the twelve Olympians and a daughter of Zeus. The city of Athens is named after her. She is often depicted wearing a helmet and carrying a shield. Her Roman equivalent is Minerva. The Parthenon in Athens was built in her honor."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "Aphrodite",
+          "venus"
+        ],
+        "option_b": [
+          "Athena",
+          "minerva"
+        ],
+        "option_c": [
+          "Hera",
+          "juno"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": ""
+    },
+    {
+      "id": "general-knowledge_B10_19",
+      "que": "Which symbol is used on a keyboard to make a hashtag?",
+      "ans": {
+        "value": "Number sign #",
+        "correct_entity": "option_a"
+      },
+      "options": [
+        "Number sign #",
+        "At symbol @",
+        "Dollar sign $"
+      ],
+      "expl": [
+        "The number sign # is used to make a hashtag on a keyboard. On social media, putting it in front of a word turns the word into a clickable tag that groups posts about the same topic. The symbol is also called a pound sign or a hash mark."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "Number sign #",
+          "number sign",
+          "hashtag",
+          "pound sign",
+          "hash"
+        ],
+        "option_b": [
+          "At symbol @",
+          "at symbol",
+          "at sign"
+        ],
+        "option_c": [
+          "Dollar sign $",
+          "dollar sign",
+          "dollar"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": ""
+    },
+    {
+      "id": "general-knowledge_B10_20",
+      "que": "Which famous American holiday meal usually features roast turkey and pumpkin pie?",
+      "ans": {
+        "value": "Thanksgiving",
+        "correct_entity": "option_b"
+      },
+      "options": [
+        "Fourth of July",
+        "Thanksgiving",
+        "Memorial Day"
+      ],
+      "expl": [
+        "Thanksgiving is celebrated on the fourth Thursday of November in the United States and usually features roast turkey, mashed potatoes, stuffing, and pumpkin pie. The first Thanksgiving was a 1621 harvest meal shared by the Pilgrims and the Wampanoag people."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "Fourth of July",
+          "july fourth",
+          "4th of july"
+        ],
+        "option_b": [
+          "Thanksgiving"
+        ],
+        "option_c": [
+          "Memorial Day"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": ""
+    },
+    {
+      "id": "general-knowledge_B10_21",
+      "que": "Which famous Disney character is a mouse with round black ears?",
+      "ans": {
+        "value": "Mickey Mouse",
+        "correct_entity": "option_b"
+      },
+      "options": [
+        "Donald Duck",
+        "Mickey Mouse",
+        "Goofy"
+      ],
+      "expl": [
+        "Mickey Mouse is the famous Disney character who is a cheerful mouse with big round black ears. He first appeared in the 1928 cartoon Steamboat Willie and quickly became the official mascot of The Walt Disney Company. He is recognized all over the world."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "Donald Duck"
+        ],
+        "option_b": [
+          "Mickey Mouse",
+          "mickey"
+        ],
+        "option_c": [
+          "Goofy"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": ""
+    },
+    {
+      "id": "general-knowledge_B10_22",
+      "que": "Which famous American building is the home of the U.S. President?",
+      "ans": {
+        "value": "The White House",
+        "correct_entity": "option_b"
+      },
+      "options": [
+        "The Capitol",
+        "The White House",
+        "The Pentagon"
+      ],
+      "expl": [
+        "The White House is the official home and workplace of the President of the United States. Located at 1600 Pennsylvania Avenue in Washington, D.C., it has 132 rooms and has been the residence of every U.S. President since John Adams in 1800."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "The Capitol",
+          "capitol building"
+        ],
+        "option_b": [
+          "The White House",
+          "white house"
+        ],
+        "option_c": [
+          "The Pentagon",
+          "pentagon"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": ""
+    }
+  ],
+  "IMAGE_QUESTIONS": [],
+  "AUDIO_QUESTIONS": []
+}

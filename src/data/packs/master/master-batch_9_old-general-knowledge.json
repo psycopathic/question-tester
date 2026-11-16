@@ -1,0 +1,784 @@
+{
+  "TEXT_QUESTIONS": [
+    {
+      "id": "general-knowledge_B9_1",
+      "que": "Which animal is known as 'man's best friend'?",
+      "ans": {
+        "value": "Dog",
+        "correct_entity": "option_b"
+      },
+      "options": [
+        "Cat",
+        "Dog",
+        "Horse"
+      ],
+      "expl": [
+        "The dog is known as 'man's best friend.' Dogs were the first animals domesticated by humans, with domestication believed to have occurred between 15,000 and 40,000 years ago. Dogs have evolved to be in tune with human behaviour and have been companions and helpers in hunting, herding, and guarding."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "Cat",
+          "feline"
+        ],
+        "option_b": [
+          "Dog",
+          "canine"
+        ],
+        "option_c": [
+          "Horse",
+          "equine"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": ""
+    },
+    {
+      "id": "general-knowledge_B9_2",
+      "que": "What is the name of the largest ocean?",
+      "ans": {
+        "value": "Pacific Ocean",
+        "correct_entity": "option_c"
+      },
+      "options": [
+        "Atlantic Ocean",
+        "Indian Ocean",
+        "Pacific Ocean"
+      ],
+      "expl": [
+        "The Pacific Ocean is the largest and deepest ocean on Earth. It covers more than 165 million square kilometres, which is more than all of Earth's land surface combined. The Pacific stretches from the Arctic in the north to the Antarctic in the south, bordered by Asia and Australia on the west and the Americas on the east."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "Atlantic Ocean",
+          "atlantic"
+        ],
+        "option_b": [
+          "Indian Ocean",
+          "indian"
+        ],
+        "option_c": [
+          "Pacific Ocean",
+          "pacific"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": ""
+    },
+    {
+      "id": "general-knowledge_B9_3",
+      "que": "Which spice is made from the dried bark of a tree?",
+      "ans": {
+        "value": "Cinnamon",
+        "correct_entity": "option_b"
+      },
+      "options": [
+        "Ginger",
+        "Cinnamon",
+        "Nutmeg"
+      ],
+      "expl": [
+        "Cinnamon is a popular spice made from the dried inner bark of trees in the Cinnamomum family. The bark is rolled into sticks called quills or ground into powder. It is widely used in baking, desserts, and warm drinks around the world."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "Ginger"
+        ],
+        "option_b": [
+          "Cinnamon"
+        ],
+        "option_c": [
+          "Nutmeg"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": ""
+    },
+    {
+      "id": "general-knowledge_B9_4",
+      "que": "What is the main ingredient in traditional Japanese miso soup?",
+      "ans": {
+        "value": "Miso paste",
+        "correct_entity": "option_b"
+      },
+      "options": [
+        "Soy sauce",
+        "Miso paste",
+        "Rice vinegar"
+      ],
+      "expl": [
+        "Miso paste is the main ingredient in Japanese miso soup. It is made from fermented soybeans mixed with salt and a fermenting agent called koji. Miso soup is a staple of Japanese cuisine and is often served alongside rice. There are many varieties of miso including white, yellow, and red."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "Soy sauce",
+          "soya sauce"
+        ],
+        "option_b": [
+          "Miso paste",
+          "miso",
+          "fermented soy"
+        ],
+        "option_c": [
+          "Rice vinegar",
+          "vinegar"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": ""
+    },
+    {
+      "id": "general-knowledge_B9_5",
+      "que": "What does the 'www' in a web address stand for?",
+      "ans": {
+        "value": "World Wide Web",
+        "correct_entity": "option_a"
+      },
+      "options": [
+        "World Wide Web",
+        "World Web Works",
+        "Wide World Web"
+      ],
+      "expl": [
+        "WWW stands for World Wide Web. It was invented by British computer scientist Tim Berners-Lee in 1989 while working at CERN. The World Wide Web is a system of interlinked hypertext documents accessed via the internet. It transformed how information is shared and accessed globally."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "World Wide Web"
+        ],
+        "option_b": [
+          "World Web Works"
+        ],
+        "option_c": [
+          "Wide World Web"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": ""
+    },
+    {
+      "id": "general-knowledge_B9_6",
+      "que": "What is the standard number of keys on a piano?",
+      "ans": {
+        "value": "88",
+        "correct_entity": "option_b"
+      },
+      "options": [
+        "76",
+        "88",
+        "100"
+      ],
+      "expl": [
+        "A standard piano has 88 keys — 52 white keys and 36 black keys. This range covers over seven octaves and includes all the notes from A0 to C8. Steinway & Sons standardized this to 88 keys in 1880. Smaller pianos and keyboards may have fewer keys, such as 61 or 76."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "76",
+          "seventy six"
+        ],
+        "option_b": [
+          "88",
+          "eighty eight"
+        ],
+        "option_c": [
+          "100",
+          "one hundred"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": ""
+    },
+    {
+      "id": "general-knowledge_B9_7",
+      "que": "What is the largest mammal in the world?",
+      "ans": {
+        "value": "Blue whale",
+        "correct_entity": "option_b"
+      },
+      "options": [
+        "African elephant",
+        "Blue whale",
+        "Giraffe"
+      ],
+      "expl": [
+        "The blue whale is the largest animal ever known to have existed on Earth. Adults can reach up to 30 metres in length and weigh as much as 180 metric tons. Their hearts alone can weigh as much as a car. Blue whales feed primarily on tiny crustaceans called krill."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "African elephant",
+          "elephant"
+        ],
+        "option_b": [
+          "Blue whale",
+          "whale"
+        ],
+        "option_c": [
+          "Giraffe"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": ""
+    },
+    {
+      "id": "general-knowledge_B9_8",
+      "que": "What is the currency of Japan?",
+      "ans": {
+        "value": "Yen",
+        "correct_entity": "option_c"
+      },
+      "options": [
+        "Won",
+        "Yuan",
+        "Yen"
+      ],
+      "expl": [
+        "The yen is the official currency of Japan. Its symbol is ¥ and its currency code is JPY. The yen was officially adopted by the Meiji government in 1871. It is the third most traded currency in the foreign exchange market after the US dollar and the Euro."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "Won",
+          "korean won"
+        ],
+        "option_b": [
+          "Yuan",
+          "renminbi",
+          "rmb"
+        ],
+        "option_c": [
+          "Yen",
+          "japanese yen"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": ""
+    },
+    {
+      "id": "general-knowledge_B9_9",
+      "que": "How many sides does a hexagon have?",
+      "ans": {
+        "value": "Six",
+        "correct_entity": "option_c"
+      },
+      "options": [
+        "Five",
+        "Seven",
+        "Six"
+      ],
+      "expl": [
+        "A hexagon has six sides and six angles. A regular hexagon has all sides of equal length and all interior angles of 120 degrees. Hexagons appear frequently in nature, most notably in honeycomb structures built by bees, which use hexagonal cells because they are the most efficient shape for storage."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "Five",
+          "5"
+        ],
+        "option_b": [
+          "Seven",
+          "7"
+        ],
+        "option_c": [
+          "Six",
+          "6"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": ""
+    },
+    {
+      "id": "general-knowledge_B9_10",
+      "que": "What is the name of the fairy tale character who slept for a hundred years?",
+      "ans": {
+        "value": "Sleeping Beauty",
+        "correct_entity": "option_c"
+      },
+      "options": [
+        "Snow White",
+        "Cinderella",
+        "Sleeping Beauty"
+      ],
+      "expl": [
+        "Sleeping Beauty is the fairy tale character who slept for a hundred years after being cursed by a wicked fairy to prick her finger on a spinning wheel spindle and fall into a deep sleep. She is awakened by the kiss of a handsome prince. The story was popularized by Charles Perrault and the Brothers Grimm."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "Snow White",
+          "snow-white"
+        ],
+        "option_b": [
+          "Cinderella"
+        ],
+        "option_c": [
+          "Sleeping Beauty",
+          "aurora",
+          "briar rose"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": ""
+    },
+    {
+      "id": "general-knowledge_B9_11",
+      "que": "Which planet is known for having a large red spot on its surface?",
+      "ans": {
+        "value": "Jupiter",
+        "correct_entity": "option_c"
+      },
+      "options": [
+        "Mars",
+        "Venus",
+        "Jupiter"
+      ],
+      "expl": [
+        "Jupiter is known for its Great Red Spot, a giant storm that has been raging for at least 350 years. The storm is so large that two or three Earths could fit inside it. Recent observations show the storm is slowly shrinking in size, but it remains one of the most recognizable features in the solar system."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "Mars",
+          "red planet"
+        ],
+        "option_b": [
+          "Venus"
+        ],
+        "option_c": [
+          "Jupiter",
+          "gas giant"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": ""
+    },
+    {
+      "id": "general-knowledge_B9_12",
+      "que": "What does the acronym 'NASA' stand for?",
+      "ans": {
+        "value": "National Aeronautics and Space Administration",
+        "correct_entity": "option_a"
+      },
+      "options": [
+        "National Aeronautics and Space Administration",
+        "National Air and Space Agency",
+        "North American Space Authority"
+      ],
+      "expl": [
+        "NASA stands for National Aeronautics and Space Administration. It was established in 1958 by the United States government as a civilian agency responsible for science, aeronautics, and space exploration. It is headquartered in Washington, D.C. and is famous for the Apollo Moon missions and the Space Shuttle program."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "National Aeronautics and Space Administration",
+          "national aeronautics space administration"
+        ],
+        "option_b": [
+          "National Air and Space Agency",
+          "national air space agency"
+        ],
+        "option_c": [
+          "North American Space Authority"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": ""
+    },
+    {
+      "id": "general-knowledge_B9_13",
+      "que": "Which letter does the U.S. money sign usually come before?",
+      "ans": {
+        "value": "The dollar amount",
+        "correct_entity": "option_b"
+      },
+      "options": [
+        "The cents amount",
+        "The dollar amount",
+        "The date"
+      ],
+      "expl": [
+        "In the United States, the dollar sign $ is written before the dollar amount, like $5 or $20. The sign is believed to have come from a mark used by Spanish-American merchants in the late 1700s, and it became standard before American paper money was even printed."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "The cents amount",
+          "cents"
+        ],
+        "option_b": [
+          "The dollar amount",
+          "dollars",
+          "amount"
+        ],
+        "option_c": [
+          "The date"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": ""
+    },
+    {
+      "id": "general-knowledge_B9_14",
+      "que": "Which color is at the top of a standard traffic light in the United States?",
+      "ans": {
+        "value": "Red",
+        "correct_entity": "option_a"
+      },
+      "options": [
+        "Red",
+        "Yellow",
+        "Green"
+      ],
+      "expl": [
+        "Red is at the top of a standard traffic light in the United States. Red means stop, yellow means slow down because the light is about to change, and green means go. Red is on top so that color-blind drivers can still tell which light is on by its position."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "Red"
+        ],
+        "option_b": [
+          "Yellow",
+          "amber"
+        ],
+        "option_c": [
+          "Green"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": ""
+    },
+    {
+      "id": "general-knowledge_B9_15",
+      "que": "What is the currency of the United Kingdom?",
+      "ans": {
+        "value": "Pound Sterling",
+        "correct_entity": "option_b"
+      },
+      "options": [
+        "Euro",
+        "Pound Sterling",
+        "Dollar"
+      ],
+      "expl": [
+        "The official currency of the United Kingdom is the pound sterling (£). Its currency code is GBP, which stands for Great British Pound. Despite being in Europe, the UK never adopted the Euro. The pound is one of the oldest currencies in the world, dating back over 1,200 years."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "Euro",
+          "euros"
+        ],
+        "option_b": [
+          "Pound Sterling",
+          "pound",
+          "british pound",
+          "sterling"
+        ],
+        "option_c": [
+          "Dollar",
+          "dollars"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": ""
+    },
+    {
+      "id": "general-knowledge_B9_16",
+      "que": "On which date is Christmas celebrated in most countries?",
+      "ans": {
+        "value": "2026-12-25 00:00:00",
+        "correct_entity": "option_b"
+      },
+      "options": [
+        "2026-12-24 00:00:00",
+        "2026-12-25 00:00:00",
+        "2026-12-26 00:00:00"
+      ],
+      "expl": [
+        "Christmas is celebrated on December 25 in most Western countries. It commemorates the birth of Jesus Christ and is observed as both a religious and cultural holiday. Some Eastern Orthodox and Eastern Catholic churches celebrate Christmas on January 7, following the Julian calendar."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "2026-12-24 00:00:00",
+          "december twenty fourth",
+          "24th december",
+          "christmas eve"
+        ],
+        "option_b": [
+          "2026-12-25 00:00:00",
+          "december twenty fifth",
+          "25th december"
+        ],
+        "option_c": [
+          "2026-12-26 00:00:00",
+          "december twenty sixth",
+          "26th december",
+          "boxing day"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": ""
+    },
+    {
+      "id": "general-knowledge_B9_17",
+      "que": "How many days are there in a leap year?",
+      "ans": {
+        "value": "366",
+        "correct_entity": "option_c"
+      },
+      "options": [
+        "364",
+        "365",
+        "366"
+      ],
+      "expl": [
+        "A leap year has 366 days, with February having 29 days instead of the usual 28. Leap years occur every four years to account for the extra approximately six hours it takes Earth to orbit the Sun. This prevents the calendar from drifting out of sync with the seasons over time."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "364",
+          "three hundred sixty four"
+        ],
+        "option_b": [
+          "365",
+          "three hundred sixty five"
+        ],
+        "option_c": [
+          "366",
+          "three hundred sixty six"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": ""
+    },
+    {
+      "id": "general-knowledge_B9_18",
+      "que": "What are the three primary colors?",
+      "ans": {
+        "value": "Red, yellow, blue",
+        "correct_entity": "option_b"
+      },
+      "options": [
+        "Red, green, blue",
+        "Red, yellow, blue",
+        "Red, orange, yellow"
+      ],
+      "expl": [
+        "In traditional color theory (art and painting), the three primary colors are red, yellow, and blue. These colors cannot be made by mixing other colors, and all other colors can theoretically be made from them. In light (additive color theory), the primaries are red, green, and blue (RGB)."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "Red, green, blue",
+          "red green blue",
+          "rgb"
+        ],
+        "option_b": [
+          "Red, yellow, blue",
+          "red yellow blue"
+        ],
+        "option_c": [
+          "Red, orange, yellow",
+          "red orange yellow"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": ""
+    },
+    {
+      "id": "general-knowledge_B9_19",
+      "que": "What is the name of the device used to measure temperature?",
+      "ans": {
+        "value": "Thermometer",
+        "correct_entity": "option_b"
+      },
+      "options": [
+        "Barometer",
+        "Thermometer",
+        "Hygrometer"
+      ],
+      "expl": [
+        "A thermometer is a device used to measure temperature. It works on the principle that materials expand or change their properties at different temperatures. Mercury and alcohol thermometers use liquid expansion, while digital thermometers use electronic sensors. The word comes from the Greek 'thermos' (hot) and 'metron' (measure)."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "Barometer",
+          "barometers"
+        ],
+        "option_b": [
+          "Thermometer",
+          "thermometers"
+        ],
+        "option_c": [
+          "Hygrometer",
+          "hygrometers"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": ""
+    },
+    {
+      "id": "general-knowledge_B9_20",
+      "que": "What is the chemical symbol for iron?",
+      "ans": {
+        "value": "Fe",
+        "correct_entity": "option_c"
+      },
+      "options": [
+        "Ir",
+        "In",
+        "Fe"
+      ],
+      "expl": [
+        "The chemical symbol for iron is Fe, from the Latin word 'ferrum.' Iron is element 26 on the periodic table. It is the most abundant element on Earth by mass, making up much of Earth's core. Iron has been used by humans for thousands of years and is essential for making steel."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "Ir",
+          "i r"
+        ],
+        "option_b": [
+          "In",
+          "i n"
+        ],
+        "option_c": [
+          "Fe",
+          "f e",
+          "ferrum"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": ""
+    },
+    {
+      "id": "general-knowledge_B9_21",
+      "que": "How many players are in a standard chess game?",
+      "ans": {
+        "value": "Two",
+        "correct_entity": "option_a"
+      },
+      "options": [
+        "Two",
+        "Four",
+        "Three"
+      ],
+      "expl": [
+        "A standard chess game is played between two players. One player controls the white pieces and the other controls the black pieces. Each player starts with 16 pieces: one king, one queen, two rooks, two knights, two bishops, and eight pawns. The game ends when a king is checkmated."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "Two",
+          "2"
+        ],
+        "option_b": [
+          "Four",
+          "4"
+        ],
+        "option_c": [
+          "Three",
+          "3"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": ""
+    },
+    {
+      "id": "general-knowledge_B9_22",
+      "que": "Which organ filters waste from the blood in the human body?",
+      "ans": {
+        "value": "Kidney",
+        "correct_entity": "option_b"
+      },
+      "options": [
+        "Liver",
+        "Kidney",
+        "Spleen"
+      ],
+      "expl": [
+        "The kidneys are the organs that filter waste products from the blood. Each person has two kidneys, which process about 200 litres of blood daily. They filter out waste products and excess water, which exit the body as urine. The kidneys also regulate blood pressure and produce hormones."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "Liver"
+        ],
+        "option_b": [
+          "Kidney",
+          "kidneys"
+        ],
+        "option_c": [
+          "Spleen"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": ""
+    },
+    {
+      "id": "general_knowledge_B9_1",
+      "que": "Which American company makes the iPhone?",
+      "ans": {
+        "value": "Apple",
+        "correct_entity": "option_b"
+      },
+      "options": [
+        "Microsoft",
+        "Apple",
+        "Samsung"
+      ],
+      "expl": [
+        "Apple, the American technology company founded in 1976 by Steve Jobs, Steve Wozniak, and Ronald Wayne, makes the iPhone. The first iPhone was released in 2007 and changed the way people use mobile phones. Apple is headquartered in Cupertino, California."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "Microsoft"
+        ],
+        "option_b": [
+          "Apple",
+          "apple inc"
+        ],
+        "option_c": [
+          "Samsung"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": ""
+    }
+  ],
+  "IMAGE_QUESTIONS": [],
+  "AUDIO_QUESTIONS": []
+}

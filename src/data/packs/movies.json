@@ -1,0 +1,752 @@
+[
+  {
+    "id": "1",
+    "que": "Harrison Ford originally had a cameo in ET, but it was later cut from the film.",
+    "ans": {
+      "value": "true",
+      "correct_entity": "option_a"
+    },
+    "options": [
+      "true",
+      "false"
+    ],
+    "expl": [
+      "He did the scene where E.T. was home, levitating all the stuff for his communicator up the stairs."
+    ],
+    "imageUrl": "",
+    "audioUrl": "",
+    "dynamic_entities": {
+      "option_a": [
+        "true",
+        "yes",
+        "correct"
+      ],
+      "option_b": [
+        "false",
+        "no",
+        "incorrect"
+      ]
+    },
+    "isActive": true
+  },
+  {
+    "id": "2",
+    "que": "John Travolta and Olivia Newton-John did not get along during Grease's filming.",
+    "ans": {
+      "value": "false",
+      "correct_entity": "option_b"
+    },
+    "options": [
+      "true",
+      "false"
+    ],
+    "expl": [
+      "John Travolta and Olivia Newton-John have been great friends ever since."
+    ],
+    "imageUrl": "",
+    "audioUrl": "",
+    "dynamic_entities": {
+      "option_a": [
+        "true",
+        "yes",
+        "correct"
+      ],
+      "option_b": [
+        "false",
+        "no",
+        "incorrect"
+      ]
+    },
+    "isActive": true
+  },
+  {
+    "id": "3",
+    "que": "Michael Bay had Megan Fox gain 10 pounds for her role in Transformers.",
+    "ans": {
+      "value": "true",
+      "correct_entity": "option_a"
+    },
+    "options": [
+      "true",
+      "false"
+    ],
+    "expl": [
+      "Michael Bay had Megan Fox gain 10 pounds in three weeks."
+    ],
+    "imageUrl": "",
+    "audioUrl": "",
+    "dynamic_entities": {
+      "option_a": [
+        "true",
+        "yes",
+        "correct"
+      ],
+      "option_b": [
+        "false",
+        "no",
+        "incorrect"
+      ]
+    },
+    "isActive": true
+  },
+  {
+    "id": "4",
+    "que": "Ben Affleck was originally going to direct Gone Girl along with starring in it.",
+    "ans": {
+      "value": "false",
+      "correct_entity": "option_b"
+    },
+    "options": [
+      "true",
+      "false"
+    ],
+    "expl": [
+      "David Fincher directed Gone Girl."
+    ],
+    "imageUrl": "",
+    "audioUrl": "",
+    "dynamic_entities": {
+      "option_a": [
+        "true",
+        "yes",
+        "correct"
+      ],
+      "option_b": [
+        "false",
+        "no",
+        "incorrect"
+      ]
+    },
+    "isActive": true
+  },
+  {
+    "id": "5",
+    "que": "Daniel Radcliffe was offered a role in Les Miserables.",
+    "ans": {
+      "value": "false",
+      "correct_entity": "option_b"
+    },
+    "options": [
+      "true",
+      "false"
+    ],
+    "expl": [
+      "Daniel Radcliffe was not offered a role in Les Miserables."
+    ],
+    "imageUrl": "",
+    "audioUrl": "",
+    "dynamic_entities": {
+      "option_a": [
+        "true",
+        "yes",
+        "correct"
+      ],
+      "option_b": [
+        "false",
+        "no",
+        "incorrect"
+      ]
+    },
+    "isActive": true
+  },
+  {
+    "id": "6",
+    "que": "La La Land was filmed entirely in Vancouver.",
+    "ans": {
+      "value": "false",
+      "correct_entity": "option_b"
+    },
+    "options": [
+      "true",
+      "false"
+    ],
+    "expl": [
+      "The movie was filmed on location, in and around Los Angeles."
+    ],
+    "imageUrl": "",
+    "audioUrl": "",
+    "dynamic_entities": {
+      "option_a": [
+        "true",
+        "yes",
+        "correct"
+      ],
+      "option_b": [
+        "false",
+        "no",
+        "incorrect"
+      ]
+    },
+    "isActive": true
+  },
+  {
+    "id": "7",
+    "que": "Unadjusted for inflation, Avatar is the highest-grossing movie of all time.",
+    "ans": {
+      "value": "true",
+      "correct_entity": "option_a"
+    },
+    "options": [
+      "true",
+      "false"
+    ],
+    "expl": [
+      "James Camerons Avatar grossed 2787965087 dollars worldwide."
+    ],
+    "imageUrl": "",
+    "audioUrl": "",
+    "dynamic_entities": {
+      "option_a": [
+        "true",
+        "yes",
+        "correct"
+      ],
+      "option_b": [
+        "false",
+        "no",
+        "incorrect"
+      ]
+    },
+    "isActive": true
+  },
+  {
+    "id": "8",
+    "que": "Sophies Choice was Meryl Streeps first ever movie role.",
+    "ans": {
+      "value": "false",
+      "correct_entity": "option_b"
+    },
+    "options": [
+      "true",
+      "false"
+    ],
+    "expl": [
+      "Meryl Streep's made her silver screen debut in the 1977 movie Julia."
+    ],
+    "imageUrl": "",
+    "audioUrl": "",
+    "dynamic_entities": {
+      "option_a": [
+        "true",
+        "yes",
+        "correct"
+      ],
+      "option_b": [
+        "false",
+        "no",
+        "incorrect"
+      ]
+    },
+    "isActive": true
+  },
+  {
+    "id": "9",
+    "que": "During its original release, the movie ET The Extra-Terrestrial has a run time of over four hours.",
+    "ans": {
+      "value": "false",
+      "correct_entity": "option_b"
+    },
+    "options": [
+      "true",
+      "false"
+    ],
+    "expl": [
+      "The movie has always had a running time of just under two hours, coming in at 114 minutes."
+    ],
+    "imageUrl": "",
+    "audioUrl": "",
+    "dynamic_entities": {
+      "option_a": [
+        "true",
+        "yes",
+        "correct"
+      ],
+      "option_b": [
+        "false",
+        "no",
+        "incorrect"
+      ]
+    },
+    "isActive": true
+  },
+  {
+    "id": "10",
+    "que": "There have been over ten movies released in the Friday the 13th franchise.",
+    "ans": {
+      "value": "true",
+      "correct_entity": "option_a"
+    },
+    "options": [
+      "true",
+      "false"
+    ],
+    "expl": [
+      "To date, there have been 12 movies released in the Friday the 13th franchise."
+    ],
+    "imageUrl": "",
+    "audioUrl": "",
+    "dynamic_entities": {
+      "option_a": [
+        "true",
+        "yes",
+        "correct"
+      ],
+      "option_b": [
+        "false",
+        "no",
+        "incorrect"
+      ]
+    },
+    "isActive": true
+  },
+  {
+    "id": "11",
+    "que": "Elsa from Frozen and Belle from Beauty and the Beast is related.",
+    "ans": {
+      "value": "false",
+      "correct_entity": "option_b"
+    },
+    "options": [
+      "true",
+      "false"
+    ],
+    "expl": [
+      "I just made this up."
+    ],
+    "imageUrl": "",
+    "audioUrl": "",
+    "dynamic_entities": {
+      "option_a": [
+        "true",
+        "yes",
+        "correct"
+      ],
+      "option_b": [
+        "false",
+        "no",
+        "incorrect"
+      ]
+    },
+    "isActive": true
+  },
+  {
+    "id": "12",
+    "que": "The reactions of Will Ferrel during the Jack in the box scene in Elf were totally real. The director surprised him by using a remote control.",
+    "ans": {
+      "value": "true",
+      "correct_entity": "option_a"
+    },
+    "options": [
+      "true",
+      "false"
+    ],
+    "expl": [
+      "No lies here."
+    ],
+    "imageUrl": "",
+    "audioUrl": "",
+    "dynamic_entities": {
+      "option_a": [
+        "true",
+        "yes",
+        "correct"
+      ],
+      "option_b": [
+        "false",
+        "no",
+        "incorrect"
+      ]
+    },
+    "isActive": true
+  },
+  {
+    "id": "13",
+    "que": "Nic Cage actually turned down the role of Gandalf in the Lord of the Rings series.",
+    "ans": {
+      "value": "false",
+      "correct_entity": "option_b"
+    },
+    "options": [
+      "true",
+      "false"
+    ],
+    "expl": [
+      "He turned down the role of Aragorn."
+    ],
+    "imageUrl": "",
+    "audioUrl": "",
+    "dynamic_entities": {
+      "option_a": [
+        "true",
+        "yes",
+        "correct"
+      ],
+      "option_b": [
+        "false",
+        "no",
+        "incorrect"
+      ]
+    },
+    "isActive": true
+  },
+  {
+    "id": "14",
+    "que": "ET and Poltergeist were originally supposed to be the same movie.",
+    "ans": {
+      "value": "true",
+      "correct_entity": "option_a"
+    },
+    "options": [
+      "true",
+      "false"
+    ],
+    "expl": [
+      "It would have been called Night Skies."
+    ],
+    "imageUrl": "",
+    "audioUrl": "",
+    "dynamic_entities": {
+      "option_a": [
+        "true",
+        "yes",
+        "correct"
+      ],
+      "option_b": [
+        "false",
+        "no",
+        "incorrect"
+      ]
+    },
+    "isActive": true
+  },
+  {
+    "id": "15",
+    "que": "The Lord of the Rings trilogy was filmed entirely in New Zealand.",
+    "ans": {
+      "value": "true",
+      "correct_entity": "option_a"
+    },
+    "options": [
+      "true",
+      "false"
+    ],
+    "expl": [
+      "The Lord of the Rings trilogy was filmed entirely in New Zealand."
+    ],
+    "imageUrl": "",
+    "audioUrl": "",
+    "dynamic_entities": {
+      "option_a": [
+        "true",
+        "yes",
+        "correct"
+      ],
+      "option_b": [
+        "false",
+        "no",
+        "incorrect"
+      ]
+    },
+    "isActive": true
+  },
+  {
+    "id": "16",
+    "que": "Titanic is the highest-grossing film of all time internationally.",
+    "ans": {
+      "value": "true",
+      "correct_entity": "option_a"
+    },
+    "options": [
+      "true",
+      "false"
+    ],
+    "expl": [
+      "Titanic is one of the biggest box office hits of all time."
+    ],
+    "imageUrl": "",
+    "audioUrl": "",
+    "dynamic_entities": {
+      "option_a": [
+        "true",
+        "yes",
+        "correct"
+      ],
+      "option_b": [
+        "false",
+        "no",
+        "incorrect"
+      ]
+    },
+    "isActive": true
+  },
+  {
+    "id": "17",
+    "que": "Star Wars Episode I won the Academy Award for Best Visual Effects.",
+    "ans": {
+      "value": "false",
+      "correct_entity": "option_b"
+    },
+    "options": [
+      "true",
+      "false"
+    ],
+    "expl": [
+      "Despite several nominations, Star Wars films have only won seven Oscars."
+    ],
+    "imageUrl": "",
+    "audioUrl": "",
+    "dynamic_entities": {
+      "option_a": [
+        "true",
+        "yes",
+        "correct"
+      ],
+      "option_b": [
+        "false",
+        "no",
+        "incorrect"
+      ]
+    },
+    "isActive": true
+  },
+  {
+    "id": "18",
+    "que": "Oompa Loompas are the small orange men in Charlie and the Chocolate Factory.",
+    "ans": {
+      "value": "true",
+      "correct_entity": "option_a"
+    },
+    "options": [
+      "true",
+      "false"
+    ],
+    "expl": [
+      "Oompa Loompas are the small orange men in Charlie and the Chocolate Factory."
+    ],
+    "imageUrl": "",
+    "audioUrl": "",
+    "dynamic_entities": {
+      "option_a": [
+        "true",
+        "yes",
+        "correct"
+      ],
+      "option_b": [
+        "false",
+        "no",
+        "incorrect"
+      ]
+    },
+    "isActive": true
+  },
+  {
+    "id": "19",
+    "que": "Clumsy Smurf falls over a lot and accidentally breaks things.",
+    "ans": {
+      "value": "true",
+      "correct_entity": "option_a"
+    },
+    "options": [
+      "true",
+      "false"
+    ],
+    "expl": [
+      "Clumsy Smurf falls over a lot and accidentally breaks things."
+    ],
+    "imageUrl": "",
+    "audioUrl": "",
+    "dynamic_entities": {
+      "option_a": [
+        "true",
+        "yes",
+        "correct"
+      ],
+      "option_b": [
+        "false",
+        "no",
+        "incorrect"
+      ]
+    },
+    "isActive": true
+  },
+  {
+    "id": "20",
+    "que": "Alvin Simon and Theodore are the names of famous chipmunks.",
+    "ans": {
+      "value": "true",
+      "correct_entity": "option_a"
+    },
+    "options": [
+      "true",
+      "false"
+    ],
+    "expl": [
+      "Alvin, Simon, and Theodore are the names of chipmunks."
+    ],
+    "imageUrl": "",
+    "audioUrl": "",
+    "dynamic_entities": {
+      "option_a": [
+        "true",
+        "yes",
+        "correct"
+      ],
+      "option_b": [
+        "false",
+        "no",
+        "incorrect"
+      ]
+    },
+    "isActive": true
+  },
+  {
+    "id": "21",
+    "que": "The Cheshire Cat appears in The Wizard of Oz.",
+    "ans": {
+      "value": "false",
+      "correct_entity": "option_b"
+    },
+    "options": [
+      "true",
+      "false"
+    ],
+    "expl": [
+      "The Cheshire Cat appears in Alice in Wonderland."
+    ],
+    "imageUrl": "",
+    "audioUrl": "",
+    "dynamic_entities": {
+      "option_a": [
+        "true",
+        "yes",
+        "correct"
+      ],
+      "option_b": [
+        "false",
+        "no",
+        "incorrect"
+      ]
+    },
+    "isActive": true
+  },
+  {
+    "id": "22",
+    "que": "The four Teenage Mutant Ninja Turtles are named after famous artists.",
+    "ans": {
+      "value": "true",
+      "correct_entity": "option_a"
+    },
+    "options": [
+      "true",
+      "false"
+    ],
+    "expl": [
+      "Leonardo Donatello, Michelangelo, and Raphael are the names of the ninja turtles."
+    ],
+    "imageUrl": "",
+    "audioUrl": "",
+    "dynamic_entities": {
+      "option_a": [
+        "true",
+        "yes",
+        "correct"
+      ],
+      "option_b": [
+        "false",
+        "no",
+        "incorrect"
+      ]
+    },
+    "isActive": true
+  },
+  {
+    "id": "23",
+    "que": "The Disney character Nemo is orange, white, and black.",
+    "ans": {
+      "value": "true",
+      "correct_entity": "option_a"
+    },
+    "options": [
+      "true",
+      "false"
+    ],
+    "expl": [
+      "Nemo, a clown fish, is of orange, white, and black color."
+    ],
+    "imageUrl": "",
+    "audioUrl": "",
+    "dynamic_entities": {
+      "option_a": [
+        "true",
+        "yes",
+        "correct"
+      ],
+      "option_b": [
+        "false",
+        "no",
+        "incorrect"
+      ]
+    },
+    "isActive": true
+  },
+  {
+    "id": "24",
+    "que": "Mickey's name was initially intended to be Mortimer Mouse.",
+    "ans": {
+      "value": "true",
+      "correct_entity": "option_a"
+    },
+    "options": [
+      "true",
+      "false"
+    ],
+    "expl": [
+      "Mickey's name was initially intended to be Mortimer Mouse."
+    ],
+    "imageUrl": "",
+    "audioUrl": "",
+    "dynamic_entities": {
+      "option_a": [
+        "true",
+        "yes",
+        "correct"
+      ],
+      "option_b": [
+        "false",
+        "no",
+        "incorrect"
+      ]
+    },
+    "isActive": true
+  },
+  {
+    "id": "25",
+    "que": "In Monsters Inc, Sully's real name is James.",
+    "ans": {
+      "value": "true",
+      "correct_entity": "option_a"
+    },
+    "options": [
+      "true",
+      "false"
+    ],
+    "expl": [
+      "In Monsters Inc, Sully's real name is James."
+    ],
+    "imageUrl": "",
+    "audioUrl": "",
+    "dynamic_entities": {
+      "option_a": [
+        "true",
+        "yes",
+        "correct"
+      ],
+      "option_b": [
+        "false",
+        "no",
+        "incorrect"
+      ]
+    },
+    "isActive": true
+  }
+]

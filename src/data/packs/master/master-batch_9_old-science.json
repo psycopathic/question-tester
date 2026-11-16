@@ -1,0 +1,802 @@
+{
+  "TEXT_QUESTIONS": [
+    {
+      "id": "science_B9_1",
+      "que": "What is the chemical symbol for oxygen?",
+      "ans": {
+        "value": "O",
+        "correct_entity": "option_c"
+      },
+      "options": [
+        "Ox",
+        "H",
+        "O"
+      ],
+      "expl": [
+        "The chemical symbol for oxygen is O. It is element number 8 on the periodic table. Oxygen is the gas that humans and animals breathe in to stay alive. About 21 percent of Earth's atmosphere is made up of oxygen."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "Ox",
+          "o x"
+        ],
+        "option_b": [
+          "H"
+        ],
+        "option_c": [
+          "O"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": ""
+    },
+    {
+      "id": "science_B9_2",
+      "que": "Which sense organ do humans use to smell?",
+      "ans": {
+        "value": "Nose",
+        "correct_entity": "option_b"
+      },
+      "options": [
+        "Eyes",
+        "Nose",
+        "Ears"
+      ],
+      "expl": [
+        "Humans use their nose to smell. Tiny receptors inside the nose detect molecules in the air and send signals to the brain, which identifies the scent. The sense of smell is closely linked to memory and to the sense of taste."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "Eyes",
+          "eye"
+        ],
+        "option_b": [
+          "Nose"
+        ],
+        "option_c": [
+          "Ears",
+          "ear"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": ""
+    },
+    {
+      "id": "science_B9_3",
+      "que": "What is the powerhouse of the cell?",
+      "ans": {
+        "value": "Mitochondria",
+        "correct_entity": "option_b"
+      },
+      "options": [
+        "Nucleus",
+        "Mitochondria",
+        "Ribosome"
+      ],
+      "expl": [
+        "The mitochondria is known as the powerhouse of the cell because it generates most of the cell's supply of adenosine triphosphate (ATP), which is used as a source of chemical energy. Mitochondria are found in almost all eukaryotic cells."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "Nucleus",
+          "nuclei"
+        ],
+        "option_b": [
+          "Mitochondria",
+          "mitochondrion"
+        ],
+        "option_c": [
+          "Ribosome",
+          "ribosomes"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": ""
+    },
+    {
+      "id": "science_B9_4",
+      "que": "Which planet do humans live on?",
+      "ans": {
+        "value": "Earth",
+        "correct_entity": "option_b"
+      },
+      "options": [
+        "Mars",
+        "Earth",
+        "Saturn"
+      ],
+      "expl": [
+        "Humans live on Earth, the third planet from the Sun. Earth is the only known planet with liquid water on its surface and the only one known to support life. From space, Earth looks like a blue marble because of its oceans."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "Mars"
+        ],
+        "option_b": [
+          "Earth",
+          "planet earth"
+        ],
+        "option_c": [
+          "Saturn"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": ""
+    },
+    {
+      "id": "science_B9_5",
+      "que": "What is the speed of light in a vacuum?",
+      "ans": {
+        "value": "About 300,000 km per second",
+        "correct_entity": "option_b"
+      },
+      "options": [
+        "About 200,000 km per second",
+        "About 300,000 km per second",
+        "About 400,000 km per second"
+      ],
+      "expl": [
+        "The speed of light in a vacuum is approximately 299,792 kilometres per second, commonly rounded to 300,000 km/s. In physics, it is denoted by the letter c. Nothing in the universe can travel faster than the speed of light."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "About 200,000 km per second",
+          "two hundred thousand kilometers per second"
+        ],
+        "option_b": [
+          "About 300,000 km per second",
+          "three hundred thousand kilometers per second"
+        ],
+        "option_c": [
+          "About 400,000 km per second",
+          "four hundred thousand kilometers per second"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": ""
+    },
+    {
+      "id": "science_B9_6",
+      "que": "Which planet is famous for the bright rings around it?",
+      "ans": {
+        "value": "Saturn",
+        "correct_entity": "option_b"
+      },
+      "options": [
+        "Mars",
+        "Saturn",
+        "Mercury"
+      ],
+      "expl": [
+        "Saturn is famous for the bright rings that circle its equator. The rings are made mostly of tiny pieces of ice and rock. Saturn is the sixth planet from the Sun and the second largest planet in our solar system after Jupiter."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "Mars"
+        ],
+        "option_b": [
+          "Saturn"
+        ],
+        "option_c": [
+          "Mercury"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": ""
+    },
+    {
+      "id": "science_B9_7",
+      "que": "DNA stands for what?",
+      "ans": {
+        "value": "Deoxyribonucleic acid",
+        "correct_entity": "option_a"
+      },
+      "options": [
+        "Deoxyribonucleic acid",
+        "Dioxynuclear acid",
+        "Diribonucleic acid"
+      ],
+      "expl": [
+        "DNA stands for Deoxyribonucleic acid. It is a molecule that carries the genetic information of all living organisms and many viruses. DNA is made of two strands coiled together in a double helix, first described by Watson and Crick in 1953."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "Deoxyribonucleic acid",
+          "deoxyribonucleic"
+        ],
+        "option_b": [
+          "Dioxynuclear acid",
+          "dioxynuclear"
+        ],
+        "option_c": [
+          "Diribonucleic acid",
+          "diribonucleic"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": ""
+    },
+    {
+      "id": "science_B9_8",
+      "que": "Which natural object lights up the sky during the daytime?",
+      "ans": {
+        "value": "The Sun",
+        "correct_entity": "option_b"
+      },
+      "options": [
+        "The Moon",
+        "The Sun",
+        "A star"
+      ],
+      "expl": [
+        "The Sun lights up the sky during the daytime. It is the closest star to Earth, about 93 million miles away. Sunlight gives us warmth, helps plants grow, and is the main source of energy for almost all life on our planet."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "The Moon",
+          "moon"
+        ],
+        "option_b": [
+          "The Sun",
+          "sun"
+        ],
+        "option_c": [
+          "A star",
+          "star"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": ""
+    },
+    {
+      "id": "science_B9_9",
+      "que": "What is the atomic number of carbon?",
+      "ans": {
+        "value": "6",
+        "correct_entity": "option_a"
+      },
+      "options": [
+        "6",
+        "8",
+        "12"
+      ],
+      "expl": [
+        "Carbon has an atomic number of 6, meaning it has 6 protons in its nucleus. Carbon is the basis of all organic chemistry and life on Earth. It exists in multiple forms including diamond, graphite, and graphene. Its chemical symbol is C."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "6",
+          "six"
+        ],
+        "option_b": [
+          "8",
+          "eight"
+        ],
+        "option_c": [
+          "12",
+          "twelve"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": ""
+    },
+    {
+      "id": "science_B9_10",
+      "que": "Which scientist proposed the theory of general relativity?",
+      "ans": {
+        "value": "Albert Einstein",
+        "correct_entity": "option_b"
+      },
+      "options": [
+        "Isaac Newton",
+        "Albert Einstein",
+        "Niels Bohr"
+      ],
+      "expl": [
+        "Albert Einstein proposed the theory of general relativity in 1915, which describes gravity as a curvature of spacetime caused by mass and energy. This revolutionary theory replaced Newton's law of gravitation and is fundamental to modern physics."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "Isaac Newton",
+          "newton",
+          "sir isaac"
+        ],
+        "option_b": [
+          "Albert Einstein",
+          "einstein"
+        ],
+        "option_c": [
+          "Niels Bohr",
+          "bohr"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": ""
+    },
+    {
+      "id": "science_B9_11",
+      "que": "How many chambers does the human heart have?",
+      "ans": {
+        "value": "Four",
+        "correct_entity": "option_c"
+      },
+      "options": [
+        "Two",
+        "Three",
+        "Four"
+      ],
+      "expl": [
+        "The human heart has four chambers: the right atrium, right ventricle, left atrium, and left ventricle. The right side pumps deoxygenated blood to the lungs, while the left side pumps oxygenated blood to the rest of the body."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "Two",
+          "2"
+        ],
+        "option_b": [
+          "Three",
+          "3"
+        ],
+        "option_c": [
+          "Four",
+          "4"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": ""
+    },
+    {
+      "id": "science_B9_12",
+      "que": "Which part of the body pumps blood?",
+      "ans": {
+        "value": "Heart",
+        "correct_entity": "option_a"
+      },
+      "options": [
+        "Heart",
+        "Lungs",
+        "Stomach"
+      ],
+      "expl": [
+        "The heart pumps blood around the body. About the size of a fist, it beats roughly 100,000 times a day. Blood carries oxygen and nutrients to every part of the body and removes waste products like carbon dioxide."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "Heart"
+        ],
+        "option_b": [
+          "Lungs",
+          "lung"
+        ],
+        "option_c": [
+          "Stomach"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": ""
+    },
+    {
+      "id": "science_B9_13",
+      "que": "The study of earthquakes is known as what?",
+      "ans": {
+        "value": "Seismology",
+        "correct_entity": "option_c"
+      },
+      "options": [
+        "Meteorology",
+        "Geology",
+        "Seismology"
+      ],
+      "expl": [
+        "Seismology is the scientific study of earthquakes and the propagation of elastic waves through the Earth. Seismologists use seismographs to measure and record the vibrations produced by earthquakes and can determine the magnitude, location, and depth of seismic events."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "Meteorology"
+        ],
+        "option_b": [
+          "Geology"
+        ],
+        "option_c": [
+          "Seismology"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": ""
+    },
+    {
+      "id": "science_B9_14",
+      "que": "What element is the Sun primarily composed of?",
+      "ans": {
+        "value": "Hydrogen",
+        "correct_entity": "option_b"
+      },
+      "options": [
+        "Helium",
+        "Hydrogen",
+        "Oxygen"
+      ],
+      "expl": [
+        "The Sun is primarily composed of hydrogen, which makes up about 73% of its mass. Helium accounts for about 25%. Through nuclear fusion, the Sun converts hydrogen into helium, releasing enormous amounts of energy as light and heat."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "Helium",
+          "he"
+        ],
+        "option_b": [
+          "Hydrogen",
+          "h two"
+        ],
+        "option_c": [
+          "Oxygen",
+          "o two"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": ""
+    },
+    {
+      "id": "science_B9_15",
+      "que": "Which planet do astronomers nickname the Red Planet because of its rusty color?",
+      "ans": {
+        "value": "Mars",
+        "correct_entity": "option_b"
+      },
+      "options": [
+        "Venus",
+        "Mars",
+        "Jupiter"
+      ],
+      "expl": [
+        "Astronomers nickname Mars the Red Planet because its surface is covered in iron oxide, which gives it a rusty, reddish-orange color. NASA has sent several rovers to Mars to explore its dusty landscape and to search for signs of ancient water."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "Venus"
+        ],
+        "option_b": [
+          "Mars"
+        ],
+        "option_c": [
+          "Jupiter"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": ""
+    },
+    {
+      "id": "science_B9_16",
+      "que": "What is the name of the process by which water turns into vapor?",
+      "ans": {
+        "value": "Evaporation",
+        "correct_entity": "option_b"
+      },
+      "options": [
+        "Condensation",
+        "Evaporation",
+        "Sublimation"
+      ],
+      "expl": [
+        "Evaporation is the process by which liquid water is converted into water vapor (gas). This occurs when water molecules at the surface gain enough energy to overcome the forces holding them together and escape into the atmosphere."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "Condensation"
+        ],
+        "option_b": [
+          "Evaporation",
+          "evaporate"
+        ],
+        "option_c": [
+          "Sublimation"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": ""
+    },
+    {
+      "id": "science_B9_17",
+      "que": "What is frozen water called?",
+      "ans": {
+        "value": "Ice",
+        "correct_entity": "option_c"
+      },
+      "options": [
+        "Steam",
+        "Mist",
+        "Ice"
+      ],
+      "expl": [
+        "Frozen water is called ice. Water turns into ice when its temperature drops to 32 degrees Fahrenheit, which is zero degrees Celsius. Ice is less dense than liquid water, which is why ice cubes float in a glass."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "Steam"
+        ],
+        "option_b": [
+          "Mist"
+        ],
+        "option_c": [
+          "Ice"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": ""
+    },
+    {
+      "id": "science_B9_18",
+      "que": "Which sea creature is famous for having eight arms?",
+      "ans": {
+        "value": "Octopus",
+        "correct_entity": "option_a"
+      },
+      "options": [
+        "Octopus",
+        "Dolphin",
+        "Shark"
+      ],
+      "expl": [
+        "An octopus is famous for having eight arms. Each arm is lined with suction cups that help it grip prey and explore the seafloor. Octopuses are very smart and can solve puzzles, open jars, and even camouflage themselves to match their surroundings."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "Octopus",
+          "octopuses"
+        ],
+        "option_b": [
+          "Dolphin"
+        ],
+        "option_c": [
+          "Shark"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": ""
+    },
+    {
+      "id": "science_B9_19",
+      "que": "Which part of a plant takes in water from the soil?",
+      "ans": {
+        "value": "Roots",
+        "correct_entity": "option_b"
+      },
+      "options": [
+        "Leaves",
+        "Roots",
+        "Flowers"
+      ],
+      "expl": [
+        "Roots grow underground and soak up water and nutrients from the soil to help the plant live and grow. Roots also keep the plant firmly anchored in the ground. The water and nutrients travel from the roots up through the stem to the rest of the plant."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "Leaves",
+          "leaf"
+        ],
+        "option_b": [
+          "Roots",
+          "root"
+        ],
+        "option_c": [
+          "Flowers",
+          "flower",
+          "petals"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": ""
+    },
+    {
+      "id": "science_B9_20",
+      "que": "Which device on a smartphone is used to take pictures?",
+      "ans": {
+        "value": "Camera",
+        "correct_entity": "option_b"
+      },
+      "options": [
+        "Battery",
+        "Camera",
+        "Speaker"
+      ],
+      "expl": [
+        "The camera on a smartphone is used to take pictures. A tiny lens focuses light onto a digital sensor, which records the image. Most modern phones have multiple cameras, including ones for wide shots, zoomed-in shots, and selfies."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "Battery"
+        ],
+        "option_b": [
+          "Camera"
+        ],
+        "option_c": [
+          "Speaker"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": ""
+    },
+    {
+      "id": "science_B9_21",
+      "que": "What is Newton's first law of motion also known as?",
+      "ans": {
+        "value": "The law of inertia",
+        "correct_entity": "option_c"
+      },
+      "options": [
+        "The law of acceleration",
+        "The law of action and reaction",
+        "The law of inertia"
+      ],
+      "expl": [
+        "Newton's first law of motion is known as the law of inertia. It states that an object at rest stays at rest, and an object in motion stays in motion with the same speed and direction unless acted upon by an external force."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "The law of acceleration",
+          "law of acceleration",
+          "acceleration law"
+        ],
+        "option_b": [
+          "The law of action and reaction",
+          "action reaction",
+          "law of action reaction"
+        ],
+        "option_c": [
+          "The law of inertia",
+          "law of inertia",
+          "inertia law",
+          "inertia"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": ""
+    },
+    {
+      "id": "science_B9_22",
+      "que": "What part of the brain controls balance and coordination?",
+      "ans": {
+        "value": "Cerebellum",
+        "correct_entity": "option_b"
+      },
+      "options": [
+        "Cerebrum",
+        "Cerebellum",
+        "Brain stem"
+      ],
+      "expl": [
+        "The cerebellum controls balance, coordination, and fine motor skills. Located at the back and bottom of the brain, it receives information from the sensory systems, the spinal cord, and other parts of the brain to regulate and coordinate movement."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "Cerebrum",
+          "cerebral cortex"
+        ],
+        "option_b": [
+          "Cerebellum"
+        ],
+        "option_c": [
+          "Brain stem",
+          "brainstem"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": ""
+    },
+    {
+      "id": "science_B9_23",
+      "que": "What is the process called when a caterpillar transforms into a butterfly?",
+      "ans": {
+        "value": "Metamorphosis",
+        "correct_entity": "option_a"
+      },
+      "options": [
+        "Metamorphosis",
+        "Evolution",
+        "Mitosis"
+      ],
+      "expl": [
+        "Metamorphosis is the biological process of transformation from a larva to an adult. Butterflies undergo complete metamorphosis (holometabolism) with four stages: egg, larva (caterpillar), pupa (chrysalis), and adult butterfly."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "Metamorphosis",
+          "transformation"
+        ],
+        "option_b": [
+          "Evolution",
+          "evolve"
+        ],
+        "option_c": [
+          "Mitosis",
+          "cell division"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": ""
+    },
+    {
+      "id": "science_B9_24",
+      "que": "What is the SI unit of electric current?",
+      "ans": {
+        "value": "Ampere",
+        "correct_entity": "option_c"
+      },
+      "options": [
+        "Volt",
+        "Watt",
+        "Ampere"
+      ],
+      "expl": [
+        "The ampere, often shortened to amp, is the SI unit of electric current. It is named after French mathematician and physicist André-Marie Ampère. One ampere is defined as one coulomb of electric charge passing a point per second."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "Volt",
+          "volts"
+        ],
+        "option_b": [
+          "Watt",
+          "watts"
+        ],
+        "option_c": [
+          "Ampere",
+          "amp",
+          "amps"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": ""
+    }
+  ],
+  "IMAGE_QUESTIONS": [],
+  "AUDIO_QUESTIONS": []
+}

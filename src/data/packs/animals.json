@@ -1,0 +1,2844 @@
+[
+  {
+    "id": "1",
+    "que": "What's the fastest flying bird in the world?",
+    "ans": {
+      "value": "Peregrine Falcon",
+      "correct_entity": "option_a"
+    },
+    "options": [
+      "Peregrine Falcon",
+      "Golden Eagle",
+      "Needletail"
+    ],
+    "expl": [
+      "nan"
+    ],
+    "imageUrl": "",
+    "audioUrl": "",
+    "dynamic_entities": {
+      "option_a": [
+        "peregrine falcon",
+        "peregrine",
+        "falcon",
+        "pirigrine"
+      ],
+      "option_b": [
+        "golden eagle",
+        "golden",
+        "eagle",
+        "golden eagles"
+      ],
+      "option_c": [
+        "needletail",
+        "needle",
+        "tail",
+        "needle tale",
+        "needle tail"
+      ]
+    },
+    "isActive": true
+  },
+  {
+    "id": "2",
+    "que": "How many teeth do sharks grow and lose in their lifetime?",
+    "ans": {
+      "value": "50000",
+      "correct_entity": "option_b"
+    },
+    "options": [
+      "2500",
+      "50000",
+      "0"
+    ],
+    "expl": [
+      "nan"
+    ],
+    "imageUrl": "",
+    "audioUrl": "",
+    "dynamic_entities": {
+      "option_a": [
+        "2500",
+        "two thousand five hundred",
+        "two five zero zero"
+      ],
+      "option_b": [
+        "50000",
+        "fifty thousand"
+      ],
+      "option_c": [
+        "0",
+        "zero",
+        "zeros"
+      ]
+    },
+    "isActive": true
+  },
+  {
+    "id": "3",
+    "que": "What is a newborn horse called?",
+    "ans": {
+      "value": "Foal ",
+      "correct_entity": "option_c"
+    },
+    "options": [
+      "Horsey",
+      "Pony",
+      "Foal "
+    ],
+    "expl": [
+      "nan"
+    ],
+    "imageUrl": "",
+    "audioUrl": "",
+    "dynamic_entities": {
+      "option_a": [
+        "horsey",
+        "horse",
+        "horsi"
+      ],
+      "option_b": [
+        "pony",
+        "ponyies"
+      ],
+      "option_c": [
+        "foal ",
+        "foal",
+        "foul",
+        "fall"
+      ]
+    },
+    "isActive": true
+  },
+  {
+    "id": "4",
+    "que": "What is the largest type of sea turtle?",
+    "ans": {
+      "value": "Leatherback",
+      "correct_entity": "option_c"
+    },
+    "options": [
+      "Green Sea Turtle",
+      "Loggerhead",
+      "Leatherback"
+    ],
+    "expl": [
+      "nan"
+    ],
+    "imageUrl": "",
+    "audioUrl": "",
+    "dynamic_entities": {
+      "option_a": [
+        "green sea turtle",
+        "green",
+        "sea",
+        "turtle",
+        "sea turtle",
+        "green sea",
+        "green turtle"
+      ],
+      "option_b": [
+        "loggerhead",
+        "logger",
+        "head"
+      ],
+      "option_c": [
+        "leatherback",
+        "leather",
+        "back"
+      ]
+    },
+    "isActive": true
+  },
+  {
+    "id": "5",
+    "que": "What's the correct term for a baby eagle?",
+    "ans": {
+      "value": "Eaglet",
+      "correct_entity": "option_b"
+    },
+    "options": [
+      "Poult",
+      "Eaglet",
+      "Squab"
+    ],
+    "expl": [
+      "nan"
+    ],
+    "imageUrl": "",
+    "audioUrl": "",
+    "dynamic_entities": {
+      "option_a": [
+        "poult",
+        "poul",
+        "foul",
+        "fault"
+      ],
+      "option_b": [
+        "eaglet",
+        "eagle",
+        "eaglate"
+      ],
+      "option_c": [
+        "squab"
+      ]
+    },
+    "isActive": true
+  },
+  {
+    "id": "6",
+    "que": "Where in the world do tigers live?",
+    "ans": {
+      "value": "Asia",
+      "correct_entity": "option_a"
+    },
+    "options": [
+      "Asia",
+      "South America",
+      "Dundee"
+    ],
+    "expl": [
+      "nan"
+    ],
+    "imageUrl": "",
+    "audioUrl": "",
+    "dynamic_entities": {
+      "option_a": [
+        "asia"
+      ],
+      "option_b": [
+        "south america",
+        "south",
+        "america"
+      ],
+      "option_c": [
+        "dundee",
+        "dundi"
+      ]
+    },
+    "isActive": true
+  },
+  {
+    "id": "7",
+    "que": "How many bones does a cat have?",
+    "ans": {
+      "value": "230",
+      "correct_entity": "option_a"
+    },
+    "options": [
+      "230",
+      "180",
+      "None"
+    ],
+    "expl": [
+      "nan"
+    ],
+    "imageUrl": "",
+    "audioUrl": "",
+    "dynamic_entities": {
+      "option_a": [
+        "230",
+        "two hundred thirty",
+        "two three zero"
+      ],
+      "option_b": [
+        "180",
+        "one hundred eighty",
+        "one eight zero"
+      ],
+      "option_c": [
+        "none",
+        "no bones"
+      ]
+    },
+    "isActive": true
+  },
+  {
+    "id": "8",
+    "que": "Which breed of dog can't bark?",
+    "ans": {
+      "value": "Basenji",
+      "correct_entity": "option_c"
+    },
+    "options": [
+      "Pomeranian",
+      "Siberian Husky",
+      "Basenji"
+    ],
+    "expl": [
+      "nan"
+    ],
+    "imageUrl": "",
+    "audioUrl": "",
+    "dynamic_entities": {
+      "option_a": [
+        "pomeranian",
+        "pomeran",
+        "iranian"
+      ],
+      "option_b": [
+        "siberian husky",
+        "siberian",
+        "husky"
+      ],
+      "option_c": [
+        "basenji"
+      ]
+    },
+    "isActive": true
+  },
+  {
+    "id": "9",
+    "que": "Which is the biggest snake in the world?",
+    "ans": {
+      "value": "Reticulated Python",
+      "correct_entity": "option_b"
+    },
+    "options": [
+      "Corn Snake",
+      "Reticulated Python",
+      "Giraffe Snake"
+    ],
+    "expl": [
+      "nan"
+    ],
+    "imageUrl": "",
+    "audioUrl": "",
+    "dynamic_entities": {
+      "option_a": [
+        "corn snake",
+        "corn",
+        "snake"
+      ],
+      "option_b": [
+        "reticulated python",
+        "reticulated",
+        "python"
+      ],
+      "option_c": [
+        "giraffe snake",
+        "giraffe",
+        "snake"
+      ]
+    },
+    "isActive": true
+  },
+  {
+    "id": "10",
+    "que": "Which of these is the smallest snake in the world?",
+    "ans": {
+      "value": "Barbados Threadsnake",
+      "correct_entity": "option_c"
+    },
+    "options": [
+      "Ribbon Snake",
+      "Black Rat Snake",
+      "Barbados Threadsnake"
+    ],
+    "expl": [
+      "nan"
+    ],
+    "imageUrl": "",
+    "audioUrl": "",
+    "dynamic_entities": {
+      "option_a": [
+        "ribbon snake",
+        "ribbon",
+        "snake"
+      ],
+      "option_b": [
+        "black rat snake",
+        "black",
+        "rat",
+        "snake",
+        "rat snake",
+        "black rat"
+      ],
+      "option_c": [
+        "barbados threadsnake",
+        "barbados",
+        "threadsnake",
+        "threadsnakes"
+      ]
+    },
+    "isActive": true
+  },
+  {
+    "id": "11",
+    "que": "How many teeth does an adult dog have?",
+    "ans": {
+      "value": "42",
+      "correct_entity": "option_a"
+    },
+    "options": [
+      "42",
+      "30",
+      "28"
+    ],
+    "expl": [
+      "nan"
+    ],
+    "imageUrl": "",
+    "audioUrl": "",
+    "dynamic_entities": {
+      "option_a": [
+        "42",
+        "forty two",
+        "four two"
+      ],
+      "option_b": [
+        "30",
+        "thirty"
+      ],
+      "option_c": [
+        "28",
+        "twenty eight"
+      ]
+    },
+    "isActive": true
+  },
+  {
+    "id": "12",
+    "que": "How many days can a snail sleep for?",
+    "ans": {
+      "value": "1000",
+      "correct_entity": "option_a"
+    },
+    "options": [
+      "1000",
+      "540",
+      "260"
+    ],
+    "expl": [
+      "nan"
+    ],
+    "imageUrl": "",
+    "audioUrl": "",
+    "dynamic_entities": {
+      "option_a": [
+        "1000",
+        "one thousand",
+        "one thousands"
+      ],
+      "option_b": [
+        "540",
+        "five fourty",
+        "five hundred and forty",
+        "five forty",
+        "five hundred forty"
+      ],
+      "option_c": [
+        "260",
+        "two sixty",
+        "two hundred and sixty",
+        "two hundred sixty"
+      ]
+    },
+    "isActive": true
+  },
+  {
+    "id": "13",
+    "que": "Which animal never goes to sleep?",
+    "ans": {
+      "value": "Bullfrog",
+      "correct_entity": "option_a"
+    },
+    "options": [
+      "Bullfrog",
+      "Neighbour's Dog",
+      "Horses"
+    ],
+    "expl": [
+      "nan"
+    ],
+    "imageUrl": "",
+    "audioUrl": "",
+    "dynamic_entities": {
+      "option_a": [
+        "bullfrog",
+        "bull",
+        "frog"
+      ],
+      "option_b": [
+        "neighbour's dog",
+        "neighbour's",
+        "dog",
+        "heighbour"
+      ],
+      "option_c": [
+        "horses",
+        "horse"
+      ]
+    },
+    "isActive": true
+  },
+  {
+    "id": "14",
+    "que": "What are a group of fish called?",
+    "ans": {
+      "value": "Shoal",
+      "correct_entity": "option_b"
+    },
+    "options": [
+      "Squad",
+      "Shoal",
+      "Mob"
+    ],
+    "expl": [
+      "nan"
+    ],
+    "imageUrl": "",
+    "audioUrl": "",
+    "dynamic_entities": {
+      "option_a": [
+        "squad"
+      ],
+      "option_b": [
+        "shoal",
+        "shoals",
+        "shawls",
+        "shawl",
+        "shows"
+      ],
+      "option_c": [
+        "mob",
+        "mobs"
+      ]
+    },
+    "isActive": true
+  },
+  {
+    "id": "15",
+    "que": "Where would you find a prawn's heart?",
+    "ans": {
+      "value": "Head",
+      "correct_entity": "option_c"
+    },
+    "options": [
+      "Chest",
+      "Feet",
+      "Head"
+    ],
+    "expl": [
+      "nan"
+    ],
+    "imageUrl": "",
+    "audioUrl": "",
+    "dynamic_entities": {
+      "option_a": [
+        "chest"
+      ],
+      "option_b": [
+        "feet",
+        "feets"
+      ],
+      "option_c": [
+        "head"
+      ]
+    },
+    "isActive": true
+  },
+  {
+    "id": "16",
+    "que": "How many noses does a slug have?",
+    "ans": {
+      "value": "4",
+      "correct_entity": "option_a"
+    },
+    "options": [
+      "4",
+      "12",
+      "2"
+    ],
+    "expl": [
+      "nan"
+    ],
+    "imageUrl": "",
+    "audioUrl": "",
+    "dynamic_entities": {
+      "option_a": [
+        "4",
+        "four"
+      ],
+      "option_b": [
+        "12",
+        "twelve",
+        "one two"
+      ],
+      "option_c": [
+        "2",
+        "two"
+      ]
+    },
+    "isActive": true
+  },
+  {
+    "id": "17",
+    "que": "How many hearts does an octopus have?",
+    "ans": {
+      "value": "3",
+      "correct_entity": "option_b"
+    },
+    "options": [
+      "1",
+      "3",
+      "4"
+    ],
+    "expl": [
+      "nan"
+    ],
+    "imageUrl": "",
+    "audioUrl": "",
+    "dynamic_entities": {
+      "option_a": [
+        "1",
+        "one"
+      ],
+      "option_b": [
+        "3",
+        "three"
+      ],
+      "option_c": [
+        "4",
+        "four"
+      ]
+    },
+    "isActive": true
+  },
+  {
+    "id": "18",
+    "que": "What is the fear of spiders called?",
+    "ans": {
+      "value": "Arachnophobia",
+      "correct_entity": "option_b"
+    },
+    "options": [
+      "Acrophobia",
+      "Arachnophobia",
+      "Autophobia"
+    ],
+    "expl": [
+      "nan"
+    ],
+    "imageUrl": "",
+    "audioUrl": "",
+    "dynamic_entities": {
+      "option_a": [
+        "acrophobia",
+        "acro"
+      ],
+      "option_b": [
+        "arachnophobia",
+        "arachno",
+        "arach"
+      ],
+      "option_c": [
+        "autophobia",
+        "auto"
+      ]
+    },
+    "isActive": true
+  },
+  {
+    "id": "19",
+    "que": "Which fish has the longest lifespan?",
+    "ans": {
+      "value": "Bigmouth Buffalo",
+      "correct_entity": "option_c"
+    },
+    "options": [
+      "Goldfish",
+      "Common Carp",
+      "Bigmouth Buffalo"
+    ],
+    "expl": [
+      "nan"
+    ],
+    "imageUrl": "",
+    "audioUrl": "",
+    "dynamic_entities": {
+      "option_a": [
+        "goldfish",
+        "gold"
+      ],
+      "option_b": [
+        "common carp",
+        "common",
+        "carp"
+      ],
+      "option_c": [
+        "bigmouth buffalo",
+        "bigmouth",
+        "buffalo"
+      ]
+    },
+    "isActive": true
+  },
+  {
+    "id": "20",
+    "que": "Which bird lays the largest egg?",
+    "ans": {
+      "value": "Ostrich",
+      "correct_entity": "option_a"
+    },
+    "options": [
+      "Ostrich",
+      "Penguin",
+      "Bird Of Paradise"
+    ],
+    "expl": [
+      "nan"
+    ],
+    "imageUrl": "",
+    "audioUrl": "",
+    "dynamic_entities": {
+      "option_a": [
+        "ostrich"
+      ],
+      "option_b": [
+        "penguin",
+        "penguins"
+      ],
+      "option_c": [
+        "bird of paradise",
+        "bird",
+        "of",
+        "paradise",
+        "bird paradise"
+      ]
+    },
+    "isActive": true
+  },
+  {
+    "id": "21",
+    "que": "Which sea creature lays the largest eggs?",
+    "ans": {
+      "value": "Whale Shark",
+      "correct_entity": "option_a"
+    },
+    "options": [
+      "Whale Shark",
+      "Dolphin",
+      "Green Swordtail"
+    ],
+    "expl": [
+      "nan"
+    ],
+    "imageUrl": "",
+    "audioUrl": "",
+    "dynamic_entities": {
+      "option_a": [
+        "whale shark",
+        "whale",
+        "shark"
+      ],
+      "option_b": [
+        "dolphin",
+        "dolphins"
+      ],
+      "option_c": [
+        "green swordtail",
+        "green",
+        "swordtail"
+      ]
+    },
+    "isActive": true
+  },
+  {
+    "id": "22",
+    "que": "What part of the body do snakes use to smell?",
+    "ans": {
+      "value": "Tongue",
+      "correct_entity": "option_b"
+    },
+    "options": [
+      "Ears",
+      "Tongue",
+      "Nose"
+    ],
+    "expl": [
+      "nan"
+    ],
+    "imageUrl": "",
+    "audioUrl": "",
+    "dynamic_entities": {
+      "option_a": [
+        "ears",
+        "ear"
+      ],
+      "option_b": [
+        "tongue",
+        "tongues"
+      ],
+      "option_c": [
+        "nose"
+      ]
+    },
+    "isActive": true
+  },
+  {
+    "id": "23",
+    "que": "Which of the following animals do not have a brain?",
+    "ans": {
+      "value": "Starfish",
+      "correct_entity": "option_c"
+    },
+    "options": [
+      "Weasels",
+      "Pigeons",
+      "Starfish"
+    ],
+    "expl": [
+      "nan"
+    ],
+    "imageUrl": "",
+    "audioUrl": "",
+    "dynamic_entities": {
+      "option_a": [
+        "weasels",
+        "weasel",
+        "vessel",
+        "vessels"
+      ],
+      "option_b": [
+        "pigeons",
+        "pigeon"
+      ],
+      "option_c": [
+        "starfish",
+        "star",
+        "fish",
+        "starfishes"
+      ]
+    },
+    "isActive": true
+  },
+  {
+    "id": "24",
+    "que": "What is the most venomous snake in the world?",
+    "ans": {
+      "value": "Inland Taipan",
+      "correct_entity": "option_a"
+    },
+    "options": [
+      "Inland Taipan",
+      "Kingsnakes",
+      "Boas"
+    ],
+    "expl": [
+      "nan"
+    ],
+    "imageUrl": "",
+    "audioUrl": "",
+    "dynamic_entities": {
+      "option_a": [
+        "inland taipan",
+        "inland",
+        "taipan",
+        "pan"
+      ],
+      "option_b": [
+        "kingsnakes",
+        "king",
+        "snakes",
+        "kingsnake"
+      ],
+      "option_c": [
+        "boas",
+        "boss"
+      ]
+    },
+    "isActive": true
+  },
+  {
+    "id": "25",
+    "que": "What is an Addax?",
+    "ans": {
+      "value": "Antelope",
+      "correct_entity": "option_b"
+    },
+    "options": [
+      "A Type of Mouse",
+      "Antelope",
+      "An Insect "
+    ],
+    "expl": [
+      "nan"
+    ],
+    "imageUrl": "",
+    "audioUrl": "",
+    "dynamic_entities": {
+      "option_a": [
+        "a type of mouse",
+        "a",
+        "type",
+        "of",
+        "mouse",
+        "type of mouse"
+      ],
+      "option_b": [
+        "antelope",
+        "antelo"
+      ],
+      "option_c": [
+        "an insect ",
+        "an",
+        "insect",
+        "insects"
+      ]
+    },
+    "isActive": true
+  },
+  {
+    "id": "26",
+    "que": "What does armadillo mean in Spanish?",
+    "ans": {
+      "value": "Little Armoured One",
+      "correct_entity": "option_a"
+    },
+    "options": [
+      "Little Armoured One",
+      "Singing Shell",
+      "Brave Warrior"
+    ],
+    "expl": [
+      "nan"
+    ],
+    "imageUrl": "",
+    "audioUrl": "",
+    "dynamic_entities": {
+      "option_a": [
+        "little armoured one",
+        "little",
+        "armoured",
+        "one",
+        "little armoured",
+        "armoured one"
+      ],
+      "option_b": [
+        "singing shell",
+        "singing",
+        "shell"
+      ],
+      "option_c": [
+        "brave warrior",
+        "brave",
+        "warrior",
+        "warriors",
+        "brave warriors"
+      ]
+    },
+    "isActive": true
+  },
+  {
+    "id": "27",
+    "que": "What's the biggest animal in the world?",
+    "ans": {
+      "value": "Blue Whale",
+      "correct_entity": "option_b"
+    },
+    "options": [
+      "A Giraffe",
+      "Blue Whale",
+      "Etruscan Shrew"
+    ],
+    "expl": [
+      "nan"
+    ],
+    "imageUrl": "",
+    "audioUrl": "",
+    "dynamic_entities": {
+      "option_a": [
+        "a giraffe",
+        "a",
+        "giraffe",
+        "giraffes"
+      ],
+      "option_b": [
+        "blue whale",
+        "blue",
+        "whale",
+        "blue whales"
+      ],
+      "option_c": [
+        "etruscan shrew",
+        "etruscan",
+        "shrew",
+        "screw",
+        "etrusan"
+      ]
+    },
+    "isActive": true
+  },
+  {
+    "id": "28",
+    "que": "What is a male zebra called?",
+    "ans": {
+      "value": "Stallion",
+      "correct_entity": "option_a"
+    },
+    "options": [
+      "Stallion",
+      "Buck",
+      "Stag"
+    ],
+    "expl": [
+      "nan"
+    ],
+    "imageUrl": "",
+    "audioUrl": "",
+    "dynamic_entities": {
+      "option_a": [
+        "stallion",
+        "stalon"
+      ],
+      "option_b": [
+        "buck",
+        "bucks"
+      ],
+      "option_c": [
+        "stag"
+      ]
+    },
+    "isActive": true
+  },
+  {
+    "id": "29",
+    "que": "How many hours a day do lions spend sleeping or resting?",
+    "ans": {
+      "value": "16-20 Hours",
+      "correct_entity": "option_c"
+    },
+    "options": [
+      "10-15 Hours",
+      "1-4 Hours",
+      "16-20 Hours"
+    ],
+    "expl": [
+      "nan"
+    ],
+    "imageUrl": "",
+    "audioUrl": "",
+    "dynamic_entities": {
+      "option_a": [
+        "10-15 hours",
+        "10-15",
+        "hours",
+        "ten to fifteen hours",
+        "ten to fifteen hour"
+      ],
+      "option_b": [
+        "1-4 hours",
+        "1-4",
+        "hours",
+        "one to four hours",
+        "one to four hour",
+        "one four hours"
+      ],
+      "option_c": [
+        "16-20 hours",
+        "16-20",
+        "hours",
+        "sixteen to twenty hours",
+        "sixteen to twenty hour"
+      ]
+    },
+    "isActive": true
+  },
+  {
+    "id": "30",
+    "que": "What are the knobs on the top of giraffes' heads called?",
+    "ans": {
+      "value": "Ossicones",
+      "correct_entity": "option_a"
+    },
+    "options": [
+      "Ossicones",
+      "Spikes",
+      "Antlers"
+    ],
+    "expl": [
+      "nan"
+    ],
+    "imageUrl": "",
+    "audioUrl": "",
+    "dynamic_entities": {
+      "option_a": [
+        "ossicones",
+        "ossicone",
+        "ossi"
+      ],
+      "option_b": [
+        "spikes",
+        "spike"
+      ],
+      "option_c": [
+        "antlers",
+        "anterls"
+      ]
+    },
+    "isActive": true
+  },
+  {
+    "id": "31",
+    "que": "Elephants communicate through low frequency sounds called",
+    "ans": {
+      "value": "Infrasounds",
+      "correct_entity": "option_b"
+    },
+    "options": [
+      "Grumbling",
+      "Infrasounds",
+      "Bumbling"
+    ],
+    "expl": [
+      "nan"
+    ],
+    "imageUrl": "",
+    "audioUrl": "",
+    "dynamic_entities": {
+      "option_a": [
+        "grumbling",
+        "grumble"
+      ],
+      "option_b": [
+        "infrasounds",
+        "infra",
+        "sounds",
+        "infrasound",
+        "sound"
+      ],
+      "option_c": [
+        "bumbling",
+        "bumble"
+      ]
+    },
+    "isActive": true
+  },
+  {
+    "id": "32",
+    "que": "What is a bald eagle's nest called?",
+    "ans": {
+      "value": "An Eyrie",
+      "correct_entity": "option_c"
+    },
+    "options": [
+      "A Drey",
+      "A Vespiary",
+      "An Eyrie"
+    ],
+    "expl": [
+      "nan"
+    ],
+    "imageUrl": "",
+    "audioUrl": "",
+    "dynamic_entities": {
+      "option_a": [
+        "a drey",
+        "a",
+        "drey",
+        "dre"
+      ],
+      "option_b": [
+        "a vespiary",
+        "a",
+        "vespiary",
+        "vespaiary"
+      ],
+      "option_c": [
+        "an eyrie",
+        "an",
+        "eyrie",
+        "eye",
+        "airy",
+        "an airy",
+        "an aries",
+        "an eye"
+      ]
+    },
+    "isActive": true
+  },
+  {
+    "id": "33",
+    "que": "Which of the following animals is not nocturnal ",
+    "ans": {
+      "value": "Sheep",
+      "correct_entity": "option_a"
+    },
+    "options": [
+      "Sheep",
+      "Skunk",
+      "Leopard"
+    ],
+    "expl": [
+      "nan"
+    ],
+    "imageUrl": "",
+    "audioUrl": "",
+    "dynamic_entities": {
+      "option_a": [
+        "sheep",
+        "sheeps"
+      ],
+      "option_b": [
+        "skunk"
+      ],
+      "option_c": [
+        "leopard",
+        "leopards"
+      ]
+    },
+    "isActive": true
+  },
+  {
+    "id": "34",
+    "que": "What is a baby rabbit called?",
+    "ans": {
+      "value": "kitten",
+      "correct_entity": "option_c"
+    },
+    "options": [
+      "Buck",
+      "Hare",
+      "kitten"
+    ],
+    "expl": [
+      "A baby rabbit is called a kit, which is short for kitten - the most commonly used term to describe newborn rabbits."
+    ],
+    "imageUrl": "",
+    "audioUrl": "",
+    "dynamic_entities": {
+      "option_a": [
+        "buck",
+        "bucks"
+      ],
+      "option_b": [
+        "hare"
+      ],
+      "option_c": [
+        "kitten",
+        "kit",
+        "kittens"
+      ]
+    },
+    "isActive": true
+  },
+  {
+    "id": "35",
+    "que": "An ant says, “Danger ahead!” by doing what?",
+    "ans": {
+      "value": "Oozing Chemicals",
+      "correct_entity": "option_c"
+    },
+    "options": [
+      "Squealing",
+      "Rolling on its Back",
+      "Oozing Chemicals"
+    ],
+    "expl": [
+      "nan"
+    ],
+    "imageUrl": "",
+    "audioUrl": "",
+    "dynamic_entities": {
+      "option_a": [
+        "squealing",
+        "squeeling",
+        "swelling"
+      ],
+      "option_b": [
+        "rolling on its back",
+        "rolling",
+        "on",
+        "its",
+        "back",
+        "on its back",
+        "its back",
+        "it's back",
+        "rolling on back"
+      ],
+      "option_c": [
+        "oozing chemicals",
+        "oozing",
+        "chemicals",
+        "chemical",
+        "oozing chemical"
+      ]
+    },
+    "isActive": true
+  },
+  {
+    "id": "36",
+    "que": "Which of the following is not a type of penguin?",
+    "ans": {
+      "value": "Waterland",
+      "correct_entity": "option_a"
+    },
+    "options": [
+      "Waterland",
+      "Emperor",
+      "Macaroni"
+    ],
+    "expl": [
+      "nan"
+    ],
+    "imageUrl": "",
+    "audioUrl": "",
+    "dynamic_entities": {
+      "option_a": [
+        "waterland",
+        "water",
+        "land"
+      ],
+      "option_b": [
+        "emperor"
+      ],
+      "option_c": [
+        "macaroni"
+      ]
+    },
+    "isActive": true
+  },
+  {
+    "id": "37",
+    "que": "How much of tigers' historic range has been lost?",
+    "ans": {
+      "value": "93 Percent",
+      "correct_entity": "option_b"
+    },
+    "options": [
+      "60 Percent",
+      "93 Percent",
+      "25 Percent"
+    ],
+    "expl": [
+      "nan"
+    ],
+    "imageUrl": "",
+    "audioUrl": "",
+    "dynamic_entities": {
+      "option_a": [
+        "60 percent",
+        "60",
+        "percent",
+        "sixty percent",
+        "six zero percent",
+        "sixty",
+        "six zero"
+      ],
+      "option_b": [
+        "93 percent",
+        "93",
+        "percent",
+        "ninety three percent",
+        "ninety three",
+        "nine three percent",
+        "nine three"
+      ],
+      "option_c": [
+        "25 percent",
+        "25",
+        "percent",
+        "twenty five percent",
+        "twenty five",
+        "two five"
+      ]
+    },
+    "isActive": true
+  },
+  {
+    "id": "38",
+    "que": "How long does an elephant pregnancy last?",
+    "ans": {
+      "value": "22 Months",
+      "correct_entity": "option_c"
+    },
+    "options": [
+      "12 Months",
+      "9 Months",
+      "22 Months"
+    ],
+    "expl": [
+      "nan"
+    ],
+    "imageUrl": "",
+    "audioUrl": "",
+    "dynamic_entities": {
+      "option_a": [
+        "12 months",
+        "12",
+        "months",
+        "twelve months",
+        "twelve month"
+      ],
+      "option_b": [
+        "9 months",
+        "9",
+        "months",
+        "nine months",
+        "nine month"
+      ],
+      "option_c": [
+        "22 months",
+        "22",
+        "months",
+        "twenty two months",
+        "twenty two month",
+        "two two months",
+        "twenty two",
+        "two two"
+      ]
+    },
+    "isActive": true
+  },
+  {
+    "id": "39",
+    "que": "Which of the following dog breeds is the smallest?",
+    "ans": {
+      "value": "Chihuahua",
+      "correct_entity": "option_b"
+    },
+    "options": [
+      "Poodle",
+      "Chihuahua",
+      "Pomeranian"
+    ],
+    "expl": [
+      "nan"
+    ],
+    "imageUrl": "",
+    "audioUrl": "",
+    "dynamic_entities": {
+      "option_a": [
+        "poodle",
+        "podle",
+        "pudle"
+      ],
+      "option_b": [
+        "chihuahua",
+        "chichuha"
+      ],
+      "option_c": [
+        "pomeranian"
+      ]
+    },
+    "isActive": true
+  },
+  {
+    "id": "40",
+    "que": "What existing bird has the largest wingspan?",
+    "ans": {
+      "value": "Albatross",
+      "correct_entity": "option_a"
+    },
+    "options": [
+      "Albatross",
+      "Stork",
+      "Swan"
+    ],
+    "expl": [
+      "nan"
+    ],
+    "imageUrl": "",
+    "audioUrl": "",
+    "dynamic_entities": {
+      "option_a": [
+        "albatross"
+      ],
+      "option_b": [
+        "stork"
+      ],
+      "option_c": [
+        "swan",
+        "swans"
+      ]
+    },
+    "isActive": true
+  },
+  {
+    "id": "41",
+    "que": "Which of the following animals sleeps standing up?",
+    "ans": {
+      "value": "Flamingos",
+      "correct_entity": "option_b"
+    },
+    "options": [
+      "Hedgehogs",
+      "Flamingos",
+      "Ravens"
+    ],
+    "expl": [
+      "nan"
+    ],
+    "imageUrl": "",
+    "audioUrl": "",
+    "dynamic_entities": {
+      "option_a": [
+        "hedgehogs",
+        "hedge",
+        "hogs",
+        "hedgehog"
+      ],
+      "option_b": [
+        "flamingos",
+        "flamingo"
+      ],
+      "option_c": [
+        "ravens",
+        "raven"
+      ]
+    },
+    "isActive": true
+  },
+  {
+    "id": "42",
+    "que": "What is the fastest water animal?",
+    "ans": {
+      "value": "Sailfish",
+      "correct_entity": "option_c"
+    },
+    "options": [
+      "Flying fish",
+      "Porpoise",
+      "Sailfish"
+    ],
+    "expl": [
+      "nan"
+    ],
+    "imageUrl": "",
+    "audioUrl": "",
+    "dynamic_entities": {
+      "option_a": [
+        "flying fish",
+        "flying",
+        "fish"
+      ],
+      "option_b": [
+        "porpoise",
+        "porpoises",
+        "purpose",
+        "purposes"
+      ],
+      "option_c": [
+        "sailfish",
+        "sail",
+        "fish",
+        "sell fish",
+        "sale fish"
+      ]
+    },
+    "isActive": true
+  },
+  {
+    "id": "43",
+    "que": "What are female elephants called?",
+    "ans": {
+      "value": "Cows",
+      "correct_entity": "option_a"
+    },
+    "options": [
+      "Cows",
+      "Mares",
+      "Sows"
+    ],
+    "expl": [
+      "nan"
+    ],
+    "imageUrl": "",
+    "audioUrl": "",
+    "dynamic_entities": {
+      "option_a": [
+        "cows",
+        "cow"
+      ],
+      "option_b": [
+        "mares",
+        "mare"
+      ],
+      "option_c": [
+        "sows",
+        "sow"
+      ]
+    },
+    "isActive": true
+  },
+  {
+    "id": "44",
+    "que": "What is the biggest animal that has ever lived?",
+    "ans": {
+      "value": "Blue Whale",
+      "correct_entity": "option_b"
+    },
+    "options": [
+      "Spinosaurus",
+      "Blue Whale",
+      "African Elephant"
+    ],
+    "expl": [
+      "nan"
+    ],
+    "imageUrl": "",
+    "audioUrl": "",
+    "dynamic_entities": {
+      "option_a": [
+        "spinosaurus",
+        "spino",
+        "saurus",
+        "spine"
+      ],
+      "option_b": [
+        "blue whale",
+        "blue",
+        "whale",
+        "blue whales"
+      ],
+      "option_c": [
+        "african elephant",
+        "african",
+        "elephant",
+        "africans elephants"
+      ]
+    },
+    "isActive": true
+  },
+  {
+    "id": "45",
+    "que": "A newborn kangaroo is about the size of a ...",
+    "ans": {
+      "value": "Lima Bean",
+      "correct_entity": "option_a"
+    },
+    "options": [
+      "Lima Bean",
+      "Watermelon",
+      "Plum"
+    ],
+    "expl": [
+      "nan"
+    ],
+    "imageUrl": "",
+    "audioUrl": "",
+    "dynamic_entities": {
+      "option_a": [
+        "lima bean",
+        "lima",
+        "bean"
+      ],
+      "option_b": [
+        "watermelon",
+        "watermelons"
+      ],
+      "option_c": [
+        "plum",
+        "plums"
+      ]
+    },
+    "isActive": true
+  },
+  {
+    "id": "46",
+    "que": "What animal has the highest blood pressure?",
+    "ans": {
+      "value": "Giraffe",
+      "correct_entity": "option_c"
+    },
+    "options": [
+      "Flea",
+      "Elephant",
+      "Giraffe"
+    ],
+    "expl": [
+      "nan"
+    ],
+    "imageUrl": "",
+    "audioUrl": "",
+    "dynamic_entities": {
+      "option_a": [
+        "flea"
+      ],
+      "option_b": [
+        "elephant",
+        "elephants"
+      ],
+      "option_c": [
+        "giraffe",
+        "giraffes"
+      ]
+    },
+    "isActive": true
+  },
+  {
+    "id": "47",
+    "que": "What color is spider blood?",
+    "ans": {
+      "value": "Blue",
+      "correct_entity": "option_c"
+    },
+    "options": [
+      "Black",
+      "Red",
+      "Blue"
+    ],
+    "expl": [
+      "nan"
+    ],
+    "imageUrl": "",
+    "audioUrl": "",
+    "dynamic_entities": {
+      "option_a": [
+        "black"
+      ],
+      "option_b": [
+        "red"
+      ],
+      "option_c": [
+        "blue"
+      ]
+    },
+    "isActive": true
+  },
+  {
+    "id": "48",
+    "que": "What is a group of alligators called?",
+    "ans": {
+      "value": "Congregation",
+      "correct_entity": "option_b"
+    },
+    "options": [
+      "Bask ",
+      "Congregation",
+      "School"
+    ],
+    "expl": [
+      "nan"
+    ],
+    "imageUrl": "",
+    "audioUrl": "",
+    "dynamic_entities": {
+      "option_a": [
+        "bask ",
+        "bask"
+      ],
+      "option_b": [
+        "congregation"
+      ],
+      "option_c": [
+        "school",
+        "schools"
+      ]
+    },
+    "isActive": true
+  },
+  {
+    "id": "49",
+    "que": "Which electrifying metal is used in an octopus’ blood?",
+    "ans": {
+      "value": "Copper",
+      "correct_entity": "option_a"
+    },
+    "options": [
+      "Copper",
+      "Iron",
+      "Silver"
+    ],
+    "expl": [
+      "nan"
+    ],
+    "imageUrl": "",
+    "audioUrl": "",
+    "dynamic_entities": {
+      "option_a": [
+        "copper"
+      ],
+      "option_b": [
+        "iron"
+      ],
+      "option_c": [
+        "silver"
+      ]
+    },
+    "isActive": true
+  },
+  {
+    "id": "50",
+    "que": "Why are sloths so slow?",
+    "ans": {
+      "value": "Slow Metabolism",
+      "correct_entity": "option_b"
+    },
+    "options": [
+      "Laziness",
+      "Slow Metabolism",
+      "Defense Habit"
+    ],
+    "expl": [
+      "nan"
+    ],
+    "imageUrl": "",
+    "audioUrl": "",
+    "dynamic_entities": {
+      "option_a": [
+        "laziness",
+        "lazy"
+      ],
+      "option_b": [
+        "slow metabolism",
+        "slow",
+        "metabolism"
+      ],
+      "option_c": [
+        "defense habit",
+        "defense",
+        "habit",
+        "defence",
+        "habits"
+      ]
+    },
+    "isActive": true
+  },
+  {
+    "id": "51",
+    "que": "What is the largest lizard in the world? ",
+    "ans": {
+      "value": "Komodo Dragon",
+      "correct_entity": "option_a"
+    },
+    "options": [
+      "Komodo Dragon",
+      "Asian Water Monitor",
+      "Crocodile Monitor"
+    ],
+    "expl": [
+      "nan"
+    ],
+    "imageUrl": "",
+    "audioUrl": "",
+    "dynamic_entities": {
+      "option_a": [
+        "komodo dragon",
+        "komodo",
+        "dragon",
+        "comodo"
+      ],
+      "option_b": [
+        "asian water monitor",
+        "asian",
+        "water",
+        "monitor",
+        "water monitor",
+        "asian water"
+      ],
+      "option_c": [
+        "crocodile monitor",
+        "crocodile",
+        "monitor",
+        "crocodiles",
+        "monitors",
+        "crocodile monitors",
+        "crocodiles monitor"
+      ]
+    },
+    "isActive": true
+  },
+  {
+    "id": "52",
+    "que": "Which is the smallest bird?",
+    "ans": {
+      "value": "Bee Humming Bird",
+      "correct_entity": "option_c"
+    },
+    "options": [
+      "Goldcrest",
+      "Robin ",
+      "Bee Humming Bird"
+    ],
+    "expl": [
+      "nan"
+    ],
+    "imageUrl": "",
+    "audioUrl": "",
+    "dynamic_entities": {
+      "option_a": [
+        "goldcrest",
+        "gold",
+        "crest"
+      ],
+      "option_b": [
+        "robin ",
+        "robin"
+      ],
+      "option_c": [
+        "bee humming bird",
+        "bee",
+        "humming",
+        "bird",
+        "humming bird",
+        "bee humming"
+      ]
+    },
+    "isActive": true
+  },
+  {
+    "id": "53",
+    "que": "How do fish drown in water?",
+    "ans": {
+      "value": "Not enough oxygen",
+      "correct_entity": "option_c"
+    },
+    "options": [
+      "If it’s too fresh",
+      "If it’s too salty",
+      "Not enough oxygen"
+    ],
+    "expl": [
+      "nan"
+    ],
+    "imageUrl": "",
+    "audioUrl": "",
+    "dynamic_entities": {
+      "option_a": [
+        "if it’s too fresh",
+        "if",
+        "it’s",
+        "too",
+        "fresh",
+        "its too fresh",
+        "it's too fresh",
+        "too fresh",
+        "if its too fresh"
+      ],
+      "option_b": [
+        "if it’s too salty",
+        "if",
+        "it’s",
+        "too",
+        "salty",
+        "too salty",
+        "its too salty",
+        "it's too salty"
+      ],
+      "option_c": [
+        "not enough oxygen",
+        "not",
+        "enough",
+        "oxygen",
+        "enough oxygen",
+        "not enough"
+      ]
+    },
+    "isActive": true
+  },
+  {
+    "id": "54",
+    "que": "Mus musculus is the Latin name for what common animal?",
+    "ans": {
+      "value": "House Mouse",
+      "correct_entity": "option_b"
+    },
+    "options": [
+      "Elephant",
+      "House Mouse",
+      "Leopard"
+    ],
+    "expl": [
+      "nan"
+    ],
+    "imageUrl": "",
+    "audioUrl": "",
+    "dynamic_entities": {
+      "option_a": [
+        "elephant",
+        "elephants"
+      ],
+      "option_b": [
+        "house mouse",
+        "house",
+        "mouse"
+      ],
+      "option_c": [
+        "leopard",
+        "leopards"
+      ]
+    },
+    "isActive": true
+  },
+  {
+    "id": "55",
+    "que": "What kind of animal is a doe? ",
+    "ans": {
+      "value": "Deer",
+      "correct_entity": "option_c"
+    },
+    "options": [
+      "Cow",
+      "Rabbit",
+      "Deer"
+    ],
+    "expl": [
+      "nan"
+    ],
+    "imageUrl": "",
+    "audioUrl": "",
+    "dynamic_entities": {
+      "option_a": [
+        "cow",
+        "cows"
+      ],
+      "option_b": [
+        "rabbit",
+        "rabbits"
+      ],
+      "option_c": [
+        "deer",
+        "deers",
+        "dear"
+      ]
+    },
+    "isActive": true
+  },
+  {
+    "id": "56",
+    "que": "On what continent would you find the only giraffes in the wild?",
+    "ans": {
+      "value": "Africa",
+      "correct_entity": "option_a"
+    },
+    "options": [
+      "Africa",
+      "Asia",
+      "Europe"
+    ],
+    "expl": [
+      "nan"
+    ],
+    "imageUrl": "",
+    "audioUrl": "",
+    "dynamic_entities": {
+      "option_a": [
+        "africa"
+      ],
+      "option_b": [
+        "asia"
+      ],
+      "option_c": [
+        "europe"
+      ]
+    },
+    "isActive": true
+  },
+  {
+    "id": "57",
+    "que": "What animal has breeds including Jersey, Texas Longhorn and Belgian Blue? ",
+    "ans": {
+      "value": "Cow",
+      "correct_entity": "option_c"
+    },
+    "options": [
+      "Sheep",
+      "Camel",
+      "Cow"
+    ],
+    "expl": [
+      "nan"
+    ],
+    "imageUrl": "",
+    "audioUrl": "",
+    "dynamic_entities": {
+      "option_a": [
+        "sheep"
+      ],
+      "option_b": [
+        "camel",
+        "camels"
+      ],
+      "option_c": [
+        "cow",
+        "cows"
+      ]
+    },
+    "isActive": true
+  },
+  {
+    "id": "58",
+    "que": "What is the only animal to sleep on its back?",
+    "ans": {
+      "value": "Humans",
+      "correct_entity": "option_a"
+    },
+    "options": [
+      "Humans",
+      "Monkeys",
+      "Whales"
+    ],
+    "expl": [
+      "nan"
+    ],
+    "imageUrl": "",
+    "audioUrl": "",
+    "dynamic_entities": {
+      "option_a": [
+        "humans",
+        "human"
+      ],
+      "option_b": [
+        "monkeys",
+        "monkey"
+      ],
+      "option_c": [
+        "whales",
+        "whale"
+      ]
+    },
+    "isActive": true
+  },
+  {
+    "id": "59",
+    "que": "With breeds that include Corriedale and Merino, what is the name of this animal? ",
+    "ans": {
+      "value": "Sheep",
+      "correct_entity": "option_b"
+    },
+    "options": [
+      "Cows",
+      "Sheep",
+      "Goat"
+    ],
+    "expl": [
+      "nan"
+    ],
+    "imageUrl": "",
+    "audioUrl": "",
+    "dynamic_entities": {
+      "option_a": [
+        "cows",
+        "cow"
+      ],
+      "option_b": [
+        "sheep"
+      ],
+      "option_c": [
+        "goat",
+        "goats"
+      ]
+    },
+    "isActive": true
+  },
+  {
+    "id": "60",
+    "que": "What flightless bird is the emblem of New Zealand? ",
+    "ans": {
+      "value": "Kiwi",
+      "correct_entity": "option_c"
+    },
+    "options": [
+      "Penguins",
+      "Ostrich",
+      "Kiwi"
+    ],
+    "expl": [
+      "nan"
+    ],
+    "imageUrl": "",
+    "audioUrl": "",
+    "dynamic_entities": {
+      "option_a": [
+        "penguins",
+        "penguin"
+      ],
+      "option_b": [
+        "ostrich",
+        "ostriches"
+      ],
+      "option_c": [
+        "kiwi",
+        "kiwis"
+      ]
+    },
+    "isActive": true
+  },
+  {
+    "id": "61",
+    "que": "What is the collective name for a group of owls? ",
+    "ans": {
+      "value": "Parliament",
+      "correct_entity": "option_b"
+    },
+    "options": [
+      "Bask ",
+      "Parliament",
+      "Herd"
+    ],
+    "expl": [
+      "nan"
+    ],
+    "imageUrl": "",
+    "audioUrl": "",
+    "dynamic_entities": {
+      "option_a": [
+        "bask ",
+        "bask"
+      ],
+      "option_b": [
+        "parliament"
+      ],
+      "option_c": [
+        "herd",
+        "herds"
+      ]
+    },
+    "isActive": true
+  },
+  {
+    "id": "62",
+    "que": "What bear has a bite that's said to be strong enough to break a bowling ball? ",
+    "ans": {
+      "value": "Grizzly",
+      "correct_entity": "option_a"
+    },
+    "options": [
+      "Grizzly",
+      "Polar",
+      "Black"
+    ],
+    "expl": [
+      "nan"
+    ],
+    "imageUrl": "",
+    "audioUrl": "",
+    "dynamic_entities": {
+      "option_a": [
+        "grizzly",
+        "grizzy",
+        "grizly"
+      ],
+      "option_b": [
+        "polar"
+      ],
+      "option_c": [
+        "black"
+      ]
+    },
+    "isActive": true
+  },
+  {
+    "id": "63",
+    "que": "What animal is the closest living relative to the T-Rex? ",
+    "ans": {
+      "value": "Chicken",
+      "correct_entity": "option_a"
+    },
+    "options": [
+      "Chicken",
+      "Komodo Dragon",
+      "Elephant"
+    ],
+    "expl": [
+      "nan"
+    ],
+    "imageUrl": "",
+    "audioUrl": "",
+    "dynamic_entities": {
+      "option_a": [
+        "chicken",
+        "chickens"
+      ],
+      "option_b": [
+        "komodo dragon",
+        "komodo",
+        "dragon",
+        "comodo"
+      ],
+      "option_c": [
+        "elephant",
+        "elephants"
+      ]
+    },
+    "isActive": true
+  },
+  {
+    "id": "64",
+    "que": "Which animal hold hands with their friends to avoid drifting apart while sleeping? ",
+    "ans": {
+      "value": "Sea Otters",
+      "correct_entity": "option_c"
+    },
+    "options": [
+      "Turtles",
+      "Penguins",
+      "Sea Otters"
+    ],
+    "expl": [
+      "nan"
+    ],
+    "imageUrl": "",
+    "audioUrl": "",
+    "dynamic_entities": {
+      "option_a": [
+        "turtles",
+        "turtle"
+      ],
+      "option_b": [
+        "penguins",
+        "penguin"
+      ],
+      "option_c": [
+        "sea otters",
+        "sea",
+        "otters",
+        "otter",
+        "see otters",
+        "see otter",
+        "c. otter"
+      ]
+    },
+    "isActive": true
+  },
+  {
+    "id": "65",
+    "que": "Which country do French Poodles come from? ",
+    "ans": {
+      "value": "Germany",
+      "correct_entity": "option_b"
+    },
+    "options": [
+      "France",
+      "Germany",
+      "America"
+    ],
+    "expl": [
+      "nan"
+    ],
+    "imageUrl": "",
+    "audioUrl": "",
+    "dynamic_entities": {
+      "option_a": [
+        "france"
+      ],
+      "option_b": [
+        "germany",
+        "german"
+      ],
+      "option_c": [
+        "america"
+      ]
+    },
+    "isActive": true
+  },
+  {
+    "id": "66",
+    "que": "Famous for being cuddly, what animal is best seen in Chengdu China?",
+    "ans": {
+      "value": "Giant Panda",
+      "correct_entity": "option_a"
+    },
+    "options": [
+      "Giant Panda",
+      "Pugs",
+      "Chow Chow"
+    ],
+    "expl": [
+      "nan"
+    ],
+    "imageUrl": "",
+    "audioUrl": "",
+    "dynamic_entities": {
+      "option_a": [
+        "giant panda",
+        "giant",
+        "panda",
+        "giant pandas"
+      ],
+      "option_b": [
+        "pugs",
+        "pug"
+      ],
+      "option_c": [
+        "chow chow",
+        "chow"
+      ]
+    },
+    "isActive": true
+  },
+  {
+    "id": "67",
+    "que": "Which animal is protected by law in Rome?",
+    "ans": {
+      "value": "Cat",
+      "correct_entity": "option_b"
+    },
+    "options": [
+      "Dogs",
+      "Cat",
+      "Deer"
+    ],
+    "expl": [
+      "nan"
+    ],
+    "imageUrl": "",
+    "audioUrl": "",
+    "dynamic_entities": {
+      "option_a": [
+        "dogs",
+        "dog"
+      ],
+      "option_b": [
+        "cat",
+        "cats"
+      ],
+      "option_c": [
+        "deer",
+        "deers"
+      ]
+    },
+    "isActive": true
+  },
+  {
+    "id": "68",
+    "que": "What is a rhino’s horn made out of?",
+    "ans": {
+      "value": "Hair",
+      "correct_entity": "option_b"
+    },
+    "options": [
+      "Keratin",
+      "Hair",
+      "Bone"
+    ],
+    "expl": [
+      "nan"
+    ],
+    "imageUrl": "",
+    "audioUrl": "",
+    "dynamic_entities": {
+      "option_a": [
+        "keratin",
+        "keratine"
+      ],
+      "option_b": [
+        "hair",
+        "hairs"
+      ],
+      "option_c": [
+        "bone",
+        "bones"
+      ]
+    },
+    "isActive": true
+  },
+  {
+    "id": "69",
+    "que": "What is the scientific name given to apes?",
+    "ans": {
+      "value": "Hominoidea",
+      "correct_entity": "option_a"
+    },
+    "options": [
+      "Hominoidea",
+      "Simiiformes",
+      "Sapiens"
+    ],
+    "expl": [
+      "nan"
+    ],
+    "imageUrl": "",
+    "audioUrl": "",
+    "dynamic_entities": {
+      "option_a": [
+        "hominoidea",
+        "homino"
+      ],
+      "option_b": [
+        "simiiformes",
+        "simi",
+        "simiforme"
+      ],
+      "option_c": [
+        "sapiens"
+      ]
+    },
+    "isActive": true
+  },
+  {
+    "id": "70",
+    "que": "What is the only mammal that can fly?",
+    "ans": {
+      "value": "Bat",
+      "correct_entity": "option_c"
+    },
+    "options": [
+      "Albatross",
+      "Swan",
+      "Bat"
+    ],
+    "expl": [
+      "nan"
+    ],
+    "imageUrl": "",
+    "audioUrl": "",
+    "dynamic_entities": {
+      "option_a": [
+        "albatross"
+      ],
+      "option_b": [
+        "swan"
+      ],
+      "option_c": [
+        "bat",
+        "bats"
+      ]
+    },
+    "isActive": true
+  },
+  {
+    "id": "71",
+    "que": "What is the name of the common breed of cat that has no hair?",
+    "ans": {
+      "value": "Sphynx",
+      "correct_entity": "option_c"
+    },
+    "options": [
+      "Perisan",
+      "Siamese",
+      "Sphynx"
+    ],
+    "expl": [
+      "nan"
+    ],
+    "imageUrl": "",
+    "audioUrl": "",
+    "dynamic_entities": {
+      "option_a": [
+        "perisan"
+      ],
+      "option_b": [
+        "siamese"
+      ],
+      "option_c": [
+        "sphynx",
+        "spynx",
+        "spy"
+      ]
+    },
+    "isActive": true
+  },
+  {
+    "id": "72",
+    "que": "In which island nation would you come across the Lemur?",
+    "ans": {
+      "value": "Madagascar",
+      "correct_entity": "option_b"
+    },
+    "options": [
+      "Bahamas",
+      "Madagascar",
+      "Bahrain"
+    ],
+    "expl": [
+      "nan"
+    ],
+    "imageUrl": "",
+    "audioUrl": "",
+    "dynamic_entities": {
+      "option_a": [
+        "bahamas"
+      ],
+      "option_b": [
+        "madagascar"
+      ],
+      "option_c": [
+        "bahrain"
+      ]
+    },
+    "isActive": true
+  },
+  {
+    "id": "73",
+    "que": "How long can a snail sleep for?",
+    "ans": {
+      "value": "3 Years",
+      "correct_entity": "option_a"
+    },
+    "options": [
+      "3 Years",
+      "10 Days",
+      "52 Hours"
+    ],
+    "expl": [
+      "nan"
+    ],
+    "imageUrl": "",
+    "audioUrl": "",
+    "dynamic_entities": {
+      "option_a": [
+        "3 years",
+        "3",
+        "years",
+        "three years",
+        "three year"
+      ],
+      "option_b": [
+        "10 days",
+        "10",
+        "days",
+        "ten days",
+        "ten day",
+        "one zero days",
+        "one zero day"
+      ],
+      "option_c": [
+        "52 hours",
+        "52",
+        "hours",
+        "fifty two hours",
+        "fifty two hour",
+        "five two hours",
+        "five two hour"
+      ]
+    },
+    "isActive": true
+  },
+  {
+    "id": "74",
+    "que": "What is the largest member of the cat family (not an interbred species)?",
+    "ans": {
+      "value": "Tiger",
+      "correct_entity": "option_b"
+    },
+    "options": [
+      "Cheetah",
+      "Tiger",
+      "Cougar"
+    ],
+    "expl": [
+      "nan"
+    ],
+    "imageUrl": "",
+    "audioUrl": "",
+    "dynamic_entities": {
+      "option_a": [
+        "cheetah",
+        "cheetahs"
+      ],
+      "option_b": [
+        "tiger",
+        "tigers"
+      ],
+      "option_c": [
+        "cougar"
+      ]
+    },
+    "isActive": true
+  },
+  {
+    "id": "75",
+    "que": "There is only one species of warm-blooded fish on earth – what is its name?",
+    "ans": {
+      "value": "Opah",
+      "correct_entity": "option_c"
+    },
+    "options": [
+      "Goldfish",
+      "Siamese Fighting Fish",
+      "Opah"
+    ],
+    "expl": [
+      "nan"
+    ],
+    "imageUrl": "",
+    "audioUrl": "",
+    "dynamic_entities": {
+      "option_a": [
+        "goldfish",
+        "gold",
+        "fish"
+      ],
+      "option_b": [
+        "siamese fighting fish",
+        "siamese",
+        "fighting",
+        "fish",
+        "fighting fish",
+        "siamese fighting"
+      ],
+      "option_c": [
+        "opah",
+        "opa"
+      ]
+    },
+    "isActive": true
+  },
+  {
+    "id": "76",
+    "que": "What type of animal is a mandrill?",
+    "ans": {
+      "value": "Monkey",
+      "correct_entity": "option_a"
+    },
+    "options": [
+      "Monkey",
+      "Elephant",
+      "Lion"
+    ],
+    "expl": [
+      "nan"
+    ],
+    "imageUrl": "",
+    "audioUrl": "",
+    "dynamic_entities": {
+      "option_a": [
+        "monkey",
+        "monkeys"
+      ],
+      "option_b": [
+        "elephant",
+        "elephants"
+      ],
+      "option_c": [
+        "lion",
+        "lions"
+      ]
+    },
+    "isActive": true
+  },
+  {
+    "id": "77",
+    "que": "With a maximum speed of over 240 mph, what is the fastest bird?",
+    "ans": {
+      "value": "Peregrine Falcon",
+      "correct_entity": "option_b"
+    },
+    "options": [
+      "Golden Eagle",
+      "Peregrine Falcon",
+      "Spur Winged Goose"
+    ],
+    "expl": [
+      "nan"
+    ],
+    "imageUrl": "",
+    "audioUrl": "",
+    "dynamic_entities": {
+      "option_a": [
+        "golden eagle",
+        "golden",
+        "eagle",
+        "golden eagles"
+      ],
+      "option_b": [
+        "peregrine falcon",
+        "peregrine",
+        "falcon",
+        "pirigrine"
+      ],
+      "option_c": [
+        "spur winged goose",
+        "spur",
+        "winged",
+        "goose",
+        "winged goose",
+        "spur winged"
+      ]
+    },
+    "isActive": true
+  },
+  {
+    "id": "78",
+    "que": "What bird beats its wings between 60 and 80 times per second?",
+    "ans": {
+      "value": "Humming Bird",
+      "correct_entity": "option_a"
+    },
+    "options": [
+      "Humming Bird",
+      "Peregrine Falcon",
+      "Ravens"
+    ],
+    "expl": [
+      "nan"
+    ],
+    "imageUrl": "",
+    "audioUrl": "",
+    "dynamic_entities": {
+      "option_a": [
+        "humming bird",
+        "humming",
+        "bird",
+        "humming birds"
+      ],
+      "option_b": [
+        "peregrine falcon",
+        "peregrine",
+        "falcon",
+        "pirigrine"
+      ],
+      "option_c": [
+        "ravens",
+        "raven"
+      ]
+    },
+    "isActive": true
+  },
+  {
+    "id": "79",
+    "que": "How many wings does a mosquito have?",
+    "ans": {
+      "value": "2",
+      "correct_entity": "option_c"
+    },
+    "options": [
+      "4",
+      "5",
+      "2"
+    ],
+    "expl": [
+      "nan"
+    ],
+    "imageUrl": "",
+    "audioUrl": "",
+    "dynamic_entities": {
+      "option_a": [
+        "4",
+        "four"
+      ],
+      "option_b": [
+        "5",
+        "five"
+      ],
+      "option_c": [
+        "2",
+        "two"
+      ]
+    },
+    "isActive": true
+  },
+  {
+    "id": "80",
+    "que": "Where would you find a polar bear?",
+    "ans": {
+      "value": "Arctic",
+      "correct_entity": "option_a"
+    },
+    "options": [
+      "Arctic",
+      "Antartica",
+      "Alaska"
+    ],
+    "expl": [
+      "nan"
+    ],
+    "imageUrl": "",
+    "audioUrl": "",
+    "dynamic_entities": {
+      "option_a": [
+        "arctic"
+      ],
+      "option_b": [
+        "antartica"
+      ],
+      "option_c": [
+        "alaska"
+      ]
+    },
+    "isActive": true
+  }
+]

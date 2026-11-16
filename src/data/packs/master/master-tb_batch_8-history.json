@@ -1,0 +1,1408 @@
+{
+  "TEXT_QUESTIONS": [
+    {
+      "id": "history_B8_1",
+      "que": "Which U.S. president is featured on the penny coin?",
+      "ans": {
+        "value": "Abraham Lincoln",
+        "correct_entity": "option_a"
+      },
+      "options": [
+        "Abraham Lincoln",
+        "George Washington",
+        "Thomas Jefferson"
+      ],
+      "expl": [
+        "Abraham Lincoln has been featured on the U.S. one-cent coin, known as the penny, since 1909. The design was introduced to mark the 100th anniversary of his birth. Lincoln also appears on the five-dollar bill and on Mount Rushmore."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "Abraham Lincoln",
+          "lincoln",
+          "abe lincoln",
+          "abraham"
+        ],
+        "option_b": [
+          "George Washington",
+          "washington"
+        ],
+        "option_c": [
+          "Thomas Jefferson",
+          "jefferson"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": ""
+    },
+    {
+      "id": "history_B8_2",
+      "que": "Who was the Egyptian queen who famously aligned with Julius Caesar and Mark Antony?",
+      "ans": {
+        "value": "Cleopatra",
+        "correct_entity": "option_b"
+      },
+      "options": [
+        "Nefertiti",
+        "Cleopatra",
+        "Hatshepsut"
+      ],
+      "expl": [
+        "Cleopatra VII was the last active ruler of the Ptolemaic Kingdom of Egypt. She formed powerful alliances with Roman leaders Julius Caesar and later Mark Antony, and her story has been immortalized in literature and film."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "Nefertiti",
+          "nefertd"
+        ],
+        "option_b": [
+          "Cleopatra",
+          "cleo",
+          "kleopatra"
+        ],
+        "option_c": [
+          "Hatshepsut"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": ""
+    },
+    {
+      "id": "history_B8_3",
+      "que": "On what day do Americans celebrate Independence Day?",
+      "ans": {
+        "value": "July 4th",
+        "correct_entity": "option_a"
+      },
+      "options": [
+        "July 4th",
+        "June 14th",
+        "May 5th"
+      ],
+      "expl": [
+        "Americans celebrate Independence Day on July 4th every year. It marks the day in 1776 when the Declaration of Independence was adopted, declaring freedom from Great Britain. Families typically celebrate with cookouts, parades, and fireworks."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "July 4th",
+          "july fourth",
+          "fourth of july",
+          "4th of july",
+          "independence day",
+          "american independence day",
+          "fourth July"
+        ],
+        "option_b": [
+          "June 14th",
+          "june fourteenth",
+          "fourteenth of june",
+          "flag day",
+          "June fourteen",
+          "fourteen june",
+          "fourteenth june"
+        ],
+        "option_c": [
+          "May 5th",
+          "may fifth",
+          "fifth of may",
+          "fifth may"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": ""
+    },
+    {
+      "id": "history_B8_4",
+      "que": "Who was the leader of the Cuban Revolution?",
+      "ans": {
+        "value": "Fidel Castro",
+        "correct_entity": "option_b"
+      },
+      "options": [
+        "Che Guevara",
+        "Fidel Castro",
+        "Raul Castro"
+      ],
+      "expl": [
+        "Fidel Castro led the Cuban Revolution that overthrew the Batista government in 1959. He then ruled Cuba as Prime Minister and later President for nearly five decades, becoming one of the world's longest-serving heads of state."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "Che Guevara",
+          "che",
+          "guevara",
+          "ernesto guevara",
+          "che gvera",
+          "j. k. varaa"
+        ],
+        "option_b": [
+          "Fidel Castro",
+          "castro",
+          "fidel",
+          "fidel castoro",
+          "fidel kastro",
+          "fidel castrooo",
+          "castro fidel"
+        ],
+        "option_c": [
+          "Raul Castro",
+          "raul",
+          "castro raul"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": ""
+    },
+    {
+      "id": "history_B8_5",
+      "que": "Which country was formerly known as Persia?",
+      "ans": {
+        "value": "Iran",
+        "correct_entity": "option_b"
+      },
+      "options": [
+        "Iraq",
+        "Iran",
+        "Turkey"
+      ],
+      "expl": [
+        "Iran was formerly known as Persia. The country officially changed its name from Persia to Iran in 1935 at the request of its then-ruler Reza Shah, who wanted to reflect the Aryan heritage of the Iranian people."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "Iraq",
+          "iraqi"
+        ],
+        "option_b": [
+          "Iran",
+          "iranian",
+          "irann"
+        ],
+        "option_c": [
+          "Turkey",
+          "turkish",
+          "turkiye"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": ""
+    },
+    {
+      "id": "history_B8_6",
+      "que": "Which famous American document was signed on July 4, 1776?",
+      "ans": {
+        "value": "The Declaration of Independence",
+        "correct_entity": "option_b"
+      },
+      "options": [
+        "The U.S. Constitution",
+        "The Declaration of Independence",
+        "The Emancipation Proclamation"
+      ],
+      "expl": [
+        "The Declaration of Independence was signed on July 4, 1776, announcing that the thirteen American colonies were free from British rule. It was mainly written by Thomas Jefferson. Americans celebrate this important day every year as Independence Day with parades and fireworks."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "The U.S. Constitution",
+          "the us constitution",
+          "us constitution",
+          "constitution",
+          "united states constitution",
+          "american constitution",
+          "the u. s. constitution",
+          "u. s. constitution"
+        ],
+        "option_b": [
+          "The Declaration of Independence",
+          "declaration of independence",
+          "declaration",
+          "independence",
+          "the declaration"
+        ],
+        "option_c": [
+          "The Emancipation Proclamation",
+          "emancipation proclamation",
+          "emancipation"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": ""
+    },
+    {
+      "id": "history_B8_7",
+      "que": "Which city was the capital of the Byzantine Empire?",
+      "ans": {
+        "value": "Constantinople",
+        "correct_entity": "option_b"
+      },
+      "options": [
+        "Athens",
+        "Constantinople",
+        "Alexandria"
+      ],
+      "expl": [
+        "Constantinople, modern-day Istanbul in Turkey, served as the capital of the Byzantine Empire for over a thousand years. Founded by Emperor Constantine I in 330 AD, the city fell to the Ottoman Turks in 1453."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "Athens",
+          "greek",
+          "athina",
+          "athens greece"
+        ],
+        "option_b": [
+          "Constantinople",
+          "istanbul",
+          "constantinopal",
+          "konstantinople",
+          "byzantium"
+        ],
+        "option_c": [
+          "Alexandria",
+          "egypt",
+          "alexandria egypt"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": ""
+    },
+    {
+      "id": "history_B8_8",
+      "que": "Who assassinated Archduke Franz Ferdinand, triggering World War I?",
+      "ans": {
+        "value": "Gavrilo Princip",
+        "correct_entity": "option_a"
+      },
+      "options": [
+        "Gavrilo Princip",
+        "Leon Czolgosz",
+        "Mehmed Talaat"
+      ],
+      "expl": [
+        "Gavrilo Princip, a Bosnian Serb nationalist, assassinated Archduke Franz Ferdinand of Austria in Sarajevo on June 28, 1914. This event set off a chain reaction of political decisions that led to the outbreak of World War I."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "Gavrilo Princip",
+          "princip",
+          "gavrilo"
+        ],
+        "option_b": [
+          "Leon Czolgosz",
+          "czolgosz",
+          "leon",
+          "leon czolgosh",
+          "leon zolgosh"
+        ],
+        "option_c": [
+          "Mehmed Talaat",
+          "talaat",
+          "talaat pasha",
+          "talaat pasa"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": ""
+    },
+    {
+      "id": "history_B8_9",
+      "que": "The ancient city of Carthage was located in which modern-day country?",
+      "ans": {
+        "value": "Tunisia",
+        "correct_entity": "option_b"
+      },
+      "options": [
+        "Libya",
+        "Tunisia",
+        "Algeria"
+      ],
+      "expl": [
+        "Carthage was an ancient Phoenician city-state located in what is now northeastern Tunisia. It was one of the most powerful cities of the ancient world before being destroyed by Rome at the end of the Third Punic War in 146 BC."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "Libya",
+          "libyan",
+          "libyah",
+          "state of libya"
+        ],
+        "option_b": [
+          "Tunisia",
+          "tunisian",
+          "tunisiaa",
+          "tunisha",
+          "sunisha",
+          "tunesiya"
+        ],
+        "option_c": [
+          "Algeria",
+          "algerian"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": ""
+    },
+    {
+      "id": "history_B8_10",
+      "que": "Which famous nurse is known as the founder of modern nursing?",
+      "ans": {
+        "value": "Florence Nightingale",
+        "correct_entity": "option_b"
+      },
+      "options": [
+        "Clara Barton",
+        "Florence Nightingale",
+        "Edith Cavell"
+      ],
+      "expl": [
+        "Florence Nightingale is considered the founder of modern nursing. During the Crimean War, she dramatically improved sanitation and saved thousands of lives. She established the first secular nursing school in the world at St Thomas Hospital in London."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "Clara Barton",
+          "barton",
+          "clara",
+          "clara h barton"
+        ],
+        "option_b": [
+          "Florence Nightingale",
+          "nightingale",
+          "florence"
+        ],
+        "option_c": [
+          "Edith Cavell",
+          "cavell",
+          "edith"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": ""
+    },
+    {
+      "id": "history_B8_11",
+      "que": "Who was the first man to walk on the Moon?",
+      "ans": {
+        "value": "Neil Armstrong",
+        "correct_entity": "option_c"
+      },
+      "options": [
+        "Buzz Aldrin",
+        "Yuri Gagarin",
+        "Neil Armstrong"
+      ],
+      "expl": [
+        "Neil Armstrong became the first human to walk on the Moon on July 20, 1969, during NASA's Apollo 11 mission. He famously declared 'That's one small step for man, one giant leap for mankind' as he stepped onto the lunar surface."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "Buzz Aldrin",
+          "aldrin",
+          "buzz",
+          "edwin aldrin",
+          "edwin buzz aldrin"
+        ],
+        "option_b": [
+          "Yuri Gagarin",
+          "gagarin",
+          "yuri"
+        ],
+        "option_c": [
+          "Neil Armstrong",
+          "armstrong",
+          "neil",
+          "neil a armstrong"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": ""
+    },
+    {
+      "id": "history_B8_13",
+      "que": "Which war was fought between the North and South in the United States from 1861 to 1865?",
+      "ans": {
+        "value": "The Civil War",
+        "correct_entity": "option_b"
+      },
+      "options": [
+        "The Revolutionary War",
+        "The Civil War",
+        "The War of 1812"
+      ],
+      "expl": [
+        "The American Civil War was fought from 1861 to 1865 between the Union (Northern states) and the Confederacy (Southern states). The primary cause was the disagreement over slavery. The Union won, and slavery was abolished throughout the United States."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "The Revolutionary War",
+          "revolutionary war",
+          "war of independence",
+          "american revolutionary war",
+          "american revolution"
+        ],
+        "option_b": [
+          "The Civil War",
+          "civil war",
+          "american civil war",
+          "war",
+          "us civil war"
+        ],
+        "option_c": [
+          "The War of 1812",
+          "war of eighteen twelve",
+          "1812",
+          "war of 1812",
+          "eighteen twelve"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": ""
+    },
+    {
+      "id": "history_B8_14",
+      "que": "Which document begins with the words 'We the People'?",
+      "ans": {
+        "value": "The U.S. Constitution",
+        "correct_entity": "option_b"
+      },
+      "options": [
+        "The Declaration of Independence",
+        "The U.S. Constitution",
+        "The Bill of Rights"
+      ],
+      "expl": [
+        "The U.S. Constitution famously begins with the words 'We the People of the United States, in Order to form a more perfect Union.' It was signed on September 17, 1787, and is the supreme law of the land. The original document is kept at the National Archives in Washington, D.C."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "The Declaration of Independence",
+          "declaration of independence",
+          "declaration"
+        ],
+        "option_b": [
+          "The U.S. Constitution",
+          "the us constitution",
+          "us constitution",
+          "constitution",
+          "u s constitution",
+          "united states constitution",
+          "us",
+          "the u. s. constitution",
+          "u. s. constitution"
+        ],
+        "option_c": [
+          "The Bill of Rights",
+          "bill of rights"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": ""
+    },
+    {
+      "id": "history_B8_15",
+      "que": "Who was the last Tsar of Russia?",
+      "ans": {
+        "value": "Nicholas II",
+        "correct_entity": "option_b"
+      },
+      "options": [
+        "Alexander III",
+        "Nicholas II",
+        "Peter the Great"
+      ],
+      "expl": [
+        "Nicholas II was the last Tsar of Russia, reigning from 1894 until his abdication in 1917. Following the Russian Revolution, he and his family were executed by the Bolsheviks in 1918. His reign saw Russia's involvement in both the Russo-Japanese War and World War I."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "Alexander III",
+          "alexander the third",
+          "alexandaer",
+          "alexandear third",
+          "alexandaer three"
+        ],
+        "option_b": [
+          "Nicholas II",
+          "nicholas the second",
+          "tsar nicholas",
+          "nicholas second"
+        ],
+        "option_c": [
+          "Peter the Great",
+          "peter first",
+          "peter",
+          "the great"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": ""
+    },
+    {
+      "id": "history_B8_16",
+      "que": "The Battle of Waterloo took place in which country?",
+      "ans": {
+        "value": "Belgium",
+        "correct_entity": "option_b"
+      },
+      "options": [
+        "France",
+        "Belgium",
+        "Germany"
+      ],
+      "expl": [
+        "The Battle of Waterloo took place on June 18, 1815, near the town of Waterloo in present-day Belgium. Napoleon Bonaparte was decisively defeated by the allied forces led by the Duke of Wellington and Field Marshal Blücher, ending the Napoleonic Wars."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "France",
+          "french",
+          "ance"
+        ],
+        "option_b": [
+          "Belgium",
+          "belgian"
+        ],
+        "option_c": [
+          "Germany",
+          "german",
+          "man"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": ""
+    },
+    {
+      "id": "history_B8_17",
+      "que": "Which famous ship sank in the North Atlantic Ocean in April 1912?",
+      "ans": {
+        "value": "The Titanic",
+        "correct_entity": "option_c"
+      },
+      "options": [
+        "The Mayflower",
+        "The Santa Maria",
+        "The Titanic"
+      ],
+      "expl": [
+        "The Titanic was a huge British passenger ship that sank on April 15, 1912, after hitting an iceberg on its very first voyage from England to New York. It was once thought to be unsinkable. The sinking became one of the most famous shipwrecks in history."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "The Mayflower",
+          "mayflower",
+          "the may flower",
+          "may flower"
+        ],
+        "option_b": [
+          "The Santa Maria",
+          "santa maria",
+          "santa",
+          "senta mariya"
+        ],
+        "option_c": [
+          "The Titanic",
+          "titanic",
+          "rms titanic"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": ""
+    },
+    {
+      "id": "history_B8_18",
+      "que": "Which American inventor is famous for creating the first practical light bulb?",
+      "ans": {
+        "value": "Thomas Edison",
+        "correct_entity": "option_b"
+      },
+      "options": [
+        "Benjamin Franklin",
+        "Thomas Edison",
+        "Alexander Graham Bell"
+      ],
+      "expl": [
+        "Thomas Edison is famous for inventing the first practical incandescent light bulb in 1879. He held over 1,000 patents and also helped develop the phonograph and motion picture camera. His New Jersey laboratory is often called America's first 'invention factory.'"
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "Benjamin Franklin",
+          "ben franklin",
+          "franklin"
+        ],
+        "option_b": [
+          "Thomas Edison",
+          "edison"
+        ],
+        "option_c": [
+          "Alexander Graham Bell",
+          "graham bell",
+          "bell"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": ""
+    },
+    {
+      "id": "history_B8_19",
+      "que": "Who invented the printing press around 1440?",
+      "ans": {
+        "value": "Johannes Gutenberg",
+        "correct_entity": "option_b"
+      },
+      "options": [
+        "Leonardo da Vinci",
+        "Johannes Gutenberg",
+        "Galileo Galilei"
+      ],
+      "expl": [
+        "Johannes Gutenberg invented the movable-type printing press around 1440 in Mainz, Germany. This revolutionary invention made the mass production of books possible, facilitating the spread of the Renaissance, Reformation, and Scientific Revolution."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "Leonardo da Vinci",
+          "da vinci",
+          "leonardo"
+        ],
+        "option_b": [
+          "Johannes Gutenberg",
+          "gutenberg"
+        ],
+        "option_c": [
+          "Galileo Galilei",
+          "galileo",
+          "galilei"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": ""
+    },
+    {
+      "id": "history_B8_20",
+      "que": "Which treaty ended World War I?",
+      "ans": {
+        "value": "Treaty of Versailles",
+        "correct_entity": "option_a"
+      },
+      "options": [
+        "Treaty of Versailles",
+        "Treaty of Paris",
+        "Treaty of Utrecht"
+      ],
+      "expl": [
+        "The Treaty of Versailles was signed on June 28, 1919, officially ending World War I. Germany was held responsible for the war and forced to pay heavy reparations, cede territory, and drastically reduce its military, conditions that contributed to World War II."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "Treaty of Versailles",
+          "versailles",
+          "versailles treaty"
+        ],
+        "option_b": [
+          "Treaty of Paris",
+          "paris",
+          "paris treaty"
+        ],
+        "option_c": [
+          "Treaty of Utrecht",
+          "utrecht",
+          "utrecht treaty"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": ""
+    },
+    {
+      "id": "history_B8_21",
+      "que": "Who was the first female Prime Minister of India?",
+      "ans": {
+        "value": "Indira Gandhi",
+        "correct_entity": "option_c"
+      },
+      "options": [
+        "Pratibha Patil",
+        "Sonia Gandhi",
+        "Indira Gandhi"
+      ],
+      "expl": [
+        "Indira Gandhi was the first and only female Prime Minister of India, serving from 1966 to 1977 and again from 1980 until her assassination in 1984. Daughter of India's first PM Jawaharlal Nehru, she was one of the most powerful political figures of the 20th century."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "Pratibha Patil",
+          "pratibha",
+          "patil"
+        ],
+        "option_b": [
+          "Sonia Gandhi",
+          "sonia"
+        ],
+        "option_c": [
+          "Indira Gandhi",
+          "indira"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": ""
+    },
+    {
+      "id": "history_B8_22",
+      "que": "The ancient Olympic Games originated in which country?",
+      "ans": {
+        "value": "Greece",
+        "correct_entity": "option_b"
+      },
+      "options": [
+        "Italy",
+        "Greece",
+        "Egypt"
+      ],
+      "expl": [
+        "The ancient Olympic Games originated in Greece in 776 BC at Olympia. They were held every four years in honor of Zeus and featured athletic competitions among representatives from various Greek city-states. The modern Olympics were revived in Athens in 1896."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "Italy",
+          "italian",
+          "tally"
+        ],
+        "option_b": [
+          "Greece",
+          "greek",
+          "hellas"
+        ],
+        "option_c": [
+          "Egypt",
+          "egyptian"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": ""
+    },
+    {
+      "id": "history_B8_23",
+      "que": "Who was the leader of the Soviet Union during the Cuban Missile Crisis?",
+      "ans": {
+        "value": "Nikita Khrushchev",
+        "correct_entity": "option_b"
+      },
+      "options": [
+        "Joseph Stalin",
+        "Nikita Khrushchev",
+        "Leonid Brezhnev"
+      ],
+      "expl": [
+        "Nikita Khrushchev was the leader of the Soviet Union during the Cuban Missile Crisis of October 1962. He engaged in tense negotiations with U.S. President John F. Kennedy, ultimately agreeing to remove Soviet missiles from Cuba in exchange for U.S. pledges."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "Joseph Stalin",
+          "stalin",
+          "josip",
+          "stelin"
+        ],
+        "option_b": [
+          "Nikita Khrushchev",
+          "khrushchev",
+          "nikita",
+          "nikita krushchev"
+        ],
+        "option_c": [
+          "Leonid Brezhnev",
+          "brezhnev",
+          "leonid"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": ""
+    },
+    {
+      "id": "history_B8_24",
+      "que": "The Colosseum in Rome was built primarily under which emperor?",
+      "ans": {
+        "value": "Vespasian",
+        "correct_entity": "option_c"
+      },
+      "options": [
+        "Julius Caesar",
+        "Augustus",
+        "Vespasian"
+      ],
+      "expl": [
+        "The Colosseum was begun under Emperor Vespasian around 70 AD and completed by his son Titus around 80 AD. It could hold between 50,000 and 80,000 spectators and hosted gladiatorial contests, animal hunts, and public spectacles."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "Julius Caesar",
+          "caesar",
+          "gaius julius caesar"
+        ],
+        "option_b": [
+          "Augustus",
+          "emperor augustus",
+          "augustus caesar",
+          "octavian augustus",
+          "agustas"
+        ],
+        "option_c": [
+          "Vespasian",
+          "emperor vespasian",
+          "titus flavius vespasianus"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": ""
+    },
+    {
+      "id": "history_B8_25",
+      "que": "Which American flag designer is traditionally said to have sewn the very first U.S. flag?",
+      "ans": {
+        "value": "Betsy Ross",
+        "correct_entity": "option_a"
+      },
+      "options": [
+        "Betsy Ross",
+        "Martha Washington",
+        "Dolley Madison"
+      ],
+      "expl": [
+        "Betsy Ross of Philadelphia is traditionally credited with sewing the first American flag in 1776. According to the popular story, George Washington personally asked her to make the flag with thirteen stars and thirteen stripes. Her home in Philadelphia is now a historic landmark."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "Betsy Ross",
+          "ross",
+          "elizabeth ross",
+          "betis",
+          "betis ros"
+        ],
+        "option_b": [
+          "Martha Washington",
+          "maratha",
+          "washington"
+        ],
+        "option_c": [
+          "Dolley Madison",
+          "dolly madison",
+          "madison",
+          "dolley"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": ""
+    },
+    {
+      "id": "history_B8_26",
+      "que": "Who was the founder of the Mughal Empire?",
+      "ans": {
+        "value": "Babur",
+        "correct_entity": "option_b"
+      },
+      "options": [
+        "Akbar",
+        "Babur",
+        "Humayun"
+      ],
+      "expl": [
+        "Babur founded the Mughal Empire in 1526 after defeating Ibrahim Lodi at the First Battle of Panipat. Born in Fergana in modern Uzbekistan, Babur was a descendant of both Timur and Genghis Khan. The Mughal Empire became one of the most powerful empires in South Asia."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "Akbar",
+          "akbar the great",
+          "emperor akbar",
+          "jalaluddin akbar"
+        ],
+        "option_b": [
+          "Babur",
+          "zahir ud din babur",
+          "emperor babur",
+          "babar",
+          "barber"
+        ],
+        "option_c": [
+          "Humayun",
+          "nasir ud din humayun",
+          "emperor humayun"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": ""
+    },
+    {
+      "id": "history_B8_27",
+      "que": "The Hundred Years' War was fought between which two countries?",
+      "ans": {
+        "value": "England and France",
+        "correct_entity": "option_b"
+      },
+      "options": [
+        "Spain and Portugal",
+        "England and France",
+        "Germany and France"
+      ],
+      "expl": [
+        "The Hundred Years' War was a series of armed conflicts fought between England and France from 1337 to 1453. Despite the name, it lasted 116 years. Key figures include Edward III of England, Henry V, and French heroine Joan of Arc."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "Spain and Portugal",
+          "spain portugal",
+          "portuguese and spanish",
+          "spen an portgal"
+        ],
+        "option_b": [
+          "England and France",
+          "england france",
+          "britain france",
+          "ingland",
+          "fance"
+        ],
+        "option_c": [
+          "Germany and France",
+          "germany france",
+          "french and german"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": ""
+    },
+    {
+      "id": "history_B8_28",
+      "que": "Who was the first person to circumnavigate the globe?",
+      "ans": {
+        "value": "Ferdinand Magellan",
+        "correct_entity": "option_c"
+      },
+      "options": [
+        "Christopher Columbus",
+        "Vasco da Gama",
+        "Ferdinand Magellan"
+      ],
+      "expl": [
+        "Ferdinand Magellan led the first expedition to circumnavigate the Earth from 1519 to 1522, though he died in the Philippines in 1521. His voyage proved the world was round and vastly larger than previously believed. Only 18 of the original 270 crew members completed the journey."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "Christopher Columbus",
+          "columbus",
+          "cristopher columbus",
+          "colombo"
+        ],
+        "option_b": [
+          "Vasco da Gama",
+          "da gama",
+          "vasco"
+        ],
+        "option_c": [
+          "Ferdinand Magellan",
+          "magellan"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": ""
+    },
+    {
+      "id": "history_B8_29",
+      "que": "The Great Wall of China was primarily built to defend against invasions from which direction?",
+      "ans": {
+        "value": "North",
+        "correct_entity": "option_c"
+      },
+      "options": [
+        "South",
+        "East",
+        "North"
+      ],
+      "expl": [
+        "The Great Wall of China was built primarily to defend against invasions from northern nomadic peoples, including the Xiongnu, Mongols, and other steppe tribes. Construction began as early as the 7th century BC and continued through multiple dynasties."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "South",
+          "southern",
+          "southward"
+        ],
+        "option_b": [
+          "East",
+          "eastern",
+          "eastward"
+        ],
+        "option_c": [
+          "North",
+          "northern",
+          "northward"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": ""
+    },
+    {
+      "id": "history_B8_30",
+      "que": "Which US President was known as 'Honest Abe'?",
+      "ans": {
+        "value": "Abraham Lincoln",
+        "correct_entity": "option_c"
+      },
+      "options": [
+        "Ulysses S. Grant",
+        "Andrew Jackson",
+        "Abraham Lincoln"
+      ],
+      "expl": [
+        "Abraham Lincoln, the 16th President of the United States, was nicknamed 'Honest Abe' for his reputation for integrity. He served from 1861 until his assassination in 1865 and is best known for leading the country through the Civil War and abolishing slavery."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "Ulysses S. Grant",
+          "grant",
+          "ulysses grant",
+          "ulysses s grant",
+          "ulysses simpson grant",
+          "general grant"
+        ],
+        "option_b": [
+          "Andrew Jackson",
+          "jackson",
+          "president jackson",
+          "andru jackson"
+        ],
+        "option_c": [
+          "Abraham Lincoln",
+          "lincoln",
+          "abe lincoln",
+          "honest abe",
+          "president lincoln"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": ""
+    },
+    {
+      "id": "history_B8_31",
+      "que": "The Trojan War, according to Greek legend, was sparked by the abduction of which woman?",
+      "ans": {
+        "value": "Helen of Troy",
+        "correct_entity": "option_c"
+      },
+      "options": [
+        "Penelope",
+        "Cassandra",
+        "Helen of Troy"
+      ],
+      "expl": [
+        "According to Greek legend, the Trojan War began when Paris of Troy abducted or eloped with Helen, wife of the Spartan king Menelaus. This led the Greeks to launch a thousand ships to Troy and the decade-long war immortalized in Homer's Iliad."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "Penelope",
+          "queen penelope"
+        ],
+        "option_b": [
+          "Cassandra",
+          "princess cassandra"
+        ],
+        "option_c": [
+          "Helen of Troy",
+          "helen",
+          "helen of sparta",
+          "beautiful helen"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": ""
+    },
+    {
+      "id": "history_B8_32",
+      "que": "Who was the first Chancellor of unified Germany in 1871?",
+      "ans": {
+        "value": "Otto von Bismarck",
+        "correct_entity": "option_b"
+      },
+      "options": [
+        "Kaiser Wilhelm I",
+        "Otto von Bismarck",
+        "Helmut Kohl"
+      ],
+      "expl": [
+        "Otto von Bismarck became the first Chancellor of the unified German Empire in 1871. Known as the 'Iron Chancellor,' he orchestrated the unification of Germany through a series of wars and shrewd diplomacy. He served as Chancellor until 1890."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "Kaiser Wilhelm I",
+          "kaiser wilhelm",
+          "wilhelm",
+          "wilhelm first",
+          "wilhelm i"
+        ],
+        "option_b": [
+          "Otto von Bismarck",
+          "bismarck",
+          "otto bismarck",
+          "von bismarck",
+          "bismark"
+        ],
+        "option_c": [
+          "Helmut Kohl",
+          "kohl",
+          "helmet kohl"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": ""
+    },
+    {
+      "id": "history_B8_33",
+      "que": "Who delivered the famous 'I Have a Dream' speech in Washington, D.C., in 1963?",
+      "ans": {
+        "value": "Martin Luther King Jr.",
+        "correct_entity": "option_a"
+      },
+      "options": [
+        "Martin Luther King Jr.",
+        "Frederick Douglass",
+        "Malcolm X"
+      ],
+      "expl": [
+        "Dr. Martin Luther King Jr. delivered the famous 'I Have a Dream' speech on August 28, 1963, from the steps of the Lincoln Memorial in Washington, D.C. He spoke to over 250,000 civil rights supporters during the March on Washington for Jobs and Freedom."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "Martin Luther King Jr.",
+          "martin luther king",
+          "mlk",
+          "dr king",
+          "martin luther king junior",
+          "martin luther king jr"
+        ],
+        "option_b": [
+          "Frederick Douglass",
+          "douglass",
+          "fred douglass"
+        ],
+        "option_c": [
+          "Malcolm X",
+          "malcolm",
+          "malcom x"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": ""
+    },
+    {
+      "id": "history_B8_34",
+      "que": "Which American hero is famous for her 1955 bus protest in Montgomery, Alabama?",
+      "ans": {
+        "value": "Rosa Parks",
+        "correct_entity": "option_a"
+      },
+      "options": [
+        "Rosa Parks",
+        "Harriet Tubman",
+        "Sojourner Truth"
+      ],
+      "expl": [
+        "Rosa Parks refused to give up her seat to a white passenger on a Montgomery bus on December 1, 1955. Her quiet act of courage sparked the year-long Montgomery Bus Boycott and became a defining moment of the American Civil Rights Movement."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "Rosa Parks",
+          "parks",
+          "rosa parkes"
+        ],
+        "option_b": [
+          "Harriet Tubman",
+          "tubman",
+          "harriet tubeman"
+        ],
+        "option_c": [
+          "Sojourner Truth",
+          "truth",
+          "sojourner"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": ""
+    },
+    {
+      "id": "history_B8_35",
+      "que": "Which U.S. astronaut was the first person to walk on the Moon?",
+      "ans": {
+        "value": "Neil Armstrong",
+        "correct_entity": "option_a"
+      },
+      "options": [
+        "Neil Armstrong",
+        "Buzz Aldrin",
+        "John Glenn"
+      ],
+      "expl": [
+        "Neil Armstrong became the first person to walk on the Moon on July 20, 1969, during NASA's Apollo 11 mission. As he stepped onto the lunar surface he famously said, 'That's one small step for man, one giant leap for mankind.' Buzz Aldrin joined him about 20 minutes later."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "Neil Armstrong",
+          "armstrong",
+          "neil",
+          "neil a armstrong"
+        ],
+        "option_b": [
+          "Buzz Aldrin",
+          "aldrin",
+          "buzz",
+          "edwin aldrin"
+        ],
+        "option_c": [
+          "John Glenn",
+          "glenn",
+          "john glen"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": ""
+    },
+    {
+      "id": "history_B8_36",
+      "que": "How many original colonies formed the United States?",
+      "ans": {
+        "value": "Thirteen",
+        "correct_entity": "option_b"
+      },
+      "options": [
+        "Eleven",
+        "Thirteen",
+        "Fifteen"
+      ],
+      "expl": [
+        "Thirteen British colonies along the east coast formed the original United States. The first stripes on the American flag stand for these thirteen colonies, which included Massachusetts, Virginia, New York, Pennsylvania, and Georgia among others."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "Eleven",
+          "11",
+          "elevan"
+        ],
+        "option_b": [
+          "Thirteen",
+          "13",
+          "thirten"
+        ],
+        "option_c": [
+          "Fifteen",
+          "15",
+          "fiften"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": ""
+    },
+    {
+      "id": "history_B8_37",
+      "que": "Which American inventor flew a kite in a thunderstorm to study electricity?",
+      "ans": {
+        "value": "Benjamin Franklin",
+        "correct_entity": "option_b"
+      },
+      "options": [
+        "Thomas Edison",
+        "Benjamin Franklin",
+        "George Washington Carver"
+      ],
+      "expl": [
+        "Benjamin Franklin is famous for flying a kite during a thunderstorm in 1752 to study electricity. He proved lightning was a form of electrical energy and went on to invent the lightning rod. He was also a Founding Father and one of America's most beloved figures."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "Thomas Edison",
+          "edison",
+          "thomas alva edison"
+        ],
+        "option_b": [
+          "Benjamin Franklin",
+          "ben franklin",
+          "franklin",
+          "benjamin"
+        ],
+        "option_c": [
+          "George Washington Carver",
+          "carver",
+          "g w carver"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": ""
+    }
+  ],
+  "IMAGE_QUESTIONS": [],
+  "AUDIO_QUESTIONS": []
+}

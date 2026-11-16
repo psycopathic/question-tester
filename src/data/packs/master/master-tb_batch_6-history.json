@@ -1,0 +1,1347 @@
+{
+  "TEXT_QUESTIONS": [
+    {
+      "id": "history_B6_1",
+      "que": "Who was the only U.S. President that spoke English as a second language?",
+      "ans": {
+        "value": "Martin Van Buren",
+        "correct_entity": "option_c"
+      },
+      "options": [
+        "Thomas Jefferson",
+        "John Adams",
+        "Martin Van Buren"
+      ],
+      "expl": [
+        "Martin Van Buren, unlike his seven predecessors, was the first U.S. president born as an American citizen rather than a British subject. Born in 1782 in Kinderhook, New York, he grew up in a Dutch-speaking community. He learned English as a second language while attending school."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "Thomas Jefferson",
+          "jefferson"
+        ],
+        "option_b": [
+          "John Adams",
+          "adam",
+          "adams"
+        ],
+        "option_c": [
+          "Martin Van Buren",
+          "buren",
+          "martin",
+          "martin van",
+          "van buren"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": ""
+    },
+    {
+      "id": "history_B6_2",
+      "que": "Which President first held a Fourth of July celebration at the White House?",
+      "ans": {
+        "value": "Thomas Jefferson",
+        "correct_entity": "option_b"
+      },
+      "options": [
+        "George Washington",
+        "Thomas Jefferson",
+        "John Adams"
+      ],
+      "expl": [
+        "Thomas Jefferson was the third president of the United States. During his presidency, the first Fourth of July celebration took place at the White House in 1801. Jefferson hosted a public reception at the presidential mansion, where visitors could celebrate the nation's independence."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "George Washington",
+          "washington"
+        ],
+        "option_b": [
+          "Thomas Jefferson",
+          "jefferson"
+        ],
+        "option_c": [
+          "John Adams",
+          "adam",
+          "adams"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": ""
+    },
+    {
+      "id": "history_B6_3",
+      "que": "Which country was the first to insist upon car registration plates?",
+      "ans": {
+        "value": "United Kingdom",
+        "correct_entity": "option_c"
+      },
+      "options": [
+        "France",
+        "Germany",
+        "United Kingdom"
+      ],
+      "expl": [
+        "The United Kingdom was the first country to introduce car registration plates. In 1903, the Motor Car Act required all vehicles to display unique number plates, allowing for easier identification and regulation of vehicles on public roads."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "France"
+        ],
+        "option_b": [
+          "Germany"
+        ],
+        "option_c": [
+          "United Kingdom",
+          "u. k.",
+          "uk"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": ""
+    },
+    {
+      "id": "history_B6_4",
+      "que": "Which American city was once called New Amsterdam?",
+      "ans": {
+        "value": "New York City",
+        "correct_entity": "option_a"
+      },
+      "options": [
+        "New York City",
+        "Boston",
+        "Philadelphia"
+      ],
+      "expl": [
+        "New York City was once called New Amsterdam during its early history when it was a Dutch colony in the 17th century. The English took control of the city in 1664 and renamed it New York, honoring the Duke of York and Albany."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "New York City",
+          "new york",
+          "n. y.",
+          "n. y. city"
+        ],
+        "option_b": [
+          "Boston"
+        ],
+        "option_c": [
+          "Philadelphia"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": ""
+    },
+    {
+      "id": "history_B6_5",
+      "que": "What was the first university in America?",
+      "ans": {
+        "value": "Harvard",
+        "correct_entity": "option_a"
+      },
+      "options": [
+        "Harvard",
+        "Yale",
+        "Princeton"
+      ],
+      "expl": [
+        "Harvard University, located in Cambridge, Massachusetts, is widely recognized as the first institution of higher learning in the United States. It was established in 1636 and played a pivotal role in shaping the American education system. Harvard has a rich history and has produced numerous notable alums in various fields, including politics, science, and the arts."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "Harvard"
+        ],
+        "option_b": [
+          "Yale"
+        ],
+        "option_c": [
+          "Princeton"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": ""
+    },
+    {
+      "id": "history_B6_6",
+      "que": "Which US city is known as Beantown?",
+      "ans": {
+        "value": "Boston",
+        "correct_entity": "option_c"
+      },
+      "options": [
+        "New Orleans",
+        "Chicago",
+        "Boston"
+      ],
+      "expl": [
+        "Boston is known as Beantown, a nickname derived from the city's historic association with baked beans. Baked beans, often made with molasses, became popular in the region during the 17th and 18th centuries and earned Boston its flavorful nickname."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "New Orleans",
+          "orleans"
+        ],
+        "option_b": [
+          "Chicago"
+        ],
+        "option_c": [
+          "Boston"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": ""
+    },
+    {
+      "id": "history_B6_7",
+      "que": "Who was the first person to sign the Declaration of Independence?",
+      "ans": {
+        "value": "John Hancock",
+        "correct_entity": "option_c"
+      },
+      "options": [
+        "George Washington",
+        "John Adams",
+        "John Hancock"
+      ],
+      "expl": [
+        "The correct answer is John Hancock. He was the first person to sign the Declaration of Independence on July 4, 1776. As the Second Continental Congress president, Hancock's signature stands out prominently on the document, which is why the term \"John Hancock\" has become synonymous with a person's signature in American English."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "George Washington",
+          "washington"
+        ],
+        "option_b": [
+          "John Adams",
+          "adam",
+          "adams"
+        ],
+        "option_c": [
+          "John Hancock",
+          "hancock"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": ""
+    },
+    {
+      "id": "history_B6_8",
+      "que": "Cinco de Mayo commemorates Mexico's victory at the Battle of Puebla over which country?",
+      "ans": {
+        "value": "France",
+        "correct_entity": "option_b"
+      },
+      "options": [
+        "Costa Rica",
+        "France",
+        "Cuba"
+      ],
+      "expl": [
+        "Cinco de Mayo is a yearly event commemorating Mexico's triumph over the French Empire in 1862 at the Battle of Puebla. Against all odds, the outnumbered Mexican forces defended Puebla, forcing the French army to retreat. Although not a major holiday in Mexico, Cinco de Mayo has become a cherished celebration of Mexican American heritage in the United States."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "Costa Rica",
+          "rica",
+          "costa"
+        ],
+        "option_b": [
+          "France"
+        ],
+        "option_c": [
+          "Cuba"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": ""
+    },
+    {
+      "id": "history_B6_9",
+      "que": "Before adopting its current name, Sri Lanka was previously recognized as?",
+      "ans": {
+        "value": "Ceylon",
+        "correct_entity": "option_a"
+      },
+      "options": [
+        "Ceylon",
+        "Burma",
+        "Maldives"
+      ],
+      "expl": [
+        "Sri Lanka was previously known as Ceylon. The country's name was officially changed to Sri Lanka in 1972, replacing the colonial-era name. However, the last name, Ceylon, is still used to refer to the island during the time it was under British colonial rule."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "Ceylon"
+        ],
+        "option_b": [
+          "Burma"
+        ],
+        "option_c": [
+          "Maldives",
+          "maldive"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": ""
+    },
+    {
+      "id": "history_B6_10",
+      "que": "Who was the first president to live in the White House?",
+      "ans": {
+        "value": "John Adams",
+        "correct_entity": "option_c"
+      },
+      "options": [
+        "George Washington",
+        "Thomas Jefferson",
+        "John Adams"
+      ],
+      "expl": [
+        "John Adams was the first president to live in the White House. While George Washington oversaw its construction, it was completed after he left office. John Adams and his wife, Abigail Adams, became the first occupants of the White House when they moved in on November 1st, 1800. Adams served as the second president of the United States from 1797 to 1801."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "George Washington",
+          "washington"
+        ],
+        "option_b": [
+          "Thomas Jefferson",
+          "jefferson"
+        ],
+        "option_c": [
+          "John Adams",
+          "adam",
+          "adams"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": ""
+    },
+    {
+      "id": "history_B6_11",
+      "que": "The phrase \"Let them eat cake\" is commonly attributed to whom?",
+      "ans": {
+        "value": "Marie Antoinette",
+        "correct_entity": "option_a"
+      },
+      "options": [
+        "Marie Antoinette",
+        "Cleopatra",
+        "Joan of Arc"
+      ],
+      "expl": [
+        "\"Let them eat cake,\" famously linked to Marie-Antoinette, the French queen during the revolution, reflects her alleged indifference to the bread shortage faced by peasants. The anecdote underscores the disconnect between the queen and the suffering population, often employed by historians supporting the revolution to depict the self-centeredness of the aristocracy."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "Marie Antoinette",
+          "antoinette"
+        ],
+        "option_b": [
+          "Cleopatra"
+        ],
+        "option_c": [
+          "Joan of Arc"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": ""
+    },
+    {
+      "id": "history_B6_12",
+      "que": "Who first said, \"A house divided against itself cannot stand\"?",
+      "ans": {
+        "value": "Abraham Lincoln",
+        "correct_entity": "option_a"
+      },
+      "options": [
+        "Abraham Lincoln",
+        "Benjamin Franklin",
+        "Franklin Roosevelt"
+      ],
+      "expl": [
+        "In 1858, Abraham Lincoln's notable \"house divided\" speech in Springfield, Illinois, echoed a Bible verse, emphasizing the peril of division. His speech, centered on slavery's threat and national disunity, drew widespread notice. Despite losing the Senate race, this speech was crucial for his 1860 presidential win."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "Abraham Lincoln",
+          "abraham",
+          "lincoln"
+        ],
+        "option_b": [
+          "Benjamin Franklin",
+          "benjamin"
+        ],
+        "option_c": [
+          "Franklin Roosevelt",
+          "roosevelt"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": ""
+    },
+    {
+      "id": "history_B6_13",
+      "que": "What was the first month in the ancient Roman calendar?",
+      "ans": {
+        "value": "March",
+        "correct_entity": "option_c"
+      },
+      "options": [
+        "February",
+        "December",
+        "March"
+      ],
+      "expl": [
+        "The ancient Roman calendar had ten months, starting in March and ending in December. March marked the beginning of spring and new beginnings due to the vernal equinox. January and February were later added to the calendar, shifting March to the third month. Julius Caesar introduced the Julian calendar in 45 BCE, a forerunner of the modern Gregorian calendar."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "February"
+        ],
+        "option_b": [
+          "December"
+        ],
+        "option_c": [
+          "March"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": ""
+    },
+    {
+      "id": "history_B6_14",
+      "que": "What was Anne Frank's nickname for her diary?",
+      "ans": {
+        "value": "Kitty",
+        "correct_entity": "option_a"
+      },
+      "options": [
+        "Kitty",
+        "Wendy",
+        "Daisy"
+      ],
+      "expl": [
+        "Anne Frank called her diary \"Kitty.\" It's renowned as \"The Diary of a Young Girl,\" documenting her family's 2-year concealment from the Nazis in Amsterdam. \"Kitty\" symbolized her confidant, enabling her to candidly share emotions and challenges during a turbulent historical period."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "Kitty"
+        ],
+        "option_b": [
+          "Wendy"
+        ],
+        "option_c": [
+          "Daisy"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": ""
+    },
+    {
+      "id": "history_B6_15",
+      "que": "Who coined the term \"Cold War\"?",
+      "ans": {
+        "value": "Bernard Baruch",
+        "correct_entity": "option_b"
+      },
+      "options": [
+        "Ronald Reagan",
+        "Bernard Baruch",
+        "Andrew Carnegie"
+      ],
+      "expl": [
+        "In 1947, an adviser to U.S. presidents coined \"Cold War\" to depict the cooling relations between the United States and the Soviet Union. He introduced the term during a speech to the South Carolina House of Representatives, describing the situation where the nations vied for global influence and ideological control without direct military conflict."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "Ronald Reagan",
+          "ronald",
+          "reagan"
+        ],
+        "option_b": [
+          "Bernard Baruch",
+          "bernard",
+          "baruch"
+        ],
+        "option_c": [
+          "Andrew Carnegie",
+          "andrew",
+          "carnegie"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": ""
+    },
+    {
+      "id": "history_B6_16",
+      "que": "Who was the first woman inducted into the Rock and Roll Hall of Fame?",
+      "ans": {
+        "value": "Aretha Franklin",
+        "correct_entity": "option_c"
+      },
+      "options": [
+        "Janis Joplin",
+        "Diana Ross",
+        "Aretha Franklin"
+      ],
+      "expl": [
+        "On January 3, 1987, Aretha Franklin became the first woman inducted into the Rock and Roll Hall of Fame. Guitarist Keith Richards of The Rolling Stones, a devoted fan, had the privilege of inducting her. Franklin passed away in 2018."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "Janis Joplin",
+          "joplin",
+          "janis"
+        ],
+        "option_b": [
+          "Diana Ross",
+          "ross"
+        ],
+        "option_c": [
+          "Aretha Franklin",
+          "aretha"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": ""
+    },
+    {
+      "id": "history_B6_17",
+      "que": "What country developed paper bills named \"flying money\" during its Tang Dynasty?",
+      "ans": {
+        "value": "China",
+        "correct_entity": "option_c"
+      },
+      "options": [
+        "Japan",
+        "India",
+        "China"
+      ],
+      "expl": [
+        "During the Tang Dynasty, China developed paper bills known as \"flying money\" as a form of currency, which marked an early use of paper money in the world."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "Japan"
+        ],
+        "option_b": [
+          "India"
+        ],
+        "option_c": [
+          "China"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": ""
+    },
+    {
+      "id": "history_B6_18",
+      "que": "Who was the first author to use a Typemachine or Typewriter in writing a manuscript?",
+      "ans": {
+        "value": "Mark Twain",
+        "correct_entity": "option_a"
+      },
+      "options": [
+        "Mark Twain",
+        "Jane Austen",
+        "John Mayer"
+      ],
+      "expl": [
+        "Mark Twain was the first author to use a typewriter in writing a manuscript, which was \"The Adventures of Tom Sawyer.\" He typed the manuscript in 1874 on a Remington typewriter."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "Mark Twain",
+          "twain"
+        ],
+        "option_b": [
+          "Jane Austen",
+          "jane",
+          "austen"
+        ],
+        "option_c": [
+          "John Mayer",
+          "mayer"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": ""
+    },
+    {
+      "id": "history_B6_19",
+      "que": "Which U.S. President was famous for being a Hollywood actor before entering politics?",
+      "ans": {
+        "value": "Ronald Reagan",
+        "correct_entity": "option_b"
+      },
+      "options": [
+        "John F. Kennedy",
+        "Ronald Reagan",
+        "Jimmy Carter"
+      ],
+      "expl": [
+        "Ronald Reagan worked as a Hollywood movie and television actor for nearly 30 years before going into politics. He later became Governor of California and then the 40th President of the United States, serving from 1981 to 1989. He is the only U.S. President to have been a professional actor."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "John F. Kennedy",
+          "john f kennedy",
+          "jfk",
+          "kennedy"
+        ],
+        "option_b": [
+          "Ronald Reagan",
+          "reagan"
+        ],
+        "option_c": [
+          "Jimmy Carter",
+          "carter"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": ""
+    },
+    {
+      "id": "history_B6_20",
+      "que": "Who was the first president to visit all 50 states?",
+      "ans": {
+        "value": "Richard Nixon",
+        "correct_entity": "option_c"
+      },
+      "options": [
+        "Ronald Reagan",
+        "Jimmy Carter",
+        "Richard Nixon"
+      ],
+      "expl": [
+        "Richard Nixon was the first president to visit all 50 states of the United States. He achieved this milestone during his presidency from 1969 to 1974."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "Ronald Reagan",
+          "ronald",
+          "reagan"
+        ],
+        "option_b": [
+          "Jimmy Carter",
+          "carter",
+          "jimmy"
+        ],
+        "option_c": [
+          "Richard Nixon",
+          "nixon",
+          "richard"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": ""
+    },
+    {
+      "id": "history_B6_21",
+      "que": "How many days did the first Thanksgiving last?",
+      "ans": {
+        "value": "6",
+        "correct_entity": "option_a"
+      },
+      "options": [
+        "6",
+        "5",
+        "7"
+      ],
+      "expl": [
+        "The first Thanksgiving in 1621 lasted for approximately 3 days. It was a celebration between the Pilgrims and the Native Americans to give thanks for a successful harvest"
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "6",
+          "six"
+        ],
+        "option_b": [
+          "5",
+          "five"
+        ],
+        "option_c": [
+          "7",
+          "seven"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": ""
+    },
+    {
+      "id": "history_B6_22",
+      "que": "Which country left the OPEC oil cartel in 2020?",
+      "ans": {
+        "value": "Ecuador",
+        "correct_entity": "option_c"
+      },
+      "options": [
+        "Venezuela",
+        "Saudi Arabia",
+        "Ecuador"
+      ],
+      "expl": [
+        "In 2020, Ecuador decided to leave the Organization of the Petroleum Exporting Countries (OPEC) due to economic considerations and the need to manage its oil production independently."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "Venezuela"
+        ],
+        "option_b": [
+          "Saudi Arabia",
+          "saudi",
+          "arabia"
+        ],
+        "option_c": [
+          "Ecuador"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": ""
+    },
+    {
+      "id": "history_B6_23",
+      "que": "What was the name of the spacecraft that successfully landed on Mars in February 2021?",
+      "ans": {
+        "value": "Perseverance",
+        "correct_entity": "option_b"
+      },
+      "options": [
+        "Voyager 1",
+        "Perseverance",
+        "Opportunity"
+      ],
+      "expl": [
+        "The spacecraft that successfully landed on Mars in February 2021 is called \"Perseverance.\" It is a part of NASA's Mars 2020 mission and aims to explore the planet's geology and search for signs of past life."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "Voyager 1",
+          "voyager one"
+        ],
+        "option_b": [
+          "Perseverance"
+        ],
+        "option_c": [
+          "Opportunity"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": ""
+    },
+    {
+      "id": "history_B6_24",
+      "que": "Which President instituted the Spoils System?",
+      "ans": {
+        "value": "Andrew Jackson",
+        "correct_entity": "option_a"
+      },
+      "options": [
+        "Andrew Jackson",
+        "Barack Obama",
+        "Ronald Reagan"
+      ],
+      "expl": [
+        "President Andrew Jackson is known for instituting the Spoils System, a practice where political supporters and allies were rewarded with government jobs after a successful election. This led to a significant shift in the way government positions were filled and had a lasting impact on the U.S. political landscape."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "Andrew Jackson",
+          "jackson"
+        ],
+        "option_b": [
+          "Barack Obama",
+          "barack",
+          "obama"
+        ],
+        "option_c": [
+          "Ronald Reagan",
+          "ronald",
+          "reagan"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": ""
+    },
+    {
+      "id": "history_B6_25",
+      "que": "Who was named \"Old Hickory\"?",
+      "ans": {
+        "value": "Andrew Jackson",
+        "correct_entity": "option_c"
+      },
+      "options": [
+        "John Hancock",
+        "Paul Revere",
+        "Andrew Jackson"
+      ],
+      "expl": [
+        "Old Hickory was a nickname given to Andrew Jackson due to his tough and resilient personality. He earned this moniker during his military career, particularly for his leadership during the Battle of New Orleans."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "John Hancock",
+          "hancock"
+        ],
+        "option_b": [
+          "Paul Revere",
+          "revere"
+        ],
+        "option_c": [
+          "Andrew Jackson",
+          "jackson"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": ""
+    },
+    {
+      "id": "history_B6_26",
+      "que": "Which President was the architect of his own home at Monticello?",
+      "ans": {
+        "value": "Thomas Jefferson",
+        "correct_entity": "option_b"
+      },
+      "options": [
+        "James Buchanan",
+        "Thomas Jefferson",
+        "Andrew Jackson"
+      ],
+      "expl": [
+        "Thomas Jefferson, the third President of the United States, was the architect behind his own home, Monticello. He designed and oversaw the construction of this iconic estate, showcasing his architectural and intellectual prowess."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "James Buchanan",
+          "buchanan"
+        ],
+        "option_b": [
+          "Thomas Jefferson",
+          "jefferson"
+        ],
+        "option_c": [
+          "Andrew Jackson",
+          "jackson"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": ""
+    },
+    {
+      "id": "history_B6_27",
+      "que": "Which Emperor built the Colosseum?",
+      "ans": {
+        "value": "Vespasian",
+        "correct_entity": "option_c"
+      },
+      "options": [
+        "Nero",
+        "Tiberius",
+        "Vespasian"
+      ],
+      "expl": [
+        "The Colosseum, also known as the Flavian Amphitheatre, was built by the Roman Emperor Vespasian and was completed under the rule of his successor and heir, Emperor Titus."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "Nero"
+        ],
+        "option_b": [
+          "Tiberius"
+        ],
+        "option_c": [
+          "Vespasian"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": ""
+    },
+    {
+      "id": "history_B6_28",
+      "que": "In which place did Napoleon Bonaparte breathe his last?",
+      "ans": {
+        "value": "Saint Helena",
+        "correct_entity": "option_b"
+      },
+      "options": [
+        "Moscow",
+        "Saint Helena",
+        "Elba"
+      ],
+      "expl": [
+        "Napoleon Bonaparte, the famous French leader, died on the remote Saint Helena island. Following his loss at Waterloo, the British exiled him there. He spent his final years in captivity, pondering his accomplishments, until his passing on May 5, 1821."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "Moscow"
+        ],
+        "option_b": [
+          "Saint Helena",
+          "helena"
+        ],
+        "option_c": [
+          "Elba"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": ""
+    },
+    {
+      "id": "history_B6_29",
+      "que": "In history, which nation had \"The Dauphin\" as a ruler?",
+      "ans": {
+        "value": "France",
+        "correct_entity": "option_c"
+      },
+      "options": [
+        "Spain",
+        "England",
+        "France"
+      ],
+      "expl": [
+        "\"The Dauphin\" was a title used for the heir apparent to the French throne. In history, it was associated with France's royal family, specifically the reigning monarch's eldest son. This title was used until the French Revolution brought an end to the monarchy in the late 18th century."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "Spain"
+        ],
+        "option_b": [
+          "England"
+        ],
+        "option_c": [
+          "France"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": ""
+    },
+    {
+      "id": "history_B6_30",
+      "que": "In 1650, which country established the world's first chemistry laboratory?",
+      "ans": {
+        "value": "Germany",
+        "correct_entity": "option_b"
+      },
+      "options": [
+        "France",
+        "Germany",
+        "England"
+      ],
+      "expl": [
+        "In 1650, Germany established the world's first chemistry laboratory. This groundbreaking step marked a significant advancement in the field of science, allowing for systematic experimentation and exploration of chemical reactions."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "France"
+        ],
+        "option_b": [
+          "Germany"
+        ],
+        "option_c": [
+          "England"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": ""
+    },
+    {
+      "id": "history_B6_31",
+      "que": "Who sold Louisiana to the USA in 1803?",
+      "ans": {
+        "value": "Napoleon",
+        "correct_entity": "option_a"
+      },
+      "options": [
+        "Napoleon",
+        "George Washington",
+        "Abraham Lincoln"
+      ],
+      "expl": [
+        "In 1803, France, under the leadership of Napoleon Bonaparte, sold the Louisiana territory to the United States. This pivotal land deal, known as the Louisiana Purchase, doubled the size of the young nation and greatly influenced its expansion and development."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "Napoleon"
+        ],
+        "option_b": [
+          "George Washington",
+          "washington"
+        ],
+        "option_c": [
+          "Abraham Lincoln",
+          "abraham",
+          "lincoln"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": ""
+    },
+    {
+      "id": "history_B6_32",
+      "que": "In 1969, what category was added to the Nobel Prizes?",
+      "ans": {
+        "value": "Economics",
+        "correct_entity": "option_b"
+      },
+      "options": [
+        "Literature",
+        "Economics",
+        "Peace"
+      ],
+      "expl": [
+        "In 1969, the Nobel Prizes introduced a new category, Economics. The Sveriges Riksbank Prize in Economic Sciences in Memory of Alfred Nobel acknowledges remarkable contributions to the field. Other categories like Physics, Chemistry, Medicine, Literature, and Peace were set by Nobel's will in 1895."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "Literature"
+        ],
+        "option_b": [
+          "Economics"
+        ],
+        "option_c": [
+          "Peace"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": ""
+    },
+    {
+      "id": "history_B6_33",
+      "que": "Which African country was founded by Americans?",
+      "ans": {
+        "value": "Liberia",
+        "correct_entity": "option_a"
+      },
+      "options": [
+        "Liberia",
+        "Ghana",
+        "Nigeria"
+      ],
+      "expl": [
+        "Liberia was founded by the American Colonization Society in the 19th century as a colony for free African-Americans and formerly enslaved individuals. The society aimed to provide an opportunity for these individuals to establish a new life in Africa."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "Liberia"
+        ],
+        "option_b": [
+          "Ghana"
+        ],
+        "option_c": [
+          "Nigeria"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": ""
+    },
+    {
+      "id": "history_B6_34",
+      "que": "In which city did Anne Frank hide from the Naziz in World War 2?",
+      "ans": {
+        "value": "Amsterdam",
+        "correct_entity": "option_c"
+      },
+      "options": [
+        "Berlin",
+        "Brussels",
+        "Amsterdam"
+      ],
+      "expl": [
+        "Anne Frank hid from the Nazis in World War 2 in Amsterdam, Netherlands. Her family went into hiding in a secret annex above her father's business premises. The young girl's poignant diary, detailing her experiences and thoughts during this time, has become a powerful testament to the Holocaust's impact on individuals."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "Berlin"
+        ],
+        "option_b": [
+          "Brussels",
+          "brussel"
+        ],
+        "option_c": [
+          "Amsterdam"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": ""
+    },
+    {
+      "id": "history_B6_35",
+      "que": "The revolutionary Che Guevara was born in which country?",
+      "ans": {
+        "value": "Argentina",
+        "correct_entity": "option_c"
+      },
+      "options": [
+        "Bolivia",
+        "Cuba",
+        "Argentina"
+      ],
+      "expl": [
+        "Che Guevara, the iconic revolutionary, was born in Argentina. His indelible imprint on history was shaped by his role in the Cuban Revolution alongside Fidel Castro. Guevara's fervent dedication to Marxist ideals and his commitment to overthrowing oppressive regimes have made him a symbol of global rebellion and defiance."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "Bolivia"
+        ],
+        "option_b": [
+          "Cuba"
+        ],
+        "option_c": [
+          "Argentina"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": ""
+    },
+    {
+      "id": "history_B6_36",
+      "que": "Which football team lost eight players in a plane crash in 1958?",
+      "ans": {
+        "value": "Manchester United",
+        "correct_entity": "option_c"
+      },
+      "options": [
+        "Liverpool",
+        "Arsenal",
+        "Manchester United"
+      ],
+      "expl": [
+        "The tragic 1958 plane crash took the lives of 8 members of the Manchester United football team, including young talents like Duncan Edwards and Tommy Taylor. The disaster, known as the Munich air disaster, profoundly impacted the team and the sport, leading to a period of rebuilding for Manchester United."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "Liverpool"
+        ],
+        "option_b": [
+          "Arsenal"
+        ],
+        "option_c": [
+          "Manchester United",
+          "manchester"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": ""
+    },
+    {
+      "id": "history_B6_37",
+      "que": "What nationality was Christopher Columbus?",
+      "ans": {
+        "value": "Italian",
+        "correct_entity": "option_a"
+      },
+      "options": [
+        "Italian",
+        "Spanish",
+        "French"
+      ],
+      "expl": [
+        "Christopher Columbus was of Italian nationality. He was an explorer and navigator who completed four voyages across the Atlantic Ocean, leading to European awareness of the Americas in the late 15th and early 16th centuries. Despite being sponsored by Spain, Columbus himself was born in Genoa, Italy, around 1451."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "Italian"
+        ],
+        "option_b": [
+          "Spanish"
+        ],
+        "option_c": [
+          "French"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": ""
+    },
+    {
+      "id": "history_B6_38",
+      "que": "In what year did America purchase the Louisiana Territory from France?",
+      "ans": {
+        "value": "1803",
+        "correct_entity": "option_b"
+      },
+      "options": [
+        "1776",
+        "1803",
+        "1748"
+      ],
+      "expl": [
+        "America purchased the Louisiana Territory from France in 1803. The Louisiana Purchase was a significant event in U.S. history, as it doubled the size of the country. The acquisition, negotiated by President Thomas Jefferson, expanded American territory westward and paved the way for westward expansion and American frontier exploration."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "1776",
+          "seventeen seventy six",
+          "one thousand seven hundred and seventy six",
+          "one thousand seven hundred seventy six"
+        ],
+        "option_b": [
+          "1803",
+          "eighteen zero three",
+          "one thousand eight hundred and three"
+        ],
+        "option_c": [
+          "1748"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": ""
+    },
+    {
+      "id": "history_B6_39",
+      "que": "Which 1970s car was known as \"the flying fishbowl\"?",
+      "ans": {
+        "value": "AMC Pacer",
+        "correct_entity": "option_b"
+      },
+      "options": [
+        "Ford Pinto",
+        "AMC Pacer",
+        "Dodge Charger"
+      ],
+      "expl": [
+        "The AMC Pacer, dubbed the \"flying fishbowl,\" got its name for its fishbowl-like design with a large wrap-around rear window, offering a panoramic view. Introduced in the 1970s, its unique bubble shape and extensive glass surfaces set it apart as a distinctive and attention-grabbing car, resembling a futuristic vehicle from the era of George Jetson."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "Ford Pinto",
+          "pinto"
+        ],
+        "option_b": [
+          "AMC Pacer",
+          "a. m. c",
+          "amc",
+          "a. m. c pacer"
+        ],
+        "option_c": [
+          "Dodge Charger",
+          "Dodge",
+          "charger"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": ""
+    },
+    {
+      "id": "history_B6_40",
+      "que": "Who was the pioneer to achieve the first flight across the English Channel?",
+      "ans": {
+        "value": "Louis Bleriot",
+        "correct_entity": "option_a"
+      },
+      "options": [
+        "Louis Bleriot",
+        "Amelia Earhart",
+        "Orville Wright"
+      ],
+      "expl": [
+        "Louis Blériot, a French aviator, became a pioneer by making the first successful flight across the English Channel on July 25, 1909. His monoplane, the Blériot XI, carried him from Calais, France, to Dover, England, marking a significant achievement in aviation history."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "Louis Bleriot",
+          "louis blériot",
+          "bleriot",
+          "blériot"
+        ],
+        "option_b": [
+          "Amelia Earhart",
+          "amelia",
+          "earhart"
+        ],
+        "option_c": [
+          "Orville Wright",
+          "orville",
+          "wright",
+          "right",
+          "Orville right"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": ""
+    }
+  ],
+  "IMAGE_QUESTIONS": [],
+  "AUDIO_QUESTIONS": []
+}

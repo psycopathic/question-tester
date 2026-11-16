@@ -1,0 +1,552 @@
+{
+  "TEXT_QUESTIONS": [
+    {
+      "id": "science_B2_1",
+      "que": "Which of the following is the fundamental unit of life?",
+      "ans": {
+        "value": "Cell",
+        "correct_entity": "option_a"
+      },
+      "options": [
+        "Cell",
+        "Atom",
+        "Molecule"
+      ],
+      "expl": [
+        "The cell is considered the fundamental unit of life. It is the smallest structural and functional unit of an organism, capable of carrying out essential life processes and serving as the building block for all living organisms."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "Cell",
+          "sell",
+          "sale"
+        ],
+        "option_b": [
+          "Atom"
+        ],
+        "option_c": [
+          "Molecule",
+          "molecules"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": ""
+    },
+    {
+      "id": "science_B2_2",
+      "que": "What is the process by which plants convert sunlight into energy?",
+      "ans": {
+        "value": "Photosynthesis",
+        "correct_entity": "option_b"
+      },
+      "options": [
+        "Respiration",
+        "Photosynthesis",
+        "Transpiration"
+      ],
+      "expl": [
+        "Photosynthesis is the incredible process through which plants harness the power of sunlight to convert carbon dioxide and water into energy-rich sugars, providing them with the fuel they need to grow and survive."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "Respiration"
+        ],
+        "option_b": [
+          "Photosynthesis"
+        ],
+        "option_c": [
+          "Transpiration"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": ""
+    },
+    {
+      "id": "science_B2_3",
+      "que": "What is the smallest particle of an element that retains its chemical properties?",
+      "ans": {
+        "value": "Atom",
+        "correct_entity": "option_c"
+      },
+      "options": [
+        "Electron",
+        "Proton",
+        "Atom"
+      ],
+      "expl": [
+        "An atom is the smallest particle of an element that retains its chemical properties. It consists of subatomic particles, including protons, neutrons, and electrons. Atoms combine to form molecules, which then interact to create the vast diversity of matter in the universe."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "Electron",
+          "electrons"
+        ],
+        "option_b": [
+          "Proton",
+          "Protons"
+        ],
+        "option_c": [
+          "Atom",
+          "atoms",
+          "item",
+          "items"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": ""
+    },
+    {
+      "id": "science_B2_4",
+      "que": "Which force keeps objects in orbit around the Earth?",
+      "ans": {
+        "value": "Gravitational",
+        "correct_entity": "option_a"
+      },
+      "options": [
+        "Gravitational",
+        "Magnetic",
+        "Electromagnetic"
+      ],
+      "expl": [
+        "The force that keeps objects in orbit around the Earth, such as satellites or the Moon, is the gravitational force. It's like a big tug that pulls the objects towards the Earth but also gives them enough sideways speed to keep going around instead of falling down."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "Gravitational",
+          "gravitation"
+        ],
+        "option_b": [
+          "Magnetic",
+          "Magnet"
+        ],
+        "option_c": [
+          "Electromagnetic",
+          "electro magnetic",
+          "electro-magnetic"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": ""
+    },
+    {
+      "id": "science_B2_5",
+      "que": "Which organ filters waste products from the blood and produces urine?",
+      "ans": {
+        "value": "Kidney",
+        "correct_entity": "option_a"
+      },
+      "options": [
+        "Kidney",
+        "Liver",
+        "Pancreas"
+      ],
+      "expl": [
+        "The kidneys are like super filters in our body. They clean up our blood by taking out all the waste stuff, extra water, and bad things called toxins. They also help keep our body balanced by regulating electrolyte balance, blood pressure, and the production of red blood cells. So, they're really important for keeping our body healthy and working well!"
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "Kidney",
+          "kidneys"
+        ],
+        "option_b": [
+          "Liver"
+        ],
+        "option_c": [
+          "Pancreas",
+          "pancrea"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": ""
+    },
+    {
+      "id": "science_B2_6",
+      "que": "Which of the following organs has the ability to regenerate itself?",
+      "ans": {
+        "value": "Liver",
+        "correct_entity": "option_a"
+      },
+      "options": [
+        "Liver",
+        "Stomach",
+        "Lungs"
+      ],
+      "expl": [
+        "The liver is unique in its ability to regenerate. It can repair and replace damaged tissue, even if a large portion is removed. Special cells in the liver called hepatocytes are responsible for this rapid regeneration. Within weeks, the liver can return to its original size, even if 75% has been surgically removed."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "Liver"
+        ],
+        "option_b": [
+          "Stomach"
+        ],
+        "option_c": [
+          "Lungs",
+          "lung"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": ""
+    },
+    {
+      "id": "science_B2_7",
+      "que": "Which hormone is responsible for regulating sleep and wakefulness in humans?",
+      "ans": {
+        "value": "Melatonin",
+        "correct_entity": "option_a"
+      },
+      "options": [
+        "Melatonin",
+        "Insulin",
+        "Adrenaline"
+      ],
+      "expl": [
+        "Melatonin is a hormone that controls our sleep. It's made by the brain and tells us when to sleep and wake up. At night, melatonin levels go up, signaling sleep, while in the morning, they go down, signaling wakefulness. Bright light, like from phones, can affect melatonin and make it hard to sleep."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "Melatonin"
+        ],
+        "option_b": [
+          "Insulin"
+        ],
+        "option_c": [
+          "Adrenaline",
+          "adrenalines"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": ""
+    },
+    {
+      "id": "science_B2_8",
+      "que": "Which portion of the plant is responsible for photosynthesis?",
+      "ans": {
+        "value": "Leaves",
+        "correct_entity": "option_b"
+      },
+      "options": [
+        "Roots",
+        "Leaves",
+        "Stems"
+      ],
+      "expl": [
+        "Leaves are the portion of the plant responsible for photosynthesis. They contain chlorophyll, a pigment that captures sunlight and converts it into energy through the process of photosynthesis. Leaves have specialized structures, such as stomata and mesophyll cells, that enable them to carry out this essential process efficiently."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "Roots",
+          "root"
+        ],
+        "option_b": [
+          "Leaves"
+        ],
+        "option_c": [
+          "Stems",
+          "stem",
+          "stamps",
+          "streams"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": ""
+    },
+    {
+      "id": "science_B2_9",
+      "que": "Who was the first American woman in space?",
+      "ans": {
+        "value": "Sally Ride",
+        "correct_entity": "option_a"
+      },
+      "options": [
+        "Sally Ride",
+        "Mae Jemison",
+        "Amelia Earhart"
+      ],
+      "expl": [
+        "Sally Ride was the first American woman to travel to space. On June 18th, 1983, she became a crew member aboard the Space Shuttle Challenger during the STS-7 mission. Ride's historic achievement paved the way for more women to pursue careers in space exploration and inspired generations of aspiring astronauts."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "Sally Ride",
+          "sally",
+          "ride"
+        ],
+        "option_b": [
+          "Mae Jemison",
+          "mae",
+          "jemison",
+          "may jemison"
+        ],
+        "option_c": [
+          "Amelia Earhart",
+          "amelia",
+          "earhart",
+          "yearhart",
+          "yearheart"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": ""
+    },
+    {
+      "id": "science_B2_10",
+      "que": "The pericardium is a membrane that protects which organ in the human body?",
+      "ans": {
+        "value": "Heart",
+        "correct_entity": "option_a"
+      },
+      "options": [
+        "Heart",
+        "Lungs",
+        "Liver"
+      ],
+      "expl": [
+        "The pericardium is a protective membrane that surrounds and encloses the heart. It comprises two layers, the outer fibrous pericardium, and the inner serous pericardium. The pericardium provides support, prevents friction, and helps maintain the heart's position within the chest cavity."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "Heart"
+        ],
+        "option_b": [
+          "Lungs",
+          "lung"
+        ],
+        "option_c": [
+          "Liver"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": ""
+    },
+    {
+      "id": "science_B2_11",
+      "que": "Through which state of matter does sound travel the fastest?",
+      "ans": {
+        "value": "Solid",
+        "correct_entity": "option_a"
+      },
+      "options": [
+        "Solid",
+        "Liquid",
+        "Gas"
+      ],
+      "expl": [
+        "Sound travels the fastest through solids. This is because the particles in solids are closely packed, allowing sound waves to propagate quickly through the medium. Liquids and gases have particles that are more spread out, leading to slower sound transmission."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "Solid"
+        ],
+        "option_b": [
+          "Liquid"
+        ],
+        "option_c": [
+          "Gas"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": ""
+    },
+    {
+      "id": "science_B2_12",
+      "que": "What part of the eye gives it its color?",
+      "ans": {
+        "value": "Iris",
+        "correct_entity": "option_c"
+      },
+      "options": [
+        "Pupil",
+        "Cornea",
+        "Iris"
+      ],
+      "expl": [
+        "The iris, a circular structure surrounding the pupil, imparts eye color with pigments. It regulates pupil size, adjusting light entry. Eye color varies due to unique pigment combination, including melanin, resulting in shades of brown, blue, green, hazel, or gray."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "Pupil",
+          "pupils",
+          "people",
+          "poop in"
+        ],
+        "option_b": [
+          "Cornea",
+          "corner"
+        ],
+        "option_c": [
+          "Iris",
+          "aries"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": ""
+    },
+    {
+      "id": "science_B2_13",
+      "que": "What is the most abundant gas in our atmosphere?",
+      "ans": {
+        "value": "Nitrogen",
+        "correct_entity": "option_b"
+      },
+      "options": [
+        "Oxygen",
+        "Nitrogen",
+        "Carbon dioxide"
+      ],
+      "expl": [
+        "The air we breathe is mostly made of nitrogen, about 78%! Oxygen comes next, making up around 21%. Carbon dioxide is in tiny amounts, only about 0.04%. Nitrogen helps life, while oxygen is important for breathing."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "Oxygen"
+        ],
+        "option_b": [
+          "Nitrogen"
+        ],
+        "option_c": [
+          "Carbon dioxide",
+          "carbon",
+          "dioxide"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": ""
+    },
+    {
+      "id": "science_B2_14",
+      "que": "What is the most abundant metal on Earth?",
+      "ans": {
+        "value": "Aluminum",
+        "correct_entity": "option_b"
+      },
+      "options": [
+        "Iron",
+        "Aluminum",
+        "Copper"
+      ],
+      "expl": [
+        "Aluminum is the most abundant metal on Earth. It is highly reactive and found in the Earth's crust, comprising approximately 8% of its total weight. Its widespread occurrence and abundance make it an essential element in various industries, including construction, transportation, and packaging."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "Iron"
+        ],
+        "option_b": [
+          "Aluminum"
+        ],
+        "option_c": [
+          "Copper"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": ""
+    },
+    {
+      "id": "science_B2_15",
+      "que": "What element are diamonds mostly made from?",
+      "ans": {
+        "value": "Carbon",
+        "correct_entity": "option_a"
+      },
+      "options": [
+        "Carbon",
+        "Oxygen",
+        "Nitrogen"
+      ],
+      "expl": [
+        "Diamonds are mostly made from carbon. The carbon atoms in diamonds are arranged in a crystal lattice structure, giving them their characteristic hardness and brilliance. Other elements like oxygen and nitrogen are not predominant in diamonds and do not contribute significantly to their composition."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "Carbon",
+          "carbons"
+        ],
+        "option_b": [
+          "Oxygen"
+        ],
+        "option_c": [
+          "Nitrogen"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": ""
+    },
+    {
+      "id": "science_B2_16",
+      "que": "Which law of motion states that for every action, there is an equal and opposite reaction?",
+      "ans": {
+        "value": "Newton's Third Law",
+        "correct_entity": "option_c"
+      },
+      "options": [
+        "Newton's First Law",
+        "Newton's Second Law",
+        "Newton's Third Law"
+      ],
+      "expl": [
+        "Newton's Third Law states every action has an equal and opposite reaction. This means that there are always two forces that are the same. For example a rocket goes up by pushing gases down."
+      ],
+      "url": [],
+      "dynamic_entities": {
+        "option_a": [
+          "Newton's First Law",
+          "newton's",
+          "first",
+          "law",
+          "newtons first law"
+        ],
+        "option_b": [
+          "Newton's Second Law",
+          "newton's",
+          "second",
+          "law",
+          "newtons second law"
+        ],
+        "option_c": [
+          "Newton's Third Law",
+          "newton's",
+          "third",
+          "law",
+          "neutons third law"
+        ]
+      },
+      "isActive": true,
+      "imageUrl": "",
+      "audioUrl": ""
+    }
+  ],
+  "IMAGE_QUESTIONS": [],
+  "AUDIO_QUESTIONS": []
+}
